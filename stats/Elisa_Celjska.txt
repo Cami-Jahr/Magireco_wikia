@@ -1,0 +1,213 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Elisa Celjska
+| name_jp = エリザ
+| name_na = 
+| element = Flame
+| base_rarity = 4
+| max_rarity = 5
+| id = 4026
+| type = Balance
+| growth_type = ATTACK
+| school_jp = ―
+| voice_actor_jp = 沢城みゆき
+| designer_jp = 枡狐/蛙空
+| memoria = 
+| release_date = 2019-07-12
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 0
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 5947
+| 4star_attack_lv1 = 1953
+| 4star_defense_lv1 = 1917
+| 4star_hp_max = 21099
+| 4star_attack_max = 7183
+| 4star_defense_max = 6751
+| 4star_illustrator_jp = 枡狐/蛙空
+
+| 5star_hp_lv1 = 6749
+| 5star_attack_lv1 = 2217
+| 5star_defense_lv1 = 2175
+| 5star_hp_max = 26591
+| 5star_attack_max = 9067
+| 5star_defense_max = 8504
+| 5star_illustrator_jp = 枡狐/蛙空
+
+| se_hp_bonus = 6178
+| se_attack_bonus = 2798
+| se_defense_bonus = 3679
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 10
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [III]
+| Passive 1 name JP = ドッペル・アデプト[Ⅲ]
+| Passive 1 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [IV]
+| Passive 4 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 4 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
+
+| Passive 5 icon = Charge Disc Damage Up
+| Passive 5 name = Technical Adept [II]
+| Passive 5 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 5 effect = Charge Disc Damage Up [II / 10%]
+
+| Passive 6 icon = MP Gain Up
+| Passive 6 name = Morale Adept [III]
+| Passive 6 name JP = モラール・アデプト[Ⅲ]
+| Passive 6 effect = MP Gain Up [III / 10%]
+
+| Passive 7 icon = Accele MP Gain Up
+| Passive 7 name = Accele Adept [II]
+| Passive 7 name JP = アクセル・アデプト[Ⅱ]
+| Passive 7 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 8 icon = Blast Damage Up
+| Passive 8 name = Blast Adept [II]
+| Passive 8 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 8 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 9 icon = Chance to Chase
+| Passive 9 name = Chase Adept [VI]
+| Passive 9 name JP = チェイス・アデプト[Ⅵ]
+| Passive 9 effect = Chance to Chase [VI / 80%]
+
+| Passive 10 icon = Chance to Evade
+| Passive 10 name = Parry Adept [II]
+| Passive 10 name JP = パリィ・アデプト[Ⅱ]
+| Passive 10 effect = Chance to Evade [II / 15%]
+
+| Passive 11 icon = MP Gauge Increased On Battle Start
+| Passive 11 name = Fast Mana Up
+| Passive 11 name JP = ファスト・マナアップ
+| Passive 11 effect = MP Gauge Increased On Battle Start [15%]
+
+| Passive 12 icon = Chance to Burn on Attack
+| Passive 12 name = Burn Edge [III]
+| Passive 12 name JP = バーン・エッジ[Ⅲ]
+| Passive 12 effect = Chance to Burn on Attack [III / 20%] (2 Turns)
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Attack Up
+| Active 1 name = PenetrateAttack [V]
+| Active 1 name JP = ペネトレイトアタック[Ⅴ]
+| Active 1 effect = Attack Up [V / 25%] (Self / 1 Turn) & Chance to Defense Pierce [VII / 40%] (Self / 1 Turn)
+| Active 1 cooldown = 9
+
+| Connect name JP = 主役を譲って差し上げますわ
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Chance to Defense Pierce
+| Connect effect 1 = Chance to Defense Pierce
+| Connect 1 / 1 = -
+| Connect 1 / 2 = -
+| Connect 1 / 3 = -
+| Connect 1 / 4 = 100%
+| Connect 1 / 5 = 100%
+| Connect effect 2 = Remove Debuffs
+| Connect 2 / 1 = -
+| Connect 2 / 2 = -
+| Connect 2 / 3 = -
+| Connect 2 / 4 = 
+| Connect 2 / 5 = 
+| Connect effect 3 = Chance to Burn on Attack
+| Connect 3 / 1 = -
+| Connect 3 / 2 = -
+| Connect 3 / 3 = -
+| Connect 3 / 4 = 60%
+| Connect 3 / 5 = 100%
+
+| Magia name JP = デア・ドラッヘ・リントヴルム
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = -
+| Magia 1 / 2 = -
+| Magia 1 / 3 = -
+| Magia 1 / 4 = V / 680%
+| Magia 1 / 5 = VII / 720%
+| Magia effect 2 = Chance to Burn
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = -
+| Magia 2 / 2 = -
+| Magia 2 / 3 = -
+| Magia 2 / 4 = One / 3 Turns / V / 100%
+| Magia 2 / 5 = One / 3 Turns / VII / 100%
+| Magia effect 3 = Attack Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = -
+| Magia 3 / 3 = -
+| Magia 3 / 4 = Self / 1 Turn / V / 10%
+| Magia 3 / 5 = Self / 3 Turns / VII / 10%
+| Magia effect 4 = Defense Up
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = -
+| Magia 4 / 2 = -
+| Magia 4 / 3 = -
+| Magia 4 / 4 = Self / 1 Turn / V / 15%
+| Magia 4 / 5 = Self / 3 Turns / VII / 15%
+| Magia effect 5 = Chance to Provoke
+| Magia scaling 5 = 0%
+| Magia 5 / 1 = -
+| Magia 5 / 2 = -
+| Magia 5 / 3 = -
+| Magia 5 / 4 = Self / 1 Turn / V / 100%
+| Magia 5 / 5 = Self / 1 Turn / VII / 100%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 誇負のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、暴竜
+| Doppel Japanese Designer = 原案・監修：枡狐/蛙空
+| Doppel effect = Damage One Enemy [IX / 1760%] & Chance to Burn [IX / 100% / One / 3 Turns] & Attack Up [IX / 20% / Self / 3 Turns] & Defense Up [IX / 25% / Self / 3 Turns] & Chance to Provoke [IX / 100% / Self / 1 Turn]
+}}

@@ -1,0 +1,199 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Kaharu Yuuna
+| name_jp = 香春 ゆうな
+| name_na = 
+| element = Forest
+| base_rarity = 4
+| max_rarity = 5
+| id = 3050
+| type = Magia
+| growth_type = ATKDEF
+| school_jp = 聖リリアンナ学園
+| voice_actor_jp = 上坂すみれ
+| designer_jp = 柴乃櫂人
+| memoria = 
+| release_date = 2020-05-29
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 3
+| blast_vert_disks = 0
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 4712
+| 4star_attack_lv1 = 2088
+| 4star_defense_lv1 = 1496
+| 4star_hp_max = 16840
+| 4star_attack_max = 7625
+| 4star_defense_max = 5424
+| 4star_illustrator_jp = 柴乃櫂人
+
+| 5star_hp_lv1 = 5345
+| 5star_attack_lv1 = 2373
+| 5star_defense_lv1 = 1693
+| 5star_hp_max = 21219
+| 5star_attack_max = 9634
+| 5star_defense_max = 6822
+| 5star_illustrator_jp = 柴乃櫂人
+
+| se_hp_bonus = 5313
+| se_attack_bonus = 2062
+| se_defense_bonus = 2896
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Magia Damage Up
+| Passive 5 name = Magia Adept [II]
+| Passive 5 name JP = マギア・アデプト[Ⅱ]
+| Passive 5 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 6 icon = Magia Damage Up
+| Passive 6 name = Magia Adept [II]
+| Passive 6 name JP = マギア・アデプト[Ⅱ]
+| Passive 6 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 7 icon = Chance to Anti-Magia Seal
+| Passive 7 name = Anti-Magia Seal [VII]
+| Passive 7 name JP = アンチ・シールマギア[Ⅶ]
+| Passive 7 effect = Chance to Anti-Magia Seal [VII / 55%]
+
+| Passive 8 icon = Doppel Damage Up
+| Passive 8 name = Doppel Adept [I]
+| Passive 8 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 8 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 9 icon = MP Gain Up When Over 100 MP
+| Passive 9 name = MP Boost [II]
+| Passive 9 name JP = MPブースト[Ⅱ]
+| Passive 9 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 10 icon = Chance to Evade
+| Passive 10 name = Parry Adept [II]
+| Passive 10 name JP = パリィ・アデプト[Ⅱ]
+| Passive 10 effect = Chance to Evade [II / 15%]
+
+| Passive 11 icon = Magia Damage Up
+| Passive 11 name = Magia Adept [II]
+| Passive 11 name JP = マギア・アデプト[Ⅱ]
+| Passive 11 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 12 icon = Damage Up Versus Enemies Affected With Status Ailments
+| Passive 12 name = Addict Killer [II]
+| Passive 12 name JP = アディクトキラー[Ⅱ]
+| Passive 12 effect = Damage Up Versus Enemies Affected With Status Ailments [II / 20%]
+
+| Passive 13 icon = Chance to Fog on Attack
+| Passive 13 name = Fog Edge [II]
+| Passive 13 name JP = フォッグ・エッジ[Ⅱ]
+| Passive 13 effect = Chance to Fog on Attack [II / 15%] (3 Turns)
+
+| Active 1 icon = Status Ailment Resistance Down
+| Active 1 name = Resist Down [XXV]
+| Active 1 name JP = レジストダウン[XXV]
+| Active 1 effect = Status Ailment Resistance Down [XXV / 65%] (One / 1 Turn)
+| Active 1 cooldown = 8
+
+| Connect name JP = 救いの施しをあなたに
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Damage Up Versus Enemies Affected With Status Ailments
+| Connect effect 1 = Damage Up Versus Enemies Affected With Status Ailments
+| Connect 1 / 1 = -
+| Connect 1 / 2 = -
+| Connect 1 / 3 = -
+| Connect 1 / 4 = IX / 45%
+| Connect 1 / 5 = XI / 50%
+| Connect effect 2 = Attack Up
+| Connect 2 / 1 = -
+| Connect 2 / 2 = -
+| Connect 2 / 3 = -
+| Connect 2 / 4 = VII / 35%
+| Connect 2 / 5 = IX / 40%
+| Connect effect 3 = Status Ailment Resistance Up
+| Connect 3 / 1 = -
+| Connect 3 / 2 = -
+| Connect 3 / 3 = -
+| Connect 3 / 4 = VII / 50%
+| Connect 3 / 5 = IX / 60%
+
+| Magia name JP = アルマ・デロ・ショッコ
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = -
+| Magia 1 / 2 = -
+| Magia 1 / 3 = -
+| Magia 1 / 4 = VI / 560%
+| Magia 1 / 5 = VIII / 600%
+| Magia effect 2 = Status Ailment Resistance Down
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = -
+| Magia 2 / 2 = -
+| Magia 2 / 3 = -
+| Magia 2 / 4 = One / 2 Turns / VI / 25%
+| Magia 2 / 5 = One / 2 Turns / VIII / 30%
+| Magia effect 3 = Chance to Evade
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = -
+| Magia 3 / 3 = -
+| Magia 3 / 4 = Self / 1 Turn / VI / 100%
+| Magia 3 / 5 = Self / 1 Turn / VIII / 100%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 不満のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、コンポート
+| Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage One Enemy [X / 1496%] & Status Ailment Resistance Down [X / 45% / One / 2 Turns] & Chance to Evade [X / 100% / Self / 1 Turn]
+}}

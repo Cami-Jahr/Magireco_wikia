@@ -1,0 +1,205 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Alina Gray
+| name_jp = アリナ・グレイ
+| name_na = 
+| element = Forest
+| base_rarity = 4
+| max_rarity = 5
+| id = 1008
+| type = Attack
+| growth_type = ATKHP
+| school_jp = 栄総合学園
+| voice_actor_jp = 竹達彩奈
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2018-03-02
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 4881
+| 4star_attack_lv1 = 2139
+| 4star_defense_lv1 = 1580
+| 4star_hp_max = 17825
+| 4star_attack_max = 7756
+| 4star_defense_max = 5646
+| 4star_illustrator_jp = 蒼樹うめ
+
+| 5star_hp_lv1 = 5510
+| 5star_attack_lv1 = 2428
+| 5star_defense_lv1 = 1790
+| 5star_hp_max = 22370
+| 5star_attack_max = 9784
+| 5star_defense_max = 7106
+| 5star_illustrator_jp = ササギコウシ
+
+| se_hp_bonus = 7981
+| se_attack_bonus = 2753
+| se_defense_bonus = 1991
+
+| se accele bonus = 6
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Accele MP Gain Up
+| Passive 5 name = Accele Adept [III]
+| Passive 5 name JP = アクセル・アデプト[Ⅲ]
+| Passive 5 effect = Accele MP Gain Up [III / 15%]
+
+| Passive 6 icon = Chance to Critical Hit
+| Passive 6 name = Critical Adept [II]
+| Passive 6 name JP = クリティカル・アデプト[Ⅱ]
+| Passive 6 effect = Chance to Critical Hit [II / 15%]
+
+| Passive 7 icon = Chance to Evade
+| Passive 7 name = Parry Adept [II]
+| Passive 7 name JP = パリィ・アデプト[Ⅱ]
+| Passive 7 effect = Chance to Evade [II / 15%]
+
+| Passive 8 icon = Magia Damage Up
+| Passive 8 name = Magia Adept [II]
+| Passive 8 name JP = マギア・アデプト[Ⅱ]
+| Passive 8 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 9 icon = Chance to Anti-Evade
+| Passive 9 name = Aiming Adept [III]
+| Passive 9 name JP = エイミング・アデプト[Ⅲ]
+| Passive 9 effect = Chance to Anti-Evade [III / 35%]
+
+| Passive 10 icon = Blast Damage Up
+| Passive 10 name = Blast Adept [II]
+| Passive 10 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 10 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 11 icon = Chance to Poison on Attack
+| Passive 11 name = Poison Edge [II]
+| Passive 11 name JP = ポイズン・エッジ[Ⅱ]
+| Passive 11 effect = Chance to Poison on Attack [II / 15%] (3 Turns)
+
+| Passive 12 icon = Blast Damage Up
+| Passive 12 name = Blast Adept [II]
+| Passive 12 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 12 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Chance to Poison
+| Active 1 name = Venom
+| Active 1 name JP = ヴェノム
+| Active 1 effect = Chance to Poison [100%] (One / 1 Turn)
+| Active 1 cooldown = 10
+
+| Connect name JP = アリナの作品に溶けて
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = -
+| Connect 1 / 2 = -
+| Connect 1 / 3 = -
+| Connect 1 / 4 = VII / 35%
+| Connect 1 / 5 = VIII / 37.5%
+| Connect effect 2 = Chance to Dazzle on Attack
+| Connect 2 / 1 = -
+| Connect 2 / 2 = -
+| Connect 2 / 3 = -
+| Connect 2 / 4 = VII / 100%
+| Connect 2 / 5 = VIII / 100%
+| Connect effect 3 = Chance to Poison on Attack
+| Connect 3 / 1 = -
+| Connect 3 / 2 = -
+| Connect 3 / 3 = -
+| Connect 3 / 4 = VII / 100%
+| Connect 3 / 5 = VIII / 100%
+| Connect effect 4 = Chance to Stun on Attack
+| Connect 4 / 1 = -
+| Connect 4 / 2 = -
+| Connect 4 / 3 = -
+| Connect 4 / 4 = -
+| Connect 4 / 5 = VIII / 35%
+
+| Magia name JP = Nine Phases
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = -
+| Magia 1 / 2 = -
+| Magia 1 / 3 = -
+| Magia 1 / 4 = V / 340%
+| Magia 1 / 5 = VII / 360%
+| Magia effect 2 = Attack Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = -
+| Magia 2 / 2 = -
+| Magia 2 / 3 = -
+| Magia 2 / 4 = Self / 2 Turns / V / 25%
+| Magia 2 / 5 = Self / 2 Turns / VII / 35%
+| Magia effect 3 = Chance to Critical Hit
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = -
+| Magia 3 / 3 = -
+| Magia 3 / 4 = Self / 2 Turns / V / 40%
+| Magia 3 / 5 = Self / 2 Turns / VII / 70%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 熱病のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、チューブ
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [IX / 902%] & Chance to Poison [IX / 100% / All / 3 Turns] & Attack Up [IX / 55% / Self / 2 Turns] & Chance to Critical Hit [IX / 100% / Self / 2 Turns]
+}}

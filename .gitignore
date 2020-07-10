@@ -1,0 +1,8 @@
+credentials.py
+__pycache__
+.idea
+debug.log
+download_tracking
+magideco.c
+magideco_cow.exe
+picture_downloader.py

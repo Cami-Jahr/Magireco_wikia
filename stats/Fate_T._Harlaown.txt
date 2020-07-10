@@ -1,0 +1,199 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Fate T. Harlaown
+| name_jp = フェイト
+| name_na = 
+| element = Light
+| base_rarity = 4
+| max_rarity = 5
+| id = 4052
+| type = Attack
+| growth_type = DEFHP
+| school_jp = 私立聖祥大附属小学校
+| voice_actor_jp = 水樹奈々
+| designer_jp = セブン・アークス・ピクチャーズ
+| memoria = 
+| release_date = 2019-06-24
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 1
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 4950
+| 4star_attack_lv1 = 2219
+| 4star_defense_lv1 = 1577
+| 4star_hp_max = 17948
+| 4star_attack_max = 7930
+| 4star_defense_max = 5759
+| 4star_illustrator_jp = -
+
+| 5star_hp_lv1 = 5607
+| 5star_attack_lv1 = 2526
+| 5star_defense_lv1 = 1787
+| 5star_hp_max = 22596
+| 5star_attack_max = 10028
+| 5star_defense_max = 7255
+| 5star_illustrator_jp = -
+
+| se_hp_bonus = 8202
+| se_attack_bonus = 2539
+| se_defense_bonus = 1913
+
+| se accele bonus = 4
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Charge Disc Damage Up
+| Passive 3 name = Technical Adept [II]
+| Passive 3 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 3 effect = Charge Disc Damage Up [II / 10%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Chance to Evade
+| Passive 5 name = Parry Adept [II]
+| Passive 5 name JP = パリィ・アデプト[Ⅱ]
+| Passive 5 effect = Chance to Evade [II / 15%]
+
+| Passive 6 icon = MP Gain Up
+| Passive 6 name = Morale Adept [III]
+| Passive 6 name JP = モラール・アデプト[Ⅲ]
+| Passive 6 effect = MP Gain Up [III / 10%]
+
+| Passive 7 icon = MP Gain Up When Over 100 MP
+| Passive 7 name = MP Boost [II]
+| Passive 7 name JP = MPブースト[Ⅱ]
+| Passive 7 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 8 icon = Charge Disc Damage Up
+| Passive 8 name = Technical Adept [II]
+| Passive 8 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 8 effect = Charge Disc Damage Up [II / 10%]
+
+| Passive 9 icon = Chance to Critical Hit
+| Passive 9 name = Critical Adept [II]
+| Passive 9 name JP = クリティカル・アデプト[Ⅱ]
+| Passive 9 effect = Chance to Critical Hit [II / 15%]
+
+| Passive 10 icon = Blast Damage Up
+| Passive 10 name = Blast Adept [II]
+| Passive 10 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 10 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 11 icon = Accele MP Gain Up
+| Passive 11 name = Accele Adept [V]
+| Passive 11 name JP = アクセル・アデプト[Ⅴ]
+| Passive 11 effect = Accele MP Gain Up [V / 20%]
+
+| Passive 12 icon = Chance to Anti-Evade
+| Passive 12 name = Aiming Adept [III]
+| Passive 12 name JP = エイミング・アデプト[Ⅲ]
+| Passive 12 effect = Chance to Anti-Evade [III / 35%]
+
+| Passive 13 icon = Ignore Damage Cut
+| Passive 13 name = Estock Adept [IV]
+| Passive 13 name JP = エストック・アデプト[Ⅳ]
+| Passive 13 effect = Ignore Damage Cut [IV / 45%]
+
+| Active 1 icon = Chance to Critical Hit
+| Active 1 name = Whirlwind [X]
+| Active 1 name JP = ワールウィンド[Ⅹ]
+| Active 1 effect = Chance to Critical Hit [X / 55%] (Self / 1 Turn) & Chance to Evade [X / 55%] (Self / 1 Turn)
+| Active 1 cooldown = 7
+
+| Connect name JP = …だけど、ふたりでなら
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Up
+| Connect 1 / 1 = -
+| Connect 1 / 2 = -
+| Connect 1 / 3 = -
+| Connect 1 / 4 = VII / 35%
+| Connect 1 / 5 = IX / 40%
+| Connect effect 2 = Chance to Critical Hit
+| Connect 2 / 1 = -
+| Connect 2 / 2 = -
+| Connect 2 / 3 = -
+| Connect 2 / 4 = VII / 60%
+| Connect 2 / 5 = IX / 70%
+| Connect effect 3 = Chance to Anti-Evade
+| Connect 3 / 1 = -
+| Connect 3 / 2 = -
+| Connect 3 / 3 = -
+| Connect 3 / 4 = VII / 40%
+| Connect 3 / 5 = IX / 55%
+
+| Magia name JP = ブリッツストライド
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = -
+| Magia 1 / 2 = -
+| Magia 1 / 3 = -
+| Magia 1 / 4 = V / 315%
+| Magia 1 / 5 = VII / 335%
+| Magia effect 2 = Blast Damage Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = -
+| Magia 2 / 2 = -
+| Magia 2 / 3 = -
+| Magia 2 / 4 = Self / 3 Turns / V / 35%
+| Magia 2 / 5 = Self / 3 Turns / VII / 45%
+| Magia effect 3 = Chance to Evade
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = -
+| Magia 3 / 3 = -
+| Magia 3 / 4 = -
+| Magia 3 / 5 = Self / 1 Turn / VII / 100%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = ホーネットジャベリン
+| Doppel Shape = 
+| Doppel Japanese Shape = ー
+| Doppel Japanese Designer = ー
+| Doppel effect = Damage All Enemies [IX / 869%] & Blast Damage Up [IX / 65% / Self / 3 Turns] & Chance to Evade [IX / 100% / Self / 1 Turn]
+}}

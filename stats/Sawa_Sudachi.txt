@@ -1,0 +1,214 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Sawa Sudachi
+| name_jp = 佐和 月出里
+| name_na = 
+| element = Void
+| base_rarity = 4
+| max_rarity = 5
+| id = 1039
+| type = Defense
+| growth_type = DEFHP
+| school_jp = ―
+| voice_actor_jp = 汐入あすか
+| designer_jp = 渡辺明夫
+| memoria = 
+| release_date = 2020-07-06
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 0
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 6876
+| 4star_attack_lv1 = 1609
+| 4star_defense_lv1 = 2286
+| 4star_hp_max = 24932
+| 4star_attack_max = 5750
+| 4star_defense_max = 8348
+| 4star_illustrator_jp = 渡辺明夫
+
+| 5star_hp_lv1 = 7821
+| 5star_attack_lv1 = 1820
+| 5star_defense_lv1 = 2605
+| 5star_hp_max = 31518
+| 5star_attack_max = 7225
+| 5star_defense_max = 10576
+| 5star_illustrator_jp = 渡辺明夫
+
+| se_hp_bonus = 8542
+| se_attack_bonus = 1802
+| se_defense_bonus = 3951
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 10
+
+| Passive 1 icon = MP Gain Up
+| Passive 1 name = Morale Adept [II]
+| Passive 1 name JP = モラール・アデプト[Ⅱ]
+| Passive 1 effect = MP Gain Up [II / 7.5%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [I]
+| Passive 3 name JP = MPブースト[Ⅰ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [I / 15%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Blast Damage Up
+| Passive 5 name = Blast Adept [II]
+| Passive 5 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 5 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 6 icon = Charged Attack Damage Up
+| Passive 6 name = Charge Adept [II]
+| Passive 6 name JP = チャージ・アデプト[Ⅱ]
+| Passive 6 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 7 icon = MP Gain Up
+| Passive 7 name = Morale Adept [III]
+| Passive 7 name JP = モラール・アデプト[Ⅲ]
+| Passive 7 effect = MP Gain Up [III / 10%]
+
+| Passive 8 icon = MP Up When Damaged
+| Passive 8 name = Endor Adept [IV]
+| Passive 8 name JP = エンドア・アデプト[Ⅳ]
+| Passive 8 effect = MP Up When Damaged [IV / 4%]
+
+| Passive 9 icon = MP Gain Up
+| Passive 9 name = Morale Adept [III]
+| Passive 9 name JP = モラール・アデプト[Ⅲ]
+| Passive 9 effect = MP Gain Up [III / 10%]
+
+| Passive 10 icon = Charge Disc Damage Up
+| Passive 10 name = Technical Adept [II]
+| Passive 10 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 10 effect = Charge Disc Damage Up [II / 10%]
+
+| Passive 11 icon = MP Up When Damaged
+| Passive 11 name = Endor Adept [IV]
+| Passive 11 name JP = エンドア・アデプト[Ⅳ]
+| Passive 11 effect = MP Up When Damaged [IV / 4%]
+
+| Passive 12 icon = MP Gauge Increased On Battle Start
+| Passive 12 name = Fast Mana Up
+| Passive 12 name JP = ファスト・マナアップ
+| Passive 12 effect = MP Gauge Increased On Battle Start [25%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Chance to Provoke
+| Active 1 name = Shield Appeal [VIII]
+| Active 1 name JP = シールドアピール[Ⅷ]
+| Active 1 effect = Chance to Provoke [VIII / 100%] (Self / 1 Turn) & Damage Cut [VIII / 40%] (Self / 1 Turn)
+| Active 1 cooldown = 8
+
+| Connect name JP = ふむふむんむふむむむふんむ
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = -
+| Connect 1 / 2 = -
+| Connect 1 / 3 = -
+| Connect 1 / 4 = VII / 35%
+| Connect 1 / 5 = IX / 40%
+| Connect effect 2 = Damage Cut
+| Connect 2 / 1 = -
+| Connect 2 / 2 = -
+| Connect 2 / 3 = -
+| Connect 2 / 4 = VII / 60%
+| Connect 2 / 5 = IX / 70%
+
+| Magia name JP = 奇天烈布悲劇
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 5%
+| Magia 1 / 1 = -
+| Magia 1 / 2 = -
+| Magia 1 / 3 = -
+| Magia 1 / 4 = I / 100%
+| Magia 1 / 5 = I / 110%
+| Magia effect 2 = Attack Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = -
+| Magia 2 / 2 = -
+| Magia 2 / 3 = -
+| Magia 2 / 4 = All / 3 Turns / I / 17.5%
+| Magia 2 / 5 = All / 3 Turns / I / 20%
+| Magia effect 3 = Blast Damage Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = -
+| Magia 3 / 3 = -
+| Magia 3 / 4 = All / 3 Turns / I / 15%
+| Magia 3 / 5 = All / 3 Turns / I / 25%
+| Magia effect 4 = Charged Attack Damage Up
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = -
+| Magia 4 / 2 = -
+| Magia 4 / 3 = -
+| Magia 4 / 4 = All / 3 Turns / I / 15%
+| Magia 4 / 5 = All / 3 Turns / I / 20%
+| Magia effect 5 = Accele MP Gain Up
+| Magia scaling 5 = 2.5%
+| Magia 5 / 1 = -
+| Magia 5 / 2 = -
+| Magia 5 / 3 = -
+| Magia 5 / 4 = All / 3 Turns / I / 12.5%
+| Magia 5 / 5 = All / 3 Turns / I / 17.5%
+| Magia effect 6 = Chance to Provoke
+| Magia scaling 6 = 0%
+| Magia 6 / 1 = -
+| Magia 6 / 2 = -
+| Magia 6 / 3 = -
+| Magia 6 / 4 = Self / 1 Turn / I / 100%
+| Magia 6 / 5 = Self / 1 Turn / I / 100%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 放浪のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、クッキー
+| Doppel Japanese Designer = 原案・監修：渡辺明夫
+| Doppel effect = Damage All Enemies [I / 308%] & Attack Up [I / 35% / All / 3 Turns] & Blast Damage Up [I / 45% / All / 3 Turns] & Charged Attack Damage Up [I / 35% / All / 3 Turns] & Accele MP Gain Up [I / 32.5% / All / 3 Turns] & Chance to Provoke [I / 100% / Self / 1 Turn]
+}}

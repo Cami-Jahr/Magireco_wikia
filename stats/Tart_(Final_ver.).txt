@@ -1,0 +1,199 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Tart (Final ver.)
+| name_jp = タルト (ver.Final)
+| name_na = 
+| element = Light
+| base_rarity = 4
+| max_rarity = 5
+| id = 4028
+| type = Exceed
+| growth_type = ATTACK
+| school_jp = ―
+| voice_actor_jp = 堀江由衣
+| designer_jp = 枡狐/蛙空
+| memoria = 
+| release_date = 2020-06-19
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 1
+| blast_vert_disks = 2
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 6290
+| 4star_attack_lv1 = 1951
+| 4star_defense_lv1 = 2047
+| 4star_hp_max = 22316
+| 4star_attack_max = 7175
+| 4star_defense_max = 7209
+| 4star_illustrator_jp = 枡狐/蛙空
+
+| 5star_hp_lv1 = 7139
+| 5star_attack_lv1 = 2214
+| 5star_defense_lv1 = 2323
+| 5star_hp_max = 28127
+| 5star_attack_max = 9055
+| 5star_defense_max = 9082
+| 5star_illustrator_jp = 枡狐/蛙空
+
+| se_hp_bonus = 7140
+| se_attack_bonus = 2387
+| se_defense_bonus = 3479
+
+| se accele bonus = 4
+| se blast bonus = 6
+| se charge bonus = 8
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [I]
+| Passive 1 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 1 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [I]
+| Passive 3 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 4 icon = MP Gain Up When Over 100 MP
+| Passive 4 name = MP Boost [II]
+| Passive 4 name JP = MPブースト[Ⅱ]
+| Passive 4 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 5 icon = Blast MP Gain Up
+| Passive 5 name = Blast Salutation [II]
+| Passive 5 name JP = ブラストサルテーション[Ⅱ]
+| Passive 5 effect = Blast MP Gain Up [II / 2%]
+
+| Passive 6 icon = Chance to Anti-Evade
+| Passive 6 name = Aiming Adept [III]
+| Passive 6 name JP = エイミング・アデプト[Ⅲ]
+| Passive 6 effect = Chance to Anti-Evade [III / 35%]
+
+| Passive 7 icon = Regenerate HP
+| Passive 7 name = Regeneration Adept [III]
+| Passive 7 name JP = リジェネレイト・アデプト[Ⅲ]
+| Passive 7 effect = Regenerate HP [III / 4%]
+
+| Passive 8 icon = Damage Cut
+| Passive 8 name = Shield Adept [II]
+| Passive 8 name JP = シールド・アデプト[Ⅱ]
+| Passive 8 effect = Damage Cut [II / 10%]
+
+| Passive 9 icon = Accele MP Gain Up
+| Passive 9 name = Accele Adept [III]
+| Passive 9 name JP = アクセル・アデプト[Ⅲ]
+| Passive 9 effect = Accele MP Gain Up [III / 15%]
+
+| Passive 10 icon = Charged Attack Damage Up
+| Passive 10 name = Charge Adept [II]
+| Passive 10 name JP = チャージ・アデプト[Ⅱ]
+| Passive 10 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 11 icon = Blast Damage Up
+| Passive 11 name = Blast Adept [III]
+| Passive 11 name JP = ブラスト・アデプト[Ⅲ]
+| Passive 11 effect = Blast Damage Up [III / 20%]
+
+| Passive 12 icon = Blast MP Gain Up
+| Passive 12 name = Blast Salutation [III]
+| Passive 12 name JP = ブラストサルテーション[Ⅲ]
+| Passive 12 effect = Blast MP Gain Up [III / 3%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Magia Damage Up
+| Active 1 name = Magia Up Circle [II]
+| Active 1 name JP = マギアアップ・サークル[Ⅱ]
+| Active 1 effect = Magia Damage Up [II / 7.5%] (All / 1 Turn)
+| Active 1 cooldown = 12
+
+| Connect name JP = あなたに光あれ
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = -
+| Connect 1 / 2 = -
+| Connect 1 / 3 = -
+| Connect 1 / 4 = VII / 35%
+| Connect 1 / 5 = IX / 40%
+| Connect effect 2 = Defense Up
+| Connect 2 / 1 = -
+| Connect 2 / 2 = -
+| Connect 2 / 3 = -
+| Connect 2 / 4 = VII / 90%
+| Connect 2 / 5 = IX / 105%
+| Connect effect 3 = Chance to Critical Hit
+| Connect 3 / 1 = -
+| Connect 3 / 2 = -
+| Connect 3 / 3 = -
+| Connect 3 / 4 = VII / 60%
+| Connect 3 / 5 = IX / 70%
+
+| Magia name JP = 完璧なるイレギュラー
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = -
+| Magia 1 / 2 = -
+| Magia 1 / 3 = -
+| Magia 1 / 4 = V / 315%
+| Magia 1 / 5 = VII / 335%
+| Magia effect 2 = Blast MP Gain Up
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = -
+| Magia 2 / 2 = -
+| Magia 2 / 3 = -
+| Magia 2 / 4 = Self / 2 Turns / V / 2%
+| Magia 2 / 5 = Self / 2 Turns / VII / 3%
+| Magia effect 3 = MP Restore
+| Magia scaling 3 = 1%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = -
+| Magia 3 / 3 = -
+| Magia 3 / 4 = V / 18%
+| Magia 3 / 5 = VII / 25%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = ラ・ポルトゥ・ドゥ・パラディ
+| Doppel Shape = 
+| Doppel Japanese Shape = ー
+| Doppel Japanese Designer = ………
+| Doppel effect = Damage All Enemies [IX / 869%] & Blast MP Gain Up [IX / 5% / Self / 2 Turns] & MP Restore [IX / 36.5%]
+}}
