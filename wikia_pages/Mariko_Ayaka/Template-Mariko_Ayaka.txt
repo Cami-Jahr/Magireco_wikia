@@ -1,0 +1,178 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Mariko Ayaka
+| name_jp = 毬子 あやか
+| name_na = 
+| element = Dark
+| base_rarity = 3
+| max_rarity = 4
+| id = 3019
+| type = Defense
+| growth_type = BALANCE
+| school_jp = 中央学園
+| voice_actor_jp = 小澤亜李
+| designer_jp = あｆろ
+| memoria = 
+| release_date = 2017-08-22
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 5058
+| 3star_attack_lv1 = 1270
+| 3star_defense_lv1 = 1631
+| 3star_hp_max = 17197
+| 3star_attack_max = 4318
+| 3star_defense_max = 5545
+| 3star_illustrator_jp = あｆろ
+
+| 4star_hp_lv1 = 6211
+| 4star_attack_lv1 = 1560
+| 4star_defense_lv1 = 2003
+| 4star_hp_max = 22359
+| 4star_attack_max = 5616
+| 4star_defense_max = 7210
+| 4star_illustrator_jp = あｆろ
+
+| 5star_hp_lv1 = 
+| 5star_attack_lv1 = 
+| 5star_defense_lv1 = 
+| 5star_hp_max = 
+| 5star_attack_max = 
+| 5star_defense_max = 
+| 5star_illustrator_jp = 
+
+| se_hp_bonus = 5183
+| se_attack_bonus = 1242
+| se_defense_bonus = 2986
+
+| se accele bonus = 6
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [IV]
+| Passive 3 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 3 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
+
+| Passive 4 icon = Endure
+| Passive 4 name = Fortitude Adept
+| Passive 4 name JP = フォティチュード・アデプト
+| Passive 4 effect = Endure [100%]
+
+| Passive 5 icon = Doppel Damage Up
+| Passive 5 name = Doppel Adept [IV]
+| Passive 5 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 5 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
+
+| Passive 6 icon = Chance to Provoke
+| Passive 6 name = Provoke Adept [II]
+| Passive 6 name JP = プロヴォーク・アデプト[Ⅱ]
+| Passive 6 effect = Chance to Provoke [II / 15%]
+
+| Passive 7 icon = Damage Cut
+| Passive 7 name = Shield Adept [II]
+| Passive 7 name JP = シールド・アデプト[Ⅱ]
+| Passive 7 effect = Damage Cut [II / 10%]
+
+| Passive 8 icon = Magia Damage Up
+| Passive 8 name = Magia Adept [III]
+| Passive 8 name JP = マギア・アデプト[Ⅲ]
+| Passive 8 effect = Magia Damage Up [III / 10%]
+
+| Passive 9 icon = Chance to Critical Hit
+| Passive 9 name = Critical Adept [II]
+| Passive 9 name JP = クリティカル・アデプト[Ⅱ]
+| Passive 9 effect = Chance to Critical Hit [II / 15%]
+
+| Passive 10 icon = Attack Up
+| Passive 10 name = Attack Adept [II]
+| Passive 10 name JP = アタック・アデプト[Ⅱ]
+| Passive 10 effect = Attack Up [II / 10%]
+
+| Passive 11 icon = Blast Damage Up
+| Passive 11 name = Blast Adept [II]
+| Passive 11 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 11 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 12 icon = Blast Damage Cut
+| Passive 12 name = BlastShield [III]
+| Passive 12 name JP = ブラストシールド[Ⅲ]
+| Passive 12 effect = Blast Damage Cut [III / 15%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Endure
+| Active 1 name = Indomitable [XV]
+| Active 1 name JP = インドミタブル[XV]
+| Active 1 effect = Endure [100%] (Self / 1 Turn) & Regenerate HP [XV / 16%] (Self / 1 Turn)
+| Active 1 cooldown = 7
+
+| Connect name JP = 任せて！これは鉄板だから！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Endure
+| Connect effect 1 = Endure
+| Connect 1 / 1 = 100%
+| Connect 1 / 2 = 100%
+| Connect effect 2 = Chance to Critical Hit
+| Connect 2 / 1 = V / 50%
+| Connect 2 / 2 = VII / 60%
+
+| Magia name JP = ファン・ファン・ファン
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = III / 640%
+| Magia 1 / 2 = V / 680%
+| Magia effect 2 = Defense Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / III / 33.8%
+| Magia 2 / 2 = All / 3 Turns / V / 41.3%
+| Magia effect 3 = Remove Debuffs
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = All / 
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 
+| Doppel Shape = 
+| Doppel Japanese Shape = 
+| Doppel Japanese Designer = 
+| Doppel effect = 
+}}

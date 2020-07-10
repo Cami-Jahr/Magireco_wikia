@@ -1,0 +1,111 @@
+﻿{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}
+|name = Chun Meiyui
+|Magia Item 2/1 = Aqua Book
+|Magia quantity 2/1 = 4
+|Magia Item 2/2 = Feather of a Swallow's Tail
+|Magia quantity 2/2 = 4
+|Magia Item 2/3 = Aqua Book +
+|Magia quantity 2/3 = 2
+|Magia Item 2/4 = Ema's Mizuhiki
+|Magia quantity 2/4 = 2
+
+|Magia Item 5/1 = Aqua Book
+|Magia quantity 5/1 = 10
+|Magia Item 5/2 = Mirror Invitation Letter
+|Magia quantity 5/2 = 10
+|Magia Item 5/3 = Aqua Book +
+|Magia quantity 5/3 = 8
+|Magia Item 5/4 = Machibito Horse's Wheel
+|Magia quantity 5/4 = 4
+|Magia Item 5/5 = Aqua Book ++
+|Magia quantity 5/5 = 6
+|Magia Item 5/6 = Rooftop Balloons
+|Magia quantity 5/6 = 6
+
+|Magia Item 3/1 = Aqua Book
+|Magia quantity 3/1 = 6
+|Magia Item 3/2 = Standing Ear Wrapper
+|Magia quantity 3/2 = 6
+|Magia Item 3/3 = Aqua Book +
+|Magia quantity 3/3 = 4
+|Magia Item 3/4 = Ema's Mizuhiki
+|Magia quantity 3/4 = 4
+|Magia Item 3/5 = Aqua Book ++
+|Magia quantity 3/5 = 2
+|Magia Item 3/6 = Machibito Horse's Wheel
+|Magia quantity 3/6 = 2
+
+|Magia Item 4/1 = Aqua Book
+|Magia quantity 4/1 = 8
+|Magia Item 4/2 = Rooftop Key
+|Magia quantity 4/2 = 8
+|Magia Item 4/3 = Aqua Book +
+|Magia quantity 4/3 = 6
+|Magia Item 4/4 = Ema's Mizuhiki
+|Magia quantity 4/4 = 6
+|Magia Item 4/5 = Aqua Book ++
+|Magia quantity 4/5 = 4
+|Magia Item 4/6 = Machibito Horse's Wheel
+|Magia quantity 4/6 = 4
+
+
+|Item12 = Aqua Orb
+|Quantity12 = 9
+|BuffATK1 = 3
+|Item13 = Aqua Orb ++
+|Quantity13 = 4
+|BuffDEF1 = 7
+|Item11 = Aqua Orb +
+|Quantity11 = 7
+|BuffHP1 = 5
+|Item16 = Rooftop Key
+|Quantity16 = 8
+|BuffAccele1 = 3
+|Item14 = Sheep Horn
+|Quantity14 = 3
+|BuffBlast1 = 3
+|Item15 = Rainbow Orb
+|Quantity15 = 2
+|BuffCharge1 = 7
+
+|Item22 = Aqua Orb +
+|Quantity22 = 12
+|BuffATK2 = 4
+|Item23 = Rainbow Orb
+|Quantity23 = 3
+|BuffDEF2 = 8
+|Item21 = Aqua Orb ++
+|Quantity21 = 6
+|BuffHP2 = 6
+|Item26 = Mirror Invitation Letter
+|Quantity26 = 12
+|BuffAccele2 = 4
+|Item24 = Ema's Mizuhiki
+|Quantity24 = 8
+|BuffBlast2 = 4
+|Item25 = Rooftop Balloons
+|Quantity25 = 6
+|BuffCharge2 = 8
+
+|Item32 = Aqua Orb +
+|Quantity32 = 15
+|BuffATK3 = 5
+|Item33 = Rainbow Orb
+|Quantity33 = 3
+|BuffDEF3 = 9
+|Item31 = Aqua Orb ++
+|Quantity31 = 10
+|BuffHP3 = 7
+|Item36 = Mascot's Mane
+|Quantity36 = 15
+|BuffAccele3 = 5
+|Item34 = Bear's Bolt
+|Quantity34 = 10
+|BuffBlast3 = 5
+|Item35 = Sandbox Shovels
+|Quantity35 = 8
+|BuffCharge3 = 9
+
+|QuantityCC1 = 300000
+|QuantityCC2 = 1000000
+}}

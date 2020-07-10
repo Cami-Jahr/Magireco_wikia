@@ -1,0 +1,7 @@
+﻿{{Rumor_of_the_Ten-Thousand-Year_Sakura|Abilities}}
+
+{{Description
+| en = 
+| na = 
+| jp = ー
+}}

@@ -1,0 +1,95 @@
+﻿{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}
+|name = Sakura Kyouko
+|Magia Item 2/1 = Flame Book
+|Magia quantity 2/1 = 5
+|Magia Item 2/2 = Rooftop Key
+|Magia quantity 2/2 = 5
+|Magia Item 2/3 = Flame Book +
+|Magia quantity 2/3 = 3
+|Magia Item 2/4 = Owl Bucket
+|Magia quantity 2/4 = 3
+|Magia Item 2/5 = Flame Book ++
+|Magia quantity 2/5 = 1
+|Magia Item 2/6 = Rhyton Ribbon
+|Magia quantity 2/6 = 1
+
+|Magia Item 5/1 = Flame Book
+|Magia quantity 5/1 = 11
+|Magia Item 5/2 = Blowing Horn
+|Magia quantity 5/2 = 11
+|Magia Item 5/3 = Flame Book +
+|Magia quantity 5/3 = 9
+|Magia Item 5/4 = Monument of the Stairs
+|Magia quantity 5/4 = 5
+|Magia Item 5/5 = Flame Book ++
+|Magia quantity 5/5 = 7
+|Magia Item 5/6 = Sheep Horn
+|Magia quantity 5/6 = 7
+
+|Magia Item 3/1 = Flame Book
+|Magia quantity 3/1 = 7
+|Magia Item 3/2 = Feather of a Swallow's Tail
+|Magia quantity 3/2 = 7
+|Magia Item 3/3 = Flame Book +
+|Magia quantity 3/3 = 5
+|Magia Item 3/4 = Ema's Mizuhiki
+|Magia quantity 3/4 = 5
+|Magia Item 3/5 = Flame Book ++
+|Magia quantity 3/5 = 3
+|Magia Item 3/6 = Rhyton Ribbon
+|Magia quantity 3/6 = 3
+
+|Magia Item 4/1 = Flame Book
+|Magia quantity 4/1 = 9
+|Magia Item 4/2 = Standing Ear Wrapper
+|Magia quantity 4/2 = 9
+|Magia Item 4/3 = Flame Book +
+|Magia quantity 4/3 = 7
+|Magia Item 4/4 = Chain of Padlock
+|Magia quantity 4/4 = 7
+|Magia Item 4/5 = Flame Book ++
+|Magia quantity 4/5 = 5
+|Magia Item 4/6 = Standing Ear Cotton
+|Magia quantity 4/6 = 5
+
+
+|Item12 = Rainbow Orb
+|Quantity12 = 3
+|BuffATK1 = 7
+|Item13 = Flame Orb ++
+|Quantity13 = 6
+|BuffDEF1 = 5
+|Item11 = Flame Orb +
+|Quantity11 = 12
+|BuffHP1 = 6
+|Item16 = Sandbox Shovels
+|Quantity16 = 6
+|BuffAccele1 = 5
+|Item14 = Owl Bucket
+|Quantity14 = 7
+|BuffBlast1 = 7
+|Item15 = Rhyton Ribbon
+|Quantity15 = 6
+|BuffCharge1 = 4
+
+|Item22 = Rainbow Orb
+|Quantity22 = 3
+|BuffATK2 = 8
+|Item23 = Flame Orb ++
+|Quantity23 = 10
+|BuffDEF2 = 6
+|Item21 = Flame Orb +
+|Quantity21 = 15
+|BuffHP2 = 7
+|Item26 = Sheep Horn
+|Quantity26 = 8
+|BuffAccele2 = 6
+|Item24 = Rooftop Balloons
+|Quantity24 = 10
+|BuffBlast2 = 8
+|Item25 = Chain of Padlock
+|Quantity25 = 15
+|BuffCharge2 = 5
+
+|QuantityCC1 = 1000000
+}}

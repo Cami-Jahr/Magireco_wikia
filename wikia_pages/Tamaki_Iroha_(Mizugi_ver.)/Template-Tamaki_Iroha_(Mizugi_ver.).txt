@@ -1,0 +1,185 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Tamaki Iroha (Mizugi ver.)
+| name_jp = 環 いろは (水着ver.)
+| name_na = 
+| element = Aqua
+| base_rarity = 4
+| max_rarity = 5
+| id = 1101
+| type = Support
+| growth_type = BALANCE
+| school_jp = 神浜市立大附属学校
+| voice_actor_jp = 麻倉もも
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2018-08-08
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 6310
+| 4star_attack_lv1 = 1765
+| 4star_defense_lv1 = 1745
+| 4star_hp_max = 22716
+| 4star_attack_max = 6354
+| 4star_defense_max = 6282
+| 4star_illustrator_jp = 一十九二
+
+| 5star_hp_lv1 = 7162
+| 5star_attack_lv1 = 2004
+| 5star_defense_lv1 = 1983
+| 5star_hp_max = 28648
+| 5star_attack_max = 8016
+| 5star_defense_max = 7932
+| 5star_illustrator_jp = ぷにゃん
+
+| se_hp_bonus = 6371
+| se_attack_bonus = 1760
+| se_defense_bonus = 2957
+
+| se accele bonus = 6
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [II]
+| Passive 2 name JP = ドッペル・アデプト[Ⅱ]
+| Passive 2 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [II]
+| Passive 4 name JP = ドッペル・アデプト[Ⅱ]
+| Passive 4 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Chance to Fog on Attack
+| Passive 5 name = Fog Edge [II]
+| Passive 5 name JP = フォッグ・エッジ[Ⅱ]
+| Passive 5 effect = Chance to Fog on Attack [II / 15%] (3 Turns)
+
+| Passive 6 icon = Blast Damage Up
+| Passive 6 name = Blast Adept [II]
+| Passive 6 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 6 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 7 icon = Accele MP Gain Up
+| Passive 7 name = Accele Adept [II]
+| Passive 7 name JP = アクセル・アデプト[Ⅱ]
+| Passive 7 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 8 icon = Chance to Skill Quicken
+| Passive 8 name = Skill Quicken [III]
+| Passive 8 name JP = スキルクイック[Ⅲ]
+| Passive 8 effect = Chance to Skill Quicken [III / 15%]
+
+| Passive 9 icon = Damage Cut
+| Passive 9 name = Shield Adept [II]
+| Passive 9 name JP = シールド・アデプト[Ⅱ]
+| Passive 9 effect = Damage Cut [II / 10%]
+
+| Passive 10 icon = Magia Damage Up
+| Passive 10 name = Magia Adept [II]
+| Passive 10 name JP = マギア・アデプト[Ⅱ]
+| Passive 10 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 11 icon = Status Ailment Resistance Up
+| Passive 11 name = Resist Adept [II]
+| Passive 11 name JP = レジスト・アデプト[Ⅱ]
+| Passive 11 effect = Status Ailment Resistance Up [II / 25%]
+
+| Passive 12 icon = Accele MP Gain Up
+| Passive 12 name = Accele Adept [II]
+| Passive 12 name JP = アクセル・アデプト[Ⅱ]
+| Passive 12 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Defense Up
+| Active 1 name = Brace Circle [II]
+| Active 1 name JP = ブレス・サークル[Ⅱ]
+| Active 1 effect = Defense Up [II / 26.3%] (All / 3 Turns) & Regenerate HP [II / 3%] (All / 3 Turns)
+| Active 1 cooldown = 10
+
+| Connect name JP = 泳げないけどいいですか!?
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Blast Damage Up
+| Connect effect 1 = Blast Damage Up
+| Connect 1 / 1 = VIII / 75%
+| Connect 1 / 2 = X / 85%
+| Connect effect 2 = Defense Up
+| Connect 2 / 1 = VIII / 97.5%
+| Connect 2 / 2 = X / 112.5%
+| Connect effect 3 = Chance to Fog on Attack
+| Connect 3 / 1 = VIII / 100%
+| Connect 3 / 2 = X / 100%
+
+| Magia name JP = これが今の私にできる泳ぎ方
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage A Vertical Line
+| Magia effect 1 = Damage A Vertical Line
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 530%
+| Magia 1 / 2 = VII / 570%
+| Magia effect 2 = Defense Down
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / V / 15%
+| Magia 2 / 2 = All / 3 Turns / VII / 17.5%
+| Magia effect 3 = Accele MP Gain Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All / 3 Turns / V / 15%
+| Magia 3 / 2 = All / 3 Turns / VII / 20%
+| Magia effect 4 = HP Restore
+| Magia scaling 4 = 2%
+| Magia 4 / 1 = -
+| Magia 4 / 2 = All / VII / 18.7%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 沈黙のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、呼子鳥
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage A Vertical Line [IX / 1300%] & Defense Down [IX / 35% / All / 3 Turns] & Accele MP Gain Up [IX / 35% / All / 3 Turns] & HP Restore [IX / 30.5% / All]
+}}

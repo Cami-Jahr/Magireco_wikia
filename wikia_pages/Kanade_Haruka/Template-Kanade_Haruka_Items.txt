@@ -1,0 +1,95 @@
+﻿{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}
+|name = Kanade Haruka
+|Magia Item 2/1 = Light Book
+|Magia quantity 2/1 = 5
+|Magia Item 2/2 = Standing Ear Wrapper
+|Magia quantity 2/2 = 5
+|Magia Item 2/3 = Light Book +
+|Magia quantity 2/3 = 3
+|Magia Item 2/4 = Owl Bucket
+|Magia quantity 2/4 = 3
+|Magia Item 2/5 = Light Book ++
+|Magia quantity 2/5 = 1
+|Magia Item 2/6 = Code of Artificial Intelligence
+|Magia quantity 2/6 = 1
+
+|Magia Item 5/1 = Light Book
+|Magia quantity 5/1 = 11
+|Magia Item 5/2 = Nomadistic Stake
+|Magia quantity 5/2 = 11
+|Magia Item 5/3 = Light Book +
+|Magia quantity 5/3 = 9
+|Magia Item 5/4 = Staff Keyswitch
+|Magia quantity 5/4 = 5
+|Magia Item 5/5 = Light Book ++
+|Magia quantity 5/5 = 7
+|Magia Item 5/6 = Pendulum Bob
+|Magia quantity 5/6 = 7
+
+|Magia Item 3/1 = Light Book
+|Magia quantity 3/1 = 7
+|Magia Item 3/2 = Nanny's Pedestal
+|Magia quantity 3/2 = 7
+|Magia Item 3/3 = Light Book +
+|Magia quantity 3/3 = 5
+|Magia Item 3/4 = Staff Keyswitch
+|Magia quantity 3/4 = 5
+|Magia Item 3/5 = Light Book ++
+|Magia quantity 3/5 = 3
+|Magia Item 3/6 = Sheep Horn
+|Magia quantity 3/6 = 3
+
+|Magia Item 4/1 = Light Book
+|Magia quantity 4/1 = 9
+|Magia Item 4/2 = Standing Ear Wrapper
+|Magia quantity 4/2 = 9
+|Magia Item 4/3 = Light Book +
+|Magia quantity 4/3 = 7
+|Magia Item 4/4 = Mail Glider
+|Magia quantity 4/4 = 7
+|Magia Item 4/5 = Light Book ++
+|Magia quantity 4/5 = 5
+|Magia Item 4/6 = Rhyton Ribbon
+|Magia quantity 4/6 = 5
+
+
+|Item12 = Light Orb
+|Quantity12 = 9
+|BuffATK1 = 4
+|Item13 = Light Orb +
+|Quantity13 = 7
+|BuffDEF1 = 4
+|Item11 = Light Orb ++
+|Quantity11 = 4
+|BuffHP1 = 7
+|Item16 = Curator's Hood
+|Quantity16 = 2
+|BuffAccele1 = 5
+|Item14 = Code of Artificial Intelligence
+|Quantity14 = 3
+|BuffBlast1 = 5
+|Item15 = Nanny's Pedestal
+|Quantity15 = 8
+|BuffCharge1 = 3
+
+|Item22 = Light Orb +
+|Quantity22 = 12
+|BuffATK2 = 5
+|Item23 = Light Orb ++
+|Quantity23 = 6
+|BuffDEF2 = 5
+|Item21 = Rainbow Orb
+|Quantity21 = 3
+|BuffHP2 = 8
+|Item26 = Standing Ear Cotton
+|Quantity26 = 6
+|BuffAccele2 = 6
+|Item24 = Mail Glider
+|Quantity24 = 8
+|BuffBlast2 = 6
+|Item25 = Ikigami's Hairball
+|Quantity25 = 12
+|BuffCharge2 = 4
+
+|QuantityCC1 = 300000
+}}

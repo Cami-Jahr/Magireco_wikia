@@ -1,0 +1,178 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Izumi Kanagi
+| name_jp = 和泉 十七夜
+| name_na = 
+| element = Light
+| base_rarity = 4
+| max_rarity = 5
+| id = 1016
+| type = Attack
+| growth_type = ATKDEF
+| school_jp = 大東学院
+| voice_actor_jp = 千本木彩花
+| designer_jp = ササギコウシ
+| memoria = 
+| release_date = 2018-06-25
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 4754
+| 4star_attack_lv1 = 2106
+| 4star_defense_lv1 = 1616
+| 4star_hp_max = 16990
+| 4star_attack_max = 7691
+| 4star_defense_max = 5859
+| 4star_illustrator_jp = ササギコウシ
+
+| 5star_hp_lv1 = 5392
+| 5star_attack_lv1 = 2388
+| 5star_defense_lv1 = 1833
+| 5star_hp_max = 21406
+| 5star_attack_max = 9695
+| 5star_defense_max = 7386
+| 5star_illustrator_jp = ササギコウシ
+
+| se_hp_bonus = 6333
+| se_attack_bonus = 2636
+| se_defense_bonus = 2251
+
+| se accele bonus = 6
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [I]
+| Passive 1 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 1 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [II]
+| Passive 2 name JP = ドッペル・アデプト[Ⅱ]
+| Passive 2 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 4 icon = MP Gain Up
+| Passive 4 name = Morale Adept [III]
+| Passive 4 name JP = モラール・アデプト[Ⅲ]
+| Passive 4 effect = MP Gain Up [III / 10%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Chance to Anti-Evade
+| Passive 6 name = Aiming Adept [III]
+| Passive 6 name JP = エイミング・アデプト[Ⅲ]
+| Passive 6 effect = Chance to Anti-Evade [III / 35%]
+
+| Passive 7 icon = Blast Damage Cut
+| Passive 7 name = BlastShield [III]
+| Passive 7 name JP = ブラストシールド[Ⅲ]
+| Passive 7 effect = Blast Damage Cut [III / 15%]
+
+| Passive 8 icon = Chance to Anti-Counter
+| Passive 8 name = Anti-Counter [VIII]
+| Passive 8 name JP = アンチ・カウンター[Ⅷ]
+| Passive 8 effect = Chance to Anti-Counter [VIII / 60%]
+
+| Passive 9 icon = Magia Damage Up
+| Passive 9 name = Magia Adept [II]
+| Passive 9 name JP = マギア・アデプト[Ⅱ]
+| Passive 9 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 10 icon = Chance to Critical Hit
+| Passive 10 name = Critical Adept [II]
+| Passive 10 name JP = クリティカル・アデプト[Ⅱ]
+| Passive 10 effect = Chance to Critical Hit [II / 15%]
+
+| Passive 11 icon = Blast Damage Up
+| Passive 11 name = Blast Adept [III]
+| Passive 11 name JP = ブラスト・アデプト[Ⅲ]
+| Passive 11 effect = Blast Damage Up [III / 20%]
+
+| Passive 12 icon = Chance to Evade
+| Passive 12 name = Parry Adept [II]
+| Passive 12 name JP = パリィ・アデプト[Ⅱ]
+| Passive 12 effect = Chance to Evade [II / 15%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Chance to Anti-Evade
+| Active 1 name = Absolute Blast [III]
+| Active 1 name JP = アブソリュート・ブラスト[Ⅲ]
+| Active 1 effect = Chance to Anti-Evade [III / 100%] (Self / 3 Turns) & Blast Damage Up [III / 25%] (Self / 3 Turns)
+| Active 1 cooldown = 10
+
+| Connect name JP = 貸しではないから心配するな
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Chance to Anti-Evade
+| Connect 2 / 1 = VII / 100%
+| Connect 2 / 2 = IX / 100%
+
+| Magia name JP = 断罪の光芒
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage 5 Random Enemies
+| Magia effect 1 = Damage 5 Random Enemies
+| Magia scaling 1 = 8%
+| Magia 1 / 1 = V / 143%
+| Magia 1 / 2 = VII / 151.5%
+| Magia effect 2 = Chance to Anti-Evade
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = All / 1 Turn / V / 70%
+| Magia 2 / 2 = All / 1 Turn / VII / 100%
+| Magia effect 3 = Damage Cut
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Self / 1 Turn / V / 90%
+| Magia 3 / 2 = Self / 1 Turn / VII / 90%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 解体のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、竈獅子
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage 5 Random Enemies [VIII / 401.4%] & Chance to Anti-Evade [VIII / 100% / All / 1 Turn] & Damage Cut [VIII / 100% / Self / 1 Turn]
+}}

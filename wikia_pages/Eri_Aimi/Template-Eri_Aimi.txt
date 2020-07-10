@@ -1,0 +1,178 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Eri Aimi
+| name_jp = 江利 あいみ
+| name_na = 
+| element = Flame
+| base_rarity = 3
+| max_rarity = 4
+| id = 3023
+| type = Balance
+| growth_type = BALANCE
+| school_jp = 中央学園
+| voice_actor_jp = 上田麗奈
+| designer_jp = かんざきひろ
+| memoria = 
+| release_date = 2017-10-23
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 4603
+| 3star_attack_lv1 = 1476
+| 3star_defense_lv1 = 1491
+| 3star_hp_max = 15650
+| 3star_attack_max = 5018
+| 3star_defense_max = 5069
+| 3star_illustrator_jp = かんざきひろ
+
+| 4star_hp_lv1 = 5652
+| 4star_attack_lv1 = 1813
+| 4star_defense_lv1 = 1831
+| 4star_hp_max = 20347
+| 4star_attack_max = 6526
+| 4star_defense_max = 6591
+| 4star_illustrator_jp = かんざきひろ
+
+| 5star_hp_lv1 = 
+| 5star_attack_lv1 = 
+| 5star_defense_lv1 = 
+| 5star_hp_max = 
+| 5star_attack_max = 
+| 5star_defense_max = 
+| 5star_illustrator_jp = 
+
+| se_hp_bonus = 
+| se_attack_bonus = 
+| se_defense_bonus = 
+
+| se accele bonus = 
+| se blast bonus = 
+| se charge bonus = 
+
+| Passive 1 icon = 
+| Passive 1 name = 
+| Passive 1 name JP = 
+| Passive 1 effect = 
+
+| Passive 2 icon = 
+| Passive 2 name = 
+| Passive 2 name JP = 
+| Passive 2 effect = 
+
+| Passive 3 icon = 
+| Passive 3 name = 
+| Passive 3 name JP = 
+| Passive 3 effect = 
+
+| Passive 4 icon = 
+| Passive 4 name = 
+| Passive 4 name JP = 
+| Passive 4 effect = 
+
+| Passive 5 icon = 
+| Passive 5 name = 
+| Passive 5 name JP = 
+| Passive 5 effect = 
+
+| Passive 6 icon = 
+| Passive 6 name = 
+| Passive 6 name JP = 
+| Passive 6 effect = 
+
+| Passive 7 icon = 
+| Passive 7 name = 
+| Passive 7 name JP = 
+| Passive 7 effect = 
+
+| Passive 8 icon = 
+| Passive 8 name = 
+| Passive 8 name JP = 
+| Passive 8 effect = 
+
+| Passive 9 icon = 
+| Passive 9 name = 
+| Passive 9 name JP = 
+| Passive 9 effect = 
+
+| Passive 10 icon = 
+| Passive 10 name = 
+| Passive 10 name JP = 
+| Passive 10 effect = 
+
+| Passive 11 icon = 
+| Passive 11 name = 
+| Passive 11 name JP = 
+| Passive 11 effect = 
+
+| Passive 12 icon = 
+| Passive 12 name = 
+| Passive 12 name JP = 
+| Passive 12 effect = 
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = 
+| Active 1 name = 
+| Active 1 name JP = 
+| Active 1 effect = 
+| Active 1 cooldown = 
+
+| Connect name JP = 恋する力！みせてあげる！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Chance to Anti-Evade
+| Connect effect 1 = Chance to Anti-Evade
+| Connect 1 / 1 = VI / 100%
+| Connect 1 / 2 = VIII / 100%
+| Connect effect 2 = Blast Damage Up
+| Connect 2 / 1 = VI / 65%
+| Connect 2 / 2 = VIII / 75%
+
+| Magia name JP = 絶対ロックオン
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = II / 310%
+| Magia 1 / 2 = IV / 330%
+| Magia effect 2 = Blast Damage Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / II / 25%
+| Magia 2 / 2 = All / 3 Turns / IV / 35%
+| Magia effect 3 = Chance to Anti-Evade
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = All / 3 Turns / IV / 100%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 
+| Doppel Shape = 
+| Doppel Japanese Shape = 
+| Doppel Japanese Designer = 
+| Doppel effect = 
+}}

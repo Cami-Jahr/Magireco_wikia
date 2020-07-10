@@ -1,0 +1,188 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Utsuho Natsuki
+| name_jp = 空穂 夏希
+| name_na = 
+| element = Aqua
+| base_rarity = 2
+| max_rarity = 4
+| id = 3002
+| type = Support
+| growth_type = DEFHP
+| school_jp = 参京院教育学園
+| voice_actor_jp = 杜野まこ
+| designer_jp = 八重樫南
+| memoria = 
+| release_date = 2017-08-22
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 1
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 3866
+| 2star_attack_lv1 = 1059
+| 2star_defense_lv1 = 1065
+| 2star_hp_max = 12456
+| 2star_attack_max = 3365
+| 2star_defense_max = 3454
+| 2star_illustrator_jp = 八重樫南
+
+| 3star_hp_lv1 = 4611
+| 3star_attack_lv1 = 1263
+| 3star_defense_lv1 = 1270
+| 3star_hp_max = 15788
+| 3star_attack_max = 4263
+| 3star_defense_max = 4378
+| 3star_illustrator_jp = 八重樫南
+
+| 4star_hp_lv1 = 5730
+| 4star_attack_lv1 = 1570
+| 4star_defense_lv1 = 1578
+| 4star_hp_max = 20776
+| 4star_attack_max = 5611
+| 4star_defense_max = 5762
+| 4star_illustrator_jp = 八重樫南
+
+| 5star_hp_lv1 = 
+| 5star_attack_lv1 = 
+| 5star_defense_lv1 = 
+| 5star_hp_max = 
+| 5star_attack_max = 
+| 5star_defense_max = 
+| 5star_illustrator_jp = 
+
+| se_hp_bonus = 
+| se_attack_bonus = 
+| se_defense_bonus = 
+
+| se accele bonus = 
+| se blast bonus = 
+| se charge bonus = 
+
+| Passive 1 icon = 
+| Passive 1 name = 
+| Passive 1 name JP = 
+| Passive 1 effect = 
+
+| Passive 2 icon = 
+| Passive 2 name = 
+| Passive 2 name JP = 
+| Passive 2 effect = 
+
+| Passive 3 icon = 
+| Passive 3 name = 
+| Passive 3 name JP = 
+| Passive 3 effect = 
+
+| Passive 4 icon = 
+| Passive 4 name = 
+| Passive 4 name JP = 
+| Passive 4 effect = 
+
+| Passive 5 icon = 
+| Passive 5 name = 
+| Passive 5 name JP = 
+| Passive 5 effect = 
+
+| Passive 6 icon = 
+| Passive 6 name = 
+| Passive 6 name JP = 
+| Passive 6 effect = 
+
+| Passive 7 icon = 
+| Passive 7 name = 
+| Passive 7 name JP = 
+| Passive 7 effect = 
+
+| Passive 8 icon = 
+| Passive 8 name = 
+| Passive 8 name JP = 
+| Passive 8 effect = 
+
+| Passive 9 icon = 
+| Passive 9 name = 
+| Passive 9 name JP = 
+| Passive 9 effect = 
+
+| Passive 10 icon = 
+| Passive 10 name = 
+| Passive 10 name JP = 
+| Passive 10 effect = 
+
+| Passive 11 icon = 
+| Passive 11 name = 
+| Passive 11 name JP = 
+| Passive 11 effect = 
+
+| Passive 12 icon = 
+| Passive 12 name = 
+| Passive 12 name JP = 
+| Passive 12 effect = 
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = 
+| Active 1 name = 
+| Active 1 name JP = 
+| Active 1 effect = 
+| Active 1 cooldown = 
+
+| Connect name JP = ウィキャンドゥーイッ！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = IV / 27.5%
+| Connect 1 / 2 = VI / 32.5%
+| Connect 1 / 3 = VIII / 37.5%
+| Connect effect 2 = Defense Up
+| Connect 2 / 1 = IV / 67.5%
+| Connect 2 / 2 = VI / 82.5%
+| Connect 2 / 3 = VIII / 97.5%
+
+| Magia name JP = ゴー！ファイト！ウィン！
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = I / 600%
+| Magia 1 / 2 = III / 640%
+| Magia 1 / 3 = V / 680%
+| Magia effect 2 = Defense Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / I / 26.3%
+| Magia 2 / 2 = All / 3 Turns / III / 33.8%
+| Magia 2 / 3 = All / 3 Turns / V / 41.3%
+| Magia effect 3 = Attack Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All / 3 Turns / I / 17.5%
+| Magia 3 / 2 = All / 3 Turns / III / 22.5%
+| Magia 3 / 3 = All / 3 Turns / V / 27.5%
+| Magia effect 4 = Damage Cut
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = -
+| Magia 4 / 2 = -
+| Magia 4 / 3 = All / 3 Turns / V / 20%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 
+| Doppel Shape = 
+| Doppel Japanese Shape = 
+| Doppel Japanese Designer = 
+| Doppel effect = 
+}}

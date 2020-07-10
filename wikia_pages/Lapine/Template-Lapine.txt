@@ -1,0 +1,182 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Lapine
+| name_jp = ラピヌ
+| name_na = 
+| element = Flame
+| base_rarity = 3
+| max_rarity = 4
+| id = 4027
+| type = Defense
+| growth_type = DEFHP
+| school_jp = ―
+| voice_actor_jp = 井澤詩織
+| designer_jp = 枡狐/蛙空
+| memoria = 
+| release_date = 2020-06-19
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 2
+| blast_hori_disks = 0
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 5245
+| 3star_attack_lv1 = 1236
+| 3star_defense_lv1 = 1720
+| 3star_hp_max = 17958
+| 3star_attack_max = 4172
+| 3star_defense_max = 5930
+| 3star_illustrator_jp = 枡狐/蛙空
+
+| 4star_hp_lv1 = 6471
+| 4star_attack_lv1 = 1513
+| 4star_defense_lv1 = 2127
+| 4star_hp_max = 23463
+| 4star_attack_max = 5407
+| 4star_defense_max = 7767
+| 4star_illustrator_jp = 枡狐/蛙空
+
+| 5star_hp_lv1 = 
+| 5star_attack_lv1 = 
+| 5star_defense_lv1 = 
+| 5star_hp_max = 
+| 5star_attack_max = 
+| 5star_defense_max = 
+| 5star_illustrator_jp = 
+
+| se_hp_bonus = 4773
+| se_attack_bonus = 1612
+| se_defense_bonus = 3317
+
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 4
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 4 icon = Endure
+| Passive 4 name = Fortitude Adept
+| Passive 4 name JP = フォティチュード・アデプト
+| Passive 4 effect = Endure [100%]
+
+| Passive 5 icon = Doppel Damage Up
+| Passive 5 name = Doppel Adept [I]
+| Passive 5 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 5 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 6 icon = Chance to Provoke
+| Passive 6 name = Provoke Adept [II]
+| Passive 6 name JP = プロヴォーク・アデプト[Ⅱ]
+| Passive 6 effect = Chance to Provoke [II / 15%]
+
+| Passive 7 icon = MP Gain Up
+| Passive 7 name = Morale Adept [III]
+| Passive 7 name JP = モラール・アデプト[Ⅲ]
+| Passive 7 effect = MP Gain Up [III / 10%]
+
+| Passive 8 icon = Magia Damage Up
+| Passive 8 name = Magia Adept [II]
+| Passive 8 name JP = マギア・アデプト[Ⅱ]
+| Passive 8 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 9 icon = Blast Damage Cut
+| Passive 9 name = BlastShield [III]
+| Passive 9 name JP = ブラストシールド[Ⅲ]
+| Passive 9 effect = Blast Damage Cut [III / 15%]
+
+| Passive 10 icon = Chance to Anti-Skill Seal
+| Passive 10 name = Anti-Jammer
+| Passive 10 name JP = アンチ・ジャマ―
+| Passive 10 effect = Chance to Anti-Skill Seal [100%]
+
+| Passive 11 icon = Blast Damage Up
+| Passive 11 name = Blast Adept [II]
+| Passive 11 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 11 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 12 icon = Damage Cut
+| Passive 12 name = Shield Adept [II]
+| Passive 12 name JP = シールド・アデプト[Ⅱ]
+| Passive 12 effect = Damage Cut [II / 10%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Survive
+| Active 1 name = Survive [I]
+| Active 1 name JP = サヴァイヴ[Ⅰ]
+| Active 1 effect = Survive [I / 10%] (Self / 1 Turn)
+| Active 1 cooldown = 10
+
+| Connect name JP = まだまだ遊ぶの
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Blast Damage Up
+| Connect effect 1 = Blast Damage Up
+| Connect 1 / 1 = V / 60%
+| Connect 1 / 2 = VII / 70%
+| Connect effect 2 = Attack Up
+| Connect 2 / 1 = V / 30%
+| Connect 2 / 2 = VII / 35%
+
+| Magia name JP = ラピヌ・オ・サンテュ
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = III / 320%
+| Magia 1 / 2 = V / 340%
+| Magia effect 2 = MP Gain Down
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / III / 30%
+| Magia 2 / 2 = All / 3 Turns / V / 40%
+| Magia effect 3 = MP Damage
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = All / III / 25%
+| Magia 3 / 2 = All / V / 30%
+| Magia effect 4 = MP Restore
+| Magia scaling 4 = 1%
+| Magia 4 / 1 = III / 25%
+| Magia 4 / 2 = V / 30%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 
+| Doppel Shape = 
+| Doppel Japanese Shape = 
+| Doppel Japanese Designer = 
+| Doppel effect = 
+}}

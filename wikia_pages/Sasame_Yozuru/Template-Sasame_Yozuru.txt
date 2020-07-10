@@ -1,0 +1,185 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Sasame Yozuru
+| name_jp = 篠目 ヨヅル
+| name_na = 
+| element = Void
+| base_rarity = 4
+| max_rarity = 5
+| id = 1040
+| type = Attack
+| growth_type = HP
+| school_jp = ―
+| voice_actor_jp = 若松来海
+| designer_jp = 富士フジノ
+| memoria = 
+| release_date = 2020-03-09
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 1
+| blast_vert_disks = 1
+| blast_hori_disks = 2
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 5078
+| 4star_attack_lv1 = 2138
+| 4star_defense_lv1 = 1573
+| 4star_hp_max = 18808
+| 4star_attack_max = 7530
+| 4star_defense_max = 5581
+| 4star_illustrator_jp = 富士フジノ
+
+| 5star_hp_lv1 = 5753
+| 5star_attack_lv1 = 2428
+| 5star_defense_lv1 = 1782
+| 5star_hp_max = 23702
+| 5star_attack_max = 9493
+| 5star_defense_max = 7021
+| 5star_illustrator_jp = 富士フジノ
+
+| se_hp_bonus = 8599
+| se_attack_bonus = 1930
+| se_defense_bonus = 1782
+
+| se accele bonus = 4
+| se blast bonus = 6
+| se charge bonus = 8
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [III]
+| Passive 1 name JP = ドッペル・アデプト[Ⅲ]
+| Passive 1 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [III]
+| Passive 2 name JP = MPブースト[Ⅲ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [III / 22%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [IV]
+| Passive 3 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 3 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
+
+| Passive 4 icon = MP Gain Up When Over 100 MP
+| Passive 4 name = MP Boost [III]
+| Passive 4 name JP = MPブースト[Ⅲ]
+| Passive 4 effect = MP Gain Up When Over 100 MP [III / 22%]
+
+| Passive 5 icon = Chance to Critical Hit
+| Passive 5 name = Critical Adept [II]
+| Passive 5 name JP = クリティカル・アデプト[Ⅱ]
+| Passive 5 effect = Chance to Critical Hit [II / 15%]
+
+| Passive 6 icon = Blast Damage Up
+| Passive 6 name = Blast Adept [II]
+| Passive 6 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 6 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 7 icon = Chance to Anti-Evade
+| Passive 7 name = Aiming Adept [III]
+| Passive 7 name JP = エイミング・アデプト[Ⅲ]
+| Passive 7 effect = Chance to Anti-Evade [III / 35%]
+
+| Passive 8 icon = Damage Up Versus Enemies Affected With Status Ailments
+| Passive 8 name = Addict Killer [II]
+| Passive 8 name JP = アディクトキラー[Ⅱ]
+| Passive 8 effect = Damage Up Versus Enemies Affected With Status Ailments [II / 20%]
+
+| Passive 9 icon = MP Gain Up
+| Passive 9 name = Morale Adept [III]
+| Passive 9 name JP = モラール・アデプト[Ⅲ]
+| Passive 9 effect = MP Gain Up [III / 10%]
+
+| Passive 10 icon = Chance to Poison on Attack
+| Passive 10 name = Poison Edge [II]
+| Passive 10 name JP = ポイズン・エッジ[Ⅱ]
+| Passive 10 effect = Chance to Poison on Attack [II / 15%] (3 Turns)
+
+| Passive 11 icon = Chance to Evade
+| Passive 11 name = Parry Adept [II]
+| Passive 11 name JP = パリィ・アデプト[Ⅱ]
+| Passive 11 effect = Chance to Evade [II / 15%]
+
+| Passive 12 icon = Blast Damage Up
+| Passive 12 name = Blast Adept [II]
+| Passive 12 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 12 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Defense Down
+| Active 1 name = Cower Guard [VII]
+| Active 1 name JP = クウェル・ガード[Ⅶ]
+| Active 1 effect = Defense Down [VII / 35%] (All / 1 Turn)
+| Active 1 cooldown = 7
+
+| Connect name JP = ご命令とあらばなんなりと…
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Remove Status Ailments
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
+| Connect effect 3 = Chance to Chase
+| Connect 3 / 1 = Self / 1 Turn / VII / 80%
+| Connect 3 / 2 = Self / 1 Turn / IX / 80%
+
+| Magia name JP = 激昂星弾輪舞
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 680%
+| Magia 1 / 2 = VII / 720%
+| Magia effect 2 = Chance to Stun
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = One / 1 Turn / V / 100%
+| Magia 2 / 2 = One / 1 Turn / VII / 100%
+| Magia effect 3 = Attack Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Self / 3 Turns / V / 15%
+| Magia 3 / 2 = Self / 3 Turns / VII / 25%
+| Magia effect 4 = Remove Debuffs
+| Magia scaling 4 = 0%
+| Magia 4 / 1 = 
+| Magia 4 / 2 = 
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 求愛のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、塔
+| Doppel Japanese Designer = 原案・監修：富士フジノ
+| Doppel effect = Damage One Enemy [IX / 1760%] & Chance to Stun [IX / 100% / One / 1 Turn] & Attack Up [IX / 45% / Self / 3 Turns] & Remove Debuffs []
+}}

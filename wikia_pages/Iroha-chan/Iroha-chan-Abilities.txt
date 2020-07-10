@@ -1,0 +1,7 @@
+﻿{{Iroha-chan|Abilities}}
+
+{{Description
+| en = 
+| na = 
+| jp = ー
+}}

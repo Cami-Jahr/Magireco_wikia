@@ -1,0 +1,185 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Hiroe Chiharu
+| name_jp = 広江 ちはる
+| name_na = 
+| element = Forest
+| base_rarity = 4
+| max_rarity = 5
+| id = 1026
+| type = Defense
+| growth_type = ATTACK
+| school_jp = 松宮市立第一中学校
+| voice_actor_jp = 相良茉優
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2019-08-09
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 1
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 6714
+| 4star_attack_lv1 = 1738
+| 4star_defense_lv1 = 2223
+| 4star_hp_max = 23821
+| 4star_attack_max = 6392
+| 4star_defense_max = 7829
+| 4star_illustrator_jp = 蒼樹うめ
+
+| 5star_hp_lv1 = 7631
+| 5star_attack_lv1 = 1970
+| 5star_defense_lv1 = 2531
+| 5star_hp_max = 30066
+| 5star_attack_max = 8057
+| 5star_defense_max = 9896
+| 5star_illustrator_jp = いもあん
+
+| se_hp_bonus = 7332
+| se_attack_bonus = 1994
+| se_defense_bonus = 3498
+
+| se accele bonus = 4
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [IV]
+| Passive 1 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 1 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [III]
+| Passive 2 name JP = MPブースト[Ⅲ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [III / 22%]
+
+| Passive 3 icon = Endure
+| Passive 3 name = Fortitude Adept
+| Passive 3 name JP = フォティチュード・アデプト
+| Passive 3 effect = Endure [100%]
+
+| Passive 4 icon = Charge Disc Damage Up
+| Passive 4 name = Technical Adept [II]
+| Passive 4 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 4 effect = Charge Disc Damage Up [II / 10%]
+
+| Passive 5 icon = Chance to Provoke
+| Passive 5 name = Provoke Adept [II]
+| Passive 5 name JP = プロヴォーク・アデプト[Ⅱ]
+| Passive 5 effect = Chance to Provoke [II / 15%]
+
+| Passive 6 icon = MP Gain Up When Over 100 MP
+| Passive 6 name = MP Boost [III]
+| Passive 6 name JP = MPブースト[Ⅲ]
+| Passive 6 effect = MP Gain Up When Over 100 MP [III / 22%]
+
+| Passive 7 icon = MP Gain Up
+| Passive 7 name = Morale Adept [III]
+| Passive 7 name JP = モラール・アデプト[Ⅲ]
+| Passive 7 effect = MP Gain Up [III / 10%]
+
+| Passive 8 icon = Damage Cut
+| Passive 8 name = Shield Adept [II]
+| Passive 8 name JP = シールド・アデプト[Ⅱ]
+| Passive 8 effect = Damage Cut [II / 10%]
+
+| Passive 9 icon = Charge Disc Damage Up
+| Passive 9 name = Technical Adept [II]
+| Passive 9 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 9 effect = Charge Disc Damage Up [II / 10%]
+
+| Passive 10 icon = Chance to Bind on Attack
+| Passive 10 name = Bind Edge [II]
+| Passive 10 name JP = バインド・エッジ[Ⅱ]
+| Passive 10 effect = Chance to Bind on Attack [II / 15%] (1 Turn)
+
+| Passive 11 icon = Doppel Damage Up
+| Passive 11 name = Doppel Adept [V]
+| Passive 11 name JP = ドッペル・アデプト[Ⅴ]
+| Passive 11 effect = Doppel Damage Up [V / 25%] & Magia Damage Up [II / 7.5%]
+
+| Passive 12 icon = Chance to Anti-Bind
+| Passive 12 name = Anti-Bind
+| Passive 12 name JP = アンチ・バインド
+| Passive 12 effect = Chance to Anti-Bind [100%]
+
+| Passive 13 icon = Charged Attack Damage Up
+| Passive 13 name = Charge Expert [IV]
+| Passive 13 name JP = チャージエキスパート[Ⅳ]
+| Passive 13 effect = Charged Attack Damage Up [IV / 15%] & Charge Disc Damage Up [II / 10%]
+
+| Active 1 icon = Attack Down
+| Active 1 name = Attack Down [VII]
+| Active 1 name JP = アタックダウン[Ⅶ]
+| Active 1 effect = Attack Down [VII / 35%] (One / 1 Turn)
+| Active 1 cooldown = 4
+
+| Connect name JP = 相棒ってカッコイイよね！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Chance to Bind on Attack
+| Connect 2 / 1 = VII / 100%
+| Connect 2 / 2 = IX / 100%
+| Connect effect 3 = Chance to Stun on Attack
+| Connect 3 / 1 = VII / 50%
+| Connect 3 / 2 = IX / 100%
+
+| Magia name JP = 魔法同心・ちはる捕物帳
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 680%
+| Magia 1 / 2 = VII / 720%
+| Magia effect 2 = Defense Down
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = One / 3 Turns / V / 15%
+| Magia 2 / 2 = One / 3 Turns / VII / 20%
+| Magia effect 3 = Status Ailment Resistance Down
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = One / 3 Turns / V / 10%
+| Magia 3 / 2 = One / 3 Turns / VII / 15%
+| Magia effect 4 = Chance to Bind
+| Magia scaling 4 = 0%
+| Magia 4 / 1 = One / 1 Turn / V / 100%
+| Magia 4 / 2 = One / 1 Turn / VII / 100%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = より抜きのドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は袖搦
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage One Enemy [IX / 1760%] & Defense Down [IX / 40% / One / 3 Turns] & Status Ailment Resistance Down [IX / 30% / One / 3 Turns] & Chance to Bind [IX / 100% / One / 1 Turn]
+}}

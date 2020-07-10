@@ -1,0 +1,178 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Kazumi
+| name_jp = かずみ
+| name_na = 
+| element = Dark
+| base_rarity = 4
+| max_rarity = 5
+| id = 4011
+| type = Attack
+| growth_type = DEFHP
+| school_jp = ―
+| voice_actor_jp = 丹下桜
+| designer_jp = 平松正樹/天杉貴志
+| memoria = 
+| release_date = 2017-11-20
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 0
+| blast_hori_disks = 2
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 5026
+| 4star_attack_lv1 = 2061
+| 4star_defense_lv1 = 1620
+| 4star_hp_max = 18224
+| 4star_attack_max = 7366
+| 4star_defense_max = 5916
+| 4star_illustrator_jp = 天杉貴志
+
+| 5star_hp_lv1 = 5697
+| 5star_attack_lv1 = 2336
+| 5star_defense_lv1 = 1837
+| 5star_hp_max = 22958
+| 5star_attack_max = 9273
+| 5star_defense_max = 7458
+| 5star_illustrator_jp = 天杉貴志
+
+| se_hp_bonus = 
+| se_attack_bonus = 
+| se_defense_bonus = 
+
+| se accele bonus = 
+| se blast bonus = 
+| se charge bonus = 
+
+| Passive 1 icon = 
+| Passive 1 name = 
+| Passive 1 name JP = 
+| Passive 1 effect = 
+
+| Passive 2 icon = 
+| Passive 2 name = 
+| Passive 2 name JP = 
+| Passive 2 effect = 
+
+| Passive 3 icon = 
+| Passive 3 name = 
+| Passive 3 name JP = 
+| Passive 3 effect = 
+
+| Passive 4 icon = 
+| Passive 4 name = 
+| Passive 4 name JP = 
+| Passive 4 effect = 
+
+| Passive 5 icon = 
+| Passive 5 name = 
+| Passive 5 name JP = 
+| Passive 5 effect = 
+
+| Passive 6 icon = 
+| Passive 6 name = 
+| Passive 6 name JP = 
+| Passive 6 effect = 
+
+| Passive 7 icon = 
+| Passive 7 name = 
+| Passive 7 name JP = 
+| Passive 7 effect = 
+
+| Passive 8 icon = 
+| Passive 8 name = 
+| Passive 8 name JP = 
+| Passive 8 effect = 
+
+| Passive 9 icon = 
+| Passive 9 name = 
+| Passive 9 name JP = 
+| Passive 9 effect = 
+
+| Passive 10 icon = 
+| Passive 10 name = 
+| Passive 10 name JP = 
+| Passive 10 effect = 
+
+| Passive 11 icon = 
+| Passive 11 name = 
+| Passive 11 name JP = 
+| Passive 11 effect = 
+
+| Passive 12 icon = 
+| Passive 12 name = 
+| Passive 12 name JP = 
+| Passive 12 effect = 
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = 
+| Active 1 name = 
+| Active 1 name JP = 
+| Active 1 effect = 
+| Active 1 cooldown = 
+
+| Connect name JP = いまのわたしはこう動く！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Blast Damage Up
+| Connect effect 1 = Blast Damage Up
+| Connect 1 / 1 = VII / 70%
+| Connect 1 / 2 = IX / 80%
+| Connect effect 2 = Chance to Defense Pierce
+| Connect 2 / 1 = VII / 100%
+| Connect 2 / 2 = IX / 100%
+
+| Magia name JP = リーミティ・エステールニ
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 340%
+| Magia 1 / 2 = VII / 360%
+| Magia effect 2 = MP Restore
+| Magia scaling 2 = 1%
+| Magia 2 / 1 = V / 27.5%
+| Magia 2 / 2 = VII / 32.5%
+| Magia effect 3 = Blast Damage Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = All / 3 Turns / VII / 45%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 空腹のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、黒いコック
+| Doppel Japanese Designer = 原案・監修：平松正樹/天杉貴志
+| Doppel effect = Damage All Enemies [IX / 924%] & Blast Damage Up [IX / 65% / All / 3 Turns] & MP Restore [IX / 41.5%]
+}}

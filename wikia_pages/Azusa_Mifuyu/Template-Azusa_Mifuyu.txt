@@ -1,0 +1,178 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Azusa Mifuyu
+| name_jp = 梓 みふゆ
+| name_na = 
+| element = Dark
+| base_rarity = 4
+| max_rarity = 5
+| id = 1006
+| type = Support
+| growth_type = ATKDEF
+| school_jp = ―
+| voice_actor_jp = 中原麻衣
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2018-06-08
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 3
+| blast_vert_disks = 1
+| blast_hori_disks = 0
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 6102
+| 4star_attack_lv1 = 1724
+| 4star_defense_lv1 = 1705
+| 4star_hp_max = 21808
+| 4star_attack_max = 6296
+| 4star_defense_max = 6182
+| 4star_illustrator_jp = 蒼樹うめ
+
+| 5star_hp_lv1 = 6915
+| 5star_attack_lv1 = 1954
+| 5star_defense_lv1 = 1932
+| 5star_hp_max = 27452
+| 5star_attack_max = 7933
+| 5star_defense_max = 7785
+| 5star_illustrator_jp = ササギコウシ
+
+| se_hp_bonus = 
+| se_attack_bonus = 
+| se_defense_bonus = 
+
+| se accele bonus = 
+| se blast bonus = 
+| se charge bonus = 
+
+| Passive 1 icon = 
+| Passive 1 name = 
+| Passive 1 name JP = 
+| Passive 1 effect = 
+
+| Passive 2 icon = 
+| Passive 2 name = 
+| Passive 2 name JP = 
+| Passive 2 effect = 
+
+| Passive 3 icon = 
+| Passive 3 name = 
+| Passive 3 name JP = 
+| Passive 3 effect = 
+
+| Passive 4 icon = 
+| Passive 4 name = 
+| Passive 4 name JP = 
+| Passive 4 effect = 
+
+| Passive 5 icon = 
+| Passive 5 name = 
+| Passive 5 name JP = 
+| Passive 5 effect = 
+
+| Passive 6 icon = 
+| Passive 6 name = 
+| Passive 6 name JP = 
+| Passive 6 effect = 
+
+| Passive 7 icon = 
+| Passive 7 name = 
+| Passive 7 name JP = 
+| Passive 7 effect = 
+
+| Passive 8 icon = 
+| Passive 8 name = 
+| Passive 8 name JP = 
+| Passive 8 effect = 
+
+| Passive 9 icon = 
+| Passive 9 name = 
+| Passive 9 name JP = 
+| Passive 9 effect = 
+
+| Passive 10 icon = 
+| Passive 10 name = 
+| Passive 10 name JP = 
+| Passive 10 effect = 
+
+| Passive 11 icon = 
+| Passive 11 name = 
+| Passive 11 name JP = 
+| Passive 11 effect = 
+
+| Passive 12 icon = 
+| Passive 12 name = 
+| Passive 12 name JP = 
+| Passive 12 effect = 
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = 
+| Active 1 name = 
+| Active 1 name JP = 
+| Active 1 effect = 
+| Active 1 cooldown = 
+
+| Connect name JP = 甘えたなんですから
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Accele MP Gain Up
+| Connect effect 1 = Accele MP Gain Up
+| Connect 1 / 1 = VII / 40%
+| Connect 1 / 2 = IX / 50%
+| Connect effect 2 = Chance to Dazzle on Attack
+| Connect 2 / 1 = VII / 100%
+| Connect 2 / 2 = IX / 100%
+
+| Magia name JP = アサルトパラノイア
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 340%
+| Magia 1 / 2 = VII / 360%
+| Magia effect 2 = Chance to Dazzle
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = All / 1 Turn / V / 40%
+| Magia 2 / 2 = All / 1 Turn / VII / 55%
+| Magia effect 3 = Remove Buffs
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = All / 
+| Magia 3 / 2 = All / 
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 生業のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、鳥捕り
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [IX / 902%] & Chance to Dazzle [IX / 100% / All / 2 Turns] & Remove Buffs [All]
+}}

@@ -1,0 +1,111 @@
+﻿{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}
+|name = Kumi Seika
+|Magia Item 2/1 = Aqua Book
+|Magia quantity 2/1 = 4
+|Magia Item 2/2 = Feather of a Swallow's Tail
+|Magia quantity 2/2 = 4
+|Magia Item 2/3 = Aqua Book +
+|Magia quantity 2/3 = 2
+|Magia Item 2/4 = Droplet Charm
+|Magia quantity 2/4 = 2
+
+|Magia Item 5/1 = Aqua Book
+|Magia quantity 5/1 = 10
+|Magia Item 5/2 = Mirror Invitation Letter
+|Magia quantity 5/2 = 10
+|Magia Item 5/3 = Aqua Book +
+|Magia quantity 5/3 = 8
+|Magia Item 5/4 = Curator's Hood
+|Magia quantity 5/4 = 4
+|Magia Item 5/5 = Aqua Book ++
+|Magia quantity 5/5 = 6
+|Magia Item 5/6 = Rooftop Balloons
+|Magia quantity 5/6 = 6
+
+|Magia Item 3/1 = Aqua Book
+|Magia quantity 3/1 = 6
+|Magia Item 3/2 = Standing Ear Wrapper
+|Magia quantity 3/2 = 6
+|Magia Item 3/3 = Aqua Book +
+|Magia quantity 3/3 = 4
+|Magia Item 3/4 = Staff Keyswitch
+|Magia quantity 3/4 = 4
+|Magia Item 3/5 = Aqua Book ++
+|Magia quantity 3/5 = 2
+|Magia Item 3/6 = Droplet Charm
+|Magia quantity 3/6 = 4
+
+|Magia Item 4/1 = Aqua Book
+|Magia quantity 4/1 = 8
+|Magia Item 4/2 = Rooftop Key
+|Magia quantity 4/2 = 8
+|Magia Item 4/3 = Aqua Book +
+|Magia quantity 4/3 = 6
+|Magia Item 4/4 = Staff Keyswitch
+|Magia quantity 4/4 = 6
+|Magia Item 4/5 = Aqua Book ++
+|Magia quantity 4/5 = 4
+|Magia Item 4/6 = Droplet Charm
+|Magia quantity 4/6 = 7
+
+
+|Item12 = Aqua Orb
+|Quantity12 = 6
+|BuffATK1 = 3
+|Item13 = Aqua Orb +
+|Quantity13 = 4
+|BuffDEF1 = 3
+|Item11 = Aqua Orb ++
+|Quantity11 = 2
+|BuffHP1 = 6
+|Item16 = Droplet Charm
+|Quantity16 = 1
+|BuffAccele1 = 4
+|Item14 = Staff Keyswitch
+|Quantity14 = 3
+|BuffBlast1 = 4
+|Item15 = Feather of a Swallow's Tail
+|Quantity15 = 5
+|BuffCharge1 = 2
+
+|Item22 = Aqua Orb
+|Quantity22 = 9
+|BuffATK2 = 4
+|Item23 = Aqua Orb +
+|Quantity23 = 7
+|BuffDEF2 = 4
+|Item21 = Aqua Orb ++
+|Quantity21 = 4
+|BuffHP2 = 7
+|Item26 = Rainbow Orb
+|Quantity26 = 2
+|BuffAccele2 = 5
+|Item24 = Droplet Charm
+|Quantity24 = 6
+|BuffBlast2 = 5
+|Item25 = Standing Ear Wrapper
+|Quantity25 = 8
+|BuffCharge2 = 3
+
+|Item32 = Aqua Orb +
+|Quantity32 = 12
+|BuffATK3 = 5
+|Item33 = Aqua Orb ++
+|Quantity33 = 6
+|BuffDEF3 = 5
+|Item31 = Rainbow Orb
+|Quantity31 = 3
+|BuffHP3 = 8
+|Item36 = Curator's Hood
+|Quantity36 = 6
+|BuffAccele3 = 6
+|Item34 = Staff Keyswitch
+|Quantity34 = 8
+|BuffBlast3 = 6
+|Item35 = Rooftop Key
+|Quantity35 = 12
+|BuffCharge3 = 4
+
+|QuantityCC1 = 100000
+|QuantityCC2 = 300000
+}}

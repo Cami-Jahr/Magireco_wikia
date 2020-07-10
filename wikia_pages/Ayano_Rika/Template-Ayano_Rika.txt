@@ -1,0 +1,174 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Ayano Rika
+| name_jp = 綾野 梨花
+| name_na = 
+| element = Flame
+| base_rarity = 3
+| max_rarity = 4
+| id = 3031
+| type = Magia
+| growth_type = ATKDEF
+| school_jp = 中央学園
+| voice_actor_jp = 伊藤かな恵
+| designer_jp = マシマサキ
+| memoria = 
+| release_date = 2017-08-22
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 3
+| blast_vert_disks = 0
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 3645
+| 3star_attack_lv1 = 1565
+| 3star_defense_lv1 = 1197
+| 3star_hp_max = 12305
+| 3star_attack_max = 5396
+| 3star_defense_max = 4098
+| 3star_illustrator_jp = マシマサキ
+
+| 4star_hp_lv1 = 4476
+| 4star_attack_lv1 = 1921
+| 4star_defense_lv1 = 1470
+| 4star_hp_max = 15997
+| 4star_attack_max = 7015
+| 4star_defense_max = 5330
+| 4star_illustrator_jp = マシマサキ
+
+| 5star_hp_lv1 = 
+| 5star_attack_lv1 = 
+| 5star_defense_lv1 = 
+| 5star_hp_max = 
+| 5star_attack_max = 
+| 5star_defense_max = 
+| 5star_illustrator_jp = 
+
+| se_hp_bonus = 4257
+| se_attack_bonus = 1339
+| se_defense_bonus = 2092
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 5
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [I]
+| Passive 1 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 1 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [I]
+| Passive 2 name JP = MPブースト[Ⅰ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [I / 15%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [I]
+| Passive 3 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Chance to Anti-Magia Seal
+| Passive 6 name = Anti-Magia Seal [VII]
+| Passive 6 name JP = アンチ・シールマギア[Ⅶ]
+| Passive 6 effect = Chance to Anti-Magia Seal [VII / 55%]
+
+| Passive 7 icon = Chance to Evade
+| Passive 7 name = Parry Adept [II]
+| Passive 7 name JP = パリィ・アデプト[Ⅱ]
+| Passive 7 effect = Chance to Evade [II / 15%]
+
+| Passive 8 icon = MP Gain Up When Over 100 MP
+| Passive 8 name = MP Boost [II]
+| Passive 8 name JP = MPブースト[Ⅱ]
+| Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 9 icon = Doppel Damage Up
+| Passive 9 name = Doppel Adept [II]
+| Passive 9 name JP = ドッペル・アデプト[Ⅱ]
+| Passive 9 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [I / 5%]
+
+| Passive 10 icon = Magia Damage Up
+| Passive 10 name = Magia Adept [II]
+| Passive 10 name JP = マギア・アデプト[Ⅱ]
+| Passive 10 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 11 icon = Chance to Charm on Attack
+| Passive 11 name = Charm Edge [II]
+| Passive 11 name JP = チャーム・エッジ[Ⅱ]
+| Passive 11 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
+
+| Passive 12 icon = Magia Damage Up
+| Passive 12 name = Magia Adept [II]
+| Passive 12 name JP = マギア・アデプト[Ⅱ]
+| Passive 12 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 13 icon = Magia Damage Up
+| Passive 13 name = Magia Adept [II]
+| Passive 13 name JP = マギア・アデプト[Ⅱ]
+| Passive 13 effect = Magia Damage Up [II / 7.5%]
+
+| Active 1 icon = Chance to Charm
+| Active 1 name = Charm Eyes [IV]
+| Active 1 name JP = チャーム・アイズ[Ⅳ]
+| Active 1 effect = Chance to Charm [IV / 37.5%] (All / 1 Turn)
+| Active 1 cooldown = 7
+
+| Connect name JP = 一緒なら大丈夫だよ！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Accele MP Gain Up
+| Connect effect 1 = Accele MP Gain Up
+| Connect 1 / 1 = VI / 35%
+| Connect 1 / 2 = VIII / 45%
+| Connect effect 2 = Chance to Critical Hit
+| Connect 2 / 1 = VI / 55%
+| Connect 2 / 2 = VIII / 65%
+
+| Magia name JP = キラ盛りビーム
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = III / 305%
+| Magia 1 / 2 = V / 325%
+| Magia effect 2 = Chance to Charm
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = -
+| Magia 2 / 2 = All / 1 Turn / V / 40%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 
+| Doppel Shape = 
+| Doppel Japanese Shape = 
+| Doppel Japanese Designer = 
+| Doppel effect = 
+}}

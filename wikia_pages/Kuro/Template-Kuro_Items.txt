@@ -1,0 +1,51 @@
+﻿{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}
+|name = Kuro
+|Magia Item 2/1 = Dark Book
+|Magia quantity 2/1 = 2
+|Magia Item 2/2 = Feather of a Swallow's Tail
+|Magia quantity 2/2 = 2
+
+|Magia Item 5/1 = Dark Book
+|Magia quantity 5/1 = 8
+|Magia Item 5/2 = Mirror Invitation Letter
+|Magia quantity 5/2 = 8
+|Magia Item 5/3 = Dark Book +
+|Magia quantity 5/3 = 6
+|Magia Item 5/4 = Sandbox Shovels
+|Magia quantity 5/4 = 2
+|Magia Item 5/5 = Dark Book ++
+|Magia quantity 5/5 = 4
+|Magia Item 5/6 = Standing Ear Cotton
+|Magia quantity 5/6 = 4
+
+|Magia Item 3/1 = Dark Book
+|Magia quantity 3/1 = 4
+|Magia Item 3/2 = Standing Ear Wrapper
+|Magia quantity 3/2 = 4
+|Magia Item 3/3 = Dark Book +
+|Magia quantity 3/3 = 2
+|Magia Item 3/4 = Sandbox Scallop
+|Magia quantity 3/4 = 2
+
+|Magia Item 4/1 = Dark Book
+|Magia quantity 4/1 = 6
+|Magia Item 4/2 = Rooftop Key
+|Magia quantity 4/2 = 6
+|Magia Item 4/3 = Dark Book +
+|Magia quantity 4/3 = 4
+|Magia Item 4/4 = Sandbox Scallop
+|Magia quantity 4/4 = 4
+|Magia Item 4/5 = Dark Book ++
+|Magia quantity 4/5 = 2
+|Magia Item 4/6 = Sandbox Shovels
+|Magia quantity 4/6 = 2
+
+
+|Item13 = Dark Orb
+|Quantity13 = 2
+|BuffDEF1 = 1
+|Item14 = Feather of a Swallow's Tail
+|Quantity14 = 2
+|BuffBlast1 = 1
+
+}}

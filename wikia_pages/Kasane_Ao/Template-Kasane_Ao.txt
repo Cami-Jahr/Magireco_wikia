@@ -1,0 +1,181 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Kasane Ao
+| name_jp = 笠音 アオ
+| name_na = 
+| element = Aqua
+| base_rarity = 4
+| max_rarity = 5
+| id = 1023
+| type = Support
+| growth_type = ATKDEF
+| school_jp = 蛇の宮中学・高等学校
+| voice_actor_jp = 天野聡美
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2020-04-13
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 3
+| blast_vert_disks = 1
+| blast_hori_disks = 0
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 6279
+| 4star_attack_lv1 = 1782
+| 4star_defense_lv1 = 1763
+| 4star_hp_max = 22441
+| 4star_attack_max = 6507
+| 4star_defense_max = 6392
+| 4star_illustrator_jp = 蒼樹うめ
+
+| 5star_hp_lv1 = 7127
+| 5star_attack_lv1 = 2023
+| 5star_defense_lv1 = 2002
+| 5star_hp_max = 28294
+| 5star_attack_max = 8213
+| 5star_defense_max = 8068
+| 5star_illustrator_jp = いもあん
+
+| se_hp_bonus = 5717
+| se_attack_bonus = 2020
+| se_defense_bonus = 2979
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 5
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [III]
+| Passive 1 name JP = ドッペル・アデプト[Ⅲ]
+| Passive 1 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 3 icon = Charged Attack Damage Up
+| Passive 3 name = Charge Adept [II]
+| Passive 3 name JP = チャージ・アデプト[Ⅱ]
+| Passive 3 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [III]
+| Passive 4 name JP = ドッペル・アデプト[Ⅲ]
+| Passive 4 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Blast Damage Up
+| Passive 5 name = Blast Adept [II]
+| Passive 5 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 5 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 6 icon = Chance to Critical Hit
+| Passive 6 name = Critical Adept [II]
+| Passive 6 name JP = クリティカル・アデプト[Ⅱ]
+| Passive 6 effect = Chance to Critical Hit [II / 15%]
+
+| Passive 7 icon = Doppel Damage Up
+| Passive 7 name = Doppel Adept [III]
+| Passive 7 name JP = ドッペル・アデプト[Ⅲ]
+| Passive 7 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
+
+| Passive 8 icon = MP Gain Up When Over 100 MP
+| Passive 8 name = MP Boost [II]
+| Passive 8 name JP = MPブースト[Ⅱ]
+| Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 9 icon = Magia Damage Up
+| Passive 9 name = Magia Adept [II]
+| Passive 9 name JP = マギア・アデプト[Ⅱ]
+| Passive 9 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 10 icon = Damage Cut
+| Passive 10 name = Shield Adept [II]
+| Passive 10 name JP = シールド・アデプト[Ⅱ]
+| Passive 10 effect = Damage Cut [II / 10%]
+
+| Passive 11 icon = Magia Damage Up
+| Passive 11 name = Magia Adept [II]
+| Passive 11 name JP = マギア・アデプト[Ⅱ]
+| Passive 11 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 12 icon = Chance to Anti-Magia Seal
+| Passive 12 name = Anti-Magia Seal
+| Passive 12 name JP = アンチ・シールマギア
+| Passive 12 effect = Chance to Anti-Magia Seal [100%]
+
+| Passive 13 icon = Chance to Skill Quicken
+| Passive 13 name = Skill Quicken [III]
+| Passive 13 name JP = スキルクイック[Ⅲ]
+| Passive 13 effect = Chance to Skill Quicken [III / 15%]
+
+| Active 1 icon = Defense Down
+| Active 1 name = Aqua Fall [III]
+| Active 1 name JP = アクアフォール[Ⅲ]
+| Active 1 effect = Defense Down [III / 15%] (One / 3 Turns) & Aqua Defense Down [III / 18%] (One / 3 Turns)
+| Active 1 cooldown = 10
+
+| Connect name JP = プレイヤー２参戦！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = MP Restore
+| Connect 2 / 1 = IV / 20%
+| Connect 2 / 2 = VI / 25%
+| Connect effect 3 = Remove Debuffs
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
+
+| Magia name JP = 超必・ソニックエッジNo.Ⅵ
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = VI / 700%
+| Magia 1 / 2 = VIII / 740%
+| Magia effect 2 = Remove Buffs
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = One / 
+| Magia 2 / 2 = One / 
+| Magia effect 3 = Damage Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All / 3 Turns / VI / 27.5%
+| Magia 3 / 2 = All / 3 Turns / VIII / 32.5%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 悪果のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、叢雲
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage One Enemy [X / 1804%] & Remove Buffs [One] & Damage Up [X / 47.5% / All / 3 Turns]
+}}

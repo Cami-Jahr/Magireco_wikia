@@ -1,0 +1,175 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Chitose Yuma
+| name_jp = 千歳 ゆま
+| name_na = 
+| element = Forest
+| base_rarity = 3
+| max_rarity = 4
+| id = 4003
+| type = Heal
+| growth_type = DEFENSE
+| school_jp = ―
+| voice_actor_jp = 久野美咲
+| designer_jp = ムラ黒江
+| memoria = 
+| release_date = 2017-08-22
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 0
+| blast_hori_disks = 2
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 4101
+| 3star_attack_lv1 = 1182
+| 3star_defense_lv1 = 1587
+| 3star_hp_max = 13648
+| 3star_attack_max = 3962
+| 3star_defense_max = 5586
+| 3star_illustrator_jp = ムラ黒江
+
+| 4star_hp_lv1 = 5036
+| 4star_attack_lv1 = 1452
+| 4star_defense_lv1 = 1948
+| 4star_hp_max = 17736
+| 4star_attack_max = 5151
+| 4star_defense_max = 7266
+| 4star_illustrator_jp = ムラ黒江
+
+| 5star_hp_lv1 = 
+| 5star_attack_lv1 = 
+| 5star_defense_lv1 = 
+| 5star_hp_max = 
+| 5star_attack_max = 
+| 5star_defense_max = 
+| 5star_illustrator_jp = 
+
+| se_hp_bonus = 3709
+| se_attack_bonus = 1478
+| se_defense_bonus = 3194
+
+| se accele bonus = 6
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 3 icon = Blast Damage Up
+| Passive 3 name = Blast Adept [II]
+| Passive 3 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 3 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 4 icon = Defense Up
+| Passive 4 name = Guard Adept [III]
+| Passive 4 name JP = ガード・アデプト[Ⅲ]
+| Passive 4 effect = Defense Up [III / 22.5%]
+
+| Passive 5 icon = Defense Up
+| Passive 5 name = Guard Adept [III]
+| Passive 5 name JP = ガード・アデプト[Ⅲ]
+| Passive 5 effect = Defense Up [III / 22.5%]
+
+| Passive 6 icon = Chance to Anti-Stun
+| Passive 6 name = Anti-Stun
+| Passive 6 name JP = アンチ・スタン
+| Passive 6 effect = Chance to Anti-Stun [100%]
+
+| Passive 7 icon = Regenerate HP
+| Passive 7 name = Regeneration Adept [IV]
+| Passive 7 name JP = リジェネレイト・アデプト[Ⅳ]
+| Passive 7 effect = Regenerate HP [IV / 5%]
+
+| Passive 8 icon = Chance to Stun on Attack
+| Passive 8 name = Stun Edge [II]
+| Passive 8 name JP = スタン・エッジ[Ⅱ]
+| Passive 8 effect = Chance to Stun on Attack [II / 15%] (1 Turn)
+
+| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 name = Skill Quicken [II]
+| Passive 9 name JP = スキルクイック[Ⅱ]
+| Passive 9 effect = Chance to Skill Quicken [II / 10%]
+
+| Passive 10 icon = Magia Damage Up
+| Passive 10 name = Magia Adept [III]
+| Passive 10 name JP = マギア・アデプト[Ⅲ]
+| Passive 10 effect = Magia Damage Up [III / 10%]
+
+| Passive 11 icon = Magia Damage Up
+| Passive 11 name = Magia Adept [III]
+| Passive 11 name JP = マギア・アデプト[Ⅲ]
+| Passive 11 effect = Magia Damage Up [III / 10%]
+
+| Passive 12 icon = Status Ailment Resistance Up
+| Passive 12 name = Resist Adept [II]
+| Passive 12 name JP = レジスト・アデプト[Ⅱ]
+| Passive 12 effect = Status Ailment Resistance Up [II / 25%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = HP Restore
+| Active 1 name = Cure Heal Circle [VI]
+| Active 1 name JP = キュアヒール・サークル[Ⅵ]
+| Active 1 effect = HP Restore [VI / 21.2%] (All)
+| Active 1 cooldown = 10
+
+| Connect name JP = ゆまがお手伝いするの！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = HP Restore
+| Connect effect 1 = HP Restore
+| Connect 1 / 1 = V / 40%
+| Connect 1 / 2 = VII / 45%
+
+| Magia name JP = リンクスインパクト
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = II / 620%
+| Magia 1 / 2 = IV / 660%
+| Magia effect 2 = HP Restore
+| Magia scaling 2 = 2%
+| Magia 2 / 1 = All / II / 17.5%
+| Magia 2 / 2 = All / IV / 20%
+| Magia effect 3 = Status Ailment Resistance Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = All / 3 Turns / IV / 30%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 
+| Doppel Shape = 
+| Doppel Japanese Shape = 
+| Doppel Japanese Designer = 
+| Doppel effect = 
+}}

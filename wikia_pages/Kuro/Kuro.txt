@@ -1,0 +1,9 @@
+﻿{{Kuro}}
+
+{{Description
+| en = 
+| na = 
+| jp = ―
+}}
+
+{{Tabs}}
