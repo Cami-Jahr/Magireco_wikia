@@ -335,16 +335,18 @@ def make_magia_doppel_and_connect(dic, cards):
 """.format(c_name, c_icon)
     for i in range(len(all_ceff)):
         c_out += c_eff.format(i + 1, all_ceff[i])
-        for j in range(4, -1, -1):
+        for j in range(1, len(connects)+1):
             try:
-                word = connects[j][all_ceff[i]]
+                word = connects[-j][all_ceff[i]]
                 if word[1] == "1 Turn" or not word[1]:
                     st = word[0]
                 else:
                     st = f"{word[1]} / {word[0]}"
-            except (IndexError, KeyError):
+            except KeyError:
                 st = "-"
-            c_out += c_nr.format(i+1, 5-j, st)
+            except IndexError:
+                break
+            c_out += c_nr.format(i+1, j, st)
 
 
     all_meff = [e for e, i in sorted(all_meff.items(), key=lambda x: x[1], reverse=True)]
@@ -361,16 +363,18 @@ def make_magia_doppel_and_connect(dic, cards):
 """.format(m_name, m_icon)
     for i in range(len(all_meff)):
         m_out += m_eff.format(i + 1, all_meff[i], mscalings[all_meff[i]])
-        for j in range(4, -1, -1):
+        for j in range(1, len(magias)+1):
             try:
-                word = magias[j][all_meff[i]]
+                word = magias[-j][all_meff[i]]
                 if word[1] == "1 Turn" or not word[1]:
                     st = word[0]
                 else:
                     st = f"{word[1]} / {word[0]}"
-            except (IndexError, KeyError):
+            except KeyError:
                 st = "-"
-            m_out += m_nr.format(i+1, 5-j, st)
+            except IndexError:
+                break
+            m_out += m_nr.format(i+1, j, st)
 
     out = ""
     if d_titl:
@@ -404,7 +408,6 @@ def make_magia_doppel_and_connect(dic, cards):
     return c_out + m_out + d_out
 
 def make_spirit_enchantment(cells):
-
     a_output = p_output = ""
     acel = blst = char = atkk = deff = hppp = 0
     p_idx = a_idx = 1
@@ -484,6 +487,8 @@ def make_spirit_enchantment(cells):
     acel //= 10
     blst //= 10
     char //= 10
+    if hppp + atkk + deff + acel + blst + char == 0:
+        acel = blst = char = atkk = deff = hppp = ""
     stats = f"""
 | se_hp_bonus = {hppp}
 | se_attack_bonus = {atkk}

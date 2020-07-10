@@ -105,37 +105,14 @@ if __name__ == '__main__':
     up_chars = [
         1014, 3043, 1007
     ]
-    #files = get_filenames()
-    #print(files.__class__, len(files))
-    # print("1-----", files[111])
-
+    files = get_filenames()
     chars = get_char_list()
-    #print(chars.__class__, len(chars))
-    #print("2-----", chars[1001])
-
-    #mat_list = awaken.read_mats_json()
-    #print(mat_list.__class__)
-    #print("3-----")
-
-    #formated_mats = awaken.mats_formater(mat_list, files, chars)
-    #print(formated_mats.__class__)
-    #print("4-----", formated_mats[1001])
-
-    #voice_lines = voice.read_lines_json()
-    #print(voice_lines.__class__, len(voice_lines))
-    #print("5-----")
-
-    #formated_voice = voice.mats_sender(voice_lines)
-    #print(formated_voice.__class__, len(formated_voice))
-    #print("6-----", formated_voice[1001])
-    
-    #trivia = story.read_trivia_json()
-    #print(trivia.__class__)
-    #print("7-----", trivia[1001])
-
-    #formated_trivia = story.story_formater(trivia)
-    #print(formated_trivia.__class__)
-    #print("8-----", formated_trivia[1001])
+    mat_list = awaken.read_mats_json()
+    formated_mats = awaken.mats_formater(mat_list, files, chars)
+    voice_lines = voice.read_lines_json()
+    formated_voice = voice.mats_sender(voice_lines)
+    trivia = story.read_trivia_json()
+    formated_trivia = story.story_formater(trivia)
 
     for i in list(chars):
         s = chars[i].replace(" ", "_")

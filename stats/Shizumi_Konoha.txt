@@ -61,13 +61,13 @@
 | 5star_defense_max = 8793
 | 5star_illustrator_jp = ゆーげん
 
-| se_hp_bonus = 0
-| se_attack_bonus = 0
-| se_defense_bonus = 0
+| se_hp_bonus = 
+| se_attack_bonus = 
+| se_defense_bonus = 
 
-| se accele bonus = 0
-| se blast bonus = 0
-| se charge bonus = 0
+| se accele bonus = 
+| se blast bonus = 
+| se charge bonus = 
 
 | Passive 1 icon = 
 | Passive 1 name = 
@@ -145,23 +145,14 @@
 | Connect name NA = 
 | Connect icon = HP Restore
 | Connect effect 1 = HP Restore
-| Connect 1 / 1 = -
-| Connect 1 / 2 = -
-| Connect 1 / 3 = -
-| Connect 1 / 4 = VI / 42.5%
-| Connect 1 / 5 = VIII / 47.5%
+| Connect 1 / 1 = VI / 42.5%
+| Connect 1 / 2 = VIII / 47.5%
 | Connect effect 2 = Accele MP Gain Up
-| Connect 2 / 1 = -
-| Connect 2 / 2 = -
-| Connect 2 / 3 = -
-| Connect 2 / 4 = VII / 40%
-| Connect 2 / 5 = IX / 50%
+| Connect 2 / 1 = VII / 40%
+| Connect 2 / 2 = IX / 50%
 | Connect effect 3 = Attack Up
-| Connect 3 / 1 = -
-| Connect 3 / 2 = -
-| Connect 3 / 3 = -
-| Connect 3 / 4 = VII / 35%
-| Connect 3 / 5 = IX / 40%
+| Connect 3 / 1 = VII / 35%
+| Connect 3 / 2 = IX / 40%
 
 | Magia name JP = バタフライ・テンペスト
 | Magia name EN = 
@@ -169,25 +160,16 @@
 | Magia icon = Damage All Enemies
 | Magia effect 1 = Damage All Enemies
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = -
-| Magia 1 / 2 = -
-| Magia 1 / 3 = -
-| Magia 1 / 4 = IV / 330%
-| Magia 1 / 5 = VI / 350%
+| Magia 1 / 1 = IV / 330%
+| Magia 1 / 2 = VI / 350%
 | Magia effect 2 = Regenerate HP
 | Magia scaling 2 = 1%
-| Magia 2 / 1 = -
-| Magia 2 / 2 = -
-| Magia 2 / 3 = -
-| Magia 2 / 4 = All / 3 Turns / IV / 6%
-| Magia 2 / 5 = All / 3 Turns / VI / 8%
+| Magia 2 / 1 = All / 3 Turns / IV / 6%
+| Magia 2 / 2 = All / 3 Turns / VI / 8%
 | Magia effect 3 = Chance to Anti-Counter
 | Magia scaling 3 = 0%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = -
-| Magia 3 / 3 = -
-| Magia 3 / 4 = -
-| Magia 3 / 5 = All / 3 Turns / VI / 100%
+| Magia 3 / 2 = All / 3 Turns / VI / 100%
 
 | Doppel Name = 
 | Doppel Title = 
