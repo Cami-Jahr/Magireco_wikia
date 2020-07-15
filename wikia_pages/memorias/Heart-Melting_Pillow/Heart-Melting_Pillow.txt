@@ -1,0 +1,15 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 昼下がり、穏やかな午後。<br />みんなの前では強気でいても母の前ではやっぱり子供。<br />いつまでもこうしていられないのは彼女も分かってる。<br />でも、今だけはもう少し、夢の中に…。
+| en = 
+| na = 
+}}
+
+<!-- *This memoria features [[]]. --> <!-- Link and comma separate featured characters -->
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,15 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 最高のプレゼントを目にした瞬間の身体の熱も、<br />大切な１ページを記したときの鼓動の高鳴りも、<br />５年先、１０年先…何年経っても、僕はきっと忘れないだろう<br />どれだけページをめくっても、後にも先にも、この想いは一度きり
+| en = 
+| na = 
+}}
+
+<!-- *This memoria features [[]]. --> <!-- Link and comma separate featured characters -->
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,15 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 荒い波にさらわれて　夜の海で迷ったら<br />この手の弦月（つき）に　思いを馳せる<br />夏の暑さ　氷の冷たさ　海でのひととき　笑い声<br />弦月に封じたすべての記憶が　ふたりを照らす道しるべ
+| en = 
+| na = 
+}}
+
+<!-- *This memoria features [[]]. --> <!-- Link and comma separate featured characters -->
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

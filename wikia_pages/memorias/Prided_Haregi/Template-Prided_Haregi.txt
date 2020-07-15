@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Prided Haregi
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 自慢の晴れ着
+| Rarity = 3
+| ID = 1162
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 602
+| min_ATK = 602
+| min_DEF = 0
+| max_HP = 1505
+| max_ATK = 1505
+| max_DEF = 0
+
+| image = Accele MP Gain Up
+| effect_name = Astral Adept 
+| effect_name_JP = アストラル・アデプト
+| effect1 = Accele MP Gain Up [III / 15%] & Magia Damage Up [II / 7.5%]
+| effect2 = Accele MP Gain Up [IV / 17.5%] & Magia Damage Up [III / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

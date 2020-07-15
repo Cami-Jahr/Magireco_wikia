@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = It Seems I Wasn't Good Enough
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 私じゃダメだったみたい
+| Rarity = 3
+| ID = 1419
+| Illust = GAN
+| Owner = 
+
+| min_HP = 640
+| min_ATK = 0
+| min_DEF = 580
+| max_HP = 1600
+| max_ATK = 0
+| max_DEF = 1450
+
+| image = Attack Down
+| effect_name = ディスアポイントメント 
+| effect_name_JP = ディスアポイントメント
+| effect1 = Attack Down [III / 15%] (All / 1 Turn) & MP Gain Down [III / 20%] (All / 1 Turn)
+| effect2 = Attack Down [IV / 20%] (All / 1 Turn) & MP Gain Down [IV / 25%] (All / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

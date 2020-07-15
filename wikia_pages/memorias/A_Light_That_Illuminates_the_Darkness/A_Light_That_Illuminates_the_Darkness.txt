@@ -1,0 +1,15 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「わたしの力を時空管理局で役立てたいと思ったのは<br />なのはの魔法でわたし自身が救われたから<br />誰かを暗闇から導く光になりたい、そう思ったから<br />…広域次元犯罪の現行犯で、あなたを逮捕します」
+| en = 
+| na = 
+}}
+
+<!-- *This memoria features [[]]. --> <!-- Link and comma separate featured characters -->
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

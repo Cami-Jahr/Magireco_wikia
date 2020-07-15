@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Split-Second Tag Team
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 一瞬の連携プレー
+| Rarity = 3
+| ID = 1393
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 663
+| min_ATK = 0
+| min_DEF = 542
+| max_HP = 1658
+| max_ATK = 0
+| max_DEF = 1355
+
+| image = Attack Up
+| effect_name = Smite Up 
+| effect_name_JP = スマイトアップ
+| effect1 = Attack Up [III / 15%] (Self / 1 Turn) & Charged Attack Damage Up [II / 7.5%] (Self / 1 Turn)
+| effect2 = Attack Up [V / 25%] (Self / 1 Turn) & Charged Attack Damage Up [IV / 12.5%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Little Soldier
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 小さなつわもの
+| Rarity = 4
+| ID = 1399
+| Illust = 谷口淳一郎
+| Owner = 
+
+| min_HP = 847
+| min_ATK = 0
+| min_DEF = 767
+| max_HP = 2118
+| max_ATK = 0
+| max_DEF = 1918
+
+| image = Defense Down
+| effect_name = Forceアウト Counter 
+| effect_name_JP = フォースアウト・カウンター
+| effect1 = Defense Down [VII / 35%] (One / 1 Turn) & Chance to Anti-Counter [VII / 100%] (Self / 1 Turn)
+| effect2 = Defense Down [VIII / 40%] (One / 1 Turn) & Chance to Anti-Counter [VIII / 100%] (Self / 1 Turn)
+| Cooldown = 5
+| Cooldown2 = 4
+}}

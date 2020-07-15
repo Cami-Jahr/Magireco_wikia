@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Dive into Summer (Alina/Mifuyu)
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 夏へダイブ＜アリナ・みふゆ＞
+| Rarity = 3
+| ID = 1368
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 613
+| min_ATK = 0
+| min_DEF = 613
+| max_HP = 1532
+| max_ATK = 0
+| max_DEF = 1532
+
+| image = Blast Damage Up
+| effect_name = Blast Strike 
+| effect_name_JP = ブラスト・ストライク
+| effect1 = Blast Damage Up [V / 35%] (Self / 1 Turn) & Chance to Critical Hit [IV / 25%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [VI / 40%] (Self / 1 Turn) & Chance to Critical Hit [V / 30%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

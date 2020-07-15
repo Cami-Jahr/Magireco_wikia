@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Comrades in Arms
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 戦友たち
+| Rarity = 4
+| ID = 1511
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 881
+| min_ATK = 0
+| min_DEF = 721
+| max_HP = 2202
+| max_ATK = 0
+| max_DEF = 1802
+
+| image = Defense Up
+| effect_name = Guard Rise Circle 
+| effect_name_JP = ガードライズ・サークル
+| effect1 = Defense Up [II / 26.3%] (All / 3 Turns)
+| effect2 = Defense Up [III / 30%] (All / 3 Turns)
+| Cooldown = 12
+| Cooldown2 = 10
+}}

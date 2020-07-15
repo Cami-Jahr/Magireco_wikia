@@ -1,0 +1,15 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 繰り返し紡いだ糸　ひとつの点に重なって<br />重ねた約束と共に　数多を救う約束の光になる<br />新たな幕開けは少女の闇　囁いた言葉が　少女を掬い上げた<br />「あなたはわたしの、最高の友だちだったんだね」
+| en = 
+| na = 
+}}
+
+<!-- *This memoria features [[]]. --> <!-- Link and comma separate featured characters -->
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

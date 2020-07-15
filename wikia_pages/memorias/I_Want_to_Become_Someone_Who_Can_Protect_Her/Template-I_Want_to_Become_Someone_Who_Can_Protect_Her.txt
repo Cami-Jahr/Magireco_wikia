@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = I Want to Become Someone Who Can Protect Her
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 彼女を守る私になりたい
+| Rarity = 3
+| ID = 1081
+| Illust = 東山雄勢
+| Owner = Akemi Homura (Megane ver.)
+
+| min_HP = 441
+| min_ATK = 0
+| min_DEF = 481
+| max_HP = 1102
+| max_ATK = 0
+| max_DEF = 1202
+
+| image = Chance to Skill Quicken
+| effect_name = Skill Quicken
+| effect_name_JP = スキルクイック
+| effect1 = Chance to Skill Quicken [100%] (Self / 3 Turns)
+| effect2 = Chance to Skill Quicken [100%] (Self / 3 Turns)
+| Cooldown = 15
+| Cooldown2 = 13
+}}

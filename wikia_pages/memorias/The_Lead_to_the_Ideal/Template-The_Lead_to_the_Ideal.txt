@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Lead to the Ideal
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 理想への手がかり
+| Rarity = 3
+| ID = 1263
+| Illust = 都筑禰己
+| Owner = Chiaki Riko
+
+| min_HP = 481
+| min_ATK = 0
+| min_DEF = 438
+| max_HP = 1202
+| max_ATK = 0
+| max_DEF = 1095
+
+| image = Monopolize Draw
+| effect_name = モノポライズドロー
+| effect_name_JP = モノポライズドロー
+| effect1 = Monopolize Draw [100%]
+| effect2 = Monopolize Draw [100%]
+| Cooldown = 5
+| Cooldown2 = 4
+}}

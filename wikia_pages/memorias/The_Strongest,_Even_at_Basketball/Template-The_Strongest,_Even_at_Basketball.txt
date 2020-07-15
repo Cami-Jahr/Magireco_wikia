@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Strongest, Even at Basketball
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = バスケットボールでも最強！
+| Rarity = 3
+| ID = 1051
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 630
+| min_ATK = 0
+| min_DEF = 570
+| max_HP = 1575
+| max_ATK = 0
+| max_DEF = 1425
+
+| image = Defense Up
+| effect_name = ソリッド Up 
+| effect_name_JP = ソリッドアップ
+| effect1 = Defense Up [VII / 52.5%] (Self / 1 Turn) & Status Ailment Resistance Up [VI / 45%] (Self / 1 Turn)
+| effect2 = Defense Up [VIII / 60%] (Self / 1 Turn) & Status Ailment Resistance Up [VII / 50%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

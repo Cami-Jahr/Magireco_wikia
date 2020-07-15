@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = These Shoes Are Mine!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = あーしの靴でしょ！
+| Rarity = 2
+| ID = 1032
+| Illust = ニャン☆ぷぅ
+| Owner = 
+
+| min_HP = 382
+| min_ATK = 0
+| min_DEF = 422
+| max_HP = 955
+| max_ATK = 0
+| max_DEF = 1055
+
+| image = Defense Down
+| effect_name = Guardダウン 
+| effect_name_JP = ガードダウン
+| effect1 = Defense Down [V / 25%] (One / 1 Turn)
+| effect2 = Defense Down [VI / 30%] (One / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

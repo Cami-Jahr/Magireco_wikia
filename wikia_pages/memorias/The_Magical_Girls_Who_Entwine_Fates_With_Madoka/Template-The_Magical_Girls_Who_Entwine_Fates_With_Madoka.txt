@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Magical Girls Who Entwine Fates With Madoka
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = まどかと因果を紡ぐ魔法少女
+| Rarity = 3
+| ID = 1064
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 601
+| min_ATK = 601
+| min_DEF = 0
+| max_HP = 1502
+| max_ATK = 1502
+| max_DEF = 0
+
+| image = Magia Damage Up
+| effect_name = Magia Adept 
+| effect_name_JP = マギア・アデプト
+| effect1 = Magia Damage Up [III / 10%]
+| effect2 = Magia Damage Up [IV / 12.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

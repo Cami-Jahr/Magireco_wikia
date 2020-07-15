@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Power to Protect Who You Love
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 大切な人を守る力
+| Rarity = 4
+| ID = 1255
+| Illust = GAN
+| Owner = 
+
+| min_HP = 886
+| min_ATK = 724
+| min_DEF = 0
+| max_HP = 2215
+| max_ATK = 1810
+| max_DEF = 0
+
+| image = Defense Up When At Critical Health
+| effect_name = クライシス Shield 
+| effect_name_JP = クライシス・シールド
+| effect1 = Defense Up When At Critical Health [II / 30%] & Defense Up [III / 22.5%] & Damage Cut [II / 10%]
+| effect2 = Defense Up When At Critical Health [III / 40%] & Defense Up [IV / 30%] & Damage Cut [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

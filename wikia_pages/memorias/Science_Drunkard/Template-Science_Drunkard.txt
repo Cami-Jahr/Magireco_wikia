@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Science Drunkard
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = サイエンスドランカー
+| Rarity = 2
+| ID = 1029
+| Illust = GENJIN
+| Owner = 
+
+| min_HP = 422
+| min_ATK = 382
+| min_DEF = 0
+| max_HP = 1055
+| max_ATK = 955
+| max_DEF = 0
+
+| image = Chance to Poison on Attack
+| effect_name = Poison Edge 
+| effect_name_JP = ポイズン・エッジ
+| effect1 = Chance to Poison on Attack [II / 15%] (3 Turns)
+| effect2 = Chance to Poison on Attack [III / 20%] (3 Turns)
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Everything Desired
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 全ては思いのままに
+| Rarity = 3
+| ID = 1499
+| Illust = くらは
+| Owner = Yuzuki Rion
+
+| min_HP = 432
+| min_ATK = 512
+| min_DEF = 0
+| max_HP = 1080
+| max_ATK = 1280
+| max_DEF = 0
+
+| image = Accele MP Gain Up
+| effect_name = インテント Adept 
+| effect_name_JP = インテント・アデプト
+| effect1 = Accele MP Gain Up [III / 15%] & Chance to Anti-Charm [III / 100%]
+| effect2 = Accele MP Gain Up [IV / 17.5%] & Chance to Anti-Charm [IV / 100%]
+| Cooldown = 
+| Cooldown2 = 
+}}

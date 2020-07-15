@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Happy Sounds
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 幸せな音
+| Rarity = 3
+| ID = 1194
+| Illust = 秘鷺悠弥
+| Owner = Mao Himika
+
+| min_HP = 487
+| min_ATK = 447
+| min_DEF = 0
+| max_HP = 1218
+| max_ATK = 1118
+| max_DEF = 0
+
+| image = 
+| effect_name = Curseチップ Adept 
+| effect_name_JP = カースチップ・アデプト
+| effect1 = 
+| effect2 = 
+| Cooldown = 
+| Cooldown2 = 
+}}

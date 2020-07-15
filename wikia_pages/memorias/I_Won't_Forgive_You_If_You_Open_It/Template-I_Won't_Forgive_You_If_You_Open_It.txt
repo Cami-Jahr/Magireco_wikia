@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = I Won't Forgive You If You Open It
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 開けたら許さないから
+| Rarity = 4
+| ID = 1260
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 850
+| min_ATK = 770
+| min_DEF = 0
+| max_HP = 2125
+| max_ATK = 1925
+| max_DEF = 0
+
+| image = Chance to Bind on Attack
+| effect_name = Bind ブレイド 
+| effect_name_JP = バインド・ブレイド
+| effect1 = Chance to Bind on Attack [II / 15%] (1 Turn) & Damage Up [IV / 20%]
+| effect2 = Chance to Bind on Attack [III / 20%] (1 Turn) & Damage Up [V / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

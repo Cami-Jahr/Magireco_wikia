@@ -115,7 +115,7 @@ class Uploader:
 
     def upgrades_section(self, char, text):
         self.upload("Template:{}_Items".format(char), text)
-        # self.upload("{}/Upgrades".format(char), "{{" + """{} Items|Items""".format(char.replace("_", " ")) + "}}")
+        self.upload("{}/Upgrades".format(char), "{{" + """{} Items|Items""".format(char.replace("_", " ")) + "}}")
 
     def main_section(self, char, stats, text):
         self.upload("Template:" + char, stats)
@@ -133,22 +133,16 @@ class Uploader:
 def trivia_section(char):
     text = "{{SideStory\n|Side Story Translation Link = \n|Side Story = \n}}\n\n==Trivia==\n*\n\n{{Videos}}"
     return text
-    #self.upload("/".join([char, "Trivia"]), text)
 
 def voice_section(char, text):
     return text
-    #self.upload("/".join([char, "Quotes"]), text)
 
 def upgrades_section(char, text):
     stats = "{{" + """{} Items|Items""".format(char.replace("_", " ")) + "}}"
-    #self.upload("Template:{}_Items".format(char), text)
-    #self.upload("{}/Upgrades".format(char), stats)
     return text, stats
 
 def main_section(char, stats, text):
     text = "{{" + char + "}}" + "\n\n{{Description\n| en = \n| na = \n| jp = " + text + "\n}}\n\n{{Tabs}}"
-    #self.upload("Template:" + char, stats)
-    #self.upload(char, )
     return stats, text
 
 def abilities_section(char, doppel_story):
@@ -156,20 +150,16 @@ def abilities_section(char, doppel_story):
     if doppel_story:
         text += "\n\n{{Description\n| en = \n| na = \n| jp = " + doppel_story + "\n}}"
     return text
-    #self.upload("/".join([char, "Abilities"]), text)
 
 
 if __name__ == '__main__':
     files = get_filenames()
     chars = get_char_list()
     c_list = sorted(list(chars))
-    up_chars = [
-        
-    ]
+    up_chars = []
     if up_chars:
         S = Uploader()
         S.login(username, password)
-
 
     mat_list = awaken.read_mats_json()
     formated_mats = awaken.mats_formater(mat_list, files, chars)
@@ -181,7 +171,7 @@ if __name__ == '__main__':
     for i in c_list:
         ch = chars[i].replace(" ", "_")
         print(ch)
-        parent = os.path.join("wikia_pages", ch)
+        parent = os.path.join("wikia_pages", "characters", ch)
         Path(parent).mkdir(parents=True, exist_ok=True)
         #print(i, chars[i], f"https://magireco.fandom.com/wiki/Template:{ch}?action=edit")
 
@@ -190,7 +180,6 @@ if __name__ == '__main__':
         upgrade_temp_text, upgrade_page_text = upgrades_section(ch, formated_mats[i])
         trivia_text = trivia_section(ch)
         voice_page_text = voice_section(ch, formated_voice[i])
-
 
         for page, text in (
             (f"Template-{ch}", main_temp_text),
@@ -204,10 +193,6 @@ if __name__ == '__main__':
             (f"{ch}-Quotes", voice_page_text)):
             with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
                 f.write(text)
-
-        with open(f"stats/{ch}.txt", "w", encoding="utf-8-sig") as f:
-            f.write(main_temp_text)
-
 
     for _id in up_chars:
         S.main_section(chars[_id], read_stats.format_info(_id), formated_trivia[_id][0])

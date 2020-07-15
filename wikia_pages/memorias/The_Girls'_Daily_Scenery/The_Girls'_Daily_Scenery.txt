@@ -1,0 +1,15 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = マツリ「ごめん、遅くなっちゃった！」<br />アリサ「ったく！どこで油売ってたのよ…お詫びにジュース１本ね」<br />チサト「アリサだって、いつも朝、遅れるじゃない」<br />ハルカ「はいはい、じゃれ合いはそこまで！作戦会議始めるわよ」
+| en = 
+| na = 
+}}
+
+<!-- *This memoria features [[]]. --> <!-- Link and comma separate featured characters -->
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

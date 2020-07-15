@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Let's Eat Together
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 一緒に食べよ
+| Rarity = 3
+| ID = 1057
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 540
+| min_ATK = 0
+| min_DEF = 660
+| max_HP = 1350
+| max_ATK = 0
+| max_DEF = 1650
+
+| image = Damage Down
+| effect_name = Cower Slash 
+| effect_name_JP = クウェル・スラッシュ
+| effect1 = Damage Down [VII / 35%] (All / 1 Turn)
+| effect2 = Damage Down [VIII / 40%] (All / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

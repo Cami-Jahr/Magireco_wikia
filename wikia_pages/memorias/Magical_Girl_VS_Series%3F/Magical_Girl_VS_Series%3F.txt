@@ -1,0 +1,15 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 聖母性（マターナル・ピュア）に目覚めた完璧魔法聖女（パーフェクト<br />セイントマギカ）。天啓により授かりし奇跡の力（ミラクルエナジー）<br />で、新天地（かみはま）で絶対的勝利を贈呈（コネクト）する!?大聖離<br />魂砲撃（ティロ・セントドッぺリオン）で撃滅（フィナーレ）よ！
+| en = 
+| na = 
+}}
+
+<!-- *This memoria features [[]]. --> <!-- Link and comma separate featured characters -->
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

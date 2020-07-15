@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Helping at the Public Hall
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 公民館でお手伝い
+| Rarity = 3
+| ID = 1422
+| Illust = mepo
+| Owner = Toki Sunao
+
+| min_HP = 446
+| min_ATK = 0
+| min_DEF = 486
+| max_HP = 1115
+| max_ATK = 0
+| max_DEF = 1215
+
+| image = Chance to Critical Hit
+| effect_name = エスペランサ― Strike 
+| effect_name_JP = エスペランサ―・ストライク
+| effect1 = Chance to Critical Hit [III / 20%] (Self / 1 Turn) & Attack Up [V / 25%] (Self / 1 Turn)
+| effect2 = Chance to Critical Hit [IV / 25%] (Self / 1 Turn) & Attack Up [VI / 30%] (Self / 1 Turn)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

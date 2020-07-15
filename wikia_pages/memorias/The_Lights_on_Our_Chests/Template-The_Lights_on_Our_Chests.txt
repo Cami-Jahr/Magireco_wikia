@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Lights on Our Chests
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 胸に灯りを
+| Rarity = 3
+| ID = 1436
+| Illust = 都筑禰己
+| Owner = Rika & Ren (Christmas ver.)
+
+| min_HP = 450
+| min_ATK = 0
+| min_DEF = 490
+| max_HP = 1125
+| max_ATK = 0
+| max_DEF = 1225
+
+| image = Remove Debuffs
+| effect_name = カウンタラクト
+| effect_name_JP = カウンタラクト
+| effect1 = Remove Debuffs
+| effect2 = Remove Debuffs
+| Cooldown = 8
+| Cooldown2 = 6
+}}

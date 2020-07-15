@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Once Again, Taking Your Hand
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = もう一度、手を取って
+| Rarity = 4
+| ID = 1420
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 882
+| min_ATK = 721
+| min_DEF = 0
+| max_HP = 2205
+| max_ATK = 1802
+| max_DEF = 0
+
+| image = Blast Damage Up
+| effect_name = もう一度、手を取って 
+| effect_name_JP = もう一度、手を取って
+| effect1 = Blast Damage Up [III / 25%] & Accele MP Gain Up [III / 15%]
+| effect2 = Blast Damage Up [III / 25%] & Accele MP Gain Up [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

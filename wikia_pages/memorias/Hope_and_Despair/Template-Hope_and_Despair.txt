@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Hope and Despair
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 希望と絶望と
+| Rarity = 4
+| ID = 1175
+| Illust = 枡狐/蛙空
+| Owner = Melissa de Vignolles
+
+| min_HP = 723
+| min_ATK = 663
+| min_DEF = 0
+| max_HP = 1808
+| max_ATK = 1658
+| max_DEF = 0
+
+| image = MP Gain Up
+| effect_name = 希望と絶望と
+| effect_name_JP = 希望と絶望と
+| effect1 = MP Gain Up [V / 17.5%] & Magia Damage Up [VII / 20%]
+| effect2 = MP Gain Up [V / 17.5%] & Magia Damage Up [IX / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

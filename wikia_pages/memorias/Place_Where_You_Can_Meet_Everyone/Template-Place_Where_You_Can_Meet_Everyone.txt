@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Place Where You Can Meet Everyone
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 皆さんに会える場所
+| Rarity = 4
+| ID = 1355
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 800
+| min_ATK = 800
+| min_DEF = 0
+| max_HP = 2000
+| max_ATK = 2000
+| max_DEF = 0
+
+| image = Chance to Anti-Darkness
+| effect_name = オン ステージ 
+| effect_name_JP = オン・ステージ
+| effect1 = Chance to Anti-Darkness [IV / 100%] & Chance to Anti-Skill Seal [II / 40%] & Attack Up [II / 10%]
+| effect2 = Chance to Anti-Darkness [IX / 100%] & Chance to Anti-Skill Seal [II / 65%] & Attack Up [II / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

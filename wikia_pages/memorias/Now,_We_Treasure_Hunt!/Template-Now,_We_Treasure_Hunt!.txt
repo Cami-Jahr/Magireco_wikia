@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Now, We Treasure Hunt!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = いざ、宝探し！
+| Rarity = 4
+| ID = 1381
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 780
+| min_ATK = 842
+| min_DEF = 0
+| max_HP = 1950
+| max_ATK = 2105
+| max_DEF = 0
+
+| image = Blast Damage Up
+| effect_name = アドベンチャースピリット 
+| effect_name_JP = アドベンチャースピリット
+| effect1 = Blast Damage Up [II / 20%] & Accele MP Gain Up [II / 12.5%] & Chance to Anti-Charm [II / 100%]
+| effect2 = Blast Damage Up [IV / 30%] & Accele MP Gain Up [III / 15%] & Chance to Anti-Charm [III / 100%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Ayame Collection!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = あやめコレクション！
+| Rarity = 3
+| ID = 1118
+| Illust = 絵西
+| Owner = Mikuri Ayame
+
+| min_HP = 441
+| min_ATK = 0
+| min_DEF = 481
+| max_HP = 1102
+| max_ATK = 0
+| max_DEF = 1202
+
+| image = Chance to Critical Hit
+| effect_name = Critical Strike
+| effect_name_JP = クリティカル・ストライク
+| effect1 = Chance to Critical Hit [100%] (Self / 1 Turn)
+| effect2 = Chance to Critical Hit [100%] (Self / 1 Turn)
+| Cooldown = 15
+| Cooldown2 = 13
+}}

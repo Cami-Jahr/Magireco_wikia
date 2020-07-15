@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Only You Are Real
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 君だけが真実
+| Rarity = 4
+| ID = 1400
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 800
+| min_ATK = 0
+| min_DEF = 800
+| max_HP = 2000
+| max_ATK = 0
+| max_DEF = 2000
+
+| image = Status Ailment Resistance Down
+| effect_name = Cower Resist 
+| effect_name_JP = クウェル・レジスト
+| effect1 = Status Ailment Resistance Down [II / 7.5%] (All / 1 Turn)
+| effect2 = Status Ailment Resistance Down [IV / 12.5%] (All / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

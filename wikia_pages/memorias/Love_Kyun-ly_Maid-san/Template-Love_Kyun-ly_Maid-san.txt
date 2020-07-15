@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Love Kyun-ly Maid-san
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ラブキュンなメイドさん
+| Rarity = 4
+| ID = 1277
+| Illust = 植田亮
+| Owner = 
+
+| min_HP = 891
+| min_ATK = 701
+| min_DEF = 0
+| max_HP = 2228
+| max_ATK = 1752
+| max_DEF = 0
+
+| image = Attack Up When At Critical Health
+| effect_name = Crisis Bloom 
+| effect_name_JP = クライシスブルーム
+| effect1 = Attack Up When At Critical Health [III / 20%] & Defense Up When At Critical Health [III / 40%]
+| effect2 = Attack Up When At Critical Health [IV / 25%] & Defense Up When At Critical Health [IV / 50%]
+| Cooldown = 
+| Cooldown2 = 
+}}

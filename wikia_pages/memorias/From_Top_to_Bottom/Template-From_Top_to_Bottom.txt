@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = From Top to Bottom
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 上から下まで
+| Rarity = 4
+| ID = 1234
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 844
+| min_ATK = 0
+| min_DEF = 764
+| max_HP = 2110
+| max_ATK = 0
+| max_DEF = 1910
+
+| image = Remove Debuffs
+| effect_name = カウンタラクト
+| effect_name_JP = カウンタラクト
+| effect1 = Remove Debuffs
+| effect2 = Remove Debuffs
+| Cooldown = 8
+| Cooldown2 = 6
+}}

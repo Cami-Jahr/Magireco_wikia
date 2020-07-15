@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Minions of the Shadow Witch
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 影の魔女の手下
+| Rarity = 1
+| ID = 1008
+| Illust = 劇団イヌカレー
+| Owner = 
+
+| min_HP = 210
+| min_ATK = 0
+| min_DEF = 210
+| max_HP = 525
+| max_ATK = 0
+| max_DEF = 525
+
+| image = Status Ailment Resistance Down
+| effect_name = Resist Down 
+| effect_name_JP = レジストダウン
+| effect1 = Status Ailment Resistance Down [III / 10%] (One / 1 Turn)
+| effect2 = Status Ailment Resistance Down [IV / 12.5%] (One / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

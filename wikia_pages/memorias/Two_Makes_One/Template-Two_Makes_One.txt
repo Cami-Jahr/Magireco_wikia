@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Two Makes One
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ニコイチ
+| Rarity = 4
+| ID = 1378
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 400
+| min_ATK = 400
+| min_DEF = 0
+| max_HP = 1000
+| max_ATK = 1000
+| max_DEF = 0
+
+| image = Chance to Anti-Burn
+| effect_name = Anti-ヒート 
+| effect_name_JP = アンチ・ヒート
+| effect1 = Chance to Anti-Burn [III / 100%] & Regenerate HP [III / 4%]
+| effect2 = Chance to Anti-Burn [III / 100%] & Regenerate HP [III / 4%]
+| Cooldown = 
+| Cooldown2 = 
+}}

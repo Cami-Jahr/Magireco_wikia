@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Ascending Cherry Blossom Front
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 桜前線急上昇
+| Rarity = 4
+| ID = 1476
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 920
+| min_ATK = 0
+| min_DEF = 840
+| max_HP = 2300
+| max_ATK = 0
+| max_DEF = 2100
+
+| image = Chance to Magia Seal
+| effect_name = リストリクト Magia 
+| effect_name_JP = リストリクト・マギア
+| effect1 = Chance to Magia Seal [VI / 100%] (One / 1 Turn) & Attack Down [VI / 30%] (One / 1 Turn)
+| effect2 = Chance to Magia Seal [VII / 100%] (One / 1 Turn) & Attack Down [VII / 35%] (One / 1 Turn)
+| Cooldown = 5
+| Cooldown2 = 4
+}}

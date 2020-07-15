@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Self-Proclaimed 500-Year-Old Vampire
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 自称500歳の吸血鬼
+| Rarity = 4
+| ID = 1311
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 800
+| min_ATK = 0
+| min_DEF = 799
+| max_HP = 2000
+| max_ATK = 0
+| max_DEF = 1998
+
+| image = Blast Damage Up
+| effect_name = Eliminate Up 
+| effect_name_JP = エリミネイトアップ
+| effect1 = Blast Damage Up [IV / 30%] (Self / 1 Turn) & Magia Damage Up [II / 7.5%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [VI / 40%] (Self / 1 Turn) & Magia Damage Up [IV / 12.5%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Even if I Take a Wrong Path
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = たとえ道を間違えても
+| Rarity = 4
+| ID = 1343
+| Illust = ゆーげん
+| Owner = 
+
+| min_HP = 803
+| min_ATK = 0
+| min_DEF = 803
+| max_HP = 2008
+| max_ATK = 0
+| max_DEF = 2008
+
+| image = Chance to Anti-Counter
+| effect_name = ディスミス Counter 
+| effect_name_JP = ディスミス・カウンター
+| effect1 = Chance to Anti-Counter [IX / 65%] (Self / 3 Turns) & Attack Up [VI / 30%] (Self / 3 Turns)
+| effect2 = Chance to Anti-Counter [XII / 80%] (Self / 3 Turns) & Attack Up [VII / 35%] (Self / 3 Turns)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

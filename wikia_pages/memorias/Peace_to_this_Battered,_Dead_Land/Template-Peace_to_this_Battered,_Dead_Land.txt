@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Peace to this Battered, Dead Land
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 時化た枯れ地に安寧を
+| Rarity = 4
+| ID = 1321
+| Illust = 谷口淳一郎
+| Owner = 
+
+| min_HP = 766
+| min_ATK = 0
+| min_DEF = 845
+| max_HP = 1915
+| max_ATK = 0
+| max_DEF = 2112
+
+| image = Magia Damage Up
+| effect_name = Magia Up Circle 
+| effect_name_JP = マギアアップ・サークル
+| effect1 = Magia Damage Up [III / 10%] (All / 1 Turn)
+| effect2 = Magia Damage Up [IV / 12.5%] (All / 1 Turn)
+| Cooldown = 12
+| Cooldown2 = 10
+}}

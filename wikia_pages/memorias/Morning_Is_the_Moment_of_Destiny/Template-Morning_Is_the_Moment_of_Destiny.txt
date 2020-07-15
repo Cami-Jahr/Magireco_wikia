@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Morning Is the Moment of Destiny
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 朝は運命の瞬間
+| Rarity = 4
+| ID = 1214
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 721
+| min_ATK = 0
+| min_DEF = 878
+| max_HP = 1802
+| max_ATK = 0
+| max_DEF = 2195
+
+| image = Magia Damage Down
+| effect_name = Magiaダウン 
+| effect_name_JP = マギアダウン
+| effect1 = Magia Damage Down [X / 50%] (One / 1 Turn)
+| effect2 = Magia Damage Down [X / 50%] (One / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

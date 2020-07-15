@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Reconciliation Between the East and West
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 東西の講和
+| Rarity = 4
+| ID = 1224
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 760
+| min_ATK = 0
+| min_DEF = 841
+| max_HP = 1900
+| max_ATK = 0
+| max_DEF = 2102
+
+| image = Chance to Anti-Evade
+| effect_name = Aiming
+| effect_name_JP = エイミング
+| effect1 = Chance to Anti-Evade [VI / 50%] (Self / 1 Turn)
+| effect2 = Chance to Anti-Evade [100%] (Self / 1 Turn)
+| Cooldown = 5
+| Cooldown2 = 4
+}}

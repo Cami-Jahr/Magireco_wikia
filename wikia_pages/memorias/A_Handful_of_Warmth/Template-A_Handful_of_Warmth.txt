@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Handful of Warmth
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 掌中のぬくもり
+| Rarity = 4
+| ID = 1249
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 400
+| min_ATK = 400
+| min_DEF = 0
+| max_HP = 1000
+| max_ATK = 1000
+| max_DEF = 0
+
+| image = 
+| effect_name = ラック Adept 
+| effect_name_JP = ラック・アデプト
+| effect1 = 
+| effect2 = 
+| Cooldown = 
+| Cooldown2 = 
+}}

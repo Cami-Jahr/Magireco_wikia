@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = â€˜Tis I, the Third Amane Sister, Tsukune
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 天音姉妹の三女月練でござる
+| Rarity = 3
+| ID = 1197
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 659
+| min_ATK = 0
+| min_DEF = 544
+| max_HP = 1648
+| max_ATK = 0
+| max_DEF = 1360
+
+| image = Chance to Dazzle
+| effect_name = 天音姉妹の三女月練でござる
+| effect_name_JP = 天音姉妹の三女月練でござる
+| effect1 = Chance to Dazzle [8 / 8%] (One / 1 Turn)
+| effect2 = Chance to Dazzle [88 / 16%] (One / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

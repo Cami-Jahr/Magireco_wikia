@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Happiest Moment in Human Life
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 人生で最も幸せな時間
+| Rarity = 4
+| ID = 1494
+| Illust = くらは
+| Owner = 
+
+| min_HP = 914
+| min_ATK = 754
+| min_DEF = 0
+| max_HP = 2285
+| max_ATK = 1885
+| max_DEF = 0
+
+| image = Attack Up While At Max Health
+| effect_name = Full Gaugeオーバードライブ 
+| effect_name_JP = フルゲージオーバードライブ
+| effect1 = Attack Up While At Max Health [IV / 20%] & Attack Up [III / 15%]
+| effect2 = Attack Up While At Max Health [V / 25%] & Attack Up [IV / 20%]
+| Cooldown = 
+| Cooldown2 = 
+}}

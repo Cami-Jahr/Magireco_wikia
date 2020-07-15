@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Meddlesome Timing
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = お節介なタイミング
+| Rarity = 4
+| ID = 1330
+| Illust = 谷口淳一郎
+| Owner = 
+
+| min_HP = 732
+| min_ATK = 882
+| min_DEF = 0
+| max_HP = 1830
+| max_ATK = 2205
+| max_DEF = 0
+
+| image = Ignore Damage Cut
+| effect_name = ショーテル Adept 
+| effect_name_JP = ショーテル・アデプト
+| effect1 = Ignore Damage Cut [V / 50%] & Charged Attack Damage Up [IV / 12.5%]
+| effect2 = Ignore Damage Cut [VII / 60%] & Charged Attack Damage Up [V / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

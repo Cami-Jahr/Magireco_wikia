@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = An Uncrossable Gap
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 越えられない溝
+| Rarity = 4
+| ID = 1229
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 804
+| min_ATK = 0
+| min_DEF = 804
+| max_HP = 2010
+| max_ATK = 0
+| max_DEF = 2010
+
+| image = Accele MP Gain Down
+| effect_name = Cower Astral 
+| effect_name_JP = クウェル・アストラル
+| effect1 = Accele MP Gain Down [IX / 25%] (All / 1 Turn) & Magia Damage Down [VI / 30%] (All / 1 Turn)
+| effect2 = Accele MP Gain Down [X / 27.5%] (All / 1 Turn) & Magia Damage Down [VII / 35%] (All / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

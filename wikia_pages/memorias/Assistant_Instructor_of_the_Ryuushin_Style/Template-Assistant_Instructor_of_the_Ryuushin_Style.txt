@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Assistant Instructor of the Ryuushin Style
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 竜真流師範代
+| Rarity = 4
+| ID = 1203
+| Illust = 谷口淳一郎
+| Owner = 
+
+| min_HP = 882
+| min_ATK = 722
+| min_DEF = 0
+| max_HP = 2205
+| max_ATK = 1805
+| max_DEF = 0
+
+| image = Chance to Counter
+| effect_name = 反撃攻勢 
+| effect_name_JP = 反撃攻勢
+| effect1 = Chance to Counter [IV / 80%] & Chance to Provoke [V / 30%]
+| effect2 = Chance to Counter [V / 80%] & Chance to Provoke [VI / 35%]
+| Cooldown = 
+| Cooldown2 = 
+}}

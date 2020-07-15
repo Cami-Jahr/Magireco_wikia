@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Beach House Fun
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 海の家の楽しみ
+| Rarity = 3
+| ID = 1382
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 550
+| min_ATK = 0
+| min_DEF = 670
+| max_HP = 1375
+| max_ATK = 0
+| max_DEF = 1675
+
+| image = HP Restore
+| effect_name = Cure Heal 
+| effect_name_JP = キュアヒール
+| effect1 = HP Restore [I / 30%]
+| effect2 = HP Restore [I / 30%]
+| Cooldown = 10
+| Cooldown2 = 8
+}}

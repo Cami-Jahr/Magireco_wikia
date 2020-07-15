@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Closely Watched Heart
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 寄り添い見守る心
+| Rarity = 2
+| ID = 1018
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 420
+| min_ATK = 0
+| min_DEF = 380
+| max_HP = 1050
+| max_ATK = 0
+| max_DEF = 950
+
+| image = Defense Up
+| effect_name = Guard Up 
+| effect_name_JP = ガードアップ
+| effect1 = Defense Up [V / 37.5%] (Self / 1 Turn)
+| effect2 = Defense Up [VI / 45%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

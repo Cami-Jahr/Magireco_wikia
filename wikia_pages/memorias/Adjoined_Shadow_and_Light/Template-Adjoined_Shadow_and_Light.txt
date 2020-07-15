@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Adjoined Shadow and Light
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 寄り添う影と光
+| Rarity = 2
+| ID = 1173
+| Illust = 枡狐/蛙空
+| Owner = 
+
+| min_HP = 442
+| min_ATK = 0
+| min_DEF = 362
+| max_HP = 1105
+| max_ATK = 0
+| max_DEF = 905
+
+| image = Chance to Anti-Evade
+| effect_name = Battle Sense
+| effect_name_JP = バトルセンス
+| effect1 = Chance to Anti-Evade [100%] (Self / 1 Turn) & Chance to Anti-Counter [100%] (Self / 1 Turn)
+| effect2 = Chance to Anti-Evade [100%] (Self / 1 Turn) & Chance to Anti-Counter [100%] (Self / 1 Turn)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

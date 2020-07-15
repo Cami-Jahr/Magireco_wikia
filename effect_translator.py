@@ -14,6 +14,7 @@ roman_to_full = {
     "XI": "XI",    
     "XII": "XII",    
     "XIII": "XIII",
+    "ⅩⅢ": "XIII",
     "XIV": "XIV",    
     "XV": "XV",   
     "XⅤ": "XV",
@@ -27,6 +28,8 @@ roman_to_full = {
     "XXIII": "XXIII",
     "XXIV": "XXIV",    
     "XXV": "XXV",
+    "8": "8",  # ‘Tis I, the Third Amane Sister, Tsukune
+    "88": "88",
 }
 
 # Format is (description, uses_roman, includes_turns, no_state_target)
@@ -58,6 +61,8 @@ good = {
     "DAMAGE_UP_BAD": ("Damage Up Versus Enemies Affected With Status Ailments", True, False),
     "SURVIVE": ("Survive", True, False),
     "MP_PLUS_BLAST" : ("Blast MP Gain Up", True, False),
+    "DAMAGE_UP": ("Damage Up", True, False),
+    "ATTACK_UP": ("Attack Up", True, False),  
 }
 
 bad = {
@@ -117,6 +122,9 @@ ignore = {
     "RESTRAINT": ("Chance to Anti-Bind", True, False),
     "PROVOKE": ("Chance to Anti-Provoke", True, False),
     "STUN": ("Chance to Anti-Stun", True, False),
+    "FOG": ("Chance to Anti-Fog", True, False),
+    "BLINDNESS": ("Chance to Anti-Dazzle", True, False),
+    "DARKNESS": ("Chance to Anti-Darkness", True, False),
 }
 
 revoke = {
@@ -172,6 +180,11 @@ buff_hpmax = {
 
 draw = {
     "AGAIN": ("Redraw Discs", False, False),
+    "ACCEL": ("Accele Draw", False, False),    
+    "BLAST": ("Blast Draw", False, False),    
+    "CHARGE": ("Charge Draw", False, False),    
+    "ALIGNMENT": ("Attribute Draw", False, False),    
+    "SELF": ("Monopolize Draw", False, False),
 }
 
 limited = {
@@ -194,6 +207,11 @@ resurrect = {
     "ONE": ("Revive one Ally", False, True),
 }
 
+buff_die = {
+    "ATTACK": ("Attack Up Upon Death", True, True),    
+    "DEFENSE": ("Defense Up Upon Death", True, True),
+}
+
 master = {  # verbCode
     "CONDITION_GOOD" : good,
     "CONDITION_BAD": bad,
@@ -211,7 +229,7 @@ master = {  # verbCode
     "LIMITED_ENEMY_TYPE": limited,
     "ATTACK": attack,
     "RESURRECT": resurrect,
-
+    "BUFF_DIE": buff_die,
 }
 
 # Hard coded first before ・, general tls after
@@ -220,6 +238,8 @@ jp_to_en = {
     "ヘルスリカバリー": "Health Recovery",
     "MPブースト": "MP Boost",
     "フルスウィングアップ": "Full Swing Up",
+    "イグノアデバフ": "Ignore Debuffs",
+    "グリッターライズ": "Glitterise",
     "フルスウィング": "Full Swing Up",
     "クライシスブルーム": "Crisis Bloom",
     "スキルクイック": "Skill Quicken",
@@ -253,7 +273,9 @@ jp_to_en = {
     "ブルームダウン": "Bloom Down",
     "アタックダウン": "Attack Down",
     "レジストダウン": "Resist Down",
+    "ガードライズ・サークル": "Guard Rise Circle",
     "パンプアップ": "Pump Up",
+    "エンスジアスティカリー": "Enthusiastically",
     "マナアブソーブ": "Mana Absorb",
     "チアアップ": "Cheer Up",
     "フルゲージドライブ": "Full Gauge Drive",
@@ -290,6 +312,7 @@ jp_to_en = {
     "ダウナー": "Downer",
     "パフォーマンス": "Performance",
     "リヴァイタライズ": "Revitalize",
+    "スマイト": "Smite",
     "ディープ": "Deep",
     "リフレッシュ": "Refresh",
     "スタブ": "Stub",
@@ -382,6 +405,9 @@ def translate(shortDescription, arts):
     idx = 0
     for art in arts:
         try:
+            if art["verbCode"] == "OTHER":
+                print("Special other:", art)
+                continue
             sub = master[art["verbCode"]]
         except KeyError as e:
             print("UNKNOWN verbCode   =", art["verbCode"], "in master", art)

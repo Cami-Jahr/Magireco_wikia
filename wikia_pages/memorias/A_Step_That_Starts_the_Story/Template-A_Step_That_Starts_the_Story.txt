@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Step That Starts the Story
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 物語が始まる一歩
+| Rarity = 4
+| ID = 1323
+| Illust = 富士フジノ
+| Owner = 
+
+| min_HP = 400
+| min_ATK = 400
+| min_DEF = 0
+| max_HP = 1000
+| max_ATK = 1000
+| max_DEF = 0
+
+| image = 
+| effect_name = エピソード Adept 
+| effect_name_JP = エピソード・アデプト
+| effect1 = 
+| effect2 = 
+| Cooldown = 
+| Cooldown2 = 
+}}

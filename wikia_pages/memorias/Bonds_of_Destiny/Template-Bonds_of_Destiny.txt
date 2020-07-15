@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Bonds of Destiny
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 運命の結びつき
+| Rarity = 3
+| ID = 1272
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 610
+| min_ATK = 0
+| min_DEF = 610
+| max_HP = 1525
+| max_ATK = 0
+| max_DEF = 1525
+
+| image = Defense Up
+| effect_name = Solid Rise 
+| effect_name_JP = ソリッドライズ
+| effect1 = Defense Up [IV / 30%] (Self / 3 Turns) & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns)
+| effect2 = Defense Up [V / 37.5%] (Self / 3 Turns) & Status Ailment Resistance Up [IV / 35%] (Self / 3 Turns)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

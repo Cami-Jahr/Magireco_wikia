@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Minions of the Box Witch
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ハコの魔女の手下
+| Rarity = 1
+| ID = 1005
+| Illust = 劇団イヌカレー
+| Owner = 
+
+| min_HP = 180
+| min_ATK = 0
+| min_DEF = 220
+| max_HP = 450
+| max_ATK = 0
+| max_DEF = 550
+
+| image = Attack Down
+| effect_name = Attack Down 
+| effect_name_JP = アタックダウン
+| effect1 = Attack Down [III / 15%] (One / 1 Turn)
+| effect2 = Attack Down [IV / 20%] (One / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

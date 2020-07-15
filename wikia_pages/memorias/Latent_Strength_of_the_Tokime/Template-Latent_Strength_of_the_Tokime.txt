@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Latent Strength of the Tokime
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 時女の底力
+| Rarity = 4
+| ID = 1423
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 854
+| min_ATK = 0
+| min_DEF = 774
+| max_HP = 2135
+| max_ATK = 0
+| max_DEF = 1935
+
+| image = Blast Damage Up
+| effect_name = Full Burst 
+| effect_name_JP = フルバースト
+| effect1 = Blast Damage Up [V / 35%] (Self / 1 Turn) & Accele MP Gain Up [V / 20%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [VI / 40%] (Self / 1 Turn) & Accele MP Gain Up [VI / 22.5%] (Self / 1 Turn)
+| Cooldown = 5
+| Cooldown2 = 4
+}}

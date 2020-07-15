@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Hello from Atop the Stairs
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 階段からこんにちは
+| Rarity = 3
+| ID = 1189
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 663
+| min_ATK = 0
+| min_DEF = 543
+| max_HP = 1658
+| max_ATK = 0
+| max_DEF = 1358
+
+| image = Chance to Critical Hit
+| effect_name = Critical Strike 
+| effect_name_JP = クリティカル・ストライク
+| effect1 = Chance to Critical Hit [IV / 25%] (Self / 1 Turn)
+| effect2 = Chance to Critical Hit [V / 30%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

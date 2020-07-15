@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Nagisa Will Resolve Things!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = なぎさが解決するのです！
+| Rarity = 4
+| ID = 1270
+| Illust = 谷口淳一郎
+| Owner = 
+
+| min_HP = 732
+| min_ATK = 0
+| min_DEF = 892
+| max_HP = 1830
+| max_ATK = 0
+| max_DEF = 2230
+
+| image = Chance to Stun
+| effect_name = ピーカーブー 
+| effect_name_JP = ピーカーブー
+| effect1 = Chance to Stun [II / 32.5%] (One / 1 Turn) & Blast Damage Down [VII / 20%] (One / 2 Turns) & Attack Down [III / 15%] (One / 2 Turns)
+| effect2 = Chance to Stun [IV / 37.5%] (One / 1 Turn) & Blast Damage Down [VIII / 22.5%] (One / 2 Turns) & Attack Down [IV / 20%] (One / 2 Turns)
+| Cooldown = 10
+| Cooldown2 = 8
+}}

@@ -1,0 +1,15 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 端末を手に持って、準備が出来たら『TOUCH SCREEN』<br />タイトルの新着情報を案内するのは、リリースからの初日組<br />同じ時間を走る不思議な世界でガチャ運に苦しんだりしながらも<br />フレッシュな情報を毎回お届けします♪（コミック発売記念）
+| en = 
+| na = 
+}}
+
+<!-- *This memoria features [[]]. --> <!-- Link and comma separate featured characters -->
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

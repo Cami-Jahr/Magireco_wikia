@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Kindness Can Be Madeâ€Ž
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = やさしいは作れる
+| Rarity = 4
+| ID = 1472
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 853
+| min_ATK = 773
+| min_DEF = 0
+| max_HP = 2132
+| max_ATK = 1932
+| max_DEF = 0
+
+| image = Damage Up
+| effect_name = アーマメント Adept 
+| effect_name_JP = アーマメント・アデプト
+| effect1 = Damage Up [IV / 20%] & Damage Cut [III / 15%]
+| effect2 = Damage Up [V / 25%] & Damage Cut [IV / 20%]
+| Cooldown = 
+| Cooldown2 = 
+}}

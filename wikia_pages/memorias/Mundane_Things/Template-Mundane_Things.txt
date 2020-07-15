@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Mundane Things
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ありふれたもの
+| Rarity = 3
+| ID = 1111
+| Illust = かにぱんだ
+| Owner = Sakura Kyouko
+
+| min_HP = 467
+| min_ATK = 0
+| min_DEF = 467
+| max_HP = 1168
+| max_ATK = 0
+| max_DEF = 1168
+
+| image = Endure
+| effect_name = Fortitude Soul
+| effect_name_JP = フォティチュード・ソウル
+| effect1 = Endure [100%] (Self / 3 Turns)
+| effect2 = Endure [100%] (Self / 3 Turns)
+| Cooldown = 15
+| Cooldown2 = 13
+}}

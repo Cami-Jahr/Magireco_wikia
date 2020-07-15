@@ -1,0 +1,15 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「最近、ずっと劇の練習をしていたときのことを思い出すの。<br />わたし、いつもひとりで漫画を描いてるからだと思うんだけど、<br />みんなで練習をするのって、とっても新鮮で楽しかったのっ！<br />…あっ、またみんな誘ったら劇をやってくれるかもしれないの！」
+| en = 
+| na = 
+}}
+
+<!-- *This memoria features [[]]. --> <!-- Link and comma separate featured characters -->
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Rumor's Time
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ウワサの時間
+| Rarity = 3
+| ID = 1479
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 601
+| min_ATK = 601
+| min_DEF = 0
+| max_HP = 1502
+| max_ATK = 1502
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Bloom Adept 
+| effect_name_JP = ブルーム・アデプト
+| effect1 = Attack Up [II / 10%] & Defense Up [II / 15%]
+| effect2 = Attack Up [III / 15%] & Defense Up [III / 22.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

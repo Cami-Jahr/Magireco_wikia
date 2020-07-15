@@ -1,0 +1,15 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 深月フェリシアに案内されて辿り着いたのは薄暗い地下水路<br />そこで待ち受けていたのは、追っていた魔法少女ではなく、<br />地下水路を住処にしていた、暗闇の生物たちだった！<br />キーッキーッキーッ！「きゃあー！」「うわっ！」「あっははは！」
+| en = 
+| na = 
+}}
+
+<!-- *This memoria features [[]]. --> <!-- Link and comma separate featured characters -->
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

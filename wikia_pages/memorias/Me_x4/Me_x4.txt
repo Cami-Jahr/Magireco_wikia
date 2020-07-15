@@ -1,0 +1,15 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = しーあの人4はのるいにここりまつ…しーあとしーあとしーあとしーあ<br />！しだしーあ！ょしでるが上り盛くない違間、ばれま集がちたしーあ<br />！しいなかしるすィテーパでちたしーあらたしーそ、しーよ<br />！しるえ歌で人4、歌なき好のしーあ、しーいもケオラカらたしーそ
+| en = 
+| na = 
+}}
+
+<!-- *This memoria features [[]]. --> <!-- Link and comma separate featured characters -->
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
