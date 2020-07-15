@@ -20,8 +20,8 @@
 | image = Damage Up
 | effect_name = アーマメント Adept 
 | effect_name_JP = アーマメント・アデプト
-| effect1 = Damage Up [II / 10%] & Damage Cut [II / 10%]
-| effect2 = Damage Up [III / 15%] & Damage Cut [III / 15%]
+| effect1 = Damage Increase [II / 10%] & Damage Cut [II / 10%]
+| effect2 = Damage Increase [III / 15%] & Damage Cut [III / 15%]
 | Cooldown = 
 | Cooldown2 = 
 }}

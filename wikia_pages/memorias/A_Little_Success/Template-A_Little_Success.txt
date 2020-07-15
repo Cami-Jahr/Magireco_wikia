@@ -17,11 +17,11 @@
 | max_ATK = 1000
 | max_DEF = 0
 
-| image = Regenerate HP
+| image = Episode Experience Gain Increased
 | effect_name = ハートウォーム Adept 
 | effect_name_JP = ハートウォーム・アデプト
-| effect1 = Regenerate HP [II / 4%]
-| effect2 = Regenerate HP [II / 4%]
+| effect1 = Episode Experience Gain Increased [II / 20%] & Regenerate HP [III / 4%]
+| effect2 = Episode Experience Gain Increased [II / 20%] & Regenerate HP [III / 4%]
 | Cooldown = 
 | Cooldown2 = 
 }}

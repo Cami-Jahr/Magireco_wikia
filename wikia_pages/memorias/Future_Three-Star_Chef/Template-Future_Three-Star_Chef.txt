@@ -20,8 +20,8 @@
 | image = Damage Up
 | effect_name = ウェポン Adept 
 | effect_name_JP = ウェポン・アデプト
-| effect1 = Damage Up [II / 10%]
-| effect2 = Damage Up [III / 15%]
+| effect1 = Damage Increase [II / 10%]
+| effect2 = Damage Increase [III / 15%]
 | Cooldown = 
 | Cooldown2 = 
 }}

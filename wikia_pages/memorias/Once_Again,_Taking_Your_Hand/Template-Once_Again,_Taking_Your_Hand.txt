@@ -20,8 +20,8 @@
 | image = Blast Damage Up
 | effect_name = もう一度、手を取って 
 | effect_name_JP = もう一度、手を取って
-| effect1 = Blast Damage Up [III / 25%] & Accele MP Gain Up [III / 15%]
-| effect2 = Blast Damage Up [III / 25%] & Accele MP Gain Up [III / 15%]
+| effect1 = Blast Damage Up [III / 25%] & Accele MP Gain Up [III / 15%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| effect2 = Blast Damage Up [III / 25%] & Accele MP Gain Up [III / 15%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
 | Cooldown = 
 | Cooldown2 = 
 }}

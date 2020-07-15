@@ -20,8 +20,8 @@
 | image = Damage Up
 | effect_name = エンハンス アーマメント 
 | effect_name_JP = エンハンス・アーマメント
-| effect1 = Damage Up [V / 25%] (Self / 3 Turns) & Damage Cut [IV / 20%] (Self / 3 Turns)
-| effect2 = Damage Up [VI / 30%] (Self / 3 Turns) & Damage Cut [V / 25%] (Self / 3 Turns)
+| effect1 = Damage Increase [V / 25%] (Self / 3 Turns) & Damage Cut [IV / 20%] (Self / 3 Turns)
+| effect2 = Damage Increase [VI / 30%] (Self / 3 Turns) & Damage Cut [V / 25%] (Self / 3 Turns)
 | Cooldown = 9
 | Cooldown2 = 8
 }}

@@ -212,6 +212,13 @@ buff_die = {
     "DEFENSE": ("Defense Up Upon Death", True, True),
 }
 
+other = {
+    "QUESTBATTLE_ATK": ("((Increased ATK during some quest))", False, False),
+    "QUESTBATTLE_DEF": ("((Increased DEF during some quest))", False, False),
+    "EPISODE_UP": ("Episode Experience Gain Increased", True, False),
+    "GOLD_UP": ("CC Gain Up", True, False),
+}
+
 master = {  # verbCode
     "CONDITION_GOOD" : good,
     "CONDITION_BAD": bad,
@@ -230,6 +237,7 @@ master = {  # verbCode
     "ATTACK": attack,
     "RESURRECT": resurrect,
     "BUFF_DIE": buff_die,
+    "OTHER": other,
 }
 
 # Hard coded first before ・, general tls after
@@ -405,9 +413,6 @@ def translate(shortDescription, arts):
     idx = 0
     for art in arts:
         try:
-            if art["verbCode"] == "OTHER":
-                print("Special other:", art)
-                continue
             sub = master[art["verbCode"]]
         except KeyError as e:
             print("UNKNOWN verbCode   =", art["verbCode"], "in master", art)
@@ -418,6 +423,8 @@ def translate(shortDescription, arts):
             except KeyError:
                 text, uses_roman, no_states_target = sub[art["targetId"]]
             st = text
+            if st == "Damage Up" and "状態" in shortDescription:
+                st = "Damage Increase"
             if not icon:
                 icon = text
             val = 0
@@ -473,7 +480,10 @@ def translate(shortDescription, arts):
                 ta = "{}".format(target)
             else:
                 ta = ""
-            sc = round(art["growPoint"] / 10, 1)
+            try:
+                sc = round(art["growPoint"] / 10, 1)
+            except KeyError:
+                sc = 0
             if sc % 1 == 0:
                 sc = int(sc)
             effects[st] = (ef, ta, f"{sc}%")

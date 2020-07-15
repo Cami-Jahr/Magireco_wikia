@@ -20,8 +20,8 @@
 | image = Damage Up
 | effect_name = Regeneration ウェポン 
 | effect_name_JP = リジェネレイト・ウェポン
-| effect1 = Damage Up [V / 25%] & Regenerate HP [III / 4%]
-| effect2 = Damage Up [VI / 30%] & Regenerate HP [IV / 5%]
+| effect1 = Damage Increase [V / 25%] & Regenerate HP [III / 4%]
+| effect2 = Damage Increase [VI / 30%] & Regenerate HP [IV / 5%]
 | Cooldown = 
 | Cooldown2 = 
 }}

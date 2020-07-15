@@ -134,10 +134,10 @@ def read(piece, chars):
             en = en.replace(s, f)
         for c in en:
             if ord(c) > 200:
-                print("missing translation for", piece["pieceId"], "?", repr(en))
-                for c in en:
-                    print(ord(c), end=" ")
-                print()
+                #print("missing translation for", piece["pieceId"], "?", repr(en))
+                #for c in en:
+                    #print(ord(c), end=" ")
+                #print()
                 break
 
         skills.append((st, cd))

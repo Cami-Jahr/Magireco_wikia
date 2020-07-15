@@ -20,8 +20,8 @@
 | image = Chance to Anti-Bind
 | effect_name = アリサが掴んだ手
 | effect_name_JP = アリサが掴んだ手
-| effect1 = Chance to Anti-Bind [100%] & Chance to Anti-Stun [100%]
-| effect2 = Chance to Anti-Bind [100%] & Chance to Anti-Stun [100%]
+| effect1 = Chance to Anti-Bind [100%] & Chance to Anti-Stun [100%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| effect2 = Chance to Anti-Bind [100%] & Chance to Anti-Stun [100%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
 | Cooldown = 
 | Cooldown2 = 
 }}

@@ -20,8 +20,8 @@
 | image = Damage Up
 | effect_name = エンチャントウェポン 
 | effect_name_JP = エンチャントウェポン
-| effect1 = Damage Up [VII / 35%] (Self / 1 Turn)
-| effect2 = Damage Up [VIII / 40%] (Self / 1 Turn)
+| effect1 = Damage Increase [VII / 35%] (Self / 1 Turn)
+| effect2 = Damage Increase [VIII / 40%] (Self / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

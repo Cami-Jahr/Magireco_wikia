@@ -20,8 +20,8 @@
 | image = Damage Up
 | effect_name = 繋がる道を歩いてる
 | effect_name_JP = 繋がる道を歩いてる
-| effect1 = Damage Up [V / 25%] & Regenerate HP [III / 4%]
-| effect2 = Damage Up [VI / 30%] & Regenerate HP [IV / 5%]
+| effect1 = Damage Up [V / 25%] & Regenerate HP [III / 4%] & ((Increased ATK during some quest)) [7000%] & ((Increased DEF during some quest)) [10000%]
+| effect2 = Damage Up [VI / 30%] & Regenerate HP [IV / 5%] & ((Increased ATK during some quest)) [7000%] & ((Increased DEF during some quest)) [10000%]
 | Cooldown = 
 | Cooldown2 = 
 }}

@@ -166,7 +166,7 @@
 | Magia scaling 2 = 0%
 | Magia 2 / 1 = One / 
 | Magia 2 / 2 = One / 
-| Magia effect 3 = Damage Up
+| Magia effect 3 = Damage Increase
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = All / 3 Turns / VI / 27.5%
 | Magia 3 / 2 = All / 3 Turns / VIII / 32.5%
@@ -177,5 +177,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、叢雲
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [X / 1804%] & Remove Buffs [One] & Damage Up [X / 47.5% / All / 3 Turns]
+| Doppel effect = Damage One Enemy [X / 1804%] & Remove Buffs [One] & Damage Increase [X / 47.5% / All / 3 Turns]
 }}

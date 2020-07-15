@@ -144,7 +144,7 @@
 | Connect name EN = 
 | Connect name NA = 
 | Connect icon = Damage Up
-| Connect effect 1 = Damage Up
+| Connect effect 1 = Damage Increase
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Remove Status Ailments

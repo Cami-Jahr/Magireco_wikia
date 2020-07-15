@@ -20,8 +20,8 @@
 | image = Damage Up
 | effect_name = ブレッシング Adept
 | effect_name_JP = ブレッシング・アデプト
-| effect1 = Damage Up [IV / 20%] & Chance to Anti-Curse [IV / 100%]
-| effect2 = Damage Up [V / 25%] & Chance to Anti-Curse [V / 100%]
+| effect1 = Damage Increase [IV / 20%] & Chance to Anti-Curse [IV / 100%]
+| effect2 = Damage Increase [V / 25%] & Chance to Anti-Curse [V / 100%]
 | Cooldown = 
 | Cooldown2 = 
 }}

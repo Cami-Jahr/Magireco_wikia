@@ -20,8 +20,8 @@
 | image = Damage Up
 | effect_name = アイドルスピリット 
 | effect_name_JP = アイドルスピリット
-| effect1 = Damage Up [III / 15%] & Attack Up [I / 5%] & Chance to Anti-Charm [I / 100%]
-| effect2 = Damage Up [IV / 20%] & Attack Up [II / 10%] & Chance to Anti-Charm [II / 100%]
+| effect1 = Damage Increase [III / 15%] & Attack Up [I / 5%] & Chance to Anti-Charm [I / 100%]
+| effect2 = Damage Increase [IV / 20%] & Attack Up [II / 10%] & Chance to Anti-Charm [II / 100%]
 | Cooldown = 
 | Cooldown2 = 
 }}

@@ -20,8 +20,8 @@
 | image = Damage Up
 | effect_name = アディクトスレイヤー 
 | effect_name_JP = アディクトスレイヤー
-| effect1 = Damage Up [V / 25%] (Self / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [V / 35%] (Self / 1 Turn)
-| effect2 = Damage Up [VI / 30%] (Self / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [VI / 40%] (Self / 1 Turn)
+| effect1 = Damage Increase [V / 25%] (Self / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [V / 35%] (Self / 1 Turn)
+| effect2 = Damage Increase [VI / 30%] (Self / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [VI / 40%] (Self / 1 Turn)
 | Cooldown = 9
 | Cooldown2 = 8
 }}
