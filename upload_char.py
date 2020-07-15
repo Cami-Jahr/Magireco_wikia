@@ -14,6 +14,34 @@ from helpers import get_filenames, get_char_list
 from pathlib import Path
 import os
 
+galley_base = """<tabber>
+Memoria=
+==Personal [[Memoria]]==
+{| class="wikitable" style="width:100%"
+| style="width:50%" |
+| style="width:50%" |
+|}
+==4✵ Memoria==
+{| class="wikitable" style="width:100%"
+| style="width:50%" |
+| style="width:50%" |
+|}
+
+|-|Videos=
+{{Videos}}
+|-|CG=
+==Magical Girl Stories==
+<gallery position="center" columns="3">
+
+</gallery>
+</tabber>
+"""
+
+costume_base = """<tabber>
+Magical Girl = 
+</tabber>
+"""
+
 class Uploader:
     def __init__(self):
         capa = DesiredCapabilities.CHROME
@@ -79,14 +107,15 @@ class Uploader:
     def trivia_section(self, char):
         text = "{{SideStory\n|Side Story Translation Link = \n|Side Story = \n}}\n\n==Trivia==\n*\n\n{{Videos}}"
         self.upload("/".join([char, "Trivia"]), text)
+        self.upload("/".join([char, "Costumes"]), costume_base)
+        self.upload("/".join([char, "Gallery"]), galley_base)
 
     def voice_section(self, char, text):
         self.upload("/".join([char, "Quotes"]), text)
 
     def upgrades_section(self, char, text):
         self.upload("Template:{}_Items".format(char), text)
-        self.upload("{}/Upgrades".format(char),
-                    "{{" + """{} Items|Items""".format(char.replace("_", " ")) + "}}")
+        # self.upload("{}/Upgrades".format(char), "{{" + """{} Items|Items""".format(char.replace("_", " ")) + "}}")
 
     def main_section(self, char, stats, text):
         self.upload("Template:" + char, stats)
@@ -129,43 +158,19 @@ def abilities_section(char, doppel_story):
     return text
     #self.upload("/".join([char, "Abilities"]), text)
 
-galley_base = """<tabber>
-Memoria=
-==Personal [[Memoria]]==
-{| class="wikitable" style="width:100%"
-| style="width:50%" |
-| style="width:50%" |
-|}
-==4✵ Memoria==
-{| class="wikitable" style="width:100%"
-| style="width:50%" |
-| style="width:50%" |
-|}
-
-|-|Videos=
-{{Videos}}
-|-|CG=
-==Magical Girl Stories==
-<gallery position="center" columns="3">
-
-</gallery>
-</tabber>
-"""
-
-costume_base = """<tabber>
-Magical Girl = 
-</tabber>
-"""
-
 
 if __name__ == '__main__':
-    #S = Uploader()
-    #S.login(username, password)
-    up_chars = [
-        1014, 3043, 1007
-    ]
     files = get_filenames()
     chars = get_char_list()
+    c_list = sorted(list(chars))
+    up_chars = [
+        
+    ]
+    if up_chars:
+        S = Uploader()
+        S.login(username, password)
+
+
     mat_list = awaken.read_mats_json()
     formated_mats = awaken.mats_formater(mat_list, files, chars)
     voice_lines = voice.read_lines_json()
@@ -173,7 +178,7 @@ if __name__ == '__main__':
     trivia = story.read_trivia_json()
     formated_trivia = story.story_formater(trivia)
 
-    for i in list(chars):
+    for i in c_list:
         ch = chars[i].replace(" ", "_")
         print(ch)
         parent = os.path.join("wikia_pages", ch)
@@ -202,7 +207,8 @@ if __name__ == '__main__':
 
         with open(f"stats/{ch}.txt", "w", encoding="utf-8-sig") as f:
             f.write(main_temp_text)
-    """
+
+
     for _id in up_chars:
         S.main_section(chars[_id], read_stats.format_info(_id), formated_trivia[_id][0])
         S.upgrades_section(chars[_id], formated_mats[_id])
@@ -210,5 +216,5 @@ if __name__ == '__main__':
         S.voice_section(chars[_id], formated_voice[_id])
         S.abilities_section(chars[_id], formated_trivia[_id][1])
         print(_id, "done")
-    S.end()
-    """
+    if up_chars:
+        S.end()

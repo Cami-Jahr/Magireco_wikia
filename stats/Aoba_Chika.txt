@@ -8,7 +8,7 @@
 | id = 3047
 | type = Balance
 | growth_type = ATKDEF
-| school_jp = 南凪自由学園
+| school_jp = 聖リリアンナ学園
 | voice_actor_jp = 山田麻莉奈
 | designer_jp = U35
 | memoria = 

@@ -131,3 +131,4 @@
 4051;Takamachi Nanoha
 4052;Fate T. Harlaown
 4053;Yagami Hayate
+1209;Rena & Kaede (Mizugi ver.)
