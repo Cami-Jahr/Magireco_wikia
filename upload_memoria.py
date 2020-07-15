@@ -166,12 +166,12 @@ if __name__ == '__main__':
 
     for _id in m_list:
         Ename = memos[_id]
+        print(_id, Ename)
         Fname = Ename.replace(" ", "_").replace("?", "%3F").replace(":", "..").replace("/", "-")
         if Fname[-1] == ".":
             Fname += "&"
         parent = os.path.join("wikia_pages", "memorias", Fname)
         Path(parent).mkdir(parents=True, exist_ok=True)
-        print(Ename)
         for page, text in (
                 (f"{Fname}", format_text(coll[_id][0].replace("＠", "<br />").replace("@", "<br />"))),
                 (f"Template-{Fname}", template_format(_id, Ename, coll[_id][1]))
@@ -181,8 +181,9 @@ if __name__ == '__main__':
 
     for _id, Ename in up_memos:
         Ename = Ename.replace("?", "%3F")
-        S.upload("Template:" + Ename, template_format(_id, Ename, *coll[_id][1]))
-        S.upload(Ename, format_text(coll[_id][0].replace("＠", "<br />").replace("@", "<br />")))
         print(Ename)
+        S.upload(Ename, format_text(coll[_id][0].replace("＠", "<br />").replace("@", "<br />")))
+        S.upload("Template:" + Ename, template_format(_id, Ename, *coll[_id][1]))
+
     if up_memos:
         S.end()
