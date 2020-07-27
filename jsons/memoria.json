@@ -33957,8 +33957,74 @@
   "1487": {
     "pieceId": 1487,
     "rank": "RANK_3",
-    "__update__": "2020-04-13T09:19:43.242Z",
-    "pieceName": "天使に囲まれた聖母"
+    "__update__": "2020-07-25T10:17:55.046Z",
+    "pieceName": "天使に囲まれた聖母",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 610,
+    "defense": 0,
+    "hp": 670,
+    "skillId": 148700,
+    "pieceSkill": {
+      "id": 148700,
+      "groupId": 1145,
+      "name": "マターナル・アデプト[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃時に確率で魅了(1T)を付与[Ⅱ] & 攻撃力UP[Ⅰ]",
+      "artId1": 690209402,
+      "art1": {
+        "artId": 690209402,
+        "verbCode": "ENCHANT",
+        "effectCode": "CHARM",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 150
+      },
+      "artId2": 390201101,
+      "art2": {
+        "artId": 390201101,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 148701,
+    "pieceSkill2": {
+      "id": 148701,
+      "groupId": 1145,
+      "name": "マターナル・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃時に確率で魅了(1T)を付与[Ⅲ] & 攻撃力UP[Ⅱ]",
+      "artId1": 690209403,
+      "art1": {
+        "artId": 690209403,
+        "verbCode": "ENCHANT",
+        "effectCode": "CHARM",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 200
+      },
+      "artId2": 390201102,
+      "art2": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "陽が沈む前の公園で子どもたちのハツラツとした声が響き渡る＠その中心にいるのは、近所で面倒見がいいと評判の普通の女子高生＠無邪気でハチャメチャな子どもたちの遊びに＠誰がどう見ても一番楽しそうな笑顔で参加していく",
+    "illustrator": "いもあん",
+    "openDate": "2020/04/13 15:10:00"
   },
   "1488": {
     "pieceId": 1488,
@@ -35062,14 +35128,142 @@
   "1502": {
     "pieceId": 1502,
     "rank": "RANK_3",
-    "__update__": "2020-06-02T01:07:12.641Z",
-    "pieceName": "日曜朝の習慣"
+    "__update__": "2020-07-26T11:04:47.062Z",
+    "pieceName": "日曜朝の習慣",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 637,
+    "defense": 0,
+    "hp": 637,
+    "skillId": 150200,
+    "pieceSkill": {
+      "id": 150200,
+      "groupId": 1085,
+      "name": "ブレイブステップ・アデプト[Ⅰ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅰ] & 確率で回避[Ⅱ]",
+      "artId1": 390201101,
+      "art1": {
+        "artId": 390201101,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690206802,
+      "art2": {
+        "artId": 690206802,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 150
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 150201,
+    "pieceSkill2": {
+      "id": 150201,
+      "groupId": 1085,
+      "name": "ブレイブステップ・アデプト[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅱ] & 確率で回避[Ⅲ]",
+      "artId1": 390201102,
+      "art1": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690206803,
+      "art2": {
+        "artId": 690206803,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 200
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "「はぁー…今週もいいなぁ…ねえ、りおん見たでしょ今の必殺技」＠「…ほとりんさぁ、毎週特撮見てよく飽きないよね」＠「飽きるはずなんてないよ！ほら、こんなにカッコいいんだよ」＠「…はぁ、早く見終わらないかしら。ほとりんで遊べないじゃない」",
+    "illustrator": "桜木蓮",
+    "openDate": "2020/05/29 15:10:00"
   },
   "1503": {
     "pieceId": 1503,
     "rank": "RANK_3",
-    "__update__": "2020-06-02T01:07:12.641Z",
-    "pieceName": "あたしのもの！"
+    "__update__": "2020-07-26T11:23:38.955Z",
+    "pieceName": "あたしのもの！",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 634,
+    "defense": 0,
+    "hp": 634,
+    "skillId": 150300,
+    "pieceSkill": {
+      "id": 150300,
+      "groupId": 1090,
+      "name": "ブレス・アデプト[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "Accele MPUP[Ⅱ] & 確率で呪い無効[Ⅹ]",
+      "artId1": 390201602,
+      "art1": {
+        "artId": 390201602,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690208810,
+      "art2": {
+        "artId": 690208810,
+        "verbCode": "IGNORE",
+        "effectCode": "CURSE",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 700
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 150301,
+    "pieceSkill2": {
+      "id": 150301,
+      "groupId": 1090,
+      "name": "ブレス・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "Accele MPUP[Ⅲ] & 必ず呪い無効",
+      "artId1": 390201603,
+      "art1": {
+        "artId": 390201603,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690208800,
+      "art2": {
+        "artId": 690208800,
+        "verbCode": "IGNORE",
+        "effectCode": "CURSE",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "「ほら、思った通り！やっぱり似合うじゃないほとりん！」＠「は、恥ずかしいよ…ボク、こういう可愛いのはあんまり…」＠「はぁ？何言ってるの、あたしが似合うって言ったら似合ってるの＠ほとりんもこういう服を好きになること！いいわね！」",
+    "illustrator": "桜木蓮",
+    "openDate": "2020/05/29 15:10:00"
   },
   "1504": {
     "pieceId": 1504,
@@ -36426,7 +36620,94 @@
   "1521": {
     "pieceId": 1521,
     "rank": "RANK_4",
-    "__update__": "2020-07-15T08:02:52.146Z"
+    "__update__": "2020-07-20T13:05:07.591Z",
+    "pieceName": "渚のフレンドシップ",
+    "illustrator": "―",
+    "description": "「水波さん、次の試合もひかると組んで欲しいっす！」＠「え？そりゃいいけど…どういう風の吹きまわしよ？」＠「上手く連携できたのに、１試合だけじゃもったいないっすもん」＠「…ふふっ、それはレナも思ってた。んじゃ、もう１試合やる？」",
+    "hp": 801,
+    "pieceSkill2": {
+      "art1": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 150,
+        "effectCode": "ACCEL",
+        "verbCode": "BUFF",
+        "artId": 390201603,
+        "growPoint": 25
+      },
+      "art3": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 75,
+        "effectCode": "CHARGE",
+        "verbCode": "BUFF",
+        "artId": 390201702,
+        "growPoint": 25
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 250,
+        "effectCode": "BLAST",
+        "verbCode": "BUFF",
+        "artId": 390201803,
+        "growPoint": 25
+      },
+      "artId2": 390201803,
+      "name": "トゥットディスク・アデプト[Ⅲ]",
+      "artId1": 390201603,
+      "type": "ABILITY",
+      "skillEffectRange": "ALL",
+      "groupId": 1090,
+      "shortDescription": "Accele MPUP[Ⅲ] & Blast ダメージUP[Ⅲ] & Charge後ダメージUP[Ⅱ]",
+      "id": 152101,
+      "artId3": 390201702
+    },
+    "pieceSkill": {
+      "art1": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 125,
+        "effectCode": "ACCEL",
+        "verbCode": "BUFF",
+        "artId": 390201602,
+        "growPoint": 25
+      },
+      "art3": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 50,
+        "effectCode": "CHARGE",
+        "verbCode": "BUFF",
+        "artId": 390201701,
+        "growPoint": 25
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 200,
+        "effectCode": "BLAST",
+        "verbCode": "BUFF",
+        "artId": 390201802,
+        "growPoint": 25
+      },
+      "artId2": 390201802,
+      "name": "トゥットディスク・アデプト[Ⅱ]",
+      "artId1": 390201602,
+      "type": "ABILITY",
+      "skillEffectRange": "ALL",
+      "groupId": 1090,
+      "shortDescription": "Accele MPUP[Ⅱ] & Blast ダメージUP[Ⅱ] & Charge後ダメージUP[Ⅰ]",
+      "id": 152100,
+      "artId3": 390201701
+    },
+    "skillId2": 152101,
+    "attack": 801,
+    "defense": 0,
+    "attributeId": "ALL",
+    "pieceType": "ABILITY",
+    "openDate": "2020/07/15 15:10:00",
+    "skillId": 152100
   },
   "1522": {
     "pieceId": 1522,
@@ -36526,5 +36807,145 @@
     "skillId2": 152201,
     "openDate": "2020/07/15 15:10:00",
     "skillId": 152200
+  },
+  "1523": {
+    "pieceId": 1523,
+    "rank": "RANK_3",
+    "__update__": "2020-07-27T11:02:25.089Z",
+    "pieceName": "いつもと違う花火"
+  },
+  "1524": {
+    "pieceId": 1524,
+    "rank": "RANK_4",
+    "__update__": "2020-07-27T11:06:43.345Z",
+    "pieceName": "ミラクルヒロインズ",
+    "illustrator": "―",
+    "description": "「ほら、ポーズはちゃんとして！半端はカッコ悪いわよ！」＠「うぅぅ、何でこんなことに…」＠「笑顔じゃないと、本物っぽく見えないわよ？」＠「“っぽく”も何も、あたしら本物の魔法少女だよね…？」",
+    "hp": 803,
+    "pieceSkill2": {
+      "art1": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 250,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 390201105,
+        "growPoint": 25
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 125,
+        "effectCode": "MAGIA",
+        "verbCode": "BUFF",
+        "artId": 390201404,
+        "growPoint": 25
+      },
+      "artId2": 390201404,
+      "name": "ライジング・アデプト[Ⅴ]",
+      "artId1": 390201105,
+      "type": "ABILITY",
+      "skillEffectRange": "ALL",
+      "groupId": 1085,
+      "shortDescription": "攻撃力UP[Ⅴ] & マギアダメージUP[Ⅳ]",
+      "id": 152401
+    },
+    "pieceSkill": {
+      "art1": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 200,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 390201104,
+        "growPoint": 25
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 100,
+        "effectCode": "MAGIA",
+        "verbCode": "BUFF",
+        "artId": 390201403,
+        "growPoint": 25
+      },
+      "artId2": 390201403,
+      "name": "ライジング・アデプト[Ⅳ]",
+      "artId1": 390201104,
+      "type": "ABILITY",
+      "skillEffectRange": "ALL",
+      "groupId": 1085,
+      "shortDescription": "攻撃力UP[Ⅳ]＆マギアダメージUP[Ⅲ]",
+      "id": 152400
+    },
+    "skillId2": 152401,
+    "attack": 923,
+    "defense": 0,
+    "attributeId": "ALL",
+    "pieceType": "ABILITY",
+    "openDate": "2020/07/27 15:10:00",
+    "skillId": 152400
+  },
+  "1525": {
+    "pieceId": 1525,
+    "rank": "RANK_4",
+    "__update__": "2020-07-27T08:13:47.437Z",
+    "pieceName": "絶対無敵サマータイム"
+  },
+  "1526": {
+    "pieceId": 1526,
+    "rank": "RANK_4",
+    "__update__": "2020-07-27T08:55:12.769Z",
+    "pieceName": "真夏の夜の魔法",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 802,
+    "hp": 802,
+    "skillId": 152600,
+    "pieceSkill": {
+      "id": 152600,
+      "groupId": 1089,
+      "name": "レジストライズ・サークル[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "状態異常耐性UP[Ⅳ](味全/3T)",
+      "messageId": 71,
+      "artId1": 330301504,
+      "art1": {
+        "artId": 330301504,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "ALL",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 152601,
+    "pieceSkill2": {
+      "id": 152601,
+      "groupId": 1089,
+      "name": "レジストライズ・サークル[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "状態異常耐性UP[Ⅴ](味全/3T)",
+      "messageId": 71,
+      "artId1": 330301505,
+      "art1": {
+        "artId": 330301505,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "ALL",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "それは、真夏の夜の魔法＠交差する花火とレーザー光に誘われたかのように＠夏の夜空から舞い降りた未知の存在がもたらしたのは＠今は誰の記憶にも存在しない、ひとりの少女のストーリー",
+    "illustrator": "―",
+    "openDate": "2020/07/27 15:10:00"
   }
 }

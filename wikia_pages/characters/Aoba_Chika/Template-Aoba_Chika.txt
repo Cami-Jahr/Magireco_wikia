@@ -62,7 +62,7 @@
 | 5star_illustrator_jp = 
 
 | se_hp_bonus = 4152
-| se_attack_bonus = 1780
+| se_attack_bonus = 1816
 | se_defense_bonus = 3309
 
 | se accele bonus = 6

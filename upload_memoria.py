@@ -149,6 +149,7 @@ def get_json():
         json = loads(f.read())
     for piece in json:
         if "hp" not in json[piece]:
+            print(piece, "not obtained, skipping")
             continue
         coll[json[piece]["pieceId"]] = read(json[piece], chars)
     return coll

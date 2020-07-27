@@ -1,13 +1,13 @@
 def get_char_list():
-    di = get_list("chars.txt")
+    di = get_list("txts/chars.txt")
     del di[3052]  # Only have JP chars so removing Ashley
     return di
 
 def get_memo_list():
-    return get_list("memoria_url_id.txt")
+    return get_list("txts/memoria_url_id.txt")
 
 def get_filenames():
-    return get_list("gift_text.txt")
+    return get_list("txts/gift_text.txt")
 
 def get_list(li):
     names = {}

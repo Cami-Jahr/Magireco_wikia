@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Summer Night Magic
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 真夏の夜の魔法
+| Rarity = 4
+| ID = 1526
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 802
+| min_ATK = 0
+| min_DEF = 802
+| max_HP = 2005
+| max_ATK = 0
+| max_DEF = 2005
+
+| image = Status Ailment Resistance Up
+| effect_name = Resistライズ Circle 
+| effect_name_JP = レジストライズ・サークル
+| effect1 = Status Ailment Resistance Up [IV / 25%] (All / 3 Turns)
+| effect2 = Status Ailment Resistance Up [V / 30%] (All / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 9
+}}

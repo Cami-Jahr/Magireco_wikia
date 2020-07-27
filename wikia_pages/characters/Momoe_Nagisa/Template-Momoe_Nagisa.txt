@@ -61,84 +61,84 @@
 | 5star_defense_max = 6490
 | 5star_illustrator_jp = ササギコウシ
 
-| se_hp_bonus = 
-| se_attack_bonus = 
-| se_defense_bonus = 
+| se_hp_bonus = 7010
+| se_attack_bonus = 2303
+| se_defense_bonus = 2997
 
-| se accele bonus = 
-| se blast bonus = 
-| se charge bonus = 
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 4
 
-| Passive 1 icon = 
-| Passive 1 name = 
-| Passive 1 name JP = 
-| Passive 1 effect = 
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [I]
+| Passive 1 name JP = MPブースト[Ⅰ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [I / 15%]
 
-| Passive 2 icon = 
-| Passive 2 name = 
-| Passive 2 name JP = 
-| Passive 2 effect = 
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = 
-| Passive 3 name = 
-| Passive 3 name JP = 
-| Passive 3 effect = 
+| Passive 3 icon = Magia Damage Up
+| Passive 3 name = Magia Adept [II]
+| Passive 3 name JP = マギア・アデプト[Ⅱ]
+| Passive 3 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 4 icon = 
-| Passive 4 name = 
-| Passive 4 name JP = 
-| Passive 4 effect = 
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = 
-| Passive 5 name = 
-| Passive 5 name JP = 
-| Passive 5 effect = 
+| Passive 5 icon = Magia Damage Up
+| Passive 5 name = Magia Adept [II]
+| Passive 5 name JP = マギア・アデプト[Ⅱ]
+| Passive 5 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 6 icon = 
-| Passive 6 name = 
-| Passive 6 name JP = 
-| Passive 6 effect = 
+| Passive 6 icon = Magia Damage Up
+| Passive 6 name = Magia Adept [II]
+| Passive 6 name JP = マギア・アデプト[Ⅱ]
+| Passive 6 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 7 icon = 
-| Passive 7 name = 
-| Passive 7 name JP = 
-| Passive 7 effect = 
+| Passive 7 icon = Chance to Evade
+| Passive 7 name = Parry Adept [II]
+| Passive 7 name JP = パリィ・アデプト[Ⅱ]
+| Passive 7 effect = Chance to Evade [II / 15%]
 
-| Passive 8 icon = 
-| Passive 8 name = 
-| Passive 8 name JP = 
-| Passive 8 effect = 
+| Passive 8 icon = MP Gain Up
+| Passive 8 name = Morale Adept [II]
+| Passive 8 name JP = モラール・アデプト[Ⅱ]
+| Passive 8 effect = MP Gain Up [II / 7.5%]
 
-| Passive 9 icon = 
-| Passive 9 name = 
-| Passive 9 name JP = 
-| Passive 9 effect = 
+| Passive 9 icon = MP Gain Up When Over 100 MP
+| Passive 9 name = MP Boost [II]
+| Passive 9 name JP = MPブースト[Ⅱ]
+| Passive 9 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 10 icon = 
-| Passive 10 name = 
-| Passive 10 name JP = 
-| Passive 10 effect = 
+| Passive 10 icon = Doppel Damage Up
+| Passive 10 name = Doppel Adept [II]
+| Passive 10 name JP = ドッペル・アデプト[Ⅱ]
+| Passive 10 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [I / 5%]
 
-| Passive 11 icon = 
-| Passive 11 name = 
-| Passive 11 name JP = 
-| Passive 11 effect = 
+| Passive 11 icon = MP Gain Up When Over 100 MP
+| Passive 11 name = MP Boost [II]
+| Passive 11 name JP = MPブースト[Ⅱ]
+| Passive 11 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 12 icon = 
-| Passive 12 name = 
-| Passive 12 name JP = 
-| Passive 12 effect = 
+| Passive 12 icon = Chance to Dazzle on Attack
+| Passive 12 name = Mesmerize Edge [II]
+| Passive 12 name JP = メズマライズ・エッジ[Ⅱ]
+| Passive 12 effect = Chance to Dazzle on Attack [II / 15%] (1 Turn)
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
+| Passive 13 icon = Chance to Anti-Magia Seal
+| Passive 13 name = Anti-Magia Seal [VII]
+| Passive 13 name JP = アンチ・シールマギア[Ⅶ]
+| Passive 13 effect = Chance to Anti-Magia Seal [VII / 55%]
 
-| Active 1 icon = 
-| Active 1 name = 
-| Active 1 name JP = 
-| Active 1 effect = 
-| Active 1 cooldown = 
+| Active 1 icon = Chance to Evade
+| Active 1 name = イルーシブ [VII]
+| Active 1 name JP = イルーシブ[Ⅶ]
+| Active 1 effect = Chance to Evade [VII / 100%] (Self / 1 Turn) & Ignore Damage Cut [VII / 60%] (Self / 1 Turn)
+| Active 1 cooldown = 10
 
 | Connect name JP = やれやれなのです
 | Connect name EN = 
