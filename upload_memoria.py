@@ -5,6 +5,7 @@ from effect_translator import translate, jp_to_en, roman_to_full
 from helpers import get_char_list, get_memo_list
 from pathlib import Path
 import os
+import shutil
 
 text1 = """{{ {{PAGENAME}} |Stats}}
 
@@ -165,13 +166,16 @@ if __name__ == '__main__':
     coll = get_json()
     m_list = sorted(list(coll))
 
+    main_parent = os.path.join("wikia_pages", "memorias")
+    shutil.rmtree(main_parent)
+
     for _id in m_list:
         Ename = memos[_id]
         print(_id, Ename)
         Fname = Ename.replace(" ", "_").replace("?", "%3F").replace(":", "..").replace("/", "-")
         if Fname[-1] == ".":
             Fname += "&"
-        parent = os.path.join("wikia_pages", "memorias", Fname)
+        parent = os.path.join(main_parent, Fname)
         Path(parent).mkdir(parents=True, exist_ok=True)
         for page, text in (
                 (f"{Fname}", format_text(coll[_id][0].replace("＠", "<br />").replace("@", "<br />"))),

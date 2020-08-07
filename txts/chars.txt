@@ -34,6 +34,7 @@
 1117;Yakumo Mitama (Haregi ver.)
 1118;Amane Sisters (Mizugi ver.)
 1201;Iroha-chan
+1209;Rena & Kaede (Mizugi ver.)
 1301;Iroha & Yachiyo (Final Battle ver.)
 2001;Kaname Madoka
 2002;Akemi Homura
@@ -48,6 +49,7 @@
 2300;Akemi Homura (Mizugi ver.)
 2400;Miki Sayaka (Haregi ver.)
 2500;Holy Mami
+2501;Tomoe Mami (Mizugi ver.)
 2600;Sakura Kyouko (Mizugi ver.)
 2700;Momoe Nagisa (Valentine's ver.)
 3001;Yayoi Kanoko
@@ -131,6 +133,4 @@
 4051;Takamachi Nanoha
 4052;Fate T. Harlaown
 4053;Yagami Hayate
-1209;Rena & Kaede (Mizugi ver.)
-2501;Tomoe Mami (Mizugi ver.)
 3502;Rumor of the Ten-Thousand-Year Sakura (Mizugi ver.)

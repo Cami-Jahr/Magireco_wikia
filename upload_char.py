@@ -13,6 +13,7 @@ from selenium.webdriver.common.by import By
 from helpers import get_filenames, get_char_list
 from pathlib import Path
 import os
+import shutil
 
 galley_base = """<tabber>
 Memoria=
@@ -167,11 +168,13 @@ if __name__ == '__main__':
     formated_voice = voice.mats_sender(voice_lines)
     trivia = story.read_trivia_json()
     formated_trivia = story.story_formater(trivia)
+    main_parent = os.path.join("wikia_pages", "characters")
+    shutil.rmtree(main_parent)
 
     for i in c_list:
         ch = chars[i].replace(" ", "_")
         print(ch)
-        parent = os.path.join("wikia_pages", "characters", ch)
+        parent = os.path.join(main_parent, ch)
         Path(parent).mkdir(parents=True, exist_ok=True)
         #print(i, chars[i], f"https://magireco.fandom.com/wiki/Template:{ch}?action=edit")
 
