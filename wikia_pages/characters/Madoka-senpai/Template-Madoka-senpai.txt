@@ -125,8 +125,8 @@
 | Passive 11 effect = Damage Cut [II / 10%]
 
 | Passive 12 icon = MP Gauge Increased On Battle Start
-| Passive 12 name = FastMana Up
-| Passive 12 name JP = ファストマナアップ
+| Passive 12 name = Fast Mana Up
+| Passive 12 name JP = ファスト・マナアップ
 | Passive 12 effect = MP Gauge Increased On Battle Start [15%]
 
 | Passive 13 icon = 

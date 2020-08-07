@@ -36811,8 +36811,87 @@
   "1523": {
     "pieceId": 1523,
     "rank": "RANK_3",
-    "__update__": "2020-07-27T11:02:25.089Z",
-    "pieceName": "いつもと違う花火"
+    "__update__": "2020-07-27T14:38:00.452Z",
+    "pieceName": "いつもと違う花火",
+    "charaIds": "2501",
+    "illustrator": "かにぱんだ",
+    "description": "夜の夏空を舞台に繰り広げられる、きらびやかなショータイム＠これまで見た花火と少し違って見えるのは＠地上の光でショーアップされたアトラクションだから？＠それとも今は、一緒に見上げる後輩たちがいてくれるおかげかしら？",
+    "pieceSkill": {
+      "art1": {
+        "targetId": "SELF",
+        "effectValue": 150,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 310201103,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 250,
+        "effectCode": "DAMAGE_UP_BAD",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 610214603,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "artId2": 610214603,
+      "name": "アディクトスレイヤー[Ⅲ]",
+      "artId1": 310201103,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1085,
+      "messageId": 70,
+      "shortDescription": "攻撃力UP[Ⅲ] & 敵状態異常時ダメージUP[Ⅲ](自/1T)",
+      "id": 152300,
+      "intervalTurn": 11
+    },
+    "hp": 454,
+    "pieceSkill2": {
+      "art1": {
+        "targetId": "SELF",
+        "effectValue": 200,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 310201104,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 300,
+        "effectCode": "DAMAGE_UP_BAD",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 610214604,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "artId2": 610214604,
+      "name": "アディクトスレイヤー[Ⅳ]",
+      "artId1": 310201104,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1085,
+      "messageId": 70,
+      "shortDescription": "攻撃力UP[Ⅳ] & 敵状態異常時ダメージUP[Ⅳ](自/1T)",
+      "id": 152301,
+      "intervalTurn": 10
+    },
+    "charaList": [
+      {
+        "charaId": 2501,
+        "name": "巴 マミ 水着ver."
+      }
+    ],
+    "skillId2": 152301,
+    "attack": 0,
+    "defense": 494,
+    "attributeId": "ALL",
+    "pieceType": "SKILL",
+    "openDate": "2020/07/27 15:10:00",
+    "skillId": 152300
   },
   "1524": {
     "pieceId": 1524,
@@ -36889,8 +36968,76 @@
   "1525": {
     "pieceId": 1525,
     "rank": "RANK_4",
-    "__update__": "2020-07-27T08:13:47.437Z",
-    "pieceName": "絶対無敵サマータイム"
+    "__update__": "2020-07-27T15:29:23.920Z",
+    "pieceName": "絶対無敵サマータイム",
+    "illustrator": "―",
+    "description": "「行くのです！もっとスピードを上げるのです！」＠「わかった、最短距離になるようにコースを取ってみる」＠「操縦は任せるのです。障害物はなぎさが蹴散らすのです！」＠「ウォータースライダーに障害物はないと思う…」",
+    "hp": 841,
+    "pieceSkill2": {
+      "art1": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 150,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 390201103,
+        "growPoint": 25
+      },
+      "art2": {
+        "probability": 300,
+        "targetId": "SELF",
+        "effectValue": 100,
+        "effectCode": "BURN",
+        "verbCode": "ENCHANT",
+        "artId": 690210205,
+        "growPoint": 0,
+        "enableTurn": 2
+      },
+      "artId2": 690210205,
+      "name": "イグニッション・エッジ[Ⅲ]",
+      "artId1": 390201103,
+      "type": "ABILITY",
+      "skillEffectRange": "ALL",
+      "groupId": 1085,
+      "shortDescription": "攻撃力UP[Ⅲ] & 攻撃時に確率でやけど(2T)を付与[Ⅴ]",
+      "id": 152501
+    },
+    "pieceSkill": {
+      "art1": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 100,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 390201102,
+        "growPoint": 25
+      },
+      "art2": {
+        "probability": 250,
+        "targetId": "SELF",
+        "effectValue": 100,
+        "effectCode": "BURN",
+        "verbCode": "ENCHANT",
+        "artId": 690210204,
+        "growPoint": 0,
+        "enableTurn": 2
+      },
+      "artId2": 690210204,
+      "name": "イグニッション・エッジ[Ⅱ]",
+      "artId1": 390201102,
+      "type": "ABILITY",
+      "skillEffectRange": "ALL",
+      "groupId": 1085,
+      "shortDescription": "攻撃力UP[Ⅱ] & 攻撃時に確率でやけど(2T)を付与[Ⅳ]",
+      "id": 152500
+    },
+    "skillId2": 152501,
+    "attack": 761,
+    "defense": 0,
+    "attributeId": "ALL",
+    "pieceType": "ABILITY",
+    "openDate": "2020/07/27 15:10:00",
+    "skillId": 152500
   },
   "1526": {
     "pieceId": 1526,
@@ -36947,5 +37094,355 @@
     "description": "それは、真夏の夜の魔法＠交差する花火とレーザー光に誘われたかのように＠夏の夜空から舞い降りた未知の存在がもたらしたのは＠今は誰の記憶にも存在しない、ひとりの少女のストーリー",
     "illustrator": "―",
     "openDate": "2020/07/27 15:10:00"
+  },
+  "1527": {
+    "pieceId": 1527,
+    "rank": "RANK_4",
+    "__update__": "2020-08-03T23:16:02.099Z",
+    "charaIds": "1004",
+    "pieceName": "私しかいない世界",
+    "illustrator": "谷口淳一郎",
+    "description": "Blu-ray&DVD 第4巻 描き下ろしジャケットイラスト",
+    "pieceSkill": {
+      "art1": {
+        "probability": 1000,
+        "targetId": "ONE",
+        "effectCode": "PROTECT",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 610213300,
+        "growPoint": 0,
+        "enableTurn": 1
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 350,
+        "effectCode": "DAMAGE_DOWN",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 610206207,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "artId2": 610206207,
+      "name": "私しかいない世界",
+      "artId1": 610213300,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1170,
+      "messageId": 71,
+      "shortDescription": "味方を必ずかばう&ダメージカット状態[Ⅶ](自/1T)",
+      "id": 152700,
+      "intervalTurn": 5
+    },
+    "hp": 720,
+    "pieceSkill2": {
+      "art1": {
+        "probability": 1000,
+        "targetId": "ONE",
+        "effectCode": "PROTECT",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 610213300,
+        "growPoint": 0,
+        "enableTurn": 1
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 350,
+        "effectCode": "DAMAGE_DOWN",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 610206207,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "artId2": 610206207,
+      "name": "私しかいない世界",
+      "artId1": 610213300,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1170,
+      "messageId": 71,
+      "shortDescription": "味方を必ずかばう&ダメージカット状態[Ⅶ](自/1T)",
+      "id": 152701,
+      "intervalTurn": 5
+    },
+    "charaList": [
+      {
+        "charaId": 1004,
+        "name": "二葉 さな"
+      }
+    ],
+    "skillId2": 152701,
+    "attack": 0,
+    "defense": 880,
+    "attributeId": "ALL",
+    "pieceType": "SKILL",
+    "openDate": "2020/08/04 00:00:00",
+    "skillId": 152700
+  },
+  "1528": {
+    "pieceId": 1528,
+    "rank": "RANK_3",
+    "__update__": "2020-08-07T08:20:10.953Z",
+    "pieceType": "SKILL",
+    "pieceName": "秘密の玉手箱",
+    "attributeId": "ALL",
+    "charaIds": "3502",
+    "charaList": [
+      {
+        "charaId": 3502,
+        "name": "万年桜のウワサ 水着ver."
+      }
+    ],
+    "attack": 0,
+    "defense": 494,
+    "hp": 454,
+    "skillId": 152800,
+    "pieceSkill": {
+      "id": 152800,
+      "groupId": 1085,
+      "name": "アタックアップ・サークル[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 11,
+      "shortDescription": "攻撃力UP[Ⅴ](味全/1T)",
+      "messageId": 71,
+      "artId1": 310301105,
+      "art1": {
+        "artId": 310301105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "ALL",
+        "effectValue": 250,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 152801,
+    "pieceSkill2": {
+      "id": 152801,
+      "groupId": 1085,
+      "name": "アタックアップ・サークル[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "攻撃力UP[Ⅵ](味全/1T)",
+      "messageId": 71,
+      "artId1": 310301106,
+      "art1": {
+        "artId": 310301106,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "ALL",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "どんなに楽しくて、どんなに大切なことも時間が経てば薄れてしまう…＠嬉しかったこと、心が揺れたこと、残しておきたいこと全部＠ここにしまっておくから、思い出したくなったら開けてみて＠必要になるその日まで、波間に預けておくから",
+    "illustrator": "mepo",
+    "openDate": "2020/08/07 15:10:00"
+  },
+  "1529": {
+    "pieceId": 1529,
+    "rank": "RANK_4",
+    "__update__": "2020-08-07T08:22:21.303Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "アレもコレもと欲張りたい",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 924,
+    "hp": 844,
+    "skillId": 152900,
+    "pieceSkill": {
+      "id": 152900,
+      "groupId": 1090,
+      "name": "クリアマインド[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "Accele MPUP[Ⅴ] & ダメージアップ状態[Ⅲ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201605,
+      "art1": {
+        "artId": 330201605,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 630206103,
+      "art2": {
+        "artId": 630206103,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1107,
+      "eventArtId1": 1107003,
+      "eventArt1": {
+        "artId": 1107003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1107_KEY"
+      },
+      "eventDescription": "＆「アクアリウムへの招待状」追加獲得数＋5",
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 152901,
+    "pieceSkill2": {
+      "id": 152901,
+      "groupId": 1090,
+      "name": "クリアマインド[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "Accele MPUP[Ⅵ] & ダメージアップ状態[Ⅳ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201606,
+      "art1": {
+        "artId": 330201606,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 630206104,
+      "art2": {
+        "artId": 630206104,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1107,
+      "eventArtId1": 1107004,
+      "eventArt1": {
+        "artId": 1107004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1107_KEY"
+      },
+      "eventDescription": "＆「アクアリウムへの招待状」追加獲得数＋15",
+      "skillEffectRange": "ALL"
+    },
+    "description": "「｜夏の思い出を作るためにいろいろ用意した＠私はどれも使ったことがないから、今から楽しみ…＠貸して欲しいものがあったら言って？＠一緒にたくさん遊んで楽しい日にしよう｜」",
+    "illustrator": "―",
+    "openDate": "2020/08/07 15:10:00"
+  },
+  "1530": {
+    "pieceId": 1530,
+    "rank": "RANK_3",
+    "__update__": "2020-08-07T08:00:51.842Z"
+  },
+  "1531": {
+    "pieceId": 1531,
+    "rank": "RANK_4",
+    "__update__": "2020-08-07T08:00:51.842Z"
+  },
+  "1532": {
+    "pieceId": 1532,
+    "rank": "RANK_3",
+    "__update__": "2020-08-07T08:07:38.375Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "いつか思い出とするために",
+    "attributeId": "ALL",
+    "attack": 571,
+    "defense": 0,
+    "hp": 631,
+    "skillId": 153200,
+    "pieceSkill": {
+      "id": 153200,
+      "groupId": 1085,
+      "name": "スラスト・アデプト[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅱ] & Accele MPUP[Ⅲ]",
+      "artId1": 390201102,
+      "art1": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201603,
+      "art2": {
+        "artId": 390201603,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1107,
+      "eventArtId1": 1107001,
+      "eventArt1": {
+        "artId": 1107001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1107_KEY"
+      },
+      "eventDescription": "＆「アクアリウムへの招待状」追加獲得数＋1",
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 153201,
+    "pieceSkill2": {
+      "id": 153201,
+      "groupId": 1085,
+      "name": "スラスト・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅲ] & Accele MPUP[Ⅳ]",
+      "artId1": 390201103,
+      "art1": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201604,
+      "art2": {
+        "artId": 390201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1107,
+      "eventArtId1": 1107002,
+      "eventArt1": {
+        "artId": 1107002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1107_KEY"
+      },
+      "eventDescription": "＆「アクアリウムへの招待状」追加獲得数＋5",
+      "skillEffectRange": "ALL"
+    },
+    "description": "｜知らない感情に戸惑い、初めての恐怖に身がすくんだ時＠共に考え、手を差し伸べてくれる人たちができていた＠いつか終わる日が来るとして…共にあった日々が消えてしまわないよう＠私はこの先の日々を大切に歩いていきたい｜",
+    "illustrator": "―",
+    "openDate": "2020/08/07 15:10:00"
   }
 }

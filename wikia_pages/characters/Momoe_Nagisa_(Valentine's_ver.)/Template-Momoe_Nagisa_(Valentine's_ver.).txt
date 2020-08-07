@@ -115,8 +115,8 @@
 | Passive 9 effect = Chance to Evade [II / 15%]
 
 | Passive 10 icon = MP Gauge Increased On Battle Start
-| Passive 10 name = FastMana Up
-| Passive 10 name JP = ファストマナアップ
+| Passive 10 name = Fast Mana Up
+| Passive 10 name JP = ファスト・マナアップ
 | Passive 10 effect = MP Gauge Increased On Battle Start [15%]
 
 | Passive 11 icon = Ignore Damage Cut

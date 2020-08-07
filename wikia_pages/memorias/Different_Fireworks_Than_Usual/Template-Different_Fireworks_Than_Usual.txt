@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Different Fireworks Than Usual
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = いつもと違う花火
+| Rarity = 3
+| ID = 1523
+| Illust = かにぱんだ
+| Owner = Tomoe Mami (Mizugi ver.)
+
+| min_HP = 454
+| min_ATK = 0
+| min_DEF = 494
+| max_HP = 1135
+| max_ATK = 0
+| max_DEF = 1235
+
+| image = Attack Up
+| effect_name = アディクトスレイヤー 
+| effect_name_JP = アディクトスレイヤー
+| effect1 = Attack Up [III / 15%] (Self / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [III / 25%] (Self / 1 Turn)
+| effect2 = Attack Up [IV / 20%] (Self / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [IV / 30%] (Self / 1 Turn)
+| Cooldown = 11
+| Cooldown2 = 10
+}}

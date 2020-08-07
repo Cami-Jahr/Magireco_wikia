@@ -133,3 +133,4 @@
 4053;Yagami Hayate
 1209;Rena & Kaede (Mizugi ver.)
 2501;Tomoe Mami (Mizugi ver.)
+3502;Rumor of the Ten-Thousand-Year Sakura (Mizugi ver.)

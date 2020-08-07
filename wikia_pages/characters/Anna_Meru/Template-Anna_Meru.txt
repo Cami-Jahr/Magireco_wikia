@@ -105,8 +105,8 @@
 | Passive 7 effect = Magia Damage Up [III / 10%]
 
 | Passive 8 icon = MP Gauge Increased On Battle Start
-| Passive 8 name = FastMana Up
-| Passive 8 name JP = ファストマナアップ
+| Passive 8 name = Fast Mana Up
+| Passive 8 name JP = ファスト・マナアップ
 | Passive 8 effect = MP Gauge Increased On Battle Start [15%]
 
 | Passive 9 icon = Chance to Charm on Attack

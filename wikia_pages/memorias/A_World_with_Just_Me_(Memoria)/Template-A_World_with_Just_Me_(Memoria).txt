@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A World with Just Me (Memoria)
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 私しかいない世界
+| Rarity = 4
+| ID = 1527
+| Illust = 谷口淳一郎
+| Owner = Futaba Sana
+
+| min_HP = 720
+| min_ATK = 0
+| min_DEF = 880
+| max_HP = 1800
+| max_ATK = 0
+| max_DEF = 2200
+
+| image = Chance to Guardian
+| effect_name = 私しかいない世界
+| effect_name_JP = 私しかいない世界
+| effect1 = Chance to Guardian [VII / 100%] (1 Turn) & Damage Cut [VII / 35%] (Self / 1 Turn)
+| effect2 = Chance to Guardian [VII / 100%] (1 Turn) & Damage Cut [VII / 35%] (Self / 1 Turn)
+| Cooldown = 5
+| Cooldown2 = 5
+}}

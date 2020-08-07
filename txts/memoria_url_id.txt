@@ -507,10 +507,13 @@
 1520;Trio's Summer Vacation
 1521;Beach Friendship
 1522;Best Splash Scene
-1523;Different to Usual Fireworks
+1523;Different Fireworks Than Usual
 1524;Miracle Heroines
-1525;1525
-1526;Summer Night Magic
+1525;Absolutely Unrivaled Summertime
+1526;Midsummer Night Magic
+1527;A World with Just Me (Memoria)
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection
 9003;Kumanosuke's Kawaii Vid
+1528;Secret Treasure
+1529;Wanting to Covet This and That
