@@ -59,10 +59,13 @@ def format_text(desc=""):
     return f"{text1}| jp = {desc}\n| en = \n| na = {text2}"
 
 
-def template_format(_id, Ename, stats):
-    rank, Jname, illu, owner, HP, ATK, DEF, icon, en, jp, st1, cd1, st2, cd2 = stats
-    en = en.split("[")[0]
-    jp = jp.split("[")[0]
+def template_format(_id, Ename, stats = ""):
+    if stats:
+        rank, Jname, illu, owner, HP, ATK, DEF, icon, en, jp, st1, cd1, st2, cd2 = stats
+        en = en.split("[")[0]
+        jp = jp.split("[")[0]
+    else:
+        rank = Jname = illu = owner = HP = ATK = DEF = icon = en = jp = st1 = cd1 = st2 = cd2 = ""
 
     if HP.__class__ == int:
         HP2 = int(round(HP * 2.5, 0))
@@ -160,6 +163,11 @@ if __name__ == '__main__':
     memos = get_memo_list()
 
     up_memos = []
+    make_basic = [
+        (1533, "いちばんちっちゃな家族の証"),
+        (1535, "きみの眼を見れば"),
+        (1538, "今日という一生の思い出"),
+            ]
     if up_memos:
         S = Uploader()
         S.login(username, password)
@@ -180,6 +188,21 @@ if __name__ == '__main__':
         for page, text in (
                 (f"{Fname}", format_text(coll[_id][0].replace("＠", "<br />").replace("@", "<br />"))),
                 (f"Template-{Fname}", template_format(_id, Ename, coll[_id][1]))
+                ):   
+            with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
+                f.write(text)
+
+    for _id, jname in make_basic:
+        Ename = memos[_id]
+        print(_id, Ename)
+        Fname = Ename.replace(" ", "_").replace("?", "%3F").replace(":", "..").replace("/", "-")
+        if Fname[-1] == ".":
+            Fname += "&"
+        parent = os.path.join(main_parent, Fname)
+        Path(parent).mkdir(parents=True, exist_ok=True)
+        for page, text in (
+                (f"{Fname}", format_text()),
+                (f"Template-{Fname}", template_format(_id, Ename))
                 ):   
             with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
                 f.write(text)

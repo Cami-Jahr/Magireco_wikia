@@ -32209,7 +32209,8 @@
   "1464": {
     "pieceId": 1464,
     "rank": "RANK_3",
-    "__update__": "2020-02-25T08:02:33.611Z"
+    "__update__": "2020-08-17T08:35:05.946Z",
+    "pieceName": "お手軽トラウマ"
   },
   "1465": {
     "pieceId": 1465,
@@ -33876,7 +33877,8 @@
   "1485": {
     "pieceId": 1485,
     "rank": "RANK_3",
-    "__update__": "2020-04-13T08:00:38.326Z"
+    "__update__": "2020-08-17T11:57:35.078Z",
+    "pieceName": "メモと心はくっついて"
   },
   "1486": {
     "pieceId": 1486,
@@ -37345,12 +37347,132 @@
   "1530": {
     "pieceId": 1530,
     "rank": "RANK_3",
-    "__update__": "2020-08-07T08:00:51.842Z"
+    "__update__": "2020-08-10T01:41:08.191Z",
+    "pieceName": "一生忘れられない怖い話",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 633,
+    "defense": 0,
+    "hp": 663,
+    "skillId": 153000,
+    "pieceSkill": {
+      "id": 153000,
+      "groupId": 1146,
+      "name": "スタン・スマッシュ[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃時に確率でスタン(1T)を付与[Ⅱ] & 攻撃力UP[Ⅰ]",
+      "artId1": 690209602,
+      "art1": {
+        "artId": 690209602,
+        "verbCode": "ENCHANT",
+        "effectCode": "STUN",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 150
+      },
+      "artId2": 390201101,
+      "art2": {
+        "artId": 390201101,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 153001,
+    "pieceSkill2": {
+      "id": 153001,
+      "groupId": 1146,
+      "name": "スタン・スマッシュ[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃時に確率でスタン(1T)を付与[Ⅲ] & 攻撃力UP[Ⅱ]",
+      "artId1": 690209603,
+      "art1": {
+        "artId": 690209603,
+        "verbCode": "ENCHANT",
+        "effectCode": "STUN",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 200
+      },
+      "artId2": 390201102,
+      "art2": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "「｜迎えに来た…海の底から…あなたを…＠水底は、冷たくて…暗いけれど…なかまが、いる＠ひとりじゃな、いから…寂しくない、よ…？＠…どう？怖かった？ちゃんとできてた？｜」",
+    "illustrator": "星和貴",
+    "openDate": "2020/08/07 15:10:00"
   },
   "1531": {
     "pieceId": 1531,
     "rank": "RANK_4",
-    "__update__": "2020-08-07T08:00:51.842Z"
+    "__update__": "2020-08-11T10:20:29.787Z",
+    "pieceName": "桜舞うアクアリウム",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 720,
+    "hp": 880,
+    "skillId": 153100,
+    "pieceSkill": {
+      "id": 153100,
+      "groupId": 1205,
+      "name": "マギアシールド・サークル[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "マギアダメージカット状態[Ⅳ](味全/1T)",
+      "messageId": 71,
+      "artId1": 610316604,
+      "art1": {
+        "artId": 610316604,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN_NODISK",
+        "targetId": "ALL",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 153101,
+    "pieceSkill2": {
+      "id": 153101,
+      "groupId": 1205,
+      "name": "マギアシールド・サークル[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "マギアダメージカット状態[Ⅴ](味全/1T)",
+      "messageId": 71,
+      "artId1": 610316605,
+      "art1": {
+        "artId": 610316605,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN_NODISK",
+        "targetId": "ALL",
+        "effectValue": 250,
+        "enableTurn": 1,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "「わぁ…すごいです…！」「魚が桜と泳いでるぞ！」＠「キレイだね、お姉ちゃん！」「うん…とっても素敵…」＠「｜私のウワサアクアリウム・竜宮城へ、来てくれてありがとう＠この桜は感謝のしるし、今日が楽しかった証｜」",
+    "illustrator": "―",
+    "openDate": "2020/08/07 15:10:00"
   },
   "1532": {
     "pieceId": 1532,
@@ -37444,5 +37566,259 @@
     "description": "｜知らない感情に戸惑い、初めての恐怖に身がすくんだ時＠共に考え、手を差し伸べてくれる人たちができていた＠いつか終わる日が来るとして…共にあった日々が消えてしまわないよう＠私はこの先の日々を大切に歩いていきたい｜",
     "illustrator": "―",
     "openDate": "2020/08/07 15:10:00"
+  },
+  "1533": {
+    "pieceId": 1533,
+    "rank": "RANK_3",
+    "__update__": "2020-08-21T05:32:52.485Z"
+  },
+  "1534": {
+    "pieceId": 1534,
+    "rank": "RANK_4",
+    "__update__": "2020-08-21T10:55:08.014Z",
+    "pieceName": "いつもの特等席",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 886,
+    "defense": 0,
+    "hp": 846,
+    "skillId": 153400,
+    "pieceSkill": {
+      "id": 153400,
+      "groupId": 1092,
+      "name": "コンシール・アデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅴ] & 確率で回避無効[XIII]",
+      "artId1": 390201805,
+      "art1": {
+        "artId": 390201805,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690216213,
+      "art2": {
+        "artId": 690216213,
+        "verbCode": "IGNORE",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 850
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 153401,
+    "pieceSkill2": {
+      "id": 153401,
+      "groupId": 1092,
+      "name": "コンシール・アデプト[Ⅵ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅵ] & 回避無効",
+      "artId1": 390201806,
+      "art1": {
+        "artId": 390201806,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690208100,
+      "art2": {
+        "artId": 690208100,
+        "verbCode": "IGNORE",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "「そういえば、よくここにいるよね」「モキュ」＠「居心地いいの？私…肩幅あんまりないけど…」「モキュ！」＠「ふふ、最初に仲良くなった時もここに来たよね」「モキュ」＠「…同じものを同じ角度から見てくれてたんだね」「モッキュ！」",
+    "illustrator": "―",
+    "openDate": "2020/08/21 11:10:00"
+  },
+  "1535": {
+    "pieceId": 1535,
+    "rank": "RANK_4",
+    "__update__": "2020-08-21T05:44:52.175Z",
+    "pieceName": "きみの眼を見れば"
+  },
+  "1536": {
+    "pieceId": 1536,
+    "rank": "RANK_4",
+    "__update__": "2020-08-21T05:33:36.165Z",
+    "pieceType": "SKILL",
+    "pieceName": "戦う少女に御利益を",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 763,
+    "hp": 843,
+    "skillId": 153600,
+    "pieceSkill": {
+      "id": 153600,
+      "groupId": 1101,
+      "name": "ミスティックタッチ[Ⅸ]",
+      "type": "SKILL",
+      "intervalTurn": 11,
+      "shortDescription": "BlastダメージDOWN[Ⅸ] & マギアダメージDOWN[Ⅹ](敵単/1T) & 防御力UP[Ⅵ](自/1T)",
+      "messageId": 72,
+      "artId1": 410002709,
+      "art1": {
+        "artId": 410002709,
+        "verbCode": "DEBUFF",
+        "effectCode": "BLAST",
+        "targetId": "TARGET",
+        "effectValue": 250,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 410002310,
+      "art2": {
+        "artId": 410002310,
+        "verbCode": "DEBUFF",
+        "effectCode": "MAGIA",
+        "targetId": "TARGET",
+        "effectValue": 500,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId3": 310201206,
+      "art3": {
+        "artId": 310201206,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 450,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 153601,
+    "pieceSkill2": {
+      "id": 153601,
+      "groupId": 1101,
+      "name": "ミスティックタッチ[Ⅹ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "BlastダメージDOWN[Ⅹ] & マギアダメージDOWN[Ⅹ](敵単/1T) & 防御力UP[Ⅶ](自/1T)",
+      "messageId": 72,
+      "artId1": 410002710,
+      "art1": {
+        "artId": 410002710,
+        "verbCode": "DEBUFF",
+        "effectCode": "BLAST",
+        "targetId": "TARGET",
+        "effectValue": 275,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 410002310,
+      "art2": {
+        "artId": 410002310,
+        "verbCode": "DEBUFF",
+        "effectCode": "MAGIA",
+        "targetId": "TARGET",
+        "effectValue": 500,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId3": 310201207,
+      "art3": {
+        "artId": 310201207,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 525,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "過去も願いも戦う理由も決してひとつではない＠それでも今日はみんなで上を向いてみんなで笑った＠進むべき道はひとつだと信じて＠明るい未来であって欲しいと願う",
+    "illustrator": "―",
+    "openDate": "2020/08/21 11:10:00"
+  },
+  "1537": {
+    "pieceId": 1537,
+    "rank": "RANK_4",
+    "__update__": "2020-08-21T05:33:36.166Z",
+    "pieceType": "ABILITY",
+    "pieceName": "がんばれ小さな救世主",
+    "attributeId": "ALL",
+    "attack": 844,
+    "defense": 0,
+    "hp": 764,
+    "skillId": 153700,
+    "pieceSkill": {
+      "id": 153700,
+      "groupId": 1119,
+      "name": "オーバーライズ・アデプト[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "ダメージアップ状態[Ⅱ] & 弱点属性で攻撃されたときMPUP[Ⅵ]",
+      "artId1": 690206102,
+      "art1": {
+        "artId": 690206102,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690207906,
+      "art2": {
+        "artId": 690207906,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "MP_PLUS_WEAKED",
+        "targetId": "SELF",
+        "effectValue": 70,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 153701,
+    "pieceSkill2": {
+      "id": 153701,
+      "groupId": 1119,
+      "name": "オーバーライズ・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "ダメージアップ状態[Ⅲ] & 弱点属性で攻撃されたときMPUP[Ⅵ]",
+      "artId1": 690206103,
+      "art1": {
+        "artId": 690206103,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690207906,
+      "art2": {
+        "artId": 690207906,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "MP_PLUS_WEAKED",
+        "targetId": "SELF",
+        "effectValue": 70,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "「モキュッ！モキュッ！…モキュ！…モキュッ…!!＠モキュ、モキュ、モ、モキュ…！モキュモキュモッキュゥゥ!!」＠がんばれ小さなキュゥべえ、負けるな小さなキュゥべえ＠必死でもがけば、きっと報われるはず！",
+    "illustrator": "―",
+    "openDate": "2020/08/21 11:10:00"
+  },
+  "1538": {
+    "pieceId": 1538,
+    "rank": "RANK_4",
+    "__update__": "2020-08-21T05:32:52.486Z"
   }
 }

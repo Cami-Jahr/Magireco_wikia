@@ -512,9 +512,17 @@
 1525;Absolutely Unrivaled Summertime
 1526;Midsummer Night Magic
 1527;A World with Just Me (Memoria)
+1528;Secret Treasure Box
+1529;Wanting to Covet This and That
+1530;An Unforgettable Scary Story
+1531;Fluttering Sakura Aquarium
+1532;Something to Remember
+1533;Proof of the Best Tiniest Family
+1534;The Usual Special Seat
+1535;When I See Your Eyes
+1536;Blessing to the Fighting Girls
+1537;Do Your Best, Little Savior
+1538;The Memory of a Lifetime Called Today
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection
 9003;Kumanosuke's Kawaii Vid
-1528;Secret Treasure
-1529;Wanting to Covet This and That
-1532;Something to Remember

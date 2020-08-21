@@ -63,6 +63,7 @@ good = {
     "MP_PLUS_BLAST" : ("Blast MP Gain Up", True, False),
     "DAMAGE_UP": ("Damage Up", True, False),
     "ATTACK_UP": ("Attack Up", True, False),  
+    "IMITATE_ATTRIBUTE": ("Variable", True, False),  
 }
 
 bad = {
@@ -125,6 +126,7 @@ ignore = {
     "FOG": ("Chance to Anti-Fog", True, False),
     "BLINDNESS": ("Chance to Anti-Dazzle", True, False),
     "DARKNESS": ("Chance to Anti-Darkness", True, False),
+    "CRITICAL": ("Chance to Anti-Critical Hit", True, False),
 }
 
 revoke = {
@@ -468,6 +470,8 @@ def translate(shortDescription, arts):
                 target = ""
             try:
                 turns = art["enableTurn"]
+                if turns == 0:
+                    turns = "∞"
             except KeyError:
                 turns = 0
 

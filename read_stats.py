@@ -475,7 +475,11 @@ def make_spirit_enchantment(cells):
                 p_output += p_temp.format(p_idx, jp, en, icon, st)
                 p_idx += 1
             else:  # SKILL
-                a_output += a_temp.format(a_idx, jp, en, icon, st, cell["emotionSkill"]["intervalTurn"])
+                try:
+                    duration = cell["emotionSkill"]["intervalTurn"]
+                except KeyError:
+                    duration = "∞"
+                a_output += a_temp.format(a_idx, jp, en, icon, st, duration)
                 a_idx += 1
 
     # fill out so everyone has 13 passive and 1 active

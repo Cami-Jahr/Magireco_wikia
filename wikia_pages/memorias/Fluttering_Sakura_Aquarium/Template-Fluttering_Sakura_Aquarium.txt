@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Fluttering Sakura Aquarium
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 桜舞うアクアリウム
+| Rarity = 4
+| ID = 1531
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 880
+| min_ATK = 0
+| min_DEF = 720
+| max_HP = 2200
+| max_ATK = 0
+| max_DEF = 1800
+
+| image = Magia Damage Cut
+| effect_name = MagiaShield Circle 
+| effect_name_JP = マギアシールド・サークル
+| effect1 = Magia Damage Cut [IV / 20%] (All / 1 Turn)
+| effect2 = Magia Damage Cut [V / 25%] (All / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 9
+}}
