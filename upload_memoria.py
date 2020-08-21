@@ -163,11 +163,12 @@ if __name__ == '__main__':
     memos = get_memo_list()
 
     up_memos = []
-    make_basic = [
-        (1533, "いちばんちっちゃな家族の証"),
-        (1535, "きみの眼を見れば"),
-        (1538, "今日という一生の思い出"),
-            ]
+    make_basic = {
+        1533: "いちばんちっちゃな家族の証",
+        1535: "きみの眼を見れば",
+        1538: "今日という一生の思い出",
+    }
+            
     if up_memos:
         S = Uploader()
         S.login(username, password)
@@ -175,9 +176,16 @@ if __name__ == '__main__':
     m_list = sorted(list(coll))
 
     main_parent = os.path.join("wikia_pages", "memorias")
-    shutil.rmtree(main_parent)
+    try:
+        shutil.rmtree(main_parent)
+    except FileNotFoundError:
+        pass
 
     for _id in m_list:
+        try:
+            del make_basic[_id]
+        except KeyError:
+            pass
         Ename = memos[_id]
         print(_id, Ename)
         Fname = Ename.replace(" ", "_").replace("?", "%3F").replace(":", "..").replace("/", "-")
@@ -192,7 +200,7 @@ if __name__ == '__main__':
             with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
                 f.write(text)
 
-    for _id, jname in make_basic:
+    for _id, jname in make_basic.items():
         Ename = memos[_id]
         print(_id, Ename)
         Fname = Ename.replace(" ", "_").replace("?", "%3F").replace(":", "..").replace("/", "-")

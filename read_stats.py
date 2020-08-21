@@ -242,11 +242,16 @@ def format_info(_id):
 
     t4 = textM3.format(*rank_stats)
 
-    jap = work_on["name"]
-    try:
-        jap += " (" + work_on["title"] + ")"
-    except KeyError:
-        pass
+    if _id == 1042:
+        jap = "小さなキュゥべえ"
+    else:
+        jap = work_on["name"]
+        try:
+            jap += " (" + work_on["title"] + ")"
+        except KeyError:
+            pass
+
+
     att = attributes[work_on["attributeId"]]
     name = characters[_id].replace("_", " ")
     designer = work_on["designer"]

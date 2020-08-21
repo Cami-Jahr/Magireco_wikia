@@ -37570,7 +37570,8 @@
   "1533": {
     "pieceId": 1533,
     "rank": "RANK_3",
-    "__update__": "2020-08-21T05:32:52.485Z"
+    "__update__": "2020-08-21T12:36:08.388Z",
+    "pieceName": "いちばんちっちゃな家族の証"
   },
   "1534": {
     "pieceId": 1534,
@@ -37645,8 +37646,78 @@
   "1535": {
     "pieceId": 1535,
     "rank": "RANK_4",
-    "__update__": "2020-08-21T05:44:52.175Z",
-    "pieceName": "きみの眼を見れば"
+    "__update__": "2020-08-21T12:17:34.930Z",
+    "pieceName": "きみの眼を見れば",
+    "illustrator": "―",
+    "description": "「モッキュ、モキュモキュ、キュップイ、モキュゥ！キュキュ、モキュ」＠「ふふ…そうだね、お茶おいしいね…はい、クッキーもどうぞ」＠「言ってることわかるの？」「お姉さますごい！」「僕達には全然…」＠「なんとなくだけどね…ずっと一緒にいるからかな」「モキュッ！」",
+    "hp": 886,
+    "pieceSkill2": {
+      "art1": {
+        "targetId": "SELF",
+        "effectValue": 250,
+        "effectCode": "DAMAGE",
+        "verbCode": "BUFF",
+        "artId": 310201305,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "art2": {
+        "probability": 700,
+        "targetId": "SELF",
+        "effectCode": "DAMAGE_DOWN",
+        "verbCode": "IGNORE",
+        "artId": 610216509,
+        "growPoint": 0,
+        "enableTurn": 1
+      },
+      "artId2": 610216509,
+      "name": "ソニック・スラスト[Ⅶ]",
+      "artId1": 310201305,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1087,
+      "messageId": 70,
+      "shortDescription": "与えるダメージUP[Ⅶ] & 確率でダメージカット無視[Ⅸ](自/1T)",
+      "id": 153501,
+      "intervalTurn": 9
+    },
+    "pieceSkill": {
+      "art1": {
+        "targetId": "SELF",
+        "effectValue": 200,
+        "effectCode": "DAMAGE",
+        "verbCode": "BUFF",
+        "artId": 310201304,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "art2": {
+        "probability": 650,
+        "targetId": "SELF",
+        "effectCode": "DAMAGE_DOWN",
+        "verbCode": "IGNORE",
+        "artId": 610216508,
+        "growPoint": 0,
+        "enableTurn": 1
+      },
+      "artId2": 610216508,
+      "name": "ソニック・スラスト[Ⅵ]",
+      "artId1": 310201304,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1087,
+      "messageId": 70,
+      "shortDescription": "与えるダメージUP[Ⅵ] & 確率でダメージカット無視[Ⅷ](自/1T)",
+      "id": 153500,
+      "intervalTurn": 10
+    },
+    "skillId2": 153501,
+    "attack": 0,
+    "defense": 886,
+    "attributeId": "ALL",
+    "pieceType": "SKILL",
+    "openDate": "2020/08/21 11:10:00",
+    "skillId": 153500
   },
   "1536": {
     "pieceId": 1536,
