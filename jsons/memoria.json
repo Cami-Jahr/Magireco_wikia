@@ -8136,7 +8136,7 @@
       "name": "アタックアップ[Ⅵ]",
       "type": "SKILL",
       "intervalTurn": 6,
-      "shortDescription": "攻撃力UP[Ⅵ](自/1T)",
+      "shortDescription": "攻撃力UP[Ⅵ](自/3T)",
       "messageId": 72,
       "artId1": 330201106,
       "art1": {
@@ -8157,7 +8157,7 @@
       "name": "アタックアップ[Ⅶ]",
       "type": "SKILL",
       "intervalTurn": 5,
-      "shortDescription": "攻撃力UP[Ⅶ](自/1T)",
+      "shortDescription": "攻撃力UP[Ⅶ](自/3T)",
       "messageId": 72,
       "artId1": 330201107,
       "art1": {
@@ -8174,7 +8174,7 @@
     "description": "「もう、サッカーは無理だろうね…」再起不能のケガを負いながら＠彼女が気遣うのは、もうひとりの少女の気持ち＠人々の噂話は、自分を負傷させた相手の心をも切り刻む…＠心優しい彼女の想いは、そのことにだけ向けられていた",
     "illustrator": "都筑禰己",
     "openDate": "2017/11/20 15:10:00",
-    "__update__": "2019-09-17T07:16:03.590Z"
+    "__update__": "2020-09-07T08:01:59.849Z"
   },
   "1144": {
     "pieceId": 1144,
@@ -8218,7 +8218,7 @@
         "verbCode": "OTHER",
         "effectCode": "QUESTBATTLE_ATK",
         "effectValue": 70000,
-        "parameter": 5008911
+        "parameter": 5109911
       },
       "artId4": 100807,
       "art4": {
@@ -8226,7 +8226,7 @@
         "verbCode": "OTHER",
         "effectCode": "QUESTBATTLE_DEF",
         "effectValue": 100000,
-        "parameter": 5008911
+        "parameter": 5109911
       },
       "skillEffectRange": "ALL"
     },
@@ -8263,7 +8263,7 @@
         "verbCode": "OTHER",
         "effectCode": "QUESTBATTLE_ATK",
         "effectValue": 70000,
-        "parameter": 5008911
+        "parameter": 5109911
       },
       "artId4": 100807,
       "art4": {
@@ -8271,7 +8271,7 @@
         "verbCode": "OTHER",
         "effectCode": "QUESTBATTLE_DEF",
         "effectValue": 100000,
-        "parameter": 5008911
+        "parameter": 5109911
       },
       "skillEffectRange": "ALL"
     },
@@ -8279,7 +8279,7 @@
     "illustrator": "天杉貴志",
     "openDate": "2017/11/20 15:10:00",
     "pieceKind": "EVENT",
-    "__update__": "2019-09-17T07:16:03.599Z"
+    "__update__": "2020-09-07T08:00:44.734Z"
   },
   "1145": {
     "pieceId": 1145,
@@ -8317,16 +8317,16 @@
         "growPoint": 0,
         "probability": 1000
       },
-      "eventId": 1008,
-      "eventArtId1": 100801,
+      "eventId": 1109,
+      "eventArtId1": 1109001,
       "eventArt1": {
-        "artId": 100801,
+        "artId": 1109001,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
-        "effectValue": 1000,
-        "genericValue": "EVENT_SINGLERAID_1008_EXCHANGE_1"
+        "effectValue": 2000,
+        "genericValue": "EVENT_SINGLERAID_1109_EXCHANGE_1"
       },
-      "eventDescription": "＆メダル入手時＋1",
+      "eventDescription": "＆「かずみメダル」追加獲得数＋2",
       "skillEffectRange": "ALL"
     },
     "skillId2": 114501,
@@ -8356,23 +8356,23 @@
         "growPoint": 0,
         "probability": 1000
       },
-      "eventId": 1008,
-      "eventArtId1": 100802,
+      "eventId": 1109,
+      "eventArtId1": 1109002,
       "eventArt1": {
-        "artId": 100802,
+        "artId": 1109002,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
-        "effectValue": 3000,
-        "genericValue": "EVENT_SINGLERAID_1008_EXCHANGE_1"
+        "effectValue": 5000,
+        "genericValue": "EVENT_SINGLERAID_1109_EXCHANGE_1"
       },
-      "eventDescription": "＆メダル入手時＋3",
+      "eventDescription": "＆「かずみメダル」追加獲得数＋5",
       "skillEffectRange": "ALL"
     },
     "description": "小説家・御崎海香先生の知られざる執筆スタイル…＠それは…「行き詰ったら料理をしてストレス解消」！＠余人の口を挟ませずに黙々と作り上げるその料理は＠先生の作品ばりに、食べる者を感動させる美味しさだとか…!?",
     "illustrator": "シソ",
     "openDate": "2017/11/20 15:10:00",
     "pieceKind": "EVENT",
-    "__update__": "2019-09-17T07:16:03.587Z"
+    "__update__": "2020-09-07T10:34:38.627Z"
   },
   "1146": {
     "pieceId": 1146,
@@ -8402,16 +8402,16 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "eventId": 1008,
-      "eventArtId1": 100803,
+      "eventId": 1109,
+      "eventArtId1": 1109003,
       "eventArt1": {
-        "artId": 100803,
+        "artId": 1109003,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 3000,
-        "genericValue": "EVENT_SINGLERAID_1008_EXCHANGE_1"
+        "genericValue": "EVENT_SINGLERAID_1109_EXCHANGE_1"
       },
-      "eventDescription": "＆メダル入手時＋3",
+      "eventDescription": "＆「かずみメダル」追加獲得数＋3",
       "skillEffectRange": "ALL"
     },
     "skillId2": 114601,
@@ -8433,23 +8433,23 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "eventId": 1008,
-      "eventArtId1": 100804,
+      "eventId": 1109,
+      "eventArtId1": 1109004,
       "eventArt1": {
-        "artId": 100804,
+        "artId": 1109004,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
-        "effectValue": 5000,
-        "genericValue": "EVENT_SINGLERAID_1008_EXCHANGE_1"
+        "effectValue": 7000,
+        "genericValue": "EVENT_SINGLERAID_1109_EXCHANGE_1"
       },
-      "eventDescription": "＆メダル入手時＋5",
+      "eventDescription": "＆「かずみメダル」追加獲得数＋7",
       "skillEffectRange": "ALL"
     },
     "description": "うつむいて、いつまでも下を向くのはやめようよ＠そうしていても、自分の足元しか見えないよ…？＠顔を上げて、前を見て、恐れずに進んで行こうよ＠きっといつか、素敵な景色に出会えるから…！",
     "illustrator": "こるり",
     "openDate": "2017/11/20 15:10:00",
     "pieceKind": "EVENT",
-    "__update__": "2019-09-17T07:16:03.589Z"
+    "__update__": "2020-09-07T10:34:38.641Z"
   },
   "1147": {
     "pieceId": 1147,
@@ -10198,7 +10198,8 @@
         "enableTurn": 1,
         "growPoint": 0,
         "probability": 1000
-      }
+      },
+      "skillEffectRange": "ALL"
     },
     "skillId2": 117301,
     "pieceSkill2": {
@@ -10228,11 +10229,13 @@
         "enableTurn": 1,
         "growPoint": 0,
         "probability": 1000
-      }
+      },
+      "skillEffectRange": "ALL"
     },
     "description": "「決して消させはしない＠幾度もの涙と過ちを越えて、ようやく出会えた最後の希望＠それがタルトだから＠彼女は旅路の果てに、ようやく出会えた希望の光だから」",
     "illustrator": "枡狐/蛙空",
-    "openDate": "2018/02/21 15:10:00"
+    "openDate": "2018/02/21 15:10:00",
+    "__update__": "2020-09-05T06:17:56.522Z"
   },
   "1174": {
     "pieceId": 1174,
@@ -32209,8 +32212,89 @@
   "1464": {
     "pieceId": 1464,
     "rank": "RANK_3",
-    "__update__": "2020-08-17T08:35:05.946Z",
-    "pieceName": "お手軽トラウマ"
+    "__update__": "2020-08-22T04:13:10.739Z",
+    "pieceName": "お手軽トラウマ",
+    "charaIds": "3034",
+    "illustrator": "くらは",
+    "description": "星を見上げる焼き魚、最深部を護る鶏の唐揚げ＠全てを包み込む生クリーム、その中心で輝くイクラ＠おかずパフェとして現在売り出し中の目玉スイーツ＠お値段2980円（税別）の火遊び",
+    "pieceSkill": {
+      "art1": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 2000,
+        "effectCode": "C_COMBO_PLUS",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 630219202,
+        "growPoint": 0,
+        "enableTurn": 3
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 200,
+        "effectCode": "DAMAGE_DOWN",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 630206204,
+        "growPoint": 25,
+        "enableTurn": 3
+      },
+      "artId2": 630206204,
+      "name": "Cコンボプラス・シールド[Ⅱ]",
+      "artId1": 630219202,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1217,
+      "messageId": 70,
+      "shortDescription": "Charge combo時Charge数+2(重複不可) & ダメージカット状態[Ⅳ](自/3T)",
+      "id": 146400,
+      "intervalTurn": 6
+    },
+    "hp": 510,
+    "pieceSkill2": {
+      "art1": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 2000,
+        "effectCode": "C_COMBO_PLUS",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 630219202,
+        "growPoint": 0,
+        "enableTurn": 3
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 200,
+        "effectCode": "DAMAGE_DOWN",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 630206204,
+        "growPoint": 25,
+        "enableTurn": 3
+      },
+      "artId2": 630206204,
+      "name": "Cコンボプラス・シールド[Ⅱ]",
+      "artId1": 630219202,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1217,
+      "messageId": 70,
+      "shortDescription": "Charge combo時Charge数+2(重複不可) & ダメージカット状態[Ⅳ](自/3T)",
+      "id": 146401,
+      "intervalTurn": 5
+    },
+    "charaList": [
+      {
+        "charaId": 3034,
+        "name": "恵 萌花"
+      }
+    ],
+    "skillId2": 146401,
+    "attack": 0,
+    "defense": 430,
+    "attributeId": "ALL",
+    "pieceType": "SKILL",
+    "openDate": "2020/02/25 15:10:00",
+    "skillId": 146400
   },
   "1465": {
     "pieceId": 1465,
@@ -33877,8 +33961,89 @@
   "1485": {
     "pieceId": 1485,
     "rank": "RANK_3",
-    "__update__": "2020-08-17T11:57:35.078Z",
-    "pieceName": "メモと心はくっついて"
+    "__update__": "2020-08-23T09:31:57.909Z",
+    "pieceName": "メモと心はくっついて",
+    "charaIds": "3036",
+    "illustrator": "mepo",
+    "description": "朝起きる前に出かけ、夜眠った後に帰ってくる両親たち＠メモに書かれるのは互いの予定と、ほんのわずかな本当の気持ち＠たったそれだけで、心まではすれ違っていないという証になった＠寂しくても、交換ノートのように少しだけ楽しかった思い出",
+    "pieceSkill": {
+      "art1": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 40,
+        "effectCode": "AUTO_HEAL",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 630207703,
+        "growPoint": 10,
+        "enableTurn": 3
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 150,
+        "effectCode": "DAMAGE_DOWN",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 630206203,
+        "growPoint": 25,
+        "enableTurn": 3
+      },
+      "artId2": 630206203,
+      "name": "リジェネレイト・シールド[Ⅲ]",
+      "artId1": 630207703,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1129,
+      "messageId": 70,
+      "shortDescription": "HP自動回復[Ⅲ] & ダメージカット状態[Ⅲ](自/3T)",
+      "id": 148500,
+      "intervalTurn": 6
+    },
+    "hp": 510,
+    "pieceSkill2": {
+      "art1": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 50,
+        "effectCode": "AUTO_HEAL",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 630207704,
+        "growPoint": 10,
+        "enableTurn": 3
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 200,
+        "effectCode": "DAMAGE_DOWN",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 630206204,
+        "growPoint": 25,
+        "enableTurn": 3
+      },
+      "artId2": 630206204,
+      "name": "リジェネレイト・シールド[Ⅳ]",
+      "artId1": 630207704,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1129,
+      "messageId": 70,
+      "shortDescription": "HP自動回復[Ⅳ] & ダメージカット状態[Ⅳ](自/3T)",
+      "id": 148501,
+      "intervalTurn": 5
+    },
+    "charaList": [
+      {
+        "charaId": 3036,
+        "name": "由貴 真里愛"
+      }
+    ],
+    "skillId2": 148501,
+    "attack": 0,
+    "defense": 430,
+    "attributeId": "ALL",
+    "pieceType": "SKILL",
+    "openDate": "2020/04/13 15:10:00",
+    "skillId": 148500
   },
   "1486": {
     "pieceId": 1486,
@@ -34945,8 +35110,85 @@
   "1498": {
     "pieceId": 1498,
     "rank": "RANK_3",
-    "__update__": "2020-06-29T08:11:54.950Z",
-    "pieceName": "心に勇気を宿して"
+    "__update__": "2020-08-22T04:13:10.805Z",
+    "pieceName": "心に勇気を宿して",
+    "charaIds": "3041",
+    "illustrator": "くらは",
+    "description": "ホントのボクは弱虫だけど、時々心だけスーパーヒーローになる＠ぴかぴかに磨いた、ボク専用の変身グッズを身に着けて＠ビシッとカッコよくポーズを決めれば＠それだけでボクはもう世界一のヒーローなんだ！",
+    "pieceSkill": {
+      "art1": {
+        "targetId": "SELF",
+        "effectValue": 350,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 310201107,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "art2": {
+        "targetId": "SELF",
+        "effectValue": 450,
+        "effectCode": "DEFENSE",
+        "verbCode": "BUFF",
+        "artId": 310201206,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "artId2": 310201206,
+      "name": "ブルームアップ[Ⅶ]",
+      "artId1": 310201107,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1085,
+      "messageId": 70,
+      "shortDescription": "攻撃力UP[Ⅶ] & 防御力UP[Ⅵ](自/1T)",
+      "id": 149800,
+      "intervalTurn": 7
+    },
+    "hp": 452,
+    "pieceSkill2": {
+      "art1": {
+        "targetId": "SELF",
+        "effectValue": 400,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 310201108,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "art2": {
+        "targetId": "SELF",
+        "effectValue": 525,
+        "effectCode": "DEFENSE",
+        "verbCode": "BUFF",
+        "artId": 310201207,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "artId2": 310201207,
+      "name": "ブルームアップ[Ⅷ]",
+      "artId1": 310201108,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1085,
+      "messageId": 70,
+      "shortDescription": "攻撃力UP[Ⅷ] & 防御力UP[Ⅶ](自/1T)",
+      "id": 149801,
+      "intervalTurn": 6
+    },
+    "charaList": [
+      {
+        "charaId": 3041,
+        "name": "柚希 ほとり"
+      }
+    ],
+    "skillId2": 149801,
+    "attack": 0,
+    "defense": 492,
+    "attributeId": "ALL",
+    "pieceType": "SKILL",
+    "openDate": "2020/05/29 15:10:00",
+    "skillId": 149800
   },
   "1499": {
     "pieceId": 1499,
@@ -35028,7 +35270,87 @@
   "1500": {
     "pieceId": 1500,
     "rank": "RANK_3",
-    "__update__": "2020-05-29T08:02:38.737Z"
+    "__update__": "2020-08-23T09:31:57.916Z",
+    "charaIds": "3050",
+    "pieceName": "憂鬱は紅茶に溶かして",
+    "illustrator": "かにぱんだ",
+    "description": "悩みごとで塞ぎこんだ時は、窓際で紅茶を一杯＠優しい香りと温かな味わいで不安を包み込むその時間は＠まるで聖女様とお話しているかのようで＠大切で、やわらかなひととき…",
+    "pieceSkill": {
+      "art1": {
+        "probability": 600,
+        "targetId": "TARGET",
+        "effectValue": 250,
+        "effectCode": "FOG",
+        "verbCode": "CONDITION_BAD",
+        "artId": 530005113,
+        "growPoint": 0,
+        "enableTurn": 3
+      },
+      "art2": {
+        "targetId": "TARGET",
+        "effectValue": 150,
+        "effectCode": "ATTACK",
+        "verbCode": "DEBUFF",
+        "artId": 430002003,
+        "growPoint": 25,
+        "enableTurn": 3
+      },
+      "artId2": 430002003,
+      "name": "シック・フォッグ[XIII]",
+      "artId1": 530005113,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1109,
+      "messageId": 72,
+      "shortDescription": "確率で霧[XIII](敵単/3T) & 攻撃力DOWN[Ⅲ](敵単/3T)",
+      "id": 150000,
+      "intervalTurn": 10
+    },
+    "hp": 513,
+    "pieceSkill2": {
+      "art1": {
+        "probability": 650,
+        "targetId": "TARGET",
+        "effectValue": 250,
+        "effectCode": "FOG",
+        "verbCode": "CONDITION_BAD",
+        "artId": 530005115,
+        "growPoint": 0,
+        "enableTurn": 3
+      },
+      "art2": {
+        "targetId": "TARGET",
+        "effectValue": 200,
+        "effectCode": "ATTACK",
+        "verbCode": "DEBUFF",
+        "artId": 430002004,
+        "growPoint": 25,
+        "enableTurn": 3
+      },
+      "artId2": 430002004,
+      "name": "シック・フォッグ[XV]",
+      "artId1": 530005115,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1109,
+      "messageId": 72,
+      "shortDescription": "確率で霧[XV](敵単/3T) & 攻撃力DOWN[Ⅳ](敵単/3T)",
+      "id": 150001,
+      "intervalTurn": 9
+    },
+    "charaList": [
+      {
+        "charaId": 3050,
+        "name": "香春 ゆうな"
+      }
+    ],
+    "skillId2": 150001,
+    "attack": 0,
+    "defense": 433,
+    "attributeId": "ALL",
+    "pieceType": "SKILL",
+    "openDate": "2020/05/29 15:10:00",
+    "skillId": 150000
   },
   "1501": {
     "pieceId": 1501,
@@ -36407,7 +36729,85 @@
   "1518": {
     "pieceId": 1518,
     "rank": "RANK_3",
-    "__update__": "2020-07-15T08:02:52.145Z"
+    "__update__": "2020-08-29T05:05:26.048Z",
+    "charaIds": "1209",
+    "pieceName": "夏に咲く花",
+    "illustrator": "mepo",
+    "description": "小さく明るい花の間にポツリポツリと咲く会話＠波の音と合わさって、花は消えていくけれど＠花が照らした笑顔と会話は夏の夜を彩り続ける＠きっとこの夜は、忘れられない光景になる",
+    "pieceSkill": {
+      "art1": {
+        "targetId": "SELF",
+        "effectValue": 150,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 310201103,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectCode": "DAMAGE_DOWN",
+        "verbCode": "IGNORE",
+        "artId": 610216515,
+        "growPoint": 0,
+        "enableTurn": 1
+      },
+      "artId2": 610216515,
+      "name": "パラッシュアップ[Ⅲ]",
+      "artId1": 310201103,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1085,
+      "messageId": 70,
+      "shortDescription": "攻撃力UP[Ⅲ] & 必ずダメージカット無視(自/1T)",
+      "id": 151800,
+      "intervalTurn": 10
+    },
+    "hp": 474,
+    "pieceSkill2": {
+      "art1": {
+        "targetId": "SELF",
+        "effectValue": 200,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 310201104,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectCode": "DAMAGE_DOWN",
+        "verbCode": "IGNORE",
+        "artId": 610216515,
+        "growPoint": 0,
+        "enableTurn": 1
+      },
+      "artId2": 610216515,
+      "name": "パラッシュアップ[Ⅳ]",
+      "artId1": 310201104,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1085,
+      "messageId": 70,
+      "shortDescription": "攻撃力UP[Ⅳ] & 必ずダメージカット無視(自/1T)",
+      "id": 151801,
+      "intervalTurn": 9
+    },
+    "charaList": [
+      {
+        "charaId": 1209,
+        "name": "レナ・かえで 水着ver."
+      }
+    ],
+    "skillId2": 151801,
+    "attack": 0,
+    "defense": 474,
+    "attributeId": "ALL",
+    "pieceType": "SKILL",
+    "openDate": "2020/07/15 15:10:00",
+    "skillId": 151800
   },
   "1519": {
     "pieceId": 1519,
@@ -37570,8 +37970,85 @@
   "1533": {
     "pieceId": 1533,
     "rank": "RANK_3",
-    "__update__": "2020-08-21T12:36:08.388Z",
-    "pieceName": "いちばんちっちゃな家族の証"
+    "__update__": "2020-08-22T04:13:10.827Z",
+    "pieceName": "いちばんちっちゃな家族の証",
+    "charaIds": "1042",
+    "illustrator": "秘鷺悠弥",
+    "description": "みかづき荘でいちばんちっちゃな家族のために＠みんなで選んだちっちゃなお茶碗＠お茶はほんの少ししか入れられないけれど＠たくさんの愛情が注げる、確かな家族の証",
+    "pieceSkill": {
+      "art1": {
+        "targetId": "SELF",
+        "effectValue": 150,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 310201103,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "art2": {
+        "probability": 200,
+        "targetId": "SELF",
+        "effectCode": "DEFENSE_IGNORED",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 610206603,
+        "growPoint": 0,
+        "enableTurn": 1
+      },
+      "artId2": 610206603,
+      "name": "ペネトレイトアタック[Ⅲ]",
+      "artId1": 310201103,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1085,
+      "messageId": 70,
+      "shortDescription": "攻撃力UP[Ⅲ] & 確率で防御無視[Ⅲ](自/1T)",
+      "id": 153300,
+      "intervalTurn": 10
+    },
+    "hp": 454,
+    "pieceSkill2": {
+      "art1": {
+        "targetId": "SELF",
+        "effectValue": 200,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 310201104,
+        "growPoint": 25,
+        "enableTurn": 1
+      },
+      "art2": {
+        "probability": 250,
+        "targetId": "SELF",
+        "effectCode": "DEFENSE_IGNORED",
+        "verbCode": "CONDITION_GOOD",
+        "artId": 610206604,
+        "growPoint": 0,
+        "enableTurn": 1
+      },
+      "artId2": 610206604,
+      "name": "ペネトレイトアタック[Ⅳ]",
+      "artId1": 310201104,
+      "type": "SKILL",
+      "skillEffectRange": "ALL",
+      "groupId": 1085,
+      "messageId": 70,
+      "shortDescription": "攻撃力UP[Ⅳ] & 確率で防御無視[Ⅳ](自/1T)",
+      "id": 153301,
+      "intervalTurn": 9
+    },
+    "charaList": [
+      {
+        "charaId": 1042,
+        "name": "userName"
+      }
+    ],
+    "skillId2": 153301,
+    "attack": 0,
+    "defense": 494,
+    "attributeId": "ALL",
+    "pieceType": "SKILL",
+    "openDate": "2020/08/21 11:10:00",
+    "skillId": 153300
   },
   "1534": {
     "pieceId": 1534,
@@ -37890,6 +38367,174 @@
   "1538": {
     "pieceId": 1538,
     "rank": "RANK_4",
-    "__update__": "2020-08-21T05:32:52.486Z"
+    "__update__": "2020-08-21T15:06:32.434Z",
+    "pieceName": "今日という一生の思い出",
+    "illustrator": "―",
+    "description": "今日は大事な大事な誕生日＠いつもの６人、いつもの場所で盛大にお祝い＠その日常がどれほどの幸福かを噛みしめて＠少女はひとつだけ前に進む",
+    "hp": 726,
+    "pieceSkill2": {
+      "art1": {
+        "targetId": "SELF",
+        "effectValue": 200,
+        "effectCode": "EPISODE_UP",
+        "verbCode": "OTHER",
+        "artId": 700216302,
+        "growPoint": 0
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 100,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 390201102,
+        "growPoint": 25
+      },
+      "artId2": 390201102,
+      "name": "今日という一生の思い出",
+      "artId1": 700216302,
+      "type": "ABILITY",
+      "skillEffectRange": "ALL",
+      "groupId": 1173,
+      "shortDescription": "獲得エピソードポイントUP[Ⅱ] & 攻撃力UP[Ⅱ]",
+      "id": 153801
+    },
+    "pieceSkill": {
+      "art1": {
+        "targetId": "SELF",
+        "effectValue": 200,
+        "effectCode": "EPISODE_UP",
+        "verbCode": "OTHER",
+        "artId": 700216302,
+        "growPoint": 0
+      },
+      "art2": {
+        "probability": 1000,
+        "targetId": "SELF",
+        "effectValue": 50,
+        "effectCode": "ATTACK",
+        "verbCode": "BUFF",
+        "artId": 390201101,
+        "growPoint": 25
+      },
+      "artId2": 390201101,
+      "name": "今日という一生の思い出",
+      "artId1": 700216302,
+      "type": "ABILITY",
+      "skillEffectRange": "ALL",
+      "groupId": 1173,
+      "shortDescription": "獲得エピソードポイントUP[Ⅱ] & 攻撃力UP[Ⅰ]",
+      "id": 153800
+    },
+    "skillId2": 153801,
+    "attack": 886,
+    "defense": 0,
+    "attributeId": "ALL",
+    "pieceType": "ABILITY",
+    "openDate": "2020/08/21 11:10:00",
+    "skillId": 153800
+  },
+  "1539": {
+    "pieceId": 1539,
+    "rank": "RANK_4",
+    "__update__": "2020-09-01T09:29:53.153Z",
+    "pieceType": "SKILL",
+    "pieceName": "ふたりでいれば、大丈夫です",
+    "attributeId": "ALL",
+    "charaIds": "1001,1002",
+    "charaList": [
+      {
+        "charaId": 1001,
+        "name": "環 いろは"
+      },
+      {
+        "charaId": 1002,
+        "name": "七海 やちよ"
+      }
+    ],
+    "attack": 0,
+    "defense": 720,
+    "hp": 880,
+    "skillId": 153900,
+    "pieceSkill": {
+      "id": 153900,
+      "groupId": 1085,
+      "name": "ふたりでいれば、大丈夫です",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "攻撃力UP[Ⅴ](自/3T) & HP回復[Ⅱ] & MP回復[Ⅱ](自) ",
+      "messageId": 70,
+      "artId1": 330201105,
+      "art1": {
+        "artId": 330201105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 200200402,
+      "art2": {
+        "artId": 200200402,
+        "verbCode": "HEAL",
+        "effectCode": "HP",
+        "targetId": "SELF",
+        "effectValue": 325,
+        "growPoint": 20
+      },
+      "artId3": 200200502,
+      "art3": {
+        "artId": 200200502,
+        "verbCode": "HEAL",
+        "effectCode": "MP",
+        "targetId": "SELF",
+        "effectValue": 180,
+        "growPoint": 10
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 153901,
+    "pieceSkill2": {
+      "id": 153901,
+      "groupId": 1085,
+      "name": "ふたりでいれば、大丈夫です",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "攻撃力UP[Ⅴ](自/3T) & HP回復[Ⅱ] & MP回復[Ⅱ](自) ",
+      "messageId": 70,
+      "artId1": 330201105,
+      "art1": {
+        "artId": 330201105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 200200402,
+      "art2": {
+        "artId": 200200402,
+        "verbCode": "HEAL",
+        "effectCode": "HP",
+        "targetId": "SELF",
+        "effectValue": 325,
+        "growPoint": 20
+      },
+      "artId3": 200200502,
+      "art3": {
+        "artId": 200200502,
+        "verbCode": "HEAL",
+        "effectCode": "MP",
+        "targetId": "SELF",
+        "effectValue": 180,
+        "growPoint": 10
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "Blu-ray&DVD 第5巻 描き下ろしジャケットイラスト",
+    "illustrator": "谷口淳一郎",
+    "openDate": "2020/09/01 00:00:00"
   }
 }

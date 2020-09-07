@@ -63,7 +63,7 @@ good = {
     "MP_PLUS_BLAST" : ("Blast MP Gain Up", True, False),
     "DAMAGE_UP": ("Damage Up", True, False),
     "ATTACK_UP": ("Attack Up", True, False),  
-    "IMITATE_ATTRIBUTE": ("Variable", True, False),  
+    "IMITATE_ATTRIBUTE": ("Imitate Attribute", True, False),  
 }
 
 bad = {

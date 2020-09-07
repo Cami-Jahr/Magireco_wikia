@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Flowers Blooming in the Summer
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 夏に咲く花
+| Rarity = 3
+| ID = 1518
+| Illust = mepo
+| Owner = Rena & Kaede (Mizugi ver.)
+
+| min_HP = 474
+| min_ATK = 0
+| min_DEF = 474
+| max_HP = 1185
+| max_ATK = 0
+| max_DEF = 1185
+
+| image = Attack Up
+| effect_name = パラッシュ Up 
+| effect_name_JP = パラッシュアップ
+| effect1 = Attack Up [III / 15%] (Self / 1 Turn) & Ignore Damage Cut [III / 100%] (Self / 1 Turn)
+| effect2 = Attack Up [IV / 20%] (Self / 1 Turn) & Ignore Damage Cut [IV / 100%] (Self / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 9
+}}

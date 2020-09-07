@@ -4,24 +4,24 @@
 | Event = 
 
 | Naname = 
-| Jname = 
-| Rarity = 
+| Jname = 今日という一生の思い出
+| Rarity = 4
 | ID = 1538
-| Illust = 
+| Illust = None Listed
 | Owner = 
 
-| min_HP = 
-| min_ATK = 
-| min_DEF = 
-| max_HP = 
-| max_ATK = 
-| max_DEF = 
+| min_HP = 726
+| min_ATK = 886
+| min_DEF = 0
+| max_HP = 1815
+| max_ATK = 2215
+| max_DEF = 0
 
-| image = 
-| effect_name = 
-| effect_name_JP = 
-| effect1 = 
-| effect2 = 
+| image = Episode Experience Gain Increased
+| effect_name = 今日という一生の思い出
+| effect_name_JP = 今日という一生の思い出
+| effect1 = Episode Experience Gain Increased [II / 20%] & Attack Up [I / 5%]
+| effect2 = Episode Experience Gain Increased [II / 20%] & Attack Up [II / 10%]
 | Cooldown = 
 | Cooldown2 = 
 }}

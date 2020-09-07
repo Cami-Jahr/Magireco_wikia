@@ -149,7 +149,7 @@
 | Active 3 icon = Blast Damage Up
 | Active 3 name = ヴァリアブルBoost [VI]
 | Active 3 name JP = ヴァリアブルブースト[Ⅵ]
-| Active 3 effect = Blast Damage Up [VI / 35%] (Self / 1 Turn) & Variable [VI / 100%] (Self / 1 Turn)
+| Active 3 effect = Blast Damage Up [VI / 35%] (Self / 1 Turn) & Imitate Attribute [VI / 100%] (Self / 1 Turn)
 | Active 3 cooldown = 10
 
 | Connect name JP = モッキュ、モキューイ！
@@ -182,7 +182,7 @@
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = All / 3 Turns / V / 30%
 | Magia 3 / 2 = All / 3 Turns / VII / 35%
-| Magia effect 4 = Variable
+| Magia effect 4 = Imitate Attribute
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = Self / 3 Turns / V / 100%
 | Magia 4 / 2 = Self / 3 Turns / VII / 100%
@@ -193,5 +193,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Defense Down [IX / 35% / All / 3 Turns] & Damage Cut [IX / 50% / All / 3 Turns] & Variable [IX / 100% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Defense Down [IX / 35% / All / 3 Turns] & Damage Cut [IX / 50% / All / 3 Turns] & Imitate Attribute [IX / 100% / Self / 3 Turns]
 }}

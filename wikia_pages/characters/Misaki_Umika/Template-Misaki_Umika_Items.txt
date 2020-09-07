@@ -51,5 +51,25 @@
 |Quantity25 = 1
 |BuffCharge2 = 6
 
+|Item32 = Umika's Awakening Book
+|Quantity32 = 1
+|BuffATK3 = 6
+|Item33 = Umika's Awakening Book
+|Quantity33 = 1
+|BuffDEF3 = 8
+|Item31 = Umika's Awakening Book
+|Quantity31 = 1
+|BuffHP3 = 7
+|Item36 = Umika's Awakening Book
+|Quantity36 = 1
+|BuffAccele3 = 7
+|Item34 = Umika's Awakening Book
+|Quantity34 = 1
+|BuffBlast3 = 5
+|Item35 = Umika's Awakening Book
+|Quantity35 = 1
+|BuffCharge3 = 7
+
 |QuantityCC1 = 300000
+|QuantityCC2 = 1000000
 }}

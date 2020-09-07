@@ -523,6 +523,7 @@
 1536;Blessing to the Fighting Girls
 1537;Do Your Best, Little Savior
 1538;The Memory of a Lifetime Called Today
+1539;It's Ok, If It's the Two of Us
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection
 9003;Kumanosuke's Kawaii Vid
