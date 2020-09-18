@@ -69,12 +69,11 @@ if __name__ == '__main__':
     trivia = story.read_trivia_json()
     formated_trivia = story.story_formater(trivia)
     main_parent = os.path.join("wikia_pages", "characters")
-    shutil.rmtree(main_parent)
 
     for i in c_list:
         ch = chars[i].replace(" ", "_")
         print(ch)
-        parent = os.path.join(main_parent, ch)
+        parent = os.path.join(main_parent)#, ch)
         Path(parent).mkdir(parents=True, exist_ok=True)
         #print(i, chars[i], f"https://magireco.fandom.com/wiki/Template:{ch}?action=edit")
 
@@ -94,6 +93,13 @@ if __name__ == '__main__':
             (f"{ch}-Costumes", costume_base),            
             (f"{ch}-Gallery", galley_base),
             (f"{ch}-Quotes", voice_page_text)):
-            with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
-                f.write(text)
+
+            try:
+                with open(os.path.join(parent, page + ".txt"), "r", encoding="utf-8-sig") as f:
+                    old = f.read()            
+            except FileNotFoundError:
+                old = ""
+            if old != text:
+                with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
+                    f.write(text)
 

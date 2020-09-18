@@ -185,7 +185,7 @@ if __name__ == '__main__':
         Fname = Ename.replace(" ", "_").replace("?", "%3F").replace(":", "..").replace("/", "-")
         if Fname[-1] == ".":
             Fname += "&"
-        parent = os.path.join(main_parent, Fname)
+        parent = os.path.join(main_parent)#, Fname)
         Path(parent).mkdir(parents=True, exist_ok=True)
         for page, text in (
                 (f"{Fname}", format_text(coll[_id][0].replace("＠", "<br />").replace("@", "<br />"))),
@@ -206,6 +206,12 @@ if __name__ == '__main__':
                 (f"{Fname}", format_text()),
                 (f"Template-{Fname}", template_format(_id, Ename))
                 ):   
-            with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
-                f.write(text)
 
+            try:
+                with open(os.path.join(parent, page + ".txt"), "r", encoding="utf-8-sig") as f:
+                    old = f.read()            
+            except FileNotFoundError:
+                old = ""         
+            if old != text:
+                with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
+                    f.write(text)
