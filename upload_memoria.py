@@ -1,6 +1,4 @@
 from json import loads
-from credentials import username, password
-from upload_char import Uploader
 from effect_translator import translate, jp_to_en, roman_to_full
 from helpers import get_char_list, get_memo_list
 from pathlib import Path
@@ -162,16 +160,12 @@ if __name__ == '__main__':
     chars = get_char_list()
     memos = get_memo_list()
 
-    up_memos = []
     make_basic = {
         1533: "いちばんちっちゃな家族の証",
         1535: "きみの眼を見れば",
         1538: "今日という一生の思い出",
     }
             
-    if up_memos:
-        S = Uploader()
-        S.login(username, password)
     coll = get_json()
     m_list = sorted(list(coll))
 
@@ -215,11 +209,3 @@ if __name__ == '__main__':
             with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
                 f.write(text)
 
-    for _id, Ename in up_memos:
-        Ename = Ename.replace("?", "%3F")
-        print(Ename)
-        S.upload(Ename, format_text(coll[_id][0].replace("＠", "<br />").replace("@", "<br />")))
-        S.upload("Template:" + Ename, template_format(_id, Ename, *coll[_id][1]))
-
-    if up_memos:
-        S.end()

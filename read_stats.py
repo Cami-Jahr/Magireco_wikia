@@ -271,8 +271,10 @@ def format_info(_id):
     except KeyError as e:
         print("Missing illustrator in eng or jap dict:", designer)
         raise e
-
-    t1 = make_spirit_enchantment(work_on["enhancementCellList"])
+    try:
+        t1 = make_spirit_enchantment(work_on["enhancementCellList"])
+    except KeyError:
+        t1 = "\n\n"
     return textS + t2 + t3 + t4 + t1 + t5 + textE
 
 def make_magia_doppel_and_connect(dic, cards):
