@@ -1,6 +1,5 @@
 def get_char_list():
     di = get_list("txts/chars.txt")
-    #del di[3052]  # Only have JP chars so removing Ashley
     return di
 
 def get_memo_list():

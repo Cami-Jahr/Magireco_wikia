@@ -10,24 +10,9 @@ import shutil
 
 galley_base = """<tabber>
 Memoria=
-==Personal [[Memoria]]==
-{| class="wikitable" style="width:100%"
-| style="width:50%" |
-| style="width:50%" |
-|}
-==4✵ Memoria==
-{| class="wikitable" style="width:100%"
-| style="width:50%" |
-| style="width:50%" |
-|}
-
+{{MemoriaGallery}}
 |-|Videos=
 {{Videos}}
-|-|CG=
-==Magical Girl Stories==
-<gallery position="center" columns="3">
-
-</gallery>
 </tabber>
 """
 
@@ -37,7 +22,7 @@ Magical Girl =
 """
 
 def trivia_section(char):
-    text = "{{SideStory\n|Side Story Translation Link = \n|Side Story = \n}}\n\n==Trivia==\n*\n\n{{Videos}}"
+    text = "==[[Magia Archive]] Profile==\n''Not yet featured in Magia Archive.''\n<!--*Hometown:\n*Age: \n*Height:\n*Weapon:\n*Ability:\n*Soul Gem Location:-->\n{{SideStory\n|Side Story Translation Link = \n|Side Story = \n}}"
     return text
 
 def voice_section(char, text):
@@ -69,11 +54,12 @@ if __name__ == '__main__':
     trivia = story.read_trivia_json()
     formated_trivia = story.story_formater(trivia)
     main_parent = os.path.join("wikia_pages", "characters")
+    shutil.rmtree(main_parent)
 
     for i in c_list:
         ch = chars[i].replace(" ", "_")
         print(ch)
-        parent = os.path.join(main_parent)#, ch)
+        parent = os.path.join(main_parent, ch)
         Path(parent).mkdir(parents=True, exist_ok=True)
         #print(i, chars[i], f"https://magireco.fandom.com/wiki/Template:{ch}?action=edit")
 
@@ -93,13 +79,6 @@ if __name__ == '__main__':
             (f"{ch}-Costumes", costume_base),            
             (f"{ch}-Gallery", galley_base),
             (f"{ch}-Quotes", voice_page_text)):
-
-            try:
-                with open(os.path.join(parent, page + ".txt"), "r", encoding="utf-8-sig") as f:
-                    old = f.read()            
-            except FileNotFoundError:
-                old = ""
-            if old != text:
-                with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
-                    f.write(text)
+            with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
+                f.write(text)
 

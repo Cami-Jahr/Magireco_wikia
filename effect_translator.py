@@ -10,10 +10,13 @@ roman_to_full = {
     "Ⅶ": "VII",
     "Ⅷ": "VIII",
     "Ⅸ": "IX",
+    "X":  "X",
     "Ⅹ": "X",
     "XI": "XI",    
     "XII": "XII",    
     "XIII": "XIII",
+    "XⅡ": "XII",
+    "XⅢ": "XIII",
     "ⅩⅢ": "XIII",
     "XIV": "XIV",    
     "XV": "XV",   
@@ -61,10 +64,12 @@ good = {
     "DAMAGE_UP_BAD": ("Damage Up Versus Enemies Affected With Status Ailments", True, False),
     "SURVIVE": ("Survive", True, False),
     "MP_PLUS_BLAST" : ("Blast MP Gain Up", True, False),
-    "DAMAGE_UP": ("Damage Up", True, False),
-    "ATTACK_UP": ("Attack Up", True, False),  
-    "IMITATE_ATTRIBUTE": ("Imitate Attribute", True, False),  
-    "NO_COST_CHARGE": ("NO_COST_CHARGE or whatever english tl", True, False),
+    "DAMAGE_UP": ("Damage Increase", True, False),
+    "ATTACK_UP": ("Attack Up", True, False),
+    "IMITATE_ATTRIBUTE": ("Imitate Attribute", True, False),
+    "NO_COST_CHARGE":("Charge Conservation",True,False),
+    "BARRIER":("Barrier",True,False),
+    "REFLECT_DEBUFF":("Reflect",True,False),
 }
 
 bad = {
@@ -79,6 +84,7 @@ bad = {
     "BAN_SKILL": ("Chance to Skill Seal", True, False),    
     "BAN_MAGIA": ("Chance to Magia Seal", True, False),
     "RESTRAINT": ("Chance to Bind", True, False),
+    "DAMAGE_UP_BAD_NUM":("Frailty",True,False),
 }
 
 enchant = {
@@ -106,7 +112,12 @@ buff = {
     "MP_GAIN": ("MP Gain Up", True, False),
     "CHARGE": ("Charged Attack Damage Up", True, False),
     "CHARGING": ("Charge Disc Damage Up", True, False),
-    "ATTACK": ("Attack Up", True, False),    
+    "ATTACK": ("Attack Up", True, False),
+    "ATTACK_DARK": ("Dark Attribute Attack Up", True, False),
+    "ATTACK_FIRE": ("Flame Attribute Attack Up", True, False),
+    "ATTACK_WATER": ("Aqua Attribute Attack Up", True, False),
+    "ATTACK_TIMBER": ("Forest Attribute Attack Up", True, False),
+    "ATTACK_LIGHT": ("Light Attribute Attack Up", True, False),
     "DAMAGE": ("Damage Up", True, False),
 }
 
@@ -128,6 +139,7 @@ ignore = {
     "BLINDNESS": ("Chance to Anti-Dazzle", True, False),
     "DARKNESS": ("Chance to Anti-Darkness", True, False),
     "CRITICAL": ("Chance to Anti-Critical Hit", True, False),
+    "CONDITION_BAD":("Negate Status Ailments",True,False),
 }
 
 revoke = {
@@ -169,6 +181,8 @@ debuff = {
     "WEAK_LIGHT":("Light Defense Down", True, False),
     "WEAK_WATER":("Aqua Defense Down", True, False),
     "WEAK_VOID":("Void Defense Down", True, False),
+    "WEAK_CHARGE_DONE":("Charged Attack Received Damage Up", True, False),
+    "WEAK_BLAST":("Blast Disc Received Damage Up",True,False),
     "MP_GAIN": ("MP Gain Down", True, False),
     "RESIST": ("Status Ailment Resistance Down", True, False),
     "MAGIA": ("Magia Damage Down", True, False),
@@ -222,6 +236,18 @@ other = {
     "GOLD_UP": ("CC Gain Up", True, False),
 }
 
+damage = {
+    "ALLY": ("{{Receive Damage", False, False),
+}
+
+allies = {
+    "BUFF": ("Extend Buffs", True, False),
+}
+
+enemies = {
+    "DEBUFF": ("Extend Debuffs", True, False),
+}
+
 master = {  # verbCode
     "CONDITION_GOOD" : good,
     "CONDITION_BAD": bad,
@@ -241,6 +267,9 @@ master = {  # verbCode
     "RESURRECT": resurrect,
     "BUFF_DIE": buff_die,
     "OTHER": other,
+    "DAMAGE": damage,
+    "TURN_ALLY": allies,
+    "TURN_ENEMY": enemies,
 }
 
 # Hard coded first before ・, general tls after
@@ -424,10 +453,7 @@ def translate(shortDescription, arts):
             try:
                 text, uses_roman, no_states_target = sub[art["effectCode"]]
             except KeyError:
-                try:
-                    text, uses_roman, no_states_target = sub[art["targetId"]]
-                except KeyError:
-                    text, uses_roman, no_states_target = "?", False, False
+                text, uses_roman, no_states_target = sub[art["targetId"]]
             st = text
             if st == "Damage Up" and "状態" in shortDescription:
                 st = "Damage Increase"
@@ -455,18 +481,27 @@ def translate(shortDescription, arts):
                 else:
                     effect = val
 
-                if uses_roman:
-                    try:
+            if uses_roman:
+                try:
+                    if effect == "MP Restore":
+                        effect = f"{romans[idx]} / {effect} MP"
+                    else:
                         effect = f"{romans[idx]} / {effect}%"
-                        idx += 1
-                    except IndexError:
-                        if idx > 0:
-                            effect = f"{romans[idx-1]} / {effect}%"                            
+                    idx += 1
+                except IndexError:
+                    if idx > 0:
+                        if effect == "MP Restore":
+                            effect = f"{romans[idx-1]} / {effect} MP"
+                        else:
+                            effect = f"{romans[idx-1]} / {effect}%"
+                    else:
+                        if effect == "MP Restore":
+                            effect = f"{effect} MP"
                         else:
                             effect = f"{effect}%"
-                    
-                else:
-                    effect = f"{effect}%"
+
+            else:
+                effect = f"{effect}%"
             ef = effect
             try: 
                 target = target_tl[art["targetId"]]
