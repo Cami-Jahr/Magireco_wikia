@@ -99,7 +99,7 @@
 | Japanese Battle victory 2 = まあ、負けられるわけないからね 
 | NA Battle victory 2 = 
 | Battle victory 2 = 
-| Japanese Battle victory 3 = 勝った勝った～。いい感じじゃない？ 
+| Japanese Battle victory 3 = 勝った勝った～@いい感じじゃない？ 
 | NA Battle victory 3 = 
 | Battle victory 3 = 
 | Japanese Unused 5 = 悪いけど、ここじゃ止まれないんだよね 

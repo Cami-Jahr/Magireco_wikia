@@ -110,8 +110,8 @@
 | Passive 8 effect = Chance to Skill Quicken [III / 15%]
 
 | Passive 9 icon = Charge Disc Damage Up
-| Passive 9 name = Charge Adept [II]
-| Passive 9 name JP = チャージ・アデプト[Ⅱ]
+| Passive 9 name = Technical Adept [II]
+| Passive 9 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 9 effect = Charge Disc Damage Up [II / 10%]
 
 | Passive 10 icon = Accele MP Gain Up
@@ -160,8 +160,8 @@
 | Magia icon = Damage A Horizontal Line
 | Magia effect 1 = Damage A Horizontal Line
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = III / 490%
-| Magia 1 / 2 = V / 530%
+| Magia 1 / 1 = III / 516.5%
+| Magia 1 / 2 = V / 551.5%
 | Magia effect 2 = Charged Attack Damage Up
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = All / 3 Turns / III / 20%

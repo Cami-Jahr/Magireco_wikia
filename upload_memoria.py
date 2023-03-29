@@ -180,7 +180,10 @@ if __name__ == '__main__':
             del make_basic[_id]
         except KeyError:
             pass
-        Ename = memos[_id]
+        try:
+            Ename = memos[_id]
+        except KeyError:
+            Ename = str(_id)
         print(_id, Ename)
         Fname = Ename.replace(" ", "_").replace("?", "%3F").replace(":", "..").replace("/", "-")
         if Fname[-1] == ".":

@@ -8,7 +8,7 @@ cha = get_char_list()
 
 def merge_files(path, target, base_target):
     dirs = sorted(os.listdir(path), reverse=True)
-    files = []
+        files = []
     for doc in dirs:
         if ".wav" == doc[-4:] or ".adx" == doc[-4:] or ".m2v" == doc[-4:]:
             files.append(doc)
@@ -29,11 +29,11 @@ def merge_files(path, target, base_target):
                 run_config += [base_target + "/" + f_name + ".mp4"]
                 made = True
         if not made:
-            print(f_name)
             run_config += [base_target + "/" + f_name + ".mp4"]
         if not os.path.isfile(run_config[-1]):
+            print("making:", f_name)
             Popen(run_config, stdout=PIPE, stdin=PIPE)
-            sleep(5)
+            sleep(2)
 
 
 base_original_path = "D:/OneDrive - NTNU/Private projects/Reverse Engineer/com.aniplex.magireco/files/madomagi/resource/movie"
@@ -42,4 +42,4 @@ merge_files(base_original_path, base_target_path, base_target_path)
 
 base_original_path = "D:/OneDrive - NTNU/Private projects/Reverse Engineer/com.aniplex.magireco/files/madomagi/resource_en/movie"
 base_target_path = "D:/OneDrive - NTNU/Private projects/Reverse Engineer/Video_en"
-merge_files(base_original_path, base_target_path, base_target_path)
+#merge_files(base_original_path, base_target_path, base_target_path)

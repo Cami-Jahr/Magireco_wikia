@@ -160,8 +160,8 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Damage One Enemy
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = V / 680%
-| Magia 1 / 2 = VII / 720%
+| Magia 1 / 1 = V / 1088%
+| Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Chance to Stun
 | Magia scaling 2 = 0%
 | Magia 2 / 1 = One / 1 Turn / V / 100%
@@ -181,5 +181,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、塔
 | Doppel Japanese Designer = 原案・監修：富士フジノ
-| Doppel effect = Damage One Enemy [IX / 1760%] & Chance to Stun [IX / 100% / One / 1 Turn] & Attack Up [IX / 45% / Self / 3 Turns] & Remove Debuffs []
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Chance to Stun [IX / 100% / One / 1 Turn] & Attack Up [IX / 45% / Self / 3 Turns] & Remove Debuffs []
 }}

@@ -105,7 +105,7 @@
 | Japanese Unused 5 = 服が汚れちゃったわ、帰ってお着換えしないと 
 | NA Unused 5 = 
 | Unused 5 = 
-| Japanese Chapter select 1 = ほとりんの癖に生意気…！ 
+| Japanese Chapter select 1 = ほとりんのくせに生意気…！ 
 | NA Chapter select 1 = 
 | Chapter select 1 = 
 | Japanese Chapter select 2 = なんで、あたしの気持ちが伝わんないの!? 

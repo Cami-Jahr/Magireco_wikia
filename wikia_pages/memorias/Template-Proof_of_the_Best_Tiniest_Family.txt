@@ -8,7 +8,7 @@
 | Rarity = 3
 | ID = 1533
 | Illust = 秘鷺悠弥
-| Owner = Little Kyuubey
+| Owner = Little Kyubey
 
 | min_HP = 454
 | min_ATK = 0

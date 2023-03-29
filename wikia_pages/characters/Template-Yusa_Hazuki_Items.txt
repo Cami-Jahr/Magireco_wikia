@@ -87,5 +87,25 @@
 |Quantity25 = 6
 |BuffCharge2 = 6
 
+|Item32 = Light Orb +
+|Quantity32 = 15
+|BuffATK3 = 9
+|Item33 = Light Orb ++
+|Quantity33 = 10
+|BuffDEF3 = 5
+|Item31 = Rainbow Orb
+|Quantity31 = 3
+|BuffHP3 = 6
+|Item36 = Mirror Invitation Letter
+|Quantity36 = 15
+|BuffAccele3 = 7
+|Item34 = Sheep Horn
+|Quantity34 = 10
+|BuffBlast3 = 5
+|Item35 = Rhyton Ribbon
+|Quantity35 = 8
+|BuffCharge3 = 7
+
 |QuantityCC1 = 300000
+|QuantityCC2 = 1000000
 }}

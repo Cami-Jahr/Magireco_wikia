@@ -61,84 +61,89 @@
 | 5star_defense_max = 7429
 | 5star_illustrator_jp = らぐほのえりか
 
-| se_hp_bonus = 
-| se_attack_bonus = 
-| se_defense_bonus = 
+| se_hp_bonus = 7618
+| se_attack_bonus = 2165
+| se_defense_bonus = 4317
 
-| se accele bonus = 
-| se blast bonus = 
-| se charge bonus = 
+| se accele bonus = 3
+| se blast bonus = 3
+| se charge bonus = 4
 
-| Passive 1 icon = 
-| Passive 1 name = 
-| Passive 1 name JP = 
-| Passive 1 effect = 
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 2 icon = 
-| Passive 2 name = 
-| Passive 2 name JP = 
-| Passive 2 effect = 
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = 
-| Passive 3 name = 
-| Passive 3 name JP = 
-| Passive 3 effect = 
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 4 icon = 
-| Passive 4 name = 
-| Passive 4 name JP = 
-| Passive 4 effect = 
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = 
-| Passive 5 name = 
-| Passive 5 name JP = 
-| Passive 5 effect = 
+| Passive 5 icon = Charged Attack Damage Up
+| Passive 5 name = Charge Adept [II]
+| Passive 5 name JP = チャージ・アデプト[Ⅱ]
+| Passive 5 effect = Charged Attack Damage Up [II / 10%]
 
-| Passive 6 icon = 
-| Passive 6 name = 
-| Passive 6 name JP = 
-| Passive 6 effect = 
+| Passive 6 icon = Charge Disc Damage Up
+| Passive 6 name = Technical Adept [II]
+| Passive 6 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 6 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 7 icon = 
-| Passive 7 name = 
-| Passive 7 name JP = 
-| Passive 7 effect = 
+| Passive 7 icon = Chance to Skill Quicken
+| Passive 7 name = Skill Quicken [II]
+| Passive 7 name JP = スキルクイック[Ⅱ]
+| Passive 7 effect = Chance to Skill Quicken [II / 10%]
 
-| Passive 8 icon = 
-| Passive 8 name = 
-| Passive 8 name JP = 
-| Passive 8 effect = 
+| Passive 8 icon = Charge Disc Damage Up
+| Passive 8 name = Technical Adept [II]
+| Passive 8 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 8 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 9 icon = 
-| Passive 9 name = 
-| Passive 9 name JP = 
-| Passive 9 effect = 
+| Passive 9 icon = Chance to Stun on Attack
+| Passive 9 name = Stun Strike [II]
+| Passive 9 name JP = スタン・ストライク[Ⅱ]
+| Passive 9 effect = Chance to Stun on Attack [II / 15%] (1 Turn) & Chance to Critical Hit [II / 15%]
 
-| Passive 10 icon = 
-| Passive 10 name = 
-| Passive 10 name JP = 
-| Passive 10 effect = 
+| Passive 10 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
+| Passive 10 name = Charge Combo Plus [III]
+| Passive 10 name JP = チャージコンボプラス[Ⅲ]
+| Passive 10 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
 
-| Passive 11 icon = 
-| Passive 11 name = 
-| Passive 11 name JP = 
-| Passive 11 effect = 
+| Passive 11 icon = MP Gain Up
+| Passive 11 name = Morale Adept [II]
+| Passive 11 name JP = モラール・アデプト[Ⅱ]
+| Passive 11 effect = MP Gain Up [II / 7.5%]
 
-| Passive 12 icon = 
-| Passive 12 name = 
-| Passive 12 name JP = 
-| Passive 12 effect = 
+| Passive 12 icon = Charge Disc Damage Up
+| Passive 12 name = Technical Adept [VI]
+| Passive 12 name JP = テクニカル・アデプト[Ⅵ]
+| Passive 12 effect = Charge Disc Damage Up [VI / 30%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
+| Passive 13 icon = Chance to Anti-Skill Seal
+| Passive 13 name = Anti-Jammer
+| Passive 13 name JP = アンチ・ジャマ―
+| Passive 13 effect = Chance to Anti-Skill Seal [100%]
 
-| Active 1 icon = 
-| Active 1 name = 
-| Active 1 name JP = 
-| Active 1 effect = 
-| Active 1 cooldown = 
+| Passive 14 icon = Damage Cut
+| Passive 14 name = Shield Adept [II]
+| Passive 14 name JP = シールド・アデプト[Ⅱ]
+| Passive 14 effect = Damage Cut [II / 10%]
+
+| Active 1 icon = Charged Attack Damage Up
+| Active 1 name = Chargeライズ バリア [V]
+| Active 1 name JP = チャージライズ・バリア[Ⅴ]
+| Active 1 effect = Charged Attack Damage Up [V / 15%] (All / 1 Turn) & Chance to Anti-Debuff [100%] (All / 1 Turn)
+| Active 1 cooldown = 10
 
 | Connect name JP = こんな風にするの！
 | Connect name EN = 

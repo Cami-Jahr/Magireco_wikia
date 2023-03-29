@@ -160,8 +160,8 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Damage One Enemy
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = V / 540%
-| Magia 1 / 2 = VII / 580%
+| Magia 1 / 1 = V / 864%
+| Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Chance to Skill Seal
 | Magia scaling 2 = 0%
 | Magia 2 / 1 = One / 2 Turns / V / 100%
@@ -181,5 +181,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ー
-| Doppel effect = Damage One Enemy [IX / 1452%] & Chance to Skill Seal [IX / 100% / One / 2 Turns] & Accele MP Gain Up [IX / 35% / All / 3 Turns] & Chance to Anti-Evade [IX / 100% / All / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Chance to Skill Seal [IX / 100% / One / 2 Turns] & Accele MP Gain Up [IX / 35% / All / 3 Turns] & Chance to Anti-Evade [IX / 100% / All / 3 Turns]
 }}

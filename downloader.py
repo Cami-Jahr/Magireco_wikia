@@ -19,7 +19,7 @@ def download_files(json, old_files, file_name, savepoint, online_path, local_pat
     length = len(json)
     nr = 0
     show = 0
-    print("Total size of {} is {}. Savepoint sat to {}".format(file_name, length, savepoint))
+    print("Total size of {} is {}. Savepoint sat to {}. Already have {} files".format(file_name, length, savepoint, len(old_files)))
     for item in json:
         nr += 1
         show += 1
@@ -83,55 +83,46 @@ def download_files(json, old_files, file_name, savepoint, online_path, local_pat
             show = 0
             print("{:.2f}% done with {}".format(nr / length * 100, file_name))
             with open("download_tracking/" + file_name + ".json", "w") as f:
-                f.write(dumps(done))
+                f.write(dumps(done + old_files))
     with open("download_tracking/" + file_name + ".json", "w") as f:
         f.write(dumps(done))
     with open("download_tracking/" + file_name + "_full.json", "w") as f:
         f.write(dumps(done))
 
 
-def run(file_name, source, nr):
+def run(file_name, path, nr, online_path, local_path):
     try:
         with open("download_tracking/" + file_name + ".json", "r") as f:
-            _json = loads(f.read())
+            ongoing_json = loads(f.read())
     except:
-        with open("download_tracking/" + file_name + "_full.json", "r") as f:
-            _json = loads(f.read())
-
-    old_files = {}
-    for _item in _json:
-        old_files[_item["path"]] = _item["md5"]
-
-    _request = ur.Request("https://android.magi-reco.com/magica/resource/download/asset/master/" + source + ".json")
-    _json = loads(ur.urlopen(_request).read().decode("utf-8"))
-    download_files(_json, old_files, file_name, nr, online_path_jp, local_path_jp)
-    print("\nJSON_IS_DONE: " + file_name + "\n")
-
-
-def run_en(file_name, source, nr):
+        ongoing_json = []
     try:
-        with open("download_tracking/" + file_name + ".json", "r") as f:
-            _json = loads(f.read())
-    except:
         with open("download_tracking/" + file_name + "_full.json", "r") as f:
-            _json = loads(f.read())
+            full_json = loads(f.read())
+    except:
+        full_json = []
 
     old_files = {}
-    for _item in _json:
+    for _item in full_json + ongoing_json:
         old_files[_item["path"]] = _item["md5"]
 
-    _request = ur.Request("https://android.magica-us.com/magica/resource/download/asset/master/" + source + ".json")
-    _json = loads(ur.urlopen(_request).read().decode("utf-8"))
-    download_files(_json, old_files, file_name, nr, online_path_en, local_path_en)
+    _request = ur.Request(path)
+    online_json = loads(ur.urlopen(_request).read().decode("utf-8"))
+    download_files(online_json, old_files, file_name, nr, online_path, local_path)
     print("\nJSON_IS_DONE: " + file_name + "\n")
 
+def run_jp(file_name, source, nr): 
+    run(file_name, "https://android.magi-reco.com/magica/resource/download/asset/master/" + source + ".json", nr, online_path_jp, local_path_jp)
+
+def run_en(file_name, source, nr): 
+    run(file_name, "https://android.magica-us.com/magica/resource/download/asset/master/" + source + ".json", nr, online_path_en, local_path_en)
 
 if __name__ == '__main__':
-    Process(target=run, args=("files_main", "asset_main", 25)).start()
-    Process(target=run, args=("files_voice", "asset_voice", 40)).start()
-    Process(target=run, args=("files_prologue_voice", "asset_prologue_voice", 40)).start()
-    Process(target=run, args=("files_prologue_main", "asset_prologue_main", 40)).start()
-    Process(target=run, args=("files_char_list", "asset_char_list", 40)).start()
-    Process(target=run, args=("files_fullvoice", "asset_fullvoice", 40)).start()
-    Process(target=run, args=("files_movie_high", "asset_movie_high", 5)).start()
-    Process(target=run_en, args=("files_movie_high_en", "asset_movie_high", 5)).start()
+    Process(target=run_jp, args=("files_main", "asset_main", 25)).start()
+    #Process(target=run_jp, args=("files_voice", "asset_voice", 40)).start()
+    #Process(target=run_jp, args=("files_prologue_voice", "asset_prologue_voice", 40)).start()
+    Process(target=run_jp, args=("files_prologue_main", "asset_prologue_main", 40)).start()
+    Process(target=run_jp, args=("files_char_list", "asset_char_list", 40)).start()
+    #Process(target=run_jp, args=("files_fullvoice", "asset_fullvoice", 40)).start()
+    Process(target=run_jp, args=("files_movie_high", "asset_movieall_high", 5)).start()
+    #Process(target=run_en, args=("files_movie_high_en", "asset_movie_high", 5)).start()

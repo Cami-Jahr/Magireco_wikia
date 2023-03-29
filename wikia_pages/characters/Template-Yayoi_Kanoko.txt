@@ -166,15 +166,15 @@
 | Magia scaling 2 = 10%
 | Magia 2 / 1 = -
 | Magia 2 / 2 = -
-| Magia 2 / 3 = V / 234.4%
+| Magia 2 / 3 = V / 374%
 | Magia effect 3 = Damage 2 Random Enemies
 | Magia scaling 3 = 10%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = III / 320%
+| Magia 3 / 2 = III / 528%
 | Magia 3 / 3 = -
 | Magia effect 4 = Damage One Enemy
 | Magia scaling 4 = 10%
-| Magia 4 / 1 = I / 600%
+| Magia 4 / 1 = I / 960%
 | Magia 4 / 2 = -
 | Magia 4 / 3 = -
 

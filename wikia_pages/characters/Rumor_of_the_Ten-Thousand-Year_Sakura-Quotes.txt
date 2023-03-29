@@ -96,7 +96,7 @@
 | Japanese Battle victory 1 = ｜外にはこういう敵がいる…覚えたよ｜ 
 | NA Battle victory 1 = 
 | Battle victory 1 = 
-| Japanese Battle victory 2 = ｜込み上げる感覚、嬉しいってことかな｜ 
+| Japanese Battle victory 2 = ｜込み上げる感覚、@嬉しいってことかな｜ 
 | NA Battle victory 2 = 
 | Battle victory 2 = 
 | Japanese Battle victory 3 = ｜散るのも花。だけど、私は散らない｜ 

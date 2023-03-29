@@ -115,8 +115,8 @@
 | Passive 9 effect = Accele MP Gain Up [III / 15%]
 
 | Passive 10 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
-| Passive 10 name = Charge Combo Plus [I]
-| Passive 10 name JP = チャージコンボプラス[Ⅰ]
+| Passive 10 name = Charge Combo Plus [III]
+| Passive 10 name JP = チャージコンボプラス[Ⅲ]
 | Passive 10 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
 
 | Passive 11 icon = MP Gain Up

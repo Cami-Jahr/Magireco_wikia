@@ -157,8 +157,8 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Damage One Enemy
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = V / 680%
-| Magia 1 / 2 = VII / 720%
+| Magia 1 / 1 = V / 1088%
+| Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Chance to Counter
 | Magia scaling 2 = 0%
 | Magia 2 / 1 = All / 3 Turns / V / 80%
@@ -174,5 +174,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、殻
 | Doppel Japanese Designer = 原案・監修：GAN
-| Doppel effect = Damage One Enemy [IX / 1760%] & Chance to Counter [IX / 80% / All / 3 Turns] & Damage Cut [IX / 52.5% / All / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Chance to Counter [IX / 80% / All / 3 Turns] & Damage Cut [IX / 52.5% / All / 3 Turns]
 }}

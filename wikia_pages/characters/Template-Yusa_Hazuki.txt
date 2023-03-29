@@ -4,7 +4,7 @@
 | name_na = 
 | element = Light
 | base_rarity = 3
-| max_rarity = 4
+| max_rarity = 5
 | id = 3027
 | type = Support
 | growth_type = ATTACK
@@ -53,92 +53,92 @@
 | 4star_defense_max = 5684
 | 4star_illustrator_jp = ゆーげん
 
-| 5star_hp_lv1 = 
-| 5star_attack_lv1 = 
-| 5star_defense_lv1 = 
-| 5star_hp_max = 
-| 5star_attack_max = 
-| 5star_defense_max = 
-| 5star_illustrator_jp = 
+| 5star_hp_lv1 = 6012
+| 5star_attack_lv1 = 1761
+| 5star_defense_lv1 = 1764
+| 5star_hp_max = 23687
+| 5star_attack_max = 7202
+| 5star_defense_max = 6897
+| 5star_illustrator_jp = ゆーげん
 
-| se_hp_bonus = 
-| se_attack_bonus = 
-| se_defense_bonus = 
+| se_hp_bonus = 6561
+| se_attack_bonus = 2466
+| se_defense_bonus = 3211
 
-| se accele bonus = 
-| se blast bonus = 
-| se charge bonus = 
+| se accele bonus = 4
+| se blast bonus = 3
+| se charge bonus = 10
 
-| Passive 1 icon = 
-| Passive 1 name = 
-| Passive 1 name JP = 
-| Passive 1 effect = 
+| Passive 1 icon = Charge Disc Damage Up
+| Passive 1 name = Technical Adept [II]
+| Passive 1 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 1 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 2 icon = 
-| Passive 2 name = 
-| Passive 2 name JP = 
-| Passive 2 effect = 
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = 
-| Passive 3 name = 
-| Passive 3 name JP = 
-| Passive 3 effect = 
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 4 icon = 
-| Passive 4 name = 
-| Passive 4 name JP = 
-| Passive 4 effect = 
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = 
-| Passive 5 name = 
-| Passive 5 name JP = 
-| Passive 5 effect = 
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = 
-| Passive 6 name = 
-| Passive 6 name JP = 
-| Passive 6 effect = 
+| Passive 6 icon = MP Gain Up
+| Passive 6 name = Morale Adept [II]
+| Passive 6 name JP = モラール・アデプト[Ⅱ]
+| Passive 6 effect = MP Gain Up [II / 7.5%]
 
-| Passive 7 icon = 
-| Passive 7 name = 
-| Passive 7 name JP = 
-| Passive 7 effect = 
+| Passive 7 icon = Damage Cut
+| Passive 7 name = Shield Adept [II]
+| Passive 7 name JP = シールド・アデプト[Ⅱ]
+| Passive 7 effect = Damage Cut [II / 10%]
 
-| Passive 8 icon = 
-| Passive 8 name = 
-| Passive 8 name JP = 
-| Passive 8 effect = 
+| Passive 8 icon = Charge Disc Damage Up
+| Passive 8 name = Technical Adept [II]
+| Passive 8 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 8 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 9 icon = 
-| Passive 9 name = 
-| Passive 9 name JP = 
-| Passive 9 effect = 
+| Passive 9 icon = Chance to Curse on Attack
+| Passive 9 name = Curse Edge [III]
+| Passive 9 name JP = カース・エッジ[Ⅲ]
+| Passive 9 effect = Chance to Curse on Attack [III / 20%] (1 Turn)
 
-| Passive 10 icon = 
-| Passive 10 name = 
-| Passive 10 name JP = 
-| Passive 10 effect = 
+| Passive 10 icon = Chance to Skill Quicken
+| Passive 10 name = Skill Quicken [II]
+| Passive 10 name JP = スキルクイック[Ⅱ]
+| Passive 10 effect = Chance to Skill Quicken [II / 10%]
 
-| Passive 11 icon = 
-| Passive 11 name = 
-| Passive 11 name JP = 
-| Passive 11 effect = 
+| Passive 11 icon = Blast Damage Up
+| Passive 11 name = Blast Adept [II]
+| Passive 11 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 11 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 12 icon = 
-| Passive 12 name = 
-| Passive 12 name JP = 
-| Passive 12 effect = 
+| Passive 12 icon = MP Gauge Increased On Battle Start
+| Passive 12 name = Fast Mana Up
+| Passive 12 name JP = ファスト・マナアップ
+| Passive 12 effect = MP Gauge Increased On Battle Start [15%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
+| Passive 13 icon = Magia Damage Cut
+| Passive 13 name = MagiaShield [V]
+| Passive 13 name JP = マギアシールド[Ⅴ]
+| Passive 13 effect = Magia Damage Cut [V / 25%]
 
-| Active 1 icon = 
-| Active 1 name = 
-| Active 1 name JP = 
-| Active 1 effect = 
-| Active 1 cooldown = 
+| Active 1 icon = Attack Down
+| Active 1 name = Attack Down [VIII]
+| Active 1 name JP = アタックダウン[Ⅷ]
+| Active 1 effect = Attack Down [VIII / 40%] (One / 1 Turn)
+| Active 1 cooldown = 5
 
 | Connect name JP = 完璧ー！一緒に仕留めるよ！
 | Connect name EN = 
@@ -147,9 +147,11 @@
 | Connect effect 1 = Damage Up
 | Connect 1 / 1 = VI / 32.5%
 | Connect 1 / 2 = VIII / 37.5%
+| Connect 1 / 3 = IX / 40%
 | Connect effect 2 = Chance to Curse on Attack
 | Connect 2 / 1 = VI / 100%
 | Connect 2 / 2 = VIII / 100%
+| Connect 2 / 3 = IX / 100%
 
 | Magia name JP = サンダー・トレント
 | Magia name EN = 
@@ -159,20 +161,33 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = III / 320%
 | Magia 1 / 2 = V / 340%
+| Magia 1 / 3 = VII / 360%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = All / 3 Turns / III / 22.5%
 | Magia 2 / 2 = All / 3 Turns / V / 27.5%
+| Magia 2 / 3 = All / 3 Turns / VII / 30%
 | Magia effect 3 = Chance to Curse
 | Magia scaling 3 = 0%
 | Magia 3 / 1 = -
 | Magia 3 / 2 = All / 1 Turn / V / 100%
+| Magia 3 / 3 = All / 1 Turn / VII / 100%
+| Magia effect 4 = Defense Down
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = -
+| Magia 4 / 2 = -
+| Magia 4 / 3 = All / 3 Turns / VII / 15%
+| Magia effect 5 = MP Restore
+| Magia scaling 5 = 1%
+| Magia 5 / 1 = -
+| Magia 5 / 2 = -
+| Magia 5 / 3 = VII / 18%
 
 | Doppel Name = 
 | Doppel Title = 
-| Doppel Japanese Title = 
+| Doppel Japanese Title = 返報のドッペル
 | Doppel Shape = 
-| Doppel Japanese Shape = 
-| Doppel Japanese Designer = 
-| Doppel effect = 
+| Doppel Japanese Shape = その姿は、蔵
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Down [IX / 45% / All / 3 Turns] & Defense Down [IX / 30% / All / 3 Turns] & Chance to Curse [IX / 100% / All / 1 Turn] & MP Restore [IX / 29%]
 }}

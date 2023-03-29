@@ -160,8 +160,8 @@
 | Magia icon = Damage A Vertical Line
 | Magia effect 1 = Damage A Vertical Line
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = V / 530%
-| Magia 1 / 2 = VII / 570%
+| Magia 1 / 1 = V / 551.5%
+| Magia 1 / 2 = VII / 586.5%
 | Magia effect 2 = Defense Down
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = All / 3 Turns / V / 15%
@@ -181,5 +181,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、呼子鳥
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage A Vertical Line [IX / 1300%] & Defense Down [IX / 35% / All / 3 Turns] & Accele MP Gain Up [IX / 35% / All / 3 Turns] & HP Restore [IX / 30.5% / All]
+| Doppel effect = Damage A Vertical Line [IX / 1331%] & Defense Down [IX / 35% / All / 3 Turns] & Accele MP Gain Up [IX / 35% / All / 3 Turns] & HP Restore [IX / 30.5% / All]
 }}

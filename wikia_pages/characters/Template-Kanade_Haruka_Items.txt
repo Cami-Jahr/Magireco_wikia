@@ -91,5 +91,25 @@
 |Quantity25 = 12
 |BuffCharge2 = 4
 
+|Item32 = Light Orb +
+|Quantity32 = 15
+|BuffATK3 = 6
+|Item33 = Light Orb ++
+|Quantity33 = 10
+|BuffDEF3 = 6
+|Item31 = Rainbow Orb
+|Quantity31 = 3
+|BuffHP3 = 9
+|Item36 = Rooftop Balloons
+|Quantity36 = 8
+|BuffAccele3 = 7
+|Item34 = Curator's Hood
+|Quantity34 = 10
+|BuffBlast3 = 7
+|Item35 = Nanny's Pedestal
+|Quantity35 = 15
+|BuffCharge3 = 5
+
 |QuantityCC1 = 300000
+|QuantityCC2 = 1000000
 }}

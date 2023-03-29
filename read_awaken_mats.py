@@ -63,7 +63,11 @@ def mats_formater(mat_list, file_names, char_list):
     for entry in mat_list:
         _id, max_rank, magia_mats, awaken_mats = entry
         magia_string = """{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}"""
-        magia_string += """\n|name = {}""".format(char_list[_id])
+        try:
+            magia_string += """\n|name = {}""".format(char_list[_id])
+        except KeyError:
+            print(f"MISSING CHARACTER NAME IN CHARS.TXT FOR ID={_id}")
+            continue
         old_rank = 0
         for mat in magia_mats:
             if old_rank != mat[0] + 1:

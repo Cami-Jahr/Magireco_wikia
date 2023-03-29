@@ -157,8 +157,8 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Damage One Enemy
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = IV / 520%
-| Magia 1 / 2 = VI / 560%
+| Magia 1 / 1 = IV / 832%
+| Magia 1 / 2 = VI / 896%
 | Magia effect 2 = Chance to Charm
 | Magia scaling 2 = 2%
 | Magia 2 / 1 = One / 1 Turn / IV / 37.5%

@@ -91,5 +91,25 @@
 |Quantity25 = 12
 |BuffCharge2 = 4
 
+|Item32 = Flame Orb +
+|Quantity32 = 15
+|BuffATK3 = 5
+|Item33 = Rainbow Orb
+|Quantity33 = 3
+|BuffDEF3 = 9
+|Item31 = Flame Orb ++
+|Quantity31 = 10
+|BuffHP3 = 7
+|Item36 = Rooftop Balloons
+|Quantity36 = 8
+|BuffAccele3 = 7
+|Item34 = Code of Artificial Intelligence
+|Quantity34 = 10
+|BuffBlast3 = 7
+|Item35 = Mirror Invitation Letter
+|Quantity35 = 15
+|BuffCharge3 = 5
+
 |QuantityCC1 = 300000
+|QuantityCC2 = 1000000
 }}

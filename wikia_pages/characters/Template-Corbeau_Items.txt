@@ -91,5 +91,25 @@
 |Quantity25 = 6
 |BuffCharge2 = 6
 
+|Item32 = Rainbow Orb
+|Quantity32 = 3
+|BuffATK3 = 9
+|Item33 = Dark Orb +
+|Quantity33 = 15
+|BuffDEF3 = 5
+|Item31 = Dark Orb ++
+|Quantity31 = 10
+|BuffHP3 = 6
+|Item36 = Code of Artificial Intelligence
+|Quantity36 = 10
+|BuffAccele3 = 5
+|Item34 = Ikigami's Hairball
+|Quantity34 = 15
+|BuffBlast3 = 7
+|Item35 = Rooftop Balloons
+|Quantity35 = 8
+|BuffCharge3 = 7
+
 |QuantityCC1 = 300000
+|QuantityCC2 = 1000000
 }}

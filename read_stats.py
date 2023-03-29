@@ -245,7 +245,10 @@ def format_info(_id):
     if _id == 1042:
         jap = "小さなキュゥべえ"
     else:
-        jap = work_on["name"]
+        try:
+            jap = work_on["name"]
+        except KeyError:
+            return
         try:
             jap += " (" + work_on["title"] + ")"
         except KeyError:
@@ -260,7 +263,10 @@ def format_info(_id):
     try:
         type = types[work_on["initialType"]]
     except KeyError:
-        type = "Cycles " + types[work_on["initialType"][7:]] # Remove CIRCLE_
+        try:
+            type = "Cycles " + types[work_on["initialType"][7:]] # Remove CIRCLE_
+        except KeyError:
+            type = "Unknown"
     try:
         release = work_on["openDate"][:10].replace("/", "-")
     except KeyError:
@@ -447,7 +453,7 @@ def make_spirit_enchantment(cells):
             char += cell["effectValue"]
         elif cell["enhancementType"] == "SKILL":
             arts = []
-            for i in range(1, 10):
+            for i in range(1, 20):
                 try:
                     arts.append(cell["emotionSkill"][f"art{i}"])
                 except KeyError:
@@ -488,6 +494,10 @@ def make_spirit_enchantment(cells):
                     duration = "∞"
                 a_output += a_temp.format(a_idx, jp, en, icon, st, duration)
                 a_idx += 1
+        elif cell["enhancementType"] == "START": 
+            pass
+        else:
+            print("\t\tUNKNOWN enhancementType:", cell["enhancementType"])
 
     # fill out so everyone has 13 passive and 1 active
     for i in range(p_idx, 14):

@@ -163,9 +163,9 @@
 | Magia icon = Damage A Horizontal Line
 | Magia effect 1 = Damage A Horizontal Line
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = I / 450%
-| Magia 1 / 2 = II / 470%
-| Magia 1 / 3 = IV / 510%
+| Magia 1 / 1 = I / 481.5%
+| Magia 1 / 2 = II / 499%
+| Magia 1 / 3 = IV / 534%
 | Magia effect 2 = HP Restore
 | Magia scaling 2 = 2%
 | Magia 2 / 1 = All / I / 15%

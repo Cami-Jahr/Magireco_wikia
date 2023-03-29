@@ -98,6 +98,26 @@
 |Quantity35 = 6
 |BuffCharge3 = 6
 
+|Item42 = Rainbow Orb
+|Quantity42 = 3
+|BuffATK4 = 9
+|Item43 = Light Orb +
+|Quantity43 = 15
+|BuffDEF4 = 5
+|Item41 = Light Orb ++
+|Quantity41 = 10
+|BuffHP4 = 6
+|Item46 = Machibito Horse's Wheel
+|Quantity46 = 10
+|BuffAccele4 = 7
+|Item44 = Standing Ear Cotton
+|Quantity44 = 15
+|BuffBlast4 = 5
+|Item45 = Rooftop Balloons
+|Quantity45 = 8
+|BuffCharge4 = 7
+
 |QuantityCC1 = 100000
 |QuantityCC2 = 300000
+|QuantityCC3 = 1000000
 }}

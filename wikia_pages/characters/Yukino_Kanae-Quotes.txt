@@ -117,7 +117,7 @@
 | Japanese Chapter select 4 = 歌って…叫んで…全てを燃焼させたい… 
 | NA Chapter select 4 = 
 | Chapter select 4 = 
-| Japanese Chapter select 5 = おばあちゃん…家にいる…？ 
+| Japanese Chapter select 5 = おばあさん…家にいる…？ 
 | NA Chapter select 5 = 
 | Chapter select 5 = 
 | Japanese Chapter select 6 = この目つきで…どれだけ勘違いされたか… 

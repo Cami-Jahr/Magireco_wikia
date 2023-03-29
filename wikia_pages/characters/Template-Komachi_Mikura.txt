@@ -160,8 +160,8 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Damage One Enemy
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = V / 540%
-| Magia 1 / 2 = VII / 580%
+| Magia 1 / 1 = V / 864%
+| Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Remove Buffs
 | Magia scaling 2 = 0%
 | Magia 2 / 1 = One / 
@@ -177,5 +177,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、副葬品
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 1452%] & Remove Buffs [One] & Chance to Bind [IX / 100% / One / 1 Turn]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Remove Buffs [One] & Chance to Bind [IX / 100% / One / 1 Turn]
 }}

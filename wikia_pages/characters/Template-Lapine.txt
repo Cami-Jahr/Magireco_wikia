@@ -4,7 +4,7 @@
 | name_na = 
 | element = Flame
 | base_rarity = 3
-| max_rarity = 4
+| max_rarity = 5
 | id = 4027
 | type = Defense
 | growth_type = DEFHP
@@ -53,13 +53,13 @@
 | 4star_defense_max = 7767
 | 4star_illustrator_jp = 枡狐/蛙空
 
-| 5star_hp_lv1 = 
-| 5star_attack_lv1 = 
-| 5star_defense_lv1 = 
-| 5star_hp_max = 
-| 5star_attack_max = 
-| 5star_defense_max = 
-| 5star_illustrator_jp = 
+| 5star_hp_lv1 = 6473
+| 5star_attack_lv1 = 1694
+| 5star_defense_lv1 = 2276
+| 5star_hp_max = 26086
+| 5star_attack_max = 6725
+| 5star_defense_max = 9240
+| 5star_illustrator_jp = 枡狐/蛙空
 
 | se_hp_bonus = 4773
 | se_attack_bonus = 1612
@@ -147,9 +147,15 @@
 | Connect effect 1 = Blast Damage Up
 | Connect 1 / 1 = V / 60%
 | Connect 1 / 2 = VII / 70%
+| Connect 1 / 3 = VII / 70%
 | Connect effect 2 = Attack Up
 | Connect 2 / 1 = V / 30%
 | Connect 2 / 2 = VII / 35%
+| Connect 2 / 3 = VII / 35%
+| Connect effect 3 = Blast Damage Cut
+| Connect 3 / 1 = -
+| Connect 3 / 2 = -
+| Connect 3 / 3 = VII / 35%
 
 | Magia name JP = ラピヌ・オ・サンテュ
 | Magia name EN = 
@@ -159,24 +165,28 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = III / 320%
 | Magia 1 / 2 = V / 340%
+| Magia 1 / 3 = VII / 360%
 | Magia effect 2 = MP Gain Down
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = All / 3 Turns / III / 30%
 | Magia 2 / 2 = All / 3 Turns / V / 40%
+| Magia 2 / 3 = All / 3 Turns / VII / 40%
 | Magia effect 3 = MP Damage
 | Magia scaling 3 = 0%
 | Magia 3 / 1 = All / III / 25%
 | Magia 3 / 2 = All / V / 30%
+| Magia 3 / 3 = All / VII / 30%
 | Magia effect 4 = MP Restore
 | Magia scaling 4 = 1%
 | Magia 4 / 1 = III / 25%
 | Magia 4 / 2 = V / 30%
+| Magia 4 / 3 = VII / 30%
 
 | Doppel Name = 
 | Doppel Title = 
-| Doppel Japanese Title = 
+| Doppel Japanese Title = 嗜虐のドッペル
 | Doppel Shape = 
-| Doppel Japanese Shape = 
-| Doppel Japanese Designer = 
-| Doppel effect = 
+| Doppel Japanese Shape = その姿は、泣きウサギ
+| Doppel Japanese Designer = 原案・監修：枡狐/蛙空
+| Doppel effect = Damage All Enemies [IX / 902%] & MP Gain Down [IX / 60% / All / 3 Turns] & MP Damage [IX / 40% / All] & MP Restore [IX / 39%]
 }}

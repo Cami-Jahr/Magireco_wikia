@@ -6,7 +6,11 @@ def read_lines_json():
         info_dict = loads(f.read())
     overview = []
     for entry in info_dict:
-        lis = info_dict[entry]["charaMessageList"]
+        try:
+            lis = info_dict[entry]["charaMessageList"]
+        except KeyError:
+            print(f"NO VOICELINES FOUND FOR ID={entry}")
+            continue
         lines = [int(entry)]
         for line in lis:
             lines.append(line["message"])

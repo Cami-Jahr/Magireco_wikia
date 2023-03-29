@@ -61,84 +61,84 @@
 | 5star_defense_max = 
 | 5star_illustrator_jp = 
 
-| se_hp_bonus = 
-| se_attack_bonus = 
-| se_defense_bonus = 
+| se_hp_bonus = 6064
+| se_attack_bonus = 1252
+| se_defense_bonus = 2350
 
-| se accele bonus = 
-| se blast bonus = 
-| se charge bonus = 
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 4
 
-| Passive 1 icon = 
-| Passive 1 name = 
-| Passive 1 name JP = 
-| Passive 1 effect = 
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 2 icon = 
-| Passive 2 name = 
-| Passive 2 name JP = 
-| Passive 2 effect = 
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 3 icon = 
-| Passive 3 name = 
-| Passive 3 name JP = 
-| Passive 3 effect = 
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [I]
+| Passive 3 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 4 icon = 
-| Passive 4 name = 
-| Passive 4 name JP = 
-| Passive 4 effect = 
+| Passive 4 icon = Magia Damage Up
+| Passive 4 name = Magia Adept [II]
+| Passive 4 name JP = マギア・アデプト[Ⅱ]
+| Passive 4 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 5 icon = 
-| Passive 5 name = 
-| Passive 5 name JP = 
-| Passive 5 effect = 
+| Passive 5 icon = Chance to Bind on Attack
+| Passive 5 name = Bind Edge [III]
+| Passive 5 name JP = バインド・エッジ[Ⅲ]
+| Passive 5 effect = Chance to Bind on Attack [III / 20%] (1 Turn)
 
-| Passive 6 icon = 
-| Passive 6 name = 
-| Passive 6 name JP = 
-| Passive 6 effect = 
+| Passive 6 icon = Doppel Damage Up
+| Passive 6 name = Doppel Adept [I]
+| Passive 6 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 6 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 7 icon = 
-| Passive 7 name = 
-| Passive 7 name JP = 
-| Passive 7 effect = 
+| Passive 7 icon = Accele MP Gain Up
+| Passive 7 name = Accele Adept [II]
+| Passive 7 name JP = アクセル・アデプト[Ⅱ]
+| Passive 7 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 8 icon = 
-| Passive 8 name = 
-| Passive 8 name JP = 
-| Passive 8 effect = 
+| Passive 8 icon = Damage Cut
+| Passive 8 name = Shield Adept [II]
+| Passive 8 name JP = シールド・アデプト[Ⅱ]
+| Passive 8 effect = Damage Cut [II / 10%]
 
-| Passive 9 icon = 
-| Passive 9 name = 
-| Passive 9 name JP = 
-| Passive 9 effect = 
+| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 name = Skill Quicken [II]
+| Passive 9 name JP = スキルクイック[Ⅱ]
+| Passive 9 effect = Chance to Skill Quicken [II / 10%]
 
-| Passive 10 icon = 
-| Passive 10 name = 
-| Passive 10 name JP = 
-| Passive 10 effect = 
+| Passive 10 icon = Accele MP Gain Up
+| Passive 10 name = Accele Adept [II]
+| Passive 10 name JP = アクセル・アデプト[Ⅱ]
+| Passive 10 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 11 icon = 
-| Passive 11 name = 
-| Passive 11 name JP = 
-| Passive 11 effect = 
+| Passive 11 icon = Chance to Anti-Skill Seal
+| Passive 11 name = Anti-Jammer
+| Passive 11 name JP = アンチ・ジャマ―
+| Passive 11 effect = Chance to Anti-Skill Seal [100%]
 
-| Passive 12 icon = 
-| Passive 12 name = 
-| Passive 12 name JP = 
-| Passive 12 effect = 
+| Passive 12 icon = MP Gain Up
+| Passive 12 name = Morale Adept [III]
+| Passive 12 name JP = モラール・アデプト[Ⅲ]
+| Passive 12 effect = MP Gain Up [III / 10%]
 
 | Passive 13 icon = 
 | Passive 13 name = 
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = 
-| Active 1 name = 
-| Active 1 name JP = 
-| Active 1 effect = 
-| Active 1 cooldown = 
+| Active 1 icon = Chance to Fog
+| Active 1 name = Fog [IX]
+| Active 1 name JP = フォッグ[Ⅸ]
+| Active 1 effect = Chance to Fog [IX / 50%] (All / 1 Turn)
+| Active 1 cooldown = 7
 
 | Connect name JP = あの…その…私と…その…
 | Connect name EN = 

@@ -4,7 +4,7 @@
 | name_na = 
 | element = Light
 | base_rarity = 3
-| max_rarity = 4
+| max_rarity = 5
 | id = 4035
 | type = Support
 | growth_type = ATKDEF
@@ -53,13 +53,13 @@
 | 4star_defense_max = 6164
 | 4star_illustrator_jp = GAN
 
-| 5star_hp_lv1 = 
-| 5star_attack_lv1 = 
-| 5star_defense_lv1 = 
-| 5star_hp_max = 
-| 5star_attack_max = 
-| 5star_defense_max = 
-| 5star_illustrator_jp = 
+| 5star_hp_lv1 = 6299
+| 5star_attack_lv1 = 1910
+| 5star_defense_lv1 = 1890
+| 5star_hp_max = 25007
+| 5star_attack_max = 7754
+| 5star_defense_max = 7616
+| 5star_illustrator_jp = GAN
 
 | se_hp_bonus = 4228
 | se_attack_bonus = 1463
@@ -147,9 +147,11 @@
 | Connect effect 1 = Attack Up
 | Connect 1 / 1 = V / 30%
 | Connect 1 / 2 = VII / 35%
+| Connect 1 / 3 = IX / 40%
 | Connect effect 2 = Chance to Charm on Attack
 | Connect 2 / 1 = V / 100%
 | Connect 2 / 2 = VII / 100%
+| Connect 2 / 3 = IX / 100%
 
 | Magia name JP = アテンション＆リリース
 | Magia name EN = 
@@ -157,26 +159,35 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Damage One Enemy
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = III / 640%
-| Magia 1 / 2 = V / 680%
+| Magia 1 / 1 = III / 1024%
+| Magia 1 / 2 = V / 1088%
+| Magia 1 / 3 = VII / 1152%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = One / 3 Turns / III / 15%
 | Magia 2 / 2 = One / 3 Turns / V / 25%
+| Magia 2 / 3 = One / 3 Turns / VII / 35%
 | Magia effect 3 = Damage Cut
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Self / 3 Turns / III / 20%
 | Magia 3 / 2 = Self / 3 Turns / V / 30%
+| Magia 3 / 3 = Self / 3 Turns / VII / 40%
 | Magia effect 4 = Chance to Provoke
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = Self / 1 Turn / III / 100%
 | Magia 4 / 2 = Self / 1 Turn / V / 100%
+| Magia 4 / 3 = Self / 1 Turn / VII / 100%
+| Magia effect 5 = Regenerate HP
+| Magia scaling 5 = 1%
+| Magia 5 / 1 = -
+| Magia 5 / 2 = -
+| Magia 5 / 3 = Self / 3 Turns / VII / 5%
 
 | Doppel Name = 
 | Doppel Title = 
-| Doppel Japanese Title = 
+| Doppel Japanese Title = 顕示のドッペル
 | Doppel Shape = 
-| Doppel Japanese Shape = 
-| Doppel Japanese Designer = 
-| Doppel effect = 
+| Doppel Japanese Shape = その姿は、瞳
+| Doppel Japanese Designer = 原案・監修：GAN
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Down [IX / 55% / One / 5 Turns] & Damage Cut [IX / 60% / Self / 3 Turns] & Regenerate HP [IX / 11% / Self / 3 Turns] & Chance to Provoke [IX / 100% / Self / 2 Turns]
 }}

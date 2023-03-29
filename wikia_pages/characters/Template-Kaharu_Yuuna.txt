@@ -160,8 +160,8 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Damage One Enemy
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = VI / 560%
-| Magia 1 / 2 = VIII / 600%
+| Magia 1 / 1 = VI / 896%
+| Magia 1 / 2 = VIII / 960%
 | Magia effect 2 = Status Ailment Resistance Down
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = One / 2 Turns / VI / 25%
@@ -177,5 +177,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、コンポート
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [X / 1496%] & Status Ailment Resistance Down [X / 45% / One / 2 Turns] & Chance to Evade [X / 100% / Self / 1 Turn]
+| Doppel effect = Damage One Enemy [X / 2340.8%] & Status Ailment Resistance Down [X / 45% / One / 2 Turns] & Chance to Evade [X / 100% / Self / 1 Turn]
 }}

@@ -164,9 +164,9 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Damage One Enemy
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = I / 600%
-| Magia 1 / 2 = III / 640%
-| Magia 1 / 3 = V / 680%
+| Magia 1 / 1 = I / 960%
+| Magia 1 / 2 = III / 1024%
+| Magia 1 / 3 = V / 1088%
 | Magia effect 2 = Charged Attack Damage Up
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = All / 3 Turns / I / 10%

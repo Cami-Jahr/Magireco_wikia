@@ -64,6 +64,7 @@ good = {
     "DAMAGE_UP": ("Damage Up", True, False),
     "ATTACK_UP": ("Attack Up", True, False),  
     "IMITATE_ATTRIBUTE": ("Imitate Attribute", True, False),  
+    "NO_COST_CHARGE": ("NO_COST_CHARGE or whatever english tl", True, False),
 }
 
 bad = {
@@ -423,7 +424,10 @@ def translate(shortDescription, arts):
             try:
                 text, uses_roman, no_states_target = sub[art["effectCode"]]
             except KeyError:
-                text, uses_roman, no_states_target = sub[art["targetId"]]
+                try:
+                    text, uses_roman, no_states_target = sub[art["targetId"]]
+                except KeyError:
+                    text, uses_roman, no_states_target = "?", False, False
             st = text
             if st == "Damage Up" and "状態" in shortDescription:
                 st = "Damage Increase"

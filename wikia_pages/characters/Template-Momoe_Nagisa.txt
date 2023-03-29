@@ -160,8 +160,8 @@
 | Magia icon = Damage 4 Random Enemies
 | Magia effect 1 = Damage 4 Random Enemies
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = VI / 184.2%
-| Magia 1 / 2 = VIII / 194.7%
+| Magia 1 / 1 = VI / 288.7%
+| Magia 1 / 2 = VIII / 305.2%
 | Magia effect 2 = Chance to Fog
 | Magia scaling 2 = 0%
 | Magia 2 / 1 = All / 3 Turns / VI / 100%
@@ -177,5 +177,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、お菓子
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage 4 Random Enemies [X / 539.3%] & Chance to Fog [X / 100% / All / 3 Turns] & Chance to Defense Pierce [X / 100% / Self / 2 Turns]
+| Doppel effect = Damage 4 Random Enemies [X / 795.7%] & Chance to Fog [X / 100% / All / 3 Turns] & Chance to Defense Pierce [X / 100% / Self / 2 Turns]
 }}

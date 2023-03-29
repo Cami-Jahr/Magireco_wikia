@@ -157,8 +157,8 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Damage One Enemy
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = III / 640%
-| Magia 1 / 2 = V / 680%
+| Magia 1 / 1 = III / 1024%
+| Magia 1 / 2 = V / 1088%
 | Magia effect 2 = Chance to Darkness
 | Magia scaling 2 = 0%
 | Magia 2 / 1 = One / 2 Turns / III / 45%

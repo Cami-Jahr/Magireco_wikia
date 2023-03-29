@@ -4,7 +4,7 @@
 | name_na = 
 | element = Aqua
 | base_rarity = 3
-| max_rarity = 4
+| max_rarity = 5
 | id = 4034
 | type = Support
 | growth_type = BALANCE
@@ -53,92 +53,92 @@
 | 4star_defense_max = 5889
 | 4star_illustrator_jp = GAN
 
-| 5star_hp_lv1 = 
-| 5star_attack_lv1 = 
-| 5star_defense_lv1 = 
-| 5star_hp_max = 
-| 5star_attack_max = 
-| 5star_defense_max = 
-| 5star_illustrator_jp = 
+| 5star_hp_lv1 = 6521
+| 5star_attack_lv1 = 1979
+| 5star_defense_lv1 = 2055
+| 5star_hp_max = 26084
+| 5star_attack_max = 7916
+| 5star_defense_max = 8220
+| 5star_illustrator_jp = 千里GAN
 
-| se_hp_bonus = 
-| se_attack_bonus = 
-| se_defense_bonus = 
+| se_hp_bonus = 4922
+| se_attack_bonus = 1408
+| se_defense_bonus = 1333
 
-| se accele bonus = 
-| se blast bonus = 
-| se charge bonus = 
+| se accele bonus = 4
+| se blast bonus = 6
+| se charge bonus = 5
 
-| Passive 1 icon = 
-| Passive 1 name = 
-| Passive 1 name JP = 
-| Passive 1 effect = 
+| Passive 1 icon = Charge Disc Damage Up
+| Passive 1 name = Technical Adept [II]
+| Passive 1 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 1 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 2 icon = 
-| Passive 2 name = 
-| Passive 2 name JP = 
-| Passive 2 effect = 
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = 
-| Passive 3 name = 
-| Passive 3 name JP = 
-| Passive 3 effect = 
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 4 icon = 
-| Passive 4 name = 
-| Passive 4 name JP = 
-| Passive 4 effect = 
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = 
-| Passive 5 name = 
-| Passive 5 name JP = 
-| Passive 5 effect = 
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = 
-| Passive 6 name = 
-| Passive 6 name JP = 
-| Passive 6 effect = 
+| Passive 6 icon = Chance to Darkness on Attack
+| Passive 6 name = Darkness Edge [II]
+| Passive 6 name JP = ダークネス・エッジ[Ⅱ]
+| Passive 6 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)
 
-| Passive 7 icon = 
-| Passive 7 name = 
-| Passive 7 name JP = 
-| Passive 7 effect = 
+| Passive 7 icon = Damage Cut
+| Passive 7 name = Shield Adept [II]
+| Passive 7 name JP = シールド・アデプト[Ⅱ]
+| Passive 7 effect = Damage Cut [II / 10%]
 
-| Passive 8 icon = 
-| Passive 8 name = 
-| Passive 8 name JP = 
-| Passive 8 effect = 
+| Passive 8 icon = Charge Disc Damage Up
+| Passive 8 name = Technical Adept [II]
+| Passive 8 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 8 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 9 icon = 
-| Passive 9 name = 
-| Passive 9 name JP = 
-| Passive 9 effect = 
+| Passive 9 icon = Chance to Bind on Attack
+| Passive 9 name = Bind Edge [II]
+| Passive 9 name JP = バインド・エッジ[Ⅱ]
+| Passive 9 effect = Chance to Bind on Attack [II / 15%] (1 Turn)
 
-| Passive 10 icon = 
-| Passive 10 name = 
-| Passive 10 name JP = 
-| Passive 10 effect = 
+| Passive 10 icon = MP Gain Up
+| Passive 10 name = Morale Adept [III]
+| Passive 10 name JP = モラール・アデプト[Ⅲ]
+| Passive 10 effect = MP Gain Up [III / 10%]
 
-| Passive 11 icon = 
-| Passive 11 name = 
-| Passive 11 name JP = 
-| Passive 11 effect = 
+| Passive 11 icon = Chance to Skill Quicken
+| Passive 11 name = Skill Quicken [III]
+| Passive 11 name JP = スキルクイック[Ⅲ]
+| Passive 11 effect = Chance to Skill Quicken [III / 15%]
 
-| Passive 12 icon = 
-| Passive 12 name = 
-| Passive 12 name JP = 
-| Passive 12 effect = 
+| Passive 12 icon = MP Gauge Increased On Battle Start
+| Passive 12 name = Fast Mana Up
+| Passive 12 name JP = ファスト・マナアップ
+| Passive 12 effect = MP Gauge Increased On Battle Start [20%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
+| Passive 13 icon = Accele MP Gain Up
+| Passive 13 name = Accele Adept [II]
+| Passive 13 name JP = アクセル・アデプト[Ⅱ]
+| Passive 13 effect = Accele MP Gain Up [II / 12.5%]
 
-| Active 1 icon = 
-| Active 1 name = 
-| Active 1 name JP = 
-| Active 1 effect = 
-| Active 1 cooldown = 
+| Active 1 icon = Chance to Skill Seal
+| Active 1 name = アンアーム [IV]
+| Active 1 name JP = アンアーム[Ⅳ]
+| Active 1 effect = Chance to Skill Seal [IV / 37.5%] (All / 1 Turn) & Attack Down [III / 20%] (All / 3 Turns)
+| Active 1 cooldown = 10
 
 | Connect name JP = 一緒に更生させましょう
 | Connect name EN = 
@@ -147,12 +147,15 @@
 | Connect effect 1 = Attack Up
 | Connect 1 / 1 = VI / 32.5%
 | Connect 1 / 2 = VIII / 37.5%
+| Connect 1 / 3 = IX / 40%
 | Connect effect 2 = Chance to Skill Seal on Attack
 | Connect 2 / 1 = VI / 35%
 | Connect 2 / 2 = VIII / 45%
+| Connect 2 / 3 = IX / 55%
 | Connect effect 3 = Charged Attack Damage Up
 | Connect 3 / 1 = -
 | Connect 3 / 2 = VIII / 27.5%
+| Connect 3 / 3 = IX / 30%
 
 | Magia name JP = エンフォースメント
 | Magia name EN = 
@@ -162,16 +165,23 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = III / 320%
 | Magia 1 / 2 = V / 340%
+| Magia 1 / 3 = VII / 360%
 | Magia effect 2 = Chance to Bind
 | Magia scaling 2 = 0%
 | Magia 2 / 1 = All / 1 Turn / III / 40%
 | Magia 2 / 2 = All / 1 Turn / V / 45%
+| Magia 2 / 3 = All / 1 Turn / VII / 50%
+| Magia effect 3 = Remove Buffs
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = -
+| Magia 3 / 3 = All / 
 
 | Doppel Name = 
 | Doppel Title = 
-| Doppel Japanese Title = 
+| Doppel Japanese Title = 正義のドッペル
 | Doppel Shape = 
-| Doppel Japanese Shape = 
-| Doppel Japanese Designer = 
-| Doppel effect = 
+| Doppel Japanese Shape = その姿は、拡声器
+| Doppel Japanese Designer = 原案・監修：千里GAN
+| Doppel effect = Damage All Enemies [IX / 902%] & Chance to Bind [IX / 55% / All / 1 Turn] & Remove Buffs [All] & MP Restore [IX / 34%]
 }}

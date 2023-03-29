@@ -171,7 +171,7 @@
 | Magia scaling 2 = 10%
 | Magia 2 / 1 = -
 | Magia 2 / 2 = -
-| Magia 2 / 3 = VII / 189.4%
+| Magia 2 / 3 = VII / 297%
 | Magia effect 3 = Charged Attack Damage Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
@@ -180,11 +180,11 @@
 | Magia effect 4 = Damage 3 Random Enemies
 | Magia scaling 4 = 10%
 | Magia 4 / 1 = -
-| Magia 4 / 2 = V / 234.4%
+| Magia 4 / 2 = V / 374%
 | Magia 4 / 3 = -
 | Magia effect 5 = Damage One Enemy
 | Magia scaling 5 = 10%
-| Magia 5 / 1 = III / 640%
+| Magia 5 / 1 = III / 1024%
 | Magia 5 / 2 = -
 | Magia 5 / 3 = -
 
@@ -194,5 +194,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、タオル
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage 5 Random Enemies [IX / 401.4%] & Charged Attack Damage Up [IX / 37.5% / All / 3 Turns] & Chance to Evade [IX / 100% / Self / 2 Turns]
+| Doppel effect = Damage 5 Random Enemies [IX / 622.1999999999999%] & Charged Attack Damage Up [IX / 37.5% / All / 3 Turns] & Chance to Evade [IX / 100% / Self / 2 Turns]
 }}

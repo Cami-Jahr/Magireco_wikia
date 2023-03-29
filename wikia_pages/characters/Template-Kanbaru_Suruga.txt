@@ -61,84 +61,84 @@
 | 5star_defense_max = 7078
 | 5star_illustrator_jp = 渡辺明夫
 
-| se_hp_bonus = 
-| se_attack_bonus = 
-| se_defense_bonus = 
+| se_hp_bonus = 6940
+| se_attack_bonus = 2341
+| se_defense_bonus = 2536
 
-| se accele bonus = 
-| se blast bonus = 
-| se charge bonus = 
+| se accele bonus = 4
+| se blast bonus = 6
+| se charge bonus = 5
 
-| Passive 1 icon = 
-| Passive 1 name = 
-| Passive 1 name JP = 
-| Passive 1 effect = 
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [III]
+| Passive 1 name JP = ドッペル・アデプト[Ⅲ]
+| Passive 1 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
 
-| Passive 2 icon = 
-| Passive 2 name = 
-| Passive 2 name JP = 
-| Passive 2 effect = 
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [IV]
+| Passive 2 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 2 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
 
-| Passive 3 icon = 
-| Passive 3 name = 
-| Passive 3 name JP = 
-| Passive 3 effect = 
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 4 icon = 
-| Passive 4 name = 
-| Passive 4 name JP = 
-| Passive 4 effect = 
+| Passive 4 icon = MP Gain Up
+| Passive 4 name = Morale Adept [II]
+| Passive 4 name JP = モラール・アデプト[Ⅱ]
+| Passive 4 effect = MP Gain Up [II / 7.5%]
 
-| Passive 5 icon = 
-| Passive 5 name = 
-| Passive 5 name JP = 
-| Passive 5 effect = 
+| Passive 5 icon = Chance to Evade
+| Passive 5 name = Parry Adept [II]
+| Passive 5 name JP = パリィ・アデプト[Ⅱ]
+| Passive 5 effect = Chance to Evade [II / 15%]
 
-| Passive 6 icon = 
-| Passive 6 name = 
-| Passive 6 name JP = 
-| Passive 6 effect = 
+| Passive 6 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
+| Passive 6 name = Charge Combo Plus [II]
+| Passive 6 name JP = チャージコンボプラス[Ⅱ]
+| Passive 6 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
 
-| Passive 7 icon = 
-| Passive 7 name = 
-| Passive 7 name JP = 
-| Passive 7 effect = 
+| Passive 7 icon = Regenerate HP
+| Passive 7 name = Mana Spring Adept [V]
+| Passive 7 name JP = マナスプリング・アデプト[Ⅴ]
+| Passive 7 effect = Regenerate HP [V / 9%]
 
-| Passive 8 icon = 
-| Passive 8 name = 
-| Passive 8 name JP = 
-| Passive 8 effect = 
+| Passive 8 icon = MP Gain Up When Over 100 MP
+| Passive 8 name = MP Boost [II]
+| Passive 8 name JP = MPブースト[Ⅱ]
+| Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 9 icon = 
-| Passive 9 name = 
-| Passive 9 name JP = 
-| Passive 9 effect = 
+| Passive 9 icon = Chance to Anti-Evade
+| Passive 9 name = Aiming Adept [III]
+| Passive 9 name JP = エイミング・アデプト[Ⅲ]
+| Passive 9 effect = Chance to Anti-Evade [III / 35%]
 
-| Passive 10 icon = 
-| Passive 10 name = 
-| Passive 10 name JP = 
-| Passive 10 effect = 
+| Passive 10 icon = Chance to Critical Hit
+| Passive 10 name = Critical Adept [II]
+| Passive 10 name JP = クリティカル・アデプト[Ⅱ]
+| Passive 10 effect = Chance to Critical Hit [II / 15%]
 
-| Passive 11 icon = 
-| Passive 11 name = 
-| Passive 11 name JP = 
-| Passive 11 effect = 
+| Passive 11 icon = Charge Disc Damage Up
+| Passive 11 name = Technical Adept [II]
+| Passive 11 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 11 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 12 icon = 
-| Passive 12 name = 
-| Passive 12 name JP = 
-| Passive 12 effect = 
+| Passive 12 icon = Chance to Stun on Attack
+| Passive 12 name = Stun Edge [IV]
+| Passive 12 name JP = スタン・エッジ[Ⅳ]
+| Passive 12 effect = Chance to Stun on Attack [IV / 25%] (1 Turn)
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
+| Passive 13 icon = Charge Disc Damage Up
+| Passive 13 name = Technical Adept [II]
+| Passive 13 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 13 effect = Charge Disc Damage Up [II / 10%]
 
-| Active 1 icon = 
-| Active 1 name = 
-| Active 1 name JP = 
-| Active 1 effect = 
-| Active 1 cooldown = 
+| Active 1 icon = Attack Up
+| Active 1 name = PenetrateAttack [IV]
+| Active 1 name JP = ペネトレイトアタック[Ⅳ]
+| Active 1 effect = Attack Up [IV / 20%] (Self / 1 Turn) & Chance to Defense Pierce [VII / 40%] (Self / 1 Turn)
+| Active 1 cooldown = 11
 
 | Connect name JP = 称賛は、チームのみんなで
 | Connect name EN = 
@@ -160,8 +160,8 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Damage One Enemy
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = V / 540%
-| Magia 1 / 2 = VII / 580%
+| Magia 1 / 1 = V / 864%
+| Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Chance to Stun
 | Magia scaling 2 = 0%
 | Magia 2 / 1 = One / 1 Turn / V / 100%
@@ -177,5 +177,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、猿の手
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 1452%] & Chance to Stun [IX / 100% / One / 1 Turn] & Charged Attack Damage Up [IX / 40% / All / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Chance to Stun [IX / 100% / One / 1 Turn] & Charged Attack Damage Up [IX / 40% / All / 3 Turns]
 }}

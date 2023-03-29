@@ -160,8 +160,8 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Damage One Enemy
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = VI / 560%
-| Magia 1 / 2 = VIII / 600%
+| Magia 1 / 1 = VI / 896%
+| Magia 1 / 2 = VIII / 960%
 | Magia effect 2 = Chance to Evade
 | Magia scaling 2 = 0%
 | Magia 2 / 1 = Self / 1 Turn / VI / 100%
@@ -177,5 +177,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、心電図
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [X / 1588%] & Chance to Evade [X / 100% / Self / 1 Turn] & Regenerate HP [X / 9% / Self / 3 Turns]
+| Doppel effect = Damage One Enemy [X / 2488%] & Chance to Evade [X / 100% / Self / 1 Turn] & Regenerate HP [X / 9% / Self / 3 Turns]
 }}

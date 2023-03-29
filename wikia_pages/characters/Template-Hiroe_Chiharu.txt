@@ -160,8 +160,8 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Damage One Enemy
 | Magia scaling 1 = 10%
-| Magia 1 / 1 = V / 680%
-| Magia 1 / 2 = VII / 720%
+| Magia 1 / 1 = V / 1088%
+| Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Defense Down
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = One / 3 Turns / V / 15%
@@ -181,5 +181,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は袖搦
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 1760%] & Defense Down [IX / 40% / One / 3 Turns] & Status Ailment Resistance Down [IX / 30% / One / 3 Turns] & Chance to Bind [IX / 100% / One / 1 Turn]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Defense Down [IX / 40% / One / 3 Turns] & Status Ailment Resistance Down [IX / 30% / One / 3 Turns] & Chance to Bind [IX / 100% / One / 1 Turn]
 }}
