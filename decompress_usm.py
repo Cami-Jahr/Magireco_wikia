@@ -8,7 +8,7 @@ cha = get_char_list()
 
 def merge_files(path, target, base_target):
     dirs = sorted(os.listdir(path), reverse=True)
-        files = []
+    files = []
     for doc in dirs:
         if ".wav" == doc[-4:] or ".adx" == doc[-4:] or ".m2v" == doc[-4:]:
             files.append(doc)
