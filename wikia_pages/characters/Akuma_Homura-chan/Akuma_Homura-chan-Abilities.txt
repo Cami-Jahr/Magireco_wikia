@@ -1,0 +1,7 @@
+﻿{{Akuma_Homura-chan|Abilities}}
+
+{{Description
+| en = 
+| na = 
+| jp = ー
+}}

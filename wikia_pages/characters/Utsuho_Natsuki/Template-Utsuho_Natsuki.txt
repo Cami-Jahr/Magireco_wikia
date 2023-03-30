@@ -1,0 +1,201 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Utsuho Natsuki
+| name_jp = 空穂 夏希
+| name_na = 
+| element = Aqua
+| base_rarity = 2
+| max_rarity = 5
+| id = 3002
+| type = Support
+| growth_type = DEFHP
+| school_jp = 参京院教育学園
+| voice_actor_jp = 杜野まこ
+| designer_jp = 八重樫南
+| memoria = 
+| release_date = 2017-08-22
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 1
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 3866
+| 2star_attack_lv1 = 1059
+| 2star_defense_lv1 = 1065
+| 2star_hp_max = 12456
+| 2star_attack_max = 3365
+| 2star_defense_max = 3454
+| 2star_illustrator_jp = 八重樫南
+
+| 3star_hp_lv1 = 4611
+| 3star_attack_lv1 = 1263
+| 3star_defense_lv1 = 1270
+| 3star_hp_max = 15788
+| 3star_attack_max = 4263
+| 3star_defense_max = 4378
+| 3star_illustrator_jp = 八重樫南
+
+| 4star_hp_lv1 = 5730
+| 4star_attack_lv1 = 1570
+| 4star_defense_lv1 = 1578
+| 4star_hp_max = 20776
+| 4star_attack_max = 5611
+| 4star_defense_max = 5762
+| 4star_illustrator_jp = 八重樫南
+
+| 5star_hp_lv1 = 6216
+| 5star_attack_lv1 = 1764
+| 5star_defense_lv1 = 1823
+| 5star_hp_max = 25050
+| 5star_attack_max = 7003
+| 5star_defense_max = 7401
+| 5star_illustrator_jp = 八重樫南
+
+| se_hp_bonus = 4547
+| se_attack_bonus = 1528
+| se_defense_bonus = 2246
+
+| se accele bonus = 4
+| se blast bonus = 6
+| se charge bonus = 8
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [III]
+| Passive 1 name JP = ドッペル・アデプト[Ⅲ]
+| Passive 1 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [III]
+| Passive 2 name JP = ドッペル・アデプト[Ⅲ]
+| Passive 2 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 4 icon = Accele MP Gain Up
+| Passive 4 name = Accele Adept [II]
+| Passive 4 name JP = アクセル・アデプト[Ⅱ]
+| Passive 4 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 5 icon = Flame Attribute Damage Cut
+| Passive 5 name = フレイムShield Adept [III]
+| Passive 5 name JP = フレイムシールド・アデプト[Ⅲ]
+| Passive 5 effect = Flame Attribute Damage Cut [III / 15%]
+
+| Passive 6 icon = Chance to Skill Quicken
+| Passive 6 name = Skill Quicken [III]
+| Passive 6 name JP = スキルクイック[Ⅲ]
+| Passive 6 effect = Chance to Skill Quicken [III / 15%]
+
+| Passive 7 icon = Damage Cut
+| Passive 7 name = Shield Adept [II]
+| Passive 7 name JP = シールド・アデプト[Ⅱ]
+| Passive 7 effect = Damage Cut [II / 10%]
+
+| Passive 8 icon = MP Gain Up When Over 100 MP
+| Passive 8 name = MP Boost [II]
+| Passive 8 name JP = MPブースト[Ⅱ]
+| Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 9 icon = Charged Attack Damage Up
+| Passive 9 name = Charge Adept [II]
+| Passive 9 name JP = チャージ・アデプト[Ⅱ]
+| Passive 9 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 10 icon = MP Gain Up When Over 100 MP
+| Passive 10 name = MP Boost [II]
+| Passive 10 name JP = MPブースト[Ⅱ]
+| Passive 10 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 11 icon = Chance to Darkness on Attack
+| Passive 11 name = Darkness Edge [II]
+| Passive 11 name JP = ダークネス・エッジ[Ⅱ]
+| Passive 11 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)
+
+| Passive 12 icon = MP Gain Up
+| Passive 12 name = Morale Adept [II]
+| Passive 12 name JP = モラール・アデプト[Ⅱ]
+| Passive 12 effect = MP Gain Up [II / 7.5%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Accele MP Gain Up
+| Active 1 name = AcceleGuard Circle [II]
+| Active 1 name JP = アクセルガード・サークル[Ⅱ]
+| Active 1 effect = Accele MP Gain Up [II / 12.5%] (All / 3 Turns) & Defense Up [II / 26.3%] (All / 3 Turns)
+| Active 1 cooldown = 10
+
+| Connect name JP = ウィキャンドゥーイッ！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = IV / 27.5%
+| Connect 1 / 2 = VI / 32.5%
+| Connect 1 / 3 = VIII / 37.5%
+| Connect 1 / 4 = IX / 40%
+| Connect effect 2 = Defense Up
+| Connect 2 / 1 = IV / 67.5%
+| Connect 2 / 2 = VI / 82.5%
+| Connect 2 / 3 = VIII / 97.5%
+| Connect 2 / 4 = IX / 105%
+
+| Magia name JP = ゴー！ファイト！ウィン！
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = I / 960%
+| Magia 1 / 2 = III / 1024%
+| Magia 1 / 3 = V / 1088%
+| Magia 1 / 4 = VII / 1152%
+| Magia effect 2 = Attack Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / I / 17.5%
+| Magia 2 / 2 = All / 3 Turns / III / 22.5%
+| Magia 2 / 3 = All / 3 Turns / V / 27.5%
+| Magia 2 / 4 = All / 3 Turns / VII / 30%
+| Magia effect 3 = Defense Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All / 3 Turns / I / 26.3%
+| Magia 3 / 2 = All / 3 Turns / III / 33.8%
+| Magia 3 / 3 = All / 3 Turns / V / 41.3%
+| Magia 3 / 4 = All / 3 Turns / VII / 45%
+| Magia effect 4 = Damage Cut
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = -
+| Magia 4 / 2 = -
+| Magia 4 / 3 = All / 3 Turns / V / 20%
+| Magia 4 / 4 = All / 3 Turns / VII / 22.5%
+| Magia effect 5 = MP Restore
+| Magia scaling 5 = 1%
+| Magia 5 / 1 = -
+| Magia 5 / 2 = -
+| Magia 5 / 3 = -
+| Magia 5 / 4 = VII / 10 MP
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 鼓舞のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、メガホン
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Up [IX / 45% / All / 3 Turns] & Defense Up [IX / 62.5% / All / 3 Turns] & Damage Cut [IX / 37.5% / All / 3 Turns] & MP Restore [IX / 29 MP]
+}}

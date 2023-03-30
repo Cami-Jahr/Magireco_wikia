@@ -1,0 +1,12 @@
+﻿==[[Magia Archive]] Profile==
+''Not yet featured in Magia Archive.''
+<!--*Hometown:
+*Age: 
+*Height:
+*Weapon:
+*Ability:
+*Soul Gem Location:-->
+{{SideStory
+|Side Story Translation Link = 
+|Side Story = 
+}}

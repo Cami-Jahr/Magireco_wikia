@@ -1,0 +1,186 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Nayuta & Mikage (Christmas ver.)
+| name_jp = 那由他・みかげ (クリスマスver.)
+| name_na = 
+| element = Forest
+| base_rarity = 4
+| max_rarity = 5
+| id = 1137
+| type = Support
+| growth_type = DEFHP
+| school_jp = ―
+| voice_actor_jp = 春花らん、進藤あまね
+| designer_jp = 蒼樹うめ、ぷにゃん
+| memoria = 
+| release_date = 2021-12-20
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 3
+| blast_vert_disks = 1
+| blast_hori_disks = 0
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 6919
+| 4star_attack_lv1 = 1875
+| 4star_defense_lv1 = 1829
+| 4star_hp_max = 25088
+| 4star_attack_max = 6701
+| 4star_defense_max = 6679
+| 4star_illustrator_jp = ぷにゃん
+
+| 5star_hp_lv1 = 7723
+| 5star_attack_lv1 = 2107
+| 5star_defense_lv1 = 2051
+| 5star_hp_max = 31123
+| 5star_attack_max = 8364
+| 5star_defense_max = 8327
+| 5star_illustrator_jp = いもあん
+
+| se_hp_bonus = 6978
+| se_attack_bonus = 2219
+| se_defense_bonus = 2399
+
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 4
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Accele MP Gain Up
+| Passive 3 name = Accele Adept [III]
+| Passive 3 name JP = アクセル・アデプト[Ⅲ]
+| Passive 3 effect = Accele MP Gain Up [III / 15%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Damage Cut
+| Passive 6 name = Shield Adept [II]
+| Passive 6 name JP = シールド・アデプト[Ⅱ]
+| Passive 6 effect = Damage Cut [II / 10%]
+
+| Passive 7 icon = Chance to Skill Quicken
+| Passive 7 name = Skill Quicken [II]
+| Passive 7 name JP = スキルクイック[Ⅱ]
+| Passive 7 effect = Chance to Skill Quicken [II / 10%]
+
+| Passive 8 icon = MP Gauge Increased On Battle Start
+| Passive 8 name = Fast Mana Up
+| Passive 8 name JP = ファスト・マナアップ
+| Passive 8 effect = MP Gauge Increased On Battle Start [10% full]
+
+| Passive 9 icon = Chance to Anti-Charm
+| Passive 9 name = Anti-Charm
+| Passive 9 name JP = アンチ・チャーム
+| Passive 9 effect = Chance to Anti-Charm [100%]
+
+| Passive 10 icon = Forest Attribute Attack Up
+| Passive 10 name = ティンバーAura [V]
+| Passive 10 name JP = ティンバーオーラ[Ⅴ]
+| Passive 10 effect = Forest Attribute Attack Up [V / 15%] (All / 5 Turns)
+
+| Passive 11 icon = Chance to Anti-Magia Seal
+| Passive 11 name = Anti-Magia Seal
+| Passive 11 name JP = アンチ・シールマギア
+| Passive 11 effect = Chance to Anti-Magia Seal [100%]
+
+| Passive 12 icon = Chance to Charm on Attack
+| Passive 12 name = Charm Edge [II]
+| Passive 12 name JP = チャーム・エッジ[Ⅱ]
+| Passive 12 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Forest Defense Down
+| Active 1 name = ティンバーイロージョン [III]
+| Active 1 name JP = ティンバーイロージョン[Ⅲ]
+| Active 1 effect = Forest Defense Down [III / 10%] (All / 5 Turns) & Status Ailment Resistance Down [III / 10%] (All / 5 Turns)
+| Active 1 cooldown = 9
+
+| Connect name JP = 一緒に想いを届けよう
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = MP Restore
+| Connect 2 / 1 = V / 22.5 MP
+| Connect 2 / 2 = VII / 27.5 MP
+| Connect effect 3 = Accele MP Gain Up
+| Connect 3 / 1 = V / 30%
+| Connect 3 / 2 = VII / 40%
+
+| Magia name JP = ルーチェ・ディ・フェリチータ
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 340%
+| Magia 1 / 2 = VII / 360%
+| Magia effect 2 = Attack Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / V / 30%
+| Magia 2 / 2 = All / 3 Turns / VII / 35%
+| Magia effect 3 = Damage Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All / 3 Turns / V / 20%
+| Magia 3 / 2 = All / 3 Turns / VII / 25%
+| Magia effect 4 = Chance to Skill Seal
+| Magia scaling 4 = 0%
+| Magia 4 / 1 = All / 3 Turns / V / 30%
+| Magia 4 / 2 = All / 3 Turns / VII / 40%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = レガーロ・アンジェリコ
+| Doppel Shape = 
+| Doppel Japanese Shape = ー
+| Doppel Japanese Designer = ………
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 50% / All / 5 Turns] & Forest Attribute Attack Up [IX / 20% / All / 5 Turns] & Damage Up [IX / 40% / All / 5 Turns] & Chance to Skill Seal [IX / 50% / All / 3 Turns]
+}}

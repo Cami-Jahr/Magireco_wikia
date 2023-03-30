@@ -1,0 +1,183 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Rumor of the Ten-Thousand-Year Sakura (Mizugi ver.)
+| name_jp = 万年桜のウワサ (水着ver.)
+| name_na = 
+| element = Light
+| base_rarity = 4
+| max_rarity = 5
+| id = 3502
+| type = Support
+| growth_type = ATTACK
+| school_jp = 南凪自由学園
+| voice_actor_jp = 鈴木みのり
+| designer_jp = 藤ちょこ
+| memoria = 
+| release_date = 2020-08-07
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 0
+| blast_hori_disks = 1
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 6394
+| 4star_attack_lv1 = 1882
+| 4star_defense_lv1 = 1775
+| 4star_hp_max = 22685
+| 4star_attack_max = 6921
+| 4star_defense_max = 6251
+| 4star_illustrator_jp = 藤ちょこ
+
+| 5star_hp_lv1 = 7266
+| 5star_attack_lv1 = 2115
+| 5star_defense_lv1 = 2018
+| 5star_hp_max = 28628
+| 5star_attack_max = 8650
+| 5star_defense_max = 7890
+| 5star_illustrator_jp = ぷにゃん
+
+| se_hp_bonus = 5954
+| se_attack_bonus = 2326
+| se_defense_bonus = 2542
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 10
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Damage Cut
+| Passive 2 name = Shield Adept [II]
+| Passive 2 name JP = シールド・アデプト[Ⅱ]
+| Passive 2 effect = Damage Cut [II / 10%]
+
+| Passive 3 icon = Chance to Fog on Attack
+| Passive 3 name = Fog Edge [II]
+| Passive 3 name JP = フォッグ・エッジ[Ⅱ]
+| Passive 3 effect = Chance to Fog on Attack [II / 15%] (3 Turns)
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Doppel Damage Up
+| Passive 6 name = Doppel Adept [I]
+| Passive 6 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 6 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 7 icon = Charge Disc Damage Up
+| Passive 7 name = Technical Adept [II]
+| Passive 7 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 7 effect = Charge Disc Damage Up [II / 10%]
+
+| Passive 8 icon = Chance to Anti-Skill Seal
+| Passive 8 name = Anti-Jammer
+| Passive 8 name JP = アンチ・ジャマ―
+| Passive 8 effect = Chance to Anti-Skill Seal [100%]
+
+| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 name = Skill Quicken [III]
+| Passive 9 name JP = スキルクイック[Ⅲ]
+| Passive 9 effect = Chance to Skill Quicken [III / 15%]
+
+| Passive 10 icon = Chance to Anti-Magia Seal
+| Passive 10 name = Anti-Magia Seal
+| Passive 10 name JP = アンチ・シールマギア
+| Passive 10 effect = Chance to Anti-Magia Seal [100%]
+
+| Passive 11 icon = Magia Damage Up
+| Passive 11 name = Magia Adept [II]
+| Passive 11 name JP = マギア・アデプト[Ⅱ]
+| Passive 11 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 12 icon = Accele MP Gain Up
+| Passive 12 name = Accele Adept [II]
+| Passive 12 name JP = アクセル・アデプト[Ⅱ]
+| Passive 12 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Defense Down
+| Active 1 name = ライトフォール [III]
+| Active 1 name JP = ライトフォール[Ⅲ]
+| Active 1 effect = Defense Down [III / 15%] (One / 3 Turns) & Light Defense Down [III / 18%] (One / 3 Turns)
+| Active 1 cooldown = 10
+
+| Connect name JP = ｜いい思い出にしよう｜
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Increase
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Remove Status Ailments
+| Connect 2 / 1 = %
+| Connect 2 / 2 = %
+
+| Magia name JP = ｜海まとう思い出のひとひら｜
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 340%
+| Magia 1 / 2 = VII / 360%
+| Magia effect 2 = Damage Increase
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / V / 27.5%
+| Magia 2 / 2 = All / 3 Turns / VII / 32.5%
+| Magia effect 3 = Charged Attack Damage Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All / 3 Turns / V / 20%
+| Magia 3 / 2 = All / 3 Turns / VII / 25%
+| Magia effect 4 = Remove Status Ailments
+| Magia scaling 4 = 0%
+| Magia 4 / 1 = All / %
+| Magia 4 / 2 = All / %
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = ｜海のお友だち大全集！｜
+| Doppel Shape = 
+| Doppel Japanese Shape = ー
+| Doppel Japanese Designer = ………
+| Doppel effect = Damage All Enemies [IX / 902%] & Damage Increase [IX / 47.5% / All / 3 Turns] & Charged Attack Damage Up [IX / 40% / All / 3 Turns] & Remove Status Ailments [% / All]
+}}

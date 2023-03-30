@@ -1,0 +1,187 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Subaru Kazumi
+| name_jp = 昴 かずみ
+| name_na = 
+| element = Light
+| base_rarity = 4
+| max_rarity = 5
+| id = 4014
+| type = Attack
+| growth_type = BALANCE
+| school_jp = ―
+| voice_actor_jp = 丹下桜
+| designer_jp = 平松正樹/天杉貴志
+| memoria = 
+| release_date = 2021-10-20
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 5153
+| 4star_attack_lv1 = 2375
+| 4star_defense_lv1 = 1702
+| 4star_hp_max = 18550
+| 4star_attack_max = 8550
+| 4star_defense_max = 6127
+| 4star_illustrator_jp = 天杉貴志
+
+| 5star_hp_lv1 = 6000
+| 5star_attack_lv1 = 2572
+| 5star_defense_lv1 = 1844
+| 5star_hp_max = 24000
+| 5star_attack_max = 10288
+| 5star_defense_max = 7376
+| 5star_illustrator_jp = 天杉貴志
+
+| se_hp_bonus = 7014
+| se_attack_bonus = 2180
+| se_defense_bonus = 2257
+
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 4
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [I]
+| Passive 1 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 1 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 3 icon = Magia Damage Up
+| Passive 3 name = Magia Adept [II]
+| Passive 3 name JP = マギア・アデプト[Ⅱ]
+| Passive 3 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Chance to Skill Quicken
+| Passive 5 name = Skill Quicken [III]
+| Passive 5 name JP = スキルクイック[Ⅲ]
+| Passive 5 effect = Chance to Skill Quicken [III / 15%]
+
+| Passive 6 icon = Damage Increase
+| Passive 6 name = ウェポン Adept [II]
+| Passive 6 name JP = ウェポン・アデプト[Ⅱ]
+| Passive 6 effect = Damage Increase [II / 10%]
+
+| Passive 7 icon = MP Gain Up When Over 100 MP
+| Passive 7 name = MP Boost [II]
+| Passive 7 name JP = MPブースト[Ⅱ]
+| Passive 7 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 8 icon = Barrier
+| Passive 8 name = バリアAura
+| Passive 8 name JP = バリアオーラ
+| Passive 8 effect = Barrier [5000 damage]
+
+| Passive 9 icon = Chance to Critical Hit
+| Passive 9 name = Critical Adept [II]
+| Passive 9 name JP = クリティカル・アデプト[Ⅱ]
+| Passive 9 effect = Chance to Critical Hit [II / 15%]
+
+| Passive 10 icon = Regenerate HP
+| Passive 10 name = Mana Spring Adept [V]
+| Passive 10 name JP = マナスプリング・アデプト[Ⅴ]
+| Passive 10 effect = Regenerate MP [V / 9 MP]
+
+| Passive 11 icon = Chance to Anti-Curse
+| Passive 11 name = Anti-Curse
+| Passive 11 name JP = アンチ・カース
+| Passive 11 effect = Chance to Anti-Curse [100%]
+
+| Passive 12 icon = Attack Up While At Max Health
+| Passive 12 name = Full Gaugeオーバードライブ [IV]
+| Passive 12 name JP = フルゲージオーバードライブ[Ⅳ]
+| Passive 12 effect = Attack Up While At Max Health [IV / 20%] & Attack Up [II / 10%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Attack Down
+| Active 1 name = サプレス Bloom [III]
+| Active 1 name JP = サプレス・ブルーム[Ⅲ]
+| Active 1 effect = Attack Down [III / 20%] (All / 3 Turns) & Defense Down [III / 10%] (All / 3 Turns)
+| Active 1 cooldown = 10
+
+| Connect name JP = 行こう！ココロをひとつに！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VII / 30%
+| Connect 1 / 2 = IX / 35%
+| Connect effect 2 = Chance to Critical Hit
+| Connect 2 / 1 = VII / 100%
+| Connect 2 / 2 = IX / 100%
+
+| Magia name JP = メテオ―ラ・フィナーレ
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 340%
+| Magia 1 / 2 = VII / 360%
+| Magia effect 2 = Attack Down
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / V / 25%
+| Magia 2 / 2 = All / 3 Turns / VII / 30%
+| Magia effect 3 = Defense Down
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All / 3 Turns / V / 15%
+| Magia 3 / 2 = All / 3 Turns / VII / 20%
+| Magia effect 4 = Attack Up
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = Self / 3 Turns / V / 20%
+| Magia 4 / 2 = Self / 3 Turns / VII / 30%
+| Magia effect 5 = Damage Up
+| Magia scaling 5 = 2.5%
+| Magia 5 / 1 = Self / 3 Turns / V / 15%
+| Magia 5 / 2 = Self / 3 Turns / VII / 20%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 空腹のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、美食家
+| Doppel Japanese Designer = 原案：f4samurai、監修：平松/天杉
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Down [IX / 45% / All / 5 Turns] & Defense Down [IX / 40% / All / 5 Turns] & Attack Up [IX / 50% / Self / 5 Turns] & Damage Up [IX / 40% / Self / 5 Turns] & HP Restore [IX / 43%]
+}}

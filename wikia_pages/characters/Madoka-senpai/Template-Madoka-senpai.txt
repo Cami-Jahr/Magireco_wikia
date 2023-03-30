@@ -1,0 +1,196 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Madoka-senpai
+| name_jp = まどか先輩
+| name_na = 
+| element = Light
+| base_rarity = 3
+| max_rarity = 5
+| id = 2102
+| type = Balance
+| growth_type = ATKHP
+| school_jp = 見滝原中学校
+| voice_actor_jp = 悠木碧
+| designer_jp = PAPA
+| memoria = 
+| release_date = 2018-04-02
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 4376
+| 3star_attack_lv1 = 1427
+| 3star_defense_lv1 = 1446
+| 3star_hp_max = 15088
+| 3star_attack_max = 4886
+| 3star_defense_max = 4881
+| 3star_illustrator_jp = PAPA
+
+| 4star_hp_lv1 = 5172
+| 4star_attack_lv1 = 1817
+| 4star_defense_lv1 = 1926
+| 4star_hp_max = 18888
+| 4star_attack_max = 6588
+| 4star_defense_max = 6883
+| 4star_illustrator_jp = PAPA
+
+| 5star_hp_lv1 = 6129
+| 5star_attack_lv1 = 1956
+| 5star_defense_lv1 = 1986
+| 5star_hp_max = 24883
+| 5star_attack_max = 7882
+| 5star_defense_max = 7884
+| 5star_illustrator_jp = PAPA
+
+| se_hp_bonus = 3418
+| se_attack_bonus = 1015
+| se_defense_bonus = 2014
+
+| se accele bonus = 6
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [III]
+| Passive 2 name JP = ドッペル・アデプト[Ⅲ]
+| Passive 2 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [IV]
+| Passive 3 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 3 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
+
+| Passive 4 icon = MP Gain Up When Over 100 MP
+| Passive 4 name = MP Boost [II]
+| Passive 4 name JP = MPブースト[Ⅱ]
+| Passive 4 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 5 icon = Charged Attack Damage Up
+| Passive 5 name = Charge Adept [II]
+| Passive 5 name JP = チャージ・アデプト[Ⅱ]
+| Passive 5 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 6 icon = Magia Damage Up
+| Passive 6 name = Magia Adept [III]
+| Passive 6 name JP = マギア・アデプト[Ⅲ]
+| Passive 6 effect = Magia Damage Up [III / 10%]
+
+| Passive 7 icon = Accele MP Gain Up
+| Passive 7 name = Accele Adept [II]
+| Passive 7 name JP = アクセル・アデプト[Ⅱ]
+| Passive 7 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 8 icon = Blast Damage Up
+| Passive 8 name = Blast Adept [II]
+| Passive 8 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 8 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 9 icon = Status Ailment Resistance Up
+| Passive 9 name = Resist Adept [II]
+| Passive 9 name JP = レジスト・アデプト[Ⅱ]
+| Passive 9 effect = Status Ailment Resistance Up [II / 25%]
+
+| Passive 10 icon = Blast Damage Up
+| Passive 10 name = Blast Adept [II]
+| Passive 10 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 10 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 11 icon = Damage Cut
+| Passive 11 name = Shield Adept [II]
+| Passive 11 name JP = シールド・アデプト[Ⅱ]
+| Passive 11 effect = Damage Cut [II / 10%]
+
+| Passive 12 icon = MP Gauge Increased On Battle Start
+| Passive 12 name = Fast Mana Up
+| Passive 12 name JP = ファスト・マナアップ
+| Passive 12 effect = MP Gauge Increased On Battle Start [15% full]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Endure
+| Active 1 name = HFortitude Soul [VI]
+| Active 1 name JP = Hフォティチュード・ソウル[Ⅵ]
+| Active 1 effect = Endure [100%] (Self / 1 Turn) & Defense Up [VI / 45%] (Self / 1 Turn)
+| Active 1 cooldown = 8
+
+| Connect name JP = やることなくなっちゃったよ
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = HP Restore
+| Connect effect 1 = HP Restore
+| Connect 1 / 1 = VII / 45%
+| Connect 1 / 2 = IX / 50%
+| Connect 1 / 3 = IX / 50%
+| Connect effect 2 = Attack Down
+| Connect 2 / 1 = V / 15%
+| Connect 2 / 2 = V / 15%
+| Connect 2 / 3 = III / 10%
+| Connect effect 3 = Defense Down
+| Connect 3 / 1 = V / 15%
+| Connect 3 / 2 = V / 15%
+| Connect 3 / 3 = III / 10%
+| Connect effect 4 = Attack Up
+| Connect 4 / 1 = V / 15%
+| Connect 4 / 2 = V / 30%
+| Connect 4 / 3 = III / 25%
+| Connect effect 5 = Defense Up
+| Connect 5 / 1 = V / 15%
+| Connect 5 / 2 = V / 30%
+| Connect 5 / 3 = III / 25%
+
+| Magia name JP = まどカリバー
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = III / 1024%
+| Magia 1 / 2 = V / 1088%
+| Magia 1 / 3 = VII / 1152%
+| Magia effect 2 = Chance to Stun
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = One / 1 Turn / III / 30%
+| Magia 2 / 2 = One / 1 Turn / V / 35%
+| Magia 2 / 3 = One / 1 Turn / VII / 40%
+| Magia effect 3 = Chance to Provoke
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = Self / 1 Turn / III / 100%
+| Magia 3 / 2 = Self / 1 Turn / V / 100%
+| Magia 3 / 3 = Self / 1 Turn / VII / 100%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 慈悲のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、退去
+| Doppel Japanese Designer = 原案・監修：PAPA、劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [IX / 902%] & Chance to Stun [IX / 40% / All / 1 Turn] & Chance to Provoke [IX / 100% / Self / 1 Turn]
+}}

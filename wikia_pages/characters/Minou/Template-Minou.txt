@@ -1,0 +1,186 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Minou
+| name_jp = ミヌゥ
+| name_na = 
+| element = Light
+| base_rarity = 4
+| max_rarity = 5
+| id = 4024
+| type = Magia
+| growth_type = ATKDEF
+| school_jp = ―
+| voice_actor_jp = 田中理恵
+| designer_jp = 枡狐/蛙空
+| memoria = 
+| release_date = 2021-05-24
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 0
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 5411
+| 4star_attack_lv1 = 2021
+| 4star_defense_lv1 = 1641
+| 4star_hp_max = 19338
+| 4star_attack_max = 7380
+| 4star_defense_max = 5950
+| 4star_illustrator_jp = 枡狐/蛙空
+
+| 5star_hp_lv1 = 6125
+| 5star_attack_lv1 = 2279
+| 5star_defense_lv1 = 1813
+| 5star_hp_max = 24316
+| 5star_attack_max = 9252
+| 5star_defense_max = 7306
+| 5star_illustrator_jp = 枡狐/蛙空
+
+| se_hp_bonus = 5827
+| se_attack_bonus = 2622
+| se_defense_bonus = 2487
+
+| se accele bonus = 6
+| se blast bonus = 4
+| se charge bonus = 8
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [III]
+| Passive 2 name JP = ドッペル・アデプト[Ⅲ]
+| Passive 2 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [IV]
+| Passive 3 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 3 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
+
+| Passive 4 icon = MP Gain Up When Over 100 MP
+| Passive 4 name = MP Boost [II]
+| Passive 4 name JP = MPブースト[Ⅱ]
+| Passive 4 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 5 icon = Chance to Anti-Magia Seal
+| Passive 5 name = Anti-Magia Seal
+| Passive 5 name JP = アンチ・シールマギア
+| Passive 5 effect = Chance to Anti-Magia Seal [100%]
+
+| Passive 6 icon = Magia Damage Up
+| Passive 6 name = Magia Adept [II]
+| Passive 6 name JP = マギア・アデプト[Ⅱ]
+| Passive 6 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 7 icon = Magia Damage Up
+| Passive 7 name = Magia Adept [III]
+| Passive 7 name JP = マギア・アデプト[Ⅲ]
+| Passive 7 effect = Magia Damage Up [III / 10%]
+
+| Passive 8 icon = Charge Disc Damage Up
+| Passive 8 name = Technical Adept [II]
+| Passive 8 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 8 effect = Charge Disc Damage Up [II / 10%]
+
+| Passive 9 icon = Chance to Charm on Attack
+| Passive 9 name = Charm Edge [II]
+| Passive 9 name JP = チャーム・エッジ[Ⅱ]
+| Passive 9 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
+
+| Passive 10 icon = MP Gain Up When Over 100 MP
+| Passive 10 name = MP Boost [II]
+| Passive 10 name JP = MPブースト[Ⅱ]
+| Passive 10 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 11 icon = MP Gauge Increased On Battle Start
+| Passive 11 name = Fast Mana Up
+| Passive 11 name JP = ファスト・マナアップ
+| Passive 11 effect = MP Gauge Increased On Battle Start [15% full]
+
+| Passive 12 icon = Damage Cut
+| Passive 12 name = Shield Adept [II]
+| Passive 12 name JP = シールド・アデプト[Ⅱ]
+| Passive 12 effect = Damage Cut [II / 10%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Status Ailment Resistance Down
+| Active 1 name = Mesmerize デトネイト [I]
+| Active 1 name JP = メズマライズ・デトネイト[Ⅰ]
+| Active 1 effect = Status Ailment Resistance Down [VII / 20%] (All / 1 Turn) & Chance to Dazzle [III / 35%] (All / 1 Turn) & MP Damage [I / 15 MP] (All / 1 Turn)
+| Active 1 cooldown = 11
+
+| Connect name JP = 退屈はさせませんわ
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VIII / 37.5%
+| Connect 1 / 2 = X / 42.5%
+| Connect effect 2 = Chance to Dazzle on Attack
+| Connect 2 / 1 = VIII / 100%
+| Connect 2 / 2 = X / 100%
+| Connect effect 3 = Chance to Charm on Attack
+| Connect 3 / 1 = VIII / 80%
+| Connect 3 / 2 = X / 100%
+
+| Magia name JP = シャ・ア・ヌフクゥ
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = VI / 896%
+| Magia 1 / 2 = VIII / 960%
+| Magia effect 2 = MP Gain Down
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = One / 3 Turns / VI / 30%
+| Magia 2 / 2 = One / 3 Turns / VIII / 40%
+| Magia effect 3 = MP Damage
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = One / VI / 80 MP
+| Magia 3 / 2 = One / VIII / 90 MP
+| Magia effect 4 = Magia Damage Up
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = All / 3 Turns / VI / 18%
+| Magia 4 / 2 = All / 3 Turns / VIII / 22%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 加虐のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、悪戯猫
+| Doppel Japanese Designer = 原案・監修：枡狐/蛙空
+| Doppel effect = Damage One Enemy [X / 2340.8%] & MP Gain Down [X / 60% / One / 5 Turns] & MP Damage [X / 100 MP / One] & Magia Damage Up [X / 36% / All / 5 Turns]
+}}

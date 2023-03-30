@@ -1,0 +1,190 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Miura Asahi
+| name_jp = 三浦 旭
+| name_na = 
+| element = Dark
+| base_rarity = 4
+| max_rarity = 5
+| id = 1034
+| type = Support
+| growth_type = HP
+| school_jp = 湯国市立湯国学園
+| voice_actor_jp = 入江麻衣子
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2022-01-28
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 0
+| blast_hori_disks = 1
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 6552
+| 4star_attack_lv1 = 1864
+| 4star_defense_lv1 = 1902
+| 4star_hp_max = 24268
+| 4star_attack_max = 6565
+| 4star_defense_max = 6748
+| 4star_illustrator_jp = 蒼樹うめ
+
+| 5star_hp_lv1 = 7362
+| 5star_attack_lv1 = 2098
+| 5star_defense_lv1 = 2141
+| 5star_hp_max = 30331
+| 5star_attack_max = 8203
+| 5star_defense_max = 8435
+| 5star_illustrator_jp = 一十九二
+
+| se_hp_bonus = 6833
+| se_attack_bonus = 2375
+| se_defense_bonus = 2556
+
+| se accele bonus = 6
+| se blast bonus = 4
+| se charge bonus = 8
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Chance to Skill Quicken
+| Passive 3 name = Skill Quicken [II]
+| Passive 3 name JP = スキルクイック[Ⅱ]
+| Passive 3 effect = Chance to Skill Quicken [II / 10%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Endure
+| Passive 6 name = Fortitude Adept
+| Passive 6 name JP = フォティチュード・アデプト
+| Passive 6 effect = Endure [100%]
+
+| Passive 7 icon = Damage Cut
+| Passive 7 name = Shield Adept [II]
+| Passive 7 name JP = シールド・アデプト[Ⅱ]
+| Passive 7 effect = Damage Cut [II / 10%]
+
+| Passive 8 icon = Accele MP Gain Up
+| Passive 8 name = Accele Adept [II]
+| Passive 8 name JP = アクセル・アデプト[Ⅱ]
+| Passive 8 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 9 icon = Attack Up When Ally Dies
+| Passive 9 name = フューリィ Adept [III]
+| Passive 9 name JP = フューリィ・アデプト[Ⅲ]
+| Passive 9 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]
+
+| Passive 10 icon = Chance to Curse on Attack
+| Passive 10 name = Curse Edge [III]
+| Passive 10 name JP = カース・エッジ[Ⅲ]
+| Passive 10 effect = Chance to Curse on Attack [III / 20%] (1 Turn)
+
+| Passive 11 icon = Chance to Anti-Magia Seal
+| Passive 11 name = Anti-Magia Seal
+| Passive 11 name JP = アンチ・シールマギア
+| Passive 11 effect = Chance to Anti-Magia Seal [100%]
+
+| Passive 12 icon = MP Gauge Increased On Battle Start
+| Passive 12 name = Fast Mana Up
+| Passive 12 name JP = ファスト・マナアップ
+| Passive 12 effect = MP Gauge Increased On Battle Start [15% full]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Regenerate HP
+| Active 1 name = ニートネス [II]
+| Active 1 name JP = ニートネス[Ⅱ]
+| Active 1 effect = Regenerate HP [II / 3%] (All / 3 Turns) & Status Ailment Resistance Up [II / 15%] (All / 3 Turns)
+| Active 1 cooldown = 10
+
+| Connect name JP = 手を貸すでありますよ
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Survive
+| Connect 2 / 1 = VII / 20%
+| Connect 2 / 2 = IX / 20%
+| Connect effect 3 = Chance to Guardian
+| Connect 3 / 1 = VII / 100%
+| Connect 3 / 2 = IX / 100%
+
+| Magia name JP = 突貫！絶対必中弾雨
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 864%
+| Magia 1 / 2 = VII / 928%
+| Magia effect 2 = Revive one Ally
+| Magia scaling 2 = 1%
+| Magia 2 / 1 = 25%
+| Magia 2 / 2 = 30%
+| Magia effect 3 = Defense Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All / 3 Turns / V / 41.3%
+| Magia 3 / 2 = All / 3 Turns / VII / 48.8%
+| Magia effect 4 = Chance to Anti-Debuff
+| Magia scaling 4 = 0%
+| Magia 4 / 1 = All / 3 Turns / 100%
+| Magia 4 / 2 = All / 3 Turns / 100%
+| Magia effect 5 = Negate Status Ailments
+| Magia scaling 5 = 0%
+| Magia 5 / 1 = All / 3 Turns / V / 100%
+| Magia 5 / 2 = All / 3 Turns / VII / 100%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 保障のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、砦
+| Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Revive one Ally [54%] & Defense Up [IX / 66.3% / All / 5 Turns] & Chance to Anti-Debuff [100% / All / 5 Turns] & Negate Status Ailments [IX / 100% / All / 5 Turns]
+}}

@@ -1,0 +1,188 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Tokiwa Nanaka
+| name_jp = 常盤 ななか
+| name_na = 
+| element = Aqua
+| base_rarity = 3
+| max_rarity = 5
+| id = 3005
+| type = Balance
+| growth_type = ATKHP
+| school_jp = 参京院教育学園
+| voice_actor_jp = M・A・O
+| designer_jp = 鮠水ちか
+| memoria = 
+| release_date = 2017-08-22
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 1
+| blast_vert_disks = 3
+| blast_hori_disks = 0
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 4625
+| 3star_attack_lv1 = 1484
+| 3star_defense_lv1 = 1476
+| 3star_hp_max = 15947
+| 3star_attack_max = 5081
+| 3star_defense_max = 4982
+| 3star_illustrator_jp = 鮠水ちか
+
+| 4star_hp_lv1 = 5680
+| 4star_attack_lv1 = 1822
+| 4star_defense_lv1 = 1813
+| 4star_hp_max = 20743
+| 4star_attack_max = 6606
+| 4star_defense_max = 6479
+| 4star_illustrator_jp = 鮠水ちか
+
+| 5star_hp_lv1 = 6071
+| 5star_attack_lv1 = 2019
+| 5star_defense_lv1 = 1964
+| 5star_hp_max = 24648
+| 5star_attack_max = 8136
+| 5star_defense_max = 7797
+| 5star_illustrator_jp = 鮠水ちか
+
+| se_hp_bonus = 5611
+| se_attack_bonus = 1269
+| se_defense_bonus = 2880
+
+| se accele bonus = 4
+| se blast bonus = 6
+| se charge bonus = 8
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Accele MP Gain Up
+| Passive 5 name = Accele Adept [V]
+| Passive 5 name JP = アクセル・アデプト[Ⅴ]
+| Passive 5 effect = Accele MP Gain Up [V / 20%]
+
+| Passive 6 icon = Blast Damage Up
+| Passive 6 name = Blast Adept [II]
+| Passive 6 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 6 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 7 icon = Charged Attack Damage Up
+| Passive 7 name = Charge Adept [II]
+| Passive 7 name JP = チャージ・アデプト[Ⅱ]
+| Passive 7 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 8 icon = Damage Cut
+| Passive 8 name = Shield Adept [II]
+| Passive 8 name JP = シールド・アデプト[Ⅱ]
+| Passive 8 effect = Damage Cut [II / 10%]
+
+| Passive 9 icon = Charged Attack Damage Up
+| Passive 9 name = Charge Adept [II]
+| Passive 9 name JP = チャージ・アデプト[Ⅱ]
+| Passive 9 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 10 icon = Chance to Critical Hit
+| Passive 10 name = Critical Adept [II]
+| Passive 10 name JP = クリティカル・アデプト[Ⅱ]
+| Passive 10 effect = Chance to Critical Hit [II / 15%]
+
+| Passive 11 icon = MP Gain Up
+| Passive 11 name = Morale Adept [III]
+| Passive 11 name JP = モラール・アデプト[Ⅲ]
+| Passive 11 effect = MP Gain Up [III / 10%]
+
+| Passive 12 icon = Chance to Anti-Evade
+| Passive 12 name = Aiming Adept [III]
+| Passive 12 name JP = エイミング・アデプト[Ⅲ]
+| Passive 12 effect = Chance to Anti-Evade [III / 35%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Chance to Critical Hit
+| Active 1 name = Invisible Strike [V]
+| Active 1 name JP = インビジブル・ストライク[Ⅴ]
+| Active 1 effect = Chance to Critical Hit [V / 30%] (Self / 1 Turn) & Chance to Anti-Evade [V / 100%] (Self / 1 Turn)
+| Active 1 cooldown = 6
+
+| Connect name JP = この策はいかがでしょうか？
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Blast Damage Up
+| Connect effect 1 = Blast Damage Up
+| Connect 1 / 1 = V / 60%
+| Connect 1 / 2 = VII / 70%
+| Connect 1 / 3 = VIII / 75%
+| Connect effect 2 = Attack Up
+| Connect 2 / 1 = V / 30%
+| Connect 2 / 2 = VII / 35%
+| Connect 2 / 3 = VIII / 37.5%
+| Connect effect 3 = Remove Debuffs
+| Connect 3 / 1 = -
+| Connect 3 / 2 = -
+| Connect 3 / 3 = %
+
+| Magia name JP = 白椿
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = III / 320%
+| Magia 1 / 2 = V / 340%
+| Magia 1 / 3 = VII / 360%
+| Magia effect 2 = Defense Down
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / III / 20%
+| Magia 2 / 2 = All / 3 Turns / V / 25%
+| Magia 2 / 3 = All / 3 Turns / VII / 25%
+| Magia effect 3 = Remove Buffs
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = All / %
+| Magia 3 / 3 = All / %
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 表裏のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、暖簾
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Down [IX / 32.5% / All / 3 Turns] & Defense Down [IX / 37.5% / All / 3 Turns] & Remove Buffs [% / All]
+}}

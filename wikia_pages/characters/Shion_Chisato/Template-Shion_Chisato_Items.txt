@@ -1,0 +1,113 @@
+﻿{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{
+        13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{
+        {28|}}}|{{{29|}}}|{{{30|}}}
+|name = Shion Chisato
+|Magia Item 2/1 = Aqua Book
+|Magia quantity 2/1 = 4
+|Magia Item 2/2 = Rooftop Key
+|Magia quantity 2/2 = 4
+|Magia Item 2/3 = Aqua Book +
+|Magia quantity 2/3 = 2
+|Magia Item 2/4 = Ema's Mizuhiki
+|Magia quantity 2/4 = 2
+
+|Magia Item 5/1 = Aqua Book
+|Magia quantity 5/1 = 10
+|Magia Item 5/2 = Ikigami's Hairball
+|Magia quantity 5/2 = 10
+|Magia Item 5/3 = Aqua Book +
+|Magia quantity 5/3 = 8
+|Magia Item 5/4 = Mail Glider
+|Magia quantity 5/4 = 4
+|Magia Item 5/5 = Aqua Book ++
+|Magia quantity 5/5 = 6
+|Magia Item 5/6 = Pendulum Bob
+|Magia quantity 5/6 = 6
+
+|Magia Item 3/1 = Aqua Book
+|Magia quantity 3/1 = 6
+|Magia Item 3/2 = Ikigami's Hairball
+|Magia quantity 3/2 = 6
+|Magia Item 3/3 = Aqua Book +
+|Magia quantity 3/3 = 4
+|Magia Item 3/4 = Mail Glider
+|Magia quantity 3/4 = 4
+|Magia Item 3/5 = Aqua Book ++
+|Magia quantity 3/5 = 2
+|Magia Item 3/6 = Rooftop Balloons
+|Magia quantity 3/6 = 2
+
+|Magia Item 4/1 = Aqua Book
+|Magia quantity 4/1 = 8
+|Magia Item 4/2 = Standing Ear Wrapper
+|Magia quantity 4/2 = 8
+|Magia Item 4/3 = Aqua Book +
+|Magia quantity 4/3 = 6
+|Magia Item 4/4 = Staff Keyswitch
+|Magia quantity 4/4 = 6
+|Magia Item 4/5 = Aqua Book ++
+|Magia quantity 4/5 = 4
+|Magia Item 4/6 = Machibito Horse's Wheel
+|Magia quantity 4/6 = 4
+
+
+|Item12 = Aqua Orb
+|Quantity12 = 9
+|BuffATK1 = 4
+|Item13 = Aqua Orb +
+|Quantity13 = 7
+|BuffDEF1 = 4
+|Item11 = Aqua Orb ++
+|Quantity11 = 4
+|BuffHP1 = 7
+|Item16 = Ikigami's Hairball
+|Quantity16 = 8
+|BuffAccele1 = 3
+|Item14 = Curator's Hood
+|Quantity14 = 3
+|BuffBlast1 = 5
+|Item15 = Rooftop Balloons
+|Quantity15 = 2
+|BuffCharge1 = 5
+
+|Item22 = Aqua Orb +
+|Quantity22 = 12
+|BuffATK2 = 5
+|Item23 = Aqua Orb ++
+|Quantity23 = 6
+|BuffDEF2 = 5
+|Item21 = Rainbow Orb
+|Quantity21 = 3
+|BuffHP2 = 8
+|Item26 = Blowing Horn
+|Quantity26 = 12
+|BuffAccele2 = 4
+|Item24 = Mail Glider
+|Quantity24 = 8
+|BuffBlast2 = 6
+|Item25 = Pendulum Bob
+|Quantity25 = 6
+|BuffCharge2 = 6
+
+|Item32 = Aqua Orb +
+|Quantity32 = 15
+|BuffATK3 = 6
+|Item33 = Aqua Orb ++
+|Quantity33 = 10
+|BuffDEF3 = 6
+|Item31 = Rainbow Orb
+|Quantity31 = 3
+|BuffHP3 = 9
+|Item36 = Ikigami's Hairball
+|Quantity36 = 15
+|BuffAccele3 = 5
+|Item34 = Curator's Hood
+|Quantity34 = 10
+|BuffBlast3 = 7
+|Item35 = Pendulum Bob
+|Quantity35 = 8
+|BuffCharge3 = 7
+
+|QuantityCC1 = 300000
+|QuantityCC2 = 1000000
+}}

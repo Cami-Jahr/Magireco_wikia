@@ -1,0 +1,188 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Senjougahara Hitagi
+| name_jp = 戦場ヶ原 ひたぎ
+| name_na = 
+| element = Dark
+| base_rarity = 3
+| max_rarity = 5
+| id = 4041
+| type = Attack
+| growth_type = HP
+| school_jp = 私立直江津高校
+| voice_actor_jp = 斎藤千和
+| designer_jp = 渡辺明夫
+| memoria = 
+| release_date = 2018-09-25
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 1
+| blast_vert_disks = 2
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 4190
+| 3star_attack_lv1 = 1551
+| 3star_defense_lv1 = 1260
+| 3star_hp_max = 14648
+| 3star_attack_max = 5161
+| 3star_defense_max = 4223
+| 3star_illustrator_jp = -
+
+| 4star_hp_lv1 = 5226
+| 4star_attack_lv1 = 1873
+| 4star_defense_lv1 = 1562
+| 4star_hp_max = 19357
+| 4star_attack_max = 6596
+| 4star_defense_max = 5541
+| 4star_illustrator_jp = ササギコウシ
+
+| 5star_hp_lv1 = 5755
+| 5star_attack_lv1 = 2079
+| 5star_defense_lv1 = 1735
+| 5star_hp_max = 23710
+| 5star_attack_max = 8128
+| 5star_defense_max = 6835
+| 5star_illustrator_jp = 渡辺明夫
+
+| se_hp_bonus = 3552
+| se_attack_bonus = 1353
+| se_defense_bonus = 2049
+
+| se accele bonus = 4
+| se blast bonus = 6
+| se charge bonus = 8
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [I]
+| Passive 3 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up
+| Passive 5 name = Morale Adept [II]
+| Passive 5 name JP = モラール・アデプト[Ⅱ]
+| Passive 5 effect = MP Gain Up [II / 7.5%]
+
+| Passive 6 icon = Chance to Evade
+| Passive 6 name = Parry Adept [II]
+| Passive 6 name JP = パリィ・アデプト[Ⅱ]
+| Passive 6 effect = Chance to Evade [II / 15%]
+
+| Passive 7 icon = Chance to Anti-Poison
+| Passive 7 name = Anti-Poison
+| Passive 7 name JP = アンチ・ポイズン
+| Passive 7 effect = Chance to Anti-Poison [100%]
+
+| Passive 8 icon = Accele MP Gain Up
+| Passive 8 name = Accele Adept [II]
+| Passive 8 name JP = アクセル・アデプト[Ⅱ]
+| Passive 8 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 9 icon = Chance to Poison on Attack
+| Passive 9 name = Poison Edge [III]
+| Passive 9 name JP = ポイズン・エッジ[Ⅲ]
+| Passive 9 effect = Chance to Poison on Attack [III / 20%] (3 Turns)
+
+| Passive 10 icon = Damage Cut
+| Passive 10 name = Shield Adept [II]
+| Passive 10 name JP = シールド・アデプト[Ⅱ]
+| Passive 10 effect = Damage Cut [II / 10%]
+
+| Passive 11 icon = Blast Damage Up
+| Passive 11 name = Blast Adept [II]
+| Passive 11 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 11 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 12 icon = Chance to Critical Hit
+| Passive 12 name = Critical Adept [II]
+| Passive 12 name JP = クリティカル・アデプト[Ⅱ]
+| Passive 12 effect = Chance to Critical Hit [II / 15%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Chance to Poison
+| Active 1 name = Venom [XII]
+| Active 1 name JP = ヴェノム[XII]
+| Active 1 effect = Chance to Poison [XII / 80%] (One / 1 Turn)
+| Active 1 cooldown = 9
+
+| Connect name JP = ツンデレサービス
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = IV / 27.5%
+| Connect 1 / 2 = VI / 32.5%
+| Connect 1 / 3 = VIII / 37.5%
+| Connect effect 2 = Chance to Poison on Attack
+| Connect 2 / 1 = IV / 100%
+| Connect 2 / 2 = VI / 100%
+| Connect 2 / 3 = VIII / 100%
+| Connect effect 3 = Damage Cut
+| Connect 3 / 1 = IV / 45%
+| Connect 3 / 2 = VI / 55%
+| Connect 3 / 3 = VIII / 65%
+
+| Magia name JP = グラビティ・グラフティ
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = III / 320%
+| Magia 1 / 2 = V / 340%
+| Magia 1 / 3 = VII / 360%
+| Magia effect 2 = Chance to Skill Seal
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = All / 1 Turn / III / 35%
+| Magia 2 / 2 = All / 1 Turn / V / 40%
+| Magia 2 / 3 = All / 1 Turn / VII / 40%
+| Magia effect 3 = Attack Down
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = All / 1 Turn / V / 25%
+| Magia 3 / 3 = All / 2 Turns / VII / 25%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = ツンドラのドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、おもし蟹
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Down [IX / 40% / All / 2 Turns] & Chance to Skill Seal [IX / 100% / All / 1 Turn]
+}}

@@ -1,0 +1,97 @@
+﻿{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{
+        13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{
+        {28|}}}|{{{29|}}}|{{{30|}}}
+|name = Satori Kagome
+|Magia Item 2/1 = Forest Book
+|Magia quantity 2/1 = 5
+|Magia Item 2/2 = Mirror Invitation Letter
+|Magia quantity 2/2 = 5
+|Magia Item 2/3 = Forest Book +
+|Magia quantity 2/3 = 3
+|Magia Item 2/4 = Ema's Mizuhiki
+|Magia quantity 2/4 = 3
+|Magia Item 2/5 = Forest Book ++
+|Magia quantity 2/5 = 1
+|Magia Item 2/6 = Rhyton Ribbon
+|Magia quantity 2/6 = 1
+
+|Magia Item 5/1 = Forest Book
+|Magia quantity 5/1 = 11
+|Magia Item 5/2 = Ikigami's Hairball
+|Magia quantity 5/2 = 11
+|Magia Item 5/3 = Forest Book +
+|Magia quantity 5/3 = 9
+|Magia Item 5/4 = Rhyton Ribbon
+|Magia quantity 5/4 = 5
+|Magia Item 5/5 = Forest Book ++
+|Magia quantity 5/5 = 7
+|Magia Item 5/6 = Ikigami's Water Jug
+|Magia quantity 5/6 = 7
+
+|Magia Item 3/1 = Forest Book
+|Magia quantity 3/1 = 7
+|Magia Item 3/2 = Ikigami's Hairball
+|Magia quantity 3/2 = 7
+|Magia Item 3/3 = Forest Book +
+|Magia quantity 3/3 = 5
+|Magia Item 3/4 = Wanderer's Straw
+|Magia quantity 3/4 = 5
+|Magia Item 3/5 = Forest Book ++
+|Magia quantity 3/5 = 3
+|Magia Item 3/6 = Sheep Horn
+|Magia quantity 3/6 = 3
+
+|Magia Item 4/1 = Forest Book
+|Magia quantity 4/1 = 9
+|Magia Item 4/2 = Blowing Horn
+|Magia quantity 4/2 = 9
+|Magia Item 4/3 = Forest Book +
+|Magia quantity 4/3 = 7
+|Magia Item 4/4 = Chain of Padlock
+|Magia quantity 4/4 = 7
+|Magia Item 4/5 = Forest Book ++
+|Magia quantity 4/5 = 5
+|Magia Item 4/6 = Big Ferris Turbine
+|Magia quantity 4/6 = 5
+
+
+|Item12 = Forest Orb +
+|Quantity12 = 12
+|BuffATK1 = 5
+|Item13 = Forest Orb ++
+|Quantity13 = 6
+|BuffDEF1 = 5
+|Item11 = Rainbow Orb
+|Quantity11 = 3
+|BuffHP1 = 8
+|Item16 = Mail Glider
+|Quantity16 = 8
+|BuffAccele1 = 6
+|Item14 = Rooftop Key
+|Quantity14 = 12
+|BuffBlast1 = 4
+|Item15 = Pendulum Bob
+|Quantity15 = 6
+|BuffCharge1 = 6
+
+|Item22 = Forest Orb +
+|Quantity22 = 15
+|BuffATK2 = 6
+|Item23 = Forest Orb ++
+|Quantity23 = 10
+|BuffDEF2 = 6
+|Item21 = Rainbow Orb
+|Quantity21 = 3
+|BuffHP2 = 9
+|Item26 = Big Ferris Turbine
+|Quantity26 = 10
+|BuffAccele2 = 7
+|Item24 = Ikigami's Hairball
+|Quantity24 = 15
+|BuffBlast2 = 5
+|Item25 = Rooftop Balloons
+|Quantity25 = 8
+|BuffCharge2 = 7
+
+|QuantityCC1 = 1000000
+}}

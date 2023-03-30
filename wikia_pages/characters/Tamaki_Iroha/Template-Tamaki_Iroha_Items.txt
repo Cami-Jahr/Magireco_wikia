@@ -1,0 +1,133 @@
+﻿{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{
+        13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{
+        {28|}}}|{{{29|}}}|{{{30|}}}
+|name = Tamaki Iroha
+|Magia Item 2/1 = Light Book
+|Magia quantity 2/1 = 2
+|Magia Item 2/2 = Feather of a Swallow's Tail
+|Magia quantity 2/2 = 2
+
+|Magia Item 5/1 = Light Book
+|Magia quantity 5/1 = 8
+|Magia Item 5/2 = Mirror Invitation Letter
+|Magia quantity 5/2 = 8
+|Magia Item 5/3 = Light Book +
+|Magia quantity 5/3 = 6
+|Magia Item 5/4 = Sandbox Shovels
+|Magia quantity 5/4 = 2
+|Magia Item 5/5 = Light Book ++
+|Magia quantity 5/5 = 4
+|Magia Item 5/6 = Standing Ear Cotton
+|Magia quantity 5/6 = 4
+
+|Magia Item 3/1 = Light Book
+|Magia quantity 3/1 = 4
+|Magia Item 3/2 = Standing Ear Wrapper
+|Magia quantity 3/2 = 4
+|Magia Item 3/3 = Light Book +
+|Magia quantity 3/3 = 2
+|Magia Item 3/4 = Sandbox Scallop
+|Magia quantity 3/4 = 2
+
+|Magia Item 4/1 = Light Book
+|Magia quantity 4/1 = 6
+|Magia Item 4/2 = Rooftop Key
+|Magia quantity 4/2 = 6
+|Magia Item 4/3 = Light Book +
+|Magia quantity 4/3 = 4
+|Magia Item 4/4 = Sandbox Scallop
+|Magia quantity 4/4 = 4
+|Magia Item 4/5 = Light Book ++
+|Magia quantity 4/5 = 2
+|Magia Item 4/6 = Sandbox Shovels
+|Magia quantity 4/6 = 2
+
+
+|Item12 = Light Orb
+|Quantity12 = 2
+|BuffATK1 = 2
+|Item14 = Feather of a Swallow's Tail
+|Quantity14 = 2
+|BuffBlast1 = 1
+
+|Item22 = Light Orb
+|Quantity22 = 6
+|BuffATK2 = 3
+|Item23 = Light Orb ++
+|Quantity23 = 2
+|BuffDEF2 = 5
+|Item21 = Light Orb +
+|Quantity21 = 4
+|BuffHP2 = 4
+|Item26 = Sandbox Shovels
+|Quantity26 = 1
+|BuffAccele2 = 4
+|Item24 = Sandbox Scallop
+|Quantity24 = 3
+|BuffBlast2 = 4
+|Item25 = Rooftop Key
+|Quantity25 = 5
+|BuffCharge2 = 2
+
+|Item32 = Light Orb
+|Quantity32 = 9
+|BuffATK3 = 4
+|Item33 = Light Orb ++
+|Quantity33 = 4
+|BuffDEF3 = 6
+|Item31 = Light Orb +
+|Quantity31 = 7
+|BuffHP3 = 5
+|Item36 = Rainbow Orb
+|Quantity36 = 2
+|BuffAccele3 = 5
+|Item34 = Sandbox Shovels
+|Quantity34 = 3
+|BuffBlast3 = 5
+|Item35 = Mirror Invitation Letter
+|Quantity35 = 8
+|BuffCharge3 = 3
+
+|Item42 = Light Orb +
+|Quantity42 = 12
+|BuffATK4 = 5
+|Item43 = Rainbow Orb
+|Quantity43 = 3
+|BuffDEF4 = 7
+|Item41 = Light Orb ++
+|Quantity41 = 6
+|BuffHP4 = 6
+|Item46 = Sheep Horn
+|Quantity46 = 6
+|BuffAccele4 = 6
+|Item44 = Sandbox Scallop
+|Quantity44 = 8
+|BuffBlast4 = 6
+|Item45 = Blowing Horn
+|Quantity45 = 12
+|BuffCharge4 = 4
+
+|Item52 = Light Orb +
+|Quantity52 = 15
+|BuffATK5 = 6
+|Item53 = Rainbow Orb
+|Quantity53 = 3
+|BuffDEF5 = 8
+|Item51 = Light Orb ++
+|Quantity51 = 10
+|BuffHP5 = 7
+|Item56 = Machibito Horse's Wheel
+|Quantity56 = 8
+|BuffAccele5 = 7
+|Item54 = Speaker's Bell
+|Quantity54 = 10
+|BuffBlast5 = 7
+|Item55 = Staff Keyswitch
+|Quantity55 = 15
+|BuffCharge5 = 5
+
+|QuantityCC1 = 10000
+|QuantityCC2 = 100000
+|QuantityCC3 = 300000
+|QuantityCC4 = 1000000
+}}

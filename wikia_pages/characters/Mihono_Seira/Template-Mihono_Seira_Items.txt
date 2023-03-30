@@ -1,0 +1,97 @@
+﻿{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{
+        13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{
+        {28|}}}|{{{29|}}}|{{{30|}}}
+|name = Mihono Seira
+|Magia Item 2/1 = Flame Book
+|Magia quantity 2/1 = 5
+|Magia Item 2/2 = Feather of a Swallow's Tail
+|Magia quantity 2/2 = 5
+|Magia Item 2/3 = Flame Book +
+|Magia quantity 2/3 = 3
+|Magia Item 2/4 = Ema's Mizuhiki
+|Magia quantity 2/4 = 3
+|Magia Item 2/5 = Flame Book ++
+|Magia quantity 2/5 = 1
+|Magia Item 2/6 = Monster's Horn
+|Magia quantity 2/6 = 2
+
+|Magia Item 5/1 = Flame Book
+|Magia quantity 5/1 = 11
+|Magia Item 5/2 = Blowing Horn
+|Magia quantity 5/2 = 11
+|Magia Item 5/3 = Flame Book +
+|Magia quantity 5/3 = 9
+|Magia Item 5/4 = Speaker's Bell
+|Magia quantity 5/4 = 5
+|Magia Item 5/5 = Flame Book ++
+|Magia quantity 5/5 = 7
+|Magia Item 5/6 = Standing Ear Cotton
+|Magia quantity 5/6 = 7
+
+|Magia Item 3/1 = Flame Book
+|Magia quantity 3/1 = 7
+|Magia Item 3/2 = Mirror Invitation Letter
+|Magia quantity 3/2 = 7
+|Magia Item 3/3 = Flame Book +
+|Magia quantity 3/3 = 5
+|Magia Item 3/4 = Ema's Mizuhiki
+|Magia quantity 3/4 = 5
+|Magia Item 3/5 = Flame Book ++
+|Magia quantity 3/5 = 3
+|Magia Item 3/6 = Monster's Horn
+|Magia quantity 3/6 = 4
+
+|Magia Item 4/1 = Flame Book
+|Magia quantity 4/1 = 9
+|Magia Item 4/2 = Rooftop Key
+|Magia quantity 4/2 = 9
+|Magia Item 4/3 = Flame Book +
+|Magia quantity 4/3 = 7
+|Magia Item 4/4 = Owl Bucket
+|Magia quantity 4/4 = 7
+|Magia Item 4/5 = Flame Book ++
+|Magia quantity 4/5 = 5
+|Magia Item 4/6 = Monster's Horn
+|Magia quantity 4/6 = 7
+
+
+|Item12 = Flame Orb ++
+|Quantity12 = 4
+|BuffATK1 = 5
+|Item13 = Flame Orb +
+|Quantity13 = 7
+|BuffDEF1 = 5
+|Item11 = Flame Orb
+|Quantity11 = 9
+|BuffHP1 = 5
+|Item16 = Nanny's Pedestal
+|Quantity16 = 8
+|BuffAccele1 = 3
+|Item14 = Monster's Horn
+|Quantity14 = 7
+|BuffBlast1 = 5
+|Item15 = Rainbow Orb
+|Quantity15 = 2
+|BuffCharge1 = 5
+
+|Item22 = Rainbow Orb
+|Quantity22 = 3
+|BuffATK2 = 6
+|Item23 = Flame Orb ++
+|Quantity23 = 6
+|BuffDEF2 = 6
+|Item21 = Flame Orb +
+|Quantity21 = 12
+|BuffHP2 = 6
+|Item26 = Rooftop Key
+|Quantity26 = 12
+|BuffAccele2 = 4
+|Item24 = Owl Bucket
+|Quantity24 = 8
+|BuffBlast2 = 6
+|Item25 = Standing Ear Cotton
+|Quantity25 = 6
+|BuffCharge2 = 6
+
+|QuantityCC1 = 300000
+}}

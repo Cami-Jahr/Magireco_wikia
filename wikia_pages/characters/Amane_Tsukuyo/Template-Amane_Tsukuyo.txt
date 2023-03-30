@@ -1,0 +1,183 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Amane Tsukuyo
+| name_jp = 天音 月夜
+| name_na = 
+| element = Dark
+| base_rarity = 4
+| max_rarity = 5
+| id = 1018
+| type = Balance
+| growth_type = ATKDEF
+| school_jp = 水名女学園
+| voice_actor_jp = 内田真礼
+| designer_jp = 鮠水ちか
+| memoria = 
+| release_date = 2017-11-30
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 1
+| blast_vert_disks = 0
+| blast_hori_disks = 1
+| charge_disks = 3
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 5811
+| 4star_attack_lv1 = 1892
+| 4star_defense_lv1 = 1911
+| 4star_hp_max = 20768
+| 4star_attack_max = 6909
+| 4star_defense_max = 6929
+| 4star_illustrator_jp = 鮠水ちか
+
+| 5star_hp_lv1 = 6586
+| 5star_attack_lv1 = 2145
+| 5star_defense_lv1 = 2166
+| 5star_hp_max = 26146
+| 5star_attack_max = 8708
+| 5star_defense_max = 8728
+| 5star_illustrator_jp = 鮠水ちか
+
+| se_hp_bonus = 6689
+| se_attack_bonus = 2407
+| se_defense_bonus = 4058
+
+| se accele bonus = 3
+| se blast bonus = 3
+| se charge bonus = 4
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Charged Attack Damage Up
+| Passive 5 name = Charge Adept [II]
+| Passive 5 name JP = チャージ・アデプト[Ⅱ]
+| Passive 5 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 6 icon = Blast Damage Up
+| Passive 6 name = Blast Adept [III]
+| Passive 6 name JP = ブラスト・アデプト[Ⅲ]
+| Passive 6 effect = Blast Damage Up [III / 20%]
+
+| Passive 7 icon = MP Gain Up When Over 100 MP
+| Passive 7 name = MP Boost [II]
+| Passive 7 name JP = MPブースト[Ⅱ]
+| Passive 7 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 8 icon = Charge Disc Damage Up
+| Passive 8 name = Technical Adept [II]
+| Passive 8 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 8 effect = Charge Disc Damage Up [II / 10%]
+
+| Passive 9 icon = Accele MP Gain Up
+| Passive 9 name = Accele Adept [III]
+| Passive 9 name JP = アクセル・アデプト[Ⅲ]
+| Passive 9 effect = Accele MP Gain Up [III / 15%]
+
+| Passive 10 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
+| Passive 10 name = Charge Combo Plus [III]
+| Passive 10 name JP = チャージコンボプラス[Ⅲ]
+| Passive 10 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
+
+| Passive 11 icon = MP Gain Up
+| Passive 11 name = Morale Adept [II]
+| Passive 11 name JP = モラール・アデプト[Ⅱ]
+| Passive 11 effect = MP Gain Up [II / 7.5%]
+
+| Passive 12 icon = Charge Disc Damage Up
+| Passive 12 name = Technical Adept [II]
+| Passive 12 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 12 effect = Charge Disc Damage Up [II / 10%]
+
+| Passive 13 icon = MP Gauge Increased On Battle Start
+| Passive 13 name = Fast Mana Up
+| Passive 13 name JP = ファスト・マナアップ
+| Passive 13 effect = MP Gauge Increased On Battle Start [15% full]
+
+| Passive 14 icon = Damage Cut
+| Passive 14 name = Shield Adept [II]
+| Passive 14 name JP = シールド・アデプト[Ⅱ]
+| Passive 14 effect = Damage Cut [II / 10%]
+
+| Active 1 icon = Chance to Skill Seal
+| Active 1 name = Mute [IX]
+| Active 1 name JP = ミュート[Ⅸ]
+| Active 1 effect = Chance to Skill Seal [IX / 50%] (One / 1 Turn) & Chance to Magia Seal [V / 40%] (One / 1 Turn)
+| Active 1 cooldown = 10
+
+| Connect name JP = 共に奏でるでございます
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Charged Attack Damage Up
+| Connect effect 1 = Charged Attack Damage Up
+| Connect 1 / 1 = IX / 30%
+| Connect 1 / 2 = XI / 35%
+| Connect effect 2 = Chance to Critical Hit
+| Connect 2 / 1 = VII / 60%
+| Connect 2 / 2 = IX / 70%
+| Connect effect 3 = Attack Up
+| Connect 3 / 1 = VII / 25%
+| Connect 3 / 2 = IX / 30%
+
+| Magia name JP = 桜隠れ
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 315%
+| Magia 1 / 2 = VII / 335%
+| Magia effect 2 = Charged Attack Damage Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / V / 25%
+| Magia 2 / 2 = All / 5 Turns / VII / 30%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 隔絶のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、テラリウム
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [IX / 821%] & Charged Attack Damage Up [IX / 45% / All / 5 Turns]
+}}

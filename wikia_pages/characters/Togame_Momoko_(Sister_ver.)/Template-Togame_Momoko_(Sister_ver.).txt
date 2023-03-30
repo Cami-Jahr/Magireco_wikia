@@ -1,0 +1,182 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Togame Momoko (Sister ver.)
+| name_jp = 十咎 ももこ (シスターver.)
+| name_na = 
+| element = Light
+| base_rarity = 4
+| max_rarity = 5
+| id = 1110
+| type = Attack
+| growth_type = ATKDEF
+| school_jp = 神浜市立大附属学校
+| voice_actor_jp = 小松未可子
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2020-11-02
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 1
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 5428
+| 4star_attack_lv1 = 2335
+| 4star_defense_lv1 = 1774
+| 4star_hp_max = 19399
+| 4star_attack_max = 8527
+| 4star_defense_max = 6432
+| 4star_illustrator_jp = いもあん
+
+| 5star_hp_lv1 = 6039
+| 5star_attack_lv1 = 2467
+| 5star_defense_lv1 = 1966
+| 5star_hp_max = 23974
+| 5star_attack_max = 10016
+| 5star_defense_max = 7922
+| 5star_illustrator_jp = ぷにゃん
+
+| se_hp_bonus = 5796
+| se_attack_bonus = 2425
+| se_defense_bonus = 2568
+
+| se accele bonus = 4
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [I]
+| Passive 1 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 1 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 4 icon = MP Gain Up
+| Passive 4 name = Morale Adept [II]
+| Passive 4 name JP = モラール・アデプト[Ⅱ]
+| Passive 4 effect = MP Gain Up [II / 7.5%]
+
+| Passive 5 icon = Blast MP Gain Up
+| Passive 5 name = Blast Salutation [III]
+| Passive 5 name JP = ブラストサルテーション[Ⅲ]
+| Passive 5 effect = Blast MP Gain Up [III / 3%]
+
+| Passive 6 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
+| Passive 6 name = Charge Combo Plus [II]
+| Passive 6 name JP = チャージコンボプラス[Ⅱ]
+| Passive 6 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
+
+| Passive 7 icon = Blast Damage Up
+| Passive 7 name = Blast Adept [II]
+| Passive 7 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 7 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 8 icon = MP Gain Up When Over 100 MP
+| Passive 8 name = MP Boost [II]
+| Passive 8 name JP = MPブースト[Ⅱ]
+| Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 9 icon = Chance to Anti-Evade
+| Passive 9 name = Aiming Adept [III]
+| Passive 9 name JP = エイミング・アデプト[Ⅲ]
+| Passive 9 effect = Chance to Anti-Evade [III / 35%]
+
+| Passive 10 icon = Chance to Critical Hit
+| Passive 10 name = Critical Adept [II]
+| Passive 10 name JP = クリティカル・アデプト[Ⅱ]
+| Passive 10 effect = Chance to Critical Hit [II / 15%]
+
+| Passive 11 icon = Charge Disc Damage Up
+| Passive 11 name = Technical Adept [II]
+| Passive 11 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 11 effect = Charge Disc Damage Up [II / 10%]
+
+| Passive 12 icon = Charged Attack Damage Up
+| Passive 12 name = Charge Expert [IV]
+| Passive 12 name JP = チャージエキスパート[Ⅳ]
+| Passive 12 effect = Charged Attack Damage Up [IV / 15%] & Charge Disc Damage Up [II / 10%]
+
+| Passive 13 icon = Charge Disc Damage Up
+| Passive 13 name = Technical Adept [II]
+| Passive 13 name JP = テクニカル・アデプト[Ⅱ]
+| Passive 13 effect = Charge Disc Damage Up [II / 10%]
+
+| Active 1 icon = Charged Attack Damage Up
+| Active 1 name = アンブレイカブルCharge [III]
+| Active 1 name JP = アンブレイカブルチャージ[Ⅲ]
+| Active 1 effect = Charged Attack Damage Up [III / 10%] (Self / 1 Turn) & Charge Conservation [III / 100%] (Self / 1 Turn)
+| Active 1 cooldown = 10
+
+| Connect name JP = ふたりなら生命力も倍増さ
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Remove Debuffs
+| Connect 2 / 1 = %
+| Connect 2 / 2 = %
+| Connect effect 3 = Charge Conservation
+| Connect 3 / 1 = VII / 100%
+| Connect 3 / 2 = IX / 100%
+
+| Magia name JP = オープン・エクソシズムバスター
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 340%
+| Magia 1 / 2 = VII / 360%
+| Magia effect 2 = Dark Attribute Damage Cut
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = All / 3 Turns / V / 25%
+| Magia 2 / 2 = All / 3 Turns / VII / 35%
+| Magia effect 3 = Blast Damage Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All / 3 Turns / V / 35%
+| Magia 3 / 2 = All / 3 Turns / VII / 45%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 自戒のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、ネイル
+| Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [IX / 902%] & Dark Attribute Damage Cut [IX / 45% / All / 3 Turns] & Blast Damage Up [IX / 65% / All / 3 Turns] & Charge Conservation [IX / 100% / Self / 3 Turns]
+}}

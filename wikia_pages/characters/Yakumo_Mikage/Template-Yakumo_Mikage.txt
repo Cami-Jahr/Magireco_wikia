@@ -1,0 +1,182 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Yakumo Mikage
+| name_jp = 八雲 みかげ
+| name_na = 
+| element = Dark
+| base_rarity = 4
+| max_rarity = 5
+| id = 1038
+| type = Support
+| growth_type = BALANCE
+| school_jp = 大東学院
+| voice_actor_jp = 進藤あまね
+| designer_jp = ぷにゃん
+| memoria = 
+| release_date = 2020-11-16
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 3
+| blast_vert_disks = 0
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 6294
+| 4star_attack_lv1 = 1899
+| 4star_defense_lv1 = 1734
+| 4star_hp_max = 22658
+| 4star_attack_max = 6836
+| 4star_defense_max = 6242
+| 4star_illustrator_jp = ぷにゃん
+
+| 5star_hp_lv1 = 7104
+| 5star_attack_lv1 = 2122
+| 5star_defense_lv1 = 1931
+| 5star_hp_max = 28416
+| 5star_attack_max = 8488
+| 5star_defense_max = 7724
+| 5star_illustrator_jp = いもあん
+
+| se_hp_bonus = 5232
+| se_attack_bonus = 2001
+| se_defense_bonus = 2608
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 4
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [III]
+| Passive 2 name JP = ドッペル・アデプト[Ⅲ]
+| Passive 2 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [II]
+| Passive 3 name JP = MPブースト[Ⅱ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [IV]
+| Passive 4 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 4 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
+
+| Passive 5 icon = Magia Damage Up
+| Passive 5 name = Magia Adept [II]
+| Passive 5 name JP = マギア・アデプト[Ⅱ]
+| Passive 5 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 6 icon = Chance to Anti-Magia Seal
+| Passive 6 name = Anti-Magia Seal
+| Passive 6 name JP = アンチ・シールマギア
+| Passive 6 effect = Chance to Anti-Magia Seal [100%]
+
+| Passive 7 icon = Damage Cut
+| Passive 7 name = Shield Adept [II]
+| Passive 7 name JP = シールド・アデプト[Ⅱ]
+| Passive 7 effect = Damage Cut [II / 10%]
+
+| Passive 8 icon = Chance to Charm on Attack
+| Passive 8 name = Charm Edge [II]
+| Passive 8 name JP = チャーム・エッジ[Ⅱ]
+| Passive 8 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
+
+| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 name = Skill Quicken [II]
+| Passive 9 name JP = スキルクイック[Ⅱ]
+| Passive 9 effect = Chance to Skill Quicken [II / 10%]
+
+| Passive 10 icon = Accele Damage Cut
+| Passive 10 name = Astral Shield [III]
+| Passive 10 name JP = アストラル・シールド[Ⅲ]
+| Passive 10 effect = Accele Damage Cut [II / 10%] & Magia Damage Cut [III / 15%]
+
+| Passive 11 icon = Accele MP Gain Up
+| Passive 11 name = Accele Adept [III]
+| Passive 11 name JP = アクセル・アデプト[Ⅲ]
+| Passive 11 effect = Accele MP Gain Up [III / 15%]
+
+| Passive 12 icon = Chance to Anti-Skill Seal
+| Passive 12 name = Anti-Jammer
+| Passive 12 name JP = アンチ・ジャマ―
+| Passive 12 effect = Chance to Anti-Skill Seal [100%]
+
+| Passive 13 icon = MP Gauge Increased On Battle Start
+| Passive 13 name = Fast Mana Up
+| Passive 13 name JP = ファスト・マナアップ
+| Passive 13 effect = MP Gauge Increased On Battle Start [10% full]
+
+| Active 1 icon = Defense Down
+| Active 1 name = ダークフォール [III]
+| Active 1 name JP = ダークフォール[Ⅲ]
+| Active 1 effect = Defense Down [III / 15%] (One / 3 Turns) & Dark Defense Down [III / 18%] (One / 3 Turns)
+| Active 1 cooldown = 10
+
+| Connect name JP = ミィが手伝ったげよっか？
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = MP Restore
+| Connect 2 / 1 = VII / 27.5 MP
+| Connect 2 / 2 = IX / 32.5 MP
+| Connect effect 3 = Chance to Charm on Attack
+| Connect 3 / 1 = VII / 100%
+| Connect 3 / 2 = IX / 100%
+
+| Magia name JP = 今だけ悪い子！
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 1088%
+| Magia 1 / 2 = VII / 1152%
+| Magia effect 2 = Attack Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / V / 25%
+| Magia 2 / 2 = All / 3 Turns / VII / 30%
+| Magia effect 3 = Damage Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All / 3 Turns / V / 25%
+| Magia 3 / 2 = All / 3 Turns / VII / 30%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 癇癪のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、ヒナ鳥
+| Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Up [IX / 45% / All / 5 Turns] & Damage Up [IX / 45% / All / 5 Turns] & Chance to Burn [IX / 100% / One / 3 Turns]
+}}

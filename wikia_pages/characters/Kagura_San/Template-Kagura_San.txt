@@ -1,0 +1,190 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Kagura San
+| name_jp = 神楽 燦
+| name_na = 
+| element = Forest
+| base_rarity = 4
+| max_rarity = 5
+| id = 1031
+| type = Heal
+| growth_type = DEFHP
+| school_jp = 宝崎市立光塚中等教育学校
+| voice_actor_jp = ファイルーズあい
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2021-11-12
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 0
+| blast_hori_disks = 1
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 6068
+| 4star_attack_lv1 = 1847
+| 4star_defense_lv1 = 1780
+| 4star_hp_max = 22002
+| 4star_attack_max = 6601
+| 4star_defense_max = 6500
+| 4star_illustrator_jp = 蒼樹うめ
+
+| 5star_hp_lv1 = 6452
+| 5star_attack_lv1 = 2104
+| 5star_defense_lv1 = 2094
+| 5star_hp_max = 26001
+| 5star_attack_max = 8352
+| 5star_defense_max = 8501
+| 5star_illustrator_jp = くろにゃん
+
+| se_hp_bonus = 6501
+| se_attack_bonus = 2250
+| se_defense_bonus = 3459
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 10
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Defense Up When At Critical Health
+| Passive 2 name = Crisis Guard [II]
+| Passive 2 name JP = クライシスガード[Ⅱ]
+| Passive 2 effect = Defense Up When At Critical Health [II / 30%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [I]
+| Passive 3 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Regenerate HP
+| Passive 5 name = Regeneration Adept [IV]
+| Passive 5 name JP = リジェネレイト・アデプト[Ⅳ]
+| Passive 5 effect = Regenerate HP [IV / 5%]
+
+| Passive 6 icon = Defense Up
+| Passive 6 name = Guard Adept [III]
+| Passive 6 name JP = ガード・アデプト[Ⅲ]
+| Passive 6 effect = Defense Up [III / 22.5%]
+
+| Passive 7 icon = MP Gain Up When Over 100 MP
+| Passive 7 name = MP Boost [II]
+| Passive 7 name JP = MPブースト[Ⅱ]
+| Passive 7 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 8 icon = Magia Damage Up
+| Passive 8 name = Magia Adept [II]
+| Passive 8 name JP = マギア・アデプト[Ⅱ]
+| Passive 8 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 9 icon = MP Gauge Increased On Battle Start
+| Passive 9 name = Fast Mana Up
+| Passive 9 name JP = ファスト・マナアップ
+| Passive 9 effect = MP Gauge Increased On Battle Start [15% full]
+
+| Passive 10 icon = Damage Cut
+| Passive 10 name = アクアShield Adept [III]
+| Passive 10 name JP = アクアシールド・アデプト[Ⅲ]
+| Passive 10 effect = Damage Cut [II / 10%] & Aqua Attribute Damage Cut [III / 15%]
+
+| Passive 11 icon = Status Ailment Resistance Up
+| Passive 11 name = Resist Adept [II]
+| Passive 11 name JP = レジスト・アデプト[Ⅱ]
+| Passive 11 effect = Status Ailment Resistance Up [II / 25%]
+
+| Passive 12 icon = Chance to Anti-Bind
+| Passive 12 name = Anti-Bind
+| Passive 12 name JP = アンチ・バインド
+| Passive 12 effect = Chance to Anti-Bind [100%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Survive
+| Active 1 name = Survive Resist [VII]
+| Active 1 name JP = サヴァイヴ・レジスト[Ⅶ]
+| Active 1 effect = Survive [I / 10%] (Self / 1 Turn) & Status Ailment Resistance Up [VII / 50%] (Self / 1 Turn)
+| Active 1 cooldown = 10
+
+| Connect name JP = 私の期待に応えなさい
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VII / 30%
+| Connect 1 / 2 = IX / 35%
+| Connect effect 2 = Remove Status Ailments
+| Connect 2 / 1 = %
+| Connect 2 / 2 = %
+| Connect effect 3 = HP Restore
+| Connect 3 / 1 = VII / 45%
+| Connect 3 / 2 = IX / 50%
+
+| Magia name JP = ルースレス・バラージュ
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 340%
+| Magia 1 / 2 = VII / 360%
+| Magia effect 2 = Accele MP Gain Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / V / 17.5%
+| Magia 2 / 2 = All / 3 Turns / VII / 22.5%
+| Magia effect 3 = Status Ailment Resistance Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All / 3 Turns / V / 30%
+| Magia 3 / 2 = All / 3 Turns / VII / 40%
+| Magia effect 4 = Remove Status Ailments
+| Magia scaling 4 = 0%
+| Magia 4 / 1 = All / %
+| Magia 4 / 2 = All / %
+| Magia effect 5 = HP Restore
+| Magia scaling 5 = 2%
+| Magia 5 / 1 = All / V / 25%
+| Magia 5 / 2 = All / VII / 27.5%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 停滞のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、セキュリティシステム
+| Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [IX / 902%] & Accele MP Gain Up [IX / 37.5% / All / 5 Turns] & Status Ailment Resistance Up [IX / 60% / All / 5 Turns] & Remove Status Ailments [% / All] & HP Restore [IX / 38% / All]
+}}

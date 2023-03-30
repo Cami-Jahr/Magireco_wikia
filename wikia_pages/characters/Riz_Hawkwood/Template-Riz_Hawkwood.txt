@@ -1,0 +1,179 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Riz Hawkwood
+| name_jp = リズ
+| name_na = 
+| element = Dark
+| base_rarity = 4
+| max_rarity = 5
+| id = 4022
+| type = Attack
+| growth_type = BALANCE
+| school_jp = ―
+| voice_actor_jp = 小清水亜美
+| designer_jp = 枡狐/蛙空
+| memoria = 
+| release_date = 2018-02-21
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 0
+| blast_hori_disks = 2
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 4997
+| 4star_attack_lv1 = 2052
+| 4star_defense_lv1 = 1611
+| 4star_hp_max = 17989
+| 4star_attack_max = 7387
+| 4star_defense_max = 5799
+| 4star_illustrator_jp = 枡狐/蛙空
+
+| 5star_hp_lv1 = 5831
+| 5star_attack_lv1 = 2395
+| 5star_defense_lv1 = 1881
+| 5star_hp_max = 23324
+| 5star_attack_max = 9580
+| 5star_defense_max = 7524
+| 5star_illustrator_jp = 枡狐/蛙空
+
+| se_hp_bonus = 6520
+| se_attack_bonus = 2747
+| se_defense_bonus = 1681
+
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 4
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [I]
+| Passive 1 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 1 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [I]
+| Passive 3 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 4 icon = MP Gain Up When Over 100 MP
+| Passive 4 name = MP Boost [II]
+| Passive 4 name JP = MPブースト[Ⅱ]
+| Passive 4 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 5 icon = Magia Damage Up
+| Passive 5 name = Magia Adept [II]
+| Passive 5 name JP = マギア・アデプト[Ⅱ]
+| Passive 5 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 6 icon = Charged Attack Damage Up
+| Passive 6 name = Charge Adept [II]
+| Passive 6 name JP = チャージ・アデプト[Ⅱ]
+| Passive 6 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 7 icon = Chance to Evade
+| Passive 7 name = Parry Adept [II]
+| Passive 7 name JP = パリィ・アデプト[Ⅱ]
+| Passive 7 effect = Chance to Evade [II / 15%]
+
+| Passive 8 icon = Accele MP Gain Up
+| Passive 8 name = Accele Adept [II]
+| Passive 8 name JP = アクセル・アデプト[Ⅱ]
+| Passive 8 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 9 icon = Blast Damage Up
+| Passive 9 name = Blast Adept [II]
+| Passive 9 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 9 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 10 icon = Chance to Anti-Evade
+| Passive 10 name = Aiming Adept [III]
+| Passive 10 name JP = エイミング・アデプト[Ⅲ]
+| Passive 10 effect = Chance to Anti-Evade [III / 35%]
+
+| Passive 11 icon = Chance to Defense Pierce
+| Passive 11 name = Penetrate Adept [III]
+| Passive 11 name JP = ペネトレイト・アデプト[Ⅲ]
+| Passive 11 effect = Chance to Defense Pierce [III / 20%]
+
+| Passive 12 icon = Chance to Critical Hit
+| Passive 12 name = Critical Adept [II]
+| Passive 12 name JP = クリティカル・アデプト[Ⅱ]
+| Passive 12 effect = Chance to Critical Hit [II / 15%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Attack Up
+| Active 1 name = Attack Rise [VII]
+| Active 1 name JP = アタックライズ[Ⅶ]
+| Active 1 effect = Attack Up [VII / 35%] (Self / 3 Turns)
+| Active 1 cooldown = 10
+
+| Connect name JP = それにしても危なっかしいわね
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Chance to Defense Pierce
+| Connect effect 1 = Chance to Defense Pierce
+| Connect 1 / 1 = VII / 100%
+| Connect 1 / 2 = IX / 100%
+| Connect effect 2 = Chance to Critical Hit
+| Connect 2 / 1 = VII / 60%
+| Connect 2 / 2 = IX / 70%
+
+| Magia name JP = ロンブル
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 315%
+| Magia 1 / 2 = VII / 335%
+| Magia effect 2 = MP Restore
+| Magia scaling 2 = 1%
+| Magia 2 / 1 = V / 27.5 MP
+| Magia 2 / 2 = VII / 32.5 MP
+| Magia effect 3 = Chance to Evade
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = Self / 1 Turn / V / 30%
+| Magia 3 / 2 = Self / 1 Turn / VII / 40%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 妄執のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、黒影
+| Doppel Japanese Designer = 原案・監修：枡狐/蛙空
+| Doppel effect = Damage All Enemies [IX / 869%] & MP Restore [IX / 41.5 MP] & Chance to Evade [IX / 100% / Self / 1 Turn]
+}}

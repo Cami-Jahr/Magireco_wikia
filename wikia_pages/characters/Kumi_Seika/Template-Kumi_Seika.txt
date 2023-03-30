@@ -1,0 +1,188 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Kumi Seika
+| name_jp = 桑水 せいか
+| name_na = 
+| element = Aqua
+| base_rarity = 2
+| max_rarity = 4
+| id = 3014
+| type = Support
+| growth_type = ATKHP
+| school_jp = 神浜市立大附属学校
+| voice_actor_jp = 和氣あず未
+| designer_jp = ハノカゲ
+| memoria = 
+| release_date = 2018-03-12
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 3866
+| 2star_attack_lv1 = 1076
+| 2star_defense_lv1 = 1047
+| 2star_hp_max = 12541
+| 2star_attack_max = 3466
+| 2star_defense_max = 3327
+| 2star_illustrator_jp = ハノカゲ
+
+| 3star_hp_lv1 = 4611
+| 3star_attack_lv1 = 1284
+| 3star_defense_lv1 = 1250
+| 3star_hp_max = 15898
+| 3star_attack_max = 4396
+| 3star_defense_max = 4220
+| 3star_illustrator_jp = ハノカゲ
+
+| 4star_hp_lv1 = 5730
+| 4star_attack_lv1 = 1596
+| 4star_defense_lv1 = 1552
+| 4star_hp_max = 20925
+| 4star_attack_max = 5787
+| 4star_defense_max = 5546
+| 4star_illustrator_jp = ハノカゲ
+
+| 5star_hp_lv1 = 
+| 5star_attack_lv1 = 
+| 5star_defense_lv1 = 
+| 5star_hp_max = 
+| 5star_attack_max = 
+| 5star_defense_max = 
+| 5star_illustrator_jp = 
+
+| se_hp_bonus = 6064
+| se_attack_bonus = 1252
+| se_defense_bonus = 2350
+
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 4
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [I]
+| Passive 3 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 4 icon = Magia Damage Up
+| Passive 4 name = Magia Adept [II]
+| Passive 4 name JP = マギア・アデプト[Ⅱ]
+| Passive 4 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 5 icon = Chance to Bind on Attack
+| Passive 5 name = Bind Edge [III]
+| Passive 5 name JP = バインド・エッジ[Ⅲ]
+| Passive 5 effect = Chance to Bind on Attack [III / 20%] (1 Turn)
+
+| Passive 6 icon = Doppel Damage Up
+| Passive 6 name = Doppel Adept [I]
+| Passive 6 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 6 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 7 icon = Accele MP Gain Up
+| Passive 7 name = Accele Adept [II]
+| Passive 7 name JP = アクセル・アデプト[Ⅱ]
+| Passive 7 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 8 icon = Damage Cut
+| Passive 8 name = Shield Adept [II]
+| Passive 8 name JP = シールド・アデプト[Ⅱ]
+| Passive 8 effect = Damage Cut [II / 10%]
+
+| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 name = Skill Quicken [II]
+| Passive 9 name JP = スキルクイック[Ⅱ]
+| Passive 9 effect = Chance to Skill Quicken [II / 10%]
+
+| Passive 10 icon = Accele MP Gain Up
+| Passive 10 name = Accele Adept [II]
+| Passive 10 name JP = アクセル・アデプト[Ⅱ]
+| Passive 10 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 11 icon = Chance to Anti-Skill Seal
+| Passive 11 name = Anti-Jammer
+| Passive 11 name JP = アンチ・ジャマ―
+| Passive 11 effect = Chance to Anti-Skill Seal [100%]
+
+| Passive 12 icon = MP Gain Up
+| Passive 12 name = Morale Adept [III]
+| Passive 12 name JP = モラール・アデプト[Ⅲ]
+| Passive 12 effect = MP Gain Up [III / 10%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Chance to Fog
+| Active 1 name = Fog [IX]
+| Active 1 name JP = フォッグ[Ⅸ]
+| Active 1 effect = Chance to Fog [IX / 50%] (All / 1 Turn)
+| Active 1 cooldown = 7
+
+| Connect name JP = あの…その…私と…その…
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = IV / 27.5%
+| Connect 1 / 2 = VI / 32.5%
+| Connect 1 / 3 = VIII / 37.5%
+| Connect effect 2 = Charged Attack Damage Up
+| Connect 2 / 1 = III / 15%
+| Connect 2 / 2 = V / 20%
+| Connect 2 / 3 = VII / 25%
+| Connect effect 3 = Chance to Fog on Attack
+| Connect 3 / 1 = III / 60%
+| Connect 3 / 2 = V / 100%
+| Connect 3 / 3 = VII / 100%
+
+| Magia name JP = サモン・ウェーブ
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = I / 300%
+| Magia 1 / 2 = III / 320%
+| Magia 1 / 3 = V / 340%
+| Magia effect 2 = Chance to Fog
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = All / 3 Turns / I / 47.5%
+| Magia 2 / 2 = All / 3 Turns / III / 100%
+| Magia 2 / 3 = All / 3 Turns / V / 100%
+| Magia effect 3 = Blast Damage Down
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = -
+| Magia 3 / 3 = All / 3 Turns / V / 25%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 
+| Doppel Shape = 
+| Doppel Japanese Shape = 
+| Doppel Japanese Designer = 
+| Doppel effect = 
+}}

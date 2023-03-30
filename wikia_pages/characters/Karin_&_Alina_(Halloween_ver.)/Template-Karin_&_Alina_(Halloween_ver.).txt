@@ -1,0 +1,186 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Karin & Alina (Halloween ver.)
+| name_jp = かりん・アリナ (ハロウィンver.)
+| name_na = 
+| element = Flame
+| base_rarity = 4
+| max_rarity = 5
+| id = 1112
+| type = Magia
+| growth_type = ATTACK
+| school_jp = ―
+| voice_actor_jp = 金元寿子、竹達彩奈
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2021-10-29
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 3
+| blast_vert_disks = 1
+| blast_hori_disks = 0
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 5222
+| 4star_attack_lv1 = 2203
+| 4star_defense_lv1 = 1647
+| 4star_hp_max = 18527
+| 4star_attack_max = 8102
+| 4star_defense_max = 5800
+| 4star_illustrator_jp = いもあん
+
+| 5star_hp_lv1 = 5863
+| 5star_attack_lv1 = 2513
+| 5star_defense_lv1 = 1817
+| 5star_hp_max = 23100
+| 5star_attack_max = 10278
+| 5star_defense_max = 7104
+| 5star_illustrator_jp = ふてね
+
+| se_hp_bonus = 6050
+| se_attack_bonus = 2545
+| se_defense_bonus = 2158
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 10
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Chance to Anti-Charm
+| Passive 2 name = Anti-Charm
+| Passive 2 name JP = アンチ・チャーム
+| Passive 2 effect = Chance to Anti-Charm [100%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [I]
+| Passive 3 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Forest Attribute Damage Cut
+| Passive 5 name = ティンバーShield Adept [III]
+| Passive 5 name JP = ティンバーシールド・アデプト[Ⅲ]
+| Passive 5 effect = Forest Attribute Damage Cut [III / 15%]
+
+| Passive 6 icon = Chance to Evade
+| Passive 6 name = Parry Adept [II]
+| Passive 6 name JP = パリィ・アデプト[Ⅱ]
+| Passive 6 effect = Chance to Evade [II / 15%]
+
+| Passive 7 icon = MP Gain Up When Over 100 MP
+| Passive 7 name = MP Boost [II]
+| Passive 7 name JP = MPブースト[Ⅱ]
+| Passive 7 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 8 icon = Doppel Damage Up
+| Passive 8 name = Doppel Adept [IV]
+| Passive 8 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 8 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
+
+| Passive 9 icon = Accele MP Gain Up
+| Passive 9 name = Accele Adept [II]
+| Passive 9 name JP = アクセル・アデプト[Ⅱ]
+| Passive 9 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 10 icon = MP Gauge Increased On Battle Start
+| Passive 10 name = Fast Mana Up
+| Passive 10 name JP = ファスト・マナアップ
+| Passive 10 effect = MP Gauge Increased On Battle Start [15% full]
+
+| Passive 11 icon = Chance to Anti-Magia Seal
+| Passive 11 name = Anti-Magia Seal
+| Passive 11 name JP = アンチ・シールマギア
+| Passive 11 effect = Chance to Anti-Magia Seal [100%]
+
+| Passive 12 icon = Chance to Dazzle on Attack
+| Passive 12 name = Mesmerize Edge [III]
+| Passive 12 name JP = メズマライズ・エッジ[Ⅲ]
+| Passive 12 effect = Chance to Dazzle on Attack [III / 20%] (1 Turn)
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Chance to Dazzle
+| Active 1 name = Mesmerize フレイム [VII]
+| Active 1 name JP = メズマライズ・フレイム[Ⅶ]
+| Active 1 effect = Chance to Dazzle [VII / 100%] (One / 1 Turn) & Flame Attribute Attack Up [VII / 20%] (Self / 3 Turns)
+| Active 1 cooldown = 10
+
+| Connect name JP = 一緒にお菓子を配るの！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Increase
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Damage Up Versus Enemies Affected With Status Ailments
+| Connect 2 / 1 = VII / 40%
+| Connect 2 / 2 = IX / 45%
+| Connect effect 3 = Chance to Dazzle on Attack
+| Connect 3 / 1 = VII / 100%
+| Connect 3 / 2 = IX / 100%
+
+| Magia name JP = かぼちゃ爆弾をお届けなの！
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage 5 Random Enemies
+| Magia effect 1 = Damage 5 Random Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = VI / 238.1%
+| Magia 1 / 2 = VIII / 252.7%
+| Magia effect 2 = Magia Damage Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = Self / 3 Turns / VI / 25%
+| Magia 2 / 2 = Self / 3 Turns / VIII / 30%
+| Magia effect 3 = Damage Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Self / 3 Turns / VI / 15%
+| Magia 3 / 2 = Self / 3 Turns / VIII / 20%
+| Magia effect 4 = Flame Attribute Attack Up
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = Self / 3 Turns / VI / 7.5%
+| Magia 4 / 2 = Self / 3 Turns / VIII / 10%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = グレートアリナ先輩Goなのっ!!
+| Doppel Shape = 
+| Doppel Japanese Shape = ー
+| Doppel Japanese Designer = ………
+| Doppel effect = Damage 5 Random Enemies [X / 676%] & Magia Damage Up [X / 40% / All / 5 Turns] & Damage Up [X / 40% / Self / 5 Turns] & Flame Attribute Attack Up [X / 30% / Self / 5 Turns]
+}}

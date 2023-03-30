@@ -1,0 +1,7 @@
+﻿{{Madoka_&_Iroha|Abilities}}
+
+{{Description
+| en = 
+| na = 
+| jp = ー
+}}

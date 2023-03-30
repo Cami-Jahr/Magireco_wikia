@@ -1,0 +1,187 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Sawa Sudachi (Valentine's ver.)
+| name_jp = 佐和 月出里 (バレンタインver.)
+| name_na = 
+| element = Void
+| base_rarity = 4
+| max_rarity = 5
+| id = 1139
+| type = Defense
+| growth_type = DEFHP
+| school_jp = ―
+| voice_actor_jp = 汐入あすか
+| designer_jp = 渡辺明夫
+| memoria = 
+| release_date = 2023-02-10
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 0
+| blast_hori_disks = 1
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 8445
+| 4star_attack_lv1 = 1844
+| 4star_defense_lv1 = 2689
+| 4star_hp_max = 30621
+| 4star_attack_max = 6590
+| 4star_defense_max = 9820
+| 4star_illustrator_jp = ぷにゃん
+
+| 5star_hp_lv1 = 9380
+| 5star_attack_lv1 = 2049
+| 5star_defense_lv1 = 2986
+| 5star_hp_max = 37801
+| 5star_attack_max = 8134
+| 5star_defense_max = 12123
+| 5star_illustrator_jp = ぷにゃん
+
+| se_hp_bonus = 
+| se_attack_bonus = 
+| se_defense_bonus = 
+
+| se accele bonus = 
+| se blast bonus = 
+| se charge bonus = 
+
+| Passive 1 icon = Defense Up While At Max Health
+| Passive 1 name = Full Gauge Guard [VII]
+| Passive 1 name JP = フルゲージ・ガード[Ⅶ]
+| Passive 1 effect = Defense Up While At Max Health [VII / 70%]
+
+| Passive 2 icon = Defense Up
+| Passive 2 name = Guard Adept [II]
+| Passive 2 name JP = ガード・アデプト[Ⅱ]
+| Passive 2 effect = Defense Up [II / 15%]
+
+| Passive 3 icon = Regenerate HP
+| Passive 3 name = Mana Spring Adept [V]
+| Passive 3 name JP = マナスプリング・アデプト[Ⅴ]
+| Passive 3 effect = Regenerate MP [V / 9 MP]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Up When Damaged
+| Passive 5 name = Endor Adept [X]
+| Passive 5 name JP = エンドア・アデプト[Ⅹ]
+| Passive 5 effect = MP Up When Damaged [X / 10%]
+
+| Passive 6 icon = Light Attribute Damage Cut
+| Passive 6 name = ライトShield Adept [III]
+| Passive 6 name JP = ライトシールド・アデプト[Ⅲ]
+| Passive 6 effect = Light Attribute Damage Cut [III / 15%]
+
+| Passive 7 icon = Regenerate HP
+| Passive 7 name = Regeneration Adept [II]
+| Passive 7 name JP = リジェネレイト・アデプト[Ⅱ]
+| Passive 7 effect = Regenerate HP [II / 3%]
+
+| Passive 8 icon = MP Gain Up When Over 100 MP
+| Passive 8 name = MP Boost [II]
+| Passive 8 name JP = MPブースト[Ⅱ]
+| Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 9 icon = Doppel Damage Up
+| Passive 9 name = Doppel Adept [I]
+| Passive 9 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 9 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 10 icon = Dark Attribute Damage Cut
+| Passive 10 name = Dark Shield Adept [III]
+| Passive 10 name JP = ダークシールド・アデプト[Ⅲ]
+| Passive 10 effect = Dark Attribute Damage Cut [III / 15%]
+
+| Passive 11 icon = MP Gain Up When Over 100 MP
+| Passive 11 name = MP Boost [II]
+| Passive 11 name JP = MPブースト[Ⅱ]
+| Passive 11 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 12 icon = Damage Cut
+| Passive 12 name = Shield Adept [II]
+| Passive 12 name JP = シールド・アデプト[Ⅱ]
+| Passive 12 effect = Damage Cut [II / 10%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Chance to Provoke
+| Active 1 name = スウィート ガーディアン
+| Active 1 name JP = スウィート・ガーディアン
+| Active 1 effect = Chance to Provoke [I / 100%] (Self / 1 Turn) & Barrier [I / 15000 damage] (Self / 1 Turn) & HP Restore [I / 30%]
+| Active 1 cooldown = 7
+
+| Connect name JP = ふむむむふむむんふむむふ！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Defense Up
+| Connect effect 1 = Defense Up
+| Connect 1 / 1 = XIII / 135%
+| Connect 1 / 2 = XV / 150%
+| Connect effect 2 = Barrier
+| Connect 2 / 1 = XIII / 8000 damage
+| Connect 2 / 2 = XV / 10000 damage
+
+| Magia name JP = 驚天超光麗斗喜劇
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 340%
+| Magia 1 / 2 = VII / 360%
+| Magia effect 2 = Barrier
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = All / 3 Turns / V / 8000 damage
+| Magia 2 / 2 = All / 3 Turns / VII / 8000 damage
+| Magia effect 3 = HP Restore
+| Magia scaling 3 = 2%
+| Magia 3 / 1 = All / V / 17.5%
+| Magia 3 / 2 = All / VII / 20%
+| Magia effect 4 = Chance to Provoke
+| Magia scaling 4 = 0%
+| Magia 4 / 1 = Self / 1 Turn / V / 100%
+| Magia 4 / 2 = Self / 1 Turn / VII / 100%
+| Magia effect 5 = MP Up When Damaged
+| Magia scaling 5 = 0%
+| Magia 5 / 1 = Self / 1 Turn / V / 8%
+| Magia 5 / 2 = Self / 1 Turn / VII / 10%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 放浪のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、クッキー
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [IX / 902%] & Barrier [IX / 12000 damage / All / 5 Turns] & MP Up When Damaged [IX / 10% / All / 1 Turn] & HP Restore [IX / 38% / All] & Chance to Provoke [IX / 100% / Self / 2 Turns]
+}}

@@ -1,0 +1,206 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Minagi Sasara
+| name_jp = 美凪 ささら
+| name_na = 
+| element = Light
+| base_rarity = 2
+| max_rarity = 5
+| id = 3004
+| type = Defense
+| growth_type = ATKDEF
+| school_jp = 神浜市立大附属学校
+| voice_actor_jp = 高橋李依
+| designer_jp = 戸流ケイ
+| memoria = 
+| release_date = 2017-08-22
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 3993
+| 2star_attack_lv1 = 1018
+| 2star_defense_lv1 = 1305
+| 2star_hp_max = 12689
+| 2star_attack_max = 3302
+| 2star_defense_max = 4204
+| 2star_illustrator_jp = 戸流ケイ
+
+| 3star_hp_lv1 = 4762
+| 3star_attack_lv1 = 1214
+| 3star_defense_lv1 = 1556
+| 3star_hp_max = 16076
+| 3star_attack_max = 4185
+| 3star_defense_max = 5327
+| 3star_illustrator_jp = 戸流ケイ
+
+| 4star_hp_lv1 = 5918
+| 4star_attack_lv1 = 1509
+| 4star_defense_lv1 = 1934
+| 4star_hp_max = 21150
+| 4star_attack_max = 5510
+| 4star_defense_max = 7012
+| 4star_illustrator_jp = 戸流ケイ
+
+| 5star_hp_lv1 = 7314
+| 5star_attack_lv1 = 1629
+| 5star_defense_lv1 = 2491
+| 5star_hp_max = 29036
+| 5star_attack_max = 6613
+| 5star_defense_max = 10038
+| 5star_illustrator_jp = 戸流ケイ
+
+| se_hp_bonus = 3004
+| se_attack_bonus = 1252
+| se_defense_bonus = 2852
+
+| se accele bonus = 6
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Chance to Provoke
+| Passive 2 name = Provoke Adept [II]
+| Passive 2 name JP = プロヴォーク・アデプト[Ⅱ]
+| Passive 2 effect = Chance to Provoke [II / 15%]
+
+| Passive 3 icon = Endure
+| Passive 3 name = Fortitude Adept
+| Passive 3 name JP = フォティチュード・アデプト
+| Passive 3 effect = Endure [100%]
+
+| Passive 4 icon = MP Gain Up When Over 100 MP
+| Passive 4 name = MP Boost [II]
+| Passive 4 name JP = MPブースト[Ⅱ]
+| Passive 4 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 5 icon = Doppel Damage Up
+| Passive 5 name = Doppel Adept [I]
+| Passive 5 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 5 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 6 icon = MP Up When Attacked By Weak Element
+| Passive 6 name = Revenge Adept [III]
+| Passive 6 name JP = リベンジ・アデプト[Ⅲ]
+| Passive 6 effect = MP Up When Attacked By Weak Element [III / 4%]
+
+| Passive 7 icon = Magia Damage Up
+| Passive 7 name = Magia Adept [II]
+| Passive 7 name JP = マギア・アデプト[Ⅱ]
+| Passive 7 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 8 icon = Doppel Damage Up
+| Passive 8 name = Doppel Adept [I]
+| Passive 8 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 8 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 9 icon = Dark Attribute Damage Cut
+| Passive 9 name = Dark Shield Adept [II]
+| Passive 9 name JP = ダークシールド・アデプト[Ⅱ]
+| Passive 9 effect = Dark Attribute Damage Cut [II / 10%]
+
+| Passive 10 icon = Regenerate HP
+| Passive 10 name = Regeneration Adept [III]
+| Passive 10 name JP = リジェネレイト・アデプト[Ⅲ]
+| Passive 10 effect = Regenerate HP [III / 4%]
+
+| Passive 11 icon = Damage Cut
+| Passive 11 name = Shield Adept [II]
+| Passive 11 name JP = シールド・アデプト[Ⅱ]
+| Passive 11 effect = Damage Cut [II / 10%]
+
+| Passive 12 icon = Blast Damage Up
+| Passive 12 name = Blast Adept [III]
+| Passive 12 name JP = ブラスト・アデプト[Ⅲ]
+| Passive 12 effect = Blast Damage Up [III / 20%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Dark Attribute Damage Cut
+| Active 1 name = Dark Shield Circle [III]
+| Active 1 name JP = ダークシールド・サークル[Ⅲ]
+| Active 1 effect = Dark Attribute Damage Cut [III / 15%] (All / 1 Turn)
+| Active 1 cooldown = 8
+
+| Connect name JP = 私があなたを守るから！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Defense Up
+| Connect effect 1 = Defense Up
+| Connect 1 / 1 = III / 60%
+| Connect 1 / 2 = V / 75%
+| Connect 1 / 3 = VII / 90%
+| Connect 1 / 4 = IX / 105%
+| Connect effect 2 = Damage Cut
+| Connect 2 / 1 = III / 40%
+| Connect 2 / 2 = V / 50%
+| Connect 2 / 3 = VII / 60%
+| Connect 2 / 4 = IX / 70%
+| Connect effect 3 = Endure
+| Connect 3 / 1 = -
+| Connect 3 / 2 = -
+| Connect 3 / 3 = -
+| Connect 3 / 4 = 100%
+
+| Magia name JP = ナイトリゾルブ
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = I / 300%
+| Magia 1 / 2 = III / 320%
+| Magia 1 / 3 = V / 340%
+| Magia 1 / 4 = VII / 360%
+| Magia effect 2 = Defense Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / I / 26.3%
+| Magia 2 / 2 = All / 3 Turns / III / 33.8%
+| Magia 2 / 3 = All / 3 Turns / V / 41.3%
+| Magia 2 / 4 = All / 3 Turns / VII / 48.8%
+| Magia effect 3 = Chance to Provoke
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = Self / 1 Turn / I / 100%
+| Magia 3 / 2 = Self / 1 Turn / III / 100%
+| Magia 3 / 3 = Self / 1 Turn / V / 100%
+| Magia 3 / 4 = Self / 1 Turn / VII / 100%
+| Magia effect 4 = Endure
+| Magia scaling 4 = 0%
+| Magia 4 / 1 = -
+| Magia 4 / 2 = -
+| Magia 4 / 3 = Self / 1 Turn / 100%
+| Magia 4 / 4 = Self / 1 Turn / 100%
+| Magia effect 5 = Damage Cut
+| Magia scaling 5 = 2.5%
+| Magia 5 / 1 = -
+| Magia 5 / 2 = -
+| Magia 5 / 3 = -
+| Magia 5 / 4 = Self / 1 Turn / VII / 60%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 矜持のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、ゴルゲット
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [IX / 902%] & Defense Up [IX / 66.3% / All / 3 Turns] & Damage Cut [IX / 80% / Self / 3 Turns] & Chance to Provoke [IX / 100% / Self / 3 Turns] & Endure [100% / Self / 3 Turns]
+}}

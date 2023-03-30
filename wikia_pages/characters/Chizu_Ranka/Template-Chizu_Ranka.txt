@@ -1,0 +1,179 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Chizu Ranka
+| name_jp = 智珠 らんか
+| name_na = 
+| element = Flame
+| base_rarity = 3
+| max_rarity = 4
+| id = 3044
+| type = Attack
+| growth_type = DEFHP
+| school_jp = 栄総合学園
+| voice_actor_jp = 幸村恵理
+| designer_jp = がおう
+| memoria = 
+| release_date = 2020-01-17
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 1
+| blast_vert_disks = 1
+| blast_hori_disks = 2
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 3942
+| 3star_attack_lv1 = 1616
+| 3star_defense_lv1 = 1270
+| 3star_hp_max = 13497
+| 3star_attack_max = 5455
+| 3star_defense_max = 4378
+| 3star_illustrator_jp = がおう
+
+| 4star_hp_lv1 = 4840
+| 4star_attack_lv1 = 1985
+| 4star_defense_lv1 = 1560
+| 4star_hp_max = 17549
+| 4star_attack_max = 7094
+| 4star_defense_max = 5697
+| 4star_illustrator_jp = がおう
+
+| 5star_hp_lv1 = 
+| 5star_attack_lv1 = 
+| 5star_defense_lv1 = 
+| 5star_hp_max = 
+| 5star_attack_max = 
+| 5star_defense_max = 
+| 5star_illustrator_jp = 
+
+| se_hp_bonus = 5488
+| se_attack_bonus = 1150
+| se_defense_bonus = 2164
+
+| se accele bonus = 4
+| se blast bonus = 6
+| se charge bonus = 8
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Accele MP Gain Up
+| Passive 2 name = Accele Adept [V]
+| Passive 2 name JP = アクセル・アデプト[Ⅴ]
+| Passive 2 effect = Accele MP Gain Up [V / 20%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [III]
+| Passive 3 name JP = MPブースト[Ⅲ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [III / 22%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [III]
+| Passive 4 name JP = ドッペル・アデプト[Ⅲ]
+| Passive 4 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Charged Attack Damage Up
+| Passive 5 name = Charge Adept [II]
+| Passive 5 name JP = チャージ・アデプト[Ⅱ]
+| Passive 5 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 6 icon = Doppel Damage Up
+| Passive 6 name = Doppel Adept [IV]
+| Passive 6 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 6 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
+
+| Passive 7 icon = Chance to Anti-Evade
+| Passive 7 name = Aiming Adept [III]
+| Passive 7 name JP = エイミング・アデプト[Ⅲ]
+| Passive 7 effect = Chance to Anti-Evade [III / 35%]
+
+| Passive 8 icon = Blast Damage Up
+| Passive 8 name = Blast Adept [II]
+| Passive 8 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 8 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 9 icon = Chance to Critical Hit
+| Passive 9 name = Critical Adept [II]
+| Passive 9 name JP = クリティカル・アデプト[Ⅱ]
+| Passive 9 effect = Chance to Critical Hit [II / 15%]
+
+| Passive 10 icon = MP Gain Up
+| Passive 10 name = Morale Adept [III]
+| Passive 10 name JP = モラール・アデプト[Ⅲ]
+| Passive 10 effect = MP Gain Up [III / 10%]
+
+| Passive 11 icon = Chance to Evade
+| Passive 11 name = Parry Adept [II]
+| Passive 11 name JP = パリィ・アデプト[Ⅱ]
+| Passive 11 effect = Chance to Evade [II / 15%]
+
+| Passive 12 icon = Charged Attack Damage Up
+| Passive 12 name = Charge Adept [II]
+| Passive 12 name JP = チャージ・アデプト[Ⅱ]
+| Passive 12 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Chance to Anti-Provoke
+| Active 1 name = Hawkeye
+| Active 1 name JP = ホークアイ
+| Active 1 effect = Chance to Anti-Provoke [100%] (Self / 1 Turn) & Chance to Anti-Evade [100%] (Self / 1 Turn)
+| Active 1 cooldown = 10
+
+| Connect name JP = 一気に狩るぞ！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = V / 30%
+| Connect 1 / 2 = VII / 35%
+| Connect effect 2 = Charged Attack Damage Up
+| Connect 2 / 1 = V / 20%
+| Connect 2 / 2 = VII / 25%
+
+| Magia name JP = ランカニカルビーム
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = III / 1024%
+| Magia 1 / 2 = V / 1088%
+| Magia effect 2 = Chance to Burn
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = One / 3 Turns / III / 100%
+| Magia 2 / 2 = One / 3 Turns / V / 100%
+| Magia effect 3 = Blast Damage Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Self / 3 Turns / III / 25%
+| Magia 3 / 2 = Self / 3 Turns / V / 35%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 
+| Doppel Shape = 
+| Doppel Japanese Shape = 
+| Doppel Japanese Designer = 
+| Doppel effect = 
+}}

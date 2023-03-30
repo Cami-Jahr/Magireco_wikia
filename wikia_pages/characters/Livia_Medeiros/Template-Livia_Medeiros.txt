@@ -1,0 +1,182 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Livia Medeiros
+| name_jp = リヴィア・メディロス
+| name_na = 
+| element = Void
+| base_rarity = 4
+| max_rarity = 5
+| id = 1041
+| type = Support
+| growth_type = ATTACK
+| school_jp = ―
+| voice_actor_jp = 黒木ほの香
+| designer_jp = ササギコウシ
+| memoria = 
+| release_date = 2020-01-17
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 6280
+| 4star_attack_lv1 = 1809
+| 4star_defense_lv1 = 1737
+| 4star_hp_max = 22281
+| 4star_attack_max = 6653
+| 4star_defense_max = 6117
+| 4star_illustrator_jp = ササギコウシ
+
+| 5star_hp_lv1 = 7129
+| 5star_attack_lv1 = 2054
+| 5star_defense_lv1 = 1972
+| 5star_hp_max = 28088
+| 5star_attack_max = 8400
+| 5star_defense_max = 7710
+| 5star_illustrator_jp = ササギコウシ
+
+| se_hp_bonus = 5995
+| se_attack_bonus = 2376
+| se_defense_bonus = 2123
+
+| se accele bonus = 6
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [I]
+| Passive 3 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Chance to Anti-Curse
+| Passive 5 name = Anti-Curse
+| Passive 5 name JP = アンチ・カース
+| Passive 5 effect = Chance to Anti-Curse [100%]
+
+| Passive 6 icon = Damage Cut
+| Passive 6 name = Shield Adept [II]
+| Passive 6 name JP = シールド・アデプト[Ⅱ]
+| Passive 6 effect = Damage Cut [II / 10%]
+
+| Passive 7 icon = Blast Damage Up
+| Passive 7 name = Blast Adept [II]
+| Passive 7 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 7 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 8 icon = Magia Damage Up
+| Passive 8 name = Magia Adept [II]
+| Passive 8 name JP = マギア・アデプト[Ⅱ]
+| Passive 8 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 9 icon = Damage Up Versus Enemies Affected With Status Ailments
+| Passive 9 name = Addict Killer [II]
+| Passive 9 name JP = アディクトキラー[Ⅱ]
+| Passive 9 effect = Damage Up Versus Enemies Affected With Status Ailments [II / 20%]
+
+| Passive 10 icon = Accele Damage Cut
+| Passive 10 name = Astral Shield [II]
+| Passive 10 name JP = アストラル・シールド[Ⅱ]
+| Passive 10 effect = Accele Damage Cut [II / 10%] & Magia Damage Cut [II / 10%]
+
+| Passive 11 icon = Chance to Curse on Attack
+| Passive 11 name = Curse Edge [III]
+| Passive 11 name JP = カース・エッジ[Ⅲ]
+| Passive 11 effect = Chance to Curse on Attack [III / 20%] (1 Turn)
+
+| Passive 12 icon = Chance to Skill Quicken
+| Passive 12 name = Skill Quicken [II]
+| Passive 12 name JP = スキルクイック[Ⅱ]
+| Passive 12 effect = Chance to Skill Quicken [II / 10%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Chance to Curse
+| Active 1 name = Curse Scream [IV]
+| Active 1 name JP = カーススクリーム[Ⅳ]
+| Active 1 effect = Chance to Curse [IV / 37.5%] (All / 1 Turn) & Defense Down [IV / 20%] (All / 1 Turn)
+| Active 1 cooldown = 8
+
+| Connect name JP = こんなん一時の戯れやわ
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Damage Up Versus Enemies Affected With Status Ailments
+| Connect 2 / 1 = IV / 32.5%
+| Connect 2 / 2 = VI / 37.5%
+| Connect effect 3 = Chance to Curse on Attack
+| Connect 3 / 1 = IV / 100%
+| Connect 3 / 2 = VI / 100%
+
+| Magia name JP = 極楽魔法遊戯
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 340%
+| Magia 1 / 2 = VII / 360%
+| Magia effect 2 = Status Ailment Resistance Down
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / V / 17.5%
+| Magia 2 / 2 = All / 3 Turns / VII / 20%
+| Magia effect 3 = Defense Down
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All / 3 Turns / V / 15%
+| Magia 3 / 2 = All / 3 Turns / VII / 20%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 苦界のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、樹形図
+| Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [IX / 902%] & Status Ailment Resistance Down [IX / 35% / All / 3 Turns] & Defense Down [IX / 35% / All / 3 Turns]
+}}

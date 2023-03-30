@@ -1,0 +1,179 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Yura Hotaru
+| name_jp = 由良 蛍
+| name_na = 
+| element = Aqua
+| base_rarity = 3
+| max_rarity = 4
+| id = 3048
+| type = Heal
+| growth_type = HP
+| school_jp = 栄総合学園
+| voice_actor_jp = 小坂井祐莉絵
+| designer_jp = Tiv
+| memoria = 
+| release_date = 2021-09-13
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 4363
+| 3star_attack_lv1 = 1510
+| 3star_defense_lv1 = 1756
+| 3star_hp_max = 15253
+| 3star_attack_max = 5025
+| 3star_defense_max = 5886
+| 3star_illustrator_jp = Tiv
+
+| 4star_hp_lv1 = 5063
+| 4star_attack_lv1 = 1740
+| 4star_defense_lv1 = 2062
+| 4star_hp_max = 18753
+| 4star_attack_max = 6128
+| 4star_defense_max = 7315
+| 4star_illustrator_jp = Tiv
+
+| 5star_hp_lv1 = 
+| 5star_attack_lv1 = 
+| 5star_defense_lv1 = 
+| 5star_hp_max = 
+| 5star_attack_max = 
+| 5star_defense_max = 
+| 5star_illustrator_jp = 
+
+| se_hp_bonus = 7058
+| se_attack_bonus = 2175
+| se_defense_bonus = 3510
+
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 4
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Accele MP Gain Up
+| Passive 2 name = Accele Adept [II]
+| Passive 2 name JP = アクセル・アデプト[Ⅱ]
+| Passive 2 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 3 icon = Forest Attribute Damage Cut
+| Passive 3 name = ティンバーShield Adept [III]
+| Passive 3 name JP = ティンバーシールド・アデプト[Ⅲ]
+| Passive 3 effect = Forest Attribute Damage Cut [III / 15%]
+
+| Passive 4 icon = Charged Attack Damage Up
+| Passive 4 name = Charge Adept [II]
+| Passive 4 name JP = チャージ・アデプト[Ⅱ]
+| Passive 4 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 5 icon = Doppel Damage Up
+| Passive 5 name = Doppel Adept [I]
+| Passive 5 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 5 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 6 icon = Regenerate HP
+| Passive 6 name = Regeneration Adept [III]
+| Passive 6 name JP = リジェネレイト・アデプト[Ⅲ]
+| Passive 6 effect = Regenerate HP [III / 4%]
+
+| Passive 7 icon = Magia Damage Up
+| Passive 7 name = Magia Adept [II]
+| Passive 7 name JP = マギア・アデプト[Ⅱ]
+| Passive 7 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 8 icon = MP Gain Up When Over 100 MP
+| Passive 8 name = MP Boost [II]
+| Passive 8 name JP = MPブースト[Ⅱ]
+| Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 9 icon = Defense Up
+| Passive 9 name = Guard Adept [II]
+| Passive 9 name JP = ガード・アデプト[Ⅱ]
+| Passive 9 effect = Defense Up [II / 15%]
+
+| Passive 10 icon = Chance to Anti-Debuff
+| Passive 10 name = Anti-Debuff
+| Passive 10 name JP = アンチ・デバフ
+| Passive 10 effect = Chance to Anti-Debuff [100%] (Self / ∞ Turns)
+
+| Passive 11 icon = Doppel Damage Up
+| Passive 11 name = Doppel Adept [I]
+| Passive 11 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 11 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 12 icon = Status Ailment Resistance Up
+| Passive 12 name = Resist Adept [II]
+| Passive 12 name JP = レジスト・アデプト[Ⅱ]
+| Passive 12 effect = Status Ailment Resistance Up [II / 25%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = HP Restore
+| Active 1 name = ファーストエイド
+| Active 1 name JP = ファーストエイド
+| Active 1 effect = HP Restore [III / 100%] & Attack Down [III / 15%] (Self / 1 Turn)
+| Active 1 cooldown = 9
+
+| Connect name JP = え～…一緒に寝てよーよ…
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = V / 30%
+| Connect 1 / 2 = VII / 35%
+| Connect effect 2 = HP Restore
+| Connect 2 / 1 = V / 40%
+| Connect 2 / 2 = VII / 45%
+
+| Magia name JP = 戦ったら負け
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = III / 320%
+| Magia 1 / 2 = V / 340%
+| Magia effect 2 = Regenerate HP
+| Magia scaling 2 = 1%
+| Magia 2 / 1 = All / 3 Turns / III / 5%
+| Magia 2 / 2 = All / 3 Turns / V / 7%
+| Magia effect 3 = Regenerate MP
+| Magia scaling 3 = 0.5%
+| Magia 3 / 1 = All / 3 Turns / III / 5 MP
+| Magia 3 / 2 = All / 3 Turns / V / 7 MP
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 
+| Doppel Shape = 
+| Doppel Japanese Shape = 
+| Doppel Japanese Designer = 
+| Doppel effect = 
+}}

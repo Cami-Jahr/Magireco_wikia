@@ -1,0 +1,190 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Holy Mami (Anime ver.)
+| name_jp = ホーリーマミ (アニメver.)
+| name_na = 
+| element = Forest
+| base_rarity = 4
+| max_rarity = 5
+| id = 2502
+| type = Attack
+| growth_type = ATTACK
+| school_jp = 見滝原中学校
+| voice_actor_jp = 水橋かおり
+| designer_jp = 劇団イヌカレー（泥犬）
+| memoria = 
+| release_date = 2021-12-10
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 5674
+| 4star_attack_lv1 = 2245
+| 4star_defense_lv1 = 1682
+| 4star_hp_max = 20131
+| 4star_attack_max = 8257
+| 4star_defense_max = 5924
+| 4star_illustrator_jp = いもあん
+
+| 5star_hp_lv1 = 6347
+| 5star_attack_lv1 = 2523
+| 5star_defense_lv1 = 1894
+| 5star_hp_max = 25007
+| 5star_attack_max = 10319
+| 5star_defense_max = 7405
+| 5star_illustrator_jp = ササギコウシ
+
+| se_hp_bonus = 6525
+| se_attack_bonus = 2560
+| se_defense_bonus = 2520
+
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 4
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Damage Up Versus Enemies Affected With Status Ailments
+| Passive 3 name = Addict Killer [I]
+| Passive 3 name JP = アディクトキラー[Ⅰ]
+| Passive 3 effect = Damage Up Versus Enemies Affected With Status Ailments [I / 15%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Chance to Fog on Attack
+| Passive 6 name = Fog Edge [II]
+| Passive 6 name JP = フォッグ・エッジ[Ⅱ]
+| Passive 6 effect = Chance to Fog on Attack [II / 15%] (3 Turns)
+
+| Passive 7 icon = Damage Up Versus Enemies Affected With Status Ailments
+| Passive 7 name = Addict Killer [II]
+| Passive 7 name JP = アディクトキラー[Ⅱ]
+| Passive 7 effect = Damage Up Versus Enemies Affected With Status Ailments [II / 20%]
+
+| Passive 8 icon = Blast Damage Up
+| Passive 8 name = Blast Adept [II]
+| Passive 8 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 8 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 9 icon = Regenerate HP
+| Passive 9 name = Mana SpringAura [XV]
+| Passive 9 name JP = マナスプリングオーラ[XV]
+| Passive 9 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn)
+
+| Passive 10 icon = Doppel Damage Up
+| Passive 10 name = Doppel Adept [IV]
+| Passive 10 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 10 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
+
+| Passive 11 icon = Chance to Burn on Attack
+| Passive 11 name = Burn Edge [III]
+| Passive 11 name JP = バーン・エッジ[Ⅲ]
+| Passive 11 effect = Chance to Burn on Attack [III / 20%] (2 Turns)
+
+| Passive 12 icon = Chance to Anti-Magia Seal
+| Passive 12 name = Anti-Magia Seal
+| Passive 12 name JP = アンチ・シールマギア
+| Passive 12 effect = Chance to Anti-Magia Seal [100%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Magia Damage Up
+| Active 1 name = スペシャルライズ [V]
+| Active 1 name JP = スペシャルライズ[Ⅴ]
+| Active 1 effect = Magia Damage Up [V / 15%] (Self / 3 Turns) & Regenerate MP [V / 9 MP] (Self / 3 Turns)
+| Active 1 cooldown = 9
+
+| Connect name JP = さあ、一緒に救われましょう
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Increase
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Damage Up Versus Enemies Affected With Status Ailments
+| Connect 2 / 1 = VIII / 42.5%
+| Connect 2 / 2 = X / 47.5%
+| Connect effect 3 = Chance to Fog on Attack
+| Connect 3 / 1 = VIII / 100%
+| Connect 3 / 2 = X / 100%
+
+| Magia name JP = ティロフィナーレ・リベレーション
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 315%
+| Magia 1 / 2 = VII / 335%
+| Magia effect 2 = Forest Attribute Attack Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = Self / 3 Turns / V / 15%
+| Magia 2 / 2 = Self / 3 Turns / VII / 20%
+| Magia effect 3 = Magia Damage Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Self / 3 Turns / V / 15%
+| Magia 3 / 2 = Self / 3 Turns / VII / 20%
+| Magia effect 4 = Regenerate MP
+| Magia scaling 4 = 1%
+| Magia 4 / 1 = Self / 1 Turn / V / 30 MP
+| Magia 4 / 2 = Self / 1 Turn / VII / 35 MP
+| Magia effect 5 = Remove Debuffs
+| Magia scaling 5 = 0%
+| Magia 5 / 1 = %
+| Magia 5 / 2 = %
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = ティロフィナーレ・サルヴェッツァ
+| Doppel Shape = 
+| Doppel Japanese Shape = ー
+| Doppel Japanese Designer = ………
+| Doppel effect = Damage All Enemies [IX / 869%] & Forest Attribute Attack Up [IX / 35% / Self / 5 Turns] & Magia Damage Up [IX / 35% / Self / 5 Turns] & Chance to Anti-Debuff [100% / Self / 5 Turns] & Regenerate MP [IX / 64 MP / Self / 1 Turn] & Remove Debuffs [%]
+}}

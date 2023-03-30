@@ -1,0 +1,195 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Yakumo Mitama (Eternal Darkness ver.)
+| name_jp = 八雲 みたま (常闇ver.)
+| name_na = 
+| element = Void
+| base_rarity = 4
+| max_rarity = 5
+| id = 1217
+| type = Magia
+| growth_type = HP
+| school_jp = 大東学院
+| voice_actor_jp = 堀江由衣
+| designer_jp = ぷにゃん
+| memoria = 
+| release_date = 2022-10-24
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 4
+| blast_vert_disks = 0
+| blast_hori_disks = 0
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 7918
+| 4star_attack_lv1 = 1991
+| 4star_defense_lv1 = 1993
+| 4star_hp_max = 29328
+| 4star_attack_max = 7012
+| 4star_defense_max = 7071
+| 4star_illustrator_jp = ぷにゃん
+
+| 5star_hp_lv1 = 8788
+| 5star_attack_lv1 = 2214
+| 5star_defense_lv1 = 2215
+| 5star_hp_max = 36206
+| 5star_attack_max = 8656
+| 5star_defense_max = 8727
+| 5star_illustrator_jp = ぷにゃん
+
+| se_hp_bonus = 8909
+| se_attack_bonus = 2353
+| se_defense_bonus = 2589
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 10
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Accele MP Gain Up
+| Passive 2 name = Accele Adept [II]
+| Passive 2 name JP = アクセル・アデプト[Ⅱ]
+| Passive 2 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 3 icon = Defense Up
+| Passive 3 name = Guard Adept [III]
+| Passive 3 name JP = ガード・アデプト[Ⅲ]
+| Passive 3 effect = Defense Up [III / 22.5%]
+
+| Passive 4 icon = Accele MP Gain Up
+| Passive 4 name = Accele Adept [II]
+| Passive 4 name JP = アクセル・アデプト[Ⅱ]
+| Passive 4 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = MP Up When Damaged
+| Passive 6 name = Endor Adept [IV]
+| Passive 6 name JP = エンドア・アデプト[Ⅳ]
+| Passive 6 effect = MP Up When Damaged [IV / 4%]
+
+| Passive 7 icon = Chance to Curse on Attack
+| Passive 7 name = CurseEdge [III]
+| Passive 7 name JP = カースエッジ[Ⅲ]
+| Passive 7 effect = Chance to Curse on Attack [III / 20%] (2 Turns)
+
+| Passive 8 icon = MP Up When Damaged
+| Passive 8 name = Endor Adept [IV]
+| Passive 8 name JP = エンドア・アデプト[Ⅳ]
+| Passive 8 effect = MP Up When Damaged [IV / 4%]
+
+| Passive 9 icon = Barrier
+| Passive 9 name = バリアAura
+| Passive 9 name JP = バリアオーラ
+| Passive 9 effect = Barrier [5000 damage]
+
+| Passive 10 icon = Chance to Skill Quicken
+| Passive 10 name = Skill QuickenAura
+| Passive 10 name JP = スキルクイックオーラ
+| Passive 10 effect = Chance to Skill Quicken [100%] (Self / 1 Turn)
+
+| Passive 11 icon = MP Gauge Increased On Battle Start
+| Passive 11 name = Fast Mana Up
+| Passive 11 name JP = ファスト・マナアップ
+| Passive 11 effect = MP Gauge Increased On Battle Start [50% full]
+
+| Passive 12 icon = Chance to Anti-Magia Seal
+| Passive 12 name = Anti-Magia Seal
+| Passive 12 name JP = アンチ・シールマギア
+| Passive 12 effect = Chance to Anti-Magia Seal [100%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Chance to Skill Seal
+| Active 1 name = サイレント ナイト [X]
+| Active 1 name JP = サイレント・ナイト[Ⅹ]
+| Active 1 effect = Chance to Skill Seal [X / 52.5%] (All / 1 Turn) & Attack Down [III / 15%] (Self / 1 Turn)
+| Active 1 cooldown = 8
+
+| Connect name JP = まだ繋がれるの…？
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Attack Up
+| Connect 2 / 1 = VII / 35%
+| Connect 2 / 2 = IX / 40%
+
+| Magia name JP = 葬々魂吸演舞
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 0%
+| Magia 1 / 1 = %
+| Magia 1 / 2 = %
+| Magia effect 2 = Attack Down
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All / 3 Turns / 25%
+| Magia 2 / 2 = All / 3 Turns / 30%
+| Magia effect 3 = Defense Down
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All / 3 Turns / 15%
+| Magia 3 / 2 = All / 3 Turns / 20%
+| Magia effect 4 = Chance to Curse
+| Magia scaling 4 = 0%
+| Magia 4 / 1 = Self / 1 Turn / 100%
+| Magia 4 / 2 = Self / 1 Turn / 100%
+| Magia effect 5 = Chance to Magia Seal
+| Magia scaling 5 = 0%
+| Magia 5 / 1 = All / 2 Turns / 100%
+| Magia 5 / 2 = All / 2 Turns / 100%
+| Magia effect 6 = Chance to Skill Seal
+| Magia scaling 6 = 0%
+| Magia 6 / 1 = All / 2 Turns / 100%
+| Magia 6 / 2 = All / 2 Turns / 100%
+| Magia effect 7 = Frailty
+| Magia scaling 7 = 0%
+| Magia 7 / 1 = Self / 1 Turn / 100%
+| Magia 7 / 2 = Self / 1 Turn / 100%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = メメントモリのドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、花弁
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [%] & Attack Down [45% / All / 5 Turns] & Defense Down [35% / All / 5 Turns] & Chance to Curse [100% / Self / 1 Turn] & Chance to Magia Seal [100% / All / 3 Turns] & Chance to Skill Seal [100% / All / 3 Turns] & Frailty [100% / Self / 1 Turn]
+}}

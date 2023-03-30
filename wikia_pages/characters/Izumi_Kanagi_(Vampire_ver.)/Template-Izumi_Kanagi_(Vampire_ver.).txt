@@ -1,0 +1,186 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Izumi Kanagi (Vampire ver.)
+| name_jp = 和泉 十七夜 (ヴァンパイアver.)
+| name_na = 
+| element = Dark
+| base_rarity = 4
+| max_rarity = 5
+| id = 1116
+| type = Magia
+| growth_type = BALANCE
+| school_jp = 大東学院
+| voice_actor_jp = 千本木彩花
+| designer_jp = ササギコウシ
+| memoria = 
+| release_date = 2020-10-23
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 0
+| blast_hori_disks = 1
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 4952
+| 4star_attack_lv1 = 2210
+| 4star_defense_lv1 = 1496
+| 4star_hp_max = 17827
+| 4star_attack_max = 7956
+| 4star_defense_max = 5385
+| 4star_illustrator_jp = ササギコウシ
+
+| 5star_hp_lv1 = 5631
+| 5star_attack_lv1 = 2501
+| 5star_defense_lv1 = 1754
+| 5star_hp_max = 22524
+| 5star_attack_max = 10004
+| 5star_defense_max = 7016
+| 5star_illustrator_jp = ササギコウシ
+
+| se_hp_bonus = 5914
+| se_attack_bonus = 2212
+| se_defense_bonus = 2347
+
+| se accele bonus = 6
+| se blast bonus = 4
+| se charge bonus = 8
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [I]
+| Passive 1 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 1 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [III / 10%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [I]
+| Passive 3 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [III / 10%]
+
+| Passive 4 icon = MP Gain Up When Over 100 MP
+| Passive 4 name = MP Boost [II]
+| Passive 4 name JP = MPブースト[Ⅱ]
+| Passive 4 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 5 icon = Regenerate HP
+| Passive 5 name = Regeneration Adept [V]
+| Passive 5 name JP = リジェネレイト・アデプト[Ⅴ]
+| Passive 5 effect = Regenerate HP [V / 6%]
+
+| Passive 6 icon = Chance to Anti-Counter
+| Passive 6 name = Anti-Counter [V]
+| Passive 6 name JP = アンチ・カウンター[Ⅴ]
+| Passive 6 effect = Chance to Anti-Counter [V / 45%]
+
+| Passive 7 icon = Attack Up While At Max Health
+| Passive 7 name = Full Gauge Drive [VI]
+| Passive 7 name JP = フルゲージドライブ[Ⅵ]
+| Passive 7 effect = Attack Up While At Max Health [VI / 30%]
+
+| Passive 8 icon = Chance to Evade
+| Passive 8 name = Parry Adept [III]
+| Passive 8 name JP = パリィ・アデプト[Ⅲ]
+| Passive 8 effect = Chance to Evade [III / 20%]
+
+| Passive 9 icon = Chance to Evade
+| Passive 9 name = ParryAura [IX]
+| Passive 9 name JP = パリィオーラ[Ⅸ]
+| Passive 9 effect = Chance to Evade [IX / 50%] (Self / 5 Turns)
+
+| Passive 10 icon = Accele MP Gain Up
+| Passive 10 name = Accele Adept [V]
+| Passive 10 name JP = アクセル・アデプト[Ⅴ]
+| Passive 10 effect = Accele MP Gain Up [V / 20%]
+
+| Passive 11 icon = Negate Status Ailments
+| Passive 11 name = ResistShield
+| Passive 11 name JP = レジストシールド
+| Passive 11 effect = Negate Status Ailments [100%]
+
+| Passive 12 icon = Regenerate HP
+| Passive 12 name = Mana Spring Adept [V]
+| Passive 12 name JP = マナスプリング・アデプト[Ⅴ]
+| Passive 12 effect = Regenerate MP [V / 9 MP]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Chance to Evade
+| Active 1 name = ParryManaCharge [II]
+| Active 1 name JP = パリィマナチャージ[Ⅱ]
+| Active 1 effect = Chance to Evade [II / 100%] (Self / 1 Turn) & MP Restore [II / 18 MP]
+| Active 1 cooldown = 10
+
+| Connect name JP = お前も命を食む者か
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = HP Restore
+| Connect 2 / 1 = VII / 45%
+| Connect 2 / 2 = IX / 50%
+| Connect effect 3 = Chance to Evade
+| Connect 3 / 1 = VII / 100%
+| Connect 3 / 2 = IX / 100%
+
+| Magia name JP = ブラッディー・ルーラー
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = VI / 350%
+| Magia 1 / 2 = VIII / 370%
+| Magia effect 2 = MP Damage
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = All / VI / 60 MP
+| Magia 2 / 2 = All / VIII / 70 MP
+| Magia effect 3 = Chance to Evade
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = Self / 1 Turn / VI / 100%
+| Magia 3 / 2 = Self / 1 Turn / VIII / 100%
+| Magia effect 4 = HP Restore
+| Magia scaling 4 = 2%
+| Magia 4 / 1 = VI / 42.5%
+| Magia 4 / 2 = VIII / 47.5%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 解体のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、竈獅子
+| Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [X / 902%] & MP Damage [X / 100 MP / All] & Chance to Evade [X / 100% / Self / 2 Turns] & HP Restore [X / 60.5%]
+}}

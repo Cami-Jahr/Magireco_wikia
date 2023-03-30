@@ -1,0 +1,183 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Nanami Yachiyo (Fairy Tale ver.)
+| name_jp = 七海 やちよ (おとぎ話ver.)
+| name_na = 
+| element = Aqua
+| base_rarity = 4
+| max_rarity = 5
+| id = 1402
+| type = Magia
+| growth_type = ATKHP
+| school_jp = 神浜市立大学
+| voice_actor_jp = 雨宮天
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2022-12-20
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 0
+| charge_disks = 2
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 
+| 3star_attack_lv1 = 
+| 3star_defense_lv1 = 
+| 3star_hp_max = 
+| 3star_attack_max = 
+| 3star_defense_max = 
+| 3star_illustrator_jp = 
+
+| 4star_hp_lv1 = 6015
+| 4star_attack_lv1 = 2302
+| 4star_defense_lv1 = 1732
+| 4star_hp_max = 21966
+| 4star_attack_max = 8347
+| 4star_defense_max = 6190
+| 4star_illustrator_jp = ダリク
+
+| 5star_hp_lv1 = 6679
+| 5star_attack_lv1 = 2557
+| 5star_defense_lv1 = 1924
+| 5star_hp_max = 27116
+| 5star_attack_max = 10304
+| 5star_defense_max = 7638
+| 5star_illustrator_jp = ダリク
+
+| se_hp_bonus = 7145
+| se_attack_bonus = 2599
+| se_defense_bonus = 2610
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 10
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Chance to Evade
+| Passive 3 name = Parry Adept [II]
+| Passive 3 name JP = パリィ・アデプト[Ⅱ]
+| Passive 3 effect = Chance to Evade [II / 15%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Accele MP Gain Up
+| Passive 6 name = Accele Adept [II]
+| Passive 6 name JP = アクセル・アデプト[Ⅱ]
+| Passive 6 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 7 icon = Magia Damage Up
+| Passive 7 name = Magia Adept [II]
+| Passive 7 name JP = マギア・アデプト[Ⅱ]
+| Passive 7 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 8 icon = Flame Attribute Damage Cut
+| Passive 8 name = フレイムShield Adept [III]
+| Passive 8 name JP = フレイムシールド・アデプト[Ⅲ]
+| Passive 8 effect = Flame Attribute Damage Cut [III / 15%]
+
+| Passive 9 icon = Doppel Damage Up
+| Passive 9 name = DoppelAura [V]
+| Passive 9 name JP = ドッペルオーラ[Ⅴ]
+| Passive 9 effect = Doppel Damage Up [V / 25%] (Self / 5 Turns) & Magia Damage Up [IV / 12.5%] (Self / 5 Turns)
+
+| Passive 10 icon = Magia Damage Up
+| Passive 10 name = Magia Up Aura [II]
+| Passive 10 name JP = マギアアップ・オーラ[Ⅱ]
+| Passive 10 effect = Magia Damage Up [II / 12%] (All / 5 Turns)
+
+| Passive 11 icon = Chance to Anti-Charm
+| Passive 11 name = Anti-Charm
+| Passive 11 name JP = アンチ・チャーム
+| Passive 11 effect = Chance to Anti-Charm [100%]
+
+| Passive 12 icon = Regenerate HP
+| Passive 12 name = Mana SpringAura [XV]
+| Passive 12 name JP = マナスプリングオーラ[XV]
+| Passive 12 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn)
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Accele Draw
+| Active 1 name = Acceleドロー
+| Active 1 name JP = アクセルドロー
+| Active 1 effect = Accele Draw [100%]
+| Active 1 cooldown = 5
+
+| Connect name JP = クールに決めましょう
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Up
+| Connect 1 / 1 = VIII / 37.5%
+| Connect 1 / 2 = X / 42.5%
+| Connect effect 2 = MP Restore
+| Connect 2 / 1 = V / 22.5 MP
+| Connect 2 / 2 = VII / 27.5 MP
+
+| Magia name JP = アブソリュート・ゼロ
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage 4 Random Enemies
+| Magia effect 1 = Damage 4 Random Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = VI / 282.3%
+| Magia 1 / 2 = VIII / 299.7%
+| Magia effect 2 = Aqua Attribute Attack Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = Self / 3 Turns / VI / 5%
+| Magia 2 / 2 = Self / 3 Turns / VIII / 10%
+| Magia effect 3 = Attack Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Self / 3 Turns / VI / 5%
+| Magia 3 / 2 = Self / 3 Turns / VIII / 10%
+| Magia effect 4 = MP Restore
+| Magia scaling 4 = 1%
+| Magia 4 / 1 = VI / 20 MP
+| Magia 4 / 2 = VIII / 20 MP
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = モギリのドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、切符鋏
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage 5 Random Enemies [X / 676%] & Aqua Attribute Attack Up [X / 25% / All / 5 Turns] & Attack Up [X / 25% / Self / 5 Turns] & MP Restore [X / 24 MP / All]
+}}

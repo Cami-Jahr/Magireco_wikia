@@ -1,0 +1,193 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+| name = Akino Kaede
+| name_jp = 秋野 かえで
+| name_na = 
+| element = Forest
+| base_rarity = 3
+| max_rarity = 5
+| id = 1011
+| type = Magia
+| growth_type = ATKHP
+| school_jp = 神浜市立大附属学校
+| voice_actor_jp = 大橋彩香
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2017-08-22
+| release_date_na = 
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 1star_hp_lv1 = 
+| 1star_attack_lv1 = 
+| 1star_defense_lv1 = 
+| 1star_hp_max = 
+| 1star_attack_max = 
+| 1star_defense_max = 
+| 1star_illustrator_jp = 
+
+| 2star_hp_lv1 = 
+| 2star_attack_lv1 = 
+| 2star_defense_lv1 = 
+| 2star_hp_max = 
+| 2star_attack_max = 
+| 2star_defense_max = 
+| 2star_illustrator_jp = 
+
+| 3star_hp_lv1 = 3714
+| 3star_attack_lv1 = 1565
+| 3star_defense_lv1 = 1175
+| 3star_hp_max = 12805
+| 3star_attack_max = 5358
+| 3star_defense_max = 3966
+| 3star_illustrator_jp = 蒼樹うめ
+
+| 4star_hp_lv1 = 4560
+| 4star_attack_lv1 = 1921
+| 4star_defense_lv1 = 1443
+| 4star_hp_max = 16653
+| 4star_attack_max = 6965
+| 4star_defense_max = 5157
+| 4star_illustrator_jp = -
+
+| 5star_hp_lv1 = 5052
+| 5star_attack_lv1 = 2129
+| 5star_defense_lv1 = 1600
+| 5star_hp_max = 20511
+| 5star_attack_max = 8579
+| 5star_defense_max = 6352
+| 5star_illustrator_jp = -
+
+| se_hp_bonus = 5124
+| se_attack_bonus = 1373
+| se_defense_bonus = 1824
+
+| se accele bonus = 6
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [I]
+| Passive 1 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 1 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = MP Gain Up When Over 100 MP
+| Passive 3 name = MP Boost [I]
+| Passive 3 name JP = MPブースト[Ⅰ]
+| Passive 3 effect = MP Gain Up When Over 100 MP [I / 15%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = Magia Damage Up
+| Passive 5 name = Magia Adept [III]
+| Passive 5 name JP = マギア・アデプト[Ⅲ]
+| Passive 5 effect = Magia Damage Up [III / 10%]
+
+| Passive 6 icon = MP Gain Up When Over 100 MP
+| Passive 6 name = MP Boost [II]
+| Passive 6 name JP = MPブースト[Ⅱ]
+| Passive 6 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 7 icon = MP Gain Up When Over 100 MP
+| Passive 7 name = MP Boost [II]
+| Passive 7 name JP = MPブースト[Ⅱ]
+| Passive 7 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 8 icon = Damage Cut
+| Passive 8 name = Shield Adept [II]
+| Passive 8 name JP = シールド・アデプト[Ⅱ]
+| Passive 8 effect = Damage Cut [II / 10%]
+
+| Passive 9 icon = Blast Damage Up
+| Passive 9 name = Blast Adept [II]
+| Passive 9 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 9 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 10 icon = Chance to Fog on Attack
+| Passive 10 name = Fog Edge [II]
+| Passive 10 name JP = フォッグ・エッジ[Ⅱ]
+| Passive 10 effect = Chance to Fog on Attack [II / 15%] (3 Turns)
+
+| Passive 11 icon = Charged Attack Damage Up
+| Passive 11 name = Charge Adept [II]
+| Passive 11 name JP = チャージ・アデプト[Ⅱ]
+| Passive 11 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 12 icon = Chance to Anti-Poison
+| Passive 12 name = Anti-Poison
+| Passive 12 name JP = アンチ・ポイズン
+| Passive 12 effect = Chance to Anti-Poison [100%]
+
+| Passive 13 icon = 
+| Passive 13 name = 
+| Passive 13 name JP = 
+| Passive 13 effect = 
+
+| Active 1 icon = Chance to Fog
+| Active 1 name = Mist
+| Active 1 name JP = ミスト
+| Active 1 effect = Chance to Fog [100%] (One / 1 Turn)
+| Active 1 cooldown = 7
+
+| Connect name JP = わ、私も頑張ります！
+| Connect name EN = 
+| Connect name NA = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Up
+| Connect 1 / 1 = V / 30%
+| Connect 1 / 2 = VII / 35%
+| Connect 1 / 3 = VIII / 37.5%
+| Connect effect 2 = MP Gain Up
+| Connect 2 / 1 = V / 20%
+| Connect 2 / 2 = VII / 25%
+| Connect 2 / 3 = VIII / 27.5%
+| Connect effect 3 = Regenerate HP
+| Connect 3 / 1 = -
+| Connect 3 / 2 = -
+| Connect 3 / 3 = 3 Turns / VI / 7%
+
+| Magia name JP = ジャッジメントアース
+| Magia name EN = 
+| Magia name NA = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = IV / 305%
+| Magia 1 / 2 = VI / 325%
+| Magia 1 / 3 = VII / 335%
+| Magia effect 2 = Chance to Fog
+| Magia scaling 2 = 0%
+| Magia 2 / 1 = -
+| Magia 2 / 2 = All / 3 Turns / VI / 40%
+| Magia 2 / 3 = All / 3 Turns / VII / 50%
+| Magia effect 3 = Charged Attack Damage Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = -
+| Magia 3 / 3 = All / 3 Turns / VII / 20%
+| Magia effect 4 = Accele MP Gain Up
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = -
+| Magia 4 / 2 = -
+| Magia 4 / 3 = All / 3 Turns / VII / 20%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 陣取りのドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、敷地
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Doppel effect = Damage All Enemies [IX / 821%] & Chance to Fog [IX / 100% / All / 3 Turns] & Charged Attack Damage Up [IX / 35% / All / 3 Turns] & Accele MP Gain Up [IX / 35% / All / 3 Turns]
+}}
