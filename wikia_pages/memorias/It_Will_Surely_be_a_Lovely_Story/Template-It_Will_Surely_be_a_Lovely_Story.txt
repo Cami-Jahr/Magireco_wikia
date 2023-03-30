@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = It Will Surely be a Lovely Story
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = きっと愛しい物語に
+| Rarity = 4
+| ID = 1881
+| Illust = 谷口淳一郎
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2045
+| max_ATK = 2045
+| max_DEF = 0
+
+| image = Episode Experience Gain Increased
+| effect_name = エピソードBlastAdept 
+| effect_name_JP = エピソードブラストアデプト
+| effect1 = 
+| effect2 = Episode Experience Gain Increased [IV / 30%] & Blast Damage Up [III / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

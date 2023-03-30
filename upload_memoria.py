@@ -169,8 +169,7 @@ def read(piece, chars):
                 break
 
         skills.append((en_full_description, cooldown))
-    if only_max_level:
-        print(rank, piece_name_jp, illustrator, owner, hp, attack, defence, icon, skill_name_en, skill_name_jp, only_max_level, *skills[0], *skills[1])
+
     return [desc, [rank, piece_name_jp, illustrator, owner, hp, attack, defence, icon, skill_name_en, skill_name_jp, only_max_level, *skills[0], *skills[1]]]
 
 

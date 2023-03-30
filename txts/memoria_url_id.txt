@@ -865,5 +865,6 @@
 1878;Clock of Resignation Reflected in the Mirror
 1879;From Now On, With Everyone
 1880;Predestined Salvation
+1881;It Will Surely be a Lovely Story
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection
