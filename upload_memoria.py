@@ -64,11 +64,12 @@ def format_text(desc=""):
 
 def template_format(_id, Ename, stats=""):
     if stats:
-        rank, Jname, illu, owner, HP, ATK, DEF, icon, en, jp, st1, cd1, st2, cd2 = stats
+        rank, Jname, illu, owner, HP, ATK, DEF, icon, en, jp, only_max_level, st1, cd1, st2, cd2 = stats
         en = en.split("[")[0]
         jp = jp.split("[")[0]
     else:
         rank = Jname = illu = owner = HP = ATK = DEF = icon = en = jp = st1 = cd1 = st2 = cd2 = ""
+        only_max_level = False
 
     if HP.__class__ == int:
         HP2 = int(round(HP * 2.5, 0))
@@ -79,9 +80,9 @@ def template_format(_id, Ename, stats=""):
             DEF = ""
             ATK = ""
     else:
-        HP2 = ""
-        ATK2 = ""
-        DEF2 = ""
+        HP2 = ATK2 = DEF2 = ""
+    if only_max_level:
+        HP = ATK = DEF = ""
 
     return temp1 + temp2.format(
         Ename, rank, Jname, illu, owner, HP, HP2, ATK, ATK2, DEF, DEF2, icon, en, jp, st1, cd1,
@@ -110,6 +111,8 @@ def read(piece, chars):
     desc = piece["description"]
 
     skills = []
+    old_name = "TEMPLATE"
+    only_max_level = False
     for i in ("", "2"):
         # print(f"pieceSkill{i}")
         arts = []
@@ -134,6 +137,11 @@ def read(piece, chars):
                 st += f" ({eng[e][1]})"
 
         jp = piece[f"pieceSkill{i}"]["name"].strip()
+        if old_name == jp:
+            only_max_level = True
+        else:
+            old_name = jp
+
         # for s, f in roman_to_full.items():
         #    jp = jp.replace(s, f)
         en = jp
@@ -150,7 +158,7 @@ def read(piece, chars):
                 break
 
         skills.append((st, cd))
-    return [desc, [rank, Jname, illu, owner, hp, atk, de, icon, en, jp, *skills[0], *skills[1]]]
+    return [desc, [rank, Jname, illu, owner, hp, atk, de, icon, en, jp, only_max_level, *skills[0], *skills[1]]]
 
 
 def get_json():
