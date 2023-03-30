@@ -1,4 +1,5 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Isabeau
 | name_jp = イザボー
 | name_na = 
@@ -127,7 +128,7 @@
 | Passive 12 icon = Regenerate HP
 | Passive 12 name = ナーシングケア [V]
 | Passive 12 name JP = ナーシングケア[Ⅴ]
-| Passive 12 effect = Regenerate HP [V / 9%]
+| Passive 12 effect = Regenerate HP [V / 6%] & Regenerate MP [V / 9 MP]
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -137,7 +138,7 @@
 | Active 1 icon = Chance to Curse
 | Active 1 name = CurseManaCharge [II]
 | Active 1 name JP = カースマナチャージ[Ⅱ]
-| Active 1 effect = Chance to Curse [II / 100%] (One / 1 Turn) & MP Restore [II / 18%]
+| Active 1 effect = Chance to Curse [II / 100%] (One / 1 Turn) & MP Restore [II / 18 MP]
 | Active 1 cooldown = 10
 
 | Connect name JP = 女王が与える…

@@ -21,7 +21,7 @@
 | effect_name = Fast Mana Up
 | effect_name_JP = ファスト・マナアップ
 | effect1 = 
-| effect2 = MP Gauge Increased On Battle Start [10%]
+| effect2 = MP Gauge Increased On Battle Start [10% full]
 | Cooldown = 
 | Cooldown2 = 
 }}

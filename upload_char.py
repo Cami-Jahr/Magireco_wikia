@@ -57,11 +57,11 @@ if __name__ == '__main__':
     c_list = sorted(list(chars))
 
     mat_list = awaken.read_mats_json()
-    formated_mats = awaken.mats_formater(mat_list, files, chars)
+    formatted_mats = awaken.mats_formater(mat_list, files, chars)
     voice_lines = voice.read_lines_json()
-    formated_voice = voice.mats_sender(voice_lines)
+    formatted_voice = voice.mats_sender(voice_lines)
     trivia = story.read_trivia_json()
-    formated_trivia = story.story_formater(trivia)
+    formatted_trivia = story.story_formater(trivia)
     main_parent = os.path.join("wikia_pages", "characters")
     shutil.rmtree(main_parent)
 
@@ -72,11 +72,11 @@ if __name__ == '__main__':
         Path(parent).mkdir(parents=True, exist_ok=True)
         # print(i, chars[i], f"https://magireco.fandom.com/wiki/Template:{ch}?action=edit")
 
-        main_temp_text, main_page_text = main_section(ch, read_stats.format_info(i), formated_trivia[i][0])
-        ability_page_text = abilities_section(ch, formated_trivia[i][1])
-        upgrade_temp_text, upgrade_page_text = upgrades_section(ch, formated_mats[i])
+        main_temp_text, main_page_text = main_section(ch, read_stats.format_info(i), formatted_trivia[i][0])
+        ability_page_text = abilities_section(ch, formatted_trivia[i][1])
+        upgrade_temp_text, upgrade_page_text = upgrades_section(ch, formatted_mats[i])
         trivia_text = trivia_section(ch)
-        voice_page_text = voice_section(ch, formated_voice[i])
+        voice_page_text = voice_section(ch, formatted_voice[i])
 
         for page, text in (
                 (f"Template-{ch}", main_temp_text),

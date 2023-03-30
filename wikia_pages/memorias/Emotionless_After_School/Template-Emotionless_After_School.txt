@@ -20,8 +20,8 @@
 | image = MP Restore
 | effect_name = ManaCharge Circle 
 | effect_name_JP = マナチャージ・サークル
-| effect1 = MP Restore [I / 12.5%] (All)
-| effect2 = MP Restore [II / 15%] (All)
+| effect1 = MP Restore [I / 12.5 MP] (All)
+| effect2 = MP Restore [II / 15 MP] (All)
 | Cooldown = 12
 | Cooldown2 = 10
 }}

@@ -20,8 +20,8 @@
 | image = Chance to Counter
 | effect_name = Counter
 | effect_name_JP = カウンター
-| effect1 = Chance to Counter [80%] (Self / 1 Turn)
-| effect2 = Chance to Counter [80%] (Self / 1 Turn)
+| effect1 = Chance to Counter [100%] (Self / 1 Turn)
+| effect2 = Chance to Counter [100%] (Self / 1 Turn)
 | Cooldown = 15
 | Cooldown2 = 13
 }}

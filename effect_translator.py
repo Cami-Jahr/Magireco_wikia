@@ -445,19 +445,22 @@ def translate(shortDescription, arts):
     icon = ""
     idx = 0
     for art in arts:
+        if "effectCode" in art:
+            effect_code = art["effectCode"]
+        else:
+            effect_code = None
+        verb_code = art["verbCode"]
+
         try:
-            sub = master[art["verbCode"]]
+            sub = master[verb_code]
         except KeyError as e:
-            print("UNKNOWN verbCode   =", art["verbCode"], "in master", art)
+            print("UNKNOWN verbCode   =", verb_code, "in master", art)
             raise e
         try:
             try:
-                text, uses_roman, no_states_target = sub[art["effectCode"]]
+                text, uses_roman, no_states_target = sub[effect_code]
             except KeyError:
                 text, uses_roman, no_states_target = sub[art["targetId"]]
-            st = text
-            if st == "Damage Up" and "状態" in shortDescription:
-                st = "Damage Increase"
             if not icon:
                 icon = text
             val = 0
@@ -476,34 +479,43 @@ def translate(shortDescription, arts):
                 effect = ""
             else:
                 if pro and (val >= 100 or val == 0):
-                    effect = pro
-                elif art["verbCode"] == "ENCHANT" or art["verbCode"] == "CONDITION_BAD" or art["verbCode"] == "IGNORE":
+                    if effect_code in ("BARRIER", ):
+                        effect = val
+                    else:
+                        effect = pro
+                elif verb_code in ("ENCHANT", "CONDITION_BAD", "IGNORE") or effect_code in ("COUNTER", ):
                     effect = pro
                 else:
                     effect = val
 
             if uses_roman:
                 try:
-                    if effect == "MP Restore":
-                        effect = f"{romans[idx]} / {effect} MP"
-                    else:
-                        effect = f"{romans[idx]} / {effect}%"
+                    effect = f"{romans[idx]} / {effect}%"
                     idx += 1
                 except IndexError:
                     if idx > 0:
-                        if effect == "MP Restore":
-                            effect = f"{romans[idx - 1]} / {effect} MP"
-                        else:
-                            effect = f"{romans[idx - 1]} / {effect}%"
+                        effect = f"{romans[idx - 1]} / {effect}%"
                     else:
-                        if effect == "MP Restore":
-                            effect = f"{effect} MP"
-                        else:
-                            effect = f"{effect}%"
-
+                        effect = f"{effect}%"
             else:
                 effect = f"{effect}%"
-            ef = effect
+
+            if effect_code in ("MP", "MP_DAMAGE"):
+                if verb_code == "INITIAL":
+                    effect = effect.replace("%", "% full")
+                else:
+                    effect = effect.replace("%", " MP")
+            if effect_code in ("AUTO_HEAL", ) and "genericValue" in art and art["genericValue"] == "MP":
+                text = text.replace("HP", "MP")
+                effect = effect.replace("%", " MP")
+            if text == "Damage Up" and "状態" in shortDescription:
+                text = "Damage Increase"
+
+            if effect_code in ("COUNTER",) and val > 100:
+                text = "Strengthened Counter"
+            if effect_code in ("BARRIER",):
+                effect = effect.replace("%", "0 damage")
+
             try:
                 target = target_tl[art["targetId"]]
             except KeyError:
@@ -530,14 +542,14 @@ def translate(shortDescription, arts):
                 sc = 0
             if sc % 1 == 0:
                 sc = int(sc)
-            effects[st] = (ef, ta, f"{sc}%")
+            effects[text] = (effect, ta, f"{sc}%")
         except KeyError as e:
             print("UNKNOWN effectCode =", art["effectCode"], shortDescription, art)
             raise e
         except IndexError as e:
             print("Missing roman in", shortDescription, romans, art)
             raise e
-    # ¤print(shortDescription)
-    # ¤print(st)
+    # print(shortDescription)
+    # print(text)
 
     return effects, icon

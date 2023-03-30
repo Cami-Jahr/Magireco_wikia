@@ -20,8 +20,8 @@
 | image = Regenerate HP
 | effect_name = Mana Spring 
 | effect_name_JP = マナスプリング
-| effect1 = Regenerate HP [I / 3%] (Self / 3 Turns)
-| effect2 = Regenerate HP [I / 3%] (Self / 3 Turns)
+| effect1 = Regenerate MP [I / 3 MP] (Self / 3 Turns)
+| effect2 = Regenerate MP [I / 3 MP] (Self / 3 Turns)
 | Cooldown = 8
 | Cooldown2 = 6
 }}

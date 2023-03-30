@@ -21,7 +21,7 @@
 | effect_name = キモチは旋律に溶けて
 | effect_name_JP = キモチは旋律に溶けて
 | effect1 = 
-| effect2 = Regenerate HP [III / 6%] & Accele MP Gain Up [II / 12.5%]
+| effect2 = Regenerate MP [III / 6 MP] & Accele MP Gain Up [II / 12.5%]
 | Cooldown = 
 | Cooldown2 = 
 }}

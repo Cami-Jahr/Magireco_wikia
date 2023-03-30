@@ -20,8 +20,8 @@
 | image = MP Gauge Increased On Battle Start
 | effect_name = Mana エキスパート 
 | effect_name_JP = マナ・エキスパート
-| effect1 = MP Gauge Increased On Battle Start [15%] & Accele MP Gain Up [IV / 17.5%]
-| effect2 = MP Gauge Increased On Battle Start [20%] & Accele MP Gain Up [V / 20%]
+| effect1 = MP Gauge Increased On Battle Start [15% full] & Accele MP Gain Up [IV / 17.5%]
+| effect2 = MP Gauge Increased On Battle Start [20% full] & Accele MP Gain Up [V / 20%]
 | Cooldown = 
 | Cooldown2 = 
 }}

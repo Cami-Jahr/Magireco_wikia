@@ -20,8 +20,8 @@
 | image = Chance to Counter
 | effect_name = Counter Adept 
 | effect_name_JP = カウンター・アデプト
-| effect1 = Chance to Counter [II / 80%]
-| effect2 = Chance to Counter [III / 80%]
+| effect1 = Chance to Counter [II / 15%]
+| effect2 = Chance to Counter [III / 20%]
 | Cooldown = 
 | Cooldown2 = 
 }}

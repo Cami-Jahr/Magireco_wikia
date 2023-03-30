@@ -21,7 +21,7 @@
 | effect_name = まっしろな未来 
 | effect_name_JP = まっしろな未来
 | effect1 = 
-| effect2 = MP Restore [II / 18%]
+| effect2 = MP Restore [II / 18 MP]
 | Cooldown = 
 | Cooldown2 = 5
 }}
