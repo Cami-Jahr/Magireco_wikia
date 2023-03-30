@@ -1,9 +1,13 @@
-import urllib.request as ur
-from json import loads, dumps
 import os
-from subprocess import Popen, PIPE
-from multiprocessing import Process
 import ssl
+import urllib.request as ur
+from json import (
+    dumps,
+    loads)
+from multiprocessing import Process
+from subprocess import (
+    PIPE,
+    Popen)
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
@@ -13,13 +17,14 @@ online_path_jp = "https://android.magi-reco.com/magica/resource/download/asset/m
 online_path_en = "https://android.magica-us.com/magica/resource/download/asset/master/resource/"
 temp_path = "D:/MagirecoTemps/"
 
+
 def download_files(json, old_files, file_name, savepoint, online_path, local_path):
     old_path = ""
     done = []
     length = len(json)
     nr = 0
     show = 0
-    print("Total size of {} is {}. Savepoint sat to {}. Already have {} files".format(file_name, length, savepoint, len(old_files)))
+    print(f"Total size of {file_name} is {length}. Savepoint sat to {savepoint}. Already have {len(old_files)} files")
     for item in json:
         nr += 1
         show += 1
@@ -63,8 +68,10 @@ def download_files(json, old_files, file_name, savepoint, online_path, local_pat
                     f.write(ur.urlopen(request).read())
             _type = file[-3:]
             if _type == "png" or _type == "jpg":
-                Popen(['ffmpeg', "-y", "-i", 'concat:{}'.format("|".join(paths)), "-c", "copy", local_path + file],
-                      stdout=PIPE, stdin=PIPE)
+                Popen(
+                    ['ffmpeg', "-y", "-i", 'concat:{}'.format("|".join(paths)), "-c", "copy", local_path + file],
+                    stdout=PIPE,
+                    stdin=PIPE)
             else:
                 _object = b""
                 for path in paths:
@@ -111,18 +118,29 @@ def run(file_name, path, nr, online_path, local_path):
     download_files(online_json, old_files, file_name, nr, online_path, local_path)
     print("\nJSON_IS_DONE: " + file_name + "\n")
 
-def run_jp(file_name, source, nr): 
-    run(file_name, "https://android.magi-reco.com/magica/resource/download/asset/master/" + source + ".json", nr, online_path_jp, local_path_jp)
 
-def run_en(file_name, source, nr): 
-    run(file_name, "https://android.magica-us.com/magica/resource/download/asset/master/" + source + ".json", nr, online_path_en, local_path_en)
+def run_jp(file_name, source, nr):
+    run(
+        file_name, "https://android.magi-reco.com/magica/resource/download/asset/master/" + source + ".json",
+        nr,
+        online_path_jp,
+        local_path_jp)
+
+
+def run_en(file_name, source, nr):
+    run(
+        file_name, "https://android.magica-us.com/magica/resource/download/asset/master/" + source + ".json",
+        nr,
+        online_path_en,
+        local_path_en)
+
 
 if __name__ == '__main__':
     Process(target=run_jp, args=("files_main", "asset_main", 25)).start()
-    #Process(target=run_jp, args=("files_voice", "asset_voice", 40)).start()
-    #Process(target=run_jp, args=("files_prologue_voice", "asset_prologue_voice", 40)).start()
+    # Process(target=run_jp, args=("files_voice", "asset_voice", 40)).start()
+    # Process(target=run_jp, args=("files_prologue_voice", "asset_prologue_voice", 40)).start()
     Process(target=run_jp, args=("files_prologue_main", "asset_prologue_main", 40)).start()
     Process(target=run_jp, args=("files_char_list", "asset_char_list", 40)).start()
-    #Process(target=run_jp, args=("files_fullvoice", "asset_fullvoice", 40)).start()
+    # Process(target=run_jp, args=("files_fullvoice", "asset_fullvoice", 40)).start()
     Process(target=run_jp, args=("files_movie_high", "asset_movieall_high", 5)).start()
-    #Process(target=run_en, args=("files_movie_high_en", "asset_movie_high", 5)).start()
+    # Process(target=run_en, args=("files_movie_high_en", "asset_movie_high", 5)).start()

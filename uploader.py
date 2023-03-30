@@ -1,11 +1,12 @@
-import selenium.webdriver.support.ui as ui
 from time import sleep
-from selenium.common.exceptions import TimeoutException
-from credentials import username, password
+
+import selenium.webdriver.support.ui as ui
 from selenium import webdriver
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.common.by import By
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
+
 
 class Uploader:
     def __init__(self):
@@ -84,14 +85,13 @@ class Uploader:
 
     def main_section(self, char, stats, text):
         self.upload("Template:" + char, stats)
-        self.upload(char,
-                    "{{" + char + "}}" + 
-                    "\n\n{{Description\n| en = \n| na = \n| jp = " + text + "\n}}\n\n{{Tabs}}")
+        self.upload(
+            char,
+            "{{" + char + "}}" +
+            "\n\n{{Description\n| en = \n| na = \n| jp = " + text + "\n}}\n\n{{Tabs}}")
 
     def abilities_section(self, char, doppel_story):
         text = "{{" + char + "|Abilities}}"
         if doppel_story:
             text += "\n\n{{Description\n| en = \n| na = \n| jp = " + doppel_story + "\n}}"
         self.upload("/".join([char, "Abilities"]), text)
-
-

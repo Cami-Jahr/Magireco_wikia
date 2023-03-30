@@ -1,7 +1,10 @@
 from json import loads
-from upload_char import Uploader
-from credentials import username, password
+
+from credentials import (
+    password,
+    username)
 from helpers import get_memo_list
+from upload_char import Uploader
 
 with open("jsons/collection.json", "r", encoding="utf-8-sig") as f:
     json = loads(f.read())
@@ -28,4 +31,3 @@ if __name__ == '__main__':
             text = text.replace("Jname", "Naname = " + (na_names[_id] if _id in na_names else "") + "\n|Jname")
             S.upload("Template:" + names[_id], text)
     S.end()
-

@@ -1,9 +1,15 @@
-from json import loads
-from effect_translator import translate, jp_to_en, roman_to_full
-from helpers import get_char_list, get_memo_list
-from pathlib import Path
 import os
 import shutil
+from json import loads
+from pathlib import Path
+
+from effect_translator import (
+    jp_to_en,
+    roman_to_full,
+    translate)
+from helpers import (
+    get_char_list,
+    get_memo_list)
 
 text1 = """{{ {{PAGENAME}} |Stats}}
 
@@ -56,7 +62,7 @@ def format_text(desc=""):
     return f"{text1}| jp = {desc}\n| en = \n| na = {text2}"
 
 
-def template_format(_id, Ename, stats = ""):
+def template_format(_id, Ename, stats=""):
     if stats:
         rank, Jname, illu, owner, HP, ATK, DEF, icon, en, jp, st1, cd1, st2, cd2 = stats
         en = en.split("[")[0]
@@ -77,7 +83,9 @@ def template_format(_id, Ename, stats = ""):
         ATK2 = ""
         DEF2 = ""
 
-    return temp1 + temp2.format(Ename, rank, Jname, illu, owner, HP, HP2, ATK, ATK2, DEF, DEF2, icon, en, jp, st1, cd1, st2, cd2, _id) + temp3
+    return temp1 + temp2.format(
+        Ename, rank, Jname, illu, owner, HP, HP2, ATK, ATK2, DEF, DEF2, icon, en, jp, st1, cd1,
+        st2, cd2, _id) + temp3
 
 
 def read(piece, chars):
@@ -100,10 +108,10 @@ def read(piece, chars):
                 owner += "; "
             owner += chars[obj["charaId"]]
     desc = piece["description"]
-    
+
     skills = []
     for i in ("", "2"):
-        #print(f"pieceSkill{i}")
+        # print(f"pieceSkill{i}")
         arts = []
         for j in range(1, 10):
             try:
@@ -126,7 +134,7 @@ def read(piece, chars):
                 st += f" ({eng[e][1]})"
 
         jp = piece[f"pieceSkill{i}"]["name"].strip()
-        #for s, f in roman_to_full.items():
+        # for s, f in roman_to_full.items():
         #    jp = jp.replace(s, f)
         en = jp
         for j, e in jp_to_en.items():
@@ -135,14 +143,15 @@ def read(piece, chars):
             en = en.replace(s, f)
         for c in en:
             if ord(c) > 200:
-                #print("missing translation for", piece["pieceId"], "?", repr(en))
-                #for c in en:
-                    #print(ord(c), end=" ")
-                #print()
+                # print("missing translation for", piece["pieceId"], "?", repr(en))
+                # for c in en:
+                # print(ord(c), end=" ")
+                # print()
                 break
 
         skills.append((st, cd))
     return [desc, [rank, Jname, illu, owner, hp, atk, de, icon, en, jp, *skills[0], *skills[1]]]
+
 
 def get_json():
     coll = {}
@@ -155,6 +164,7 @@ def get_json():
         coll[json[piece]["pieceId"]] = read(json[piece], chars)
     return coll
 
+
 if __name__ == '__main__':
     chars = get_char_list()
     memos = get_memo_list()
@@ -164,7 +174,7 @@ if __name__ == '__main__':
         1535: "きみの眼を見れば",
         1538: "今日という一生の思い出",
     }
-            
+
     coll = get_json()
     m_list = sorted(list(coll))
 
@@ -192,7 +202,7 @@ if __name__ == '__main__':
         for page, text in (
                 (f"{Fname}", format_text(coll[_id][0].replace("＠", "<br />").replace("@", "<br />"))),
                 (f"Template-{Fname}", template_format(_id, Ename, coll[_id][1]))
-                ):   
+        ):
             with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
                 f.write(text)
 
@@ -207,7 +217,6 @@ if __name__ == '__main__':
         for page, text in (
                 (f"{Fname}", format_text()),
                 (f"Template-{Fname}", template_format(_id, Ename))
-                ):   
+        ):
             with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
                 f.write(text)
-

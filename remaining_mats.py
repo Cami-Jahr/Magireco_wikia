@@ -1,6 +1,9 @@
-import read_awaken_mats
 from collections import defaultdict
-from helpers import get_char_list, get_filenames
+
+import read_awaken_mats
+from helpers import (
+    get_char_list,
+    get_filenames)
 
 cc_cost = {
     -1: 1410000,
@@ -10,6 +13,7 @@ cc_cost = {
     3: 1000000,
     4: 0,
 }
+
 
 def main(owned=True, dont_show_done=True):
     files = get_filenames()

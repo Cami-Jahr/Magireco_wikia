@@ -1,8 +1,12 @@
 from time import sleep
-from credentials import username, password
+
+import selenium.webdriver.support.ui as ui
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
-import selenium.webdriver.support.ui as ui
+
+from credentials import (
+    password,
+    username)
 
 
 class Uploader:

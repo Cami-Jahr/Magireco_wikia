@@ -1,5 +1,7 @@
 import os
-from subprocess import Popen, PIPE
+from subprocess import (
+    PIPE,
+    Popen)
 
 temp_location = "D:/MagirecoTemps/hcaTemps"
 temp_files = set(os.listdir(temp_location))

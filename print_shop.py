@@ -1,5 +1,5 @@
-from json import loads
 from collections import defaultdict
+from json import loads
 
 char_list = {}
 with open("chars.txt", "r", ) as f:
@@ -147,18 +147,20 @@ def format_shop(shops):
         newline = False
 
         print("\n== Purchusable from " + periode[:-1] + " ==")
-        print("""{| class="wikitable" style="width:100%; text-align:center"
-! style="width:16.7%" |Item
-! style="width:16.6%" |Quantity
-! style="width:16.7%" |Price
-! style="width:16.7%" |Item
-! style="width:16.6%" |Quantity
-! style="width:16.7%" |Price
-|-""")
+        print(
+            """{| class="wikitable" style="width:100%; text-align:center"
+            ! style="width:16.7%" |Item
+            ! style="width:16.6%" |Quantity
+            ! style="width:16.7%" |Price
+            ! style="width:16.7%" |Item
+            ! style="width:16.6%" |Quantity
+            ! style="width:16.7%" |Price
+            |-""")
         for item in items:
-            print("""|{{ItemPic|size=50|item=%s}}
-|%s
-|%s x [[File:XXXXX.png|50px]]""" % (item[0], item[2], item[1]))
+            print(
+                """|{{ItemPic|size=50|item=%s}}
+                |%s
+                |%s x [[File:XXXXX.png|50px]]""" % (item[0], item[2], item[1]))
             if newline:
                 print("|-")
             newline = not newline

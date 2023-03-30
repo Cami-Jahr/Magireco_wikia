@@ -1,6 +1,6 @@
-#from upload_char import Uploader
-#from credentials import username, password
-#import re
+# from upload_char import Uploader
+# from credentials import username, password
+# import re
 
 """
 S = Uploader()
@@ -34,7 +34,7 @@ with open("div.txt") as f:
             except ValueError:
                 pass
             L.append(line.replace("Japanese", "NA") + " ")
-        
+
 print("\n".join(L))
 with open("div.txt", "w") as f:
     f.write("\n".join(L))

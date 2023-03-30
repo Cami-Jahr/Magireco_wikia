@@ -2,7 +2,7 @@ import re
 
 roman_to_full = {
     "Ⅰ": "I",
-    "Ⅱ" : "II",
+    "Ⅱ": "II",
     "Ⅲ": "III",
     "Ⅳ": "IV",
     "Ⅴ": "V",
@@ -10,18 +10,18 @@ roman_to_full = {
     "Ⅶ": "VII",
     "Ⅷ": "VIII",
     "Ⅸ": "IX",
-    "X":  "X",
+    "X": "X",
     "Ⅹ": "X",
-    "XI": "XI",    
-    "XII": "XII",    
+    "XI": "XI",
+    "XII": "XII",
     "XIII": "XIII",
     "XⅡ": "XII",
     "XⅢ": "XIII",
     "ⅩⅢ": "XIII",
-    "XIV": "XIV",    
-    "XV": "XV",   
+    "XIV": "XIV",
+    "XV": "XV",
     "XⅤ": "XV",
-    "XVI": "XVI",    
+    "XVI": "XVI",
     "XVII": "XVII",
     "XVIII": "XVIII",
     "XIX": "XIX",
@@ -29,7 +29,7 @@ roman_to_full = {
     "XXI": "XXI",
     "XXII": "XXII",
     "XXIII": "XXIII",
-    "XXIV": "XXIV",    
+    "XXIV": "XXIV",
     "XXV": "XXV",
     "8": "8",  # ‘Tis I, the Third Amane Sister, Tsukune
     "88": "88",
@@ -53,23 +53,23 @@ good = {
     "COUNTER": ("Chance to Counter", True, False),
     "DAMAGE_DOWN_ACCEL": ("Accele Damage Cut", True, False),
     "DAMAGE_DOWN_NODISK": ("Magia Damage Cut", True, False),
-    "DAMAGE_DOWN_FIRE":("Flame Attribute Damage Cut", True, False),
-    "DAMAGE_DOWN_TIMBER":("Forest Attribute Damage Cut", True, False),
-    "DAMAGE_DOWN_DARK":("Dark Attribute Damage Cut", True, False),
-    "DAMAGE_DOWN_LIGHT":("Light Attribute Damage Cut", True, False),
-    "DAMAGE_DOWN_WATER":("Aqua Attribute Damage Cut", True, False),
-    "DAMAGE_DOWN_VOID":("Void Attribute Damage Cut", True, False),
-    "C_COMBO_PLUS": ("Charge Combo Charge Count Up (+1 / cannot be repeated)" , False, False),
+    "DAMAGE_DOWN_FIRE": ("Flame Attribute Damage Cut", True, False),
+    "DAMAGE_DOWN_TIMBER": ("Forest Attribute Damage Cut", True, False),
+    "DAMAGE_DOWN_DARK": ("Dark Attribute Damage Cut", True, False),
+    "DAMAGE_DOWN_LIGHT": ("Light Attribute Damage Cut", True, False),
+    "DAMAGE_DOWN_WATER": ("Aqua Attribute Damage Cut", True, False),
+    "DAMAGE_DOWN_VOID": ("Void Attribute Damage Cut", True, False),
+    "C_COMBO_PLUS": ("Charge Combo Charge Count Up (+1 / cannot be repeated)", False, False),
     "MP_PLUS_DAMAGED": ("MP Up When Damaged", True, False),
     "DAMAGE_UP_BAD": ("Damage Up Versus Enemies Affected With Status Ailments", True, False),
     "SURVIVE": ("Survive", True, False),
-    "MP_PLUS_BLAST" : ("Blast MP Gain Up", True, False),
+    "MP_PLUS_BLAST": ("Blast MP Gain Up", True, False),
     "DAMAGE_UP": ("Damage Increase", True, False),
     "ATTACK_UP": ("Attack Up", True, False),
     "IMITATE_ATTRIBUTE": ("Imitate Attribute", True, False),
-    "NO_COST_CHARGE":("Charge Conservation",True,False),
-    "BARRIER":("Barrier",True,False),
-    "REFLECT_DEBUFF":("Reflect",True,False),
+    "NO_COST_CHARGE": ("Charge Conservation", True, False),
+    "BARRIER": ("Barrier", True, False),
+    "REFLECT_DEBUFF": ("Reflect", True, False),
 }
 
 bad = {
@@ -81,10 +81,10 @@ bad = {
     "STUN": ("Chance to Stun", True, False),
     "BLINDNESS": ("Chance to Dazzle", True, False),
     "DARKNESS": ("Chance to Darkness", True, False),
-    "BAN_SKILL": ("Chance to Skill Seal", True, False),    
+    "BAN_SKILL": ("Chance to Skill Seal", True, False),
     "BAN_MAGIA": ("Chance to Magia Seal", True, False),
     "RESTRAINT": ("Chance to Bind", True, False),
-    "DAMAGE_UP_BAD_NUM":("Frailty",True,False),
+    "DAMAGE_UP_BAD_NUM": ("Frailty", True, False),
 }
 
 enchant = {
@@ -93,11 +93,11 @@ enchant = {
     "POISON": ("Chance to Poison on Attack", True, True),
     "FOG": ("Chance to Fog on Attack", True, True),
     "BLINDNESS": ("Chance to Dazzle on Attack", True, True),
-    "CURSE": ("Chance to Curse on Attack", True, True),        
-    "BURN": ("Chance to Burn on Attack", True, True),    
+    "CURSE": ("Chance to Curse on Attack", True, True),
+    "BURN": ("Chance to Burn on Attack", True, True),
     "DARKNESS": ("Chance to Darkness on Attack", True, True),
     "RESTRAINT": ("Chance to Bind on Attack", True, True),
-    "BAN_SKILL": ("Chance to Skill Seal on Attack", True, True),    
+    "BAN_SKILL": ("Chance to Skill Seal on Attack", True, True),
     "BAN_MAGIA": ("Chance to Magia Seal on Attack", True, True),
 }
 
@@ -129,8 +129,8 @@ ignore = {
     "COUNTER": ("Chance to Anti-Counter", True, False),
     "DAMAGE_DOWN": ("Ignore Damage Cut", True, False),
     "POISON": ("Chance to Anti-Poison", True, False),
-    "CURSE": ("Chance to Anti-Curse", True, False),        
-    "CHARM": ("Chance to Anti-Charm", True, False),    
+    "CURSE": ("Chance to Anti-Curse", True, False),
+    "CHARM": ("Chance to Anti-Charm", True, False),
     "BURN": ("Chance to Anti-Burn", True, False),
     "RESTRAINT": ("Chance to Anti-Bind", True, False),
     "PROVOKE": ("Chance to Anti-Provoke", True, False),
@@ -139,7 +139,7 @@ ignore = {
     "BLINDNESS": ("Chance to Anti-Dazzle", True, False),
     "DARKNESS": ("Chance to Anti-Darkness", True, False),
     "CRITICAL": ("Chance to Anti-Critical Hit", True, False),
-    "CONDITION_BAD":("Negate Status Ailments",True,False),
+    "CONDITION_BAD": ("Negate Status Ailments", True, False),
 }
 
 revoke = {
@@ -149,16 +149,14 @@ revoke = {
     "DEBUFF": ("Remove Debuffs", False, False),
 }
 
-
-
 buff_party_die = {
-    "ATTACK" : ("Attack Up When Ally Dies", True, False),
-    "DEFENSE" : ("Defense Up When Ally Dies", True, False),
+    "ATTACK": ("Attack Up When Ally Dies", True, False),
+    "DEFENSE": ("Defense Up When Ally Dies", True, False),
 }
 
 buff_dying = {
     "ATTACK": ("Attack Up When At Critical Health", True, False),
-    "DEFENSE" : ("Defense Up When At Critical Health", True, False),
+    "DEFENSE": ("Defense Up When At Critical Health", True, False),
 }
 
 initial = {
@@ -167,22 +165,22 @@ initial = {
 
 heal = {
     "MP_DAMAGE": ("MP Damage", True, False),
-    "HP": ("HP Restore", True, False),    
+    "HP": ("HP Restore", True, False),
     "MP": ("MP Restore", True, False),
 }
 
 debuff = {
     "DEFENSE": ("Defense Down", True, False),
-    "ATTACK": ("Attack Down", True, False),    
+    "ATTACK": ("Attack Down", True, False),
     "DAMAGE": ("Damage Down", True, False),
-    "WEAK_FIRE":("Flame Defense Down", True, False),
-    "WEAK_TIMBER":("Forest Defense Down", True, False),
-    "WEAK_DARK":("Dark Defense Down", True, False),
-    "WEAK_LIGHT":("Light Defense Down", True, False),
-    "WEAK_WATER":("Aqua Defense Down", True, False),
-    "WEAK_VOID":("Void Defense Down", True, False),
-    "WEAK_CHARGE_DONE":("Charged Attack Received Damage Up", True, False),
-    "WEAK_BLAST":("Blast Disc Received Damage Up",True,False),
+    "WEAK_FIRE": ("Flame Defense Down", True, False),
+    "WEAK_TIMBER": ("Forest Defense Down", True, False),
+    "WEAK_DARK": ("Dark Defense Down", True, False),
+    "WEAK_LIGHT": ("Light Defense Down", True, False),
+    "WEAK_WATER": ("Aqua Defense Down", True, False),
+    "WEAK_VOID": ("Void Defense Down", True, False),
+    "WEAK_CHARGE_DONE": ("Charged Attack Received Damage Up", True, False),
+    "WEAK_BLAST": ("Blast Disc Received Damage Up", True, False),
     "MP_GAIN": ("MP Gain Down", True, False),
     "RESIST": ("Status Ailment Resistance Down", True, False),
     "MAGIA": ("Magia Damage Down", True, False),
@@ -192,15 +190,15 @@ debuff = {
 
 buff_hpmax = {
     "ATTACK": ("Attack Up While At Max Health", True, False),
-    "DEFENSE" : ("Defense Up While At Max Health", True, False),
+    "DEFENSE": ("Defense Up While At Max Health", True, False),
 }
 
 draw = {
     "AGAIN": ("Redraw Discs", False, False),
-    "ACCEL": ("Accele Draw", False, False),    
-    "BLAST": ("Blast Draw", False, False),    
-    "CHARGE": ("Charge Draw", False, False),    
-    "ALIGNMENT": ("Attribute Draw", False, False),    
+    "ACCEL": ("Accele Draw", False, False),
+    "BLAST": ("Blast Draw", False, False),
+    "CHARGE": ("Charge Draw", False, False),
+    "ALIGNMENT": ("Attribute Draw", False, False),
     "SELF": ("Monopolize Draw", False, False),
 }
 
@@ -211,13 +209,13 @@ limited = {
 attack = {
     "ALL": ("Damage All Enemies", True, True),
     "TARGET": ("Damage One Enemy", True, True),
-    "HORIZONTAL": ("Damage A Horizontal Line", True, True),    
+    "HORIZONTAL": ("Damage A Horizontal Line", True, True),
     "VERTICAL": ("Damage A Vertical Line", True, True),
-    "RANDOM1": ("Damage a Random Enemy", True, True), 
-    "RANDOM2": ("Damage 2 Random Enemies", True, True), 
-    "RANDOM3": ("Damage 3 Random Enemies", True, True), 
-    "RANDOM4": ("Damage 4 Random Enemies", True, True), 
-    "RANDOM5": ("Damage 5 Random Enemies", True, True), 
+    "RANDOM1": ("Damage a Random Enemy", True, True),
+    "RANDOM2": ("Damage 2 Random Enemies", True, True),
+    "RANDOM3": ("Damage 3 Random Enemies", True, True),
+    "RANDOM4": ("Damage 4 Random Enemies", True, True),
+    "RANDOM5": ("Damage 5 Random Enemies", True, True),
 }
 
 resurrect = {
@@ -225,7 +223,7 @@ resurrect = {
 }
 
 buff_die = {
-    "ATTACK": ("Attack Up Upon Death", True, True),    
+    "ATTACK": ("Attack Up Upon Death", True, True),
     "DEFENSE": ("Defense Up Upon Death", True, True),
 }
 
@@ -249,7 +247,7 @@ enemies = {
 }
 
 master = {  # verbCode
-    "CONDITION_GOOD" : good,
+    "CONDITION_GOOD": good,
     "CONDITION_BAD": bad,
     "BUFF": buff,
     "IGNORE": ignore,
@@ -285,7 +283,7 @@ jp_to_en = {
     "スキルクイック": "Skill Quicken",
     "フルバースト": "Full Burst",
     "ピースフルカーム": "Peaceful Calm",
-    "アタックライズ": "Attack Rise",    
+    "アタックライズ": "Attack Rise",
     "アクセルライズ": "Accelerise",
     "フレッシュヒール": "Fresh Heal",
     "ブラストサルテーション": "Blast Salutation",
@@ -306,7 +304,7 @@ jp_to_en = {
     "マナスプリング": "Mana Spring",
     "ソリッドライズ": "Solid Rise",
     "カーススクリーム": "Curse Scream",
-    "チャージコンボプラス": "Charge Combo Plus", 
+    "チャージコンボプラス": "Charge Combo Plus",
     "クライシスアタック": "Crisis Attack",
     "アップリフト": "Uplift",
     "クライシスガード": "Crisis Guard",
@@ -328,7 +326,7 @@ jp_to_en = {
     "アンチ・": "Anti-",
     "・": " ",
     "[": " [",
-    "ブレス": "Brace", 
+    "ブレス": "Brace",
     "サークル": "Circle",
     "エリミネイト": "Eliminate",
     "アップ": " Up",
@@ -430,14 +428,17 @@ target_tl = {
 
 special = {
     "敵全体にダメージ & ２パターンの効果がランダムで発動": ({
-        "Random Damage Effect & Random Pattern<br/>'''Pattern 1:''' Damage All Enemies [880%] & Defense Up (Allies / 3 Turns / 73.8%) & Damage Cut (Allies / 3 Turns / 50%) & HP Restore (Allies / 28%) <br/>'''Pattern 2:''' Damage All Enemies [902%] & Chance to Burn (All Enemies / 3 Turns / 50%) & Chance to Darkness (All Enemies / 1 Turn / 47.5%) & Chance to Bind (All Enemies / 1 Turn / 50%)": ("", "", ""),
-        }, ""),
-    }
+        "Random Damage Effect & Random Pattern<br/>'''Pattern 1:''' Damage All Enemies [880%] & Defense Up (Allies / 3 Turns / 73.8%) & Damage Cut (Allies / "
+        "3 Turns / 50%) & HP Restore (Allies / 28%) <br/>'''Pattern 2:''' Damage All Enemies [902%] & Chance to Burn (All Enemies / 3 Turns / 50%) & Chance "
+        "to Darkness (All Enemies / 1 Turn / 47.5%) & Chance to Bind (All Enemies / 1 Turn / 50%)": (
+            "", "", ""),
+    }, ""),
+}
+
 
 def translate(shortDescription, arts):
     if shortDescription in special:
         return special[shortDescription]
-
 
     romans = [roman_to_full[i] for i in re.findall(r"""\[(.*?)]""", shortDescription)]
     effects = {}
@@ -491,9 +492,9 @@ def translate(shortDescription, arts):
                 except IndexError:
                     if idx > 0:
                         if effect == "MP Restore":
-                            effect = f"{romans[idx-1]} / {effect} MP"
+                            effect = f"{romans[idx - 1]} / {effect} MP"
                         else:
-                            effect = f"{romans[idx-1]} / {effect}%"
+                            effect = f"{romans[idx - 1]} / {effect}%"
                     else:
                         if effect == "MP Restore":
                             effect = f"{effect} MP"
@@ -503,7 +504,7 @@ def translate(shortDescription, arts):
             else:
                 effect = f"{effect}%"
             ef = effect
-            try: 
+            try:
                 target = target_tl[art["targetId"]]
             except KeyError:
                 target = ""
@@ -515,7 +516,7 @@ def translate(shortDescription, arts):
                 turns = 0
 
             # Move 1 down so thing w multiple efefcts only have 1 (target / X turns)?
-            if turns and target and not no_states_target: # enchant dont need target  
+            if turns and target and not no_states_target:  # enchant dont need target
                 ta = "{} / {} Turn{}".format(target, turns, "s" if turns != 1 else "")
             elif turns:
                 ta = "{} Turn{}".format(turns, "s" if turns != 1 else "")
@@ -536,9 +537,7 @@ def translate(shortDescription, arts):
         except IndexError as e:
             print("Missing roman in", shortDescription, romans, art)
             raise e
-    #¤print(shortDescription)
-    #¤print(st)
-
-
+    # ¤print(shortDescription)
+    # ¤print(st)
 
     return effects, icon

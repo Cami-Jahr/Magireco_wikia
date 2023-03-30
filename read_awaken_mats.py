@@ -14,9 +14,10 @@ def read_awaken(entry):
         max_rank = entry[card]["cardId"] % 10
         for i in range(1, 7):
             try:
-                mats.append((mats_location["giftId{}".format(i)], mats_location["giftNum{}".format(i)],
-                                mats_location["bonusCode{}".format(i)],
-                                mats_location["bonusNum{}".format(i)] // 10))
+                mats.append(
+                    (mats_location["giftId{}".format(i)], mats_location["giftNum{}".format(i)],
+                    mats_location["bonusCode{}".format(i)],
+                    mats_location["bonusNum{}".format(i)] // 10))
             except KeyError:
                 pass
         awakening_mats.append(mats)
@@ -62,7 +63,9 @@ def mats_formater(mat_list, file_names, char_list):
     overview = {}
     for entry in mat_list:
         _id, max_rank, magia_mats, awaken_mats = entry
-        magia_string = """{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}"""
+        magia_string = """{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{
+        13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{
+        {28|}}}|{{{29|}}}|{{{30|}}}"""
         try:
             magia_string += """\n|name = {}""".format(char_list[_id])
         except KeyError:
@@ -87,8 +90,9 @@ def mats_formater(mat_list, file_names, char_list):
                 awaken_string += """|Item{0}{1} = {2}
 |Quantity{0}{1} = {3}
 |Buff{4}{0} = {5}
-""".format(lvl, json_poss[
-                    bonus[2]], file_names[bonus[0]], bonus[1], poss_wiki[json_poss[bonus[2]]], bonus[3])
+""".format(
+                    lvl, json_poss[
+                        bonus[2]], file_names[bonus[0]], bonus[1], poss_wiki[json_poss[bonus[2]]], bonus[3])
             awaken_string += "\n"
         cost = {4: "1000000", 3: "300000", 2: "100000", 1: "10000"}
         for i in range(1, final):

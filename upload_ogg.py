@@ -1,9 +1,13 @@
 from time import sleep
-from credentials import username, password
-from upload_char import Uploader
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
+
 from selenium.common.exceptions import WebDriverException
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+
+from credentials import (
+    password,
+    username)
+from upload_char import Uploader
 
 
 class ImageUploader(Uploader):

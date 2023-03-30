@@ -1,3 +1,0 @@
-﻿<tabber>
-Magical Girl = 
-</tabber>

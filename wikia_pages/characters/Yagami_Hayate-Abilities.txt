@@ -1,7 +1,0 @@
-﻿{{Yagami_Hayate|Abilities}}
-
-{{Description
-| en = 
-| na = 
-| jp = ー
-}}

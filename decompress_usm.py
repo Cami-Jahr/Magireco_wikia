@@ -1,10 +1,13 @@
 import os
-from subprocess import Popen, PIPE
+from subprocess import (
+    PIPE,
+    Popen)
 from time import sleep
+
 from helpers import get_char_list
 
-
 cha = get_char_list()
+
 
 def merge_files(path, target, base_target):
     dirs = sorted(os.listdir(path), reverse=True)
@@ -42,4 +45,4 @@ merge_files(base_original_path, base_target_path, base_target_path)
 
 base_original_path = "D:/OneDrive - NTNU/Private projects/Reverse Engineer/com.aniplex.magireco/files/madomagi/resource_en/movie"
 base_target_path = "D:/OneDrive - NTNU/Private projects/Reverse Engineer/Video_en"
-#merge_files(base_original_path, base_target_path, base_target_path)
+# merge_files(base_original_path, base_target_path, base_target_path)

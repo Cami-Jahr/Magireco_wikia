@@ -1,10 +1,15 @@
-from json import loads
-from helpers import get_char_list
-from effect_translator import translate, roman_to_full, jp_to_en
 import re
 from collections import defaultdict
+from json import loads
 
-textS = """{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}"""
+from effect_translator import (
+    jp_to_en,
+    roman_to_full,
+    translate)
+from helpers import get_char_list
+
+textS = """{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
+14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}"""
 textM1 = """
 | name = {0}
 | name_jp = {1}
@@ -95,26 +100,33 @@ types = {
     "EXCEED": "Exceed",
     "ARUTEMETTO": "Ultimate",
     "AKUMA": "Akuma",
-    "INFINITE":"Infinite",
+    "INFINITE": "Infinite",
 }
 
-star1 = [0, .05, .1, .15, .2, .25, .3, .35, .41, .46, .51, .56, .61, .66, .71, .76, .82, .87, .92, .97, 1.02, 1.07, 1.12,
-         1.17, 1.23, 1.28, 1.33, 1.38, 1.43, 1.48, 1.53, 1.58, 1.64, 1.69, 1.74, 1.79, 1.84, 1.89, 1.94, 2]
+star1 = [0, .05, .1, .15, .2, .25, .3, .35, .41, .46, .51, .56, .61, .66, .71, .76, .82, .87, .92, .97, 1.02, 1.07,
+    1.12,
+    1.17, 1.23, 1.28, 1.33, 1.38, 1.43, 1.48, 1.53, 1.58, 1.64, 1.69, 1.74, 1.79, 1.84, 1.89, 1.94, 2]
 star2 = [0, .04, .08, .13, .17, .22, .26, .31, .35, .4, .44, .49, .53, .58, .62, .67, .71, .76, .8, .85, .89, .94, .98,
-         1.03, 1.07, 1.12, 1.16, 1.21, 1.25, 1.3, 1.34, 1.39, 1.43, 1.48, 1.52, 1.57, 1.61, 1.66, 1.7, 1.75, 1.79, 1.84,
-         1.88, 1.93, 1.97, 2.02, 2.06, 2.11, 2.15, 2.2]
-star3 = [0, .04, .08, .12, .16, .2, .24, .28, .32, .36, .4, .44, .48, .52, .56, .61, .65, .69, .73, .77, .81, .85, .89, .93,
-         .97, 1.01, 1.05, 1.09, 1.13, 1.17, 1.22, 1.26, 1.3, 1.34, 1.38, 1.42, 1.46, 1.5, 1.54, 1.58, 1.62, 1.66, 1.7, 1.74,
-         1.78, 1.83, 1.87, 1.91, 1.95, 1.99, 2.03, 2.07, 2.11, 2.15, 2.19, 2.23, 2.27, 2.31, 2.35, 2.4]
-star4 = [0, .03, .06, .09, .13, .16, .19, .23, .26, .29, .32, .36, .39, .42, .46, .49, .52, .55, .59, .62, .65, .69, .72,
-         .75, .78, .82, .85, .88, .92, .95, .98, 1.02, 1.05, 1.08, 1.11, 1.15, 1.18, 1.21, 1.25, 1.28, 1.31, 1.34, 1.38,
-         1.41, 1.44, 1.48, 1.51, 1.54, 1.57, 1.61, 1.64, 1.67, 1.71, 1.74, 1.77, 1.81, 1.84, 1.87, 1.9, 1.94, 1.97, 2, 2.04,
-         2.07, 2.1, 2.13, 2.17, 2.2, 2.23, 2.27, 2.3, 2.33, 2.36, 2.4, 2.43, 2.46, 2.5, 2.53, 2.56, 2.6]
-star5 = [0, .03, .06, .09, .12, .15, .18, .21, .24, .27, .3, .33, .36, .39, .42, .45, .48, .51, .54, .57, .6, .63, .66, .69,
-         .72, .75, .78, .81, .84, .87, .9, .93, .96, 1, 1.03, 1.06, 1.09, 1.12, 1.15, 1.18, 1.21, 1.24, 1.27, 1.3, 1.33,
-         1.36, 1.39, 1.42, 1.45, 1.48, 1.51, 1.54, 1.57, 1.6, 1.63, 1.66, 1.69, 1.72, 1.75, 1.78, 1.81, 1.84, 1.87, 1.9,
-         1.93, 1.96, 2, 2.03, 2.06, 2.09, 2.12, 2.15, 2.18, 2.21, 2.24, 2.27, 2.3, 2.33, 2.36, 2.39, 2.42, 2.45, 2.48, 2.51,
-         2.54, 2.57, 2.6, 2.63, 2.66, 2.69, 2.72, 2.75, 2.78, 2.81, 2.84, 2.87, 2.9, 2.93, 2.96, 3]
+    1.03, 1.07, 1.12, 1.16, 1.21, 1.25, 1.3, 1.34, 1.39, 1.43, 1.48, 1.52, 1.57, 1.61, 1.66, 1.7, 1.75, 1.79, 1.84,
+    1.88, 1.93, 1.97, 2.02, 2.06, 2.11, 2.15, 2.2]
+star3 = [0, .04, .08, .12, .16, .2, .24, .28, .32, .36, .4, .44, .48, .52, .56, .61, .65, .69, .73, .77, .81, .85, .89,
+    .93,
+    .97, 1.01, 1.05, 1.09, 1.13, 1.17, 1.22, 1.26, 1.3, 1.34, 1.38, 1.42, 1.46, 1.5, 1.54, 1.58, 1.62, 1.66, 1.7,
+    1.74,
+    1.78, 1.83, 1.87, 1.91, 1.95, 1.99, 2.03, 2.07, 2.11, 2.15, 2.19, 2.23, 2.27, 2.31, 2.35, 2.4]
+star4 = [0, .03, .06, .09, .13, .16, .19, .23, .26, .29, .32, .36, .39, .42, .46, .49, .52, .55, .59, .62, .65, .69,
+    .72,
+    .75, .78, .82, .85, .88, .92, .95, .98, 1.02, 1.05, 1.08, 1.11, 1.15, 1.18, 1.21, 1.25, 1.28, 1.31, 1.34, 1.38,
+    1.41, 1.44, 1.48, 1.51, 1.54, 1.57, 1.61, 1.64, 1.67, 1.71, 1.74, 1.77, 1.81, 1.84, 1.87, 1.9, 1.94, 1.97, 2,
+    2.04,
+    2.07, 2.1, 2.13, 2.17, 2.2, 2.23, 2.27, 2.3, 2.33, 2.36, 2.4, 2.43, 2.46, 2.5, 2.53, 2.56, 2.6]
+star5 = [0, .03, .06, .09, .12, .15, .18, .21, .24, .27, .3, .33, .36, .39, .42, .45, .48, .51, .54, .57, .6, .63, .66,
+    .69,
+    .72, .75, .78, .81, .84, .87, .9, .93, .96, 1, 1.03, 1.06, 1.09, 1.12, 1.15, 1.18, 1.21, 1.24, 1.27, 1.3, 1.33,
+    1.36, 1.39, 1.42, 1.45, 1.48, 1.51, 1.54, 1.57, 1.6, 1.63, 1.66, 1.69, 1.72, 1.75, 1.78, 1.81, 1.84, 1.87, 1.9,
+    1.93, 1.96, 2, 2.03, 2.06, 2.09, 2.12, 2.15, 2.18, 2.21, 2.24, 2.27, 2.3, 2.33, 2.36, 2.39, 2.42, 2.45, 2.48,
+    2.51,
+    2.54, 2.57, 2.6, 2.63, 2.66, 2.69, 2.72, 2.75, 2.78, 2.81, 2.84, 2.87, 2.9, 2.93, 2.96, 3]
 
 
 def A(rank, level):
@@ -214,8 +226,9 @@ def format_info(_id):
     card = work_on["defaultCard"]
     low_rank = card["cardId"] % 10
     disk_layout = [card[f"commandType{i}"] for i in range(1, 6)]
-    t3 = textM2.format(disk_layout.count('MPUP'), disk_layout.count('RANGE_V'), disk_layout.count('RANGE_H'),
-                       disk_layout.count('CHARGE'))
+    t3 = textM2.format(
+        disk_layout.count('MPUP'), disk_layout.count('RANGE_V'), disk_layout.count('RANGE_H'),
+        disk_layout.count('CHARGE'))
     rank = low_rank
 
     cards = ["defaultCard", *[f"evolutionCard{i}" for i in range(1, 5)]]
@@ -240,7 +253,7 @@ def format_info(_id):
         except KeyError:
             print("Missing illustrator in eng or jap dict:", illu)
             raise SystemExit
-    
+
     t5 = make_magia_doppel_and_connect(work_on, cards)
 
     t4 = textM3.format(*rank_stats)
@@ -257,7 +270,6 @@ def format_info(_id):
         except KeyError:
             pass
 
-
     att = attributes[work_on["attributeId"]]
     name = characters[_id].replace("_", " ")
     designer = work_on["designer"]
@@ -267,7 +279,7 @@ def format_info(_id):
         type = types[work_on["initialType"]]
     except KeyError:
         try:
-            type = "Cycles " + types[work_on["initialType"][7:]] # Remove CIRCLE_
+            type = "Cycles " + types[work_on["initialType"][7:]]  # Remove CIRCLE_
         except KeyError:
             type = "Unknown"
     try:
@@ -275,8 +287,9 @@ def format_info(_id):
     except KeyError:
         release = "2017-08-22"
     try:
-        t2 = textM1.format(name, jap, low_rank, rank, _id, designer, school, att, voice_actor,
-                           type, release, growth)
+        t2 = textM1.format(
+            name, jap, low_rank, rank, _id, designer, school, att, voice_actor,
+            type, release, growth)
     except KeyError as e:
         print("Missing illustrator in eng or jap dict:", designer)
         raise e
@@ -285,6 +298,7 @@ def format_info(_id):
     except KeyError:
         t1 = "\n\n"
     return textS + t2 + t3 + t4 + t1 + t5 + textE
+
 
 def make_magia_doppel_and_connect(dic, cards):
     c_name = m_name = d_name = c_icon = m_icon = doppel_effect = d_titl = d_dess = ""
@@ -336,7 +350,6 @@ def make_magia_doppel_and_connect(dic, cards):
                 except KeyError:
                     break
             doppel_effect = translate(dopel["shortDescription"], arts)[0]
-        
 
     all_ceff = [e for e, i in sorted(all_ceff.items(), key=lambda x: x[1], reverse=True)]
     c_eff = """| Connect effect {} = {}
@@ -351,7 +364,7 @@ def make_magia_doppel_and_connect(dic, cards):
 """.format(c_name, c_icon)
     for i in range(len(all_ceff)):
         c_out += c_eff.format(i + 1, all_ceff[i])
-        for j in range(1, len(connects)+1):
+        for j in range(1, len(connects) + 1):
             try:
                 word = connects[-j][all_ceff[i]]
                 if word[1] == "1 Turn" or not word[1]:
@@ -362,8 +375,7 @@ def make_magia_doppel_and_connect(dic, cards):
                 st = "-"
             except IndexError:
                 break
-            c_out += c_nr.format(i+1, j, st)
-
+            c_out += c_nr.format(i + 1, j, st)
 
     all_meff = [e for e, i in sorted(all_meff.items(), key=lambda x: x[1], reverse=True)]
     m_eff = """| Magia effect {0} = {1}
@@ -379,7 +391,7 @@ def make_magia_doppel_and_connect(dic, cards):
 """.format(m_name, m_icon)
     for i in range(len(all_meff)):
         m_out += m_eff.format(i + 1, all_meff[i], mscalings[all_meff[i]])
-        for j in range(1, len(magias)+1):
+        for j in range(1, len(magias) + 1):
             try:
                 word = magias[-j][all_meff[i]]
                 if word[1] == "1 Turn" or not word[1]:
@@ -390,7 +402,7 @@ def make_magia_doppel_and_connect(dic, cards):
                 st = "-"
             except IndexError:
                 break
-            m_out += m_nr.format(i+1, j, st)
+            m_out += m_nr.format(i + 1, j, st)
 
     out = ""
     if d_titl:
@@ -408,7 +420,7 @@ def make_magia_doppel_and_connect(dic, cards):
                         nr = int(nr)
 
                     desc = desc.replace(base[0], str(nr))
-            desc = desc + (" / " if doppel_effect[e][1] and desc else "") + doppel_effect[e][1] 
+            desc = desc + (" / " if doppel_effect[e][1] and desc else "") + doppel_effect[e][1]
             out += f"{e} [{desc}]"
 
     d_out = """
@@ -422,6 +434,7 @@ def make_magia_doppel_and_connect(dic, cards):
 """.format(d_name, d_titl, d_dess, out)
 
     return c_out + m_out + d_out
+
 
 def make_spirit_enchantment(cells):
     a_output = p_output = ""
@@ -473,7 +486,7 @@ def make_spirit_enchantment(cells):
                     st += f" ({eng[e][1]})"
 
             jp = cell["emotionSkill"]["name"].strip()
-            #for s, f in roman_to_full.items():
+            # for s, f in roman_to_full.items():
             #    jp = jp.replace(s, f)
             en = jp
             for j, e in jp_to_en.items():
@@ -497,7 +510,7 @@ def make_spirit_enchantment(cells):
                     duration = "∞"
                 a_output += a_temp.format(a_idx, jp, en, icon, st, duration)
                 a_idx += 1
-        elif cell["enhancementType"] == "START": 
+        elif cell["enhancementType"] == "START":
             pass
         else:
             print("\t\tUNKNOWN enhancementType:", cell["enhancementType"])

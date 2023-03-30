@@ -1,7 +1,0 @@
-﻿{{Ultimate_Madoka|Abilities}}
-
-{{Description
-| en = 
-| na = 
-| jp = ー
-}}

@@ -1,7 +1,0 @@
-﻿{{Little_Kyuubey|Abilities}}
-
-{{Description
-| en = 
-| na = 
-| jp = ー
-}}

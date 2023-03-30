@@ -248,7 +248,8 @@ def mats_sender(voice_list):
 | Japanese Random 3 = 
 | NA Random 3 = 
 | Random 3 = 
-""".format(line[1], line[2], line[3], line[4], line[5], line[6], line[8], line[9], line[10],
-                        line[7], line[11])
+""".format(
+            line[1], line[2], line[3], line[4], line[5], line[6], line[8], line[9], line[10],
+            line[7], line[11])
         overview[line[0]] = text + "}}"
     return overview
