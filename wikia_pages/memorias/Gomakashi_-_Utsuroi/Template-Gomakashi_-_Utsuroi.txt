@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Gomakashi - Utsuroi
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ごまかし／うつろい
+| Rarity = 4
+| ID = 1469
+| Illust = 谷口淳一郎
+| Owner = 
+
+| min_HP = 400
+| min_ATK = 400
+| min_DEF = 0
+| max_HP = 1000
+| max_ATK = 1000
+| max_DEF = 0
+
+| image = Chance to Anti-Bind
+| effect_name = ごまかし／うつろい
+| effect_name_JP = ごまかし／うつろい
+| effect1 = Chance to Anti-Bind [I / 100%] & Chance to Anti-Stun [I / 100%] & Attack Up [I / 5%]
+| effect2 = Chance to Anti-Bind [I / 100%] & Chance to Anti-Stun [I / 100%] & Attack Up [I / 5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

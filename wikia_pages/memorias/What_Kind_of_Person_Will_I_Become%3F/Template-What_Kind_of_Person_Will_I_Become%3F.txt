@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = What Kind of Person Will I Become?
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = どんなわたしになるのかな？
+| Rarity = 4
+| ID = 1340
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 802
+| min_ATK = 0
+| min_DEF = 812
+| max_HP = 2005
+| max_ATK = 0
+| max_DEF = 2030
+
+| image = Blast Damage Up
+| effect_name = オールディスク Up 
+| effect_name_JP = オールディスクアップ
+| effect1 = Blast Damage Up [IV / 30%] (Self / 1 Turn) & Charged Attack Damage Up [IV / 12.5%] (Self / 1 Turn) & Accele MP Gain Up [III / 15%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [V / 35%] (Self / 1 Turn) & Charged Attack Damage Up [V / 15%] (Self / 1 Turn) & Accele MP Gain Up [IV / 17.5%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

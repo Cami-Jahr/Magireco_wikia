@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「最強を目指す魔法少女は、どんな時でも最強を目指す！<br />もちろん、体育の授業のバスケットボールでも！<br />わたしにボールを回してくれれば、バッチリ決めちゃうから！<br />トラベリング？何それ？そんなんでわたしは止められないよ～!!」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

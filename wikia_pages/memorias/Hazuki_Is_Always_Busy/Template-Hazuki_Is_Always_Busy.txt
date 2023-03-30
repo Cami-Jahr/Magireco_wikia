@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Hazuki Is Always Busy
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 葉月はいつでも忙しい
+| Rarity = 3
+| ID = 1116
+| Illust = スミカワ
+| Owner = Yusa Hazuki
+
+| min_HP = 481
+| min_ATK = 0
+| min_DEF = 441
+| max_HP = 1202
+| max_ATK = 0
+| max_DEF = 1102
+
+| image = Chance to Skill Quicken
+| effect_name = Skill Quicken
+| effect_name_JP = スキルクイック
+| effect1 = Chance to Skill Quicken [100%] (Self / 3 Turns)
+| effect2 = Chance to Skill Quicken [100%] (Self / 3 Turns)
+| Cooldown = 15
+| Cooldown2 = 13
+}}

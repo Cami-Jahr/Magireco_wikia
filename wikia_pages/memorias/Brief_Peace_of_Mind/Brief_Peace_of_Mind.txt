@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「もうすぐ終わるから、あとで妖魔を倒しに行きましょう」<br />「のんびりしてぇところだけど、仕方ねぇよな」<br />「私たちは食べてるぶんだけ働いて、みんなを救わないと」<br />「働き手が多い方が未来の米が増えるしな」「あら、割と打算的ね」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

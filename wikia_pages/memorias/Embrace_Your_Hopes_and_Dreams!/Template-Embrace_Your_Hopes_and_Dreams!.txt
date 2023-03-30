@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Embrace Your Hopes and Dreams!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 夢と希望を抱いて！
+| Rarity = 3
+| ID = 1066
+| Illust = ハノカゲ
+| Owner = 
+
+| min_HP = 571
+| min_ATK = 631
+| min_DEF = 0
+| max_HP = 1428
+| max_ATK = 1578
+| max_DEF = 0
+
+| image = Regenerate HP
+| effect_name = Regeneration Adept 
+| effect_name_JP = リジェネレイト・アデプト
+| effect1 = Regenerate HP [I / 2%]
+| effect2 = Regenerate HP [II / 3%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = I Love It So Much That I Can Fly
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 飛んじゃうくらいに大好きな
+| Rarity = 4
+| ID = 1696
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 883
+| min_ATK = 0
+| min_DEF = 803
+| max_HP = 2208
+| max_ATK = 0
+| max_DEF = 2008
+
+| image = Damage Increase
+| effect_name = エンハンス ステップ 
+| effect_name_JP = エンハンス・ステップ
+| effect1 = Damage Increase [VI / 30%] (Self / 3 Turns) & Chance to Evade [VI / 35%] (Self / 3 Turns)
+| effect2 = Damage Increase [VII / 35%] (Self / 3 Turns) & Chance to Evade [VII / 40%] (Self / 3 Turns)
+| Cooldown = 10
+| Cooldown2 = 8
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Everyone Gets Along Paradise
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = みんな仲良く極楽
+| Rarity = 4
+| ID = 1661
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 864
+| min_ATK = 0
+| min_DEF = 784
+| max_HP = 2160
+| max_ATK = 0
+| max_DEF = 1960
+
+| image = Chance to Critical Hit
+| effect_name = エスペランサ― Strike 
+| effect_name_JP = エスペランサ―・ストライク
+| effect1 = Chance to Critical Hit [V / 30%] (Self / 1 Turn) & Attack Up [V / 25%] (Self / 1 Turn)
+| effect2 = Chance to Critical Hit [V / 30%] (Self / 1 Turn) & Attack Up [V / 25%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 8
+}}

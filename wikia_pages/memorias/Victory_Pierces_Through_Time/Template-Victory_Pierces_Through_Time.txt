@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Victory Pierces Through Time
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 勝利は時を貫いて
+| Rarity = 4
+| ID = 1637
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 846
+| min_ATK = 846
+| min_DEF = 0
+| max_HP = 2115
+| max_ATK = 2115
+| max_DEF = 0
+
+| image = Damage Up Versus Witches
+| effect_name = Regeneration Urgent 
+| effect_name_JP = リジェネレイト・アージェント
+| effect1 = Damage Up Versus Witches [IV / 20%] & Attack Up [III / 15%] & Regenerate HP [II / 3%]
+| effect2 = Damage Up Versus Witches [IV / 20%] & Attack Up [III / 15%] & Regenerate HP [II / 3%]
+| Cooldown = 
+| Cooldown2 = 
+}}

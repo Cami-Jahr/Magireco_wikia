@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「最強の魔法少女・由比鶴乃にお任せ！」<br />元気がいい！万々歳の名物看板娘！<br />誰より強くて頼りになるから、無理難題だって解決できる！<br />…そう見えるように頑張っていた、本当のわたしを隠したまま…
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

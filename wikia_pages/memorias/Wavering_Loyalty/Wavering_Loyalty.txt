@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 身も心もすべてファラオに捧げよと幼い頃から言われ続け<br />これまで微塵の迷いもなく、その通りに歩んできた人生<br />だけど、今、目の前の玉座は歪んで見える<br />垣間見える悔恨の情を、傷だらけの忠義で隠さねばならない
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

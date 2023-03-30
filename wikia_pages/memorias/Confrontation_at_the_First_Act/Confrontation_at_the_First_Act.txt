@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = この町に限られた奇跡を巡る戦いの果て<br />つかみ取った幸福に身を預ける時間は儚くも短かった<br />次の休息はいつになるか見えず遙か彼方<br />今は寝床を整えて、追いつかない気持ちと共に身を任せる
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

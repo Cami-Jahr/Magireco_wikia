@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Glow of Deepening Bonds
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 深まる絆の輝き
+| Rarity = 4
+| ID = 1804
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 738
+| min_ATK = 898
+| min_DEF = 0
+| max_HP = 1845
+| max_ATK = 2245
+| max_DEF = 0
+
+| image = Episode Experience Gain Increased
+| effect_name = ハートウォーム Adept 
+| effect_name_JP = ハートウォーム・アデプト
+| effect1 = Episode Experience Gain Increased [III / 25%] & Regenerate HP [III / 4%]
+| effect2 = Episode Experience Gain Increased [III / 25%] & Regenerate HP [III / 4%]
+| Cooldown = 
+| Cooldown2 = 
+}}

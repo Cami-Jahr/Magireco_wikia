@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 手書きの言葉、画面越しの言葉、短いメッセージ、長いメッセージ…<br />形は違えど、そのどれもに込められているのは同じ形の気持ち<br />彼女にとってその気持ちこそ、何より嬉しいメッセージ<br />「応援してます」その気持ちだけでなんだって頑張れる
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

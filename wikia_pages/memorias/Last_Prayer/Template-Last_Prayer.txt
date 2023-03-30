@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Last Prayer
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 最後の祈り
+| Rarity = 3
+| ID = 1508
+| Illust = 秘鷺悠弥
+| Owner = Tart (Final ver.)
+
+| min_HP = 493
+| min_ATK = 0
+| min_DEF = 453
+| max_HP = 1232
+| max_ATK = 0
+| max_DEF = 1132
+
+| image = Blast Draw
+| effect_name = Blastドロー
+| effect_name_JP = ブラストドロー
+| effect1 = Blast Draw [100%]
+| effect2 = Blast Draw [100%]
+| Cooldown = 15
+| Cooldown2 = 13
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Is It Such a Dramatic Taste!?
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = その味はドラマティック!?
+| Rarity = 3
+| ID = 1145
+| Illust = シソ
+| Owner = 
+
+| min_HP = 633
+| min_ATK = 573
+| min_DEF = 0
+| max_HP = 1582
+| max_ATK = 1432
+| max_DEF = 0
+
+| image = MP Gain Up
+| effect_name = Clever Adept 
+| effect_name_JP = クレバー・アデプト
+| effect1 = MP Gain Up [III / 10%] & MP Up When Attacked By Weak Element [I / 2%]
+| effect2 = MP Gain Up [IV / 12.5%] & MP Up When Attacked By Weak Element [II / 3%]
+| Cooldown = 
+| Cooldown2 = 
+}}

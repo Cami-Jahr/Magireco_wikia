@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「学校も家もこの町も、上手く言えないけど、どこかしっくりこない。<br />誰かと接しても、どこを歩いても、自分の周りに薄い皮膜のようなもの<br />があって、馴染み切れない…。あの人もこんな気持ちで、自分の居場所<br />を探していたのかな。私も見つけないと…いつか、きっと…」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

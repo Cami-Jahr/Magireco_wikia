@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Third Magical Girl
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 第3の魔法少女
+| Rarity = 4
+| ID = 1176
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 763
+| min_ATK = 843
+| min_DEF = 0
+| max_HP = 1908
+| max_ATK = 2108
+| max_DEF = 0
+
+| image = Accele MP Gain Up
+| effect_name = フルスロットル Adept 
+| effect_name_JP = フルスロットル・アデプト
+| effect1 = Accele MP Gain Up [IV / 17.5%] & Charged Attack Damage Up [IV / 12.5%]
+| effect2 = Accele MP Gain Up [V / 20%] & Charged Attack Damage Up [V / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

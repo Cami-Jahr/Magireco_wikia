@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Messages from Precious Friends
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 大切なお友達からのメッセージ
+| Rarity = 3
+| ID = 1352
+| Illust = mepo
+| Owner = Fumino Sayuki
+
+| min_HP = 510
+| min_ATK = 0
+| min_DEF = 424
+| max_HP = 1275
+| max_ATK = 0
+| max_DEF = 1060
+
+| image = Regenerate HP
+| effect_name = チアリング 
+| effect_name_JP = チアリング
+| effect1 = Regenerate HP [III / 4%] (Self / 3 Turns) & Remove Debuffs [%]
+| effect2 = Regenerate HP [IV / 5%] (Self / 3 Turns) & Remove Debuffs [%]
+| Cooldown = 10
+| Cooldown2 = 9
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Inside the Heart Even When Cold
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 寒くとも心の内は
+| Rarity = 4
+| ID = 1823
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 980
+| min_ATK = 780
+| min_DEF = 0
+| max_HP = 2450
+| max_ATK = 1950
+| max_DEF = 0
+
+| image = Defense Up
+| effect_name = ディリジェンス Adept 
+| effect_name_JP = ディリジェンス・アデプト
+| effect1 = Defense Up [V / 37.5%] & MP Gain Up [III / 10%]
+| effect2 = Defense Up [VI / 45%] & MP Gain Up [IV / 12.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

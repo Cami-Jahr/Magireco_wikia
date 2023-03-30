@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = My Dreams Continue After I Wake Up
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 夢の続きは目覚めた後で
+| Rarity = 4
+| ID = 1110
+| Illust = 一十九二
+| Owner = 
+
+| min_HP = 801
+| min_ATK = 0
+| min_DEF = 801
+| max_HP = 2002
+| max_ATK = 0
+| max_DEF = 2002
+
+| image = Chance to Guardian
+| effect_name = ガーディアン
+| effect_name_JP = ガーディアン
+| effect1 = Chance to Guardian [100%] (1 Turn)
+| effect2 = Chance to Guardian [IX / 100%] (1 Turn) & Regenerate HP [IX / 10%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

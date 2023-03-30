@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 緑、緑、全てが緑で溢れていた彼女の世界。<br />踏み出した先はきっと、無限の色彩が彼女たちを塗り潰そうとする。<br />だけど染まらない。彼女たちは決して染まらない。<br />本当に眩く輝いている、自分だけの魅力を見つけているから。
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

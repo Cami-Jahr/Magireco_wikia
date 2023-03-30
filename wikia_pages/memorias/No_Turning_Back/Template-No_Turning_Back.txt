@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = No Turning Back
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = もう戻れないから
+| Rarity = 3
+| ID = 1591
+| Illust = 星和貴
+| Owner = 
+
+| min_HP = 660
+| min_ATK = 630
+| min_DEF = 0
+| max_HP = 1650
+| max_ATK = 1575
+| max_DEF = 0
+
+| image = Chance to Bind on Attack
+| effect_name = Bind ウェポン 
+| effect_name_JP = バインド・ウェポン
+| effect1 = Chance to Bind on Attack [II / 15%] (1 Turn) & Damage Increase [II / 10%]
+| effect2 = Chance to Bind on Attack [II / 15%] (1 Turn) & Damage Increase [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

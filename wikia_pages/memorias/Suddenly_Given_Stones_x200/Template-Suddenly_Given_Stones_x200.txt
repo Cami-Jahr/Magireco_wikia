@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Suddenly Given Stones x200
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 突如届いた石×200
+| Rarity = 4
+| ID = 1335
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 840
+| min_ATK = 757
+| min_DEF = 0
+| max_HP = 2100
+| max_ATK = 1892
+| max_DEF = 0
+
+| image = Chance to Anti-Dazzle
+| effect_name = リアリスト
+| effect_name_JP = リアリスト
+| effect1 = Chance to Anti-Dazzle [IX / 65%]
+| effect2 = Chance to Anti-Dazzle [I / 100%] & CC Gain Up [I / 5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

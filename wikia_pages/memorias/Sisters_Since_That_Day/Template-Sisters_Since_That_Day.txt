@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Sisters Since That Day
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 姉妹になったあの日から
+| Rarity = 3
+| ID = 1618
+| Illust = 都筑禰己
+| Owner = Konoha & Hazuki
+
+| min_HP = 479
+| min_ATK = 0
+| min_DEF = 479
+| max_HP = 1198
+| max_ATK = 0
+| max_DEF = 1198
+
+| image = Magia Damage Up
+| effect_name = Astralライズ 
+| effect_name_JP = アストラルライズ
+| effect1 = Magia Damage Up [V / 15%] (Self / 3 Turns) & Accele MP Gain Up [IV / 17.5%] (Self / 3 Turns)
+| effect2 = Magia Damage Up [VI / 17.5%] (Self / 3 Turns) & Accele MP Gain Up [V / 20%] (Self / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

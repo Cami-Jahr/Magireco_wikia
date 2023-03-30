@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Leave It to the Super Maid
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = スーパー使用人にお任せ
+| Rarity = 4
+| ID = 1782
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 899
+| min_ATK = 859
+| min_DEF = 0
+| max_HP = 2248
+| max_ATK = 2148
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = RegenerationBloom 
+| effect_name_JP = リジェネレイトブルーム
+| effect1 = Attack Up [III / 15%] & Defense Up [III / 22.5%] & Regenerate HP [I / 2%]
+| effect2 = Attack Up [IV / 20%] & Defense Up [IV / 30%] & Regenerate HP [II / 3%]
+| Cooldown = 
+| Cooldown2 = 
+}}

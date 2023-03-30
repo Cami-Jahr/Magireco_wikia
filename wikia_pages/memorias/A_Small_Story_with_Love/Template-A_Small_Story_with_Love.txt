@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Small Story with Love
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 愛ある小さな物語
+| Rarity = 3
+| ID = 1598
+| Illust = 都筑禰己
+| Owner = Rumor Sana
+
+| min_HP = 494
+| min_ATK = 454
+| min_DEF = 0
+| max_HP = 1235
+| max_ATK = 1135
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Uplift Adept 
+| effect_name_JP = アップリフト・アデプト
+| effect1 = Attack Up [II / 10%] & Status Ailment Resistance Up [II / 25%]
+| effect2 = Attack Up [III / 15%] & Status Ailment Resistance Up [III / 30%]
+| Cooldown = 
+| Cooldown2 = 
+}}

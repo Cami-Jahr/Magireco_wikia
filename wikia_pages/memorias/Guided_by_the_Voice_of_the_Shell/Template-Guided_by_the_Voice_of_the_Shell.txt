@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Guided by the Voice of the Shell
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 貝殻の声に導かれ
+| Rarity = 4
+| ID = 1853
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 940
+| min_ATK = 0
+| min_DEF = 860
+| max_HP = 2350
+| max_ATK = 0
+| max_DEF = 2150
+
+| image = Magia Damage Up
+| effect_name = ADoppel  Up 
+| effect_name_JP = Aドッペル・アップ
+| effect1 = Magia Damage Up [VI / 17.5%] (Self / 1 Turn) & Doppel Damage Up [VI / 30%] (Self / 1 Turn) & Aqua Attribute Attack Up [X / 27.5%] (Self / 1 Turn)
+| effect2 = Magia Damage Up [VII / 20%] (Self / 1 Turn) & Doppel Damage Up [VII / 35%] (Self / 1 Turn) & Aqua Attribute Attack Up [XI / 30%] (Self / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 8
+}}

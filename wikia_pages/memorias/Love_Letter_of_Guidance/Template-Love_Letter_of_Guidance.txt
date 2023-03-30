@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Love Letter of Guidance
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 導きのラブレター
+| Rarity = 4
+| ID = 1662
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 782
+| min_ATK = 862
+| min_DEF = 0
+| max_HP = 1955
+| max_ATK = 2155
+| max_DEF = 0
+
+| image = Episode Experience Gain Increased
+| effect_name = エピソードBlastAdept 
+| effect_name_JP = エピソードブラストアデプト
+| effect1 = Episode Experience Gain Increased [III / 25%] & Blast Damage Up [II / 20%]
+| effect2 = Episode Experience Gain Increased [III / 25%] & Blast Damage Up [II / 20%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Calmly Weaving Through the Days
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 穏やかに日々を紡いで
+| Rarity = 3
+| ID = 1621
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 609
+| min_ATK = 0
+| min_DEF = 609
+| max_HP = 1522
+| max_ATK = 0
+| max_DEF = 1522
+
+| image = Status Ailment Resistance Up
+| effect_name = Resist Up Circle 
+| effect_name_JP = レジストアップ・サークル
+| effect1 = Status Ailment Resistance Up [III / 30%] (All / 1 Turn)
+| effect2 = Status Ailment Resistance Up [III / 30%] (All / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 10
+}}

@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「敵から身を護りたいんやったら、私らピュエラケアが力を授けたるで。ただ絶対に中立である以上は、アンタの敵も調整するかもしれへん。<br />まぁ、その時はまた私らが調整して力をあげるわ。<br />イタチごっこやって思うやろうけど、そもそも世界がそんなもんやろ」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

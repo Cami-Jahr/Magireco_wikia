@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Broken, Yet Beautiful
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 砕けてなお美しく
+| Rarity = 3
+| ID = 1201
+| Illust = 飯田志穂
+| Owner = Ami Ria
+
+| min_HP = 500
+| min_ATK = 420
+| min_DEF = 0
+| max_HP = 1250
+| max_ATK = 1050
+| max_DEF = 0
+
+| image = Chance to Anti-Charm
+| effect_name = Anti-ファサネイト
+| effect_name_JP = アンチ・ファサネイト
+| effect1 = Chance to Anti-Charm [VIII / 100%] & Chance to Anti-Dazzle [VIII / 60%]
+| effect2 = Chance to Anti-Charm [100%] & Chance to Anti-Dazzle [100%]
+| Cooldown = 
+| Cooldown2 = 
+}}

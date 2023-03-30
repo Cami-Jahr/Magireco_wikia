@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Today Is the Way You Eat
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 今日はあなたの食べ方で
+| Rarity = 3
+| ID = 1760
+| Illust = 都筑禰己
+| Owner = Mikuni Oriko (Final ver.)
+
+| min_HP = 500
+| min_ATK = 0
+| min_DEF = 460
+| max_HP = 1250
+| max_ATK = 0
+| max_DEF = 1150
+
+| image = Monopolize Draw
+| effect_name = モノポライズドロー
+| effect_name_JP = モノポライズドロー
+| effect1 = Monopolize Draw [100%]
+| effect2 = Monopolize Draw [100%]
+| Cooldown = 5
+| Cooldown2 = 4
+}}

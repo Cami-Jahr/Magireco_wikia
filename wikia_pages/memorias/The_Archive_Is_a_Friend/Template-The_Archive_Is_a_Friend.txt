@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Archive Is a Friend
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 書庫は友だち
+| Rarity = 4
+| ID = 1428
+| Illust = おちゃう
+| Owner = 
+
+| min_HP = 892
+| min_ATK = 732
+| min_DEF = 0
+| max_HP = 2230
+| max_ATK = 1830
+| max_DEF = 0
+
+| image = Blast Damage Up
+| effect_name = Blastエキスパート 
+| effect_name_JP = ブラストエキスパート
+| effect1 = Blast Damage Up [IV / 30%] & Blast Damage Cut [II / 10%]
+| effect2 = Blast Damage Up [V / 35%] & Blast Damage Cut [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

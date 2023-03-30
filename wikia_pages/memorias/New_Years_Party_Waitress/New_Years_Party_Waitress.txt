@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「やちよさんのおせち、かえでちゃんのお母さんのおせち、<br />ももこさんが買ってきてくれたチルドピザに、かこちゃんのタルト…<br />それから、それから…うぅ、新年会の給仕がこんなに大変だなんて…<br />でも、頑張らなくちゃ…っ、新年会を成功させるために…！」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

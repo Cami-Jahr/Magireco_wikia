@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Magical Girls Are Sorcerers
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 魔法少女は魔法使い
+| Rarity = 4
+| ID = 1843
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 820
+| min_ATK = 940
+| min_DEF = 0
+| max_HP = 2050
+| max_ATK = 2350
+| max_DEF = 0
+
+| image = Damage Increase
+| effect_name = アンチJammer ウェポン 
+| effect_name_JP = アンチジャマ―・ウェポン
+| effect1 = Damage Increase [V / 25%] & Chance to Anti-Skill Seal [V / 100%]
+| effect2 = Damage Increase [VI / 30%] & Chance to Anti-Skill Seal [VI / 100%]
+| Cooldown = 
+| Cooldown2 = 
+}}

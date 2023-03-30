@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 目指すは世界中の人に通じるファッションデザイナー！<br />夢に向かって日々、ファッションセンスを磨いている。<br />彼女の奇抜なセンスには、周りも驚きを隠せない。<br />そんな反応をわかっていながらも、彼女は挫けずに努力をし続ける。
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

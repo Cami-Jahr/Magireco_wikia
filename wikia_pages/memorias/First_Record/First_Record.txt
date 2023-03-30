@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 気持ちがはやり、鼓動が高鳴り、足取りが速くなっていく<br />それは、喜びや不安が期待に変わって、胸をふくらませている証<br /> 今、刻まれ続けるレコードが、新しい音を鳴らそうとしている<br />（TVアニメ 1st SEASON ティザービジュアル）
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

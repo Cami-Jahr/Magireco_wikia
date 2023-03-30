@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = That's Not a Doll, Right?
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ぬいぐるみじゃないよね
+| Rarity = 2
+| ID = 1020
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 400
+| min_ATK = 0
+| min_DEF = 400
+| max_HP = 1000
+| max_ATK = 0
+| max_DEF = 1000
+
+| image = Damage Up
+| effect_name = Slash Up 
+| effect_name_JP = スラッシュアップ
+| effect1 = Damage Up [V / 25%] (Self / 1 Turn)
+| effect2 = Damage Up [VI / 30%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

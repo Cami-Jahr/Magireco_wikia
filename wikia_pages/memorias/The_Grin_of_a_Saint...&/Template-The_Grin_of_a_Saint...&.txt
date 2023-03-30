@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Grin of a Saint...
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 聖女の微笑みは…
+| Rarity = 4
+| ID = 1702
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 854
+| min_ATK = 894
+| min_DEF = 0
+| max_HP = 2135
+| max_ATK = 2235
+| max_DEF = 0
+
+| image = Ignore Damage Cut
+| effect_name = ショーテル Adept 
+| effect_name_JP = ショーテル・アデプト
+| effect1 = Ignore Damage Cut [V / 50%] & Attack Up [IV / 20%]
+| effect2 = Ignore Damage Cut [VII / 60%] & Attack Up [V / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

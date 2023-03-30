@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「…ん？あ、呼んでた？ごめんごめん、スマホ見てて…<br />まー、なんていうか…今後に向けた情報収集ってやつ？<br />…ふふ、とか言って、嘘、ごめん…マンガ読んでた～<br />だって面白いんだよ、これ～！このはも読んでみてよ～！」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

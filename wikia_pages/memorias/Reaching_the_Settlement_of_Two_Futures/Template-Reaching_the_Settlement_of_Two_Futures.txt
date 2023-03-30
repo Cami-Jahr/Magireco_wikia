@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Reaching the Settlement of Two Futures
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ふたりの未来に至る決着を
+| Rarity = 4
+| ID = 1763
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 816
+| min_ATK = 0
+| min_DEF = 816
+| max_HP = 2040
+| max_ATK = 0
+| max_DEF = 2040
+
+| image = Remove Debuffs
+| effect_name = カウンタラクト
+| effect_name_JP = カウンタラクト
+| effect1 = Remove Debuffs [%]
+| effect2 = Remove Debuffs [%]
+| Cooldown = 9
+| Cooldown2 = 9
+}}

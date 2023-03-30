@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Usual Morning Scene
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = いつもの朝の光景
+| Rarity = 3
+| ID = 1592
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 674
+| min_ATK = 554
+| min_DEF = 0
+| max_HP = 1685
+| max_ATK = 1385
+| max_DEF = 0
+
+| image = Regenerate HP
+| effect_name = バイタルAttack Adept 
+| effect_name_JP = バイタルアタック・アデプト
+| effect1 = Regenerate HP [II / 3%] & Attack Up [III / 15%]
+| effect2 = Regenerate HP [II / 3%] & Attack Up [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

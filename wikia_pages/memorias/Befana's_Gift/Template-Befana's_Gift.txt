@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Befana's Gift
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ベファーナの贈り物
+| Rarity = 3
+| ID = 1705
+| Illust = 都筑禰己
+| Owner = Nayuta & Mikage (Christmas ver.)
+
+| min_HP = 520
+| min_ATK = 0
+| min_DEF = 440
+| max_HP = 1300
+| max_ATK = 0
+| max_DEF = 1100
+
+| image = Accele Draw
+| effect_name = Acceleドロー
+| effect_name_JP = アクセルドロー
+| effect1 = Accele Draw [100%]
+| effect2 = Accele Draw [100%]
+| Cooldown = 5
+| Cooldown2 = 4
+}}

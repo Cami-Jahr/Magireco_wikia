@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Image Training in the Server
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = イメトレinサーバー
+| Rarity = 4
+| ID = 1326
+| Illust = 藤ちょこ
+| Owner = 
+
+| min_HP = 810
+| min_ATK = 0
+| min_DEF = 810
+| max_HP = 2025
+| max_ATK = 0
+| max_DEF = 2025
+
+| image = Chance to Critical Hit
+| effect_name = エスペランサ― Strike 
+| effect_name_JP = エスペランサ―・ストライク
+| effect1 = Chance to Critical Hit [V / 30%] (Self / 1 Turn) & Attack Up [VII / 35%] (Self / 1 Turn)
+| effect2 = Chance to Critical Hit [VI / 35%] (Self / 1 Turn) & Attack Up [VIII / 40%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

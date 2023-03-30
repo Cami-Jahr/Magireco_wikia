@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Fake Smile Reflected in the Mirror
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 鏡に映る虚勢の笑顔
+| Rarity = 4
+| ID = 1677
+| Illust = 蒼樹うめ
+| Owner = 
+
+| min_HP = 830
+| min_ATK = 830
+| min_DEF = 0
+| max_HP = 2075
+| max_ATK = 2075
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Braveステップ Adept 
+| effect_name_JP = ブレイブステップ・アデプト
+| effect1 = Attack Up [V / 25%] & Chance to Evade [IV / 25%]
+| effect2 = Attack Up [V / 25%] & Chance to Evade [IV / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

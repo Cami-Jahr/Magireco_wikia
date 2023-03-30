@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「さやかにとって、印象に残ってる夏の思い出ってなんだ？」<br />「唐突だなー…えっと、スイカ柄の浮き輪で泳いだり、神浜の子たちと<br />　花火をしたりとか」「…それあたしもいたし、最近のばっかりだな」<br />「あはは！そうだよね　杏子と一緒だった夏は、印象が強いんだよ！」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Usual Day of the Maidens
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 乙女たちの日常
+| Rarity = 3
+| ID = 1627
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 638
+| min_ATK = 638
+| min_DEF = 0
+| max_HP = 1595
+| max_ATK = 1595
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = イグノア Magia Seal 
+| effect_name_JP = イグノア・シールマギア
+| effect1 = Attack Up [IV / 20%] & Chance to Anti-Magia Seal [IV / 100%]
+| effect2 = Attack Up [IV / 20%] & Chance to Anti-Magia Seal [IV / 100%]
+| Cooldown = 
+| Cooldown2 = 
+}}

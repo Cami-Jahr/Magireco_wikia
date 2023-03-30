@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Recovery and Resolve
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 再起と決意
+| Rarity = 4
+| ID = 1128
+| Illust = 谷口淳一郎
+| Owner = 
+
+| min_HP = 761
+| min_ATK = 0
+| min_DEF = 841
+| max_HP = 1902
+| max_ATK = 0
+| max_DEF = 2102
+
+| image = Chance to Guardian
+| effect_name = ハード Covering
+| effect_name_JP = ハード・カバーリング
+| effect1 = Chance to Guardian [VIII / 100%] (1 Turn) & Defense Up [VIII / 60%] (Self / 1 Turn)
+| effect2 = Chance to Guardian [IX / 100%] (1 Turn) & Defense Up [IX / 67.5%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

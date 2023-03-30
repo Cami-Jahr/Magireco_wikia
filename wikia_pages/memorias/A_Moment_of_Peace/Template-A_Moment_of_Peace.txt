@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Moment of Peace
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = やすらぎのひととき
+| Rarity = 4
+| ID = 1829
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 820
+| min_ATK = 940
+| min_DEF = 0
+| max_HP = 2050
+| max_ATK = 2350
+| max_DEF = 0
+
+| image = Magia Damage Up
+| effect_name = Astral ブレイク 
+| effect_name_JP = アストラル・ブレイク
+| effect1 = Magia Damage Up [X / 27.5%] & Accele MP Gain Up [III / 15%] & Status Ailment Resistance Down [III / 10%]
+| effect2 = Magia Damage Up [XI / 30%] & Accele MP Gain Up [IV / 17.5%] & Status Ailment Resistance Down [III / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

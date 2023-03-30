@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Because the World Is Full of Wishes
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 願いで満ちた世界だから
+| Rarity = 4
+| ID = 1339
+| Illust = 谷口淳一郎
+| Owner = 
+
+| min_HP = 840
+| min_ATK = 770
+| min_DEF = 0
+| max_HP = 2100
+| max_ATK = 1925
+| max_DEF = 0
+
+| image = Accele MP Gain Up
+| effect_name = グラムイミュニティ 
+| effect_name_JP = グラムイミュニティ
+| effect1 = Accele MP Gain Up [III / 15%] & Status Ailment Resistance Up [II / 25%]
+| effect2 = Accele MP Gain Up [IV / 17.5%] & Status Ailment Resistance Up [III / 30%]
+| Cooldown = 
+| Cooldown2 = 
+}}

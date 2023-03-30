@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = No One Knows Our Record (Memoria)
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 誰も知らない、私たちの記録
+| Rarity = 4
+| ID = 1779
+| Illust = 谷口淳一郎
+| Owner = Tamaki Iroha; Tamaki Ui
+
+| min_HP = 930
+| min_ATK = 810
+| min_DEF = 0
+| max_HP = 2325
+| max_ATK = 2025
+| max_DEF = 0
+
+| image = MP Gain Up
+| effect_name = 誰も知らない、私たちの記録
+| effect_name_JP = 誰も知らない、私たちの記録
+| effect1 = MP Gain Up [IV / 12.5%] & Damage Cut [III / 15%] & Regenerate HP [III / 4%]
+| effect2 = MP Gain Up [IV / 12.5%] & Damage Cut [III / 15%] & Regenerate HP [III / 4%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = One More Story
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = もうひとつのストーリー
+| Rarity = 4
+| ID = 1251
+| Illust = 富士フジノ
+| Owner = 
+
+| min_HP = 400
+| min_ATK = 0
+| min_DEF = 400
+| max_HP = 1000
+| max_ATK = 0
+| max_DEF = 1000
+
+| image = Attack Up
+| effect_name = Bloom Up 
+| effect_name_JP = ブルームアップ
+| effect1 = Attack Up [V / 25%] (Self / 1 Turn) & Defense Up [IV / 30%] (Self / 1 Turn)
+| effect2 = Attack Up [VI / 30%] (Self / 1 Turn) & Defense Up [V / 37.5%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

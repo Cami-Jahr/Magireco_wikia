@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Intruding on Our Daily Life
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 日常にお邪魔します
+| Rarity = 4
+| ID = 1660
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 890
+| min_ATK = 0
+| min_DEF = 890
+| max_HP = 2225
+| max_ATK = 0
+| max_DEF = 2225
+
+| image = Defense Down
+| effect_name = スナイピングMagia 
+| effect_name_JP = スナイピングマギア
+| effect1 = Defense Down [III / 15%] (All / 1 Turn) & Magia Damage Up [III / 10%] (All / 1 Turn)
+| effect2 = Defense Down [III / 15%] (All / 1 Turn) & Magia Damage Up [VI / 17.5%] (All / 1 Turn)
+| Cooldown = 12
+| Cooldown2 = 10
+}}

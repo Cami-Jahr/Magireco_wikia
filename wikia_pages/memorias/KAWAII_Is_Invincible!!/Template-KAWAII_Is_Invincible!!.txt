@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = KAWAII Is Invincible!!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = KAWAIIは無敵!!
+| Rarity = 3
+| ID = 1607
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 615
+| min_ATK = 0
+| min_DEF = 615
+| max_HP = 1538
+| max_ATK = 0
+| max_DEF = 1538
+
+| image = Charged Attack Damage Up
+| effect_name = Full Swing Upライズ 
+| effect_name_JP = フルスウィングライズ
+| effect1 = Charged Attack Damage Up [III / 10%] (Self / 3 Turns) & Blast Damage Up [III / 25%] (Self / 3 Turns)
+| effect2 = Charged Attack Damage Up [III / 10%] (Self / 3 Turns) & Blast Damage Up [III / 25%] (Self / 3 Turns)
+| Cooldown = 10
+| Cooldown2 = 9
+}}

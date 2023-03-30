@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「死なないって、約束したじゃないですか」<br />ただいまを言える幸せをかみしめながら、私たちは手を取り合う<br />真実に打ちのめされないように、希望を見失ってしまわないように<br />ひとりじゃ怖くて震えていたけど、ふたりならきっと立ち上がれるから
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

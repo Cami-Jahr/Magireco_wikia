@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 幸せになるのは許されない、不幸を同情されるのも許されない<br />私たちはただ誰にも気づかれず、ひっそりと使命を果たすだけ<br />これが世界の終末を遅らせる唯一の正しい方法<br />それでもこの戦いだけは、最後まで見守るワガママを許してほしい
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

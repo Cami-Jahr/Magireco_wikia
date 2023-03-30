@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Special Feature Is a Bitter Taste
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 特集はビターテイスト
+| Rarity = 4
+| ID = 1596
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 849
+| min_ATK = 769
+| min_DEF = 0
+| max_HP = 2122
+| max_ATK = 1922
+| max_DEF = 0
+
+| image = Episode Experience Gain Increased
+| effect_name = エピソードウェポンAdept 
+| effect_name_JP = エピソードウェポンアデプト
+| effect1 = Episode Experience Gain Increased [II / 20%] & Damage Increase [I / 5%]
+| effect2 = Episode Experience Gain Increased [II / 20%] & Damage Increase [II / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

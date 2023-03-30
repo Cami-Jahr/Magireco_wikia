@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Passing Dreamsâ€Ž
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = すぎさりし夢
+| Rarity = 3
+| ID = 1676
+| Illust = 茨乃
+| Owner = 
+
+| min_HP = 680
+| min_ATK = 0
+| min_DEF = 560
+| max_HP = 1700
+| max_ATK = 0
+| max_DEF = 1400
+
+| image = Attack Down
+| effect_name = アサルトブレイク 
+| effect_name_JP = アサルトブレイク
+| effect1 = Attack Down [II / 10%] (One / 3 Turns) & Damage Down [II / 10%] (One / 3 Turns)
+| effect2 = Attack Down [II / 10%] (One / 3 Turns) & Damage Down [II / 10%] (One / 3 Turns)
+| Cooldown = 10
+| Cooldown2 = 10
+}}

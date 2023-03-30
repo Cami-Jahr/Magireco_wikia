@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Always Shopping with Everyone
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = いつものみんなでお買い物
+| Rarity = 4
+| ID = 1665
+| Illust = 原画：月浦まり　　監修：杉山延寛
+| Owner = 
+
+| min_HP = 914
+| min_ATK = 754
+| min_DEF = 0
+| max_HP = 2285
+| max_ATK = 1885
+| max_DEF = 0
+
+| image = Chance to Stun on Attack
+| effect_name = StunBlast スマッシュ 
+| effect_name_JP = スタンブラスト・スマッシュ
+| effect1 = Chance to Stun on Attack [II / 15%] (1 Turn) & Blast Damage Up [II / 20%] & Defense Up [II / 15%]
+| effect2 = Chance to Stun on Attack [II / 15%] (1 Turn) & Blast Damage Up [II / 20%] & Defense Up [II / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

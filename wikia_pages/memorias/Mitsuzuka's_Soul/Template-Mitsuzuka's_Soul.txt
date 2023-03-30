@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Mitsuzuka's Soul
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 光塚の魂
+| Rarity = 3
+| ID = 1690
+| Illust = 都筑禰己
+| Owner = Kagura San
+
+| min_HP = 480
+| min_ATK = 0
+| min_DEF = 480
+| max_HP = 1200
+| max_ATK = 0
+| max_DEF = 1200
+
+| image = HP Restore
+| effect_name = Cure Heal Circle 
+| effect_name_JP = キュアヒール・サークル
+| effect1 = HP Restore [III / 17.5%] (All)
+| effect2 = HP Restore [V / 20%] (All)
+| Cooldown = 10
+| Cooldown2 = 8
+}}

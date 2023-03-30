@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Fluffy Suspense
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ふわふわはらはら
+| Rarity = 3
+| ID = 1466
+| Illust = GENJIN
+| Owner = 
+
+| min_HP = 578
+| min_ATK = 638
+| min_DEF = 0
+| max_HP = 1445
+| max_ATK = 1595
+| max_DEF = 0
+
+| image = Chance to Critical Hit
+| effect_name = ChargeStrikeAdept 
+| effect_name_JP = チャージストライクアデプト
+| effect1 = Chance to Critical Hit [II / 15%] & Charged Attack Damage Up [II / 7.5%]
+| effect2 = Chance to Critical Hit [III / 20%] & Charged Attack Damage Up [III / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

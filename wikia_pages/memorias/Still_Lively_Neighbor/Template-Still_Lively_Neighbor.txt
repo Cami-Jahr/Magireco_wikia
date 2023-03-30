@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Still Lively Neighbor
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 変わらず賑やかなお隣さん
+| Rarity = 4
+| ID = 1337
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 400
+| min_ATK = 400
+| min_DEF = 0
+| max_HP = 1000
+| max_ATK = 1000
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = オーバーカム Adept 
+| effect_name_JP = オーバーカム・アデプト
+| effect1 = Attack Up [III / 15%] & MP Up When Attacked By Weak Element [II / 3%]
+| effect2 = Attack Up [III / 15%] & MP Up When Attacked By Weak Element [II / 3%]
+| Cooldown = 
+| Cooldown2 = 
+}}

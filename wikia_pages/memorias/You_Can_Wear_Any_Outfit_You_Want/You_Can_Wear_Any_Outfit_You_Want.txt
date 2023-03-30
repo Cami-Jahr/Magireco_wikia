@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「静香ちゃんのイメージを元に調整してみたけどどうかしらぁ？」<br />「…すごい、想像通りよ！細部まで完璧に再現されてるわ！」<br />「それはよかったぁ！雑念が混じると失敗することもあるのよぉ」<br />（あ、危なかったわ…最初は雑念だらけだったもの…）
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

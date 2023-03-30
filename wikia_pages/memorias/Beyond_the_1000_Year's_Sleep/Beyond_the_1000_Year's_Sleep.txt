@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = フランク王国建国の祖、クロヴィスの剣<br />とある錬金術士が冶金した、ふたふりの剣のかたわれ…<br />1000年の眠りを超えて、聖剣のひとつが、いま静かに目を覚ます<br />兄クロヴィスを支えた魔法少女、アウドフレダの思い出とともに
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

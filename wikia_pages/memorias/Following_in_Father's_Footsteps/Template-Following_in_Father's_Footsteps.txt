@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Following in Father's Footsteps
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 父の背中を追って
+| Rarity = 3
+| ID = 1086
+| Illust = Rakuen
+| Owner = Minagi Sasara
+
+| min_HP = 442
+| min_ATK = 0
+| min_DEF = 482
+| max_HP = 1105
+| max_ATK = 0
+| max_DEF = 1205
+
+| image = Endure
+| effect_name = Fortitude Soul
+| effect_name_JP = フォティチュード・ソウル
+| effect1 = Endure [100%] (Self / 3 Turns)
+| effect2 = Endure [100%] (Self / 3 Turns)
+| Cooldown = 15
+| Cooldown2 = 13
+}}

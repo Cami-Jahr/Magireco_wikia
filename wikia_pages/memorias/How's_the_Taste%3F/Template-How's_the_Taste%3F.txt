@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = How's the Taste?
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 味はいかほど？
+| Rarity = 3
+| ID = 1075
+| Illust = 吟の筆
+| Owner = Yui Tsuruno
+
+| min_HP = 460
+| min_ATK = 0
+| min_DEF = 460
+| max_HP = 1150
+| max_ATK = 0
+| max_DEF = 1150
+
+| image = Magia Damage Up
+| effect_name = Magia Up 
+| effect_name_JP = マギアアップ
+| effect1 = Magia Damage Up [IX / 25%] (Self / 1 Turn)
+| effect2 = Magia Damage Up [X / 27.5%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

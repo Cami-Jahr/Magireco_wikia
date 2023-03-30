@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Under the White Camellia
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 白い椿のもとで
+| Rarity = 4
+| ID = 1349
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 761
+| min_ATK = 0
+| min_DEF = 838
+| max_HP = 1902
+| max_ATK = 0
+| max_DEF = 2095
+
+| image = Damage Increase
+| effect_name = エンハンス ウェポン 
+| effect_name_JP = エンハンス・ウェポン
+| effect1 = Damage Increase [V / 25%] (Self / 3 Turns)
+| effect2 = Damage Increase [VI / 30%] (Self / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

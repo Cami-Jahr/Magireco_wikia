@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Bunny Duty Day
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ウサギさん当番の日
+| Rarity = 3
+| ID = 1775
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 649
+| min_ATK = 679
+| min_DEF = 0
+| max_HP = 1622
+| max_ATK = 1698
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = スマッシュ Adept 
+| effect_name_JP = スマッシュ・アデプト
+| effect1 = Attack Up [I / 5%] & Blast Damage Up [I / 15%]
+| effect2 = Attack Up [II / 10%] & Blast Damage Up [II / 20%]
+| Cooldown = 
+| Cooldown2 = 
+}}

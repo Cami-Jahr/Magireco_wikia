@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Bird that Links the Stars
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 星を結ぶ鳥
+| Rarity = 3
+| ID = 1852
+| Illust = 都筑禰己
+| Owner = Mizuna Tsuyu
+
+| min_HP = 501
+| min_ATK = 0
+| min_DEF = 461
+| max_HP = 1252
+| max_ATK = 0
+| max_DEF = 1152
+
+| image = Accele Draw
+| effect_name = Acceleドロー
+| effect_name_JP = アクセルドロー
+| effect1 = Accele Draw [100%]
+| effect2 = Accele Draw [100%]
+| Cooldown = 5
+| Cooldown2 = 4
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Consult the Closet
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = クローゼットとご相談
+| Rarity = 4
+| ID = 1605
+| Illust = 紅緒
+| Owner = 
+
+| min_HP = 801
+| min_ATK = 0
+| min_DEF = 961
+| max_HP = 2002
+| max_ATK = 0
+| max_DEF = 2402
+
+| image = Defense Down
+| effect_name = スナイピングBlast 
+| effect_name_JP = スナイピングブラスト
+| effect1 = Defense Down [VIII / 40%] (All / 1 Turn) & Blast Damage Up [VI / 40%] (Self / 1 Turn)
+| effect2 = Defense Down [IX / 45%] (All / 1 Turn) & Blast Damage Up [VII / 45%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

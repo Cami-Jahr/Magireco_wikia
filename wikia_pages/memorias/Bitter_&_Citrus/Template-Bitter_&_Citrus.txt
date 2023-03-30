@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Bitter & Citrus
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ビター＆シトラス
+| Rarity = 4
+| ID = 1863
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 858
+| min_ATK = 778
+| min_DEF = 0
+| max_HP = 2145
+| max_ATK = 1945
+| max_DEF = 0
+
+| image = Damage Cut
+| effect_name = HShield Adept 
+| effect_name_JP = Hシールド・アデプト
+| effect1 = Damage Cut [III / 15%] & Defense Up [II / 15%]
+| effect2 = Damage Cut [III / 15%] & Defense Up [II / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

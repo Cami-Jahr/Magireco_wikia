@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = An Ordinary Day
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = なんでもない日
+| Rarity = 2
+| ID = 1136
+| Illust = GAN
+| Owner = 
+
+| min_HP = 421
+| min_ATK = 381
+| min_DEF = 0
+| max_HP = 1052
+| max_ATK = 952
+| max_DEF = 0
+
+| image = Defense Up
+| effect_name = Guard Adept 
+| effect_name_JP = ガード・アデプト
+| effect1 = Defense Up [II / 15%]
+| effect2 = Defense Up [III / 22.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = That Which Links Emotion
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 想い結ぶもの
+| Rarity = 3
+| ID = 1672
+| Illust = mepo
+| Owner = Irina Kushu
+
+| min_HP = 458
+| min_ATK = 0
+| min_DEF = 498
+| max_HP = 1145
+| max_ATK = 0
+| max_DEF = 1245
+
+| image = Magia Damage Up
+| effect_name = Magia Up Circle 
+| effect_name_JP = マギアアップ・サークル
+| effect1 = Magia Damage Up [III / 10%] (All / 1 Turn)
+| effect2 = Magia Damage Up [V / 15%] (All / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

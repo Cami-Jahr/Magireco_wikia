@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = LOVE Chemistry
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = LOVE化学
+| Rarity = 3
+| ID = 1085
+| Illust = ともひと
+| Owner = Miyako Hinano
+
+| min_HP = 462
+| min_ATK = 0
+| min_DEF = 462
+| max_HP = 1155
+| max_ATK = 0
+| max_DEF = 1155
+
+| image = Chance to Poison
+| effect_name = Poison Cloud 
+| effect_name_JP = ポイズン・クラウド
+| effect1 = Chance to Poison [100%] (All / 1 Turn)
+| effect2 = Chance to Poison [100%] (All / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

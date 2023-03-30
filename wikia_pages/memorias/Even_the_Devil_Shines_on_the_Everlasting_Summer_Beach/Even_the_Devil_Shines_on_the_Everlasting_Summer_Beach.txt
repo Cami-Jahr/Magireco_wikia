@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「常夏のビーチに悪魔の私は似合わない？…その理屈は変よ<br />ほら見て、青い空に白い砂浜…そして黒ずくめの私！映えるじゃない<br />更に、水着のまどかが隣にいれば最高に…って、あら？<br />どうしてまどかはアロハシャツを…いえ、これはこれで可愛いわね」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

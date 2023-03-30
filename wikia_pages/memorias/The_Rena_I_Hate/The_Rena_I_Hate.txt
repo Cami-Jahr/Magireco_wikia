@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = クラスメイトは沢山いるくせに、友だちのいない教室<br />それに比べると誰もいない屋上の方が、ずっとずっと息がしやすかった<br />自分への視線も、自分のこんがらがった感情も気にしなくていいから<br />青空の下なら、レナは「水波レナ」でいなくてもいいから
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

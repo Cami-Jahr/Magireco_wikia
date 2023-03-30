@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「すごいの！どこもかしこもハロウィンなの！サイコーなの！」<br />「ふふっ、素敵だね」「わぁ！可愛い！」「楽しそうで何よりぃ～…」<br />わたしたちだけのドリームハロウィン！<br />あっちもこっちも賑やかで、目的を忘れて楽しんじゃったの！
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

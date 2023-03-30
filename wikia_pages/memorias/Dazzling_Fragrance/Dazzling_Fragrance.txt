@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = これは神に捧げる聖なる香ではなく、人を惑わせ操る香<br />辺り一面に漂わせれば、たちまちその場は掌中へと収まる<br />頭の中にまで煙がたゆたうかのような感覚がひとたび刻まれれば<br />あとはただ、“彼女”の導きに身を委ねるしかない
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

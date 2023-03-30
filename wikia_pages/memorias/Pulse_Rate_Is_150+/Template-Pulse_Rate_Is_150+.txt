@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Pulse Rate Is 150+
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 脈拍数は150↑
+| Rarity = 3
+| ID = 1483
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 661
+| min_ATK = 541
+| min_DEF = 0
+| max_HP = 1652
+| max_ATK = 1352
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = イレート Adept 
+| effect_name_JP = イレート・アデプト
+| effect1 = Attack Up [II / 10%] & Accele MP Gain Up [I / 10%] & Defense Down [V / 25%]
+| effect2 = Attack Up [III / 15%] & Accele MP Gain Up [II / 12.5%] & Defense Down [V / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

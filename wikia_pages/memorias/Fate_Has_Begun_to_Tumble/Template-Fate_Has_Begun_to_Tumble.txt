@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Fate Has Begun to Tumble
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 転がり始めていた運命
+| Rarity = 3
+| ID = 1415
+| Illust = くらは
+| Owner = Hinata Matsuri
+
+| min_HP = 466
+| min_ATK = 0
+| min_DEF = 466
+| max_HP = 1165
+| max_ATK = 0
+| max_DEF = 1165
+
+| image = Chance to Darkness
+| effect_name = Flash 
+| effect_name_JP = フラッシュ
+| effect1 = Chance to Darkness [V / 40%] (All / 1 Turn)
+| effect2 = Chance to Darkness [VI / 42.5%] (All / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

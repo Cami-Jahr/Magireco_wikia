@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 花を咲かせる前。空を目指す頃から摘まれる若葉<br />１枚１枚を静かに指先で集めて、青々とした想いを掬ったら<br />もう摘まれないように、みんなが見える姿を編んでいこう<br />瞼の裏には、未来で花開く若葉の頃が見えている
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

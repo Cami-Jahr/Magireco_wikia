@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Over Limiter
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = オーバーリミッター
+| Rarity = 3
+| ID = 1297
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 0
+| max_ATK = 0
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Attack Up 
+| effect_name_JP = アタックアップ
+| effect1 = Attack Up [I / 5%] (Self / 1 Turn)
+| effect2 = Attack Up [I / 5%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 8
+}}

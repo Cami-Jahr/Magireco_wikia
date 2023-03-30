@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Stigma of Slavery
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 隷従のスティグマ
+| Rarity = 3
+| ID = 1622
+| Illust = mepo
+| Owner = Minou
+
+| min_HP = 516
+| min_ATK = 0
+| min_DEF = 436
+| max_HP = 1290
+| max_ATK = 0
+| max_DEF = 1090
+
+| image = Chance to Charm
+| effect_name = Charm Eyes 
+| effect_name_JP = チャーム・アイズ
+| effect1 = Chance to Charm [X / 52.5%] (All / 1 Turn)
+| effect2 = Chance to Charm [XI / 55%] (All / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 9
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Connected 10000km by Tastes
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 味覚で繋がる10000km
+| Rarity = 3
+| ID = 1633
+| Illust = 都筑禰己
+| Owner = Satomi Nayuta
+
+| min_HP = 473
+| min_ATK = 0
+| min_DEF = 473
+| max_HP = 1182
+| max_ATK = 0
+| max_DEF = 1182
+
+| image = Attack Down
+| effect_name = アサルトダウン 
+| effect_name_JP = アサルトダウン
+| effect1 = Attack Down [V / 25%] (One / 1 Turn) & Damage Down [V / 25%] (One / 1 Turn)
+| effect2 = Attack Down [VI / 30%] (One / 1 Turn) & Damage Down [VI / 30%] (One / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

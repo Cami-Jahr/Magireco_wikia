@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Still Far From a Starry Night...
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 星降る夜はまだだけど…
+| Rarity = 4
+| ID = 1574
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 922
+| min_ATK = 802
+| min_DEF = 0
+| max_HP = 2305
+| max_ATK = 2005
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = スラスト Adept 
+| effect_name_JP = スラスト・アデプト
+| effect1 = Attack Up [IV / 20%] & Accele MP Gain Up [II / 12.5%]
+| effect2 = Attack Up [V / 25%] & Accele MP Gain Up [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 喜んでもらえるお話にしたくて、忘れられない思い出にしたくて<br />ちいさな手で一生懸命に紡いだのは、夢がいっぱいのおとぎ話<br />だけど、エンディングに込めた儚くも切ない祈りは<br />ハッピーエンドを簡単には与えてくれない
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

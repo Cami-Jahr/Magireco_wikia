@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Time Starts to Move Again
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 時は再び動き出す
+| Rarity = 3
+| ID = 1649
+| Illust = かにぱんだ
+| Owner = Miki Sayaka (Surfing ver.)
+
+| min_HP = 478
+| min_ATK = 478
+| min_DEF = 0
+| max_HP = 1195
+| max_ATK = 1195
+| max_DEF = 0
+
+| image = Chance to Provoke
+| effect_name = Guardアピール 
+| effect_name_JP = ガードアピール
+| effect1 = Chance to Provoke [IV / 25%] & Defense Up [IV / 30%]
+| effect2 = Chance to Provoke [V / 30%] & Defense Up [V / 37.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

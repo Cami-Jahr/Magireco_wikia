@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Behind the Scene Performance
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 裏方独演会
+| Rarity = 4
+| ID = 1465
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 849
+| min_ATK = 0
+| min_DEF = 769
+| max_HP = 2122
+| max_ATK = 0
+| max_DEF = 1922
+
+| image = Blast Damage Up
+| effect_name = ブランディッシュ 
+| effect_name_JP = ブランディッシュ
+| effect1 = Blast Damage Up [V / 35%] (Self / 1 Turn) & Damage Up [III / 15%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [VI / 40%] (Self / 1 Turn) & Damage Up [IV / 20%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

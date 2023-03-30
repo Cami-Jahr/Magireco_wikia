@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = I Am Me!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = あたしはあたし！
+| Rarity = 4
+| ID = 1730
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 736
+| min_ATK = 0
+| min_DEF = 896
+| max_HP = 1840
+| max_ATK = 0
+| max_DEF = 2240
+
+| image = Attack Up
+| effect_name = スペランツァ Force 
+| effect_name_JP = スペランツァ・フォース
+| effect1 = Attack Up [III / 15%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns) & Chance to Critical Hit [III / 20%] (Self / 3 Turns)
+| effect2 = Attack Up [III / 15%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns) & Chance to Critical Hit [III / 20%] (Self / 3 Turns)
+| Cooldown = 10
+| Cooldown2 = 10
+}}

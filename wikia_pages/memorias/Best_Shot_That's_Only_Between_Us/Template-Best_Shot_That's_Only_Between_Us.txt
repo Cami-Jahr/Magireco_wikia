@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Best Shot That's Only Between Us
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 私たちだけのベストショット
+| Rarity = 4
+| ID = 1390
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 807
+| min_ATK = 0
+| min_DEF = 807
+| max_HP = 2018
+| max_ATK = 0
+| max_DEF = 2018
+
+| image = Chance to Anti-Evade
+| effect_name = レゾナンス Blast Up 
+| effect_name_JP = レゾナンス・ブラストアップ
+| effect1 = Chance to Anti-Evade [I / 100%] (All / 1 Turn) & Blast Damage Up [I / 15%] (All / 1 Turn)
+| effect2 = Chance to Anti-Evade [II / 100%] (All / 1 Turn) & Blast Damage Up [II / 20%] (All / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

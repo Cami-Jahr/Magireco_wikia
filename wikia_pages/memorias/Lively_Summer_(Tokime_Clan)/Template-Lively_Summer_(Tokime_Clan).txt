@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Lively Summer (Tokime Clan)
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 弾むサマー＜時女一族＞
+| Rarity = 3
+| ID = 1648
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 616
+| min_ATK = 616
+| min_DEF = 0
+| max_HP = 1540
+| max_ATK = 1540
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = スマッシュ Adept 
+| effect_name_JP = スマッシュ・アデプト
+| effect1 = Attack Up [II / 10%] & Blast Damage Up [II / 20%]
+| effect2 = Attack Up [II / 10%] & Blast Damage Up [II / 20%]
+| Cooldown = 
+| Cooldown2 = 
+}}

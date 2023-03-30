@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Where Every Day Begins
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 毎日がはじまる場所
+| Rarity = 3
+| ID = 1814
+| Illust = 都筑禰己
+| Owner = Izumi Kanagi (Eternal Darkness ver.)
+
+| min_HP = 461
+| min_ATK = 501
+| min_DEF = 0
+| max_HP = 1152
+| max_ATK = 1252
+| max_DEF = 0
+
+| image = Blast Damage Up
+| effect_name = デスペレイト Attack 
+| effect_name_JP = デスペレイト・アタック
+| effect1 = Blast Damage Up [V / 35%] & Blast MP Gain Up [III / 3%] & Defense Down [III / 15%]
+| effect2 = Blast Damage Up [VII / 45%] & Blast MP Gain Up [V / 5%] & Defense Down [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

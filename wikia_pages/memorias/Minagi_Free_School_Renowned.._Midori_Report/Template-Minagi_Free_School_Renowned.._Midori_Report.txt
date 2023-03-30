@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Minagi Free School Renowned: Midori Report
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 南凪自由学園名物・観鳥報
+| Rarity = 3
+| ID = 1276
+| Illust = mepo
+| Owner = Midori Ryou
+
+| min_HP = 530
+| min_ATK = 420
+| min_DEF = 0
+| max_HP = 1325
+| max_ATK = 1050
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = グリッター Adept 
+| effect_name_JP = グリッター・アデプト
+| effect1 = Attack Up [II / 10%] & MP Gain Up [I / 5%]
+| effect2 = Attack Up [III / 15%] & MP Gain Up [II / 7.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

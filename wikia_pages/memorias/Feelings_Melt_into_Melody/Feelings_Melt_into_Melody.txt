@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 吹く風が沈んだ顔を上げさせると、沈んだ心が澄み渡って音が聞こえた<br />それは宙に舞う調べ――舞い上がった花びらが一片ごとに纏う音<br />昇るそれらに向けた旋律を自分の中で紡ぎながら、<br />１つとして同じものがない音を、ゆっくりと胸に刻んでいく
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

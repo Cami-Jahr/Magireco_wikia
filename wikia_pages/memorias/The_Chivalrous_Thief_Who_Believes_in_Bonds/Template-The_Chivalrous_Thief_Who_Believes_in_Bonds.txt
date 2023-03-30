@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Chivalrous Thief Who Believes in Bonds
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 契りを信ずる義賊
+| Rarity = 4
+| ID = 1876
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 658
+| min_ATK = 978
+| min_DEF = 0
+| max_HP = 1645
+| max_ATK = 2445
+| max_DEF = 0
+
+| image = Flame Attribute Attack Up
+| effect_name = フレイムスマッシュ Adept 
+| effect_name_JP = フレイムスマッシュ・アデプト
+| effect1 = Flame Attribute Attack Up [III / 10%] & Blast Damage Up [II / 20%]
+| effect2 = Flame Attribute Attack Up [III / 10%] & Blast Damage Up [II / 20%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Do You Know the Flower Language?
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 花言葉って知ってる？
+| Rarity = 3
+| ID = 1098
+| Illust = 吟の筆
+| Owner = Haruna Konomi
+
+| min_HP = 506
+| min_ATK = 0
+| min_DEF = 426
+| max_HP = 1265
+| max_ATK = 0
+| max_DEF = 1065
+
+| image = Monopolize Draw
+| effect_name = モノポライズドロー
+| effect_name_JP = モノポライズドロー
+| effect1 = Monopolize Draw [100%]
+| effect2 = Monopolize Draw [100%]
+| Cooldown = 15
+| Cooldown2 = 13
+}}

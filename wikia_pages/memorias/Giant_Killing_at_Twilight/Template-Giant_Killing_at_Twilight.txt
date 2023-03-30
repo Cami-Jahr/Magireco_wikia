@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Giant Killing at Twilight
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 黄昏のジャイアントキリング
+| Rarity = 4
+| ID = 1693
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 776
+| min_ATK = 856
+| min_DEF = 0
+| max_HP = 1940
+| max_ATK = 2140
+| max_DEF = 0
+
+| image = Blast Damage Cut
+| effect_name = BlastShield 
+| effect_name_JP = ブラストシールド
+| effect1 = Blast Damage Cut [V / 25%] & Damage Cut [II / 10%]
+| effect2 = Blast Damage Cut [V / 25%] & Damage Cut [II / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

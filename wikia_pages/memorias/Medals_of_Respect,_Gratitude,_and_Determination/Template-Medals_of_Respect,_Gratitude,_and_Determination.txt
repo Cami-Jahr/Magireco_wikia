@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Medals of Respect, Gratitude, and Determination
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 敬意と感謝と不退の勲章
+| Rarity = 3
+| ID = 1586
+| Illust = mepo
+| Owner = Ooba Juri
+
+| min_HP = 439
+| min_ATK = 519
+| min_DEF = 0
+| max_HP = 1098
+| max_ATK = 1298
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = イグノア Burn 
+| effect_name_JP = イグノア・バーン
+| effect1 = Attack Up [III / 15%] & Chance to Anti-Burn [III / 100%]
+| effect2 = Attack Up [IV / 20%] & Chance to Anti-Burn [IV / 100%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Great Father
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ザ・グレート・ファザー
+| Rarity = 3
+| ID = 1588
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 670
+| min_ATK = 0
+| min_DEF = 610
+| max_HP = 1675
+| max_ATK = 0
+| max_DEF = 1525
+
+| image = Blast Damage Up
+| effect_name = Blastライズ 
+| effect_name_JP = ブラストライズ
+| effect1 = Blast Damage Up [III / 25%] (Self / 3 Turns)
+| effect2 = Blast Damage Up [IV / 30%] (Self / 3 Turns)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

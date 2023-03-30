@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Only I Can Do This
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 私にしかできないことです
+| Rarity = 3
+| ID = 1753
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 678
+| min_ATK = 0
+| min_DEF = 678
+| max_HP = 1695
+| max_ATK = 0
+| max_DEF = 1695
+
+| image = Regenerate HP
+| effect_name = ニートネス 
+| effect_name_JP = ニートネス
+| effect1 = Regenerate HP [III / 4%] (Self / 3 Turns) & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
+| effect2 = Regenerate HP [IV / 5%] (Self / 3 Turns) & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

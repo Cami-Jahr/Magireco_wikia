@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Slowly, But Steadily
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ゆっくりと、でも着実に
+| Rarity = 4
+| ID = 1774
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 979
+| min_ATK = 779
+| min_DEF = 0
+| max_HP = 2448
+| max_ATK = 1948
+| max_DEF = 0
+
+| image = Defense Up
+| effect_name = フォートレス Adept 
+| effect_name_JP = フォートレス・アデプト
+| effect1 = Defense Up [IV / 22.5%] & Damage Cut [III / 20%] & Attack Down [V / 25%]
+| effect2 = Defense Up [V / 30%] & Damage Cut [IV / 25%] & Attack Down [V / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「はぁー…今週もいいなぁ…ねえ、りおん見たでしょ今の必殺技」<br />「…ほとりんさぁ、毎週特撮見てよく飽きないよね」<br />「飽きるはずなんてないよ！ほら、こんなにカッコいいんだよ」<br />「…はぁ、早く見終わらないかしら。ほとりんで遊べないじゃない」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

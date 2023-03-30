@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Wanting to Covet This and That
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = アレもコレもと欲張りたい
+| Rarity = 4
+| ID = 1529
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 844
+| min_ATK = 0
+| min_DEF = 924
+| max_HP = 2110
+| max_ATK = 0
+| max_DEF = 2310
+
+| image = Accele MP Gain Up
+| effect_name = クリアマインド 
+| effect_name_JP = クリアマインド
+| effect1 = Accele MP Gain Up [V / 20%] (Self / 3 Turns) & Damage Increase [III / 15%] (Self / 3 Turns)
+| effect2 = Accele MP Gain Up [VI / 22.5%] (Self / 3 Turns) & Damage Increase [IV / 20%] (Self / 3 Turns)
+| Cooldown = 10
+| Cooldown2 = 9
+}}

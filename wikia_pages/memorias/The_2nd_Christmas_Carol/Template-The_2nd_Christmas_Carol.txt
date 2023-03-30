@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The 2nd Christmas Carol
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 二度目のクリスマス・キャロル
+| Rarity = 4
+| ID = 1577
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 814
+| min_ATK = 814
+| min_DEF = 0
+| max_HP = 2035
+| max_ATK = 2035
+| max_DEF = 0
+
+| image = Magia Damage Up
+| effect_name = Magia Blastウォール 
+| effect_name_JP = マギア・ブラストウォール
+| effect1 = Magia Damage Up [IV / 12.5%] & Blast Damage Cut [III / 15%]
+| effect2 = Magia Damage Up [IV / 12.5%] & Blast Damage Cut [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

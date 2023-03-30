@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Nagisa's Declaration of Independence
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = なぎさの独立宣言！
+| Rarity = 4
+| ID = 1274
+| Illust = 一十九二
+| Owner = 
+
+| min_HP = 840
+| min_ATK = 0
+| min_DEF = 755
+| max_HP = 2100
+| max_ATK = 0
+| max_DEF = 1888
+
+| image = Accele MP Gain Up
+| effect_name = Astral Up 
+| effect_name_JP = アストラルアップ
+| effect1 = Accele MP Gain Up [III / 15%] (Self / 1 Turn) & Magia Damage Up [III / 10%] (Self / 1 Turn)
+| effect2 = Accele MP Gain Up [V / 20%] (Self / 1 Turn) & Magia Damage Up [V / 15%] (Self / 1 Turn)
+| Cooldown = 5
+| Cooldown2 = 4
+}}

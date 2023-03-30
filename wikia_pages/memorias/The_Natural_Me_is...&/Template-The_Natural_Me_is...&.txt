@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Natural Me is...
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 生まれながらのわたしは…
+| Rarity = 4
+| ID = 1200
+| Illust = ちょこ庵
+| Owner = 
+
+| min_HP = 846
+| min_ATK = 0
+| min_DEF = 766
+| max_HP = 2115
+| max_ATK = 0
+| max_DEF = 1915
+
+| image = Blast Damage Down
+| effect_name = Blastブレイク 
+| effect_name_JP = ブラストブレイク
+| effect1 = Blast Damage Down [IX / 25%] (One / 3 Turns)
+| effect2 = Blast Damage Down [X / 27.5%] (One / 3 Turns)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

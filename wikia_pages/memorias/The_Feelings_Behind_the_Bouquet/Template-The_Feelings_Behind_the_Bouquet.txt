@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Feelings Behind the Bouquet
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ブーケに込められた想い
+| Rarity = 2
+| ID = 1042
+| Illust = アマネシキ
+| Owner = 
+
+| min_HP = 384
+| min_ATK = 0
+| min_DEF = 424
+| max_HP = 960
+| max_ATK = 0
+| max_DEF = 1060
+
+| image = Attack Up
+| effect_name = Attack Rise 
+| effect_name_JP = アタックライズ
+| effect1 = Attack Up [III / 15%] (Self / 3 Turns)
+| effect2 = Attack Up [IV / 20%] (Self / 3 Turns)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

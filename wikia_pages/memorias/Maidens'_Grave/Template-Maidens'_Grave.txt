@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Maidens' Grave
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 巫の墓
+| Rarity = 4
+| ID = 1387
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 760
+| min_ATK = 0
+| min_DEF = 842
+| max_HP = 1900
+| max_ATK = 0
+| max_DEF = 2105
+
+| image = Attack Down
+| effect_name = サプレス Attack 
+| effect_name_JP = サプレス・アタック
+| effect1 = Attack Down [II / 17.5%] (All / 3 Turns)
+| effect2 = Attack Down [III / 20%] (All / 3 Turns)
+| Cooldown = 10
+| Cooldown2 = 9
+}}

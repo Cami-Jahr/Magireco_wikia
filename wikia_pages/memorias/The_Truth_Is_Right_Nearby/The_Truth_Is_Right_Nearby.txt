@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 深みのある落ち着いた声。小粋で調子が良い所作。<br />男が語り始めると誰もが聞き入り、事件の真相に身を委ねる。<br />悪を挫く男はひとり。終始、徹底して、己が悪を背負わせぬように。<br />ゆえに彼はこう呼ばれる。宿無し探偵、等々力耕一…。
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

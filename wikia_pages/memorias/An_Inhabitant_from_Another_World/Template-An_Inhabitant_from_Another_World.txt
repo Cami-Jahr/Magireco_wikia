@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = An Inhabitant from Another World
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 別世界の住人
+| Rarity = 4
+| ID = 1501
+| Illust = 柴乃櫂人
+| Owner = 
+
+| min_HP = 914
+| min_ATK = 0
+| min_DEF = 754
+| max_HP = 2285
+| max_ATK = 0
+| max_DEF = 1885
+
+| image = Chance to Charm
+| effect_name = アルーア 
+| effect_name_JP = アルーア
+| effect1 = Chance to Charm [V / 40%] (All / 1 Turn) & Attack Down [V / 25%] (All / 1 Turn)
+| effect2 = Chance to Charm [VI / 42.5%] (All / 1 Turn) & Attack Down [VI / 30%] (All / 1 Turn)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

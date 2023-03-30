@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Bit of True Hope
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ほんの少しの本当の希望
+| Rarity = 3
+| ID = 1245
+| Illust = かにぱんだ
+| Owner = Ultimate Madoka
+
+| min_HP = 450
+| min_ATK = 0
+| min_DEF = 490
+| max_HP = 1125
+| max_ATK = 0
+| max_DEF = 1225
+
+| image = Remove Debuffs
+| effect_name = カウンタラクト
+| effect_name_JP = カウンタラクト
+| effect1 = Remove Debuffs [%]
+| effect2 = Remove Debuffs [%]
+| Cooldown = 8
+| Cooldown2 = 6
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Minion of the Rooftop Witch
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 屋上の魔女の手下
+| Rarity = 1
+| ID = 1011
+| Illust = 原案：f4samurai　　監修：劇団イヌカレー（泥犬）
+| Owner = 
+
+| min_HP = 200
+| min_ATK = 200
+| min_DEF = 0
+| max_HP = 500
+| max_ATK = 500
+| max_DEF = 0
+
+| image = Damage Up
+| effect_name = Slash Adept 
+| effect_name_JP = スラッシュ・アデプト
+| effect1 = Damage Up [I / 5%]
+| effect2 = Damage Up [II / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

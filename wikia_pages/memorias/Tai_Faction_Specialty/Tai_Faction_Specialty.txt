@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「さぁて、今回の獲物も見つけたしサクッと奪って金にするか」<br />サルのように軽快でありながら、物音ひとつ立てない身のこなし<br />すべては、義賊として古来より受け継がれてきた泰党の神髄<br />今日も富める者の涙を絞り、貧しい者を潤わせる
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

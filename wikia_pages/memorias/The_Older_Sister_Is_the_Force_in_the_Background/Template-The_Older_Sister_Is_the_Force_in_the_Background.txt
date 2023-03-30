@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Older Sister Is the Force in the Background
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = お姉ちゃんは縁の下の力持ち
+| Rarity = 3
+| ID = 1628
+| Illust = 都筑禰己
+| Owner = Kirino Sae
+
+| min_HP = 495
+| min_ATK = 0
+| min_DEF = 455
+| max_HP = 1238
+| max_ATK = 0
+| max_DEF = 1138
+
+| image = Redraw Discs
+| effect_name = Disc Shuffle
+| effect_name_JP = ディスクシャッフル
+| effect1 = Redraw Discs [100%]
+| effect2 = Redraw Discs [100%]
+| Cooldown = 7
+| Cooldown2 = 6
+}}

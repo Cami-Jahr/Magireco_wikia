@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Rena I Hate
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 大嫌いなレナ
+| Rarity = 4
+| ID = 1770
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 859
+| min_ATK = 899
+| min_DEF = 0
+| max_HP = 2148
+| max_ATK = 2248
+| max_DEF = 0
+
+| image = Accele MP Gain Up
+| effect_name = Brave スピリット 
+| effect_name_JP = ブレイブ・スピリット
+| effect1 = Accele MP Gain Up [III / 15%] & MP Gain Up [II / 7.5%] & Attack Up [III / 15%]
+| effect2 = Accele MP Gain Up [IV / 17.5%] & MP Gain Up [III / 10%] & Attack Up [IV / 20%]
+| Cooldown = 
+| Cooldown2 = 
+}}

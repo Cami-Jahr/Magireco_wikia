@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Ancient Ties
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 古から結ぶもの
+| Rarity = 3
+| ID = 1855
+| Illust = 都筑禰己
+| Owner = Chizuru
+
+| min_HP = 441
+| min_ATK = 521
+| min_DEF = 0
+| max_HP = 1102
+| max_ATK = 1302
+| max_DEF = 0
+
+| image = Charged Attack Damage Up
+| effect_name = Full Swing Up Adept 
+| effect_name_JP = フルスウィング・アデプト
+| effect1 = Charged Attack Damage Up [VI / 17.5%] & Blast Damage Up [III / 25%]
+| effect2 = Charged Attack Damage Up [VII / 20%] & Blast Damage Up [IV / 30%]
+| Cooldown = 
+| Cooldown2 = 
+}}

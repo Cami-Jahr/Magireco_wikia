@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Good Child Good Child
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = いい子いい子
+| Rarity = 4
+| ID = 1606
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 856
+| min_ATK = 776
+| min_DEF = 0
+| max_HP = 2140
+| max_ATK = 1940
+| max_DEF = 0
+
+| image = Chance to Anti-Fog
+| effect_name = Anti-ヘイズ
+| effect_name_JP = アンチ・ヘイズ
+| effect1 = Chance to Anti-Fog [100%] & Chance to Anti-Darkness [100%] & Chance to Anti-Dazzle [100%]
+| effect2 = Chance to Anti-Fog [100%] & Chance to Anti-Darkness [100%] & Chance to Anti-Dazzle [100%]
+| Cooldown = 
+| Cooldown2 = 
+}}

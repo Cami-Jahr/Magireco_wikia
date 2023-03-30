@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Witch's Traffic Safety
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 魔法使いの交通安全
+| Rarity = 3
+| ID = 1708
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 673
+| min_ATK = 0
+| min_DEF = 553
+| max_HP = 1682
+| max_ATK = 0
+| max_DEF = 1382
+
+| image = Chance to Burn
+| effect_name = Burnフロー 
+| effect_name_JP = バーンフロー
+| effect1 = Chance to Burn [V / 40%] (All / 1 Turn)
+| effect2 = Chance to Burn [V / 40%] (All / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 6
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = New Year's Day When Two Stand Together
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ふたりで立つ年始め
+| Rarity = 4
+| ID = 1717
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 896
+| min_ATK = 736
+| min_DEF = 0
+| max_HP = 2240
+| max_ATK = 1840
+| max_DEF = 0
+
+| image = CC Gain Up
+| effect_name = Curseチップ Adept 
+| effect_name_JP = カースチップ・アデプト
+| effect1 = CC Gain Up [III / 15%]
+| effect2 = CC Gain Up [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

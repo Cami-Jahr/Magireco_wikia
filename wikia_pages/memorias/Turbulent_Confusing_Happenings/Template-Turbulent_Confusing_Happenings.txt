@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Turbulent Confusing Happenings
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 波乱混乱ハプニング
+| Rarity = 3
+| ID = 1744
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 583
+| min_ATK = 0
+| min_DEF = 643
+| max_HP = 1458
+| max_ATK = 0
+| max_DEF = 1608
+
+| image = Attack Up
+| effect_name = Attack Rise 
+| effect_name_JP = アタックライズ
+| effect1 = Attack Up [V / 25%] (Self / 3 Turns)
+| effect2 = Attack Up [V / 25%] (Self / 3 Turns)
+| Cooldown = 6
+| Cooldown2 = 6
+}}

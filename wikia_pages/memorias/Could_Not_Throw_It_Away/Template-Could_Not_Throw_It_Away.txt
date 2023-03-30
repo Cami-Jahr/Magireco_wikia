@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Could Not Throw It Away
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 捨てられなかった
+| Rarity = 4
+| ID = 1866
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 820
+| min_ATK = 940
+| min_DEF = 0
+| max_HP = 2050
+| max_ATK = 2350
+| max_DEF = 0
+
+| image = Attack Up While At Max Health
+| effect_name = Full Gaugeオーバードライブ 
+| effect_name_JP = フルゲージオーバードライブ
+| effect1 = Attack Up While At Max Health [V / 25%] & Attack Up [IV / 20%]
+| effect2 = Attack Up While At Max Health [VI / 30%] & Attack Up [V / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

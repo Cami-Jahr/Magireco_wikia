@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Dream World Sketch
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 空想世界のスケッチ
+| Rarity = 3
+| ID = 1185
+| Illust = ma-sa
+| Owner = Aino Mito
+
+| min_HP = 449
+| min_ATK = 0
+| min_DEF = 489
+| max_HP = 1122
+| max_ATK = 0
+| max_DEF = 1222
+
+| image = Chance to Chase
+| effect_name = ChaseAttack
+| effect_name_JP = チェイスアタック
+| effect1 = Chance to Chase [80%] (Self / 1 Turn)
+| effect2 = Chance to Chase [IX / 80%] (Self / 1 Turn) & Magia Damage Up [IX / 25%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

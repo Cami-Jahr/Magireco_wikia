@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 第一印象は最悪で、今でもちっとも仲良くない<br />なのにこうして一緒にいるのは、ふたりを結ぶ存在があったから<br />星空色の電飾に照らされながら、いつかの誓いを思い出す<br />あの子の笑顔を守りたくて、指を結んだ日のことを
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

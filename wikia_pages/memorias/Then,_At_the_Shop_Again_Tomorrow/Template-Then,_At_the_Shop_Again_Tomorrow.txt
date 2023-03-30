@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Then, At the Shop Again Tomorrow
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = また、あした屋で
+| Rarity = 3
+| ID = 1547
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 602
+| min_ATK = 0
+| min_DEF = 602
+| max_HP = 1505
+| max_ATK = 0
+| max_DEF = 1505
+
+| image = Attack Up
+| effect_name = Attack Rise 
+| effect_name_JP = アタックライズ
+| effect1 = Attack Up [IV / 20%] (Self / 3 Turns)
+| effect2 = Attack Up [V / 25%] (Self / 3 Turns)
+| Cooldown = 6
+| Cooldown2 = 6
+}}

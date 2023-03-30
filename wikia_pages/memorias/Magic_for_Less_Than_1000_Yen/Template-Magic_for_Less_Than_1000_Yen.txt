@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Magic for Less Than 1000 Yen
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 1000円未満の魔法
+| Rarity = 3
+| ID = 1563
+| Illust = 秘鷺悠弥
+| Owner = Yakumo Mikage
+
+| min_HP = 496
+| min_ATK = 0
+| min_DEF = 456
+| max_HP = 1240
+| max_ATK = 0
+| max_DEF = 1140
+
+| image = Accele Draw
+| effect_name = Acceleドロー
+| effect_name_JP = アクセルドロー
+| effect1 = Accele Draw [100%]
+| effect2 = Accele Draw [100%]
+| Cooldown = 5
+| Cooldown2 = 4
+}}

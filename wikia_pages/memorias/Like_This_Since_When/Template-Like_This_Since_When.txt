@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Like This Since When
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = いつのまにここまで
+| Rarity = 4
+| ID = 1585
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 819
+| min_ATK = 0
+| min_DEF = 819
+| max_HP = 2048
+| max_ATK = 0
+| max_DEF = 2048
+
+| image = MP Gain Up
+| effect_name = ディリジェンス ライズ 
+| effect_name_JP = ディリジェンス・ライズ
+| effect1 = MP Gain Up [IV / 12.5%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns)
+| effect2 = MP Gain Up [IV / 12.5%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns)
+| Cooldown = 6
+| Cooldown2 = 6
+}}

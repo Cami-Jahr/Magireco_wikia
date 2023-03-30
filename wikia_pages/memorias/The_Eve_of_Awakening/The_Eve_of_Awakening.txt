@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 願いに救われた命だから、誰かに捧げるのは怖くない<br />夢に、うつつに、まどろみながら、彼女は「覚醒」の時を待つ<br />少女たちに紡がれ、受け継がれた願いの代償、それは希望か絶望か…<br />（TVアニメ 2nd SEASON キービジュアル）
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

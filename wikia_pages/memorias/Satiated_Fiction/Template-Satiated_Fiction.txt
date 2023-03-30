@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Satiated Fiction
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 満ち足りた虚構
+| Rarity = 3
+| ID = 1751
+| Illust = 都筑禰己
+| Owner = Tamaki Iroha (Anime ver.)
+
+| min_HP = 520
+| min_ATK = 440
+| min_DEF = 0
+| max_HP = 1300
+| max_ATK = 1100
+| max_DEF = 0
+
+| image = MP Gauge Increased On Battle Start
+| effect_name = Mana エキスパート 
+| effect_name_JP = マナ・エキスパート
+| effect1 = MP Gauge Increased On Battle Start [10%] & Accele MP Gain Up [IV / 17.5%]
+| effect2 = MP Gauge Increased On Battle Start [15%] & Accele MP Gain Up [V / 20%]
+| Cooldown = 
+| Cooldown2 = 
+}}

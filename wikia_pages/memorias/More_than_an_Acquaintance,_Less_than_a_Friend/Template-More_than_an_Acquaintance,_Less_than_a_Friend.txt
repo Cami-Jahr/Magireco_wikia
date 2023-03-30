@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = More than an Acquaintance, Less than a Friend
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 知り合い以上、友だち未満
+| Rarity = 4
+| ID = 1550
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 924
+| min_ATK = 804
+| min_DEF = 0
+| max_HP = 2310
+| max_ATK = 2010
+| max_DEF = 0
+
+| image = Damage Increase
+| effect_name = パーシストウェポン Adept 
+| effect_name_JP = パーシストウェポン・アデプト
+| effect1 = Damage Increase [V / 25%] & Chance to Anti-Provoke [V / 50%]
+| effect2 = Damage Increase [VI / 30%] & Chance to Anti-Provoke [VIII / 65%]
+| Cooldown = 
+| Cooldown2 = 
+}}

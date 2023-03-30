@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Lovely Akira Room
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ラブリーあきらルーム
+| Rarity = 2
+| ID = 1034
+| Illust = おちゃう
+| Owner = 
+
+| min_HP = 362
+| min_ATK = 0
+| min_DEF = 442
+| max_HP = 905
+| max_ATK = 0
+| max_DEF = 1105
+
+| image = Damage Down
+| effect_name = Slashダウン 
+| effect_name_JP = スラッシュダウン
+| effect1 = Damage Down [V / 25%] (One / 1 Turn)
+| effect2 = Damage Down [VI / 30%] (One / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

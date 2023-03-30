@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「文章を綴ろう、世界を紡ごう、隙間が埋まれば話が流れる<br />静かに緩やかに穏やかに、時に激しく狂おしく、気持ちを乗せた物語は<br />枯れ地のヒビを流れゆき、徐々に満たして仮初めの潤いを与える<br />後は個性を貰うだけ。一糸だけでも色をくれたら僕の心は凪になる」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

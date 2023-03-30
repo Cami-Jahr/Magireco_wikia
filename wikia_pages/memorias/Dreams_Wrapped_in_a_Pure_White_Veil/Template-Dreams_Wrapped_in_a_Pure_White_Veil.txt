@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Dreams Wrapped in a Pure White Veil
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 夢は真っ白なベールに包んで
+| Rarity = 3
+| ID = 1560
+| Illust = くらは
+| Owner = Togame Momoko (Sister ver.)
+
+| min_HP = 455
+| min_ATK = 0
+| min_DEF = 495
+| max_HP = 1138
+| max_ATK = 0
+| max_DEF = 1238
+
+| image = Regenerate HP
+| effect_name = ナーシング Circle 
+| effect_name_JP = ナーシング・サークル
+| effect1 = Regenerate HP [I / 3%] (All / 3 Turns)
+| effect2 = Regenerate HP [I / 3%] (All / 3 Turns)
+| Cooldown = 10
+| Cooldown2 = 9
+}}

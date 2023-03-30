@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Despair-Inviting Death Screams
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 諦念に誘う断末魔
+| Rarity = 4
+| ID = 1725
+| Illust = 都筑禰己
+| Owner = 
+
+| min_HP = 896
+| min_ATK = 0
+| min_DEF = 736
+| max_HP = 2240
+| max_ATK = 0
+| max_DEF = 1840
+
+| image = Attack Up
+| effect_name = ネグレクト Counter 
+| effect_name_JP = ネグレクト・カウンター
+| effect1 = Attack Up [VI / 30%] (Self / 1 Turn) & Endure [100%] (Self / 1 Turn) & Chance to Anti-Counter [VI / 100%] (Self / 1 Turn) & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| effect2 = Attack Up [VI / 30%] (Self / 1 Turn) & Endure [100%] (Self / 1 Turn) & Chance to Anti-Counter [VI / 100%] (Self / 1 Turn) & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| Cooldown = 7
+| Cooldown2 = 7
+}}

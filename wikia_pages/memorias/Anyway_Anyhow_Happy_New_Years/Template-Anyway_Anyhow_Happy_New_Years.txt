@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Anyway Anyhow Happy New Years
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 兎にも角にも謹賀新年
+| Rarity = 4
+| ID = 1850
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 738
+| min_ATK = 898
+| min_DEF = 0
+| max_HP = 1845
+| max_ATK = 2245
+| max_DEF = 0
+
+| image = Episode Experience Gain Increased
+| effect_name = エピソードウェポンAdept 
+| effect_name_JP = エピソードウェポンアデプト
+| effect1 = Episode Experience Gain Increased [IV / 30%] & Damage Increase [III / 15%]
+| effect2 = Episode Experience Gain Increased [IV / 30%] & Damage Increase [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

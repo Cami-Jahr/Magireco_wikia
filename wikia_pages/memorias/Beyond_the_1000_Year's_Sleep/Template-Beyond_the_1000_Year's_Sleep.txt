@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Beyond the 1000 Year's Sleep
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 1000年の眠りを超えて
+| Rarity = 3
+| ID = 1734
+| Illust = mepo
+| Owner = Pernelle
+
+| min_HP = 520
+| min_ATK = 0
+| min_DEF = 440
+| max_HP = 1300
+| max_ATK = 0
+| max_DEF = 1100
+
+| image = Chance to Provoke
+| effect_name = Shield Appeal 
+| effect_name_JP = シールドアピール
+| effect1 = Chance to Provoke [VII / 100%] (Self / 1 Turn) & Damage Cut [VII / 35%] (Self / 1 Turn)
+| effect2 = Chance to Provoke [IX / 100%] (Self / 1 Turn) & Damage Cut [IX / 45%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 5
+}}

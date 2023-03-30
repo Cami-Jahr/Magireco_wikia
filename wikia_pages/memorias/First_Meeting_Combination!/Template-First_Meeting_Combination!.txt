@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = First Meeting Combination!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 初対面コンビネーション！
+| Rarity = 3
+| ID = 1056
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 570
+| min_ATK = 630
+| min_DEF = 0
+| max_HP = 1425
+| max_ATK = 1575
+| max_DEF = 0
+
+| image = Charged Attack Damage Up
+| effect_name = Charge Adept 
+| effect_name_JP = チャージ・アデプト
+| effect1 = Charged Attack Damage Up [III / 10%]
+| effect2 = Charged Attack Damage Up [IV / 12.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

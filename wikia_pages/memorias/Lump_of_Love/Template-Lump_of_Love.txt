@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Lump of Love
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 愛のかたまり
+| Rarity = 3
+| ID = 1101
+| Illust = 都筑禰己
+| Owner = Kure Kirika
+
+| min_HP = 446
+| min_ATK = 0
+| min_DEF = 486
+| max_HP = 1115
+| max_ATK = 0
+| max_DEF = 1215
+
+| image = Chance to Counter
+| effect_name = Counter
+| effect_name_JP = カウンター
+| effect1 = Chance to Counter [80%] (Self / 1 Turn)
+| effect2 = Chance to Counter [80%] (Self / 1 Turn)
+| Cooldown = 15
+| Cooldown2 = 13
+}}

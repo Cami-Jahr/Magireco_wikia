@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Three Different Shapes of Love
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 三者三様の愛の形
+| Rarity = 3
+| ID = 1860
+| Illust = 都筑禰己
+| Owner = Sawa Sudachi (Valentine's ver.)
+
+| min_HP = 521
+| min_ATK = 441
+| min_DEF = 0
+| max_HP = 1302
+| max_ATK = 1102
+| max_DEF = 0
+
+| image = Damage Cut
+| effect_name = MoraleShield Adept 
+| effect_name_JP = モラールシールド・アデプト
+| effect1 = Damage Cut [IV / 20%] & MP Gain Up [II / 7.5%]
+| effect2 = Damage Cut [V / 25%] & MP Gain Up [III / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

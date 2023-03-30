@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 何年も刻まれ続けた時間は、私たちを隔てようとしていた<br />繰り返し太陽を上らせて、その熱で過去の言葉を燃やしてしまったから<br />それでも、海に溶けていた言葉が潤いをもって私たちに届いたとき<br />乾いてひび割れた絆は、確かに息を吹き返した
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

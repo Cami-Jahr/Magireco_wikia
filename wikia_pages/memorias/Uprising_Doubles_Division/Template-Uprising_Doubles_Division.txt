@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Uprising Doubles Division
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 波乱のダブルス部門
+| Rarity = 4
+| ID = 1707
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 856
+| min_ATK = 896
+| min_DEF = 0
+| max_HP = 2140
+| max_ATK = 2240
+| max_DEF = 0
+
+| image = Chance to Critical Hit
+| effect_name = デッドリーAttack Adept 
+| effect_name_JP = デッドリーアタック・アデプト
+| effect1 = Chance to Critical Hit [IV / 25%] & Attack Up [III / 15%] & Charged Attack Damage Up [II / 7.5%]
+| effect2 = Chance to Critical Hit [V / 30%] & Attack Up [III / 15%] & Charged Attack Damage Up [III / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

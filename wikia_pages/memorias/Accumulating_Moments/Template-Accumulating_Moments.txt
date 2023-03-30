@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Accumulating Moments
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 瞬間を積み重ねて
+| Rarity = 4
+| ID = 1824
+| Illust = 蒼樹うめ
+| Owner = 
+
+| min_HP = 882
+| min_ATK = 0
+| min_DEF = 802
+| max_HP = 2205
+| max_ATK = 0
+| max_DEF = 2005
+
+| image = HP Restore
+| effect_name = エンジェルボイス 
+| effect_name_JP = エンジェルボイス
+| effect1 = HP Restore [V / 20%] (All) & Status Ailment Resistance Up [III / 20%] (All / 3 Turns)
+| effect2 = HP Restore [V / 20%] (All) & Status Ailment Resistance Up [III / 20%] (All / 3 Turns)
+| Cooldown = 10
+| Cooldown2 = 10
+}}

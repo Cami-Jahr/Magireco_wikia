@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Struggle Against Fate
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 運命への抗戦
+| Rarity = 3
+| ID = 1302
+| Illust = 星和貴
+| Owner = 
+
+| min_HP = 661
+| min_ATK = 538
+| min_DEF = 0
+| max_HP = 1652
+| max_ATK = 1345
+| max_DEF = 0
+
+| image = Chance to Evade
+| effect_name = Parry Adept 
+| effect_name_JP = パリィ・アデプト
+| effect1 = Chance to Evade [I / 10%]
+| effect2 = Chance to Evade [III / 20%]
+| Cooldown = 
+| Cooldown2 = 
+}}

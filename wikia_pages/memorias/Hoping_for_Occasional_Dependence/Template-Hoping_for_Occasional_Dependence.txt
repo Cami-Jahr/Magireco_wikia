@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Hoping for Occasional Dependence
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = たまには甘えてほしいから
+| Rarity = 3
+| ID = 1840
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 620
+| min_ATK = 0
+| min_DEF = 740
+| max_HP = 1550
+| max_ATK = 0
+| max_DEF = 1850
+
+| image = Attack Up
+| effect_name = Invisible Attack 
+| effect_name_JP = インビジブル・アタック
+| effect1 = Attack Up [II / 10%] (Self / 1 Turn) & Chance to Anti-Evade [II / 100%] (Self / 1 Turn)
+| effect2 = Attack Up [III / 15%] (Self / 1 Turn) & Chance to Anti-Evade [III / 100%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

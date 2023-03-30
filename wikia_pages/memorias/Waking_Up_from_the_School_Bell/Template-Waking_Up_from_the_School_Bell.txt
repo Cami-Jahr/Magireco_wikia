@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Waking Up from the School Bell
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 予鈴で目を覚ます
+| Rarity = 3
+| ID = 1430
+| Illust = なかじまゆか
+| Owner = 
+
+| min_HP = 638
+| min_ATK = 0
+| min_DEF = 578
+| max_HP = 1595
+| max_ATK = 0
+| max_DEF = 1445
+
+| image = Defense Down
+| effect_name = レイジー アウェイキング 
+| effect_name_JP = レイジー・アウェイキング
+| effect1 = Defense Down [VI / 30%] (All / 1 Turn) & Status Ailment Resistance Up [V / 40%] (Self / 1 Turn)
+| effect2 = Defense Down [VII / 35%] (All / 1 Turn) & Status Ailment Resistance Up [VI / 45%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

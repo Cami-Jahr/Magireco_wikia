@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Outing in Plain Attire
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = お出かけは清楚な装いで
+| Rarity = 4
+| ID = 1225
+| Illust = 中村直人
+| Owner = 
+
+| min_HP = 1600
+| min_ATK = 0
+| min_DEF = 0
+| max_HP = 4000
+| max_ATK = 0
+| max_DEF = 0
+
+| image = Regenerate HP
+| effect_name = ニートネス Adept 
+| effect_name_JP = ニートネス・アデプト
+| effect1 = Regenerate HP [I / 2%] & Status Ailment Resistance Up [II / 25%]
+| effect2 = Regenerate HP [II / 3%] & Status Ailment Resistance Up [III / 30%]
+| Cooldown = 
+| Cooldown2 = 
+}}

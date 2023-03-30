@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Everyday Overflowing with Pride
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 日常にあふれる誇り
+| Rarity = 4
+| ID = 1541
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 838
+| min_ATK = 838
+| min_DEF = 0
+| max_HP = 2095
+| max_ATK = 2095
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Bloom Adept 
+| effect_name_JP = ブルーム・アデプト
+| effect1 = Attack Up [IV / 20%] & Defense Up [IV / 30%]
+| effect2 = Attack Up [V / 25%] & Defense Up [V / 37.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Moment of Rest
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = つかの間の休息
+| Rarity = 3
+| ID = 1082
+| Illust = かにぱんだ
+| Owner = Tomoe Mami
+
+| min_HP = 421
+| min_ATK = 0
+| min_DEF = 501
+| max_HP = 1052
+| max_ATK = 0
+| max_DEF = 1252
+
+| image = Monopolize Draw
+| effect_name = モノポライズドロー
+| effect_name_JP = モノポライズドロー
+| effect1 = Monopolize Draw [100%]
+| effect2 = Monopolize Draw [100%]
+| Cooldown = 15
+| Cooldown2 = 13
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Wavering Loyalty
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 揺れる忠義
+| Rarity = 4
+| ID = 1871
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 900
+| min_ATK = 0
+| min_DEF = 900
+| max_HP = 2250
+| max_ATK = 0
+| max_DEF = 2250
+
+| image = Magia Damage Up
+| effect_name = DDoppel  Up 
+| effect_name_JP = Dドッペル・アップ
+| effect1 = Magia Damage Up [VI / 17.5%] (Self / 1 Turn) & Doppel Damage Up [VI / 30%] (Self / 1 Turn) & Dark Attribute Attack Up [X / 27.5%] (Self / 1 Turn)
+| effect2 = Magia Damage Up [VII / 20%] (Self / 1 Turn) & Doppel Damage Up [VII / 35%] (Self / 1 Turn) & Dark Attribute Attack Up [XI / 30%] (Self / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 8
+}}

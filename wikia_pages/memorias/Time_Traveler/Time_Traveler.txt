@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 時間は大きな川の流れのように、過去から未来へ進んでいく。<br />その流れに幾度も逆らって、彼女は果てしない旅を続ける。<br />かけがえのない友のために、自ら立てた誓いを果たすために<br />彼女は時の奔流に飛び込み、そして、抗い続ける。
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Overlapping Strategies
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 重なる謀略
+| Rarity = 3
+| ID = 1412
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 660
+| min_ATK = 0
+| min_DEF = 540
+| max_HP = 1650
+| max_ATK = 0
+| max_DEF = 1350
+
+| image = Attack Down
+| effect_name = アサルトブレイク 
+| effect_name_JP = アサルトブレイク
+| effect1 = Attack Down [I / 5%] (One / 3 Turns) & Damage Down [I / 5%] (One / 3 Turns)
+| effect2 = Attack Down [II / 10%] (One / 3 Turns) & Damage Down [II / 10%] (One / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

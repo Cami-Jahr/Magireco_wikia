@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Our Summer Together
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 二人のいる夏
+| Rarity = 4
+| ID = 1395
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 400
+| min_ATK = 0
+| min_DEF = 400
+| max_HP = 1000
+| max_ATK = 0
+| max_DEF = 1000
+
+| image = Blast Damage Up
+| effect_name = Regeneration Blast 
+| effect_name_JP = リジェネレイト・ブラスト
+| effect1 = Blast Damage Up [III / 25%] (Self / 3 Turns) & Regenerate HP [III / 4%] (Self / 3 Turns)
+| effect2 = Blast Damage Up [IV / 30%] (Self / 3 Turns) & Regenerate HP [IV / 5%] (Self / 3 Turns)
+| Cooldown = 10
+| Cooldown2 = 8
+}}

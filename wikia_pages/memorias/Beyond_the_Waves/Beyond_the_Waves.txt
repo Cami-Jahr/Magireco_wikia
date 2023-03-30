@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 正しい乗り方はわからない。「テイクオフ」の意味は今日知った。<br />練習不足はわかってる。だけどいまさら引き下がれない。<br />「ぶっつけ本番…じゃ、ないけど、さあ、いくよ！<br />波の彼方をめざして…我流で突っ切るから！」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

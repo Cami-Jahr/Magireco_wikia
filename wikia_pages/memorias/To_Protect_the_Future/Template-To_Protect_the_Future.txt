@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = To Protect the Future
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 守るべき未来のために
+| Rarity = 3
+| ID = 1830
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 740
+| min_ATK = 590
+| min_DEF = 0
+| max_HP = 1850
+| max_ATK = 1475
+| max_DEF = 0
+
+| image = Damage Cut
+| effect_name = HShield Adept 
+| effect_name_JP = Hシールド・アデプト
+| effect1 = Damage Cut [I / 5%] & Defense Up [II / 15%]
+| effect2 = Damage Cut [II / 10%] & Defense Up [III / 22.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

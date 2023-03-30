@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「火よ、熱よ、私たちに大切な人を救う力を貸して！」<br />「氷よ、雪よ、私たちの想いを、大好きな人たちに伝えて！」<br />相反するふたりでも、力を合わせればきっと想いは届くから<br />「さあ、みんなで幸せなホワイトクリスマスを迎えましょう！」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = I'll Never Regret It
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 後悔だけはしない
+| Rarity = 2
+| ID = 1024
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 360
+| min_ATK = 0
+| min_DEF = 440
+| max_HP = 900
+| max_ATK = 0
+| max_DEF = 1100
+
+| image = Blast Damage Up
+| effect_name = Blast Up 
+| effect_name_JP = ブラストアップ
+| effect1 = Blast Damage Up [V / 35%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [VI / 40%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

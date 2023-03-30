@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「あら、鹿目さん、すごく素敵な飾り付けになったわね」<br />「頑張っちゃいました。マミさんのケーキもすごく美味しそうですね」<br />「今日は腕によりを掛けてつくったわよ、ってあら、誰かしら？<br />美樹さんは飲み物の買出しに出たばかりのはずだけど…」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = That Day's Regret
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = あの日の悔い
+| Rarity = 3
+| ID = 1314
+| Illust = None Listed
+| Owner = Kuro
+
+| min_HP = 420
+| min_ATK = 500
+| min_DEF = 0
+| max_HP = 1050
+| max_ATK = 1250
+| max_DEF = 0
+
+| image = Attack Up Upon Death
+| effect_name = 無言の加護 
+| effect_name_JP = 無言の加護
+| effect1 = Attack Up Upon Death [III / 5%] (2 Turns) & Defense Up Upon Death [III / 10%] (2 Turns)
+| effect2 = Attack Up Upon Death [IV / 6.3%] (2 Turns) & Defense Up Upon Death [IV / 12.6%] (2 Turns)
+| Cooldown = 
+| Cooldown2 = 
+}}

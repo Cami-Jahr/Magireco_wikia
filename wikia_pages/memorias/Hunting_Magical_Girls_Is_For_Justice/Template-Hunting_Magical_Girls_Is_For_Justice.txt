@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Hunting Magical Girls Is For Justice
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 魔法少女狩りは正義のために
+| Rarity = 4
+| ID = 1683
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 825
+| min_ATK = 825
+| min_DEF = 0
+| max_HP = 2062
+| max_ATK = 2062
+| max_DEF = 0
+
+| image = Damage Up
+| effect_name = Slash アーマメント 
+| effect_name_JP = スラッシュ・アーマメント
+| effect1 = Damage Increase [II / 10%] & Damage Cut [II / 10%]
+| effect2 = Damage Increase [III / 15%] & Damage Cut [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

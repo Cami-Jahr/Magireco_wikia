@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 両親、友だち、赤の他人、彼女を取り巻く人々と数多の出来事。<br />連綿と続く地上の営みは、彼女の琴線に触れることを許されない。<br />彼女の心は常に無感動で無情動で凍り付いている…はずだった。<br />それが僅かに溶けていることに、彼女は少し戸惑いを覚えている。
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

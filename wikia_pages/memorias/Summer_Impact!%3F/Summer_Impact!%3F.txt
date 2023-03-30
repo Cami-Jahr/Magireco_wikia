@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = みんなで楽しくビーチバレー！…だと最初は思ってた…<br />試合は徐々に白熱し、マミさんの超本気な強烈なスパイクが炸裂！<br />その行き先は…ほむらの顔面!?焦るマミ！驚きで身動きできない一同！<br />彼女の眼鏡は宙に舞い、夏の日差しに照らされてキラキラ輝いていた…
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

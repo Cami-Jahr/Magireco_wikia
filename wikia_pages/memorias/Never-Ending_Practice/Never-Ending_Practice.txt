@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「箏曲部の後は毛筆のお稽古、その後は確か華道が入っていて、お風呂<br />を上がってからは、お婆さまに言われた古典文学を読んで、朝起きたら<br />確かお料理の稽古を、って邪念は捨てるでございます！今は部員の皆さ<br />まに六段の調を極めてもらわないと、今度の大会を切り抜けるには…」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

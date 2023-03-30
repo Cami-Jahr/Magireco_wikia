@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Never Allow Will to Be Erased
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 意志は決して消させない
+| Rarity = 3
+| ID = 1739
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 583
+| min_ATK = 643
+| min_DEF = 0
+| max_HP = 1458
+| max_ATK = 1608
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = スラスト Adept 
+| effect_name_JP = スラスト・アデプト
+| effect1 = Attack Up [III / 15%] & Accele MP Gain Up [IV / 17.5%]
+| effect2 = Attack Up [III / 15%] & Accele MP Gain Up [IV / 17.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

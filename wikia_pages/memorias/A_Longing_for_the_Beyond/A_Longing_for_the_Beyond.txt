@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「小さくてせまーいわたくしの世界と、暗くてながーい永遠の時間<br />世界を広げてくれたのは宙の果て。時間を流してくれたのも宙の果て<br />だから脳細胞がオーバーヒートしてもいいから、ぜーんぶ知りたい<br />わたくしにとって優しい持ち物になるから。それで優しくなれるから」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

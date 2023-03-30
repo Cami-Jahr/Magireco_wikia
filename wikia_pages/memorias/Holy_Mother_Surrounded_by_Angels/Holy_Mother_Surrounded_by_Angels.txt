@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 陽が沈む前の公園で子どもたちのハツラツとした声が響き渡る<br />その中心にいるのは、近所で面倒見がいいと評判の普通の女子高生<br />無邪気でハチャメチャな子どもたちの遊びに<br />誰がどう見ても一番楽しそうな笑顔で参加していく
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

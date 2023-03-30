@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「自由になる喜びは知っているけど、これは大地に立っただけ<br />次は、みんなと一緒に羽を広げて、大空に向かって羽ばたきたい<br />まだ誰も知らない次への架け橋になって<br />憎まず、嫉まず、恨まず、健やかな気持ちで笑顔であれるように」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Hand-Waving Happiness
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 手を振れる幸せ
+| Rarity = 4
+| ID = 1616
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 845
+| min_ATK = 845
+| min_DEF = 0
+| max_HP = 2112
+| max_ATK = 2112
+| max_DEF = 0
+
+| image = Defense Up
+| effect_name = ソリッド Adept 
+| effect_name_JP = ソリッド・アデプト
+| effect1 = Defense Up [V / 37.5%] & Status Ailment Resistance Up [III / 30%]
+| effect2 = Defense Up [VI / 45%] & Status Ailment Resistance Up [IV / 35%]
+| Cooldown = 
+| Cooldown2 = 
+}}

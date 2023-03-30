@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Worn Mother-and-Child Notebookâ€Ž
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 擦り切れた母子手帳
+| Rarity = 3
+| ID = 1470
+| Illust = mepo
+| Owner = Sasame Yozuru
+
+| min_HP = 450
+| min_ATK = 490
+| min_DEF = 0
+| max_HP = 1125
+| max_ATK = 1225
+| max_DEF = 0
+
+| image = Blast Damage Up
+| effect_name = イスティント コンバッテレ 
+| effect_name_JP = イスティント・コンバッテレ
+| effect1 = Blast Damage Up [IX / 55%] & Attack Up [VI / 30%]
+| effect2 = Blast Damage Up [X / 60%] & Attack Up [VII / 35%]
+| Cooldown = 
+| Cooldown2 = 
+}}

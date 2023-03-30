@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = She'll Definitely Be Happy
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = きっと喜んでくれるよね
+| Rarity = 3
+| ID = 1049
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 660
+| min_ATK = 0
+| min_DEF = 540
+| max_HP = 1650
+| max_ATK = 0
+| max_DEF = 1350
+
+| image = Attack Up
+| effect_name = Bloom Up 
+| effect_name_JP = ブルームアップ
+| effect1 = Attack Up [VII / 35%] (Self / 1 Turn) & Defense Up [VI / 45%] (Self / 1 Turn)
+| effect2 = Attack Up [VIII / 40%] (Self / 1 Turn) & Defense Up [VII / 52.5%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

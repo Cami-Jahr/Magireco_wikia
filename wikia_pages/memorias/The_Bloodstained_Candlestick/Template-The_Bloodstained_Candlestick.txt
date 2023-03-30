@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Bloodstained Candlestick
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 血塗られた燭台
+| Rarity = 3
+| ID = 1623
+| Illust = 都筑禰己
+| Owner = Isabeau (Witch ver.)
+
+| min_HP = 438
+| min_ATK = 518
+| min_DEF = 0
+| max_HP = 1095
+| max_ATK = 1295
+| max_DEF = 0
+
+| image = Blast Damage Up
+| effect_name = Regeneration Blast 
+| effect_name_JP = リジェネレイト・ブラスト
+| effect1 = Blast Damage Up [IV / 30%] & Regenerate HP [II / 3%]
+| effect2 = Blast Damage Up [V / 35%] & Regenerate HP [II / 3%]
+| Cooldown = 
+| Cooldown2 = 
+}}

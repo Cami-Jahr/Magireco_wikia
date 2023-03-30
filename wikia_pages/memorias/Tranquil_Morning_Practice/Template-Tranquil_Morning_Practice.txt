@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Tranquil Morning Practice
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 静淑なる朝稽古
+| Rarity = 3
+| ID = 1055
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 570
+| min_ATK = 0
+| min_DEF = 630
+| max_HP = 1425
+| max_ATK = 0
+| max_DEF = 1575
+
+| image = Chance to Provoke
+| effect_name = Provoke 
+| effect_name_JP = プロヴォーク
+| effect1 = Chance to Provoke [VII / 40%] (Self / 1 Turn)
+| effect2 = Chance to Provoke [VIII / 45%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

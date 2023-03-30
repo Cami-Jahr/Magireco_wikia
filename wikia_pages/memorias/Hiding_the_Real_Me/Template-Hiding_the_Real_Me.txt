@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Hiding the Real Me
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ほんとうの私を隠して
+| Rarity = 4
+| ID = 1629
+| Illust = らぐほのえりか
+| Owner = 
+
+| min_HP = 766
+| min_ATK = 0
+| min_DEF = 926
+| max_HP = 1915
+| max_ATK = 0
+| max_DEF = 2315
+
+| image = Attack Down
+| effect_name = ドレイン Skill Quicken 
+| effect_name_JP = ドレイン・スキルクイック
+| effect1 = Attack Down [VIII / 40%] (One / 1 Turn) & Chance to Skill Quicken [VIII / 100%] (Self / 1 Turn)
+| effect2 = Attack Down [X / 50%] (One / 1 Turn) & Chance to Skill Quicken [X / 100%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

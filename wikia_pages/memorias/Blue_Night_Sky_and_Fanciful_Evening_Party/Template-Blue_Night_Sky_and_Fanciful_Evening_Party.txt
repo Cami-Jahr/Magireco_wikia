@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Blue Night Sky and Fanciful Evening Party
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 蒼い夜空と架空の夜会
+| Rarity = 4
+| ID = 1431
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 852
+| min_ATK = 0
+| min_DEF = 734
+| max_HP = 2130
+| max_ATK = 0
+| max_DEF = 1835
+
+| image = Remove Debuffs
+| effect_name = カウンタラクト
+| effect_name_JP = カウンタラクト
+| effect1 = Remove Debuffs [%]
+| effect2 = Remove Debuffs [%]
+| Cooldown = 10
+| Cooldown2 = 9
+}}

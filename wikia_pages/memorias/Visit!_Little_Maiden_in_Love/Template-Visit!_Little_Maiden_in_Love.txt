@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Visit! Little Maiden in Love
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 参上！恋する小さな乙女
+| Rarity = 4
+| ID = 1776
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 856
+| min_ATK = 0
+| min_DEF = 776
+| max_HP = 2140
+| max_ATK = 0
+| max_DEF = 1940
+
+| image = Blast Damage Up
+| effect_name = Blast Force 
+| effect_name_JP = ブラスト・フォース
+| effect1 = Blast Damage Up [III / 25%] (Self / 3 Turns) & Chance to Critical Hit [III / 20%] (Self / 3 Turns)
+| effect2 = Blast Damage Up [III / 25%] (Self / 3 Turns) & Chance to Critical Hit [III / 20%] (Self / 3 Turns)
+| Cooldown = 6
+| Cooldown2 = 6
+}}

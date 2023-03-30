@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 会うのが待ち遠しいなんて、生まれて初めてだった<br />そんな気なんてさらさらなかったのに、いつの間にか心惹かれて<br />気が付いたら心の中でとても大きな存在になっていた<br />だから早く来てほしい…そしてまた、あの笑顔を見せてほしい
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

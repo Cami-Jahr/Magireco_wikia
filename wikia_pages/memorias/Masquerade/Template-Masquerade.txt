@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Masquerade
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = マスカレード
+| Rarity = 3
+| ID = 1507
+| Illust = 秘鷺悠弥
+| Owner = Lapine
+
+| min_HP = 492
+| min_ATK = 0
+| min_DEF = 452
+| max_HP = 1230
+| max_ATK = 0
+| max_DEF = 1130
+
+| image = Endure
+| effect_name = スケープゴート 
+| effect_name_JP = スケープゴート
+| effect1 = Endure [100%] (Self / 1 Turn) & Chance to Evade [IV / 25%] (Self / 1 Turn)
+| effect2 = Endure [100%] (Self / 1 Turn) & Chance to Evade [V / 30%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

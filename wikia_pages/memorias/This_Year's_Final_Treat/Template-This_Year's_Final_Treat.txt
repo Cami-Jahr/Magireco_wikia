@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = This Year's Final Treat
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 今年最後の御馳走
+| Rarity = 4
+| ID = 1849
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 860
+| min_ATK = 0
+| min_DEF = 940
+| max_HP = 2150
+| max_ATK = 0
+| max_DEF = 2350
+
+| image = Blast Damage Up
+| effect_name = Full Burst 
+| effect_name_JP = フルバースト
+| effect1 = Blast Damage Up [IX / 55%] (Self / 1 Turn) & Accele MP Gain Up [VIII / 27.5%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [X / 60%] (Self / 1 Turn) & Accele MP Gain Up [IX / 30%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

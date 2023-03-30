@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Jet-Black Ink
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 漆黒のインク
+| Rarity = 3
+| ID = 1344
+| Illust = かにぱんだ
+| Owner = Sarasa Hanna
+
+| min_HP = 429
+| min_ATK = 0
+| min_DEF = 510
+| max_HP = 1072
+| max_ATK = 0
+| max_DEF = 1275
+
+| image = Chance to Bind
+| effect_name = Bind ハルシネ―ション 
+| effect_name_JP = バインド・ハルシネ―ション
+| effect1 = Chance to Bind [IV / 37.5%] (One / 1 Turn) & Defense Down [V / 25%] (One / 1 Turn)
+| effect2 = Chance to Bind [V / 40%] (One / 1 Turn) & Defense Down [VI / 30%] (One / 1 Turn)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

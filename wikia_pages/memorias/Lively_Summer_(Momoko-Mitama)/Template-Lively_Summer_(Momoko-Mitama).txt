@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Lively Summer (Momoko/Mitama)
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 弾むサマー＜ももこ・みたま＞
+| Rarity = 4
+| ID = 1647
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 818
+| min_ATK = 0
+| min_DEF = 818
+| max_HP = 2045
+| max_ATK = 0
+| max_DEF = 2045
+
+| image = Magia Damage Down
+| effect_name = Cower ディストラクション 
+| effect_name_JP = クウェル・ディストラクション
+| effect1 = Magia Damage Down [VI / 30%] (All / 1 Turn) & Attack Down [V / 25%] (All / 1 Turn)
+| effect2 = Magia Damage Down [VI / 30%] (All / 1 Turn) & Attack Down [V / 25%] (All / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 8
+}}

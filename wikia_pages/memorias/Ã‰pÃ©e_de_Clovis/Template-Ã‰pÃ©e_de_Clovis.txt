@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Ã‰pÃ©e de Clovis
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = エペ・ド・クロヴィス
+| Rarity = 3
+| ID = 1170
+| Illust = mepo
+| Owner = Tart
+
+| min_HP = 463
+| min_ATK = 0
+| min_DEF = 463
+| max_HP = 1158
+| max_ATK = 0
+| max_DEF = 1158
+
+| image = Chance to Guardian
+| effect_name = Covering
+| effect_name_JP = カバーリング
+| effect1 = Chance to Guardian [100%] (1 Turn)
+| effect2 = Chance to Guardian [100%] (1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

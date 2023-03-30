@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Wash Away The Past
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 過去を洗い流して
+| Rarity = 3
+| ID = 1820
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 710
+| min_ATK = 0
+| min_DEF = 650
+| max_HP = 1775
+| max_ATK = 0
+| max_DEF = 1625
+
+| image = Chance to Fog
+| effect_name = Fog ダウン 
+| effect_name_JP = フォッグ・ダウン
+| effect1 = Chance to Fog [VI / 100%] (One / 1 Turn) & Attack Down [VI / 30%] (One / 1 Turn)
+| effect2 = Chance to Fog [VII / 100%] (One / 1 Turn) & Attack Down [VII / 35%] (One / 1 Turn)
+| Cooldown = 5
+| Cooldown2 = 4
+}}

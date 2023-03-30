@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = That Which Is Always in My Heart
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = いつでも心にあるもの
+| Rarity = 4
+| ID = 1761
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 819
+| min_ATK = 939
+| min_DEF = 0
+| max_HP = 2048
+| max_ATK = 2348
+| max_DEF = 0
+
+| image = Doppel Damage Up
+| effect_name = リーサル Adept 
+| effect_name_JP = リーサル・アデプト
+| effect1 = Doppel Damage Up [V / 25%] & Damage Increase [II / 10%]
+| effect2 = Doppel Damage Up [VI / 30%] & Damage Increase [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

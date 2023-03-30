@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = With Any Hope, Any Dream
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = どんな夢も、希望も
+| Rarity = 4
+| ID = 1663
+| Illust = 原画：月浦まり　　監修：山村洋貴
+| Owner = 
+
+| min_HP = 754
+| min_ATK = 0
+| min_DEF = 914
+| max_HP = 1885
+| max_ATK = 0
+| max_DEF = 2285
+
+| image = HP Restore
+| effect_name = Cure Heal 
+| effect_name_JP = キュアヒール
+| effect1 = HP Restore [III / 35%]
+| effect2 = HP Restore [III / 35%]
+| Cooldown = 7
+| Cooldown2 = 7
+}}

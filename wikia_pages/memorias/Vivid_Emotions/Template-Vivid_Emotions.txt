@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Vivid Emotions
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 想い鮮明
+| Rarity = 4
+| ID = 1800
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 980
+| min_ATK = 0
+| min_DEF = 820
+| max_HP = 2450
+| max_ATK = 0
+| max_DEF = 2050
+
+| image = Negate Status Ailments
+| effect_name = イージスShield 
+| effect_name_JP = イージスシールド
+| effect1 = Negate Status Ailments [IV / 100%] (Self / 3 Turns) & Regenerate HP [IV / 5%] (Self / 3 Turns) & Damage Cut [IV / 20%] (Self / 3 Turns)
+| effect2 = Negate Status Ailments [V / 100%] (Self / 3 Turns) & Regenerate HP [V / 6%] (Self / 3 Turns) & Damage Cut [V / 25%] (Self / 3 Turns)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

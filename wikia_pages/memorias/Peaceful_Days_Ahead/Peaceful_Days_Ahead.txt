@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = すべてのことに終わりがあるのは、この日常だって例外じゃない<br />けれどもう、終わりを寂しく思っても、捨てようとは思わない<br />日々が進むと、やがて歩む道は別々になり、繋がりさえも変わっていく<br />だけど私は信じてる。どれだけ未来へ進んでも繋がりは消えないことを
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

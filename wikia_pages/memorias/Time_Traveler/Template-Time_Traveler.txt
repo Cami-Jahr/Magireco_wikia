@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Time Traveler
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 時間遡行者
+| Rarity = 2
+| ID = 1019
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 420
+| min_ATK = 380
+| min_DEF = 0
+| max_HP = 1050
+| max_ATK = 950
+| max_DEF = 0
+
+| image = Defense Up
+| effect_name = Guard Adept 
+| effect_name_JP = ガード・アデプト
+| effect1 = Defense Up [II / 15%]
+| effect2 = Defense Up [III / 22.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

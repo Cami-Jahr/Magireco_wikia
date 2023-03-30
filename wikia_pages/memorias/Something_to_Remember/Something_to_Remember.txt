@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = ｜知らない感情に戸惑い、初めての恐怖に身がすくんだ時<br />共に考え、手を差し伸べてくれる人たちができていた<br />いつか終わる日が来るとして…共にあった日々が消えてしまわないよう<br />私はこの先の日々を大切に歩いていきたい｜
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Great Success in the Longed for Land
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 憧れの地で大いに活躍を
+| Rarity = 4
+| ID = 1604
+| Illust = 紅緒
+| Owner = 
+
+| min_HP = 843
+| min_ATK = 883
+| min_DEF = 0
+| max_HP = 2108
+| max_ATK = 2208
+| max_DEF = 0
+
+| image = Chance to Bind on Attack
+| effect_name = BindAttack Adept 
+| effect_name_JP = バインドアタック・アデプト
+| effect1 = Chance to Bind on Attack [II / 15%] (1 Turn) & Attack Up [IV / 20%]
+| effect2 = Chance to Bind on Attack [III / 20%] (1 Turn) & Attack Up [V / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

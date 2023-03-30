@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Wishing for the Final Act
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 終幕への願い
+| Rarity = 4
+| ID = 1805
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 898
+| min_ATK = 0
+| min_DEF = 738
+| max_HP = 2245
+| max_ATK = 0
+| max_DEF = 1845
+
+| image = MP Gain Down
+| effect_name = Morale ブレイク 
+| effect_name_JP = モラール・ブレイク
+| effect1 = MP Gain Down [VII / 40%] (One / 3 Turns)
+| effect2 = MP Gain Down [VII / 40%] (One / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 9
+}}

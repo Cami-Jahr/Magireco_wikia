@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Picture that Could Not Be Shown
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 見せられなかった絵
+| Rarity = 3
+| ID = 1416
+| Illust = くらは
+| Owner = Kanade Haruka
+
+| min_HP = 466
+| min_ATK = 466
+| min_DEF = 0
+| max_HP = 1165
+| max_ATK = 1165
+| max_DEF = 0
+
+| image = Defense Up When At Critical Health
+| effect_name = クライシス Shield 
+| effect_name_JP = クライシス・シールド
+| effect1 = Defense Up When At Critical Health [I / 20%] & Defense Up [II / 15%] & Damage Cut [II / 10%]
+| effect2 = Defense Up When At Critical Health [II / 30%] & Defense Up [III / 22.5%] & Damage Cut [II / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

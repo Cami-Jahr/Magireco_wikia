@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Dawn of a Shallow Dream (Memoria)
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 浅き夢の暁
+| Rarity = 4
+| ID = 1780
+| Illust = 谷口淳一郎
+| Owner = 
+
+| min_HP = 850
+| min_ATK = 890
+| min_DEF = 0
+| max_HP = 2125
+| max_ATK = 2225
+| max_DEF = 0
+
+| image = Damage Up Versus Witches
+| effect_name = 浅き夢の暁
+| effect_name_JP = 浅き夢の暁
+| effect1 = Damage Up Versus Witches [VI / 30%] & Regenerate HP [III / 4%]
+| effect2 = Damage Up Versus Witches [VI / 30%] & Regenerate HP [III / 4%]
+| Cooldown = 
+| Cooldown2 = 
+}}

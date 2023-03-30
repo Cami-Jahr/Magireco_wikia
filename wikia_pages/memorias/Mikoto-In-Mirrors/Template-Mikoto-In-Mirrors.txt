@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Mikoto-In-Mirrors
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ミコト・イン・ミラーズ
+| Rarity = 4
+| ID = 1808
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 940
+| min_ATK = 820
+| min_DEF = 0
+| max_HP = 2350
+| max_ATK = 2050
+| max_DEF = 0
+
+| image = Chance to Anti-Provoke
+| effect_name = ブレイクSoul 
+| effect_name_JP = ブレイクソウル
+| effect1 = Chance to Anti-Provoke [VI / 55%] & Ignore Damage Cut [VI / 55%]
+| effect2 = Chance to Anti-Provoke [VIII / 65%] & Ignore Damage Cut [VIII / 65%]
+| Cooldown = 
+| Cooldown2 = 
+}}

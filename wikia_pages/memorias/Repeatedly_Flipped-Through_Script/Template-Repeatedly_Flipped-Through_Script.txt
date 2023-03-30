@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Repeatedly Flipped-Through Script
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 繰り返しめくられた台本
+| Rarity = 3
+| ID = 1638
+| Illust = 都筑禰己
+| Owner = Nanami Yachiyo (Tanabata ver.)
+
+| min_HP = 495
+| min_ATK = 455
+| min_DEF = 0
+| max_HP = 1238
+| max_ATK = 1138
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Bloom Adept 
+| effect_name_JP = ブルーム・アデプト
+| effect1 = Attack Up [III / 15%] & Defense Up [III / 22.5%]
+| effect2 = Attack Up [IV / 20%] & Defense Up [IV / 30%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Free in the Sea!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 海の中でも自由自在！
+| Rarity = 3
+| ID = 1384
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 630
+| min_ATK = 0
+| min_DEF = 570
+| max_HP = 1575
+| max_ATK = 0
+| max_DEF = 1425
+
+| image = Attack Up
+| effect_name = Attack Rise 
+| effect_name_JP = アタックライズ
+| effect1 = Attack Up [II / 10%] (Self / 3 Turns)
+| effect2 = Attack Up [IV / 20%] (Self / 3 Turns)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

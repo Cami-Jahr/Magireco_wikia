@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Feelings I Want to Know
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 知りたい気持ち
+| Rarity = 3
+| ID = 1724
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 736
+| min_ATK = 586
+| min_DEF = 0
+| max_HP = 1840
+| max_ATK = 1465
+| max_DEF = 0
+
+| image = Chance to Evade
+| effect_name = ヒーリングステップ Adept 
+| effect_name_JP = ヒーリングステップ・アデプト
+| effect1 = Chance to Evade [II / 15%] & Regenerate HP [I / 2%]
+| effect2 = Chance to Evade [III / 20%] & Regenerate HP [II / 3%]
+| Cooldown = 
+| Cooldown2 = 
+}}

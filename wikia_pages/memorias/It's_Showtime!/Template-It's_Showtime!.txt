@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = It's Showtime!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ショータイムなんよ！
+| Rarity = 3
+| ID = 1759
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 553
+| min_ATK = 673
+| min_DEF = 0
+| max_HP = 1382
+| max_ATK = 1682
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Crisis Attack 
+| effect_name_JP = クライシスアタック
+| effect1 = Attack Up [III / 15%] & Attack Up When At Critical Health [I / 10%]
+| effect2 = Attack Up [III / 15%] & Attack Up When At Critical Health [I / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Plan Is a Sweet Taste
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 計画はスイートテイスト
+| Rarity = 4
+| ID = 1597
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 728
+| min_ATK = 0
+| min_DEF = 888
+| max_HP = 1820
+| max_ATK = 0
+| max_DEF = 2220
+
+| image = Damage Cut
+| effect_name = Auraライズ 
+| effect_name_JP = オーラライズ
+| effect1 = Damage Cut [II / 10%] (Self / 3 Turns) & Attack Up [II / 10%] (Self / 3 Turns)
+| effect2 = Damage Cut [II / 10%] (Self / 3 Turns) & Attack Up [II / 10%] (Self / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

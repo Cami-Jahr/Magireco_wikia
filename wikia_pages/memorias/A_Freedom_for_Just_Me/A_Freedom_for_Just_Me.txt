@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 地球が太陽を周回しているだなんてウソっぱちに決まってる<br />世界がこんなに広いだなんてウソっぱちに決まってる<br />テレビやネットで見ることも、本当かどうかは分からない<br />でも、星空は回ってる。自分の周りを回ってる。これだけが本当のこと
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

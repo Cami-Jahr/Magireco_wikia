@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = New Years Party Waitress
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 新年会の給仕係
+| Rarity = 3
+| ID = 1294
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 578
+| min_ATK = 0
+| min_DEF = 638
+| max_HP = 1445
+| max_ATK = 0
+| max_DEF = 1595
+
+| image = Attack Up
+| effect_name = Bloomライズ 
+| effect_name_JP = ブルームライズ
+| effect1 = Attack Up [III / 15%] (Self / 3 Turns) & Defense Up [II / 15%] (Self / 3 Turns)
+| effect2 = Attack Up [IV / 20%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

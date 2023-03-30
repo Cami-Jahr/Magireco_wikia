@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「ほむらちゃん、過去に戻れるんだよね？<br />こんな終わり方にならないように、歴史を変えられるって、言ってたよね…」<br />まどかの“命”とともに託された想いを胸に、彼女はこの時間に幕を引き<br />再び過去へと向かう…いつの日か、まどかを救う未来を求めて
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

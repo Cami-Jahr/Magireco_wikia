@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Year of the Ox Is My Tasty Year
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 丑年は美味しいオレの年
+| Rarity = 4
+| ID = 1580
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 840
+| min_ATK = 0
+| min_DEF = 840
+| max_HP = 2100
+| max_ATK = 0
+| max_DEF = 2100
+
+| image = Chance to Stun
+| effect_name = Stun Attack 
+| effect_name_JP = スタン・アタック
+| effect1 = Chance to Stun [IV / 37.5%] (One / 1 Turn) & Attack Up [IV / 20%] (Self / 3 Turns)
+| effect2 = Chance to Stun [IV / 37.5%] (One / 1 Turn) & Attack Up [IV / 20%] (Self / 3 Turns)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

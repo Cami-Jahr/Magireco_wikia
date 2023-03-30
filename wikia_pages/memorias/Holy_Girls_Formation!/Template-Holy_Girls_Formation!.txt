@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Holy Girls Formation!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ホーリーガールズ結成！
+| Rarity = 3
+| ID = 1440
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 603
+| min_ATK = 0
+| min_DEF = 602
+| max_HP = 1508
+| max_ATK = 0
+| max_DEF = 1505
+
+| image = Accele MP Gain Up
+| effect_name = Astralライズ 
+| effect_name_JP = アストラルライズ
+| effect1 = Accele MP Gain Up [III / 15%] (Self / 3 Turns) & Magia Damage Up [II / 7.5%] (Self / 3 Turns)
+| effect2 = Accele MP Gain Up [V / 20%] (Self / 3 Turns) & Magia Damage Up [IV / 12.5%] (Self / 3 Turns)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

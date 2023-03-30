@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「ちょっとしたことで怒ったり、ワガママ言ったり、泣いたり<br />素直じゃなくて、周りを疑ってる自分が、すっごく嫌い<br />だけど、それでも好きだって言ってくれる人も側にいるから<br />その人たちを悲しませたくないし、悲しませる人は許さない」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

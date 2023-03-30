@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Whilst in the Dark
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = つつ闇の中で
+| Rarity = 3
+| ID = 1832
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 614
+| min_ATK = 0
+| min_DEF = 614
+| max_HP = 1535
+| max_ATK = 0
+| max_DEF = 1535
+
+| image = Chance to Poison
+| effect_name = Poison ゲイズ 
+| effect_name_JP = ポイズン・ゲイズ
+| effect1 = Chance to Poison [IV / 100%] (One / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [IV / 30%] (Self / 1 Turn)
+| effect2 = Chance to Poison [IV / 100%] (One / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [IV / 30%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 6
+}}

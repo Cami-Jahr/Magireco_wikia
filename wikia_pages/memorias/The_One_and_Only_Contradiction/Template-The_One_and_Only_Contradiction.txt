@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The One and Only Contradiction
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 唯一無二の矛盾
+| Rarity = 4
+| ID = 1409
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 843
+| min_ATK = 0
+| min_DEF = 763
+| max_HP = 2108
+| max_ATK = 0
+| max_DEF = 1908
+
+| image = Damage Cut
+| effect_name = Shield Force 
+| effect_name_JP = シールド・フォース
+| effect1 = Damage Cut [IV / 20%] (Self / 3 Turns) & Chance to Critical Hit [IV / 25%] (Self / 3 Turns)
+| effect2 = Damage Cut [V / 25%] (Self / 3 Turns) & Chance to Critical Hit [V / 30%] (Self / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = It's Not Like I Was Waiting
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 待ってたわけじゃないから
+| Rarity = 3
+| ID = 1052
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 630
+| min_ATK = 570
+| min_DEF = 0
+| max_HP = 1575
+| max_ATK = 1425
+| max_DEF = 0
+
+| image = MP Gain Up
+| effect_name = Morale Adept 
+| effect_name_JP = モラール・アデプト
+| effect1 = MP Gain Up [III / 10%]
+| effect2 = MP Gain Up [IV / 12.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

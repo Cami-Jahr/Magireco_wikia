@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Reinforcements That Transcend Time
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 時を超えた援軍
+| Rarity = 4
+| ID = 1177
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 803
+| min_ATK = 0
+| min_DEF = 803
+| max_HP = 2008
+| max_ATK = 0
+| max_DEF = 2008
+
+| image = Attack Up
+| effect_name = PenetrateAttack 
+| effect_name_JP = ペネトレイトアタック
+| effect1 = Attack Up [IX / 45%] (Self / 1 Turn) & Chance to Defense Pierce [VIII / 45%] (Self / 1 Turn)
+| effect2 = Attack Up [X / 50%] (Self / 1 Turn) & Chance to Defense Pierce [IX / 50%] (Self / 1 Turn)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Obtaining Power From Nature
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 自然から力をもらって
+| Rarity = 4
+| ID = 1332
+| Illust = 谷口淳一郎
+| Owner = 
+
+| min_HP = 727
+| min_ATK = 0
+| min_DEF = 887
+| max_HP = 1818
+| max_ATK = 0
+| max_DEF = 2218
+
+| image = Chance to Bind
+| effect_name = バインディングMagia 
+| effect_name_JP = バインディングマギア
+| effect1 = Chance to Bind [III / 35%] (All / 1 Turn) & Magia Damage Up [VI / 17.5%] (Self / 1 Turn)
+| effect2 = Chance to Bind [IV / 37.5%] (All / 1 Turn) & Magia Damage Up [VII / 20%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

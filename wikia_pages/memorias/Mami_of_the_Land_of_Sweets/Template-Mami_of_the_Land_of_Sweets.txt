@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Mami of the Land of Sweets
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = お菓子の国のマミ
+| Rarity = 4
+| ID = 1462
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 881
+| min_ATK = 0
+| min_DEF = 718
+| max_HP = 2202
+| max_ATK = 0
+| max_DEF = 1795
+
+| image = Chance to Anti-Counter
+| effect_name = ネグレクト Counter 
+| effect_name_JP = ネグレクト・カウンター
+| effect1 = Chance to Anti-Counter [V / 100%] (Self / 1 Turn) & Attack Up [V / 25%] (Self / 1 Turn) & Endure [100%] (Self / 1 Turn)
+| effect2 = Chance to Anti-Counter [VI / 100%] (Self / 1 Turn) & Attack Up [VI / 30%] (Self / 1 Turn) & Endure [100%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

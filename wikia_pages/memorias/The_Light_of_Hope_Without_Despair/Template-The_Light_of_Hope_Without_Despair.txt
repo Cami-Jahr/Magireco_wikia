@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Light of Hope Without Despair
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 絶望しない希望の光
+| Rarity = 4
+| ID = 1247
+| Illust = 星和貴 / 猫杜なな
+| Owner = 
+
+| min_HP = 730
+| min_ATK = 0
+| min_DEF = 890
+| max_HP = 1825
+| max_ATK = 0
+| max_DEF = 2225
+
+| image = Defense Down
+| effect_name = スナイピングMagia 
+| effect_name_JP = スナイピングマギア
+| effect1 = Defense Down [V / 25%] (One / 1 Turn) & Magia Damage Up [VII / 20%] (Self / 1 Turn)
+| effect2 = Defense Down [VI / 30%] (One / 1 Turn) & Magia Damage Up [VIII / 22.5%] (Self / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 8
+}}

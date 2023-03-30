@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 固いアスファルト、灰色で彩られた建物、縦横無尽に行き交う人々！<br />洗礼を受けて、ふわふわ頭を浮かせた少女たちよ、早く立ち直れ！<br />小動物のように怯えている場合じゃない、都会なんかにやられるな！<br />だから、この水をお飲みなさい。毒が入ってるかもしれないけれど
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

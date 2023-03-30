@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Guardian Spirit Is Busy!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 守護霊さんは大忙し！
+| Rarity = 3
+| ID = 1578
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 553
+| min_ATK = 0
+| min_DEF = 673
+| max_HP = 1382
+| max_ATK = 0
+| max_DEF = 1682
+
+| image = Blast Damage Up
+| effect_name = Blast Force 
+| effect_name_JP = ブラスト・フォース
+| effect1 = Blast Damage Up [III / 25%] (Self / 3 Turns) & Chance to Critical Hit [II / 15%] (Self / 3 Turns)
+| effect2 = Blast Damage Up [III / 25%] (Self / 3 Turns) & Chance to Critical Hit [II / 15%] (Self / 3 Turns)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Up to 300 Yen Per Person
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = おひとりさま300円まで
+| Rarity = 4
+| ID = 1694
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 733
+| min_ATK = 0
+| min_DEF = 893
+| max_HP = 1832
+| max_ATK = 0
+| max_DEF = 2232
+
+| image = Chance to Guardian
+| effect_name = Regeneration Covering 
+| effect_name_JP = リジェネレイト・カバーリング
+| effect1 = Chance to Guardian [IX / 100%] (1 Turn) & Regenerate HP [IX / 10%] (Self / 1 Turn)
+| effect2 = Chance to Guardian [IX / 100%] (1 Turn) & Regenerate HP [IX / 10%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 8
+}}

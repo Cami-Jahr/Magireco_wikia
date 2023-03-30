@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Sudden Pajama Party
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = パジャマパーティーは突然に
+| Rarity = 4
+| ID = 1803
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 900
+| min_ATK = 0
+| min_DEF = 900
+| max_HP = 2250
+| max_ATK = 0
+| max_DEF = 2250
+
+| image = Magia Damage Up
+| effect_name = MoraleMagiaライズ 
+| effect_name_JP = モラールマギアライズ
+| effect1 = Magia Damage Up [VI / 17.5%] (Self / 3 Turns) & MP Gain Up [IV / 12.5%] (Self / 3 Turns)
+| effect2 = Magia Damage Up [VII / 20%] (Self / 3 Turns) & MP Gain Up [V / 15%] (Self / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

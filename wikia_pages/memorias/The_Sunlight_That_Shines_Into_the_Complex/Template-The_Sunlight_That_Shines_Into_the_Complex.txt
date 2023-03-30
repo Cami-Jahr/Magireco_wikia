@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Sunlight That Shines Into the Complex
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 団地に差し込む陽差し
+| Rarity = 4
+| ID = 1190
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 842
+| min_ATK = 762
+| min_DEF = 0
+| max_HP = 2105
+| max_ATK = 1905
+| max_DEF = 0
+
+| image = Chance to Guardian
+| effect_name = HCovering Adept 
+| effect_name_JP = Hカバーリング・アデプト
+| effect1 = Chance to Guardian [II / 15%] & Defense Up [III / 22.5%]
+| effect2 = Chance to Guardian [III / 20%] & Defense Up [IV / 30%]
+| Cooldown = 
+| Cooldown2 = 
+}}

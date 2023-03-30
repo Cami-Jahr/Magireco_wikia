@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Keep Promises in the Heart
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 約束を胸に刻んで
+| Rarity = 3
+| ID = 1600
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 721
+| min_ATK = 0
+| min_DEF = 601
+| max_HP = 1802
+| max_ATK = 0
+| max_DEF = 1502
+
+| image = Attack Down
+| effect_name = Bloom Down 
+| effect_name_JP = ブルームダウン
+| effect1 = Attack Down [V / 25%] (One / 1 Turn) & Defense Down [V / 25%] (One / 1 Turn)
+| effect2 = Attack Down [VI / 30%] (One / 1 Turn) & Defense Down [VI / 30%] (One / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

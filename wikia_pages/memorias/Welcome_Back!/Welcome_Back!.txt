@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = コーヒー、コーラ、オレンジジュース、今日は何が飲みたい気分？<br />パスタ、ピラフ、オムライス、今日は何が食べたい気分？<br />ちょっと気持ちが沈んだときは、ちょこっと顔を覗かせて<br />いつでも最高の笑顔でお出迎えするから（セガコラボカフェ記念）
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

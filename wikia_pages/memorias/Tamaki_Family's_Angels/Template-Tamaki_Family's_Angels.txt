@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Tamaki Family's Angels
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 環家の天使たち
+| Rarity = 3
+| ID = 1581
+| Illust = 都筑禰己
+| Owner = Iroha & Ui (Miko ver.)
+
+| min_HP = 456
+| min_ATK = 0
+| min_DEF = 496
+| max_HP = 1140
+| max_ATK = 0
+| max_DEF = 1240
+
+| image = Redraw Discs
+| effect_name = Disc Shuffle
+| effect_name_JP = ディスクシャッフル
+| effect1 = Redraw Discs [100%]
+| effect2 = Redraw Discs [100%]
+| Cooldown = 6
+| Cooldown2 = 5
+}}

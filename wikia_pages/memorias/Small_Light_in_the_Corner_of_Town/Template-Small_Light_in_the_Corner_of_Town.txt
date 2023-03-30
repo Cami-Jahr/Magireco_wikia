@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Small Light in the Corner of Town
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 町の片隅の小さな光
+| Rarity = 4
+| ID = 1561
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 964
+| min_ATK = 0
+| min_DEF = 804
+| max_HP = 2410
+| max_ATK = 0
+| max_DEF = 2010
+
+| image = Attack Up
+| effect_name = Smite Up 
+| effect_name_JP = スマイトアップ
+| effect1 = Attack Up [VIII / 40%] (Self / 1 Turn) & Charged Attack Damage Up [VII / 20%] (Self / 1 Turn)
+| effect2 = Attack Up [X / 50%] (Self / 1 Turn) & Charged Attack Damage Up [VIII / 22.5%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

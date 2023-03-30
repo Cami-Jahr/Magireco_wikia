@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Wind Rising Before The Resolve
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 覚悟の先に風は立つ
+| Rarity = 4
+| ID = 1582
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 922
+| min_ATK = 0
+| min_DEF = 842
+| max_HP = 2305
+| max_ATK = 0
+| max_DEF = 2105
+
+| image = Attack Up
+| effect_name = スペランツァ Force 
+| effect_name_JP = スペランツァ・フォース
+| effect1 = Attack Up [V / 25%] (Self / 3 Turns) & Defense Up [IV / 30%] (Self / 3 Turns) & Chance to Critical Hit [IV / 25%] (Self / 3 Turns)
+| effect2 = Attack Up [VI / 30%] (Self / 3 Turns) & Defense Up [V / 37.5%] (Self / 3 Turns) & Chance to Critical Hit [V / 30%] (Self / 3 Turns)
+| Cooldown = 12
+| Cooldown2 = 10
+}}

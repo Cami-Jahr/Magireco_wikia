@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「普段は、莉愛ちゃんに『ほわほわしてる』とか<br />『そんなんだから、変な男に付け込まれるのよ！』<br />なんて言われる私だけれど、美術に向き合っているときだけは<br />莉愛ちゃんもびっくりするほど真剣な顔なのだそうです」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

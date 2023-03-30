@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Heirs to Their Memories
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 想いを継ぐものたち
+| Rarity = 4
+| ID = 1737
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 856
+| min_ATK = 0
+| min_DEF = 776
+| max_HP = 2140
+| max_ATK = 0
+| max_DEF = 1940
+
+| image = Regenerate HP
+| effect_name = Regeneration Skill Quicken
+| effect_name_JP = リジェネレイト・スキルクイック
+| effect1 = Regenerate HP [XV / 16%] (Self / 1 Turn) & Chance to Skill Quicken [XV / 100%] (Self / 1 Turn)
+| effect2 = Regenerate HP [XV / 16%] (Self / 1 Turn) & Chance to Skill Quicken [XV / 100%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 6
+}}

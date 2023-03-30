@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Prayer Connecting the Dead and the Live
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 死者と生者を繋ぐ祈り
+| Rarity = 4
+| ID = 1558
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 807
+| min_ATK = 0
+| min_DEF = 807
+| max_HP = 2018
+| max_ATK = 0
+| max_DEF = 2018
+
+| image = Chance to Provoke
+| effect_name = Shield Appeal 
+| effect_name_JP = シールドアピール
+| effect1 = Chance to Provoke [V / 30%] (Self / 1 Turn) & Damage Cut [V / 25%] (Self / 1 Turn)
+| effect2 = Chance to Provoke [VII / 100%] (Self / 1 Turn) & Damage Cut [VII / 35%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 5
+}}

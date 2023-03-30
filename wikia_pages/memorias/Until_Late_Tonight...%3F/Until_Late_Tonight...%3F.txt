@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「やちよさん！今日はみんなで夜更かし…しませんか？」<br />「ふふふ…お泊り会だもんね…だけど…鶴乃が、ねぇ」<br />「むにゃむにゃ…はい、チャーハン一丁、ご飯抜きですね…むにゃ…」<br />(POP UP SHOP in 東京アニメセンターより)
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

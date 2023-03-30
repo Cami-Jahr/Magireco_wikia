@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = This Cutie's Bae
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 私チャンの彼ピ
+| Rarity = 4
+| ID = 1766
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 939
+| min_ATK = 0
+| min_DEF = 859
+| max_HP = 2348
+| max_ATK = 0
+| max_DEF = 2148
+
+| image = Attack Up
+| effect_name = Auraライズ 
+| effect_name_JP = オーラライズ
+| effect1 = Attack Up [V / 25%] (Self / 3 Turns) & Damage Cut [V / 25%] (Self / 3 Turns)
+| effect2 = Attack Up [VI / 30%] (Self / 3 Turns) & Damage Cut [VI / 30%] (Self / 3 Turns)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

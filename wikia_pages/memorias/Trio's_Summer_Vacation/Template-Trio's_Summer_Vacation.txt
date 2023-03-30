@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Trio's Summer Vacation
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ３人のサマーバケーション
+| Rarity = 4
+| ID = 1520
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 882
+| min_ATK = 0
+| min_DEF = 882
+| max_HP = 2205
+| max_ATK = 0
+| max_DEF = 2205
+
+| image = Attack Up
+| effect_name = フルスラストライズ 
+| effect_name_JP = フルスラストライズ
+| effect1 = Attack Up [IV / 20%] (Self / 3 Turns) & Charged Attack Damage Up [III / 10%] (Self / 3 Turns) & Accele MP Gain Up [II / 12.5%] (Self / 3 Turns)
+| effect2 = Attack Up [V / 25%] (Self / 3 Turns) & Charged Attack Damage Up [IV / 12.5%] (Self / 3 Turns) & Accele MP Gain Up [III / 15%] (Self / 3 Turns)
+| Cooldown = 10
+| Cooldown2 = 9
+}}

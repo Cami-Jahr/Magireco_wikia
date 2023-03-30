@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Tai Faction Specialty
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 泰党の得意技
+| Rarity = 3
+| ID = 1857
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 680
+| min_ATK = 650
+| min_DEF = 0
+| max_HP = 1700
+| max_ATK = 1625
+| max_DEF = 0
+
+| image = Chance to Evade
+| effect_name = アサシン Adept 
+| effect_name_JP = アサシン・アデプト
+| effect1 = Chance to Evade [II / 15%] & Chance to Chase [II / 80%]
+| effect2 = Chance to Evade [III / 20%] & Chance to Chase [III / 80%]
+| Cooldown = 
+| Cooldown2 = 
+}}

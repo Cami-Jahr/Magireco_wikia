@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Invincible Snacks General
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 無敵の駄菓子大将
+| Rarity = 4
+| ID = 1545
+| Illust = ヤスダスズヒト
+| Owner = 
+
+| min_HP = 923
+| min_ATK = 763
+| min_DEF = 0
+| max_HP = 2308
+| max_ATK = 1908
+| max_DEF = 0
+
+| image = Magia Damage Up
+| effect_name = イグノア Magia Seal 
+| effect_name_JP = イグノア・シールマギア
+| effect1 = Magia Damage Up [VI / 17.5%] & Chance to Anti-Magia Seal [VI / 65%]
+| effect2 = Magia Damage Up [VII / 20%] & Chance to Anti-Magia Seal [VII / 100%]
+| Cooldown = 
+| Cooldown2 = 
+}}

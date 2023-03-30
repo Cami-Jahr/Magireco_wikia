@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 強い悲しみと後悔の中、植え付けられたのはいつわりの記憶<br />憎悪のままに、傭兵として魔女を倒す少女は知らなかった<br />忘却の彼方、記憶の海にかかる靄が彼女自身の心を守っていたことも<br />探し求めていた仇は、鏡を見つめればそこにいたことも
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

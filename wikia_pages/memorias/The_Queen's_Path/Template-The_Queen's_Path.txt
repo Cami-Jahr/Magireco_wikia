@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Queen's Path
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 女王の歩む道
+| Rarity = 4
+| ID = 1735
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 898
+| min_ATK = 858
+| min_DEF = 0
+| max_HP = 2245
+| max_ATK = 2145
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Bloom CurseEdge 
+| effect_name_JP = ブルーム・カースエッジ
+| effect1 = Attack Up [III / 15%] & Defense Up [III / 22.5%] & Chance to Curse on Attack [II / 15%] (1 Turn)
+| effect2 = Attack Up [IV / 20%] & Defense Up [IV / 30%] & Chance to Curse on Attack [III / 20%] (1 Turn)
+| Cooldown = 
+| Cooldown2 = 
+}}

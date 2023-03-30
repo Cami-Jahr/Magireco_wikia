@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = I Had a Feeling We Could Become Magical Girls
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 魔法少女になれる気がしたの
+| Rarity = 4
+| ID = 1700
+| Illust = 谷口淳一郎
+| Owner = Tamaki Iroha; Kaname Madoka
+
+| min_HP = 890
+| min_ATK = 0
+| min_DEF = 890
+| max_HP = 2225
+| max_ATK = 0
+| max_DEF = 2225
+
+| image = Negate Status Ailments
+| effect_name = 魔法少女になれる気がしたの
+| effect_name_JP = 魔法少女になれる気がしたの
+| effect1 = Negate Status Ailments [100%] (All / 3 Turns) & Remove Status Ailments [%] (All)
+| effect2 = Negate Status Ailments [100%] (All / 3 Turns) & Remove Status Ailments [%] (All)
+| Cooldown = 12
+| Cooldown2 = 12
+}}

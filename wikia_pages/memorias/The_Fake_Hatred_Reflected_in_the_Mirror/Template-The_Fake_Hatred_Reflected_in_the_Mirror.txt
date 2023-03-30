@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Fake Hatred Reflected in the Mirror
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 鏡に映るまやかしの憎悪
+| Rarity = 4
+| ID = 1704
+| Illust = 蒼樹うめ
+| Owner = 
+
+| min_HP = 762
+| min_ATK = 922
+| min_DEF = 0
+| max_HP = 1905
+| max_ATK = 2305
+| max_DEF = 0
+
+| image = Chance to Skill Seal on Attack
+| effect_name = Jammer Adept 
+| effect_name_JP = ジャマー・アデプト
+| effect1 = Chance to Skill Seal on Attack [V / 30%] (1 Turn) & Attack Up [V / 25%]
+| effect2 = Chance to Skill Seal on Attack [V / 30%] (1 Turn) & Attack Up [V / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

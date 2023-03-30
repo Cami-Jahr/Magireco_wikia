@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Melancholy with Daybreak
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 憂鬱は夜明けとともに
+| Rarity = 4
+| ID = 1673
+| Illust = 茨乃
+| Owner = 
+
+| min_HP = 845
+| min_ATK = 0
+| min_DEF = 845
+| max_HP = 2112
+| max_ATK = 0
+| max_DEF = 2112
+
+| image = Magia Damage Up
+| effect_name = Doppel  Up 
+| effect_name_JP = ドッペル・アップ
+| effect1 = Magia Damage Up [V / 15%] (Self / 1 Turn) & Doppel Damage Up [IV / 20%] (Self / 1 Turn)
+| effect2 = Magia Damage Up [VII / 20%] (Self / 1 Turn) & Doppel Damage Up [VI / 30%] (Self / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 8
+}}

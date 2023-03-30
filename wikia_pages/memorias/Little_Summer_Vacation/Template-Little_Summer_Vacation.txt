@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Little Summer Vacation
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = リトル・サマー・バケーション
+| Rarity = 4
+| ID = 1791
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 896
+| min_ATK = 0
+| min_DEF = 736
+| max_HP = 2240
+| max_ATK = 0
+| max_DEF = 1840
+
+| image = Blast Damage Up
+| effect_name = ブランディッシュ 
+| effect_name_JP = ブランディッシュ
+| effect1 = Blast Damage Up [V / 35%] (Self / 1 Turn) & Damage Up [III / 15%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [V / 35%] (Self / 1 Turn) & Damage Up [III / 15%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 8
+}}

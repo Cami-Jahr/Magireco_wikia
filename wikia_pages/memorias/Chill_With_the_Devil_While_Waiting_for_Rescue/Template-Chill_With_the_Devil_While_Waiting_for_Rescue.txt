@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Chill With the Devil While Waiting for Rescue
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 悪魔でクールにレスキュー待ち
+| Rarity = 4
+| ID = 1747
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 818
+| min_ATK = 0
+| min_DEF = 978
+| max_HP = 2045
+| max_ATK = 0
+| max_DEF = 2445
+
+| image = Damage Down
+| effect_name = サンセットビーチ 
+| effect_name_JP = サンセットビーチ
+| effect1 = Damage Down [VIII / 40%] (One / 1 Turn) & Damage Cut [VIII / 40%] (Self / 1 Turn)
+| effect2 = Damage Down [X / 50%] (One / 1 Turn) & Damage Cut [X / 50%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

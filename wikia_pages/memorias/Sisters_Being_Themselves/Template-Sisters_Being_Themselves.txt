@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Sisters Being Themselves
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 姉妹水入らず
+| Rarity = 3
+| ID = 1375
+| Illust = 枡狐/蛙空
+| Owner = 
+
+| min_HP = 550
+| min_ATK = 670
+| min_DEF = 0
+| max_HP = 1375
+| max_ATK = 1675
+| max_DEF = 0
+
+| image = Chance to Anti-Evade
+| effect_name = Battle Sense Adept 
+| effect_name_JP = バトルセンス・アデプト
+| effect1 = Chance to Anti-Evade [IV / 40%] & Chance to Anti-Counter [IV / 40%]
+| effect2 = Chance to Anti-Evade [VI / 50%] & Chance to Anti-Counter [VI / 50%]
+| Cooldown = 
+| Cooldown2 = 
+}}

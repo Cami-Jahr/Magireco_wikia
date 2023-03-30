@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Equal Destruction to All
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 等しき滅びをすべてに
+| Rarity = 4
+| ID = 1815
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 940
+| min_ATK = 0
+| min_DEF = 860
+| max_HP = 2350
+| max_ATK = 0
+| max_DEF = 2150
+
+| image = Attack Up
+| effect_name = Bloom アピール 
+| effect_name_JP = ブルーム・アピール
+| effect1 = Attack Up [VI / 30%] (Self / 1 Turn) & Defense Up [VI / 45%] (Self / 1 Turn) & Chance to Provoke [VI / 100%] (Self / 1 Turn)
+| effect2 = Attack Up [VII / 35%] (Self / 1 Turn) & Defense Up [VII / 52.5%] (Self / 1 Turn) & Chance to Provoke [VII / 100%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

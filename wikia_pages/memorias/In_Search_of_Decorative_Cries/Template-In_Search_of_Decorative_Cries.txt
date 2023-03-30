@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = In Search of Decorative Cries
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 飾りなき声を求めて
+| Rarity = 4
+| ID = 1709
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 776
+| min_ATK = 0
+| min_DEF = 856
+| max_HP = 1940
+| max_ATK = 0
+| max_DEF = 2140
+
+| image = Doppel Damage Up
+| effect_name = Doppel  Up 
+| effect_name_JP = ドッペル・アップ
+| effect1 = Doppel Damage Up [IX / 45%] (Self / 1 Turn)
+| effect2 = Doppel Damage Up [IX / 45%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 7
+}}

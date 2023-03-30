@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Determination for the Future
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 未来への決意を
+| Rarity = 3
+| ID = 1342
+| Illust = 星和貴
+| Owner = 
+
+| min_HP = 602
+| min_ATK = 595
+| min_DEF = 0
+| max_HP = 1505
+| max_ATK = 1488
+| max_DEF = 0
+
+| image = Chance to Anti-Charm
+| effect_name = Anti-Charm
+| effect_name_JP = アンチ・チャーム
+| effect1 = Chance to Anti-Charm [VI / 50%]
+| effect2 = Chance to Anti-Charm [100%]
+| Cooldown = 
+| Cooldown2 = 
+}}

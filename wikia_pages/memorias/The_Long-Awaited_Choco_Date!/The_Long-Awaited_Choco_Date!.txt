@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = バレンタインデーの１日は、穏やかに過ぎていく<br />「見て、月夜ちゃん！期間限定のチョコドリンクだって！」<br />「まぁ…！ぜひ飲んでみたいでございます」<br />ごく普通の会話が、何よりも安らげるふたりの甘い時間
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

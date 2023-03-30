@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Legendary 'Maiden'
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 伝説の“乙女”
+| Rarity = 4
+| ID = 1509
+| Illust = 枡狐/蛙空
+| Owner = 
+
+| min_HP = 961
+| min_ATK = 0
+| min_DEF = 801
+| max_HP = 2402
+| max_ATK = 0
+| max_DEF = 2002
+
+| image = Remove Debuffs
+| effect_name = Enthusiastically 
+| effect_name_JP = エンスジアスティカリー
+| effect1 = Remove Debuffs [%] & Attack Up [IV / 20%] (Self / 3 Turns)
+| effect2 = Remove Debuffs [%] & Attack Up [V / 25%] (Self / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

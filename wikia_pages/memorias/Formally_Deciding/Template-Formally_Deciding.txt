@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Formally Deciding
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 改めて決意を
+| Rarity = 4
+| ID = 1542
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 880
+| min_ATK = 0
+| min_DEF = 800
+| max_HP = 2200
+| max_ATK = 0
+| max_DEF = 2000
+
+| image = Attack Up
+| effect_name = Uplift 
+| effect_name_JP = アップリフト
+| effect1 = Attack Up [V / 25%] (Self / 3 Turns) & Status Ailment Resistance Up [V / 40%] (Self / 3 Turns)
+| effect2 = Attack Up [VI / 30%] (Self / 3 Turns) & Status Ailment Resistance Up [VII / 50%] (Self / 3 Turns)
+| Cooldown = 10
+| Cooldown2 = 9
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Immediately Solve Any Troubles!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 悩みなんて即解決！
+| Rarity = 3
+| ID = 1088
+| Illust = サクマミツロ
+| Owner = Kisaki Emiri
+
+| min_HP = 503
+| min_ATK = 0
+| min_DEF = 423
+| max_HP = 1258
+| max_ATK = 0
+| max_DEF = 1058
+
+| image = Chance to Burn
+| effect_name = Burnフロー 
+| effect_name_JP = バーンフロー
+| effect1 = Chance to Burn [IX / 50%] (All / 1 Turn)
+| effect2 = Chance to Burn [X / 52.5%] (All / 1 Turn)
+| Cooldown = 15
+| Cooldown2 = 13
+}}

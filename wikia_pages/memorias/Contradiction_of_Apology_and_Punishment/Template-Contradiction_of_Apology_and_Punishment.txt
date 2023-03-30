@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Contradiction of Apology and Punishment
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 謝罪と罰の矛盾
+| Rarity = 4
+| ID = 1819
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 820
+| min_ATK = 940
+| min_DEF = 0
+| max_HP = 2050
+| max_ATK = 2350
+| max_DEF = 0
+
+| image = Damage Up Versus Witches
+| effect_name = Urgent Attack 
+| effect_name_JP = アージェント・アタック
+| effect1 = Damage Up Versus Witches [IV / 20%] & Attack Up [IV / 20%]
+| effect2 = Damage Up Versus Witches [V / 25%] & Attack Up [V / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

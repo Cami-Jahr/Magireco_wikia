@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「わっ、お前メシ食ってる時に驚かすなよなー」<br />「あっはは、今日も教科書わすれちまった。いつも悪いなー」<br />「はぁ〜あ…なーんで女子高生ってヤツはこうも元気なんだろうな…」<br />まるで学校は自分を殺す牢獄のようで、息が詰まって苦しくなる
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

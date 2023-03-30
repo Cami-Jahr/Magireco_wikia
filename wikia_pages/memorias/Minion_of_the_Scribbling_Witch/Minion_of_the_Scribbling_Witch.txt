@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 落書きの魔女の手下。その役割は童心。<br />ひとり遊びに夢中になっているうち魔女とはぐれてしまった迷子の手下。<br />人間をボールに変えてしまう力を使い、ボールに変えられた人間は今までについた嘘の数だけ地面を跳ねなくてはもとの姿に戻ることが出来ない。
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

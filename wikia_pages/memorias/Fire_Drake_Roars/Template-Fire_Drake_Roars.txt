@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Fire Drake Roars
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 火竜吼える
+| Rarity = 4
+| ID = 1374
+| Illust = 枡狐/蛙空
+| Owner = 
+
+| min_HP = 812
+| min_ATK = 0
+| min_DEF = 812
+| max_HP = 2030
+| max_ATK = 0
+| max_DEF = 2030
+
+| image = Chance to Burn
+| effect_name = ドラゴンロア―
+| effect_name_JP = ドラゴンロア―
+| effect1 = Chance to Burn [XV / 65%] (One / 1 Turn) & Defense Down [VIII / 40%] (One / 1 Turn)
+| effect2 = Chance to Burn [IX / 100%] (One / 1 Turn) & Defense Down [IX / 45%] (One / 1 Turn)
+| Cooldown = 5
+| Cooldown2 = 4
+}}

@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 足かけ４年のウィークリー。マギアレポートの奇跡は健在☆<br />逆転できない困難も、法則を無視した陰謀も、<br />マギアレコードのリアルを届けるふたりのレポーターに任せておけば<br />不撓不屈の根性で、何度だって覆す！（マギレポ２・200回記念）
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

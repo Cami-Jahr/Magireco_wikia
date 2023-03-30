@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Hyped About the New Year
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 新たな年にときめいて
+| Rarity = 4
+| ID = 1716
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 736
+| min_ATK = 896
+| min_DEF = 0
+| max_HP = 1840
+| max_ATK = 2240
+| max_DEF = 0
+
+| image = Episode Experience Gain Increased
+| effect_name = エピソードBloom Adept 
+| effect_name_JP = エピソードブルーム・アデプト
+| effect1 = Episode Experience Gain Increased [III / 25%] & Attack Up [I / 5%] & Defense Up [I / 7.5%]
+| effect2 = Episode Experience Gain Increased [III / 25%] & Attack Up [I / 5%] & Defense Up [I / 7.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

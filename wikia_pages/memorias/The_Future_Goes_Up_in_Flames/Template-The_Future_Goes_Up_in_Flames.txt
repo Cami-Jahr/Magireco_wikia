@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Future Goes Up in Flames
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 未来は炎に消えて
+| Rarity = 3
+| ID = 1691
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 702
+| min_ATK = 0
+| min_DEF = 582
+| max_HP = 1755
+| max_ATK = 0
+| max_DEF = 1455
+
+| image = Chance to Critical Hit
+| effect_name = イネヴィタブル 
+| effect_name_JP = イネヴィタブル
+| effect1 = Chance to Critical Hit [I / 10%] (Self / 3 Turns) & Chance to Anti-Evade [XII / 80%] (Self / 3 Turns)
+| effect2 = Chance to Critical Hit [II / 15%] (Self / 3 Turns) & Chance to Anti-Evade [II / 100%] (Self / 3 Turns)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

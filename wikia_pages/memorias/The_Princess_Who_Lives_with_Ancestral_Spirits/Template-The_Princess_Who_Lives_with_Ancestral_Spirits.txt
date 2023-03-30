@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Princess Who Lives with Ancestral Spirits
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 祖霊と生きる姫君
+| Rarity = 4
+| ID = 1875
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 818
+| min_ATK = 818
+| min_DEF = 0
+| max_HP = 2045
+| max_ATK = 2045
+| max_DEF = 0
+
+| image = Aqua Attribute Attack Up
+| effect_name = アクアBloom Adept 
+| effect_name_JP = アクアブルーム・アデプト
+| effect1 = Aqua Attribute Attack Up [V / 15%] & Defense Up [III / 22.5%]
+| effect2 = Aqua Attribute Attack Up [V / 15%] & Defense Up [III / 22.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

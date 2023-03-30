@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Little More Until It's Baked
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 焼きあがるまであと少し
+| Rarity = 3
+| ID = 1644
+| Illust = 都筑禰己
+| Owner = Momoko & Mitama (Mermaid ver.)
+
+| min_HP = 518
+| min_ATK = 0
+| min_DEF = 438
+| max_HP = 1295
+| max_ATK = 0
+| max_DEF = 1095
+
+| image = Damage Up
+| effect_name = Skill Quicken Slash 
+| effect_name_JP = スキルクイック・スラッシュ
+| effect1 = Damage Up [II / 10%] (Self / 3 Turns) & Chance to Skill Quicken [II / 100%] (Self / 1 Turn)
+| effect2 = Damage Up [III / 15%] (Self / 3 Turns) & Chance to Skill Quicken [III / 100%] (Self / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 10
+}}

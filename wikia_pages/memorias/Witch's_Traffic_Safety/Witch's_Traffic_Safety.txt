@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「わーい！高い！きもちー！ぜんそくぜんしーん！」<br />「みかげさん、はしゃぎすぎでは…？危ないですの」<br />「ん？なゆたん、恐いの？ミィは全然大丈夫だよ…わわっ!?」<br />「あ、ほら…。ちょっとは年上の言うことを聞くんですの」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

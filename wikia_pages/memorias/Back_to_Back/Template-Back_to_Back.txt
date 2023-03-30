@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Back to Back
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 背中を合わせて
+| Rarity = 4
+| ID = 1345
+| Illust = ゆーげん
+| Owner = 
+
+| min_HP = 808
+| min_ATK = 806
+| min_DEF = 0
+| max_HP = 2020
+| max_ATK = 2015
+| max_DEF = 0
+
+| image = Chance to Burn on Attack
+| effect_name = Invisible BurnEdge 
+| effect_name_JP = インビジブル・バーンエッジ
+| effect1 = Chance to Burn on Attack [V / 30%] (2 Turns) & Chance to Anti-Evade [X / 70%]
+| effect2 = Chance to Burn on Attack [VI / 35%] (2 Turns) & Chance to Anti-Evade [VI / 100%]
+| Cooldown = 
+| Cooldown2 = 
+}}

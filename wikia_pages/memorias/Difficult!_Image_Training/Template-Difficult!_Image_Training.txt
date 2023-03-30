@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Difficult! Image Training
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 難関！イメージ特訓
+| Rarity = 4
+| ID = 1599
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 849
+| min_ATK = 889
+| min_DEF = 0
+| max_HP = 2122
+| max_ATK = 2222
+| max_DEF = 0
+
+| image = Damage Increase
+| effect_name = ウェポンStrikeAdept 
+| effect_name_JP = ウェポンストライクアデプト
+| effect1 = Damage Increase [IV / 20%] & Chance to Critical Hit [IV / 25%]
+| effect2 = Damage Increase [V / 25%] & Chance to Critical Hit [IV / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

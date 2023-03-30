@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Me I Might Have Been
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = あったかもしれない私
+| Rarity = 3
+| ID = 1632
+| Illust = 縦横
+| Owner = 
+
+| min_HP = 614
+| min_ATK = 0
+| min_DEF = 614
+| max_HP = 1535
+| max_ATK = 0
+| max_DEF = 1535
+
+| image = Defense Down
+| effect_name = Guardブレイク 
+| effect_name_JP = ガードブレイク
+| effect1 = Defense Down [III / 15%] (One / 1 Turn)
+| effect2 = Defense Down [III / 15%] (One / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 8
+}}

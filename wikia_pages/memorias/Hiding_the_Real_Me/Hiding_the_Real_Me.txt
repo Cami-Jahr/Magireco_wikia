@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = ほんとうの自分を隠して偽物の仮面を被ることに決めたのは<br />ありのままじゃスタートラインにさえ立てないのだと知ったから<br />いつの日か仮面も、この顔に馴染んでひとつになっていく<br />そうすれば偽りは真実になり、理想の仮面こそがほんとうの私になる
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

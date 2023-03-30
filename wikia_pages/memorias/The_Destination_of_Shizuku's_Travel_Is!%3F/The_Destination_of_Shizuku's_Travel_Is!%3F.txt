@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = あやか「きまったーッ!!今回ダーツが当ったのは、なななんとぉッ！」<br />みたま「恐山ねぇ～。ここが雫ちゃんの探し求めている場所かもっ」<br />雫「あの…だいぶ前に行ってきたけど、ここも違う気がして…」<br />あやか「さすが雫ちゃん！まるで沈めて３日目の地引き網だよ！」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Back Then, When I Was Loved and Saved
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 愛され、救われていたあの頃
+| Rarity = 3
+| ID = 1783
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 709
+| min_ATK = 0
+| min_DEF = 649
+| max_HP = 1772
+| max_ATK = 0
+| max_DEF = 1622
+
+| image = Damage Increase
+| effect_name = エンハンス アーマメント 
+| effect_name_JP = エンハンス・アーマメント
+| effect1 = Damage Increase [IV / 20%] (Self / 1 Turn) & Damage Cut [III / 15%] (Self / 1 Turn)
+| effect2 = Damage Increase [V / 25%] (Self / 1 Turn) & Damage Cut [IV / 20%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

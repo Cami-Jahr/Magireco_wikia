@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Floating in the Starry Sky
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 星合に浮かぶ
+| Rarity = 3
+| ID = 1640
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 728
+| min_ATK = 0
+| min_DEF = 608
+| max_HP = 1820
+| max_ATK = 0
+| max_DEF = 1520
+
+| image = Attack Down
+| effect_name = コンバートドレイン 
+| effect_name_JP = コンバートドレイン
+| effect1 = Attack Down [III / 15%] (One / 1 Turn) & Defense Up [II / 15%] (Self / 1 Turn)
+| effect2 = Attack Down [V / 25%] (One / 1 Turn) & Defense Up [II / 15%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

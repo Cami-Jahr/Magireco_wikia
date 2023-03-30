@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 冷たい本音がお湯に溶けて、熱い想いが湯気に変わる<br />立ち上る感情は目の前の霞を拭い取って裸の自分をさらけ出した<br />きっと、一糸まとわぬ想いに触れて感じる冷たさと温もりは偽りで<br />正しいのは悔しい涙に濡れていることだけ
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

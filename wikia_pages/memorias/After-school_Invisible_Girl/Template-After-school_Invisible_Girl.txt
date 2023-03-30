@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = After-school Invisible Girl
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 放課後の透明少女
+| Rarity = 2
+| ID = 1126
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 423
+| min_ATK = 0
+| min_DEF = 383
+| max_HP = 1058
+| max_ATK = 0
+| max_DEF = 958
+
+| image = Chance to Poison
+| effect_name = Poison Cloud 
+| effect_name_JP = ポイズン・クラウド
+| effect1 = Chance to Poison [V / 40%] (All / 1 Turn)
+| effect2 = Chance to Poison [VI / 42.5%] (All / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

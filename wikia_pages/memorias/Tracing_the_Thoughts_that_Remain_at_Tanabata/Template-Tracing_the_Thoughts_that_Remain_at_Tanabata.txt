@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Tracing the Thoughts that Remain at Tanabata
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 七夕に遺る思いをなぞって
+| Rarity = 3
+| ID = 1642
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 648
+| min_ATK = 0
+| min_DEF = 588
+| max_HP = 1620
+| max_ATK = 0
+| max_DEF = 1470
+
+| image = Charge Disc Damage Up
+| effect_name = TechnicalAttack Up 
+| effect_name_JP = テクニカルアタックアップ
+| effect1 = Charge Disc Damage Up [V / 25%] (Self / 1 Turn) & Attack Up [III / 15%] (Self / 1 Turn)
+| effect2 = Charge Disc Damage Up [V / 25%] (Self / 1 Turn) & Attack Up [III / 15%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 7
+}}

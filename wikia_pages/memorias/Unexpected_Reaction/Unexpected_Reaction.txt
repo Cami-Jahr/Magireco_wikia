@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = そんなレアな表情が見られるのなら、また何度だって、<br />お弁当を作りたいと思う。<br />自信作を食べ終わったなら、ランチボックスは畳んでリュックの中へ。隣にあなたがいる分だけ…軽くなった荷物を背負って、またふたり歩いていこう
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

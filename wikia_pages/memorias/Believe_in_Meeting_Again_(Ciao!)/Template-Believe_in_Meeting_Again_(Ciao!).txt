@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Believe in Meeting Again (Ciao!)
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 再会を信じて「チャオ！」
+| Rarity = 3
+| ID = 1682
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 675
+| min_ATK = 0
+| min_DEF = 675
+| max_HP = 1688
+| max_ATK = 0
+| max_DEF = 1688
+
+| image = Remove Debuffs
+| effect_name = キュア 
+| effect_name_JP = キュア
+| effect1 = Remove Debuffs [%] & HP Restore [II / 32.5%]
+| effect2 = Remove Debuffs [%] & HP Restore [III / 35%]
+| Cooldown = 9
+| Cooldown2 = 8
+}}

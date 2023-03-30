@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Night Buzz Time
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ナイトバズタイム
+| Rarity = 4
+| ID = 1609
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 886
+| min_ATK = 0
+| min_DEF = 806
+| max_HP = 2215
+| max_ATK = 0
+| max_DEF = 2015
+
+| image = Status Ailment Resistance Down
+| effect_name = CowerResistMagia 
+| effect_name_JP = クウェルレジストマギア
+| effect1 = Status Ailment Resistance Down [VI / 17.5%] (All / 1 Turn) & Magia Damage Up [VI / 17.5%] (Self / 1 Turn)
+| effect2 = Status Ailment Resistance Down [VI / 17.5%] (All / 1 Turn) & Magia Damage Up [VII / 20%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Call On the Alchemist Duo!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 錬金術士コンビ参上！
+| Rarity = 4
+| ID = 1736
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 978
+| min_ATK = 0
+| min_DEF = 818
+| max_HP = 2445
+| max_ATK = 0
+| max_DEF = 2045
+
+| image = Damage Cut
+| effect_name = HShield ライズ 
+| effect_name_JP = Hシールド・ライズ
+| effect1 = Damage Cut [III / 15%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns)
+| effect2 = Damage Cut [IV / 20%] (Self / 3 Turns) & Defense Up [IV / 30%] (Self / 3 Turns)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

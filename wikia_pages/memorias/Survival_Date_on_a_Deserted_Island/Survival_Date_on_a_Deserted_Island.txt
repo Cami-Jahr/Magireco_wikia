@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「みなさん、こんにちはぁ～！恋の辻斬り姫こと史乃沙優希ですぅ～！<br />今回、お届けする“さゆさゆの水名辻斬り紀行”は夏の特別番外編！<br />と、いうことでですねぇ～…無人島に行って参りましたぁ～！<br />みなさんが参加できる企画もあるので、ぜひぜひご覧くださいねぇ！」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

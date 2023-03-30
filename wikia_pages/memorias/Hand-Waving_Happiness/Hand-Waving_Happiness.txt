@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「こうしてパパに“おかえり”って手を振れるのはうれしいけど<br />また“いってらっしゃい”って手を振る時が来ると思うと怖いんです<br />長い旅で何が起きるかわからないから。だから見送る時はいつも<br />たっぷり祈りを込めて、無事に帰って来るのを願ってます」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

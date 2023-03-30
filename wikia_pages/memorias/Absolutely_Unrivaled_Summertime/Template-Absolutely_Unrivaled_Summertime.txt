@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Absolutely Unrivaled Summertime
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 絶対無敵サマータイム
+| Rarity = 4
+| ID = 1525
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 841
+| min_ATK = 761
+| min_DEF = 0
+| max_HP = 2102
+| max_ATK = 1902
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = イグニッション Edge 
+| effect_name_JP = イグニッション・エッジ
+| effect1 = Attack Up [II / 10%] & Chance to Burn on Attack [IV / 25%] (2 Turns)
+| effect2 = Attack Up [III / 15%] & Chance to Burn on Attack [V / 30%] (2 Turns)
+| Cooldown = 
+| Cooldown2 = 
+}}

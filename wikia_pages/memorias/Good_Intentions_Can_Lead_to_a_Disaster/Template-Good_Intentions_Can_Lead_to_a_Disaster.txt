@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Good Intentions Can Lead to a Disaster
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 良かれと思って大惨事
+| Rarity = 3
+| ID = 1635
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 646
+| min_ATK = 0
+| min_DEF = 646
+| max_HP = 1615
+| max_ATK = 0
+| max_DEF = 1615
+
+| image = Chance to Evade
+| effect_name = イミュニティステップ 
+| effect_name_JP = イミュニティステップ
+| effect1 = Chance to Evade [VII / 40%] (Self / 1 Turn) & Status Ailment Resistance Up [I / 20%] (Self / 3 Turns)
+| effect2 = Chance to Evade [VII / 40%] (Self / 1 Turn) & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
+| Cooldown = 10
+| Cooldown2 = 9
+}}

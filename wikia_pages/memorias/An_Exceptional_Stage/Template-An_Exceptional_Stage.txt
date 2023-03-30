@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = An Exceptional Stage
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = とびっきりの舞台
+| Rarity = 4
+| ID = 1414
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 400
+| min_ATK = 0
+| min_DEF = 400
+| max_HP = 1000
+| max_ATK = 0
+| max_DEF = 1000
+
+| image = Chance to Chase
+| effect_name = パフォーマーズ ビリーフ 
+| effect_name_JP = パフォーマーズ・ビリーフ
+| effect1 = Chance to Chase [VII / 80%] (Self / 1 Turn) & Endure [100%] (Self / 1 Turn)
+| effect2 = Chance to Chase [IX / 80%] (Self / 1 Turn) & Endure [100%] (Self / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 8
+}}

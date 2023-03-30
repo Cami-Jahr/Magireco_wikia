@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「このぬいぐるみを枕元に置くと、激熱なバトル夢、見れるんだぜ！」<br />「…ええっと…それで安眠できるのでしょうか…？」<br />「それを言うなら、さな…お前のアイマスクもなかなかだぞ？」<br />(POP UP SHOP in 東京アニメセンターより)
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

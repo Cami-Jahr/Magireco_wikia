@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 学校に自由と安寧を与えるために生徒会長になった心優しい少女<br />誰かのため、そう思えば彼女はどんな逆境も乗り越えられた<br />そんな彼女を陰で支えるのは、大切な人から贈られた万年筆<br />その筆は、新たな持ち主が綴る革命の続きを心待ちにする
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

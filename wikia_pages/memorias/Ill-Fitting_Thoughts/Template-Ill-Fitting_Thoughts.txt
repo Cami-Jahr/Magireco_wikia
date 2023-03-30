@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Ill-Fitting Thoughts
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 収まらない想い
+| Rarity = 3
+| ID = 1615
+| Illust = 都筑禰己
+| Owner = Kurusu Alexandra
+
+| min_HP = 498
+| min_ATK = 458
+| min_DEF = 0
+| max_HP = 1245
+| max_ATK = 1145
+| max_DEF = 0
+
+| image = Chance to Anti-Skill Seal
+| effect_name = メディテーション Adept 
+| effect_name_JP = メディテーション・アデプト
+| effect1 = Chance to Anti-Skill Seal [VI / 50%] & MP Gain Up [III / 10%]
+| effect2 = Chance to Anti-Skill Seal [VIII / 60%] & MP Gain Up [IV / 12.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

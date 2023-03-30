@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = (EMERGENCY STREAM) 4 Star Will Be Pulled
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 【緊急配信】星４出します
+| Rarity = 4
+| ID = 1749
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 776
+| min_ATK = 0
+| min_DEF = 856
+| max_HP = 1940
+| max_ATK = 0
+| max_DEF = 2140
+
+| image = Damage Increase
+| effect_name = 【緊急配信】星４出します
+| effect_name_JP = 【緊急配信】星４出します
+| effect1 = Damage Increase [V / 25%] (Self / 1 Turn) & Attack Up [V / 25%] (Self / 1 Turn) & Chance to Burn [V / 100%] (Self / 1 Turn)
+| effect2 = Damage Increase [V / 25%] (Self / 1 Turn) & Attack Up [V / 25%] (Self / 1 Turn) & Chance to Burn [V / 100%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 8
+}}

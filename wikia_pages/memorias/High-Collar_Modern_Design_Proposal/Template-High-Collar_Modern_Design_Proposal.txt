@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = High-Collar Modern Design Proposal
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ハイカラ今どきデザイン案
+| Rarity = 3
+| ID = 1711
+| Illust = 都筑禰己
+| Owner = Tokime Shizuka (First Sunrise of the Year ver.)
+
+| min_HP = 520
+| min_ATK = 0
+| min_DEF = 440
+| max_HP = 1300
+| max_ATK = 0
+| max_DEF = 1100
+
+| image = Blast Damage Up
+| effect_name = Eliminate Adept 
+| effect_name_JP = エリミネイト・アデプト
+| effect1 = Blast Damage Up [II / 20%] (All / 5 Turns) & Magia Damage Up [II / 12%] (All / 5 Turns)
+| effect2 = Blast Damage Up [III / 25%] (All / 5 Turns) & Magia Damage Up [IV / 16%] (All / 5 Turns)
+| Cooldown = 12
+| Cooldown2 = 10
+}}

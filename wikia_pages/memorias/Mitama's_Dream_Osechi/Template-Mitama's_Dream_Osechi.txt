@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Mitama's Dream Osechi
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = みたまのドリームおせち
+| Rarity = 3
+| ID = 1292
+| Illust = 青味ドリ
+| Owner = Yakumo Mitama (Haregi ver.)
+
+| min_HP = 509
+| min_ATK = 0
+| min_DEF = 431
+| max_HP = 1272
+| max_ATK = 0
+| max_DEF = 1078
+
+| image = Accele Draw
+| effect_name = Acceleドロー
+| effect_name_JP = アクセルドロー
+| effect1 = Accele Draw [100%]
+| effect2 = Accele Draw [100%]
+| Cooldown = 15
+| Cooldown2 = 13
+}}

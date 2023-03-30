@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Girls' Daily Scenery
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 彼女たちの日常風景
+| Rarity = 4
+| ID = 1418
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 813
+| min_ATK = 0
+| min_DEF = 813
+| max_HP = 2032
+| max_ATK = 0
+| max_DEF = 2032
+
+| image = Blast Damage Up
+| effect_name = オールディスク Circle 
+| effect_name_JP = オールディスク・サークル
+| effect1 = Blast Damage Up [I / 6.5%] (All / 3 Turns) & Charged Attack Damage Up [I / 5%] (All / 3 Turns) & Accele MP Gain Up [I / 6%] (All / 3 Turns)
+| effect2 = Blast Damage Up [I / 6.5%] (All / 3 Turns) & Charged Attack Damage Up [I / 5%] (All / 3 Turns) & Accele MP Gain Up [I / 6%] (All / 3 Turns)
+| Cooldown = 10
+| Cooldown2 = 8
+}}

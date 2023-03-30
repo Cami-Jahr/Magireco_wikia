@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Confrontation at the First Act
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 序幕での対峙
+| Rarity = 3
+| ID = 1806
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 614
+| min_ATK = 614
+| min_DEF = 0
+| max_HP = 1535
+| max_ATK = 1535
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = イグノア Mesmerize 
+| effect_name_JP = イグノア・メズマライズ
+| effect1 = Attack Up [II / 10%] & Chance to Anti-Dazzle [II / 100%]
+| effect2 = Attack Up [II / 10%] & Chance to Anti-Dazzle [II / 100%]
+| Cooldown = 
+| Cooldown2 = 
+}}

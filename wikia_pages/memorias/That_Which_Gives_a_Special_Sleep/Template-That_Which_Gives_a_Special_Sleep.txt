@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = That Which Gives a Special Sleep
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 特別な安眠をくれるもの
+| Rarity = 3
+| ID = 1667
+| Illust = 都筑禰己
+| Owner = Yura Hotaru
+
+| min_HP = 476
+| min_ATK = 0
+| min_DEF = 476
+| max_HP = 1190
+| max_ATK = 0
+| max_DEF = 1190
+
+| image = Attack Up
+| effect_name = ホーリー Attack 
+| effect_name_JP = ホーリー・アタック
+| effect1 = Attack Up [III / 15%] (Self / 3 Turns) & Chance to Anti-Debuff [100%] (Self / ∞ Turns)
+| effect2 = Attack Up [IV / 20%] (Self / 3 Turns) & Chance to Anti-Debuff [100%] (Self / ∞ Turns)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

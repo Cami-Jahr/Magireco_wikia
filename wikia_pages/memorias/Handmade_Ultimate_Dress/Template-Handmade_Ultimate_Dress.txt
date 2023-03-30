@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Handmade Ultimate Dress
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = お手製アルティメットドレス
+| Rarity = 4
+| ID = 1614
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 814
+| min_ATK = 0
+| min_DEF = 814
+| max_HP = 2035
+| max_ATK = 0
+| max_DEF = 2035
+
+| image = Attack Up
+| effect_name = Smiteライズ 
+| effect_name_JP = スマイトライズ
+| effect1 = Attack Up [IV / 20%] (Self / 3 Turns) & Charged Attack Damage Up [IV / 12.5%] (Self / 3 Turns)
+| effect2 = Attack Up [IV / 20%] (Self / 3 Turns) & Charged Attack Damage Up [IV / 12.5%] (Self / 3 Turns)
+| Cooldown = 8
+| Cooldown2 = 8
+}}

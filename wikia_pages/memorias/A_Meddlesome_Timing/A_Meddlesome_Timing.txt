@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「少し遅くて言うのを逃したり、間に合わなくて守れなかったり<br />タイミングの悪さが招いた失敗は、思い出せばいくらでもある<br />それでも性分に反するから、お節介だけはやめないよ<br />見て見ない振りはできないし、どうにか力になりたいからさ」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

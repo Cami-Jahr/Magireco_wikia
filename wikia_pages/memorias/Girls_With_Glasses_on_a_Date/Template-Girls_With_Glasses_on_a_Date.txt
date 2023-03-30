@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Girls With Glasses on a Date
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = メガネでガールズデート
+| Rarity = 3
+| ID = 1063
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 601
+| min_ATK = 0
+| min_DEF = 601
+| max_HP = 1502
+| max_ATK = 0
+| max_DEF = 1502
+
+| image = Chance to Critical Hit
+| effect_name = Critical Strike 
+| effect_name_JP = クリティカル・ストライク
+| effect1 = Chance to Critical Hit [VII / 40%] (Self / 1 Turn)
+| effect2 = Chance to Critical Hit [VIII / 45%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

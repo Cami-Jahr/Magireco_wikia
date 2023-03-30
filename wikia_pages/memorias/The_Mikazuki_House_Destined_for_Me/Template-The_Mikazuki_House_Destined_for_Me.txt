@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Mikazuki House Destined for Me
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = あてがわれたみかづき荘
+| Rarity = 3
+| ID = 1720
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 678
+| min_ATK = 0
+| min_DEF = 678
+| max_HP = 1695
+| max_ATK = 0
+| max_DEF = 1695
+
+| image = Chance to Charm
+| effect_name = アトリションCharm 
+| effect_name_JP = アトリションチャーム
+| effect1 = Chance to Charm [VII / 45%] (One / 1 Turn) & Defense Down [IV / 20%] (One / 1 Turn)
+| effect2 = Chance to Charm [IX / 50%] (One / 1 Turn) & Defense Down [V / 25%] (One / 1 Turn)
+| Cooldown = 11
+| Cooldown2 = 9
+}}

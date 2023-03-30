@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = An Odd Coincidence
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 数奇な巡り合わせ
+| Rarity = 4
+| ID = 1873
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 778
+| min_ATK = 858
+| min_DEF = 0
+| max_HP = 1945
+| max_ATK = 2145
+| max_DEF = 0
+
+| image = Magia Damage Up
+| effect_name = Astral Adept 
+| effect_name_JP = アストラル・アデプト
+| effect1 = Magia Damage Up [V / 15%] & Accele MP Gain Up [IV / 17.5%]
+| effect2 = Magia Damage Up [V / 15%] & Accele MP Gain Up [IV / 17.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

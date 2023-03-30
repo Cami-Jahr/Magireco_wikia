@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 晴れの舞台を焼き付ける炎が、魔法少女の立場を塗り替えていき<br />肌にぶつかる熱波が、積み重ねた価値をひっくり返す<br />状況を理解するなと叫ぶ頭は、疑問を投げかける思考だけを量産して<br />自分を停止させようとしている
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

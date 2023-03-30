@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = パーパラッパ♪パッパララ～パッパラ♪…<br />「さぁっ、始まりましたお昼の放送in南凪自由学園！<br />本日水曜日のパーソナリティは南凪の喋る機関銃こと<br />枇々木めぐるが務めさせていただきますのでどうぞよしなに～！」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

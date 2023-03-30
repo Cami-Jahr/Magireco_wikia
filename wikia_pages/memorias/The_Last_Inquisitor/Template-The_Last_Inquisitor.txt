@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Last Inquisitor
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 最後の異端審問官
+| Rarity = 3
+| ID = 1674
+| Illust = 茨乃
+| Owner = 
+
+| min_HP = 610
+| min_ATK = 670
+| min_DEF = 0
+| max_HP = 1525
+| max_ATK = 1675
+| max_DEF = 0
+
+| image = Chance to Anti-Poison
+| effect_name = Anti-Poison
+| effect_name_JP = アンチ・ポイズン
+| effect1 = Chance to Anti-Poison [VII / 55%] & Defense Up [II / 15%]
+| effect2 = Chance to Anti-Poison [III / 100%] & Defense Up [III / 22.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

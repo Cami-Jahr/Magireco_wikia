@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 近しいものを感じながらも振り抜いた刃が、怒りと共に体に沈む<br />したたる血が大地をぬらし、ふたりが仰臥して覗くのは死の淵<br />その目をそらさせたのは、地面を行く蜘蛛の糸の如き赤い命の川…<br />２本が繋がっても色は変わらず、どちらも同じであると示していた
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

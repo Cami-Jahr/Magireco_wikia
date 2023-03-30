@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Step Towards the Future (Hope)
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 未来（きぼう）への一歩
+| Rarity = 4
+| ID = 1681
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 854
+| min_ATK = 0
+| min_DEF = 934
+| max_HP = 2135
+| max_ATK = 0
+| max_DEF = 2335
+
+| image = Defense Down
+| effect_name = スナイピングAttack 
+| effect_name_JP = スナイピングアタック
+| effect1 = Defense Down [IV / 12.5%] (All / 3 Turns) & Attack Up [IV / 20%] (Self / 3 Turns)
+| effect2 = Defense Down [V / 15%] (All / 3 Turns) & Attack Up [V / 25%] (Self / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

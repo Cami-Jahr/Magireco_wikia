@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The End of an Ordinary Day
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 何気ない１日のシメ
+| Rarity = 4
+| ID = 1877
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 940
+| min_ATK = 0
+| min_DEF = 860
+| max_HP = 2350
+| max_ATK = 0
+| max_DEF = 2150
+
+| image = Magia Damage Down
+| effect_name = Cower ディストラクション 
+| effect_name_JP = クウェル・ディストラクション
+| effect1 = Magia Damage Down [IX / 45%] (All / 1 Turn) & Attack Down [IV / 20%] (All / 1 Turn)
+| effect2 = Magia Damage Down [X / 50%] (All / 1 Turn) & Attack Down [V / 25%] (All / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

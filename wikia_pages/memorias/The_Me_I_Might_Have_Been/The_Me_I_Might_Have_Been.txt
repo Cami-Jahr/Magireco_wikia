@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 自分の姿をした彼女は達観したように淡々と話す<br />意味を理解することを拒絶する心は悲鳴を上げ、体の芯が冷たくなる<br />浅い呼吸をする私に、彼女は祈りにも似た忠告を残して消えていった<br />去り行く姿は、さっきよりも随分小さく、弱々しく見えた気がした
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

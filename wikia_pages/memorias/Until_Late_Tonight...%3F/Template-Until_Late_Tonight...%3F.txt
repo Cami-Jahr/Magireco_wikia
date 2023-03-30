@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Until Late Tonight...?
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 今夜は遅くまで…？
+| Rarity = 4
+| ID = 1867
+| Illust = シャフト
+| Owner = 
+
+| min_HP = 858
+| min_ATK = 0
+| min_DEF = 778
+| max_HP = 2145
+| max_ATK = 0
+| max_DEF = 1945
+
+| image = HP Restore
+| effect_name = HCure Heal 
+| effect_name_JP = Hキュアヒール
+| effect1 = HP Restore [III / 35%] & Defense Up [V / 37.5%] (Self / 3 Turns)
+| effect2 = HP Restore [III / 35%] & Defense Up [V / 37.5%] (Self / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 9
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Animal Paradise
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = アニマルパラダイス
+| Rarity = 3
+| ID = 1078
+| Illust = 匈歌ハトリ
+| Owner = Akino Kaede
+
+| min_HP = 501
+| min_ATK = 0
+| min_DEF = 421
+| max_HP = 1252
+| max_ATK = 0
+| max_DEF = 1052
+
+| image = Attribute Draw
+| effect_name = アトリビュートドロー
+| effect_name_JP = アトリビュートドロー
+| effect1 = Attribute Draw [100%]
+| effect2 = Attribute Draw [100%]
+| Cooldown = 15
+| Cooldown2 = 13
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Popular from the Start
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 登場からの人気者
+| Rarity = 4
+| ID = 1564
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 923
+| min_ATK = 0
+| min_DEF = 763
+| max_HP = 2308
+| max_ATK = 0
+| max_DEF = 1908
+
+| image = Defense Down
+| effect_name = スナイピングMagia 
+| effect_name_JP = スナイピングマギア
+| effect1 = Defense Down [V / 25%] (One / 1 Turn) & Magia Damage Up [VI / 17.5%] (Self / 1 Turn)
+| effect2 = Defense Down [VI / 30%] (One / 1 Turn) & Magia Damage Up [VII / 20%] (Self / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 9
+}}

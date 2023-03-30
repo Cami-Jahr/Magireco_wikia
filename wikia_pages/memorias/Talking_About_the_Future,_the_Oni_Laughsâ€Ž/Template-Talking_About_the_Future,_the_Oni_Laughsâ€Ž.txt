@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Talking About the Future, the Oni Laughsâ€Ž
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 未来を語り、鬼は笑う
+| Rarity = 3
+| ID = 1657
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 673
+| min_ATK = 0
+| min_DEF = 553
+| max_HP = 1682
+| max_ATK = 0
+| max_DEF = 1382
+
+| image = Magia Damage Up
+| effect_name = MoraleMagiaライズ 
+| effect_name_JP = モラールマギアライズ
+| effect1 = Magia Damage Up [V / 15%] (Self / 3 Turns) & MP Gain Up [III / 10%] (Self / 3 Turns)
+| effect2 = Magia Damage Up [V / 15%] (Self / 3 Turns) & MP Gain Up [III / 10%] (Self / 3 Turns)
+| Cooldown = 8
+| Cooldown2 = 8
+}}

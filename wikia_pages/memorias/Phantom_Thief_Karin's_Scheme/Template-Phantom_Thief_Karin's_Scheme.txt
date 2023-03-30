@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Phantom Thief Karin's Scheme
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 怪盗かりん計画
+| Rarity = 3
+| ID = 1129
+| Illust = mepo
+| Owner = Misono Karin
+
+| min_HP = 468
+| min_ATK = 0
+| min_DEF = 468
+| max_HP = 1170
+| max_ATK = 0
+| max_DEF = 1170
+
+| image = Chance to Anti-Evade
+| effect_name = ブルズアイ
+| effect_name_JP = ブルズアイ
+| effect1 = Chance to Anti-Evade [100%] (Self / 3 Turns)
+| effect2 = Chance to Anti-Evade [100%] (Self / 3 Turns)
+| Cooldown = 5
+| Cooldown2 = 4
+}}

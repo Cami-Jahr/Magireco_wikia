@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = ２人の間に繋がる糸は、複雑に絡み合っている<br />お互いを引き寄せ、優しく穏やかな時を共有することもあれば<br />お互いを引き寄せ、心を引き裂く残酷な時を共有することもある<br />彼女たちに罪はなく、そこにはただ、運命だけがある
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

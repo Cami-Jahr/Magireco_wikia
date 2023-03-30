@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = In One Gulp
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = ひとくちにのせて
+| Rarity = 3
+| ID = 1646
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 728
+| min_ATK = 578
+| min_DEF = 0
+| max_HP = 1820
+| max_ATK = 1445
+| max_DEF = 0
+
+| image = Chance to Anti-Poison
+| effect_name = Anti-Poison
+| effect_name_JP = アンチ・ポイズン
+| effect1 = Chance to Anti-Poison [VIII / 60%] & Attack Up [I / 5%]
+| effect2 = Chance to Anti-Poison [II / 100%] & Attack Up [II / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

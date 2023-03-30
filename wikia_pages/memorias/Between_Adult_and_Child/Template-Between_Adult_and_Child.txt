@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Between Adult and Child
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 大人と子どもの真ん中で
+| Rarity = 3
+| ID = 1837
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 674
+| min_ATK = 0
+| min_DEF = 554
+| max_HP = 1685
+| max_ATK = 0
+| max_DEF = 1385
+
+| image = Blast Damage Up
+| effect_name = Blast Force 
+| effect_name_JP = ブラスト・フォース
+| effect1 = Blast Damage Up [III / 25%] (Self / 3 Turns) & Chance to Critical Hit [II / 15%] (Self / 3 Turns)
+| effect2 = Blast Damage Up [III / 25%] (Self / 3 Turns) & Chance to Critical Hit [II / 15%] (Self / 3 Turns)
+| Cooldown = 6
+| Cooldown2 = 6
+}}

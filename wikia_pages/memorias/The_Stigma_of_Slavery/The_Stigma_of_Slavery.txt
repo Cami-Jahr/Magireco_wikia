@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 生きても役に立たぬ者は、その死をもって忠誠を示しなさい<br />命を惜しむ者は知りなさい、あらゆる命は無価値であると<br />価値ある命はただひとつ、あの方の命のみ<br />真なる忠誠ははただひとつ、あの方に捧げる忠誠のみ
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

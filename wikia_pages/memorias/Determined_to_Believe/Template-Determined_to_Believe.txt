@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Determined to Believe
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 信じる故の決意
+| Rarity = 4
+| ID = 1594
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 735
+| min_ATK = 0
+| min_DEF = 895
+| max_HP = 1838
+| max_ATK = 0
+| max_DEF = 2238
+
+| image = Attack Up
+| effect_name = 信じる故の決意
+| effect_name_JP = 信じる故の決意
+| effect1 = Attack Up [IV / 20%] (Self / 1 Turn) & Chance to Critical Hit [IV / 25%] (Self / 1 Turn) & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| effect2 = Attack Up [IV / 20%] (Self / 1 Turn) & Chance to Critical Hit [IV / 25%] (Self / 1 Turn) & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| Cooldown = 7
+| Cooldown2 = 7
+}}

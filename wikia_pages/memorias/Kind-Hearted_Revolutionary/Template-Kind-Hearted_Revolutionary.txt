@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Kind-Hearted Revolutionary
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 心優しき革命家
+| Rarity = 4
+| ID = 1655
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 766
+| min_ATK = 926
+| min_DEF = 0
+| max_HP = 1915
+| max_ATK = 2315
+| max_DEF = 0
+
+| image = Chance to Anti-Provoke
+| effect_name = ウィル Adept 
+| effect_name_JP = ウィル・アデプト
+| effect1 = Chance to Anti-Provoke [VI / 55%] & Attack Up [IV / 20%]
+| effect2 = Chance to Anti-Provoke [VIII / 65%] & Attack Up [V / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

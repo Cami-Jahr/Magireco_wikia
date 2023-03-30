@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Thus the Holy Night Wanes
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = かくて聖夜は暮れゆく
+| Rarity = 3
+| ID = 1573
+| Illust = 都筑禰己
+| Owner = Touka & Nemu (Holy Night ver.)
+
+| min_HP = 434
+| min_ATK = 0
+| min_DEF = 514
+| max_HP = 1085
+| max_ATK = 0
+| max_DEF = 1285
+
+| image = MP Damage
+| effect_name = Mana Absorb 
+| effect_name_JP = マナアブソーブ
+| effect1 = MP Damage [I / 30%] (One) & MP Restore [I / 10%]
+| effect2 = MP Damage [I / 30%] (One) & MP Restore [I / 10%]
+| Cooldown = 10
+| Cooldown2 = 8
+}}

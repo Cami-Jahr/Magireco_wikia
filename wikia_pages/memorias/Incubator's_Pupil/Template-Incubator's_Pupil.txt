@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Incubator's Pupil
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = インキューブの瞳
+| Rarity = 3
+| ID = 1733
+| Illust = 都筑禰己
+| Owner = Isabeau
+
+| min_HP = 480
+| min_ATK = 480
+| min_DEF = 0
+| max_HP = 1200
+| max_ATK = 1200
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Regeneration Aura 
+| effect_name_JP = リジェネレイト・オーラ
+| effect1 = Attack Up [III / 15%] & Damage Cut [II / 10%] & Regenerate HP [II / 3%]
+| effect2 = Attack Up [IV / 20%] & Damage Cut [III / 15%] & Regenerate HP [III / 4%]
+| Cooldown = 
+| Cooldown2 = 
+}}

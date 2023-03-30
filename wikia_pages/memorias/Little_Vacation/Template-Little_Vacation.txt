@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Little Vacation
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = リトル・バケーション
+| Rarity = 4
+| ID = 1571
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 892
+| min_ATK = 0
+| min_DEF = 732
+| max_HP = 2230
+| max_ATK = 0
+| max_DEF = 1830
+
+| image = Regenerate HP
+| effect_name = Regeneration Skill Quicken
+| effect_name_JP = リジェネレイト・スキルクイック
+| effect1 = Regenerate HP [XV / 16%] (Self / 1 Turn) & Chance to Skill Quicken [XV / 100%] (Self / 1 Turn)
+| effect2 = Regenerate HP [XV / 16%] (Self / 1 Turn) & Chance to Skill Quicken [XV / 100%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

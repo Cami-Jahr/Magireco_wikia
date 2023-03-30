@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 鎖を繋ぐように連なっていく争いと、想いが幾重にも混ざる中で<br />手を繋いで笑い合えるような、救われる未来は望めるのかな…<br />自分の言葉をそっとしまい込んでばかりだった私だけど、<br />周りが変えてくれた今なら、与えることだってできるのかもしれない
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

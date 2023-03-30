@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Misunderstandings and Broken Hearts
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 欠けた理解と折れた心
+| Rarity = 3
+| ID = 1787
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 739
+| min_ATK = 0
+| min_DEF = 619
+| max_HP = 1848
+| max_ATK = 0
+| max_DEF = 1548
+
+| image = Blast Damage Up
+| effect_name = Full Burst 
+| effect_name_JP = フルバースト
+| effect1 = Blast Damage Up [IV / 30%] (Self / 1 Turn) & Accele MP Gain Up [IV / 17.5%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [V / 35%] (Self / 1 Turn) & Accele MP Gain Up [V / 20%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

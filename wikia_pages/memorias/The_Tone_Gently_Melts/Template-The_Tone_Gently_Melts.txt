@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Tone Gently Melts
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 音色は優しく溶けて
+| Rarity = 3
+| ID = 1617
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 674
+| min_ATK = 0
+| min_DEF = 614
+| max_HP = 1685
+| max_ATK = 0
+| max_DEF = 1535
+
+| image = Remove Debuffs
+| effect_name = カウンタラクトAttack 
+| effect_name_JP = カウンタラクトアタック
+| effect1 = Remove Debuffs [%] & Attack Up [II / 10%] (Self / 3 Turns)
+| effect2 = Remove Debuffs [%] & Attack Up [III / 15%] (Self / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

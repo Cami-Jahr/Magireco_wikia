@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Will Cooling Off Help Us Relax?
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 冷やせば落ちつくかな？
+| Rarity = 3
+| ID = 1389
+| Illust = くらは
+| Owner = Iroha & Yachiyo (Final Battle ver.)
+
+| min_HP = 421
+| min_ATK = 501
+| min_DEF = 0
+| max_HP = 1052
+| max_ATK = 1252
+| max_DEF = 0
+
+| image = MP Gain Up
+| effect_name = Clever Adept 
+| effect_name_JP = クレバー・アデプト
+| effect1 = MP Gain Up [II / 7.5%] & MP Up When Attacked By Weak Element [I / 2%]
+| effect2 = MP Gain Up [III / 10%] & MP Up When Attacked By Weak Element [I / 2%]
+| Cooldown = 
+| Cooldown2 = 
+}}

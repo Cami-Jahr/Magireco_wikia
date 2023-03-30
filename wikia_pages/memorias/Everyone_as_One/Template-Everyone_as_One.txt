@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Everyone as One
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = みんなでひとつ
+| Rarity = 4
+| ID = 1831
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 778
+| min_ATK = 858
+| min_DEF = 0
+| max_HP = 1945
+| max_ATK = 2145
+| max_DEF = 0
+
+| image = Damage Up
+| effect_name = パーシスト Adept 
+| effect_name_JP = パーシスト・アデプト
+| effect1 = Damage Up [III / 15%] & Chance to Anti-Provoke [VI / 55%]
+| effect2 = Damage Up [III / 15%] & Chance to Anti-Provoke [VI / 55%]
+| Cooldown = 
+| Cooldown2 = 
+}}

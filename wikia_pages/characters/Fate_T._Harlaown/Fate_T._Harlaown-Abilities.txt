@@ -1,0 +1,7 @@
+﻿{{Fate_T._Harlaown|Abilities}}
+
+{{Description
+| en = 
+| na = 
+| jp = ー
+}}

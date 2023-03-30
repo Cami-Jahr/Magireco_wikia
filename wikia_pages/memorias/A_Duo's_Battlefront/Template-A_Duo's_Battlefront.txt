@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Duo's Battlefront
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 2人の共闘戦線
+| Rarity = 2
+| ID = 1166
+| Illust = ハノカゲ
+| Owner = 
+
+| min_HP = 446
+| min_ATK = 366
+| min_DEF = 0
+| max_HP = 1115
+| max_ATK = 915
+| max_DEF = 0
+
+| image = Magia Damage Up
+| effect_name = Magia Adept 
+| effect_name_JP = マギア・アデプト
+| effect1 = Magia Damage Up [II / 7.5%]
+| effect2 = Magia Damage Up [III / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Bridge Over the Milky Way
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 天の川にかけた橋
+| Rarity = 4
+| ID = 1859
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 778
+| min_ATK = 858
+| min_DEF = 0
+| max_HP = 1945
+| max_ATK = 2145
+| max_DEF = 0
+
+| image = Attack Up When At Critical Health
+| effect_name = ナローShield 
+| effect_name_JP = ナローシールド
+| effect1 = Attack Up When At Critical Health [IV / 25%] & Defense Up When At Critical Health [III / 40%] & Damage Cut [III / 15%]
+| effect2 = Attack Up When At Critical Health [IV / 25%] & Defense Up When At Critical Health [III / 40%] & Damage Cut [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

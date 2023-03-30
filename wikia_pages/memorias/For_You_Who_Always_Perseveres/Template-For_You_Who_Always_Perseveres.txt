@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = For You Who Always Perseveres
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = いつも頑張るあなたに
+| Rarity = 3
+| ID = 1543
+| Illust = 星和貴
+| Owner = 
+
+| min_HP = 666
+| min_ATK = 606
+| min_DEF = 0
+| max_HP = 1665
+| max_ATK = 1515
+| max_DEF = 0
+
+| image = Blast Damage Up
+| effect_name = インデュア Adept 
+| effect_name_JP = インデュア・アデプト
+| effect1 = Blast Damage Up [I / 15%] & Status Ailment Resistance Up [I / 20%]
+| effect2 = Blast Damage Up [II / 20%] & Status Ailment Resistance Up [II / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Cost of Transgressing Providence
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 摂理に反した代償
+| Rarity = 3
+| ID = 1781
+| Illust = 都筑禰己
+| Owner = Himuro Lavi
+
+| min_HP = 460
+| min_ATK = 500
+| min_DEF = 0
+| max_HP = 1150
+| max_ATK = 1250
+| max_DEF = 0
+
+| image = Blast Damage Up
+| effect_name = Eliminate Adept 
+| effect_name_JP = エリミネイト・アデプト
+| effect1 = Blast Damage Up [V / 35%] & Magia Damage Up [VI / 17.5%]
+| effect2 = Blast Damage Up [VI / 40%] & Magia Damage Up [VII / 20%]
+| Cooldown = 
+| Cooldown2 = 
+}}

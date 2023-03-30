@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「水波さん、次の試合もひかると組んで欲しいっす！」<br />「え？そりゃいいけど…どういう風の吹きまわしよ？」<br />「上手く連携できたのに、１試合だけじゃもったいないっすもん」<br />「…ふふっ、それはレナも思ってた。んじゃ、もう１試合やる？」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Trivial Prank of Fate
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = なんでもない運命の悪戯
+| Rarity = 3
+| ID = 1798
+| Illust = 都筑禰己
+| Owner = Infinite Iroha
+
+| min_HP = 521
+| min_ATK = 0
+| min_DEF = 441
+| max_HP = 1302
+| max_ATK = 0
+| max_DEF = 1102
+
+| image = Accele Draw
+| effect_name = Acceleドロー
+| effect_name_JP = アクセルドロー
+| effect1 = Accele Draw [100%]
+| effect2 = Accele Draw [100%]
+| Cooldown = 5
+| Cooldown2 = 4
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Heart of Sincerity
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 誠意のハート
+| Rarity = 3
+| ID = 1556
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 720
+| min_ATK = 0
+| min_DEF = 600
+| max_HP = 1800
+| max_ATK = 0
+| max_DEF = 1500
+
+| image = Chance to Chase
+| effect_name = ChaseAttack 
+| effect_name_JP = チェイスアタック
+| effect1 = Chance to Chase [IV / 80%] (Self / 1 Turn)
+| effect2 = Chance to Chase [V / 80%] (Self / 1 Turn)
+| Cooldown = 12
+| Cooldown2 = 10
+}}

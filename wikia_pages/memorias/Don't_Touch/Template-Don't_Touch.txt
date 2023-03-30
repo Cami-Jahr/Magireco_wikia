@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Don't Touch
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = さわっちゃダメ
+| Rarity = 3
+| ID = 1325
+| Illust = ninmaru
+| Owner = Rumor of the Ten-Thousand-Year Sakura
+
+| min_HP = 464
+| min_ATK = 0
+| min_DEF = 464
+| max_HP = 1160
+| max_ATK = 0
+| max_DEF = 1160
+
+| image = Chance to Critical Hit
+| effect_name = Critical Strike
+| effect_name_JP = クリティカル・ストライク
+| effect1 = Chance to Critical Hit [100%] (Self / 1 Turn)
+| effect2 = Chance to Critical Hit [100%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

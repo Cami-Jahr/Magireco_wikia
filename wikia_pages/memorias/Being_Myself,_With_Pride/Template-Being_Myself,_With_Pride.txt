@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Being Myself, With Pride
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 私らしく、誇りを持って
+| Rarity = 4
+| ID = 1641
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 815
+| min_ATK = 815
+| min_DEF = 0
+| max_HP = 2038
+| max_ATK = 2038
+| max_DEF = 0
+
+| image = Attack Up While At Max Health
+| effect_name = Full Gaugeバーサクドライブ 
+| effect_name_JP = フルゲージバーサクドライブ
+| effect1 = Attack Up While At Max Health [V / 25%] & Blast Damage Up [III / 25%] & Defense Down [III / 15%]
+| effect2 = Attack Up While At Max Health [V / 25%] & Blast Damage Up [III / 25%] & Defense Down [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

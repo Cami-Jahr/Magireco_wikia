@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Meeting After School
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 放課後の待ち合わせ
+| Rarity = 3
+| ID = 1549
+| Illust = くらは
+| Owner = Yachiyo & Mifuyu (Origin ver.)
+
+| min_HP = 463
+| min_ATK = 463
+| min_DEF = 0
+| max_HP = 1158
+| max_ATK = 1158
+| max_DEF = 0
+
+| image = Blast Damage Up
+| effect_name = MoraleBlast Adept 
+| effect_name_JP = モラールブラスト・アデプト
+| effect1 = Blast Damage Up [IV / 30%] & Blast MP Gain Up [II / 2%]
+| effect2 = Blast Damage Up [V / 35%] & Blast MP Gain Up [III / 3%]
+| Cooldown = 
+| Cooldown2 = 
+}}

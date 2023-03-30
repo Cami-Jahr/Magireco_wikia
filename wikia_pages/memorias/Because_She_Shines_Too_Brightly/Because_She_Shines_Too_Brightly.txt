@@ -1,0 +1,14 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = ？「なっ、なんだよコイツ、あんなにイジワルなことしたのに！」<br />？「本当に素直だし、頑張り屋だし、応援したくなるわね」<br />？「ういがいないと、本当にぜっこーしてたと思うにゃー」<br />うい「わたしはただ、素直な気持ちでいるだけなんだけどなぁ」
+| en = 
+| na = 
+}}
+{{MemoriaTrivia|}}
+<!--
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
+** Normal: Gain (Normal Gain) Bonus (Item Name)
+** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
+-->
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

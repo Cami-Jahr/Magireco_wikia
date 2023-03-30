@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Day We Locked Fingers
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 指を結んだあの日
+| Rarity = 3
+| ID = 1576
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 660
+| min_ATK = 0
+| min_DEF = 660
+| max_HP = 1650
+| max_ATK = 0
+| max_DEF = 1650
+
+| image = Damage Increase
+| effect_name = Invisible ウェポン 
+| effect_name_JP = インビジブル・ウェポン
+| effect1 = Damage Increase [II / 10%] (Self / 1 Turn) & Chance to Anti-Evade [II / 100%] (Self / 1 Turn)
+| effect2 = Damage Increase [II / 10%] (Self / 1 Turn) & Chance to Anti-Evade [II / 100%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

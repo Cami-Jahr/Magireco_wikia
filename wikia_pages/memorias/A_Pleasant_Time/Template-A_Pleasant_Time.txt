@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Pleasant Time
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 心地のいい時間
+| Rarity = 3
+| ID = 1238
+| Illust = スミカワ
+| Owner = Tamaki Iroha (Mizugi ver.)
+
+| min_HP = 504
+| min_ATK = 0
+| min_DEF = 423
+| max_HP = 1260
+| max_ATK = 0
+| max_DEF = 1058
+
+| image = HP Restore
+| effect_name = ナーシングケア 
+| effect_name_JP = ナーシングケア
+| effect1 = HP Restore [III / 35%] & MP Restore [I / 10%]
+| effect2 = HP Restore [IV / 37.5%] & MP Restore [I / 10%]
+| Cooldown = 9
+| Cooldown2 = 8
+}}

@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = That Light I Thought I Gave Up
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 諦めたはずの光
+| Rarity = 4
+| ID = 1723
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 816
+| min_ATK = 936
+| min_DEF = 0
+| max_HP = 2040
+| max_ATK = 2340
+| max_DEF = 0
+
+| image = Chance to Charm on Attack
+| effect_name = マターナル Adept 
+| effect_name_JP = マターナル・アデプト
+| effect1 = Chance to Charm on Attack [II / 15%] (1 Turn) & Attack Up [IV / 20%]
+| effect2 = Chance to Charm on Attack [III / 20%] (1 Turn) & Attack Up [V / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

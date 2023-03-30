@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Using All the Pumpkins NANO!
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = かぼちゃ尽くしなの！
+| Rarity = 3
+| ID = 1685
+| Illust = mepo
+| Owner = Karin & Alina (Halloween ver.)
+
+| min_HP = 460
+| min_ATK = 0
+| min_DEF = 500
+| max_HP = 1150
+| max_ATK = 0
+| max_DEF = 1250
+
+| image = Magia Damage Up
+| effect_name = Astralライズ 
+| effect_name_JP = アストラルライズ
+| effect1 = Magia Damage Up [V / 15%] (Self / 3 Turns) & Accele MP Gain Up [IV / 17.5%] (Self / 3 Turns)
+| effect2 = Magia Damage Up [VI / 17.5%] (Self / 3 Turns) & Accele MP Gain Up [V / 20%] (Self / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

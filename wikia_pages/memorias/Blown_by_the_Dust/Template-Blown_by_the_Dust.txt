@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Blown by the Dust
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 砂塵に吹かれて
+| Rarity = 3
+| ID = 1874
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 644
+| min_ATK = 0
+| min_DEF = 584
+| max_HP = 1610
+| max_ATK = 0
+| max_DEF = 1460
+
+| image = Chance to Dazzle
+| effect_name = Mesmerize ミラージュ 
+| effect_name_JP = メズマライズ・ミラージュ
+| effect1 = Chance to Dazzle [V / 40%] (All / 1 Turn)
+| effect2 = Chance to Dazzle [V / 40%] (All / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 6
+}}

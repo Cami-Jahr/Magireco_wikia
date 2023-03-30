@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Break Free of this Spell
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = この呪縛を抜け出して
+| Rarity = 3
+| ID = 1703
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 735
+| min_ATK = 585
+| min_DEF = 0
+| max_HP = 1838
+| max_ATK = 1462
+| max_DEF = 0
+
+| image = Chance to Darkness on Attack
+| effect_name = Darkness Adept 
+| effect_name_JP = ダークネス・アデプト
+| effect1 = Chance to Darkness on Attack [I / 10%] (1 Turn) & Attack Up [II / 10%]
+| effect2 = Chance to Darkness on Attack [II / 15%] (1 Turn) & Attack Up [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

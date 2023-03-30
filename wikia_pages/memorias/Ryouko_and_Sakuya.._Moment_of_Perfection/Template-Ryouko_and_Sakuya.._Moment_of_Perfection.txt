@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Ryouko and Sakuya: Moment of Perfection
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 涼子とさくや：刹那の絶好
+| Rarity = 4
+| ID = 1453
+| Illust = None Listed
+| Owner = 
+
+| min_HP = 888
+| min_ATK = 727
+| min_DEF = 0
+| max_HP = 2220
+| max_ATK = 1818
+| max_DEF = 0
+
+| image = Damage Increase
+| effect_name = Regeneration ウェポン 
+| effect_name_JP = リジェネレイト・ウェポン
+| effect1 = Damage Increase [V / 25%] & Regenerate HP [III / 4%]
+| effect2 = Damage Increase [VI / 30%] & Regenerate HP [IV / 5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

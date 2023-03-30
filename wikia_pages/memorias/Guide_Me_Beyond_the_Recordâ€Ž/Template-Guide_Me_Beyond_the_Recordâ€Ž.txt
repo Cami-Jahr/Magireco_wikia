@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Guide Me Beyond the Recordâ€Ž
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 記録の先へ導いて
+| Rarity = 4
+| ID = 1579
+| Illust = 谷口淳一郎
+| Owner = 
+
+| min_HP = 847
+| min_ATK = 767
+| min_DEF = 0
+| max_HP = 2118
+| max_ATK = 1918
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Bloom Adept 
+| effect_name_JP = ブルーム・アデプト
+| effect1 = Attack Up [III / 15%] & Defense Up [III / 22.5%]
+| effect2 = Attack Up [III / 15%] & Defense Up [III / 22.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}
