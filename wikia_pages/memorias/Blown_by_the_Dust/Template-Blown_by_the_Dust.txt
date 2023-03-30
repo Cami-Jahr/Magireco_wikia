@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 644
-| min_ATK = 0
-| min_DEF = 584
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 1610
 | max_ATK = 0
 | max_DEF = 1460
@@ -20,8 +20,8 @@
 | image = Chance to Dazzle
 | effect_name = Mesmerize ミラージュ 
 | effect_name_JP = メズマライズ・ミラージュ
-| effect1 = Chance to Dazzle [V / 40%] (All / 1 Turn)
+| effect1 = 
 | effect2 = Chance to Dazzle [V / 40%] (All / 1 Turn)
-| Cooldown = 6
+| Cooldown = 
 | Cooldown2 = 6
 }}

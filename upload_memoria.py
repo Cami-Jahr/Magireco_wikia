@@ -11,12 +11,12 @@ from helpers import (
     get_char_list,
     get_memo_list)
 
-text1 = """{{ {{PAGENAME}} |Stats}}
+memoria_header = """{{ {{PAGENAME}} |Stats}}
 
 {{MemoriaLore
 """
 
-text2 = """
+memoria_body = """
 }}
 {{MemoriaTrivia|}}
 <!--
@@ -27,8 +27,8 @@ text2 = """
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
 """
 
-temp1 = """{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}"""
-temp2 = """
+template_header = """{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}"""
+template_body = """
 | name = {0}
 | ImageSrc = 
 | Event = 
@@ -55,110 +55,123 @@ temp2 = """
 | Cooldown = {15}
 | Cooldown2 = {17}
 """
-temp3 = """}}"""
+template_footer = """}}"""
 
 
 def format_text(desc=""):
-    return f"{text1}| jp = {desc}\n| en = \n| na = {text2}"
+    return f"{memoria_header}| jp = {desc}\n| en = \n| na = {memoria_body}"
 
 
 def template_format(_id, Ename, stats=""):
     if stats:
-        rank, Jname, illu, owner, HP, ATK, DEF, icon, en, jp, only_max_level, st1, cd1, st2, cd2 = stats
-        en = en.split("[")[0]
-        jp = jp.split("[")[0]
+        rank, piece_name_jp, illustrator, owner, hp, attack, defence, icon, skill_name_en, skill_name_jp, only_max_level, en_full_description1, cooldown1, \
+            en_full_description2, cooldown2 = stats
+        skill_name_en = skill_name_en.split("[")[0]
+        skill_name_jp = skill_name_jp.split("[")[0]
     else:
-        rank = Jname = illu = owner = HP = ATK = DEF = icon = en = jp = st1 = cd1 = st2 = cd2 = ""
+        rank = piece_name_jp = illustrator = owner = hp = attack = defence = icon = skill_name_en = skill_name_jp = en_full_description1 = cooldown1 = \
+            en_full_description2 = cooldown2 = ""
         only_max_level = False
 
-    if HP.__class__ == int:
-        HP2 = int(round(HP * 2.5, 0))
-        ATK2 = int(round(ATK * 2.5, 0))
-        DEF2 = int(round(DEF * 2.5, 0))
-        if HP == 0 and DEF == 0 and ATK == 0:
-            HP = ""
-            DEF = ""
-            ATK = ""
+    if hp.__class__ == int:
+        hp2 = int(round(hp * 2.5, 0))
+        attack2 = int(round(attack * 2.5, 0))
+        defence2 = int(round(defence * 2.5, 0))
+        if hp == 0 and defence == 0 and attack == 0:
+            hp = ""
+            defence = ""
+            attack = ""
     else:
-        HP2 = ATK2 = DEF2 = ""
+        hp2 = attack2 = defence2 = ""
     if only_max_level:
-        HP = ATK = DEF = ""
+        hp = attack = defence = en_full_description1 = cooldown1 = ""
 
-    return temp1 + temp2.format(
-        Ename, rank, Jname, illu, owner, HP, HP2, ATK, ATK2, DEF, DEF2, icon, en, jp, st1, cd1,
-        st2, cd2, _id) + temp3
+    return template_header + \
+        template_body.format(
+            Ename, rank, piece_name_jp, illustrator, owner, hp, hp2, attack, attack2, defence, defence2, icon, skill_name_en, skill_name_jp, en_full_description1,
+            cooldown1,
+            en_full_description2, cooldown2, _id) + \
+        template_footer
 
 
 def read(piece, chars):
     try:
-        atk = piece["attack"]
+        attack = piece["attack"]
     except Exception as e:
         print(piece["pieceId"], piece["pieceName"])
         raise e
-    de = piece["defense"]
+    defence = piece["defense"]
     hp = piece["hp"]
-    illu = piece["illustrator"]
-    Jname = piece["pieceName"]
+    illustrator = piece["illustrator"]
+    piece_name_jp = piece["pieceName"]
     rank = piece["rank"][-1]
-    if "―" == illu or not illu:
-        illu = "None Listed"
+    if "―" == illustrator or not illustrator:
+        illustrator = "None Listed"
     owner = ""
     if "charaList" in piece:
-        for obj in piece["charaList"]:
+        for character_obj in piece["charaList"]:
             if owner:
                 owner += "; "
-            owner += chars[obj["charaId"]]
+            owner += chars[character_obj["charaId"]]
     desc = piece["description"]
 
     skills = []
-    old_name = "TEMPLATE"
+    old_cooldown = "TEMPLATE"
+    old_description = "TEMPLATE"
     only_max_level = False
+
     for i in ("", "2"):
         # print(f"pieceSkill{i}")
         arts = []
-        for j in range(1, 10):
+        for jp_skill in range(1, 10):
             try:
-                arts.append(piece[f"pieceSkill{i}"][f"art{j}"])
+                arts.append(piece[f"pieceSkill{i}"][f"art{jp_skill}"])
             except KeyError:
                 break
         try:
-            cd = piece[f"pieceSkill{i}"]["intervalTurn"]
+            cooldown = piece[f"pieceSkill{i}"]["intervalTurn"]
         except KeyError:
-            cd = ""
-        eng, icon = translate(piece[f"pieceSkill{i}"]["shortDescription"], arts)
-        st = ""
-        for e in eng:
-            if st:
-                st += " & "
-            st += e
-            if eng[e][0]:
-                st += f" [{eng[e][0]}]"
-            if eng[e][1]:
-                st += f" ({eng[e][1]})"
+            cooldown = ""
 
-        jp = piece[f"pieceSkill{i}"]["name"].strip()
-        if old_name == jp:
+        description_jp = piece[f"pieceSkill{i}"]["shortDescription"]
+        description_eng, icon = translate(description_jp, arts)
+        en_full_description = ""
+        for en_skill in description_eng:
+            if en_full_description:
+                en_full_description += " & "
+            en_full_description += en_skill
+            if description_eng[en_skill][0]:
+                en_full_description += f" [{description_eng[en_skill][0]}]"
+            if description_eng[en_skill][1]:
+                en_full_description += f" ({description_eng[en_skill][1]})"
+
+        skill_name_jp = piece[f"pieceSkill{i}"]["name"].strip()
+
+        if old_cooldown == cooldown and old_description == description_jp:
             only_max_level = True
         else:
-            old_name = jp
+            old_cooldown = cooldown
+            old_description = description_jp
 
-        # for s, f in roman_to_full.items():
-        #    jp = jp.replace(s, f)
-        en = jp
-        for j, e in jp_to_en.items():
-            en = en.replace(j, e)
-        for s, f in roman_to_full.items():
-            en = en.replace(s, f)
-        for c in en:
-            if ord(c) > 200:
-                # print("missing translation for", piece["pieceId"], "?", repr(en))
-                # for c in en:
+        # for roman_nr, latin_nr in roman_to_full.items():
+        #    skill_name_jp = skill_name_jp.replace(roman_nr, latin_nr)
+        skill_name_en = skill_name_jp
+        for jp_skill, en_skill in jp_to_en.items():
+            skill_name_en = skill_name_en.replace(jp_skill, en_skill)
+        for roman_nr, latin_nr in roman_to_full.items():
+            skill_name_en = skill_name_en.replace(roman_nr, latin_nr)
+        for c in skill_name_en:
+            if ord(c) > 200:  # means that skill_name_en text contains special non-ascii characters
+                # print("missing translation for", piece["pieceId"], "?", repr(skill_name_en))
+                # for c in skill_name_en:
                 # print(ord(c), end=" ")
                 # print()
                 break
 
-        skills.append((st, cd))
-    return [desc, [rank, Jname, illu, owner, hp, atk, de, icon, en, jp, only_max_level, *skills[0], *skills[1]]]
+        skills.append((en_full_description, cooldown))
+    if only_max_level:
+        print(rank, piece_name_jp, illustrator, owner, hp, attack, defence, icon, skill_name_en, skill_name_jp, only_max_level, *skills[0], *skills[1])
+    return [desc, [rank, piece_name_jp, illustrator, owner, hp, attack, defence, icon, skill_name_en, skill_name_jp, only_max_level, *skills[0], *skills[1]]]
 
 
 def get_json():

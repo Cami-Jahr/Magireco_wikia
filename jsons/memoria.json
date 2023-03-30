@@ -67457,6 +67457,71 @@
   "1881": {
     "pieceId": 1881,
     "rank": "RANK_4",
-    "__update__": "2023-03-24T02:08:33.216Z"
+    "__update__": "2023-03-30T02:28:38.556Z",
+    "pieceType": "ABILITY",
+    "pieceName": "きっと愛しい物語に",
+    "attributeId": "ALL",
+    "attack": 818,
+    "defense": 0,
+    "hp": 818,
+    "skillId": 188100,
+    "pieceSkill": {
+      "id": 188100,
+      "groupId": 1173,
+      "name": "エピソードブラストアデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "獲得エピソードポイントUP[Ⅳ] & Blast ダメージUP[Ⅲ]",
+      "artId1": 700216304,
+      "art1": {
+        "artId": 700216304,
+        "verbCode": "OTHER",
+        "effectCode": "EPISODE_UP",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 0
+      },
+      "artId2": 390201803,
+      "art2": {
+        "artId": 390201803,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 188101,
+    "pieceSkill2": {
+      "id": 188101,
+      "groupId": 1173,
+      "name": "エピソードブラストアデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "獲得エピソードポイントUP[Ⅳ] & Blast ダメージUP[Ⅲ]",
+      "artId1": 700216304,
+      "art1": {
+        "artId": 700216304,
+        "verbCode": "OTHER",
+        "effectCode": "EPISODE_UP",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 0
+      },
+      "artId2": 390201803,
+      "art2": {
+        "artId": 390201803,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "人生がもしも１冊の本だったなら、私の物語はどんなだろう？＠いったい今は何ページ目で、どんな結末が待っているんだろう？＠きっと、これからたくさんのことが起きるだろうけれど＠どんな形になっても、それは私「環いろは」にとって愛しい物語になる",
+    "illustrator": "谷口淳一郎",
+    "openDate": "2023/03/24 00:00:00"
   }
 }

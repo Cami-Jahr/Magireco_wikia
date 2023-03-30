@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 814
-| min_ATK = 814
-| min_DEF = 0
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2035
 | max_ATK = 2035
 | max_DEF = 0
@@ -20,7 +20,7 @@
 | image = Magia Damage Up
 | effect_name = Magia Blastウォール 
 | effect_name_JP = マギア・ブラストウォール
-| effect1 = Magia Damage Up [IV / 12.5%] & Blast Damage Cut [III / 15%]
+| effect1 = 
 | effect2 = Magia Damage Up [IV / 12.5%] & Blast Damage Cut [III / 15%]
 | Cooldown = 
 | Cooldown2 = 

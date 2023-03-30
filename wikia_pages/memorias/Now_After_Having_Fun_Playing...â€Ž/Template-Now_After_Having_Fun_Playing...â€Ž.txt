@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 904
-| min_ATK = 0
-| min_DEF = 744
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2260
 | max_ATK = 0
 | max_DEF = 1860
@@ -20,8 +20,8 @@
 | image = Damage Down
 | effect_name = ドレイン Slash 
 | effect_name_JP = ドレイン・スラッシュ
-| effect1 = Damage Down [VII / 35%] (One / 3 Turns) & Defense Up [IV / 30%] (Self / 3 Turns)
+| effect1 = 
 | effect2 = Damage Down [VII / 35%] (One / 3 Turns) & Defense Up [IV / 30%] (Self / 3 Turns)
-| Cooldown = 9
+| Cooldown = 
 | Cooldown2 = 9
 }}

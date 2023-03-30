@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 896
-| min_ATK = 736
-| min_DEF = 0
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2240
 | max_ATK = 1840
 | max_DEF = 0
@@ -20,7 +20,7 @@
 | image = Chance to Anti-Charm
 | effect_name = エバーグロウ
 | effect_name_JP = エバーグロウ
-| effect1 = Chance to Anti-Charm [100%] & Chance to Anti-Dazzle [100%] & Chance to Anti-Darkness [100%]
+| effect1 = 
 | effect2 = Chance to Anti-Charm [100%] & Chance to Anti-Dazzle [100%] & Chance to Anti-Darkness [100%]
 | Cooldown = 
 | Cooldown2 = 

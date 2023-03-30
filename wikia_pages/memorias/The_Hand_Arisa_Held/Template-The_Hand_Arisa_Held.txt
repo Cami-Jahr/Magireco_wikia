@@ -10,9 +10,9 @@
 | Illust = GAN
 | Owner = 
 
-| min_HP = 844
-| min_ATK = 764
-| min_DEF = 0
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2110
 | max_ATK = 1910
 | max_DEF = 0
@@ -20,7 +20,7 @@
 | image = Chance to Anti-Bind
 | effect_name = アリサが掴んだ手
 | effect_name_JP = アリサが掴んだ手
-| effect1 = Chance to Anti-Bind [100%] & Chance to Anti-Stun [100%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| effect1 = 
 | effect2 = Chance to Anti-Bind [100%] & Chance to Anti-Stun [100%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
 | Cooldown = 
 | Cooldown2 = 

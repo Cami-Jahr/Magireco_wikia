@@ -10,9 +10,9 @@
 | Illust = 谷口淳一郎
 | Owner = Minami Rena; Akino Kaede
 
-| min_HP = 890
-| min_ATK = 0
-| min_DEF = 890
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2225
 | max_ATK = 0
 | max_DEF = 2225
@@ -20,8 +20,8 @@
 | image = Magia Damage Up
 | effect_name = お前はそれでいいのかよ
 | effect_name_JP = お前はそれでいいのかよ
-| effect1 = Magia Damage Up [X / 27.5%] (Self / 3 Turns) & Accele MP Gain Up [VI / 22.5%] (Self / 3 Turns)
+| effect1 = 
 | effect2 = Magia Damage Up [X / 27.5%] (Self / 3 Turns) & Accele MP Gain Up [VI / 22.5%] (Self / 3 Turns)
-| Cooldown = 8
+| Cooldown = 
 | Cooldown2 = 8
 }}

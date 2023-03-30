@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 673
-| min_ATK = 0
-| min_DEF = 553
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 1682
 | max_ATK = 0
 | max_DEF = 1382
@@ -20,8 +20,8 @@
 | image = Magia Damage Up
 | effect_name = MoraleMagiaライズ 
 | effect_name_JP = モラールマギアライズ
-| effect1 = Magia Damage Up [V / 15%] (Self / 3 Turns) & MP Gain Up [III / 10%] (Self / 3 Turns)
+| effect1 = 
 | effect2 = Magia Damage Up [V / 15%] (Self / 3 Turns) & MP Gain Up [III / 10%] (Self / 3 Turns)
-| Cooldown = 8
+| Cooldown = 
 | Cooldown2 = 8
 }}

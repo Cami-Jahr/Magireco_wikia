@@ -10,9 +10,9 @@
 | Illust = 谷口淳一郎
 | Owner = Tamaki Iroha; Tamaki Ui
 
-| min_HP = 930
-| min_ATK = 810
-| min_DEF = 0
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2325
 | max_ATK = 2025
 | max_DEF = 0
@@ -20,7 +20,7 @@
 | image = MP Gain Up
 | effect_name = 誰も知らない、私たちの記録
 | effect_name_JP = 誰も知らない、私たちの記録
-| effect1 = MP Gain Up [IV / 12.5%] & Damage Cut [III / 15%] & Regenerate HP [III / 4%]
+| effect1 = 
 | effect2 = MP Gain Up [IV / 12.5%] & Damage Cut [III / 15%] & Regenerate HP [III / 4%]
 | Cooldown = 
 | Cooldown2 = 

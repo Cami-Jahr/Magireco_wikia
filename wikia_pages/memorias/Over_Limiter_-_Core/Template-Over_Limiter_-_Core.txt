@@ -20,8 +20,8 @@
 | image = Defense Up
 | effect_name = Guard Up 
 | effect_name_JP = ガードアップ
-| effect1 = Defense Up [I / 7.5%] (Self / 1 Turn)
+| effect1 = 
 | effect2 = Defense Up [I / 7.5%] (Self / 1 Turn)
-| Cooldown = 6
+| Cooldown = 
 | Cooldown2 = 6
 }}

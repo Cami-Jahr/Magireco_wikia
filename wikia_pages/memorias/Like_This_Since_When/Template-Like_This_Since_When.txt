@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 819
-| min_ATK = 0
-| min_DEF = 819
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2048
 | max_ATK = 0
 | max_DEF = 2048
@@ -20,8 +20,8 @@
 | image = MP Gain Up
 | effect_name = ディリジェンス ライズ 
 | effect_name_JP = ディリジェンス・ライズ
-| effect1 = MP Gain Up [IV / 12.5%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns)
+| effect1 = 
 | effect2 = MP Gain Up [IV / 12.5%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns)
-| Cooldown = 6
+| Cooldown = 
 | Cooldown2 = 6
 }}

@@ -10,9 +10,9 @@
 | Illust = PAPA
 | Owner = 
 
-| min_HP = 736
-| min_ATK = 896
-| min_DEF = 0
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 1840
 | max_ATK = 2240
 | max_DEF = 0
@@ -20,7 +20,7 @@
 | image = Episode Experience Gain Increased
 | effect_name = エピソードBloom Adept 
 | effect_name_JP = エピソードブルーム・アデプト
-| effect1 = Episode Experience Gain Increased [III / 25%] & Attack Up [I / 5%] & Defense Up [I / 7.5%]
+| effect1 = 
 | effect2 = Episode Experience Gain Increased [III / 25%] & Attack Up [I / 5%] & Defense Up [I / 7.5%]
 | Cooldown = 
 | Cooldown2 = 

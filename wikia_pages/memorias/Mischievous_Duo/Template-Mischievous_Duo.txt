@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 853
-| min_ATK = 0
-| min_DEF = 773
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2132
 | max_ATK = 0
 | max_DEF = 1932
@@ -20,8 +20,8 @@
 | image = HP Restore
 | effect_name = HCure Heal 
 | effect_name_JP = Hキュアヒール
-| effect1 = HP Restore [I / 30%] (One) & Defense Up [IV / 30%] (Self / 3 Turns)
+| effect1 = 
 | effect2 = HP Restore [I / 30%] (One) & Defense Up [IV / 30%] (Self / 3 Turns)
-| Cooldown = 10
+| Cooldown = 
 | Cooldown2 = 10
 }}

@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 898
-| min_ATK = 0
-| min_DEF = 738
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2245
 | max_ATK = 0
 | max_DEF = 1845
@@ -20,8 +20,8 @@
 | image = MP Gain Down
 | effect_name = Morale ブレイク 
 | effect_name_JP = モラール・ブレイク
-| effect1 = MP Gain Down [VII / 40%] (One / 3 Turns)
+| effect1 = 
 | effect2 = MP Gain Down [VII / 40%] (One / 3 Turns)
-| Cooldown = 9
+| Cooldown = 
 | Cooldown2 = 9
 }}

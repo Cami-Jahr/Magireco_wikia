@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 584
-| min_ATK = 0
-| min_DEF = 644
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 1460
 | max_ATK = 0
 | max_DEF = 1610
@@ -20,8 +20,8 @@
 | image = Attack Down
 | effect_name = Cower Attack 
 | effect_name_JP = クウェル・アタック
-| effect1 = Attack Down [VII / 35%] (All / 1 Turn)
+| effect1 = 
 | effect2 = Attack Down [VII / 35%] (All / 1 Turn)
-| Cooldown = 6
+| Cooldown = 
 | Cooldown2 = 6
 }}

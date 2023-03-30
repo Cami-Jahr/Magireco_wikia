@@ -20,7 +20,7 @@
 | image = Defense Up
 | effect_name = Guard Adept 
 | effect_name_JP = ガード・アデプト
-| effect1 = Defense Up [I / 7.5%]
+| effect1 = 
 | effect2 = Defense Up [I / 7.5%]
 | Cooldown = 
 | Cooldown2 = 

@@ -10,9 +10,9 @@
 | Illust = 谷口淳一郎
 | Owner = Mitsuki Felicia
 
-| min_HP = 720
-| min_ATK = 880
-| min_DEF = 0
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 1800
 | max_ATK = 2200
 | max_DEF = 0
@@ -20,7 +20,7 @@
 | image = Chance to Skill Seal on Attack
 | effect_name = なんだってしてやるよ
 | effect_name_JP = なんだってしてやるよ
-| effect1 = Chance to Skill Seal on Attack [VI / 35%] (1 Turn) & Attack Up [III / 15%] & Charged Attack Damage Up [III / 10%]
+| effect1 = 
 | effect2 = Chance to Skill Seal on Attack [VI / 35%] (1 Turn) & Attack Up [III / 15%] & Charged Attack Damage Up [III / 10%]
 | Cooldown = 
 | Cooldown2 = 

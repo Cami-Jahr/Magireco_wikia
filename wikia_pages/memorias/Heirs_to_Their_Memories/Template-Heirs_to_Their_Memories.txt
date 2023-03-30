@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 856
-| min_ATK = 0
-| min_DEF = 776
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2140
 | max_ATK = 0
 | max_DEF = 1940
@@ -20,8 +20,8 @@
 | image = Regenerate HP
 | effect_name = Regeneration Skill Quicken
 | effect_name_JP = リジェネレイト・スキルクイック
-| effect1 = Regenerate HP [XV / 16%] (Self / 1 Turn) & Chance to Skill Quicken [XV / 100%] (Self / 1 Turn)
+| effect1 = 
 | effect2 = Regenerate HP [XV / 16%] (Self / 1 Turn) & Chance to Skill Quicken [XV / 100%] (Self / 1 Turn)
-| Cooldown = 6
+| Cooldown = 
 | Cooldown2 = 6
 }}

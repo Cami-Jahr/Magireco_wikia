@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 736
-| min_ATK = 0
-| min_DEF = 896
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 1840
 | max_ATK = 0
 | max_DEF = 2240
@@ -20,8 +20,8 @@
 | image = Attack Up
 | effect_name = スペランツァ Force 
 | effect_name_JP = スペランツァ・フォース
-| effect1 = Attack Up [III / 15%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns) & Chance to Critical Hit [III / 20%] (Self / 3 Turns)
+| effect1 = 
 | effect2 = Attack Up [III / 15%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns) & Chance to Critical Hit [III / 20%] (Self / 3 Turns)
-| Cooldown = 10
+| Cooldown = 
 | Cooldown2 = 10
 }}

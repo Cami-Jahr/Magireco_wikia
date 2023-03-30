@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 896
-| min_ATK = 0
-| min_DEF = 736
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2240
 | max_ATK = 0
 | max_DEF = 1840
@@ -20,8 +20,8 @@
 | image = Accele MP Gain Up
 | effect_name = グラムイミュニティライズ 
 | effect_name_JP = グラムイミュニティライズ
-| effect1 = Accele MP Gain Up [IV / 17.5%] (Self / 3 Turns) & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns)
+| effect1 = 
 | effect2 = Accele MP Gain Up [IV / 17.5%] (Self / 3 Turns) & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns)
-| Cooldown = 8
+| Cooldown = 
 | Cooldown2 = 8
 }}

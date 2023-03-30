@@ -10,9 +10,9 @@
 | Illust = PAPA
 | Owner = 
 
-| min_HP = 776
-| min_ATK = 0
-| min_DEF = 856
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 1940
 | max_ATK = 0
 | max_DEF = 2140
@@ -20,8 +20,8 @@
 | image = Damage Increase
 | effect_name = 【緊急配信】星４出します
 | effect_name_JP = 【緊急配信】星４出します
-| effect1 = Damage Increase [V / 25%] (Self / 1 Turn) & Attack Up [V / 25%] (Self / 1 Turn) & Chance to Burn [V / 100%] (Self / 1 Turn)
+| effect1 = 
 | effect2 = Damage Increase [V / 25%] (Self / 1 Turn) & Attack Up [V / 25%] (Self / 1 Turn) & Chance to Burn [V / 100%] (Self / 1 Turn)
-| Cooldown = 8
+| Cooldown = 
 | Cooldown2 = 8
 }}

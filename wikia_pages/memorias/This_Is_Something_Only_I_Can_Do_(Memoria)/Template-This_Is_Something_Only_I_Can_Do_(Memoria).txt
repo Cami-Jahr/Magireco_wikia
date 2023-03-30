@@ -10,9 +10,9 @@
 | Illust = 谷口淳一郎
 | Owner = Alina Gray; Holy Mami; Holy Mami (Anime ver.)
 
-| min_HP = 970
-| min_ATK = 0
-| min_DEF = 810
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2425
 | max_ATK = 0
 | max_DEF = 2025
@@ -20,8 +20,8 @@
 | image = Chance to Poison
 | effect_name = 私にしかできないことです
 | effect_name_JP = 私にしかできないことです
-| effect1 = Chance to Poison [V / 100%] (One / 1 Turn) & Chance to Curse [V / 100%] (One / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [V / 35%] (Self / 1 Turn)
+| effect1 = 
 | effect2 = Chance to Poison [V / 100%] (One / 1 Turn) & Chance to Curse [V / 100%] (One / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [V / 35%] (Self / 1 Turn)
-| Cooldown = 5
+| Cooldown = 
 | Cooldown2 = 5
 }}

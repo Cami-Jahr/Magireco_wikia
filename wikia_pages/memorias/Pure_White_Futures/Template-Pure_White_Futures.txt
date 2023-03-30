@@ -10,9 +10,9 @@
 | Illust = 蒼樹うめ
 | Owner = Tamaki Iroha; Tamaki Ui
 
-| min_HP = 400
-| min_ATK = 0
-| min_DEF = 400
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 1000
 | max_ATK = 0
 | max_DEF = 1000
@@ -20,8 +20,8 @@
 | image = MP Restore
 | effect_name = まっしろな未来 
 | effect_name_JP = まっしろな未来
-| effect1 = MP Restore [II / 18%]
+| effect1 = 
 | effect2 = MP Restore [II / 18%]
-| Cooldown = 5
+| Cooldown = 
 | Cooldown2 = 5
 }}

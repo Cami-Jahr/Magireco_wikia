@@ -10,9 +10,9 @@
 | Illust = 蒼樹うめ
 | Owner = 
 
-| min_HP = 922
-| min_ATK = 0
-| min_DEF = 762
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2305
 | max_ATK = 0
 | max_DEF = 1905
@@ -20,8 +20,8 @@
 | image = Remove Status Ailments
 | effect_name = Regeneration Refresh
 | effect_name_JP = リジェネレイト・リフレッシュ
-| effect1 = Remove Status Ailments [%] (All) & Regenerate HP [II / 3%] (All / 3 Turns)
+| effect1 = 
 | effect2 = Remove Status Ailments [%] (All) & Regenerate HP [II / 3%] (All / 3 Turns)
-| Cooldown = 12
+| Cooldown = 
 | Cooldown2 = 12
 }}

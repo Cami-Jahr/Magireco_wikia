@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 816
-| min_ATK = 0
-| min_DEF = 816
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2040
 | max_ATK = 0
 | max_DEF = 2040
@@ -20,8 +20,8 @@
 | image = Remove Debuffs
 | effect_name = カウンタラクト
 | effect_name_JP = カウンタラクト
-| effect1 = Remove Debuffs [%]
+| effect1 = 
 | effect2 = Remove Debuffs [%]
-| Cooldown = 9
+| Cooldown = 
 | Cooldown2 = 9
 }}

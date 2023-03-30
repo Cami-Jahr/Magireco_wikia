@@ -10,9 +10,9 @@
 | Illust = 茨乃
 | Owner = 
 
-| min_HP = 680
-| min_ATK = 0
-| min_DEF = 560
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 1700
 | max_ATK = 0
 | max_DEF = 1400
@@ -20,8 +20,8 @@
 | image = Attack Down
 | effect_name = アサルトブレイク 
 | effect_name_JP = アサルトブレイク
-| effect1 = Attack Down [II / 10%] (One / 3 Turns) & Damage Down [II / 10%] (One / 3 Turns)
+| effect1 = 
 | effect2 = Attack Down [II / 10%] (One / 3 Turns) & Damage Down [II / 10%] (One / 3 Turns)
-| Cooldown = 10
+| Cooldown = 
 | Cooldown2 = 10
 }}

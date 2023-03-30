@@ -10,9 +10,9 @@
 | Illust = シャフト
 | Owner = 
 
-| min_HP = 1200
-| min_ATK = 0
-| min_DEF = 600
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 3000
 | max_ATK = 0
 | max_DEF = 1500
@@ -20,8 +20,8 @@
 | image = Attack Up
 | effect_name = Bloomライズ 
 | effect_name_JP = ブルームライズ
-| effect1 = Attack Up [VI / 30%] (Self / 3 Turns) & Defense Up [V / 37.5%] (Self / 3 Turns)
+| effect1 = 
 | effect2 = Attack Up [VI / 30%] (Self / 3 Turns) & Defense Up [V / 37.5%] (Self / 3 Turns)
-| Cooldown = 8
+| Cooldown = 
 | Cooldown2 = 8
 }}

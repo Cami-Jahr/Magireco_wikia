@@ -10,9 +10,9 @@
 | Illust = PAPA
 | Owner = 
 
-| min_HP = 814
-| min_ATK = 0
-| min_DEF = 814
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2035
 | max_ATK = 0
 | max_DEF = 2035
@@ -20,8 +20,8 @@
 | image = Attack Up
 | effect_name = Smiteライズ 
 | effect_name_JP = スマイトライズ
-| effect1 = Attack Up [IV / 20%] (Self / 3 Turns) & Charged Attack Damage Up [IV / 12.5%] (Self / 3 Turns)
+| effect1 = 
 | effect2 = Attack Up [IV / 20%] (Self / 3 Turns) & Charged Attack Damage Up [IV / 12.5%] (Self / 3 Turns)
-| Cooldown = 8
+| Cooldown = 
 | Cooldown2 = 8
 }}

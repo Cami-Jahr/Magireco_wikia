@@ -20,7 +20,7 @@
 | image = Attack Up
 | effect_name = Attack Adept 
 | effect_name_JP = アタック・アデプト
-| effect1 = Attack Up [I / 5%]
+| effect1 = 
 | effect2 = Attack Up [I / 5%]
 | Cooldown = 
 | Cooldown2 = 

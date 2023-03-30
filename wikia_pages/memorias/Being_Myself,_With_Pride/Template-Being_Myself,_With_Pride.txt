@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 815
-| min_ATK = 815
-| min_DEF = 0
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2038
 | max_ATK = 2038
 | max_DEF = 0
@@ -20,7 +20,7 @@
 | image = Attack Up While At Max Health
 | effect_name = Full Gaugeバーサクドライブ 
 | effect_name_JP = フルゲージバーサクドライブ
-| effect1 = Attack Up While At Max Health [V / 25%] & Blast Damage Up [III / 25%] & Defense Down [III / 15%]
+| effect1 = 
 | effect2 = Attack Up While At Max Health [V / 25%] & Blast Damage Up [III / 25%] & Defense Down [III / 15%]
 | Cooldown = 
 | Cooldown2 = 

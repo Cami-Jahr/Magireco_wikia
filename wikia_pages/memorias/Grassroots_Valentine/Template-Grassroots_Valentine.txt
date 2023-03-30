@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 584
-| min_ATK = 0
-| min_DEF = 644
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 1460
 | max_ATK = 0
 | max_DEF = 1610
@@ -20,8 +20,8 @@
 | image = Blast Damage Up
 | effect_name = Full Burst 
 | effect_name_JP = フルバースト
-| effect1 = Blast Damage Up [III / 25%] (Self / 1 Turn) & Accele MP Gain Up [III / 15%] (Self / 1 Turn)
+| effect1 = 
 | effect2 = Blast Damage Up [III / 25%] (Self / 1 Turn) & Accele MP Gain Up [III / 15%] (Self / 1 Turn)
-| Cooldown = 4
+| Cooldown = 
 | Cooldown2 = 4
 }}

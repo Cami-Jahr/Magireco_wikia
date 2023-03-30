@@ -10,9 +10,9 @@
 | Illust = 蒼樹うめ
 | Owner = 
 
-| min_HP = 762
-| min_ATK = 922
-| min_DEF = 0
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 1905
 | max_ATK = 2305
 | max_DEF = 0
@@ -20,7 +20,7 @@
 | image = Chance to Skill Seal on Attack
 | effect_name = Jammer Adept 
 | effect_name_JP = ジャマー・アデプト
-| effect1 = Chance to Skill Seal on Attack [V / 30%] (1 Turn) & Attack Up [V / 25%]
+| effect1 = 
 | effect2 = Chance to Skill Seal on Attack [V / 30%] (1 Turn) & Attack Up [V / 25%]
 | Cooldown = 
 | Cooldown2 = 

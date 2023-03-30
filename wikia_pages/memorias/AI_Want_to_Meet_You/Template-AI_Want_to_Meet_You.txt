@@ -10,9 +10,9 @@
 | Illust = None Listed
 | Owner = 
 
-| min_HP = 809
-| min_ATK = 809
-| min_DEF = 0
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
 | max_HP = 2022
 | max_ATK = 2022
 | max_DEF = 0
@@ -20,7 +20,7 @@
 | image = Damage Cut
 | effect_name = HShield Adept 
 | effect_name_JP = Hシールド・アデプト
-| effect1 = Damage Cut [III / 15%] & Defense Up [II / 15%]
+| effect1 = 
 | effect2 = Damage Cut [III / 15%] & Defense Up [II / 15%]
 | Cooldown = 
 | Cooldown2 = 
