@@ -105,10 +105,10 @@
 | Passive 7 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 7 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 8 icon = Chance to Anti-Debuff
+| Passive 8 icon = Anti-Debuff
 | Passive 8 name = Anti-Debuff
 | Passive 8 name JP = アンチ・デバフ
-| Passive 8 effect = Chance to Anti-Debuff [100%] (Self / ∞ Turns)
+| Passive 8 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
 
 | Passive 9 icon = Chance to Skill Quicken
 | Passive 9 name = Skill Quicken [III]
@@ -148,9 +148,9 @@
 | Connect effect 1 = Attack Up
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
-| Connect effect 2 = Chance to Anti-Debuff
-| Connect 2 / 1 = 100%
-| Connect 2 / 2 = 100%
+| Connect effect 2 = Anti-Debuff
+| Connect 2 / 1 = 1 Debuff
+| Connect 2 / 2 = 1 Debuff
 | Connect effect 3 = Chance to Evade
 | Connect 3 / 1 = VII / 100%
 | Connect 3 / 2 = IX / 100%

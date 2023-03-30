@@ -135,10 +135,10 @@
 | Passive 13 name JP = ブラストシールド[Ⅲ]
 | Passive 13 effect = Blast Damage Cut [III / 15%]
 
-| Active 1 icon = Chance to Anti-Debuff
+| Active 1 icon = Anti-Debuff
 | Active 1 name = Anti-Debuff [III]
 | Active 1 name JP = アンチデバフ[Ⅲ]
-| Active 1 effect = Chance to Anti-Debuff [100%] (Self / 3 Turns)
+| Active 1 effect = Anti-Debuff [3 Debuffs] (Self / 3 Turns)
 | Active 1 cooldown = 6
 
 | Connect name JP = 私が必要なら、いくらでも

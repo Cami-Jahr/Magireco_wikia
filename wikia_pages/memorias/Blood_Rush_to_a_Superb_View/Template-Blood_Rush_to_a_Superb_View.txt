@@ -17,11 +17,11 @@
 | max_ATK = 0
 | max_DEF = 2092
 
-| image = Chance to Anti-Debuff
+| image = Anti-Debuff
 | effect_name = Ignore Debuffs 
 | effect_name_JP = イグノアデバフ
-| effect1 = Chance to Anti-Debuff [100%] (Self / 3 Turns)
-| effect2 = Chance to Anti-Debuff [100%] (Self / 3 Turns)
+| effect1 = Anti-Debuff [3 Debuffs] (Self / 3 Turns)
+| effect2 = Anti-Debuff [3 Debuffs] (Self / 3 Turns)
 | Cooldown = 8
 | Cooldown2 = 7
 }}

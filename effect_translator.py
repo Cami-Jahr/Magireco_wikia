@@ -125,7 +125,7 @@ ignore = {
     "BAN_SKILL": ("Chance to Anti-Skill Seal", True, False),
     "BAN_MAGIA": ("Chance to Anti-Magia Seal", True, False),
     "AVOID": ("Chance to Anti-Evade", True, False),
-    "DEBUFF": ("Chance to Anti-Debuff", False, False),
+    "DEBUFF": ("Anti-Debuff", False, False),
     "COUNTER": ("Chance to Anti-Counter", True, False),
     "DAMAGE_DOWN": ("Ignore Damage Cut", True, False),
     "POISON": ("Chance to Anti-Poison", True, False),
@@ -444,7 +444,12 @@ def translate(shortDescription, arts):
     effects = {}
     icon = ""
     idx = 0
+
+    art_ids = []
     for art in arts:
+        art_id = art["artId"]
+        art_ids.append(art_id)
+
         if "effectCode" in art:
             effect_code = art["effectCode"]
         else:
@@ -515,6 +520,10 @@ def translate(shortDescription, arts):
                 text = "Strengthened Counter"
             if effect_code in ("BARRIER",):
                 effect = effect.replace("%", "0 damage")
+
+            if effect_code in ("DEBUFF", ) and verb_code in ("IGNORE", ):
+                nr = art_ids.count(art_id)
+                effect = f"{nr} Debuff{'s' if nr > 1 else ''}"
 
             try:
                 target = target_tl[art["targetId"]]

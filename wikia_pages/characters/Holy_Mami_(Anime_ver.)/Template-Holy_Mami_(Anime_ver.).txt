@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 869%] & Forest Attribute Attack Up [IX / 35% / Self / 5 Turns] & Magia Damage Up [IX / 35% / Self / 5 Turns] & Chance to Anti-Debuff [100% / Self / 5 Turns] & Regenerate MP [IX / 64 MP / Self / 1 Turn] & Remove Debuffs [%]
+| Doppel effect = Damage All Enemies [IX / 869%] & Forest Attribute Attack Up [IX / 35% / Self / 5 Turns] & Magia Damage Up [IX / 35% / Self / 5 Turns] & Anti-Debuff [3 Debuffs / Self / 5 Turns] & Regenerate MP [IX / 64 MP / Self / 1 Turn] & Remove Debuffs [%]
 }}

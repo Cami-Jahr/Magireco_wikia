@@ -110,20 +110,20 @@
 | Passive 8 name JP = シールド・アデプト[Ⅱ]
 | Passive 8 effect = Damage Cut [II / 10%]
 
-| Passive 9 icon = Chance to Anti-Debuff
+| Passive 9 icon = Anti-Debuff
 | Passive 9 name = Anti-Debuff
 | Passive 9 name JP = アンチ・デバフ
-| Passive 9 effect = Chance to Anti-Debuff [100%] (Self / ∞ Turns)
+| Passive 9 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
 
 | Passive 10 icon = Blast Damage Up
 | Passive 10 name = Blast Adept [III]
 | Passive 10 name JP = ブラスト・アデプト[Ⅲ]
 | Passive 10 effect = Blast Damage Up [III / 20%]
 
-| Passive 11 icon = Chance to Anti-Debuff
+| Passive 11 icon = Anti-Debuff
 | Passive 11 name = Anti-Debuff
 | Passive 11 name JP = アンチ・デバフ
-| Passive 11 effect = Chance to Anti-Debuff [100%] (Self / ∞ Turns)
+| Passive 11 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
 
 | Passive 12 icon = MP Gain Up When Over 100 MP
 | Passive 12 name = MP Boost [II]

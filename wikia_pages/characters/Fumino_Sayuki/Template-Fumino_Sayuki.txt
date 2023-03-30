@@ -135,10 +135,10 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Anti-Debuff
+| Active 1 icon = Anti-Debuff
 | Active 1 name = Cheer Up Tune [II]
 | Active 1 name JP = チアアップ・チューン[Ⅱ]
-| Active 1 effect = Chance to Anti-Debuff [100%] (All / 1 Turn) & Remove Debuffs [%]
+| Active 1 effect = Anti-Debuff [2 Debuffs] (All / 1 Turn) & Remove Debuffs [%]
 | Active 1 cooldown = 8
 
 | Connect name JP = いざ、討ち入りじゃ！

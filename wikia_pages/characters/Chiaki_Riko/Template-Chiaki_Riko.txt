@@ -143,7 +143,7 @@
 | Active 1 icon = Charged Attack Damage Up
 | Active 1 name = Chargeライズ バリア [V]
 | Active 1 name JP = チャージライズ・バリア[Ⅴ]
-| Active 1 effect = Charged Attack Damage Up [V / 15%] (All / 1 Turn) & Chance to Anti-Debuff [100%] (All / 1 Turn)
+| Active 1 effect = Charged Attack Damage Up [V / 15%] (All / 1 Turn) & Anti-Debuff [1 Debuff] (All / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = こんな風にするの！

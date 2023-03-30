@@ -175,10 +175,10 @@
 | Magia scaling 4 = 1%
 | Magia 4 / 1 = All / 3 Turns / V / 6%
 | Magia 4 / 2 = All / 3 Turns / VII / 8%
-| Magia effect 5 = Chance to Anti-Debuff
+| Magia effect 5 = Anti-Debuff
 | Magia scaling 5 = 0%
-| Magia 5 / 1 = All / 3 Turns / 100%
-| Magia 5 / 2 = All / 3 Turns / 100%
+| Magia 5 / 1 = All / 3 Turns / 1 Debuff
+| Magia 5 / 2 = All / 3 Turns / 1 Debuff
 
 | Doppel Name = 
 | Doppel Title = 
@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、救済
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Charge Conservation [IX / 100% / All / 2 Turns] & Aqua Attribute Attack Up [IX / 35% / All / 5 Turns] & Regenerate HP [IX / 14% / All / 3 Turns] & Chance to Anti-Debuff [100% / All / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Charge Conservation [IX / 100% / All / 2 Turns] & Aqua Attribute Attack Up [IX / 35% / All / 5 Turns] & Regenerate HP [IX / 14% / All / 3 Turns] & Anti-Debuff [2 Debuffs / All / 3 Turns]
 }}

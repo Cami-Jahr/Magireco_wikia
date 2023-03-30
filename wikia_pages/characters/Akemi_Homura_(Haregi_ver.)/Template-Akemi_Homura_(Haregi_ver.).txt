@@ -95,10 +95,10 @@
 | Passive 5 name JP = MPブースト[Ⅱ]
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Chance to Anti-Debuff
+| Passive 6 icon = Anti-Debuff
 | Passive 6 name = Anti-Debuff
 | Passive 6 name JP = アンチ・デバフ
-| Passive 6 effect = Chance to Anti-Debuff [100%] (Self / ∞ Turns)
+| Passive 6 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
 
 | Passive 7 icon = Negate Status Ailments
 | Passive 7 name = ResistShield

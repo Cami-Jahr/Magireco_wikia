@@ -90,10 +90,10 @@
 | Passive 4 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = Chance to Anti-Debuff
+| Passive 5 icon = Anti-Debuff
 | Passive 5 name = Anti-Debuff
 | Passive 5 name JP = アンチ・デバフ
-| Passive 5 effect = Chance to Anti-Debuff [100%] (Self / ∞ Turns)
+| Passive 5 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
 
 | Passive 6 icon = Chance to Evade
 | Passive 6 name = Parry Adept [II]
@@ -110,10 +110,10 @@
 | Passive 8 name JP = ブラストサルテーション[Ⅴ]
 | Passive 8 effect = Blast MP Gain Up [V / 5%]
 
-| Passive 9 icon = Chance to Anti-Debuff
+| Passive 9 icon = Anti-Debuff
 | Passive 9 name = Anti-Debuff
 | Passive 9 name JP = アンチ・デバフ
-| Passive 9 effect = Chance to Anti-Debuff [100%] (Self / ∞ Turns)
+| Passive 9 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
 
 | Passive 10 icon = Chance to Critical Hit
 | Passive 10 name = Critical Adept [II]

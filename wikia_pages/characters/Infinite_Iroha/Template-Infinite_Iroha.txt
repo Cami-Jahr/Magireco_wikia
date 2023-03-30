@@ -167,10 +167,10 @@
 | Magia scaling 2 = 1%
 | Magia 2 / 1 = 45%
 | Magia 2 / 2 = 50%
-| Magia effect 3 = Chance to Anti-Debuff
+| Magia effect 3 = Anti-Debuff
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / 3 Turns / 100%
-| Magia 3 / 2 = All / 3 Turns / 100%
+| Magia 3 / 1 = All / 3 Turns / 1 Debuff
+| Magia 3 / 2 = All / 3 Turns / 1 Debuff
 | Magia effect 4 = Negate Status Ailments
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = All / 3 Turns / V / 100%
@@ -190,5 +190,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、感情
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 869%] & Revive one Ally [100%] & Chance to Anti-Debuff [100% / All / 5 Turns] & Negate Status Ailments [IX / 100% / All / 5 Turns] & Regenerate HP [IX / 14% / All / 5 Turns] & Remove Status Ailments [% / All] & Imitate Attribute [IX / 100% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 869%] & Revive one Ally [100%] & Anti-Debuff [2 Debuffs / All / 5 Turns] & Negate Status Ailments [IX / 100% / All / 5 Turns] & Regenerate HP [IX / 14% / All / 5 Turns] & Remove Status Ailments [% / All] & Imitate Attribute [IX / 100% / Self / 3 Turns]
 }}

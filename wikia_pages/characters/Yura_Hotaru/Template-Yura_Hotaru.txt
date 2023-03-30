@@ -115,10 +115,10 @@
 | Passive 9 name JP = ガード・アデプト[Ⅱ]
 | Passive 9 effect = Defense Up [II / 15%]
 
-| Passive 10 icon = Chance to Anti-Debuff
+| Passive 10 icon = Anti-Debuff
 | Passive 10 name = Anti-Debuff
 | Passive 10 name JP = アンチ・デバフ
-| Passive 10 effect = Chance to Anti-Debuff [100%] (Self / ∞ Turns)
+| Passive 10 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
 
 | Passive 11 icon = Doppel Damage Up
 | Passive 11 name = Doppel Adept [I]

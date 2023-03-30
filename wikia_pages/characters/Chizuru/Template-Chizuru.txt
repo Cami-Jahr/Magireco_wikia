@@ -110,10 +110,10 @@
 | Passive 8 name JP = バーン・エッジ[Ⅳ]
 | Passive 8 effect = Chance to Burn on Attack [IV / 25%] (2 Turns)
 
-| Passive 9 icon = Chance to Anti-Debuff
+| Passive 9 icon = Anti-Debuff
 | Passive 9 name = Anti-Debuff
 | Passive 9 name JP = アンチ・デバフ
-| Passive 9 effect = Chance to Anti-Debuff [100%] (Self / ∞ Turns)
+| Passive 9 effect = Anti-Debuff [2 Debuffs] (Self / ∞ Turns)
 
 | Passive 10 icon = Blast MP Gain Up
 | Passive 10 name = Blast Salutation [VI]
