@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Episode Experience Gain Increased
-| effect_name = エピソードウェポンAdept 
+| effect_name = EpisodeWeaponAdept 
 | effect_name_JP = エピソードウェポンアデプト
 | effect1 = 
 | effect2 = Episode Experience Gain Increased [IV / 30%] & Damage Increase [III / 15%]

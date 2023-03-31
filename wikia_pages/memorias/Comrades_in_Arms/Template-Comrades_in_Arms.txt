@@ -20,8 +20,8 @@
 | image = Defense Up
 | effect_name = Guard Rise Circle 
 | effect_name_JP = ガードライズ・サークル
-| effect1 = Defense Up [II / 26.3%] (All / 3 Turns)
-| effect2 = Defense Up [III / 30%] (All / 3 Turns)
+| effect1 = Defense Up [II / 26.3%] (Allies / 3 Turns)
+| effect2 = Defense Up [III / 30%] (Allies / 3 Turns)
 | Cooldown = 12
 | Cooldown2 = 10
 }}

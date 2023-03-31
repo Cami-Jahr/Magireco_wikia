@@ -20,8 +20,8 @@
 | image = MP Gain Down
 | effect_name = サプレス Morale 
 | effect_name_JP = サプレス・モラール
-| effect1 = MP Gain Down [III / 20%] (All / 3 Turns)
-| effect2 = MP Gain Down [IV / 25%] (All / 3 Turns)
+| effect1 = MP Gain Down [III / 20%] (All Enemies / 3 Turns)
+| effect2 = MP Gain Down [IV / 25%] (All Enemies / 3 Turns)
 | Cooldown = 8
 | Cooldown2 = 7
 }}

@@ -20,8 +20,8 @@
 | image = Defense Down
 | effect_name = スナイピングMagia 
 | effect_name_JP = スナイピングマギア
-| effect1 = Defense Down [III / 15%] (All / 1 Turn) & Magia Damage Up [III / 10%] (All / 1 Turn)
-| effect2 = Defense Down [III / 15%] (All / 1 Turn) & Magia Damage Up [VI / 17.5%] (All / 1 Turn)
+| effect1 = Defense Down [III / 15%] (All Enemies / 1 Turn) & Magia Damage Up [III / 10%] (Allies / 1 Turn)
+| effect2 = Defense Down [III / 15%] (All Enemies / 1 Turn) & Magia Damage Up [VI / 17.5%] (Allies / 1 Turn)
 | Cooldown = 12
 | Cooldown2 = 10
 }}

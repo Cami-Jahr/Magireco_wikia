@@ -20,8 +20,8 @@
 | image = Attack Down
 | effect_name = コンバートドレイン 
 | effect_name_JP = コンバートドレイン
-| effect1 = Attack Down [XII / 60%] (One / 1 Turn) & Defense Up [VI / 45%] (Self / 1 Turn)
-| effect2 = Attack Down [XIII / 65%] (One / 1 Turn) & Defense Up [VII / 52.5%] (Self / 1 Turn)
+| effect1 = Attack Down [XII / 60%] (Target / 1 Turn) & Defense Up [VI / 45%] (Self / 1 Turn)
+| effect2 = Attack Down [XIII / 65%] (Target / 1 Turn) & Defense Up [VII / 52.5%] (Self / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

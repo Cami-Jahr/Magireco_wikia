@@ -20,8 +20,8 @@
 | image = Defense Down
 | effect_name = ファントム Stub 
 | effect_name_JP = ファントム・スタブ
-| effect1 = Defense Down [V / 10%] (All / 3 Turns) & Chance to Chase [III / 80%] (Self / 3 Turns)
-| effect2 = Defense Down [VII / 12.5%] (All / 3 Turns) & Chance to Chase [IV / 80%] (Self / 3 Turns)
+| effect1 = Defense Down [V / 10%] (All Enemies / 3 Turns) & Chance to Chase [III / 80%] (Self / 3 Turns)
+| effect2 = Defense Down [VII / 12.5%] (All Enemies / 3 Turns) & Chance to Chase [IV / 80%] (Self / 3 Turns)
 | Cooldown = 10
 | Cooldown2 = 8
 }}

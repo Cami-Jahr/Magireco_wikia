@@ -20,8 +20,8 @@
 | image = Defense Down
 | effect_name = Forceアウト Counter 
 | effect_name_JP = フォースアウト・カウンター
-| effect1 = Defense Down [VII / 35%] (One / 1 Turn) & Chance to Anti-Counter [VII / 100%] (Self / 1 Turn)
-| effect2 = Defense Down [VIII / 40%] (One / 1 Turn) & Chance to Anti-Counter [VIII / 100%] (Self / 1 Turn)
+| effect1 = Defense Down [VII / 35%] (Target / 1 Turn) & Chance to Anti-Counter [VII / 100%] (Self / 1 Turn)
+| effect2 = Defense Down [VIII / 40%] (Target / 1 Turn) & Chance to Anti-Counter [VIII / 100%] (Self / 1 Turn)
 | Cooldown = 5
 | Cooldown2 = 4
 }}

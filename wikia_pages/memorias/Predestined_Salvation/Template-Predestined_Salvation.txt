@@ -18,7 +18,7 @@
 | max_DEF = 1500
 
 | image = Attack Up
-| effect_name = Bloomライズ 
+| effect_name = Bloom Rise 
 | effect_name_JP = ブルームライズ
 | effect1 = 
 | effect2 = Attack Up [VI / 30%] (Self / 3 Turns) & Defense Up [V / 37.5%] (Self / 3 Turns)

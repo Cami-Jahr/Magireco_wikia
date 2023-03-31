@@ -21,7 +21,7 @@
 | effect_name = Cower Attack 
 | effect_name_JP = クウェル・アタック
 | effect1 = 
-| effect2 = Attack Down [VII / 35%] (All / 1 Turn)
+| effect2 = Attack Down [VII / 35%] (All Enemies / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 6
 }}

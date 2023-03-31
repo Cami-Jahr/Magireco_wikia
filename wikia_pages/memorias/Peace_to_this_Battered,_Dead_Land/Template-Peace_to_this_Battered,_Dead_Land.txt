@@ -20,8 +20,8 @@
 | image = Magia Damage Up
 | effect_name = Magia Up Circle 
 | effect_name_JP = マギアアップ・サークル
-| effect1 = Magia Damage Up [III / 10%] (All / 1 Turn)
-| effect2 = Magia Damage Up [IV / 12.5%] (All / 1 Turn)
+| effect1 = Magia Damage Up [III / 10%] (Allies / 1 Turn)
+| effect2 = Magia Damage Up [IV / 12.5%] (Allies / 1 Turn)
 | Cooldown = 12
 | Cooldown2 = 10
 }}

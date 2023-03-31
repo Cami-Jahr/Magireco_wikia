@@ -440,7 +440,7 @@ special = {
 }
 
 
-def translate(shortDescription: str, arts: list[dict]):
+def translate(shortDescription, arts):
     if shortDescription in special:
         return special[shortDescription]
 
@@ -470,7 +470,8 @@ def translate(shortDescription: str, arts: list[dict]):
                 text, uses_roman, no_states_target = sub[effect_code]
             except KeyError:
                 text, uses_roman, no_states_target = sub[art["targetId"]]
-            icon = text
+            if not icon:
+                icon = text
             val = 0
             if "effectValue" in art:
                 val = round(art["effectValue"] / 10, 1)

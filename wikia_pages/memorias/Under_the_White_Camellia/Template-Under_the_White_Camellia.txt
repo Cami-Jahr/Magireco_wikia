@@ -18,7 +18,7 @@
 | max_DEF = 2095
 
 | image = Damage Increase
-| effect_name = エンハンス ウェポン 
+| effect_name = エンハンス Weapon 
 | effect_name_JP = エンハンス・ウェポン
 | effect1 = Damage Increase [V / 25%] (Self / 3 Turns)
 | effect2 = Damage Increase [VI / 30%] (Self / 3 Turns)

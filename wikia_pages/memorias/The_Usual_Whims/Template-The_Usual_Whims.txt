@@ -20,8 +20,8 @@
 | image = Remove Buffs
 | effect_name = Remove Spell
 | effect_name_JP = リムーブスペル
-| effect1 = Remove Buffs [%] (One)
-| effect2 = Remove Buffs [%] (One)
+| effect1 = Remove Buffs [%] (Target)
+| effect2 = Remove Buffs [%] (Target)
 | Cooldown = 15
 | Cooldown2 = 13
 }}

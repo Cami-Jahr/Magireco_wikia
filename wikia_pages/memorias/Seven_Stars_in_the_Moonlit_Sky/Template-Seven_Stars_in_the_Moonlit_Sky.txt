@@ -20,8 +20,8 @@
 | image = Defense Down
 | effect_name = ウィークポイント 
 | effect_name_JP = ウィークポイント
-| effect1 = Defense Down [IX / 45%] (One / 1 Turn) & Status Ailment Resistance Down [VIII / 22.5%] (One / 1 Turn)
-| effect2 = Defense Down [X / 50%] (One / 1 Turn) & Status Ailment Resistance Down [IX / 25%] (One / 1 Turn)
+| effect1 = Defense Down [IX / 45%] (Target / 1 Turn) & Status Ailment Resistance Down [VIII / 22.5%] (Target / 1 Turn)
+| effect2 = Defense Down [X / 50%] (Target / 1 Turn) & Status Ailment Resistance Down [IX / 25%] (Target / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

@@ -20,8 +20,8 @@
 | image = Damage Down
 | effect_name = ウォークライ 
 | effect_name_JP = ウォークライ
-| effect1 = Damage Down [IX / 45%] (All / 1 Turn) & Status Ailment Resistance Up [VIII / 55%] (Self / 1 Turn)
-| effect2 = Damage Down [X / 50%] (All / 1 Turn) & Status Ailment Resistance Up [IX / 60%] (Self / 1 Turn)
+| effect1 = Damage Down [IX / 45%] (All Enemies / 1 Turn) & Status Ailment Resistance Up [VIII / 55%] (Self / 1 Turn)
+| effect2 = Damage Down [X / 50%] (All Enemies / 1 Turn) & Status Ailment Resistance Up [IX / 60%] (Self / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

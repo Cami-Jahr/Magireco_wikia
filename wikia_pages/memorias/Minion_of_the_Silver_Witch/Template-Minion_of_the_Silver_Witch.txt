@@ -20,8 +20,8 @@
 | image = Damage Down
 | effect_name = Slashダウン 
 | effect_name_JP = スラッシュダウン
-| effect1 = Damage Down [III / 15%] (One / 1 Turn)
-| effect2 = Damage Down [IV / 20%] (One / 1 Turn)
+| effect1 = Damage Down [III / 15%] (Target / 1 Turn)
+| effect2 = Damage Down [IV / 20%] (Target / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

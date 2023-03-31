@@ -20,8 +20,8 @@
 | image = Damage Down
 | effect_name = ロールコール 
 | effect_name_JP = ロールコール
-| effect1 = Damage Down [I / 15%] (All / 3 Turns) & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns)
-| effect2 = Damage Down [II / 17.5%] (All / 3 Turns) & Status Ailment Resistance Up [IV / 35%] (Self / 3 Turns)
+| effect1 = Damage Down [I / 15%] (All Enemies / 3 Turns) & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns)
+| effect2 = Damage Down [II / 17.5%] (All Enemies / 3 Turns) & Status Ailment Resistance Up [IV / 35%] (Self / 3 Turns)
 | Cooldown = 10
 | Cooldown2 = 9
 }}

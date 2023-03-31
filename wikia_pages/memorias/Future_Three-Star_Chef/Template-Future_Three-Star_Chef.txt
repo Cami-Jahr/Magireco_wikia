@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Increase
-| effect_name = ウェポン Adept 
+| effect_name = Weapon Adept 
 | effect_name_JP = ウェポン・アデプト
 | effect1 = Damage Increase [II / 10%]
 | effect2 = Damage Increase [III / 15%]

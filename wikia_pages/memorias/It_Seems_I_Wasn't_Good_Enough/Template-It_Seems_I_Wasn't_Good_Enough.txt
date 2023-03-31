@@ -20,8 +20,8 @@
 | image = Attack Down
 | effect_name = ディスアポイントメント 
 | effect_name_JP = ディスアポイントメント
-| effect1 = Attack Down [III / 15%] (All / 1 Turn) & MP Gain Down [III / 20%] (All / 1 Turn)
-| effect2 = Attack Down [IV / 20%] (All / 1 Turn) & MP Gain Down [IV / 25%] (All / 1 Turn)
+| effect1 = Attack Down [III / 15%] (All Enemies / 1 Turn) & MP Gain Down [III / 20%] (All Enemies / 1 Turn)
+| effect2 = Attack Down [IV / 20%] (All Enemies / 1 Turn) & MP Gain Down [IV / 25%] (All Enemies / 1 Turn)
 | Cooldown = 8
 | Cooldown2 = 7
 }}

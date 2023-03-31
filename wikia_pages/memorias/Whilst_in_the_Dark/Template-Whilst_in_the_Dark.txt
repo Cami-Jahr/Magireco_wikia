@@ -21,7 +21,7 @@
 | effect_name = Poison ゲイズ 
 | effect_name_JP = ポイズン・ゲイズ
 | effect1 = 
-| effect2 = Chance to Poison [IV / 100%] (One / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [IV / 30%] (Self / 1 Turn)
+| effect2 = Chance to Poison [IV / 100%] (Target / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [IV / 30%] (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 6
 }}

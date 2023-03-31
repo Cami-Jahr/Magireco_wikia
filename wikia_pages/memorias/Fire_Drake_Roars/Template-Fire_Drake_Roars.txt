@@ -20,8 +20,8 @@
 | image = Chance to Burn
 | effect_name = ドラゴンロア―
 | effect_name_JP = ドラゴンロア―
-| effect1 = Chance to Burn [XV / 65%] (One / 1 Turn) & Defense Down [VIII / 40%] (One / 1 Turn)
-| effect2 = Chance to Burn [IX / 100%] (One / 1 Turn) & Defense Down [IX / 45%] (One / 1 Turn)
+| effect1 = Chance to Burn [XV / 65%] (Target / 1 Turn) & Defense Down [VIII / 40%] (Target / 1 Turn)
+| effect2 = Chance to Burn [IX / 100%] (Target / 1 Turn) & Defense Down [IX / 45%] (Target / 1 Turn)
 | Cooldown = 5
 | Cooldown2 = 4
 }}

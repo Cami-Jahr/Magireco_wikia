@@ -21,7 +21,7 @@
 | effect_name = Resistライズ Circle 
 | effect_name_JP = レジストライズ・サークル
 | effect1 = 
-| effect2 = Status Ailment Resistance Up [II / 15%] (All / 3 Turns)
+| effect2 = Status Ailment Resistance Up [II / 15%] (Allies / 3 Turns)
 | Cooldown = 
 | Cooldown2 = 10
 }}

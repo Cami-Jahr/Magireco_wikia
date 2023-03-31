@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Episode Experience Gain Increased
-| effect_name = エピソード Adept 
+| effect_name = Episode Adept 
 | effect_name_JP = エピソード・アデプト
 | effect1 = 
 | effect2 = Episode Experience Gain Increased [II / 20%]

@@ -20,8 +20,8 @@
 | image = Attack Down
 | effect_name = サプレス Attack 
 | effect_name_JP = サプレス・アタック
-| effect1 = Attack Down [II / 17.5%] (All / 3 Turns)
-| effect2 = Attack Down [III / 20%] (All / 3 Turns)
+| effect1 = Attack Down [II / 17.5%] (All Enemies / 3 Turns)
+| effect2 = Attack Down [III / 20%] (All Enemies / 3 Turns)
 | Cooldown = 10
 | Cooldown2 = 9
 }}

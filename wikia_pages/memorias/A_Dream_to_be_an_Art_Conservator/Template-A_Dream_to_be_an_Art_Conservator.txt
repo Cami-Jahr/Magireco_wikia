@@ -20,8 +20,8 @@
 | image = Chance to Charm
 | effect_name = Charm
 | effect_name_JP = チャーム
-| effect1 = Chance to Charm [100%] (One / 1 Turn)
-| effect2 = Chance to Charm [100%] (One / 1 Turn)
+| effect1 = Chance to Charm [100%] (Target / 1 Turn)
+| effect2 = Chance to Charm [100%] (Target / 1 Turn)
 | Cooldown = 8
 | Cooldown2 = 7
 }}

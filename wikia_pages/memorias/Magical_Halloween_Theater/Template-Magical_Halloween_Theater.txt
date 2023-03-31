@@ -20,8 +20,8 @@
 | image = Chance to Curse
 | effect_name = Curseワード 
 | effect_name_JP = カースワード
-| effect1 = Chance to Curse [VIII / 100%] (One / 1 Turn) & Defense Down [VIII / 40%] (One / 1 Turn)
-| effect2 = Chance to Curse [IX / 100%] (One / 1 Turn) & Defense Down [IX / 45%] (One / 1 Turn)
+| effect1 = Chance to Curse [VIII / 100%] (Target / 1 Turn) & Defense Down [VIII / 40%] (Target / 1 Turn)
+| effect2 = Chance to Curse [IX / 100%] (Target / 1 Turn) & Defense Down [IX / 45%] (Target / 1 Turn)
 | Cooldown = 5
 | Cooldown2 = 4
 }}

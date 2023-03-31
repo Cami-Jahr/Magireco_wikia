@@ -20,8 +20,8 @@
 | image = Defense Down
 | effect_name = 響け終焉の笛 
 | effect_name_JP = 響け終焉の笛
-| effect1 = Defense Down [IV / 20%] (All / 1 Turn) & Magia Damage Up [VI / 17.5%] (Self / 1 Turn)
-| effect2 = Defense Down [V / 25%] (All / 1 Turn) & Magia Damage Up [VII / 20%] (Self / 1 Turn)
+| effect1 = Defense Down [IV / 20%] (All Enemies / 1 Turn) & Magia Damage Up [VI / 17.5%] (Self / 1 Turn)
+| effect2 = Defense Down [V / 25%] (All Enemies / 1 Turn) & Magia Damage Up [VII / 20%] (Self / 1 Turn)
 | Cooldown = 10
 | Cooldown2 = 8
 }}

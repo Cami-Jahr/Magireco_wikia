@@ -20,8 +20,8 @@
 | image = Blast Damage Down
 | effect_name = Blastブレイク 
 | effect_name_JP = ブラストブレイク
-| effect1 = Blast Damage Down [IX / 25%] (One / 3 Turns)
-| effect2 = Blast Damage Down [X / 27.5%] (One / 3 Turns)
+| effect1 = Blast Damage Down [IX / 25%] (Target / 3 Turns)
+| effect2 = Blast Damage Down [X / 27.5%] (Target / 3 Turns)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

@@ -20,8 +20,8 @@
 | image = Magia Damage Down
 | effect_name = Cower ディストラクション 
 | effect_name_JP = クウェル・ディストラクション
-| effect1 = Magia Damage Down [IX / 45%] (All / 1 Turn) & Attack Down [IV / 20%] (All / 1 Turn)
-| effect2 = Magia Damage Down [X / 50%] (All / 1 Turn) & Attack Down [V / 25%] (All / 1 Turn)
+| effect1 = Magia Damage Down [IX / 45%] (All Enemies / 1 Turn) & Attack Down [IV / 20%] (All Enemies / 1 Turn)
+| effect2 = Magia Damage Down [X / 50%] (All Enemies / 1 Turn) & Attack Down [V / 25%] (All Enemies / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

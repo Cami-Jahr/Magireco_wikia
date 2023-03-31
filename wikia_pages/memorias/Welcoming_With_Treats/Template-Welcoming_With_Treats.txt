@@ -20,8 +20,8 @@
 | image = Chance to Fog
 | effect_name = Fog 
 | effect_name_JP = フォッグ
-| effect1 = Chance to Fog [V / 40%] (All / 1 Turn)
-| effect2 = Chance to Fog [VI / 42.5%] (All / 1 Turn)
+| effect1 = Chance to Fog [V / 40%] (All Enemies / 1 Turn)
+| effect2 = Chance to Fog [VI / 42.5%] (All Enemies / 1 Turn)
 | Cooldown = 7
 | Cooldown2 = 6
 }}

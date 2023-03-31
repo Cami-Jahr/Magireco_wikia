@@ -21,7 +21,7 @@
 | effect_name = Regeneration Refresh
 | effect_name_JP = リジェネレイト・リフレッシュ
 | effect1 = 
-| effect2 = Remove Status Ailments [%] (All) & Regenerate HP [II / 3%] (All / 3 Turns)
+| effect2 = Remove Status Ailments [%] (Allies) & Regenerate HP [II / 3%] (Allies / 3 Turns)
 | Cooldown = 
 | Cooldown2 = 12
 }}

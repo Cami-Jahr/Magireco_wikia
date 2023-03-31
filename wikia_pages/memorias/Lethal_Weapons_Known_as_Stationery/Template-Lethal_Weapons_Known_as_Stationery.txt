@@ -18,7 +18,7 @@
 | max_DEF = 1280
 
 | image = Damage Increase
-| effect_name = エンチャントウェポン 
+| effect_name = エンチャントWeapon 
 | effect_name_JP = エンチャントウェポン
 | effect1 = Damage Increase [VII / 35%] (Self / 1 Turn)
 | effect2 = Damage Increase [VIII / 40%] (Self / 1 Turn)

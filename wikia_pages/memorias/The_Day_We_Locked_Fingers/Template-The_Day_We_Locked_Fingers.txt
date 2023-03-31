@@ -18,7 +18,7 @@
 | max_DEF = 1650
 
 | image = Damage Increase
-| effect_name = Invisible ウェポン 
+| effect_name = Invisible Weapon 
 | effect_name_JP = インビジブル・ウェポン
 | effect1 = Damage Increase [II / 10%] (Self / 1 Turn) & Chance to Anti-Evade [II / 100%] (Self / 1 Turn)
 | effect2 = Damage Increase [II / 10%] (Self / 1 Turn) & Chance to Anti-Evade [II / 100%] (Self / 1 Turn)

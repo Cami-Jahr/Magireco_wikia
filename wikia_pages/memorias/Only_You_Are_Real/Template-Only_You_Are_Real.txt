@@ -20,8 +20,8 @@
 | image = Status Ailment Resistance Down
 | effect_name = Cower Resist 
 | effect_name_JP = クウェル・レジスト
-| effect1 = Status Ailment Resistance Down [II / 7.5%] (All / 1 Turn)
-| effect2 = Status Ailment Resistance Down [IV / 12.5%] (All / 1 Turn)
+| effect1 = Status Ailment Resistance Down [II / 7.5%] (All Enemies / 1 Turn)
+| effect2 = Status Ailment Resistance Down [IV / 12.5%] (All Enemies / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

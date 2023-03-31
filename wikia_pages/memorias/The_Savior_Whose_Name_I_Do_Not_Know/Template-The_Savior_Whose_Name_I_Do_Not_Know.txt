@@ -20,8 +20,8 @@
 | image = MP Gain Up
 | effect_name = Morale Up Circle 
 | effect_name_JP = モラールアップ・サークル
-| effect1 = MP Gain Up [I / 5%] (All / 3 Turns)
-| effect2 = MP Gain Up [II / 7.5%] (All / 3 Turns)
+| effect1 = MP Gain Up [I / 5%] (Allies / 3 Turns)
+| effect2 = MP Gain Up [II / 7.5%] (Allies / 3 Turns)
 | Cooldown = 10
 | Cooldown2 = 9
 }}

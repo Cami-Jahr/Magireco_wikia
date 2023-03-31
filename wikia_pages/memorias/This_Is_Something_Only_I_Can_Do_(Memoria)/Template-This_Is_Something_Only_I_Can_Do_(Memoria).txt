@@ -21,7 +21,7 @@
 | effect_name = 私にしかできないことです
 | effect_name_JP = 私にしかできないことです
 | effect1 = 
-| effect2 = Chance to Poison [V / 100%] (One / 1 Turn) & Chance to Curse [V / 100%] (One / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [V / 35%] (Self / 1 Turn)
+| effect2 = Chance to Poison [V / 100%] (Target / 1 Turn) & Chance to Curse [V / 100%] (Target / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [V / 35%] (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 5
 }}

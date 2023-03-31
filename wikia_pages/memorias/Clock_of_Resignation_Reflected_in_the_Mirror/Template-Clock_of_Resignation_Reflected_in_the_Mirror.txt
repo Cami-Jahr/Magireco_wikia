@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Blast Damage Up
-| effect_name = インデュア Adept 
+| effect_name = Endure Adept 
 | effect_name_JP = インデュア・アデプト
 | effect1 = 
 | effect2 = Blast Damage Up [VI / 40%] & Status Ailment Resistance Up [III / 30%]

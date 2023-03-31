@@ -20,8 +20,8 @@
 | image = Status Ailment Resistance Down
 | effect_name = チル アンド ウォーム 
 | effect_name_JP = チル・アンド・ウォーム
-| effect1 = Status Ailment Resistance Down [VII / 12.5%] (All / 1 Turn) & Blast Damage Up [IV / 45%] (Self / 1 Turn)
-| effect2 = Status Ailment Resistance Down [VIII / 15%] (All / 1 Turn) & Blast Damage Up [V / 50%] (Self / 1 Turn)
+| effect1 = Status Ailment Resistance Down [VII / 12.5%] (All Enemies / 1 Turn) & Blast Damage Up [IV / 45%] (Self / 1 Turn)
+| effect2 = Status Ailment Resistance Down [VIII / 15%] (All Enemies / 1 Turn) & Blast Damage Up [V / 50%] (Self / 1 Turn)
 | Cooldown = 7
 | Cooldown2 = 6
 }}

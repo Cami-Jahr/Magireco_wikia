@@ -21,7 +21,7 @@
 | effect_name = ドレイン Slash 
 | effect_name_JP = ドレイン・スラッシュ
 | effect1 = 
-| effect2 = Damage Down [VII / 35%] (One / 3 Turns) & Defense Up [IV / 30%] (Self / 3 Turns)
+| effect2 = Damage Down [VII / 35%] (Target / 3 Turns) & Defense Up [IV / 30%] (Self / 3 Turns)
 | Cooldown = 
 | Cooldown2 = 9
 }}

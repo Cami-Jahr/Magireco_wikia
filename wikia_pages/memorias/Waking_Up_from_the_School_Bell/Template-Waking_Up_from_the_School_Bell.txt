@@ -20,8 +20,8 @@
 | image = Defense Down
 | effect_name = レイジー アウェイキング 
 | effect_name_JP = レイジー・アウェイキング
-| effect1 = Defense Down [VI / 30%] (All / 1 Turn) & Status Ailment Resistance Up [V / 40%] (Self / 1 Turn)
-| effect2 = Defense Down [VII / 35%] (All / 1 Turn) & Status Ailment Resistance Up [VI / 45%] (Self / 1 Turn)
+| effect1 = Defense Down [VI / 30%] (All Enemies / 1 Turn) & Status Ailment Resistance Up [V / 40%] (Self / 1 Turn)
+| effect2 = Defense Down [VII / 35%] (All Enemies / 1 Turn) & Status Ailment Resistance Up [VI / 45%] (Self / 1 Turn)
 | Cooldown = 8
 | Cooldown2 = 7
 }}

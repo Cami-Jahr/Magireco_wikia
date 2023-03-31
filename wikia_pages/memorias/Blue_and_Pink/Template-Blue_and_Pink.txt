@@ -20,8 +20,8 @@
 | image = HP Restore
 | effect_name = Cure Heal 
 | effect_name_JP = キュアヒール
-| effect1 = HP Restore [I / 30%] (One)
-| effect2 = HP Restore [I / 30%] (One)
+| effect1 = HP Restore [I / 30%] (One Ally)
+| effect2 = HP Restore [I / 30%] (One Ally)
 | Cooldown = 10
 | Cooldown2 = 8
 }}

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Increase
-| effect_name = ウェポンStrikeAdept 
+| effect_name = WeaponStrikeAdept 
 | effect_name_JP = ウェポンストライクアデプト
 | effect1 = Damage Increase [IV / 20%] & Chance to Critical Hit [IV / 25%]
 | effect2 = Damage Increase [V / 25%] & Chance to Critical Hit [IV / 25%]

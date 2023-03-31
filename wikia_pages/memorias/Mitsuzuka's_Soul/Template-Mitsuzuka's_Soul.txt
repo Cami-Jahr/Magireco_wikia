@@ -20,8 +20,8 @@
 | image = HP Restore
 | effect_name = Cure Heal Circle 
 | effect_name_JP = キュアヒール・サークル
-| effect1 = HP Restore [III / 17.5%] (All)
-| effect2 = HP Restore [V / 20%] (All)
+| effect1 = HP Restore [III / 17.5%] (Allies)
+| effect2 = HP Restore [V / 20%] (Allies)
 | Cooldown = 10
 | Cooldown2 = 8
 }}
