@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Charged Attack Damage Up
-| effect_name = フルスロットル Adept 
+| effect_name = Full Throttle Adept 
 | effect_name_JP = フルスロットル・アデプト
 | effect1 = Charged Attack Damage Up [II / 7.5%] & Accele MP Gain Up [I / 10%]
 | effect2 = Charged Attack Damage Up [III / 10%] & Accele MP Gain Up [I / 10%]

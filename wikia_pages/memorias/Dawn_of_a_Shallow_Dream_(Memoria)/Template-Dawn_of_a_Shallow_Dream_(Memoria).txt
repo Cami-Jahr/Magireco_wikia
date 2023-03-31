@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Up Versus Witches
-| effect_name = 浅き夢の暁
+| effect_name = Dawn of a Shallow Dream
 | effect_name_JP = 浅き夢の暁
 | effect1 = 
 | effect2 = Damage Up Versus Witches [VI / 30%] & Regenerate HP [III / 4%]

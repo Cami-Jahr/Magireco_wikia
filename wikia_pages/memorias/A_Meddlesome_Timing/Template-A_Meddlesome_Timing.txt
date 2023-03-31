@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Ignore Damage Cut
-| effect_name = ショーテル Adept 
+| effect_name = Show Tell Adept 
 | effect_name_JP = ショーテル・アデプト
 | effect1 = Ignore Damage Cut [V / 50%] & Charged Attack Damage Up [IV / 12.5%]
 | effect2 = Ignore Damage Cut [VII / 60%] & Charged Attack Damage Up [V / 15%]

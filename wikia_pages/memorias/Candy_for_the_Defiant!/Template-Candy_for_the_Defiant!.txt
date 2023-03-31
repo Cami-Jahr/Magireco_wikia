@@ -18,7 +18,7 @@
 | max_DEF = 2350
 
 | image = Chance to Curse
-| effect_name = エピデミック キラー 
+| effect_name = Epidemic Killer 
 | effect_name_JP = エピデミック・キラー
 | effect1 = Chance to Curse [VI / 100%] (Target / 1 Turn) & Chance to Poison [VI / 100%] (Target / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [VI / 40%] (Self / 1 Turn)
 | effect2 = Chance to Curse [VII / 100%] (Target / 1 Turn) & Chance to Poison [VII / 100%] (Target / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [VII / 45%] (Self / 1 Turn)

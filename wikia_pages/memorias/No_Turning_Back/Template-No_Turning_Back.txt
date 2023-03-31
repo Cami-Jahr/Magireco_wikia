@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Bind on Attack
-| effect_name = Bind Weapon 
+| effect_name = Astral Rise 
 | effect_name_JP = バインド・ウェポン
 | effect1 = Chance to Bind on Attack [II / 15%] (1 Turn) & Damage Increase [II / 10%]
 | effect2 = Chance to Bind on Attack [II / 15%] (1 Turn) & Damage Increase [III / 15%]

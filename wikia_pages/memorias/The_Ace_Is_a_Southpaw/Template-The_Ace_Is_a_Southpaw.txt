@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Critical Hit
-| effect_name = イネヴィタブル Adept 
+| effect_name = Inevitable Adept 
 | effect_name_JP = イネヴィタブル・アデプト
 | effect1 = Chance to Critical Hit [II / 15%] & Chance to Anti-Evade [VIII / 60%]
 | effect2 = Chance to Critical Hit [III / 20%] & Chance to Anti-Evade [XIII / 85%]

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Curse
-| effect_name = ヘブンリー Adept 
+| effect_name = Heavenly Adept 
 | effect_name_JP = ヘブンリー・アデプト
 | effect1 = 
 | effect2 = Chance to Anti-Curse [I / 100%] & Regenerate HP [I / 2%]

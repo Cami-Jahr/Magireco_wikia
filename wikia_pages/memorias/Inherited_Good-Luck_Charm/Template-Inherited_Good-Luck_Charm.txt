@@ -18,7 +18,7 @@
 | max_DEF = 1232
 
 | image = Flame Attribute Attack Up
-| effect_name = フレイム Up Circle 
+| effect_name = Flame Up Circle 
 | effect_name_JP = フレイムアップ・サークル
 | effect1 = Flame Attribute Attack Up [IV / 12.5%] (Allies / 1 Turn)
 | effect2 = Flame Attribute Attack Up [V / 15%] (Allies / 1 Turn)

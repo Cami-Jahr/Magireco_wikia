@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = 「おめでとう」の数だけ
+| effect_name = All the "Best Wishes"
 | effect_name_JP = 「おめでとう」の数だけ
 | effect1 = 
 | effect2 = Attack Up [IV / 20%] & Regenerate HP [IV / 5%]

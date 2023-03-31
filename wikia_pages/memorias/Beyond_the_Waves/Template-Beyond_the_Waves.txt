@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Cut
-| effect_name = HMoraleShield Adept 
+| effect_name = H Morale Shield Adept 
 | effect_name_JP = Hモラールシールド・アデプト
 | effect1 = Damage Cut [IV / 20%] & MP Gain Up [II / 7.5%] & Defense Up [II / 15%]
 | effect2 = Damage Cut [V / 25%] & MP Gain Up [III / 10%] & Defense Up [IV / 30%]

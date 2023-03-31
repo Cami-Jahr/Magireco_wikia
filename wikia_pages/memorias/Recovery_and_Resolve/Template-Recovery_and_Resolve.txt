@@ -18,7 +18,7 @@
 | max_DEF = 2102
 
 | image = Chance to Guardian
-| effect_name = ハード Covering
+| effect_name = Hard Covering
 | effect_name_JP = ハード・カバーリング
 | effect1 = Chance to Guardian [VIII / 100%] (1 Turn) & Defense Up [VIII / 60%] (Self / 1 Turn)
 | effect2 = Chance to Guardian [IX / 100%] (1 Turn) & Defense Up [IX / 67.5%] (Self / 1 Turn)

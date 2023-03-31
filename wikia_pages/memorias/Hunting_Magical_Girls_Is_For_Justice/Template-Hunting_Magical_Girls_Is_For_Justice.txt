@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Up
-| effect_name = Slash アーマメント 
+| effect_name = Slash Armament 
 | effect_name_JP = スラッシュ・アーマメント
 | effect1 = Damage Increase [II / 10%] & Damage Cut [II / 10%]
 | effect2 = Damage Increase [III / 15%] & Damage Cut [III / 15%]

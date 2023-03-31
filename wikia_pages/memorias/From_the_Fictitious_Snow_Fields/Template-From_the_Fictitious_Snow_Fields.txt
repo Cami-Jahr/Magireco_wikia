@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = イグノア Stun 
+| effect_name = Ignore Stun 
 | effect_name_JP = イグノア・スタン
 | effect1 = Attack Up [II / 10%] & Chance to Anti-Stun [X / 70%]
 | effect2 = Attack Up [III / 15%] & Chance to Anti-Stun [III / 100%]

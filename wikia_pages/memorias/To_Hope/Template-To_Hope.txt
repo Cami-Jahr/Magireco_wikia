@@ -18,7 +18,7 @@
 | max_DEF = 1450
 
 | image = Chance to Guardian
-| effect_name = ガーディアン Soul 
+| effect_name = Guardian Soul 
 | effect_name_JP = ガーディアン・ソウル
 | effect1 = Chance to Guardian [VIII / 45%] (3 Turns)
 | effect2 = Chance to Guardian [X / 55%] (3 Turns)

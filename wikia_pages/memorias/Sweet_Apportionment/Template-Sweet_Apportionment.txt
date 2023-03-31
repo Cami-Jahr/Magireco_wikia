@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Critical Hit
-| effect_name = キーンインサイト 
+| effect_name = Keen Insight 
 | effect_name_JP = キーンインサイト
 | effect1 = Chance to Critical Hit [III / 20%] & Chance to Anti-Dazzle [X / 70%]
 | effect2 = Chance to Critical Hit [IV / 25%] & Chance to Anti-Dazzle [IV / 100%]

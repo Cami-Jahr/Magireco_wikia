@@ -18,7 +18,7 @@
 | max_DEF = 1600
 
 | image = Attack Down
-| effect_name = Cower Attack 
+| effect_name = Quell Attack 
 | effect_name_JP = クウェル・アタック
 | effect1 = Attack Down [IV / 20%] (All Enemies / 1 Turn)
 | effect2 = Attack Down [VI / 30%] (All Enemies / 1 Turn)

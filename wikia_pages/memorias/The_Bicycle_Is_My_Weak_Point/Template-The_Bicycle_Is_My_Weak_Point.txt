@@ -18,7 +18,7 @@
 | max_DEF = 1822
 
 | image = Attack Up
-| effect_name = Smiteライズ 
+| effect_name = Smite Rise 
 | effect_name_JP = スマイトライズ
 | effect1 = Attack Up [IV / 20%] (Self / 3 Turns) & Charged Attack Damage Up [IV / 12.5%] (Self / 3 Turns)
 | effect2 = Attack Up [V / 25%] (Self / 3 Turns) & Charged Attack Damage Up [V / 15%] (Self / 3 Turns)

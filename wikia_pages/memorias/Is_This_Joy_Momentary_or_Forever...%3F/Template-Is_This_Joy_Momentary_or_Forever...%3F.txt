@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Increase
-| effect_name = レイ オブ ホープ 
+| effect_name = Ray of Hope 
 | effect_name_JP = レイ・オブ・ホープ
 | effect1 = Damage Increase [II / 10%] & Chance to Anti-Fog [II / 100%] & Chance to Anti-Darkness [II / 100%]
 | effect2 = Damage Increase [III / 15%] & Chance to Anti-Fog [III / 100%] & Chance to Anti-Darkness [III / 100%]

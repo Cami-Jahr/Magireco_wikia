@@ -18,7 +18,7 @@
 | max_DEF = 2008
 
 | image = Chance to Anti-Counter
-| effect_name = ディスミス Counter 
+| effect_name = Dismiss Counter 
 | effect_name_JP = ディスミス・カウンター
 | effect1 = Chance to Anti-Counter [IX / 65%] (Self / 3 Turns) & Attack Up [VI / 30%] (Self / 3 Turns)
 | effect2 = Chance to Anti-Counter [XII / 80%] (Self / 3 Turns) & Attack Up [VII / 35%] (Self / 3 Turns)

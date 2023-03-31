@@ -18,7 +18,7 @@
 | max_DEF = 1235
 
 | image = Attack Up
-| effect_name = アディクトスレイヤー 
+| effect_name = Addict Slayer 
 | effect_name_JP = アディクトスレイヤー
 | effect1 = Attack Up [III / 15%] (Self / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [III / 25%] (Self / 1 Turn)
 | effect2 = Attack Up [IV / 20%] (Self / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [IV / 30%] (Self / 1 Turn)

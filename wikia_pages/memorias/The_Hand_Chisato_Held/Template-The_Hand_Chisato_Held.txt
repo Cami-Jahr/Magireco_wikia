@@ -18,7 +18,7 @@
 | max_DEF = 1432
 
 | image = Chance to Anti-Counter
-| effect_name = リジェクト Counter
+| effect_name = Reject Counter
 | effect_name_JP = リジェクト・カウンター
 | effect1 = Chance to Anti-Counter [V / 100%] (Self / 3 Turns) & Attack Up [V / 25%] (Self / 3 Turns)
 | effect2 = Chance to Anti-Counter [VI / 100%] (Self / 3 Turns) & Attack Up [VI / 30%] (Self / 3 Turns)

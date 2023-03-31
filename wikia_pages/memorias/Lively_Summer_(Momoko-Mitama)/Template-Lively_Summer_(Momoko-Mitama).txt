@@ -18,7 +18,7 @@
 | max_DEF = 2045
 
 | image = Magia Damage Down
-| effect_name = Cower ディストラクション 
+| effect_name = Quell Distraction 
 | effect_name_JP = クウェル・ディストラクション
 | effect1 = 
 | effect2 = Magia Damage Down [VI / 30%] (All Enemies / 1 Turn) & Attack Down [V / 25%] (All Enemies / 1 Turn)

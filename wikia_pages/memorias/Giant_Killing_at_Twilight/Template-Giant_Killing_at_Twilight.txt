@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Blast Damage Cut
-| effect_name = BlastShield 
+| effect_name = Blast Shield 
 | effect_name_JP = ブラストシールド
 | effect1 = 
 | effect2 = Blast Damage Cut [V / 25%] & Damage Cut [II / 10%]

@@ -18,7 +18,7 @@
 | max_DEF = 2002
 
 | image = Magia Damage Up
-| effect_name = ウィズダム Up 
+| effect_name = Wisdom Up 
 | effect_name_JP = ウィズダムアップ
 | effect1 = Magia Damage Up [V / 15%] (Self / 1 Turn) & Chance to Skill Quicken [V / 40%] (Self / 1 Turn)
 | effect2 = Magia Damage Up [VIII / 22.5%] (Self / 1 Turn) & Chance to Skill Quicken [VIII / 100%] (Self / 1 Turn)

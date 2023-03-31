@@ -18,7 +18,7 @@
 | max_DEF = 1058
 
 | image = HP Restore
-| effect_name = ナーシングケア 
+| effect_name = Nursing Care 
 | effect_name_JP = ナーシングケア
 | effect1 = HP Restore [III / 35%] & MP Restore [I / 10 MP]
 | effect2 = HP Restore [IV / 37.5%] & MP Restore [I / 10 MP]

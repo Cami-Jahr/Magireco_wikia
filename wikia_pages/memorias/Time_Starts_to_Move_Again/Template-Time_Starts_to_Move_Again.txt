@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Provoke
-| effect_name = Guardアピール 
+| effect_name = Guard Appeal 
 | effect_name_JP = ガードアピール
 | effect1 = Chance to Provoke [IV / 25%] & Defense Up [IV / 30%]
 | effect2 = Chance to Provoke [V / 30%] & Defense Up [V / 37.5%]

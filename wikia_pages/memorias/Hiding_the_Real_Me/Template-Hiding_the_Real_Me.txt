@@ -18,7 +18,7 @@
 | max_DEF = 2315
 
 | image = Attack Down
-| effect_name = ドレイン Skill Quicken 
+| effect_name = Drain Skill Quicken 
 | effect_name_JP = ドレイン・スキルクイック
 | effect1 = Attack Down [VIII / 40%] (Target / 1 Turn) & Chance to Skill Quicken [VIII / 100%] (Self / 1 Turn)
 | effect2 = Attack Down [X / 50%] (Target / 1 Turn) & Chance to Skill Quicken [X / 100%] (Self / 1 Turn)

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Critical Hit
-| effect_name = エスペランサ― Adept 
+| effect_name = Esperanza Adept 
 | effect_name_JP = エスペランサ―・アデプト
 | effect1 = Chance to Critical Hit [III / 20%] & Attack Up [III / 15%]
 | effect2 = Chance to Critical Hit [IV / 25%] & Attack Up [IV / 20%]

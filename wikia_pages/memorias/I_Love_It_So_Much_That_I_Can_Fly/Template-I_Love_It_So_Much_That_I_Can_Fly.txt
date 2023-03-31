@@ -18,7 +18,7 @@
 | max_DEF = 2008
 
 | image = Damage Increase
-| effect_name = エンハンス ステップ 
+| effect_name = Enhance Step 
 | effect_name_JP = エンハンス・ステップ
 | effect1 = Damage Increase [VI / 30%] (Self / 3 Turns) & Chance to Evade [VI / 35%] (Self / 3 Turns)
 | effect2 = Damage Increase [VII / 35%] (Self / 3 Turns) & Chance to Evade [VII / 40%] (Self / 3 Turns)

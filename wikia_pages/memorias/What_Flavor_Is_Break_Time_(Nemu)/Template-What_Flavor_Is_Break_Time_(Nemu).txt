@@ -18,7 +18,7 @@
 | max_DEF = 1432
 
 | image = Chance to Skill Seal
-| effect_name = Jammerチャフ 
+| effect_name = Jammer Chaff 
 | effect_name_JP = ジャマ―チャフ
 | effect1 = Chance to Skill Seal [III / 35%] (All Enemies / 1 Turn)
 | effect2 = Chance to Skill Seal [IV / 37.5%] (All Enemies / 1 Turn)

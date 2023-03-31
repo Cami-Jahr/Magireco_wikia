@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Cut
-| effect_name = ナローShield 
+| effect_name = Narrow Shield 
 | effect_name_JP = ナローシールド
 | effect1 = Damage Cut [II / 10%] & Attack Up When At Critical Health [I / 10%] & Defense Up When At Critical Health [I / 20%]
 | effect2 = Damage Cut [III / 15%] & Attack Up When At Critical Health [II / 15%] & Defense Up When At Critical Health [II / 30%]

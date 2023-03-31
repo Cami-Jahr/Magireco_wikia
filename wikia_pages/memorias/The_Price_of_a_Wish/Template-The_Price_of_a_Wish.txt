@@ -18,7 +18,7 @@
 | max_DEF = 1820
 
 | image = Chance to Anti-Evade
-| effect_name = コンシールBlast 
+| effect_name = Conceal Blast 
 | effect_name_JP = コンシールブラスト
 | effect1 = Chance to Anti-Evade [VIII / 60%] (Self / 3 Turns) & Blast Damage Up [III / 25%] (Self / 3 Turns)
 | effect2 = Chance to Anti-Evade [X / 70%] (Self / 3 Turns) & Blast Damage Up [IV / 30%] (Self / 3 Turns)

@@ -18,7 +18,7 @@
 | max_DEF = 1425
 
 | image = Defense Up
-| effect_name = ソリッド Up 
+| effect_name = Solid Up 
 | effect_name_JP = ソリッドアップ
 | effect1 = Defense Up [VII / 52.5%] (Self / 1 Turn) & Status Ailment Resistance Up [VI / 45%] (Self / 1 Turn)
 | effect2 = Defense Up [VIII / 60%] (Self / 1 Turn) & Status Ailment Resistance Up [VII / 50%] (Self / 1 Turn)

@@ -18,7 +18,7 @@
 | max_DEF = 1470
 
 | image = Charge Disc Damage Up
-| effect_name = TechnicalAttack Up 
+| effect_name = Technical Attack Up 
 | effect_name_JP = テクニカルアタックアップ
 | effect1 = 
 | effect2 = Charge Disc Damage Up [V / 25%] (Self / 1 Turn) & Attack Up [III / 15%] (Self / 1 Turn)

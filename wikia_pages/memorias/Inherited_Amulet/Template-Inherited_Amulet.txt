@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Defense Up When At Critical Health
-| effect_name = ロバスト アンチBurn 
+| effect_name = Robust Anti Burn 
 | effect_name_JP = ロバスト・アンチバーン
 | effect1 = Defense Up When At Critical Health [II / 30%] & Defense Up [IV / 30%] & Chance to Anti-Burn [IV / 100%]
 | effect2 = Defense Up When At Critical Health [III / 40%] & Defense Up [V / 37.5%] & Chance to Anti-Burn [V / 100%]

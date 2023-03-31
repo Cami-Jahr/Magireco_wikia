@@ -18,7 +18,7 @@
 | max_DEF = 2250
 
 | image = Charged Attack Damage Up
-| effect_name = FFull Swing Upライズ 
+| effect_name = FFull Swing Up Rise 
 | effect_name_JP = Fフルスウィングライズ
 | effect1 = Charged Attack Damage Up [V / 15%] (Self / 3 Turns) & Blast Damage Up [V / 35%] (Self / 3 Turns) & Flame Attribute Attack Up [VI / 17.5%] (Self / 3 Turns)
 | effect2 = Charged Attack Damage Up [VI / 17.5%] (Self / 3 Turns) & Blast Damage Up [VI / 40%] (Self / 3 Turns) & Flame Attribute Attack Up [VII / 20%] (Self / 3 Turns)

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Bind on Attack
-| effect_name = 暗闇を照らす光 
+| effect_name = A Light That Illuminates the Darkness 
 | effect_name_JP = 暗闇を照らす光
 | effect1 = Chance to Bind on Attack [II / 15%] (1 Turn) & Attack Up [I / 5%]
 | effect2 = Chance to Bind on Attack [III / 20%] (1 Turn) & Attack Up [II / 10%]

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Up
-| effect_name = パーシスト Adept 
+| effect_name = Persistent Adept 
 | effect_name_JP = パーシスト・アデプト
 | effect1 = Damage Up [II / 10%] & Chance to Anti-Provoke [IV / 45%]
 | effect2 = Damage Up [III / 15%] & Chance to Anti-Provoke [VI / 55%]

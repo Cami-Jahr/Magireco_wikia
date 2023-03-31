@@ -18,7 +18,7 @@
 | max_DEF = 2110
 
 | image = Attack Up
-| effect_name = ボールドライズ 
+| effect_name = Bold Rise 
 | effect_name_JP = ボールドライズ
 | effect1 = Attack Up [V / 25%] (Self / 3 Turns) & Defense Up [IV / 30%] (Self / 3 Turns) & Anti-Debuff [2 Debuffs] (Self / 3 Turns)
 | effect2 = Attack Up [VI / 30%] (Self / 3 Turns) & Defense Up [V / 37.5%] (Self / 3 Turns) & Anti-Debuff [2 Debuffs] (Self / 3 Turns)

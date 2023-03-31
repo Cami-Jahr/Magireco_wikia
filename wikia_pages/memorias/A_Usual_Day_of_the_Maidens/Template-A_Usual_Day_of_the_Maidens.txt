@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = イグノア Magia Seal 
+| effect_name = Ignore Magia Seal 
 | effect_name_JP = イグノア・シールマギア
 | effect1 = 
 | effect2 = Attack Up [IV / 20%] & Chance to Anti-Magia Seal [IV / 100%]

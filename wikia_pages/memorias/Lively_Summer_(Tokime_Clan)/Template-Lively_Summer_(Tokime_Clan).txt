@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = スマッシュ Adept 
+| effect_name = Smash Adept 
 | effect_name_JP = スマッシュ・アデプト
 | effect1 = 
 | effect2 = Attack Up [II / 10%] & Blast Damage Up [II / 20%]

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = スネイル アドバンテージ 
+| effect_name = Snail Advantage 
 | effect_name_JP = スネイル・アドバンテージ
 | effect1 = Attack Up [II / 10%] & Chance to Anti-Charm [VII / 55%]
 | effect2 = Attack Up [IV / 20%] & Chance to Anti-Charm [IV / 100%]

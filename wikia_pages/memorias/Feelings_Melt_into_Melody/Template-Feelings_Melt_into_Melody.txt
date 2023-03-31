@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Regenerate HP
-| effect_name = キモチは旋律に溶けて
+| effect_name = Feelings Melt into Melody
 | effect_name_JP = キモチは旋律に溶けて
 | effect1 = 
 | effect2 = Regenerate MP [III / 6 MP] & Accele MP Gain Up [II / 12.5%]

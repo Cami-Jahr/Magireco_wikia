@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Up Versus Witches
-| effect_name = Regeneration Urgent 
+| effect_name = Regeneration Argent 
 | effect_name_JP = リジェネレイト・アージェント
 | effect1 = 
 | effect2 = Damage Up Versus Witches [IV / 20%] & Attack Up [III / 15%] & Regenerate HP [II / 3%]

@@ -18,7 +18,7 @@
 | max_DEF = 1885
 
 | image = Chance to Charm
-| effect_name = アルーア 
+| effect_name = Allure 
 | effect_name_JP = アルーア
 | effect1 = Chance to Charm [V / 40%] (All Enemies / 1 Turn) & Attack Down [V / 25%] (All Enemies / 1 Turn)
 | effect2 = Chance to Charm [VI / 42.5%] (All Enemies / 1 Turn) & Attack Down [VI / 30%] (All Enemies / 1 Turn)

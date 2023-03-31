@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = イグニッション Edge 
+| effect_name = Ignition Edge 
 | effect_name_JP = イグニッション・エッジ
 | effect1 = Attack Up [II / 10%] & Chance to Burn on Attack [IV / 25%] (2 Turns)
 | effect2 = Attack Up [III / 15%] & Chance to Burn on Attack [V / 30%] (2 Turns)

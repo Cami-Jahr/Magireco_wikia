@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Darkness
-| effect_name = Anti-Darkness
+| effect_name = Anti Darkness
 | effect_name_JP = アンチ・ダークネス
 | effect1 = Chance to Anti-Darkness [I / 100%] & Status Ailment Resistance Up [I / 20%]
 | effect2 = Chance to Anti-Darkness [III / 100%] & Status Ailment Resistance Up [III / 30%]

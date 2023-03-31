@@ -18,7 +18,7 @@
 | max_DEF = 1465
 
 | image = Regenerate HP
-| effect_name = フォーギブネス 
+| effect_name = Forgiveness 
 | effect_name_JP = フォーギブネス
 | effect1 = 
 | effect2 = Regenerate HP [III / 4%] (Self / 3 Turns) & MP Gain Up [III / 10%] (Self / 3 Turns)

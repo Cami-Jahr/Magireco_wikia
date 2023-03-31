@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Guardian
-| effect_name = ガーディアン Shield 
+| effect_name = Guardian Shield 
 | effect_name_JP = ガーディアン・シールド
 | effect1 = 
 | effect2 = Chance to Guardian [V / 30%] & Defense Up [IV / 30%] & Damage Cut [III / 15%]

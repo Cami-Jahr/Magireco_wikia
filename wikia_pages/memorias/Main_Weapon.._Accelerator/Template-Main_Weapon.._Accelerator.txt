@@ -18,7 +18,7 @@
 | max_DEF = 1115
 
 | image = Accele MP Gain Up
-| effect_name = フルスロットル Up 
+| effect_name = Full Throttle Up 
 | effect_name_JP = フルスロットルアップ
 | effect1 = Accele MP Gain Up [IV / 12.5%] (Self / 1 Turn) & Charged Attack Damage Up [II / 12.5%] (Self / 1 Turn)
 | effect2 = Accele MP Gain Up [V / 15%] (Self / 1 Turn) & Charged Attack Damage Up [III / 15%] (Self / 1 Turn)

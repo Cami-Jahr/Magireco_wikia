@@ -18,7 +18,7 @@
 | max_DEF = 1080
 
 | image = Damage Down
-| effect_name = ビター スウィート 
+| effect_name = Bitter Sweet 
 | effect_name_JP = ビター・スウィート
 | effect1 = Damage Down [II / 10%] (All Enemies / 1 Turn) & Magia Damage Up [V / 15%] (Self / 1 Turn)
 | effect2 = Damage Down [III / 15%] (All Enemies / 1 Turn) & Magia Damage Up [VI / 17.5%] (Self / 1 Turn)

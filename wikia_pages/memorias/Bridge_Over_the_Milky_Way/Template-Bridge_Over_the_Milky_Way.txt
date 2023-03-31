@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up When At Critical Health
-| effect_name = ナローShield 
+| effect_name = Narrow Shield 
 | effect_name_JP = ナローシールド
 | effect1 = 
 | effect2 = Attack Up When At Critical Health [IV / 25%] & Defense Up When At Critical Health [III / 40%] & Damage Cut [III / 15%]

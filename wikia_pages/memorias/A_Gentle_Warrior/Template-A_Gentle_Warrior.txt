@@ -18,7 +18,7 @@
 | max_DEF = 1158
 
 | image = Charge Draw
-| effect_name = Chargeドロー
+| effect_name = Charge Draw
 | effect_name_JP = チャージドロー
 | effect1 = Charge Draw [100%]
 | effect2 = Charge Draw [100%]

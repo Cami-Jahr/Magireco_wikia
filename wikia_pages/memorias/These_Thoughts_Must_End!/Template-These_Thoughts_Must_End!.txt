@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up While At Max Health
-| effect_name = Full Gaugeオーバードライブ 
+| effect_name = Full Gauge Overdrive 
 | effect_name_JP = フルゲージオーバードライブ
 | effect1 = Attack Up While At Max Health [II / 10%] & Attack Up [II / 10%]
 | effect2 = Attack Up While At Max Health [III / 15%] & Attack Up [II / 10%]

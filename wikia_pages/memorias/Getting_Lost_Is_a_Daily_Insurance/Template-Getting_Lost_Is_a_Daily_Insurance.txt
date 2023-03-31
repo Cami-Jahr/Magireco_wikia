@@ -18,7 +18,7 @@
 | max_DEF = 2122
 
 | image = Chance to Fog
-| effect_name = イアリー Fog 
+| effect_name = Eerie Fog 
 | effect_name_JP = イアリー・フォッグ
 | effect1 = Chance to Fog [V / 40%] (All Enemies / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [IV / 30%] (Self / 1 Turn)
 | effect2 = Chance to Fog [VII / 45%] (All Enemies / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [V / 35%] (Self / 1 Turn)

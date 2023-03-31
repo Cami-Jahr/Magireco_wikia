@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up While At Max Health
-| effect_name = Full Gauge Bloomヒール 
+| effect_name = Full Gauge Bloom Heal 
 | effect_name_JP = フルゲージ・ブルームヒール
 | effect1 = Attack Up While At Max Health [V / 25%] & Defense Up While At Max Health [VII / 70%] & Regenerate HP [II / 3%]
 | effect2 = Attack Up While At Max Health [VI / 30%] & Defense Up While At Max Health [VIII / 80%] & Regenerate HP [III / 4%]

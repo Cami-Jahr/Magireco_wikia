@@ -18,7 +18,7 @@
 | max_DEF = 1095
 
 | image = Damage Up
-| effect_name = Skill Quicken Slash 
+| effect_name = Skill Quick Slash 
 | effect_name_JP = スキルクイック・スラッシュ
 | effect1 = Damage Up [II / 10%] (Self / 3 Turns) & Chance to Skill Quicken [II / 100%] (Self / 1 Turn)
 | effect2 = Damage Up [III / 15%] (Self / 3 Turns) & Chance to Skill Quicken [III / 100%] (Self / 1 Turn)

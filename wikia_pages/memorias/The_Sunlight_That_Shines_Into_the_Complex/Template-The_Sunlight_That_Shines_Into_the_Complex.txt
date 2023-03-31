@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Guardian
-| effect_name = HCovering Adept 
+| effect_name = H Covering Adept 
 | effect_name_JP = Hカバーリング・アデプト
 | effect1 = Chance to Guardian [II / 15%] & Defense Up [III / 22.5%]
 | effect2 = Chance to Guardian [III / 20%] & Defense Up [IV / 30%]

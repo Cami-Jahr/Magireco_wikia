@@ -18,7 +18,7 @@
 | max_DEF = 1222
 
 | image = Chance to Chase
-| effect_name = ChaseAttack
+| effect_name = Chase Attack
 | effect_name_JP = チェイスアタック
 | effect1 = Chance to Chase [80%] (Self / 1 Turn)
 | effect2 = Chance to Chase [IX / 80%] (Self / 1 Turn) & Magia Damage Up [IX / 25%] (Self / 1 Turn)

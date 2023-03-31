@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Up
-| effect_name = クリア スピリット 
+| effect_name = Clear Spirit 
 | effect_name_JP = クリア・スピリット
 | effect1 = Damage Up [II / 10%] & Accele MP Gain Up [II / 12.5%] & MP Gain Up [II / 7.5%]
 | effect2 = Damage Up [III / 15%] & Accele MP Gain Up [III / 15%] & MP Gain Up [III / 10%]

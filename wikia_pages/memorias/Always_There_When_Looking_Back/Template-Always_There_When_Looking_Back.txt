@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Charge Combo Charge Count Up (+1 / cannot be repeated)
-| effect_name = Cコンボプラス Guard 
+| effect_name = C Combo Plus Guard 
 | effect_name_JP = Cコンボプラス・ガード
 | effect1 = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%] & Defense Up [II / 15%]
 | effect2 = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%] & Defense Up [III / 22.5%]

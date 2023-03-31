@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Regenerate HP
-| effect_name = Manaガイザー Adept 
+| effect_name = Mana Geysey Adept 
 | effect_name_JP = マナガイザー・アデプト
 | effect1 = Regenerate HP [IV / 5%] & Magia Damage Up [III / 10%]
 | effect2 = Regenerate HP [V / 6%] & Magia Damage Up [IV / 12.5%]

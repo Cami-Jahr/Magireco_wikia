@@ -18,7 +18,7 @@
 | max_DEF = 1500
 
 | image = Defense Down
-| effect_name = Cower Guard 
+| effect_name = Quell Guard 
 | effect_name_JP = クウェル・ガード
 | effect1 = Defense Down [VII / 35%] (All Enemies / 1 Turn)
 | effect2 = Defense Down [VIII / 40%] (All Enemies / 1 Turn)

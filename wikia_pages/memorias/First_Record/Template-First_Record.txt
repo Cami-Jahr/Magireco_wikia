@@ -18,7 +18,7 @@
 | max_DEF = 1845
 
 | image = Regenerate HP
-| effect_name = ニートネス Aura 
+| effect_name = Neatness Aura 
 | effect_name_JP = ニートネス・オーラ
 | effect1 = 
 | effect2 = Regenerate HP [III / 4%] (Allies / 3 Turns) & Status Ailment Resistance Up [III / 20%] (Allies / 3 Turns)

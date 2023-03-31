@@ -18,7 +18,7 @@
 | max_DEF = 1545
 
 | image = Chance to Fog
-| effect_name = アトリションFog 
+| effect_name = Attrition Fog 
 | effect_name_JP = アトリションフォッグ
 | effect1 = Chance to Fog [IV / 100%] (Target / 1 Turn) & Defense Down [IV / 20%] (Target / 1 Turn)
 | effect2 = Chance to Fog [V / 100%] (Target / 1 Turn) & Defense Down [V / 25%] (Target / 1 Turn)

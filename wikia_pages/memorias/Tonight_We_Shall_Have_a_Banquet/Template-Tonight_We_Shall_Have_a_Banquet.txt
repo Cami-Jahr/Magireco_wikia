@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Increase
-| effect_name = MoraleWeapon Adept 
+| effect_name = Morale Weapon Adept 
 | effect_name_JP = モラールウェポン・アデプト
 | effect1 = Damage Increase [III / 15%] & MP Gain Up [II / 7.5%]
 | effect2 = Damage Increase [IV / 20%] & MP Gain Up [IV / 12.5%]

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Accele MP Gain Up
-| effect_name = ユニヴァース Adept 
+| effect_name = Universe Adept 
 | effect_name_JP = ユニヴァース・アデプト
 | effect1 = Accele MP Gain Up [IV / 17.5%] & Blast Damage Up [II / 30%] & Charged Attack Damage Up [II / 12.5%] & Status Ailment Resistance Up [II / 25%]
 | effect2 = Accele MP Gain Up [V / 20%] & Blast Damage Up [III / 35%] & Charged Attack Damage Up [III / 15%] & Status Ailment Resistance Up [III / 30%]

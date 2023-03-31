@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Bind on Attack
-| effect_name = Bind ブレイド 
+| effect_name = Bind Blade 
 | effect_name_JP = バインド・ブレイド
 | effect1 = Chance to Bind on Attack [II / 15%] (1 Turn) & Damage Up [IV / 20%]
 | effect2 = Chance to Bind on Attack [III / 20%] (1 Turn) & Damage Up [V / 25%]

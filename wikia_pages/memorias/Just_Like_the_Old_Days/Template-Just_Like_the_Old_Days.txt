@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Blast Damage Up
-| effect_name = なんだか昔に戻れたみたい
+| effect_name = Just Like the Old Days
 | effect_name_JP = なんだか昔に戻れたみたい
 | effect1 = 
 | effect2 = Blast Damage Up [III / 25%] & Blast MP Gain Up [IV / 4%]

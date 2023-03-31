@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Blast Damage Up
-| effect_name = アンインヒビテッド 
+| effect_name = Uninhibited 
 | effect_name_JP = アンインヒビテッド
 | effect1 = Blast Damage Up [II / 20%] & Accele MP Gain Up [II / 12.5%] & Chance to Anti-Bind [II / 100%]
 | effect2 = Blast Damage Up [IV / 30%] & Accele MP Gain Up [III / 15%] & Chance to Anti-Bind [III / 100%]

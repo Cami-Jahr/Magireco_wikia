@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Critical Hit
-| effect_name = エルピーダ Adept 
+| effect_name = Elpida Adept 
 | effect_name_JP = エルピーダ・アデプト
 | effect1 = Chance to Critical Hit [III / 20%] & Attack Up [I / 5%] & Chance to Anti-Charm [I / 100%]
 | effect2 = Chance to Critical Hit [IV / 25%] & Attack Up [II / 10%] & Chance to Anti-Charm [II / 100%]

@@ -18,7 +18,7 @@
 | max_DEF = 1000
 
 | image = Status Ailment Resistance Up
-| effect_name = トニックライズ 
+| effect_name = Tonic Rise 
 | effect_name_JP = トニックライズ
 | effect1 = 
 | effect2 = Status Ailment Resistance Up [IV / 35%] (Self / 3 Turns) & Regenerate MP [I / 3 MP] (Self / 3 Turns)

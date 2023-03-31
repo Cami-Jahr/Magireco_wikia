@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Charge Disc Damage Up
-| effect_name = TechnicalAttack Adept 
+| effect_name = Technical Attack Adept 
 | effect_name_JP = テクニカルアタック・アデプト
 | effect1 = 
 | effect2 = Charge Disc Damage Up [IV / 20%] & Attack Up [III / 15%]

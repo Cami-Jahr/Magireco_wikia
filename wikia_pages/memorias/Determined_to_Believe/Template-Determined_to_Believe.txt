@@ -18,7 +18,7 @@
 | max_DEF = 2238
 
 | image = Attack Up
-| effect_name = 信じる故の決意
+| effect_name = Determined to Believe
 | effect_name_JP = 信じる故の決意
 | effect1 = 
 | effect2 = Attack Up [IV / 20%] (Self / 1 Turn) & Chance to Critical Hit [IV / 25%] (Self / 1 Turn) & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]

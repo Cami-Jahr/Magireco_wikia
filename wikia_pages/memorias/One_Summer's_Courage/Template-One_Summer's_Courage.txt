@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Critical Hit
-| effect_name = イレーション Adept 
+| effect_name = Elation Adept 
 | effect_name_JP = イレーション・アデプト
 | effect1 = Chance to Critical Hit [II / 15%] & Status Ailment Resistance Up [II / 25%]
 | effect2 = Chance to Critical Hit [III / 20%] & Status Ailment Resistance Up [III / 30%]

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Cut
-| effect_name = 祝福の風ふたたび 
+| effect_name = The Blessed Wind Once More 
 | effect_name_JP = 祝福の風ふたたび
 | effect1 = Damage Cut [II / 10%] & Defense Up [II / 15%]
 | effect2 = Damage Cut [III / 15%] & Defense Up [III / 22.5%]

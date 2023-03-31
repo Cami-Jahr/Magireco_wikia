@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Counter
-| effect_name = イグノア Counter
+| effect_name = Ignore Counter
 | effect_name_JP = イグノア・カウンター
 | effect1 = Chance to Anti-Counter [V / 45%] & Attack Up [II / 10%]
 | effect2 = Chance to Anti-Counter [II / 100%] & Attack Up [II / 10%]

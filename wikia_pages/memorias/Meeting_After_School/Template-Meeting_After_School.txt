@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Blast Damage Up
-| effect_name = MoraleBlast Adept 
+| effect_name = Morale Blast Adept 
 | effect_name_JP = モラールブラスト・アデプト
 | effect1 = Blast Damage Up [IV / 30%] & Blast MP Gain Up [II / 2%]
 | effect2 = Blast Damage Up [V / 35%] & Blast MP Gain Up [III / 3%]

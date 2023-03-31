@@ -18,7 +18,7 @@
 | max_DEF = 2010
 
 | image = Accele MP Gain Down
-| effect_name = Cower Astral 
+| effect_name = Quell Astral 
 | effect_name_JP = クウェル・アストラル
 | effect1 = Accele MP Gain Down [IX / 25%] (All Enemies / 1 Turn) & Magia Damage Down [VI / 30%] (All Enemies / 1 Turn)
 | effect2 = Accele MP Gain Down [X / 27.5%] (All Enemies / 1 Turn) & Magia Damage Down [VII / 35%] (All Enemies / 1 Turn)

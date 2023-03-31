@@ -18,7 +18,7 @@
 | max_DEF = 2005
 
 | image = HP Restore
-| effect_name = エンジェルボイス 
+| effect_name = Angel Voice 
 | effect_name_JP = エンジェルボイス
 | effect1 = 
 | effect2 = HP Restore [V / 20%] (Allies) & Status Ailment Resistance Up [III / 20%] (Allies / 3 Turns)

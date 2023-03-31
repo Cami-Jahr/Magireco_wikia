@@ -18,7 +18,7 @@
 | max_DEF = 2002
 
 | image = Chance to Guardian
-| effect_name = ガーディアン
+| effect_name = Guardian
 | effect_name_JP = ガーディアン
 | effect1 = Chance to Guardian [100%] (1 Turn)
 | effect2 = Chance to Guardian [IX / 100%] (1 Turn) & Regenerate HP [IX / 10%] (Self / 1 Turn)

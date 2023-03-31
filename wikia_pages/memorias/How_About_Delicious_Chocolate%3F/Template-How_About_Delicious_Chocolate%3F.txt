@@ -18,7 +18,7 @@
 | max_DEF = 1838
 
 | image = Attack Up
-| effect_name = RegenerationBloom 
+| effect_name = Regenerate Bloom 
 | effect_name_JP = リジェネレイトブルーム
 | effect1 = Attack Up [IV / 20%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns) & Regenerate HP [IV / 5%] (Self / 3 Turns)
 | effect2 = Attack Up [V / 25%] (Self / 3 Turns) & Defense Up [IV / 30%] (Self / 3 Turns) & Regenerate HP [V / 6%] (Self / 3 Turns)

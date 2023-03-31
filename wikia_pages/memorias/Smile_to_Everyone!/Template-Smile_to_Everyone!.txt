@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = CC Gain Up
-| effect_name = Curseチップ Adept 
+| effect_name = Curse Chip Adept 
 | effect_name_JP = カースチップ・アデプト
 | effect1 = 
 | effect2 = CC Gain Up [II / 10%]

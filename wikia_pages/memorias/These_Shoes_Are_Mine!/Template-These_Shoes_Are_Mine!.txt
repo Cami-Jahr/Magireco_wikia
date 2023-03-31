@@ -18,7 +18,7 @@
 | max_DEF = 1055
 
 | image = Defense Down
-| effect_name = Guardダウン 
+| effect_name = Guard Down 
 | effect_name_JP = ガードダウン
 | effect1 = Defense Down [V / 25%] (Target / 1 Turn)
 | effect2 = Defense Down [VI / 30%] (Target / 1 Turn)

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up When At Critical Health
-| effect_name = パーシストクライシス 
+| effect_name = Persist Crisis 
 | effect_name_JP = パーシストクライシス
 | effect1 = Attack Up When At Critical Health [V / 30%] & Defense Up When At Critical Health [II / 30%] & Chance to Anti-Provoke [III / 40%]
 | effect2 = Attack Up When At Critical Health [VII / 40%] & Defense Up When At Critical Health [IV / 50%] & Chance to Anti-Provoke [V / 50%]

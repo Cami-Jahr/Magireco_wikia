@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Defense Up While At Max Health
-| effect_name = Full Gauge ヒールShield 
+| effect_name = Full Gauge Heal Shield 
 | effect_name_JP = フルゲージ・ヒールシールド
 | effect1 = Defense Up While At Max Health [IV / 40%] & Defense Up [III / 22.5%] & Regenerate HP [II / 3%]
 | effect2 = Defense Up While At Max Health [V / 50%] & Defense Up [IV / 30%] & Regenerate HP [III / 4%]

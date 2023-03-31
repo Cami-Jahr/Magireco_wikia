@@ -18,7 +18,7 @@
 | max_DEF = 2402
 
 | image = Defense Down
-| effect_name = スナイピングBlast 
+| effect_name = Sniping Blast 
 | effect_name_JP = スナイピングブラスト
 | effect1 = Defense Down [VIII / 40%] (All Enemies / 1 Turn) & Blast Damage Up [VI / 40%] (Self / 1 Turn)
 | effect2 = Defense Down [IX / 45%] (All Enemies / 1 Turn) & Blast Damage Up [VII / 45%] (Self / 1 Turn)

@@ -18,7 +18,7 @@
 | max_DEF = 1150
 
 | image = Flame Attribute Attack Up
-| effect_name = フレイムライズ 
+| effect_name = Flame Rise 
 | effect_name_JP = フレイムライズ
 | effect1 = Flame Attribute Attack Up [IV / 12.5%] (Self / 3 Turns) & Attack Up [IV / 20%] (Self / 3 Turns)
 | effect2 = Flame Attribute Attack Up [V / 15%] (Self / 3 Turns) & Attack Up [V / 25%] (Self / 3 Turns)

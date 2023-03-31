@@ -18,7 +18,7 @@
 | max_DEF = 2335
 
 | image = Defense Down
-| effect_name = スナイピングAttack 
+| effect_name = Sniping Attack 
 | effect_name_JP = スナイピングアタック
 | effect1 = Defense Down [IV / 12.5%] (All Enemies / 3 Turns) & Attack Up [IV / 20%] (Self / 3 Turns)
 | effect2 = Defense Down [V / 15%] (All Enemies / 3 Turns) & Attack Up [V / 25%] (Self / 3 Turns)

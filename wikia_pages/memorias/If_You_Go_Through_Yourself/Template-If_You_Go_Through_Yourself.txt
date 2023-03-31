@@ -18,7 +18,7 @@
 | max_DEF = 1078
 
 | image = Damage Cut
-| effect_name = Chargeライズ Shield 
+| effect_name = Chargerise Shield 
 | effect_name_JP = チャージライズ・シールド
 | effect1 = Damage Cut [III / 15%] (Self / 3 Turns) & Charged Attack Damage Up [II / 7.5%] (Self / 3 Turns)
 | effect2 = Damage Cut [IV / 20%] (Self / 3 Turns) & Charged Attack Damage Up [III / 10%] (Self / 3 Turns)

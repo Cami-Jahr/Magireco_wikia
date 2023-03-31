@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Fog
-| effect_name = Anti-ヘイズ
+| effect_name = Anti-Haze
 | effect_name_JP = アンチ・ヘイズ
 | effect1 = 
 | effect2 = Chance to Anti-Fog [100%] & Chance to Anti-Darkness [100%] & Chance to Anti-Dazzle [100%]

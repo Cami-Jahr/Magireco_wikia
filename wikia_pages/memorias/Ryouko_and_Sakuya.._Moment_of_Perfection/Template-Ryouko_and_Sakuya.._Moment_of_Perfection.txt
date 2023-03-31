@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Increase
-| effect_name = Regeneration Weapon 
+| effect_name = Regenerate Weapon 
 | effect_name_JP = リジェネレイト・ウェポン
 | effect1 = Damage Increase [V / 25%] & Regenerate HP [III / 4%]
 | effect2 = Damage Increase [VI / 30%] & Regenerate HP [IV / 5%]

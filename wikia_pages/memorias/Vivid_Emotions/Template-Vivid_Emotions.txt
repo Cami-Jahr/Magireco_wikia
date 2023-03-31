@@ -18,7 +18,7 @@
 | max_DEF = 2050
 
 | image = Negate Status Ailments
-| effect_name = イージスShield 
+| effect_name = Aegis Shield 
 | effect_name_JP = イージスシールド
 | effect1 = Negate Status Ailments [IV / 100%] (Self / 3 Turns) & Regenerate HP [IV / 5%] (Self / 3 Turns) & Damage Cut [IV / 20%] (Self / 3 Turns)
 | effect2 = Negate Status Ailments [V / 100%] (Self / 3 Turns) & Regenerate HP [V / 6%] (Self / 3 Turns) & Damage Cut [V / 25%] (Self / 3 Turns)

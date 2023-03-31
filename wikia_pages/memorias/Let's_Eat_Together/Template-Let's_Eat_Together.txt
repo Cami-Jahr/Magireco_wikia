@@ -18,7 +18,7 @@
 | max_DEF = 1650
 
 | image = Damage Down
-| effect_name = Cower Slash 
+| effect_name = Quell Slash 
 | effect_name_JP = クウェル・スラッシュ
 | effect1 = Damage Down [VII / 35%] (All Enemies / 1 Turn)
 | effect2 = Damage Down [VIII / 40%] (All Enemies / 1 Turn)

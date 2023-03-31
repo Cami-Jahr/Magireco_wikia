@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Charged Attack Damage Up
-| effect_name = Full Swing Up Adept 
+| effect_name = Full Swing Adept 
 | effect_name_JP = フルスウィング・アデプト
 | effect1 = Charged Attack Damage Up [III / 10%] & Blast Damage Up [II / 20%]
 | effect2 = Charged Attack Damage Up [IV / 12.5%] & Blast Damage Up [II / 20%]

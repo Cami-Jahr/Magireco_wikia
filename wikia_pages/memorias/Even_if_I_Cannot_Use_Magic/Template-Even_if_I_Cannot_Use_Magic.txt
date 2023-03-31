@@ -18,7 +18,7 @@
 | max_DEF = 1202
 
 | image = Flame Attribute Attack Up
-| effect_name = フレイムアサルト Aura 
+| effect_name = Flame Assault Aura 
 | effect_name_JP = フレイムアサルト・オーラ
 | effect1 = Flame Attribute Attack Up [II / 7.5%] (Allies / 3 Turns) & Blast Damage Up [I / 15%] (Allies / 3 Turns)
 | effect2 = Flame Attribute Attack Up [III / 10%] (Allies / 3 Turns) & Blast Damage Up [I / 15%] (Allies / 3 Turns)

@@ -18,7 +18,7 @@
 | max_DEF = 1060
 
 | image = Regenerate HP
-| effect_name = チアリング 
+| effect_name = Cheering 
 | effect_name_JP = チアリング
 | effect1 = Regenerate HP [III / 4%] (Self / 3 Turns) & Remove Debuffs [%]
 | effect2 = Regenerate HP [IV / 5%] (Self / 3 Turns) & Remove Debuffs [%]

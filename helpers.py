@@ -13,7 +13,7 @@ def get_filenames():
 
 def get_list(li):
     names = {}
-    with open(li) as f:
+    with open(li, "r", encoding="utf-8") as f:
         for line in f.readlines():
             if line.strip():
                 _id, name = line.strip().split(";")

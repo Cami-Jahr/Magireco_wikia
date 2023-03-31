@@ -18,7 +18,7 @@
 | max_DEF = 1102
 
 | image = Chance to Skill Quicken
-| effect_name = Skill Quicken
+| effect_name = Skill Quick
 | effect_name_JP = スキルクイック
 | effect1 = Chance to Skill Quicken [100%] (Self / 3 Turns)
 | effect2 = Chance to Skill Quicken [100%] (Self / 3 Turns)

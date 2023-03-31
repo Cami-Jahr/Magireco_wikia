@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Skill Seal
-| effect_name = メディテーション Adept 
+| effect_name = Meditation Adept 
 | effect_name_JP = メディテーション・アデプト
 | effect1 = Chance to Anti-Skill Seal [VI / 50%] & MP Gain Up [III / 10%]
 | effect2 = Chance to Anti-Skill Seal [VIII / 60%] & MP Gain Up [IV / 12.5%]

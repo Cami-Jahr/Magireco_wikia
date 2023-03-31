@@ -18,7 +18,7 @@
 | max_DEF = 1450
 
 | image = Attack Down
-| effect_name = ディスアポイントメント 
+| effect_name = Disappointment 
 | effect_name_JP = ディスアポイントメント
 | effect1 = Attack Down [III / 15%] (All Enemies / 1 Turn) & MP Gain Down [III / 20%] (All Enemies / 1 Turn)
 | effect2 = Attack Down [IV / 20%] (All Enemies / 1 Turn) & MP Gain Down [IV / 25%] (All Enemies / 1 Turn)

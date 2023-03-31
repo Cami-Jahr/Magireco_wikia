@@ -18,7 +18,7 @@
 | max_DEF = 1440
 
 | image = Damage Cut
-| effect_name = エンハンス Shield 
+| effect_name = Enhance Shield 
 | effect_name_JP = エンハンス・シールド
 | effect1 = Damage Cut [V / 25%] (Self / 1 Turn)
 | effect2 = Damage Cut [VI / 30%] (Self / 1 Turn)

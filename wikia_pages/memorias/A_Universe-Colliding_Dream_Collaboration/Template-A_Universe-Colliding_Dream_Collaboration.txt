@@ -18,7 +18,7 @@
 | max_DEF = 2125
 
 | image = Attack Up
-| effect_name = スペランツァ Force 
+| effect_name = Sperenza Force 
 | effect_name_JP = スペランツァ・フォース
 | effect1 = Attack Up [IV / 20%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns) & Chance to Critical Hit [IV / 25%] (Self / 3 Turns)
 | effect2 = Attack Up [V / 25%] (Self / 3 Turns) & Defense Up [IV / 30%] (Self / 3 Turns) & Chance to Critical Hit [V / 30%] (Self / 3 Turns)

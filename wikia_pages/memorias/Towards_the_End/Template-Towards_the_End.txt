@@ -18,7 +18,7 @@
 | max_DEF = 968
 
 | image = Attack Down
-| effect_name = Attackブレイク 
+| effect_name = Attack Break 
 | effect_name_JP = アタックブレイク
 | effect1 = Attack Down [III / 15%] (Target / 3 Turns)
 | effect2 = Attack Down [IV / 20%] (Target / 3 Turns)

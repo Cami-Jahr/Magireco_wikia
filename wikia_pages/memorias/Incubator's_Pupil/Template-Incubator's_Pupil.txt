@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = Regeneration Aura 
+| effect_name = Regenerate Aura 
 | effect_name_JP = リジェネレイト・オーラ
 | effect1 = Attack Up [III / 15%] & Damage Cut [II / 10%] & Regenerate HP [II / 3%]
 | effect2 = Attack Up [IV / 20%] & Damage Cut [III / 15%] & Regenerate HP [III / 4%]

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Guardian
-| effect_name = Shield ベアラー 
+| effect_name = Shield Bearer 
 | effect_name_JP = シールド・ベアラー
 | effect1 = 
 | effect2 = Chance to Guardian [III / 20%] & Damage Cut [III / 15%]

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Up
-| effect_name = グリント Adept 
+| effect_name = Glint Adept 
 | effect_name_JP = グリント・アデプト
 | effect1 = Damage Increase [IV / 20%] & Status Ailment Resistance Up [II / 25%]
 | effect2 = Damage Increase [V / 25%] & Status Ailment Resistance Up [III / 30%]

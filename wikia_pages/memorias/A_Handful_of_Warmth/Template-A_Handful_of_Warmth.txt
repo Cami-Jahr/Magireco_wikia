@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Episode Experience Gain Increased
-| effect_name = ラック Adept 
+| effect_name = Luck Adept 
 | effect_name_JP = ラック・アデプト
 | effect1 = 
 | effect2 = Episode Experience Gain Increased [I / 15%] & CC Gain Up [I / 5%]

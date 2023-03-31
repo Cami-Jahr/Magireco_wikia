@@ -18,7 +18,7 @@
 | max_DEF = 1568
 
 | image = Status Ailment Resistance Up
-| effect_name = イミュニティShield 
+| effect_name = Immunity Shield 
 | effect_name_JP = イミュニティシールド
 | effect1 = 
 | effect2 = Status Ailment Resistance Up [IX / 60%] (Self / 1 Turn) & Damage Cut [II / 10%] (Self / 1 Turn)

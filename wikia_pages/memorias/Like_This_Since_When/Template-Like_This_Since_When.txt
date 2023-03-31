@@ -18,7 +18,7 @@
 | max_DEF = 2048
 
 | image = MP Gain Up
-| effect_name = ディリジェンス ライズ 
+| effect_name = Dilligence Rise 
 | effect_name_JP = ディリジェンス・ライズ
 | effect1 = 
 | effect2 = MP Gain Up [IV / 12.5%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns)

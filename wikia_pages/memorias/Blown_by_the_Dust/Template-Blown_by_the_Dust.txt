@@ -18,7 +18,7 @@
 | max_DEF = 1460
 
 | image = Chance to Dazzle
-| effect_name = Mesmerize ミラージュ 
+| effect_name = Mesmerize Mirage 
 | effect_name_JP = メズマライズ・ミラージュ
 | effect1 = 
 | effect2 = Chance to Dazzle [V / 40%] (All Enemies / 1 Turn)

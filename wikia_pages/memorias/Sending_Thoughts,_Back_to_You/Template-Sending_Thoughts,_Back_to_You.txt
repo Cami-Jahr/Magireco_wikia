@@ -18,7 +18,7 @@
 | max_DEF = 1460
 
 | image = Chance to Burn
-| effect_name = Burnフロー 
+| effect_name = Burn Flow 
 | effect_name_JP = バーンフロー
 | effect1 = 
 | effect2 = Chance to Burn [V / 40%] (All Enemies / 1 Turn)

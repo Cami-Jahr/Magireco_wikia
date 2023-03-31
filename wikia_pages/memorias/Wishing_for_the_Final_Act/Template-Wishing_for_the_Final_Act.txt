@@ -18,7 +18,7 @@
 | max_DEF = 1845
 
 | image = MP Gain Down
-| effect_name = Morale ブレイク 
+| effect_name = Morale Break 
 | effect_name_JP = モラール・ブレイク
 | effect1 = 
 | effect2 = MP Gain Down [VII / 40%] (Target / 3 Turns)

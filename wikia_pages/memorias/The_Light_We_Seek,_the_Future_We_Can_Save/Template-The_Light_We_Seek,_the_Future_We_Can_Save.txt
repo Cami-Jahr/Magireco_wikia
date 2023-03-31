@@ -18,7 +18,7 @@
 | max_DEF = 2145
 
 | image = Damage Down
-| effect_name = ロールコール 
+| effect_name = Roll Call 
 | effect_name_JP = ロールコール
 | effect1 = 
 | effect2 = Damage Down [III / 20%] (All Enemies / 3 Turns) & Status Ailment Resistance Up [IV / 35%] (Self / 3 Turns)

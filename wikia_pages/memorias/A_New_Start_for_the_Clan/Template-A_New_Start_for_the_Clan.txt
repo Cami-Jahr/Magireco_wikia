@@ -18,7 +18,7 @@
 | max_DEF = 1940
 
 | image = Charged Attack Damage Up
-| effect_name = Full Swing Upライズ 
+| effect_name = Full Swing Rise 
 | effect_name_JP = フルスウィングライズ
 | effect1 = 
 | effect2 = Charged Attack Damage Up [VII / 20%] (Self / 1 Turn) & Blast Damage Up [IV / 30%] (Self / 1 Turn)

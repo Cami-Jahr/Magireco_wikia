@@ -18,7 +18,7 @@
 | max_DEF = 2210
 
 | image = Chance to Dazzle
-| effect_name = マスカレード 
+| effect_name = Masquerade 
 | effect_name_JP = マスカレード
 | effect1 = 
 | effect2 = Chance to Dazzle [V / 40%] (Target / 1 Turn) & Chance to Charm [III / 35%] (Target / 1 Turn) & Blast Damage Cut [III / 15%] (Self / 1 Turn)

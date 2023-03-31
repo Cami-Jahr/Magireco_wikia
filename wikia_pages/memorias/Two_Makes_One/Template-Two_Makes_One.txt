@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Burn
-| effect_name = Anti-ヒート 
+| effect_name = Anti-Heat 
 | effect_name_JP = アンチ・ヒート
 | effect1 = 
 | effect2 = Chance to Anti-Burn [III / 100%] & Regenerate HP [III / 4%]

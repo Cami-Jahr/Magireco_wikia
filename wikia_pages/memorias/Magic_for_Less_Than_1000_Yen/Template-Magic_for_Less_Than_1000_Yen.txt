@@ -18,7 +18,7 @@
 | max_DEF = 1140
 
 | image = Accele Draw
-| effect_name = Acceleドロー
+| effect_name = Accele Draw
 | effect_name_JP = アクセルドロー
 | effect1 = Accele Draw [100%]
 | effect2 = Accele Draw [100%]

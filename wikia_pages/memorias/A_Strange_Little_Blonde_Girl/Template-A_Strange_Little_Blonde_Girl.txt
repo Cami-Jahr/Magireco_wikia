@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Curse on Attack
-| effect_name = ヴァンパイア ネイル 
+| effect_name = Vampire Nail 
 | effect_name_JP = ヴァンパイア・ネイル
 | effect1 = Chance to Curse on Attack [II / 15%] (1 Turn) & Damage Increase [II / 10%] & Regenerate HP [II / 3%]
 | effect2 = Chance to Curse on Attack [III / 20%] (1 Turn) & Damage Increase [III / 15%] & Regenerate HP [III / 4%]

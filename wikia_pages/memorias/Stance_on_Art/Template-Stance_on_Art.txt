@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Poison
-| effect_name = Venom アーチザン 
+| effect_name = Venom Artisan 
 | effect_name_JP = ヴェノム・アーチザン
 | effect1 = Chance to Anti-Poison [IV / 100%] & Damage Up Versus Enemies Affected With Status Ailments [IV / 32.5%] (1 Turn)
 | effect2 = Chance to Anti-Poison [V / 100%] & Damage Up Versus Enemies Affected With Status Ailments [V / 35%] (1 Turn)

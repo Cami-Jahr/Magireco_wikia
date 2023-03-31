@@ -18,7 +18,7 @@
 | max_DEF = 1810
 
 | image = Status Ailment Resistance Up
-| effect_name = Resistライズ 
+| effect_name = Resist Rise 
 | effect_name_JP = レジストライズ
 | effect1 = Status Ailment Resistance Up [V / 40%] (Self / 3 Turns)
 | effect2 = Status Ailment Resistance Up [VII / 50%] (Self / 3 Turns)

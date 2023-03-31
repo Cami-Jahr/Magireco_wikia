@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Blast Damage Up
-| effect_name = イスティント コンバッテレ 
+| effect_name = Istinto Combattere 
 | effect_name_JP = イスティント・コンバッテレ
 | effect1 = Blast Damage Up [IV / 30%] & Attack Up [III / 15%]
 | effect2 = Blast Damage Up [V / 35%] & Attack Up [IV / 20%]

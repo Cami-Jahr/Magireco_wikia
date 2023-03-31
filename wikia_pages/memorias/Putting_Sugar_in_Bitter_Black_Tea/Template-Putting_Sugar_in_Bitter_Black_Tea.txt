@@ -18,7 +18,7 @@
 | max_DEF = 1110
 
 | image = Defense Up
-| effect_name = Guardライズ 
+| effect_name = Guard Rise 
 | effect_name_JP = ガードライズ
 | effect1 = Defense Up [III / 22.5%] (Self / 3 Turns)
 | effect2 = Defense Up [IV / 30%] (Self / 3 Turns)

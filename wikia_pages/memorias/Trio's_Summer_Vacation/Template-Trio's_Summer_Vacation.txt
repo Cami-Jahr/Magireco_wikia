@@ -18,7 +18,7 @@
 | max_DEF = 2205
 
 | image = Attack Up
-| effect_name = フルスラストライズ 
+| effect_name = Full Thrust Rise 
 | effect_name_JP = フルスラストライズ
 | effect1 = Attack Up [IV / 20%] (Self / 3 Turns) & Charged Attack Damage Up [III / 10%] (Self / 3 Turns) & Accele MP Gain Up [II / 12.5%] (Self / 3 Turns)
 | effect2 = Attack Up [V / 25%] (Self / 3 Turns) & Charged Attack Damage Up [IV / 12.5%] (Self / 3 Turns) & Accele MP Gain Up [III / 15%] (Self / 3 Turns)

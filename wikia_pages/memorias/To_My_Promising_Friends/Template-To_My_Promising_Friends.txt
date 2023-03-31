@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Skill Seal on Attack
-| effect_name = Jammer ブレイド 
+| effect_name = Jammer Blade 
 | effect_name_JP = ジャマー・ブレイド
 | effect1 = Chance to Skill Seal on Attack [III / 20%] (1 Turn) & Damage Up [III / 15%]
 | effect2 = Chance to Skill Seal on Attack [IV / 25%] (1 Turn) & Damage Up [IV / 20%]

@@ -18,7 +18,7 @@
 | max_DEF = 1500
 
 | image = MP Gain Up
-| effect_name = Moraleライズ 
+| effect_name = Morale Rise 
 | effect_name_JP = モラールライズ
 | effect1 = MP Gain Up [II / 7.5%] (Self / 3 Turns)
 | effect2 = MP Gain Up [III / 10%] (Self / 3 Turns)

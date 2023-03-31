@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = MP Gain Up
-| effect_name = 希望と絶望と
+| effect_name = Hope and Despair
 | effect_name_JP = 希望と絶望と
 | effect1 = MP Gain Up [V / 17.5%] & Magia Damage Up [VII / 20%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
 | effect2 = MP Gain Up [V / 17.5%] & Magia Damage Up [IX / 25%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]

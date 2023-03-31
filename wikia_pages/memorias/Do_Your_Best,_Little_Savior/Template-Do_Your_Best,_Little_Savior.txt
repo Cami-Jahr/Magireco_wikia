@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Increase
-| effect_name = オーバーライズ Adept 
+| effect_name = Over Rise Adept 
 | effect_name_JP = オーバーライズ・アデプト
 | effect1 = Damage Increase [II / 10%] & MP Up When Attacked By Weak Element [VI / 7%]
 | effect2 = Damage Increase [III / 15%] & MP Up When Attacked By Weak Element [VI / 7%]

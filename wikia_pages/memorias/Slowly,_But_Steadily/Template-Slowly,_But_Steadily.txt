@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Defense Up
-| effect_name = フォートレス Adept 
+| effect_name = Fortress Adept 
 | effect_name_JP = フォートレス・アデプト
 | effect1 = Defense Up [IV / 22.5%] & Damage Cut [III / 20%] & Attack Down [V / 25%]
 | effect2 = Defense Up [V / 30%] & Damage Cut [IV / 25%] & Attack Down [V / 25%]

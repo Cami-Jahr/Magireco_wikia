@@ -18,7 +18,7 @@
 | max_DEF = 1585
 
 | image = Chance to Poison
-| effect_name = アトリションPoison 
+| effect_name = Attrition Poison 
 | effect_name_JP = アトリションポイズン
 | effect1 = Chance to Poison [IV / 100%] (Target / 1 Turn) & Defense Down [IV / 20%] (Target / 1 Turn)
 | effect2 = Chance to Poison [V / 100%] (Target / 1 Turn) & Defense Down [V / 25%] (Target / 1 Turn)

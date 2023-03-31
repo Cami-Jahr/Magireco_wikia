@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Regenerate HP
-| effect_name = ニートネス Adept 
+| effect_name = Neatness Adept 
 | effect_name_JP = ニートネス・アデプト
 | effect1 = Regenerate HP [I / 2%] & Status Ailment Resistance Up [II / 25%]
 | effect2 = Regenerate HP [II / 3%] & Status Ailment Resistance Up [III / 30%]

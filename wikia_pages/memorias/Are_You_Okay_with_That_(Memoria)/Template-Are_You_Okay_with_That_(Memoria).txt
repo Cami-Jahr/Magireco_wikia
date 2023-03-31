@@ -18,7 +18,7 @@
 | max_DEF = 2225
 
 | image = Magia Damage Up
-| effect_name = お前はそれでいいのかよ
+| effect_name = Are You Okay with That
 | effect_name_JP = お前はそれでいいのかよ
 | effect1 = 
 | effect2 = Magia Damage Up [X / 27.5%] (Self / 3 Turns) & Accele MP Gain Up [VI / 22.5%] (Self / 3 Turns)

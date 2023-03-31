@@ -18,7 +18,7 @@
 | max_DEF = 1075
 
 | image = Regenerate HP
-| effect_name = Regeneration Shield 
+| effect_name = Regenerate Shield 
 | effect_name_JP = リジェネレイト・シールド
 | effect1 = Regenerate HP [III / 4%] (Self / 3 Turns) & Damage Cut [III / 15%] (Self / 3 Turns)
 | effect2 = Regenerate HP [IV / 5%] (Self / 3 Turns) & Damage Cut [IV / 20%] (Self / 3 Turns)

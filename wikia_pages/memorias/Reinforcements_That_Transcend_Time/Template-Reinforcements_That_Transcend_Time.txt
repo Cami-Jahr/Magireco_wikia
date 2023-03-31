@@ -18,7 +18,7 @@
 | max_DEF = 2008
 
 | image = Attack Up
-| effect_name = PenetrateAttack 
+| effect_name = Penetrate Attack 
 | effect_name_JP = ペネトレイトアタック
 | effect1 = Attack Up [IX / 45%] (Self / 1 Turn) & Chance to Defense Pierce [VIII / 45%] (Self / 1 Turn)
 | effect2 = Attack Up [X / 50%] (Self / 1 Turn) & Chance to Defense Pierce [IX / 50%] (Self / 1 Turn)

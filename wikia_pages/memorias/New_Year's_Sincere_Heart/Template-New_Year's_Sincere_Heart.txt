@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Regenerate HP
-| effect_name = バイタルAttack Adept 
+| effect_name = Vital Attack Adept 
 | effect_name_JP = バイタルアタック・アデプト
 | effect1 = Regenerate HP [I / 2%] & Attack Up [II / 10%]
 | effect2 = Regenerate HP [III / 4%] & Attack Up [II / 10%]

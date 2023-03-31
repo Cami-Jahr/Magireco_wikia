@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = MP Gain Up
-| effect_name = 誰も知らない、私たちの記録
+| effect_name = No One Knows Our Record
 | effect_name_JP = 誰も知らない、私たちの記録
 | effect1 = 
 | effect2 = MP Gain Up [IV / 12.5%] & Damage Cut [III / 15%] & Regenerate HP [III / 4%]

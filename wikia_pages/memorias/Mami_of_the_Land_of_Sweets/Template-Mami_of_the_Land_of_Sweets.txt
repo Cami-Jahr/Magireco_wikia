@@ -18,7 +18,7 @@
 | max_DEF = 1795
 
 | image = Chance to Anti-Counter
-| effect_name = ネグレクト Counter 
+| effect_name = Neglect Counter 
 | effect_name_JP = ネグレクト・カウンター
 | effect1 = Chance to Anti-Counter [V / 100%] (Self / 1 Turn) & Attack Up [V / 25%] (Self / 1 Turn) & Endure [100%] (Self / 1 Turn)
 | effect2 = Chance to Anti-Counter [VI / 100%] (Self / 1 Turn) & Attack Up [VI / 30%] (Self / 1 Turn) & Endure [100%] (Self / 1 Turn)

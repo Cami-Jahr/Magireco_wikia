@@ -18,7 +18,7 @@
 | max_DEF = 2015
 
 | image = MP Gain Down
-| effect_name = Cower Morale 
+| effect_name = Quell Morale 
 | effect_name_JP = クウェル・モラール
 | effect1 = MP Gain Down [VIII / 45%] (All Enemies / 1 Turn)
 | effect2 = MP Gain Down [IX / 50%] (All Enemies / 1 Turn)

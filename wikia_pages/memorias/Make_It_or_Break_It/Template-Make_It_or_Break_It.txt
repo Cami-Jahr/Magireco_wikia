@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up While At Max Health
-| effect_name = チェスト Adept 
+| effect_name = Chest Adept 
 | effect_name_JP = チェスト・アデプト
 | effect1 = Attack Up While At Max Health [V / 25%] & Chance to Anti-Counter [V / 45%] & Defense Down [V / 25%]
 | effect2 = Attack Up While At Max Health [VI / 30%] & Chance to Anti-Counter [V / 100%] & Defense Down [V / 25%]

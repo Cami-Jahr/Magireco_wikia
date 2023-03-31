@@ -18,7 +18,7 @@
 | max_DEF = 2500
 
 | image = Status Ailment Resistance Down
-| effect_name = ウィークポイント 
+| effect_name = Weak Point 
 | effect_name_JP = ウィークポイント
 | effect1 = Status Ailment Resistance Down [VII / 20%] (All Enemies / 1 Turn) & Defense Down [VIII / 40%] (All Enemies / 1 Turn)
 | effect2 = Status Ailment Resistance Down [VIII / 22.5%] (All Enemies / 1 Turn) & Defense Down [IX / 45%] (All Enemies / 1 Turn)

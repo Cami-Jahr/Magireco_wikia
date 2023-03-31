@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = PenetrateRising 
+| effect_name = Penetrate Rising 
 | effect_name_JP = ペネトレイトライジング
 | effect1 = Attack Up [II / 10%] & Chance to Defense Pierce [II / 15%]
 | effect2 = Attack Up [III / 15%] & Chance to Defense Pierce [III / 20%]

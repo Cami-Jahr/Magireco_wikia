@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Poison
-| effect_name = 無病息災
+| effect_name = Good Health
 | effect_name_JP = 無病息災
 | effect1 = Chance to Anti-Poison [X / 70%] & Chance to Anti-Burn [IV / 40%] & Chance to Anti-Curse [IV / 40%]
 | effect2 = Chance to Anti-Poison [IX / 100%] & Chance to Anti-Burn [IX / 65%] & Chance to Anti-Curse [IX / 65%]

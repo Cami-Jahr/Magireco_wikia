@@ -1,5 +1,5 @@
 ﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
-| name = â€˜Tis I, the Third Amane Sister, Tsukune
+| name = ‘Tis I, the Third Amane Sister, Tsukune
 | ImageSrc = 
 | Event = 
 
@@ -18,7 +18,7 @@
 | max_DEF = 1360
 
 | image = Chance to Dazzle
-| effect_name = 天音姉妹の三女月練でござる
+| effect_name = ‘Tis I, the Third Amane Sister, Tsukune
 | effect_name_JP = 天音姉妹の三女月練でござる
 | effect1 = Chance to Dazzle [8 / 8%] (Target / 1 Turn)
 | effect2 = Chance to Dazzle [88 / 16%] (Target / 1 Turn)

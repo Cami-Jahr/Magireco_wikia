@@ -5,7 +5,9 @@ from json import loads
 from effect_translator import (
     jp_to_en,
     roman_to_full,
-    translate)
+    translate,
+    translate_jap_to_eng,
+    translate_roman_to_ascii)
 from helpers import get_char_list
 
 textS = """{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
@@ -485,30 +487,26 @@ def make_spirit_enchantment(cells):
                 if eng[e][1]:
                     st += f" ({eng[e][1]})"
 
-            jp = cell["emotionSkill"]["name"].strip()
-            # for s, f in roman_to_full.items():
-            #    jp = jp.replace(s, f)
-            en = jp
-            for j, e in jp_to_en.items():
-                en = en.replace(j, e)
-            for s, f in roman_to_full.items():
-                en = en.replace(s, f)
-            for c in en:
+            skill_name_jp = cell["emotionSkill"]["name"].strip()
+            skill_name_en = skill_name_jp
+            skill_name_en = translate_jap_to_eng(skill_name_en)
+            skill_name_en = translate_roman_to_ascii(skill_name_en)
+            for c in skill_name_en:
                 if ord(c) > 200:
-                    print("missing translation?", repr(en))
-                    for c in en:
+                    print("missing translation?", repr(skill_name_en))
+                    for c in skill_name_en:
                         print(ord(c), end=" ")
                     print()
                     break
             if cell["emotionSkill"]["type"] == "ABILITY":
-                p_output += p_temp.format(p_idx, jp, en, icon, st)
+                p_output += p_temp.format(p_idx, skill_name_jp, skill_name_en, icon, st)
                 p_idx += 1
             else:  # SKILL
                 try:
                     duration = cell["emotionSkill"]["intervalTurn"]
                 except KeyError:
                     duration = "∞"
-                a_output += a_temp.format(a_idx, jp, en, icon, st, duration)
+                a_output += a_temp.format(a_idx, skill_name_jp, skill_name_en, icon, st, duration)
                 a_idx += 1
         elif cell["enhancementType"] == "START":
             pass

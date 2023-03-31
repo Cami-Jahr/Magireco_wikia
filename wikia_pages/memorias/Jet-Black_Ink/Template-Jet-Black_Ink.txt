@@ -18,7 +18,7 @@
 | max_DEF = 1275
 
 | image = Chance to Bind
-| effect_name = Bind ハルシネ―ション 
+| effect_name = Bind Hallucination 
 | effect_name_JP = バインド・ハルシネ―ション
 | effect1 = Chance to Bind [IV / 37.5%] (Target / 1 Turn) & Defense Down [V / 25%] (Target / 1 Turn)
 | effect2 = Chance to Bind [V / 40%] (Target / 1 Turn) & Defense Down [VI / 30%] (Target / 1 Turn)

@@ -18,7 +18,7 @@
 | max_DEF = 2100
 
 | image = MP Gain Up
-| effect_name = Moraleイミュニティライズ 
+| effect_name = Morale Immunity Rise 
 | effect_name_JP = モラールイミュニティライズ
 | effect1 = MP Gain Up [III / 10%] (Self / 3 Turns) & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
 | effect2 = MP Gain Up [IV / 12.5%] (Self / 3 Turns) & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns)

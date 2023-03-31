@@ -18,7 +18,7 @@
 | max_DEF = 2005
 
 | image = Status Ailment Resistance Up
-| effect_name = Resistライズ Circle 
+| effect_name = Resist Rise Circle 
 | effect_name_JP = レジストライズ・サークル
 | effect1 = Status Ailment Resistance Up [IV / 25%] (Allies / 3 Turns)
 | effect2 = Status Ailment Resistance Up [V / 30%] (Allies / 3 Turns)

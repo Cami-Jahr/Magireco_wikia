@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Poison
-| effect_name = アダマント Adept 
+| effect_name = Adamant Adept 
 | effect_name_JP = アダマント・アデプト
 | effect1 = Chance to Anti-Poison [IV / 100%] & Chance to Anti-Charm [IV / 100%] & Defense Up [IV / 30%]
 | effect2 = Chance to Anti-Poison [V / 100%] & Chance to Anti-Charm [V / 100%] & Defense Up [V / 37.5%]

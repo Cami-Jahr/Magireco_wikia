@@ -18,7 +18,7 @@
 | max_DEF = 2218
 
 | image = Chance to Bind
-| effect_name = バインディングMagia 
+| effect_name = Binding Magia 
 | effect_name_JP = バインディングマギア
 | effect1 = Chance to Bind [III / 35%] (All Enemies / 1 Turn) & Magia Damage Up [VI / 17.5%] (Self / 1 Turn)
 | effect2 = Chance to Bind [IV / 37.5%] (All Enemies / 1 Turn) & Magia Damage Up [VII / 20%] (Self / 1 Turn)

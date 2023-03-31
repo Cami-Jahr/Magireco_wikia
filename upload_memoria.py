@@ -6,7 +6,9 @@ from pathlib import Path
 from effect_translator import (
     jp_to_en,
     roman_to_full,
-    translate)
+    translate,
+    translate_jap_to_eng,
+    translate_roman_to_ascii)
 from helpers import (
     get_char_list,
     get_memo_list)
@@ -153,13 +155,9 @@ def read(piece, chars):
             old_cooldown = cooldown
             old_description = description_jp
 
-        # for roman_nr, latin_nr in roman_to_full.items():
-        #    skill_name_jp = skill_name_jp.replace(roman_nr, latin_nr)
         skill_name_en = skill_name_jp
-        for jp_skill, en_skill in jp_to_en.items():
-            skill_name_en = skill_name_en.replace(jp_skill, en_skill)
-        for roman_nr, latin_nr in roman_to_full.items():
-            skill_name_en = skill_name_en.replace(roman_nr, latin_nr)
+        skill_name_en = translate_jap_to_eng(skill_name_en)
+        skill_name_en = translate_roman_to_ascii(skill_name_en)
         for c in skill_name_en:
             if ord(c) > 200:  # means that skill_name_en text contains special non-ascii characters
                 # print("missing translation for", piece["pieceId"], "?", repr(skill_name_en))

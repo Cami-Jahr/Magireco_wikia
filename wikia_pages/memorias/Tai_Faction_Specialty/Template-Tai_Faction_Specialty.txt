@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Evade
-| effect_name = アサシン Adept 
+| effect_name = Assassin Adept 
 | effect_name_JP = アサシン・アデプト
 | effect1 = Chance to Evade [II / 15%] & Chance to Chase [II / 80%]
 | effect2 = Chance to Evade [III / 20%] & Chance to Chase [III / 80%]

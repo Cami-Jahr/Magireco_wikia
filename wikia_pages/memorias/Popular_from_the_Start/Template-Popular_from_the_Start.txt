@@ -18,7 +18,7 @@
 | max_DEF = 1908
 
 | image = Defense Down
-| effect_name = スナイピングMagia 
+| effect_name = Sniping Magia 
 | effect_name_JP = スナイピングマギア
 | effect1 = Defense Down [V / 25%] (Target / 1 Turn) & Magia Damage Up [VI / 17.5%] (Self / 1 Turn)
 | effect2 = Defense Down [VI / 30%] (Target / 1 Turn) & Magia Damage Up [VII / 20%] (Self / 1 Turn)

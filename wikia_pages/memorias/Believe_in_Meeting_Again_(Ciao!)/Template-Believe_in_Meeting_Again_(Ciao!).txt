@@ -18,7 +18,7 @@
 | max_DEF = 1688
 
 | image = Remove Debuffs
-| effect_name = キュア 
+| effect_name = Cure 
 | effect_name_JP = キュア
 | effect1 = Remove Debuffs [%] & HP Restore [II / 32.5%]
 | effect2 = Remove Debuffs [%] & HP Restore [III / 35%]

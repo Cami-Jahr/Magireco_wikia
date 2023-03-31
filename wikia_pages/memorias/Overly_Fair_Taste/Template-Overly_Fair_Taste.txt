@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Magia Damage Up
-| effect_name = フィーライン ロバストネス 
+| effect_name = Feline Robustness 
 | effect_name_JP = フィーライン・ロバストネス
 | effect1 = Magia Damage Up [III / 10%] & Attack Up [III / 15%]
 | effect2 = Magia Damage Up [IV / 12.5%] & Attack Up [IV / 20%]

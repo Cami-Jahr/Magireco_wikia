@@ -18,7 +18,7 @@
 | max_DEF = 1575
 
 | image = Chance to Dazzle
-| effect_name = スウィート トーク 
+| effect_name = Sweet Talk 
 | effect_name_JP = スウィート・トーク
 | effect1 = Chance to Dazzle [VI / 42.5%] (Target / 1 Turn) & Attack Down [VI / 30%] (Target / 1 Turn)
 | effect2 = Chance to Dazzle [VII / 45%] (Target / 1 Turn) & Attack Down [VII / 35%] (Target / 1 Turn)

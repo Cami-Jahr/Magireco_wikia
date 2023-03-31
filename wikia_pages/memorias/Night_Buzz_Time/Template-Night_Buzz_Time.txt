@@ -18,7 +18,7 @@
 | max_DEF = 2015
 
 | image = Status Ailment Resistance Down
-| effect_name = CowerResistMagia 
+| effect_name = Cower Resist Magia 
 | effect_name_JP = クウェルレジストマギア
 | effect1 = Status Ailment Resistance Down [VI / 17.5%] (All Enemies / 1 Turn) & Magia Damage Up [VI / 17.5%] (Self / 1 Turn)
 | effect2 = Status Ailment Resistance Down [VI / 17.5%] (All Enemies / 1 Turn) & Magia Damage Up [VII / 20%] (Self / 1 Turn)

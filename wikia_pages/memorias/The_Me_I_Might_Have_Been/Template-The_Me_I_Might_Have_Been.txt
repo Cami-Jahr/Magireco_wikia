@@ -18,7 +18,7 @@
 | max_DEF = 1535
 
 | image = Defense Down
-| effect_name = Guardブレイク 
+| effect_name = Guard Break 
 | effect_name_JP = ガードブレイク
 | effect1 = 
 | effect2 = Defense Down [III / 15%] (Target / 1 Turn)

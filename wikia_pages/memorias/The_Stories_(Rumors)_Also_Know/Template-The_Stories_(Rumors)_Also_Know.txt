@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Guardian
-| effect_name = Covering スピリット 
+| effect_name = Covering Spirit 
 | effect_name_JP = カバーリング・スピリット
 | effect1 = Chance to Guardian [II / 15%] & Regenerate HP [I / 2%]
 | effect2 = Chance to Guardian [III / 20%] & Regenerate HP [II / 3%]

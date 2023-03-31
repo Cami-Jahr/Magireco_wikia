@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Regenerate HP
-| effect_name = リベレイト Adept 
+| effect_name = Liberate Adept 
 | effect_name_JP = リベレイト・アデプト
 | effect1 = Regenerate HP [II / 3%] & Chance to Anti-Bind [II / 100%]
 | effect2 = Regenerate HP [III / 4%] & Chance to Anti-Bind [III / 100%]

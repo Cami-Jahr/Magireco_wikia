@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = グリッター Adept 
+| effect_name = Glitter Adept 
 | effect_name_JP = グリッター・アデプト
 | effect1 = Attack Up [IV / 20%] & MP Gain Up [III / 10%]
 | effect2 = Attack Up [V / 25%] & MP Gain Up [IV / 12.5%]

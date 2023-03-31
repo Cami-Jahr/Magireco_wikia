@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Episode Experience Gain Increased
-| effect_name = EpisodeBloom Adept 
+| effect_name = Episode Bloom Adept 
 | effect_name_JP = エピソードブルーム・アデプト
 | effect1 = 
 | effect2 = Episode Experience Gain Increased [III / 25%] & Attack Up [I / 5%] & Defense Up [I / 7.5%]

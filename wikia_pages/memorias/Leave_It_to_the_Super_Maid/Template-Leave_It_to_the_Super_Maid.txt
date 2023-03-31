@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = RegenerationBloom 
+| effect_name = Regenerate Bloom 
 | effect_name_JP = リジェネレイトブルーム
 | effect1 = Attack Up [III / 15%] & Defense Up [III / 22.5%] & Regenerate HP [I / 2%]
 | effect2 = Attack Up [IV / 20%] & Defense Up [IV / 30%] & Regenerate HP [II / 3%]

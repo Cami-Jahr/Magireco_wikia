@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Blast Damage Up
-| effect_name = ネバーフォーゲット
+| effect_name = Never Forget
 | effect_name_JP = ネバーフォーゲット
 | effect1 = 
 | effect2 = Blast Damage Up [IV / 30%] & Blast Damage Cut [II / 10%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]

@@ -18,7 +18,7 @@
 | max_DEF = 2235
 
 | image = Blast Damage Down
-| effect_name = ブラー ヘイズ 
+| effect_name = Blur Haze 
 | effect_name_JP = ブラー・ヘイズ
 | effect1 = Blast Damage Down [VII / 20%] (Target / 3 Turns) & Chance to Fog [XV / 65%] (Target / 3 Turns)
 | effect2 = Blast Damage Down [VIII / 22.5%] (Target / 3 Turns) & Chance to Fog [VIII / 100%] (Target / 3 Turns)

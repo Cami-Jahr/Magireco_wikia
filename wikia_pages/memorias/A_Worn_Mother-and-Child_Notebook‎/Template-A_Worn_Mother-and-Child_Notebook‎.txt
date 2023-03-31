@@ -1,5 +1,5 @@
 ﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
-| name = A Worn Mother-and-Child Notebookâ€Ž
+| name = A Worn Mother-and-Child Notebook‎
 | ImageSrc = 
 | Event = 
 
@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Blast Damage Up
-| effect_name = イスティント コンバッテレ 
+| effect_name = Istinto Combattere 
 | effect_name_JP = イスティント・コンバッテレ
 | effect1 = Blast Damage Up [IX / 55%] & Attack Up [VI / 30%]
 | effect2 = Blast Damage Up [X / 60%] & Attack Up [VII / 35%]

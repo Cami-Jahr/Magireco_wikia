@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Magia Seal
-| effect_name = Anti-Magia Seal
+| effect_name = Anti-Seal Magia
 | effect_name_JP = アンチ・シールマギア
 | effect1 = Chance to Anti-Magia Seal [VII / 55%]
 | effect2 = Chance to Anti-Magia Seal [100%]

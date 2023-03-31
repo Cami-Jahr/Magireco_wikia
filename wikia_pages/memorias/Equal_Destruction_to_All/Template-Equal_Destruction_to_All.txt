@@ -18,7 +18,7 @@
 | max_DEF = 2150
 
 | image = Attack Up
-| effect_name = Bloom アピール 
+| effect_name = Bloom Appeal 
 | effect_name_JP = ブルーム・アピール
 | effect1 = Attack Up [VI / 30%] (Self / 1 Turn) & Defense Up [VI / 45%] (Self / 1 Turn) & Chance to Provoke [VI / 100%] (Self / 1 Turn)
 | effect2 = Attack Up [VII / 35%] (Self / 1 Turn) & Defense Up [VII / 52.5%] (Self / 1 Turn) & Chance to Provoke [VII / 100%] (Self / 1 Turn)

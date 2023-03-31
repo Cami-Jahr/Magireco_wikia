@@ -18,7 +18,7 @@
 | max_DEF = 2105
 
 | image = Attack Down
-| effect_name = サプレス Attack 
+| effect_name = Suppress Attack 
 | effect_name_JP = サプレス・アタック
 | effect1 = Attack Down [II / 17.5%] (All Enemies / 3 Turns)
 | effect2 = Attack Down [III / 20%] (All Enemies / 3 Turns)

@@ -18,7 +18,7 @@
 | max_DEF = 2148
 
 | image = Attack Up
-| effect_name = Auraライズ 
+| effect_name = Aura Rise 
 | effect_name_JP = オーラライズ
 | effect1 = Attack Up [V / 25%] (Self / 3 Turns) & Damage Cut [V / 25%] (Self / 3 Turns)
 | effect2 = Attack Up [VI / 30%] (Self / 3 Turns) & Damage Cut [VI / 30%] (Self / 3 Turns)

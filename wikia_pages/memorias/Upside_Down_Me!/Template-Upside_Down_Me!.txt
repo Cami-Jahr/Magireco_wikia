@@ -18,7 +18,7 @@
 | max_DEF = 1102
 
 | image = Damage Up
-| effect_name = Slashライズ 
+| effect_name = Slash Rise 
 | effect_name_JP = スラッシュライズ
 | effect1 = Damage Up [III / 15%] (Self / 3 Turns)
 | effect2 = Damage Up [IV / 20%] (Self / 3 Turns)

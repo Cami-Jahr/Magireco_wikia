@@ -18,7 +18,7 @@
 | max_DEF = 1840
 
 | image = Blast Damage Up
-| effect_name = ブランディッシュ 
+| effect_name = Brandish 
 | effect_name_JP = ブランディッシュ
 | effect1 = 
 | effect2 = Blast Damage Up [V / 35%] (Self / 1 Turn) & Damage Up [III / 15%] (Self / 1 Turn)

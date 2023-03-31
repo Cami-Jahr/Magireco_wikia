@@ -18,7 +18,7 @@
 | max_DEF = 1000
 
 | image = Regenerate HP
-| effect_name = Manaガイザー 
+| effect_name = Mana Geyser 
 | effect_name_JP = マナガイザー
 | effect1 = 
 | effect2 = Regenerate HP [III / 4%] (Self / 3 Turns) & Magia Damage Up [III / 10%] (Self / 3 Turns)

@@ -18,7 +18,7 @@
 | max_DEF = 1080
 
 | image = MP Gain Down
-| effect_name = トライアンファント 
+| effect_name = Triumphant 
 | effect_name_JP = トライアンファント
 | effect1 = MP Gain Down [VIII / 45%] (All Enemies / 3 Turns) & MP Gain Up [II / 7.5%] (Self / 3 Turns)
 | effect2 = MP Gain Down [IX / 50%] (All Enemies / 3 Turns) & MP Gain Up [III / 10%] (Self / 3 Turns)

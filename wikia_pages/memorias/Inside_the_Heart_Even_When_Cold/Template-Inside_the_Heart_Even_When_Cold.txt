@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Defense Up
-| effect_name = ディリジェンス Adept 
+| effect_name = Diligence Adept 
 | effect_name_JP = ディリジェンス・アデプト
 | effect1 = Defense Up [V / 37.5%] & MP Gain Up [III / 10%]
 | effect2 = Defense Up [VI / 45%] & MP Gain Up [IV / 12.5%]

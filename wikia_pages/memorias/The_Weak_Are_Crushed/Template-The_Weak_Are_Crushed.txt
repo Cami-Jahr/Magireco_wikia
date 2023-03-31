@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = ウィル Adept 
+| effect_name = Will Adept 
 | effect_name_JP = ウィル・アデプト
 | effect1 = Attack Up [II / 10%] & Chance to Anti-Provoke [IV / 45%]
 | effect2 = Attack Up [III / 15%] & Chance to Anti-Provoke [VI / 55%]

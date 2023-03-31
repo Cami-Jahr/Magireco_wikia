@@ -18,7 +18,7 @@
 | max_DEF = 1270
 
 | image = Endure
-| effect_name = イモータリティ 
+| effect_name = Immortality 
 | effect_name_JP = イモータリティ
 | effect1 = Endure [100%] (Self / 3 Turns) & Regenerate HP [I / 2%] (Self / 3 Turns)
 | effect2 = Endure [100%] (Self / 3 Turns) & Regenerate HP [II / 3%] (Self / 3 Turns)

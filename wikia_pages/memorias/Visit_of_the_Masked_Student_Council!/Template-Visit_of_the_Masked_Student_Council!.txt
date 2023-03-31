@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Increase
-| effect_name = ブレッシング Adept
+| effect_name = Blessing Adept
 | effect_name_JP = ブレッシング・アデプト
 | effect1 = 
 | effect2 = Damage Increase [III / 15%] & Chance to Anti-Curse [III / 100%]

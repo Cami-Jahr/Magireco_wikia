@@ -18,7 +18,7 @@
 | max_DEF = 1500
 
 | image = Magia Damage Cut
-| effect_name = MagiaShield 
+| effect_name = Magia Shield 
 | effect_name_JP = マギアシールド
 | effect1 = Magia Damage Cut [IV / 20%] (Self / 1 Turn)
 | effect2 = Magia Damage Cut [VI / 30%] (Self / 1 Turn)

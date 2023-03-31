@@ -18,7 +18,7 @@
 | max_DEF = 1265
 
 | image = Blast Draw
-| effect_name = Blastドロー
+| effect_name = Blast Draw
 | effect_name_JP = ブラストドロー
 | effect1 = Blast Draw [100%]
 | effect2 = Blast Draw [100%]

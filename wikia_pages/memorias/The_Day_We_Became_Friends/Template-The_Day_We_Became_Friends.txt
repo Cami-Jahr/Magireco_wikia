@@ -18,7 +18,7 @@
 | max_DEF = 1355
 
 | image = Chance to Critical Hit
-| effect_name = エスペランサ― Force 
+| effect_name = Esperansa Force 
 | effect_name_JP = エスペランサ―・フォース
 | effect1 = Chance to Critical Hit [I / 10%] (Self / 3 Turns) & Attack Up [II / 10%] (Self / 3 Turns)
 | effect2 = Chance to Critical Hit [I / 15%] (Self / 3 Turns) & Attack Up [III / 15%] (Self / 3 Turns)

@@ -18,7 +18,7 @@
 | max_DEF = 1000
 
 | image = MP Restore
-| effect_name = まっしろな未来 
+| effect_name = Pure White Futures 
 | effect_name_JP = まっしろな未来
 | effect1 = 
 | effect2 = MP Restore [II / 18 MP]

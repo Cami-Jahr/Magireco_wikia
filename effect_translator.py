@@ -1,3 +1,4 @@
+import json
 import re
 
 roman_to_full = {
@@ -34,6 +35,13 @@ roman_to_full = {
     "8": "8",  # ‘Tis I, the Third Amane Sister, Tsukune
     "88": "88",
 }
+
+
+def translate_roman_to_ascii(string):
+    for roman_nr, latin_nr in roman_to_full.items():
+        string = string.replace(roman_nr, latin_nr)
+    return string
+
 
 # Format is (description, uses_roman, includes_turns, no_state_target)
 
@@ -423,6 +431,19 @@ jp_to_en = {
     "ウェポン": "Weapon",
 }
 
+with open("existing_translations.json", "r", encoding="utf-8") as f:
+    existing_translations = [(w[0], w[1]) for w in json.load(f).items()]
+    existing_translations.sort(reverse=True, key=lambda w: len(w[0]))
+
+
+def translate_jap_to_eng(string):
+    for jap_text, eng_text in existing_translations:
+        string = string.replace(jap_text, eng_text)
+    for jap_text, eng_text in jp_to_en.items():
+        string = string.replace(jap_text, eng_text)
+    return string
+
+
 target_tl = {
     "TARGET": "Target",
     "SELF": "Self",
@@ -488,11 +509,11 @@ def translate(shortDescription, arts):
                 effect = ""
             else:
                 if pro and (val >= 100 or val == 0):
-                    if effect_code in ("BARRIER", ):
+                    if effect_code in ("BARRIER",):
                         effect = val
                     else:
                         effect = pro
-                elif verb_code in ("ENCHANT", "CONDITION_BAD", "IGNORE") or effect_code in ("COUNTER", ):
+                elif verb_code in ("ENCHANT", "CONDITION_BAD", "IGNORE") or effect_code in ("COUNTER",):
                     effect = pro
                 else:
                     effect = val
@@ -514,7 +535,7 @@ def translate(shortDescription, arts):
                     effect = effect.replace("%", "% full")
                 else:
                     effect = effect.replace("%", " MP")
-            if effect_code in ("AUTO_HEAL", ) and "genericValue" in art and art["genericValue"] == "MP":
+            if effect_code in ("AUTO_HEAL",) and "genericValue" in art and art["genericValue"] == "MP":
                 text = text.replace("HP", "MP")
                 effect = effect.replace("%", " MP")
             if text == "Damage Up" and "状態" in shortDescription:
@@ -525,7 +546,7 @@ def translate(shortDescription, arts):
             if effect_code in ("BARRIER",):
                 effect = effect.replace("%", "0 damage")
 
-            if effect_code in ("DEBUFF", ) and verb_code in ("IGNORE", ):
+            if effect_code in ("DEBUFF",) and verb_code in ("IGNORE",):
                 nr = art_ids.count(art_id)
                 effect = f"{nr} Debuff{'s' if nr > 1 else ''}"
 
@@ -534,7 +555,7 @@ def translate(shortDescription, arts):
                 # Differentiates between effects that target all allies or all enemies by whether they are beneficial
                 if target == 'All':
                     if verb_code in ("CONDITION_GOOD", "BUFF", "IGNORE", "LIMITED_ENEMY_TYPE", "TURN_ALLY"
-                                     ) or (verb_code == 'REVOKE' and effect_code in ("BAD", "DEBUFF")) or (
+                    ) or (verb_code == 'REVOKE' and effect_code in ("BAD", "DEBUFF")) or (
                             verb_code == "HEAL" and effect_code in ("HP", "MP")):
                         target = "Allies"
                     else:

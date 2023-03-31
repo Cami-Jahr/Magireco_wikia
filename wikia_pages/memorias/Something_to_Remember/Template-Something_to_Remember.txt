@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = スラスト Adept 
+| effect_name = Thrust Adept 
 | effect_name_JP = スラスト・アデプト
 | effect1 = Attack Up [II / 10%] & Accele MP Gain Up [III / 15%]
 | effect2 = Attack Up [III / 15%] & Accele MP Gain Up [IV / 17.5%]

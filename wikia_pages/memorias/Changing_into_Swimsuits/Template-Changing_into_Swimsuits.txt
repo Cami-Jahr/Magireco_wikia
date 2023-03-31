@@ -18,7 +18,7 @@
 | max_DEF = 1358
 
 | image = Attack Down
-| effect_name = アルーア 
+| effect_name = Allure 
 | effect_name_JP = アルーア
 | effect1 = Attack Down [I / 20%] (All Enemies / 1 Turn) & Chance to Charm [IV / 30%] (All Enemies / 1 Turn)
 | effect2 = Attack Down [III / 25%] (All Enemies / 1 Turn) & Chance to Charm [V / 35%] (All Enemies / 1 Turn)

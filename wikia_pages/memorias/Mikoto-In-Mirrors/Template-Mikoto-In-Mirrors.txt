@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Provoke
-| effect_name = ブレイクSoul 
+| effect_name = Break Soul 
 | effect_name_JP = ブレイクソウル
 | effect1 = Chance to Anti-Provoke [VI / 55%] & Ignore Damage Cut [VI / 55%]
 | effect2 = Chance to Anti-Provoke [VIII / 65%] & Ignore Damage Cut [VIII / 65%]

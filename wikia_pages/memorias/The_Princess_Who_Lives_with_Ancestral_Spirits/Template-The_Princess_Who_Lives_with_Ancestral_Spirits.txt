@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Aqua Attribute Attack Up
-| effect_name = アクアBloom Adept 
+| effect_name = Aqua Bloom Adept 
 | effect_name_JP = アクアブルーム・アデプト
 | effect1 = 
 | effect2 = Aqua Attribute Attack Up [V / 15%] & Defense Up [III / 22.5%]

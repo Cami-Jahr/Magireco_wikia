@@ -18,7 +18,7 @@
 | max_DEF = 1050
 
 | image = MP Gain Down
-| effect_name = ブリーイング 
+| effect_name = Bullying 
 | effect_name_JP = ブリーイング
 | effect1 = MP Gain Down [VII / 40%] (All Enemies / 1 Turn) & Regenerate HP [III / 4%] (Self / 3 Turns)
 | effect2 = MP Gain Down [VIII / 45%] (All Enemies / 1 Turn) & Regenerate HP [IV / 5%] (Self / 3 Turns)

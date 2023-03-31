@@ -18,7 +18,7 @@
 | max_DEF = 1170
 
 | image = Chance to Anti-Evade
-| effect_name = ブルズアイ
+| effect_name = Bullseye
 | effect_name_JP = ブルズアイ
 | effect1 = Chance to Anti-Evade [100%] (Self / 3 Turns)
 | effect2 = Chance to Anti-Evade [100%] (Self / 3 Turns)

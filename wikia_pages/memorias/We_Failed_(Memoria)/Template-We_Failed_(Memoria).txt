@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = 僕たちは失敗した
+| effect_name = We Failed
 | effect_name_JP = 僕たちは失敗した
 | effect1 = 
 | effect2 = Attack Up [IV / 20%] & Magia Damage Up [IV / 12.5%] & Status Ailment Resistance Up [III / 30%]

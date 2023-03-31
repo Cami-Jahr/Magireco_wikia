@@ -18,7 +18,7 @@
 | max_DEF = 2202
 
 | image = Chance to Provoke
-| effect_name = ダイヴァージョン 
+| effect_name = Diversion 
 | effect_name_JP = ダイヴァージョン
 | effect1 = Chance to Provoke [VIII / 100%] (Self / 1 Turn) & Defense Up [VIII / 60%] (Self / 1 Turn)
 | effect2 = Chance to Provoke [IX / 100%] (Self / 1 Turn) & Defense Up [IX / 67.5%] (Self / 1 Turn)

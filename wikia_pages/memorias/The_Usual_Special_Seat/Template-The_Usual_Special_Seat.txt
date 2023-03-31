@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Blast Damage Up
-| effect_name = コンシール Adept 
+| effect_name = Conceal Adept 
 | effect_name_JP = コンシール・アデプト
 | effect1 = Blast Damage Up [V / 35%] & Chance to Anti-Evade [XIII / 85%]
 | effect2 = Blast Damage Up [VI / 40%] & Chance to Anti-Evade [VI / 100%]

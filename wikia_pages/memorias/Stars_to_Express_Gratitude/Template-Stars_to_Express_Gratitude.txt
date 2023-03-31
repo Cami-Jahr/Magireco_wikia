@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Cut
-| effect_name = アーマメントAura Adept 
+| effect_name = Armorment Aura Adept 
 | effect_name_JP = アーマメントオーラ・アデプト
 | effect1 = Damage Cut [III / 15%] & Attack Up [III / 15%] & Damage Increase [II / 10%]
 | effect2 = Damage Cut [IV / 20%] & Attack Up [III / 15%] & Damage Increase [III / 15%]

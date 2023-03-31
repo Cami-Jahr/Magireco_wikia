@@ -18,7 +18,7 @@
 | max_DEF = 1082
 
 | image = Chance to Fog
-| effect_name = シック Fog 
+| effect_name = Thick Fog 
 | effect_name_JP = シック・フォッグ
 | effect1 = Chance to Fog [XIII / 60%] (Target / 3 Turns) & Attack Down [III / 15%] (Target / 3 Turns)
 | effect2 = Chance to Fog [XV / 65%] (Target / 3 Turns) & Attack Down [IV / 20%] (Target / 3 Turns)

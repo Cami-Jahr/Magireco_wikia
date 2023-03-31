@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Accele MP Gain Up
-| effect_name = やがて消えゆく少女たちよ
+| effect_name = All the Girls Disappearing
 | effect_name_JP = やがて消えゆく少女たちよ
 | effect1 = 
 | effect2 = Accele MP Gain Up [VI / 22.5%] & Charge Disc Damage Up [IV / 20%] & Attack Up [IV / 20%]

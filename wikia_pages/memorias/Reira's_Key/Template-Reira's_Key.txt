@@ -18,7 +18,7 @@
 | max_DEF = 1122
 
 | image = MP Gain Up
-| effect_name = Morale Up 
+| effect_name = Morale Raise 
 | effect_name_JP = モラールアップ
 | effect1 = MP Gain Up [IX / 25%] (Self / 1 Turn)
 | effect2 = MP Gain Up [X / 27.5%] (Self / 1 Turn)

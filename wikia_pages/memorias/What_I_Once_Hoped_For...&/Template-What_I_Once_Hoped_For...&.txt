@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Magia Damage Up
-| effect_name = Magiaステップ Adept 
+| effect_name = Magia Step Adept 
 | effect_name_JP = マギアステップ・アデプト
 | effect1 = Magia Damage Up [III / 10%] & Chance to Evade [II / 15%]
 | effect2 = Magia Damage Up [IV / 12.5%] & Chance to Evade [III / 20%]

@@ -18,7 +18,7 @@
 | max_DEF = 2040
 
 | image = Remove Debuffs
-| effect_name = カウンタラクト
+| effect_name = Counteract
 | effect_name_JP = カウンタラクト
 | effect1 = 
 | effect2 = Remove Debuffs [%]

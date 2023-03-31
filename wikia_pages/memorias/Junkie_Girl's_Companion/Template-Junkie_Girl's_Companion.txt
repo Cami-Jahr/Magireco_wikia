@@ -18,7 +18,7 @@
 | max_DEF = 1152
 
 | image = Monopolize Draw
-| effect_name = モノポライズドロー
+| effect_name = Monopolize Draw
 | effect_name_JP = モノポライズドロー
 | effect1 = Monopolize Draw [100%]
 | effect2 = Monopolize Draw [100%]

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Curse
-| effect_name = ファントム スピリット 
+| effect_name = Phantom Spirit 
 | effect_name_JP = ファントム・スピリット
 | effect1 = 
 | effect2 = Chance to Anti-Curse [II / 100%] & Chance to Anti-Darkness [II / 100%] & Blast Damage Up [II / 20%]

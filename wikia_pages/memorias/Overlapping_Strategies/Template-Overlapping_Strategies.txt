@@ -18,7 +18,7 @@
 | max_DEF = 1350
 
 | image = Attack Down
-| effect_name = アサルトブレイク 
+| effect_name = Assault Break 
 | effect_name_JP = アサルトブレイク
 | effect1 = Attack Down [I / 5%] (Target / 3 Turns) & Damage Down [I / 5%] (Target / 3 Turns)
 | effect2 = Attack Down [II / 10%] (Target / 3 Turns) & Damage Down [II / 10%] (Target / 3 Turns)

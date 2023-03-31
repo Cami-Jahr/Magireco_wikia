@@ -18,7 +18,7 @@
 | max_DEF = 1620
 
 | image = Status Ailment Resistance Down
-| effect_name = Resistブレイク 
+| effect_name = Resist Break 
 | effect_name_JP = レジストブレイク
 | effect1 = Status Ailment Resistance Down [II / 7.5%] (Target / 3 Turns)
 | effect2 = Status Ailment Resistance Down [III / 10%] (Target / 3 Turns)

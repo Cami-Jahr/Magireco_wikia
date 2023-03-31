@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Fog on Attack
-| effect_name = Fog ブレイド 
+| effect_name = Fog Blade 
 | effect_name_JP = フォッグ・ブレイド
 | effect1 = Chance to Fog on Attack [II / 15%] (3 Turns) & Damage Up [III / 15%]
 | effect2 = Chance to Fog on Attack [III / 20%] (3 Turns) & Damage Up [IV / 20%]

@@ -18,7 +18,7 @@
 | max_DEF = 1070
 
 | image = Attack Down
-| effect_name = ドレインタッチ 
+| effect_name = Drain Touch 
 | effect_name_JP = ドレインタッチ
 | effect1 = Attack Down [IV / 20%] (Target / 1 Turn) & Defense Down [IV / 20%] (Target / 1 Turn) & Regenerate HP [III / 4%] (Self / 3 Turns)
 | effect2 = Attack Down [V / 25%] (Target / 1 Turn) & Defense Down [V / 25%] (Target / 1 Turn) & Regenerate HP [IV / 5%] (Self / 3 Turns)

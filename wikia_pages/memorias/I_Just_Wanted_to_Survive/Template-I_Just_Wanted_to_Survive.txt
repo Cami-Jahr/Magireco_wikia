@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Blast Damage Up
-| effect_name = ソルジャーハート 
+| effect_name = Soldier Heart 
 | effect_name_JP = ソルジャーハート
 | effect1 = Blast Damage Up [VI / 40%] & Damage Cut [III / 15%]
 | effect2 = Blast Damage Up [VII / 45%] & Damage Cut [IV / 20%]

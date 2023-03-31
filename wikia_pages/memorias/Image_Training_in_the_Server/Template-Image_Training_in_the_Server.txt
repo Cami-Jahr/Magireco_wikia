@@ -18,7 +18,7 @@
 | max_DEF = 2025
 
 | image = Chance to Critical Hit
-| effect_name = エスペランサ― Strike 
+| effect_name = Esperanza Strike 
 | effect_name_JP = エスペランサ―・ストライク
 | effect1 = Chance to Critical Hit [V / 30%] (Self / 1 Turn) & Attack Up [VII / 35%] (Self / 1 Turn)
 | effect2 = Chance to Critical Hit [VI / 35%] (Self / 1 Turn) & Attack Up [VIII / 40%] (Self / 1 Turn)

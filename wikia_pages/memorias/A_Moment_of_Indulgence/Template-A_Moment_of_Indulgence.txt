@@ -18,7 +18,7 @@
 | max_DEF = 1105
 
 | image = Magia Damage Down
-| effect_name = ディストラクション 
+| effect_name = Distraction 
 | effect_name_JP = ディストラクション
 | effect1 = Magia Damage Down [VII / 35%] (Target / 1 Turn) & Attack Down [V / 25%] (Target / 1 Turn)
 | effect2 = Magia Damage Down [VIII / 40%] (Target / 1 Turn) & Attack Down [VI / 30%] (Target / 1 Turn)

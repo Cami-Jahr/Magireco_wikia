@@ -18,7 +18,7 @@
 | max_DEF = 1800
 
 | image = Magia Damage Cut
-| effect_name = MagiaShield Circle 
+| effect_name = Magia Shield Circle 
 | effect_name_JP = マギアシールド・サークル
 | effect1 = Magia Damage Cut [IV / 20%] (Allies / 1 Turn)
 | effect2 = Magia Damage Cut [V / 25%] (Allies / 1 Turn)

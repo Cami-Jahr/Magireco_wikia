@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Cut
-| effect_name = ShieldStrikeAdept 
+| effect_name = Shield Strike Adept 
 | effect_name_JP = シールドストライクアデプト
 | effect1 = Damage Cut [II / 10%] & Chance to Critical Hit [II / 15%]
 | effect2 = Damage Cut [III / 15%] & Chance to Critical Hit [III / 20%]

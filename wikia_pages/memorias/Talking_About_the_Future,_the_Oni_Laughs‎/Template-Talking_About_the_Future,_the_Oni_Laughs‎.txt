@@ -1,5 +1,5 @@
 ﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
-| name = Talking About the Future, the Oni Laughsâ€Ž
+| name = Talking About the Future, the Oni Laughs‎
 | ImageSrc = 
 | Event = 
 
@@ -18,7 +18,7 @@
 | max_DEF = 1382
 
 | image = Magia Damage Up
-| effect_name = MoraleMagiaライズ 
+| effect_name = Morale Magia Rise 
 | effect_name_JP = モラールマギアライズ
 | effect1 = 
 | effect2 = Magia Damage Up [V / 15%] (Self / 3 Turns) & MP Gain Up [III / 10%] (Self / 3 Turns)

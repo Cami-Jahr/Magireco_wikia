@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = 史上最強のメモリア（自称）
+| effect_name = The Strongest Ever Memoria (Self-Proclaimed)
 | effect_name_JP = 史上最強のメモリア（自称）
 | effect1 = 
 | effect2 = Attack Up [8 / 8%] & Defense Up [8 / 8%] & Status Ailment Resistance Up [8 / 8%] & Chance to Evade [8 / 8%]

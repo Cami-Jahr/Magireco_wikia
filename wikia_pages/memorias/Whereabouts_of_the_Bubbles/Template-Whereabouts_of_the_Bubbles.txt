@@ -18,7 +18,7 @@
 | max_DEF = 2018
 
 | image = Damage Increase
-| effect_name = 人魚の加護 
+| effect_name = Mermaid's Blessing 
 | effect_name_JP = 人魚の加護
 | effect1 = Damage Increase [IV / 20%] (Self / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [IV / 30%] (Self / 1 Turn) & Magia Damage Up [II / 7.5%] (Self / 1 Turn)
 | effect2 = Damage Increase [VI / 30%] (Self / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [VI / 40%] (Self / 1 Turn) & Magia Damage Up [IV / 12.5%] (Self / 1 Turn)

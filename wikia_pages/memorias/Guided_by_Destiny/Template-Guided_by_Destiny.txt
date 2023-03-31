@@ -18,7 +18,7 @@
 | max_DEF = 1500
 
 | image = Charged Attack Damage Up
-| effect_name = Chargeライズ 
+| effect_name = Charge Rise 
 | effect_name_JP = チャージライズ
 | effect1 = Charged Attack Damage Up [III / 10%] (Self / 3 Turns)
 | effect2 = Charged Attack Damage Up [V / 15%] (Self / 3 Turns)

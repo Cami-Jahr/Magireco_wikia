@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Magia Damage Up
-| effect_name = Magia Blastウォール 
+| effect_name = Magia Blast Wall 
 | effect_name_JP = マギア・ブラストウォール
 | effect1 = 
 | effect2 = Magia Damage Up [IV / 12.5%] & Blast Damage Cut [III / 15%]

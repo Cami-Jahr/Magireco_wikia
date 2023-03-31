@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Magia Damage Up
-| effect_name = たったひとつの宝物 
+| effect_name = The Sole Treasure 
 | effect_name_JP = たったひとつの宝物
 | effect1 = Magia Damage Up [IV / 12.5%] & Damage Cut [II / 10%]
 | effect2 = Magia Damage Up [V / 15%] & Damage Cut [III / 15%]

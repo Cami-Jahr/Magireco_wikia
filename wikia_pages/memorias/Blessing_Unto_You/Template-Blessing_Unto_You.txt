@@ -18,7 +18,7 @@
 | max_DEF = 1275
 
 | image = Damage Cut
-| effect_name = Magia ウォール 
+| effect_name = Covering 
 | effect_name_JP = マギア・ウォール
 | effect1 = Damage Cut [III / 15%] (Self / 3 Turns) & Magia Damage Up [III / 10%] (Self / 3 Turns)
 | effect2 = Damage Cut [IV / 20%] (Self / 3 Turns) & Magia Damage Up [IV / 12.5%] (Self / 3 Turns)

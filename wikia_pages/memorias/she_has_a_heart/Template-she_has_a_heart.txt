@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up While At Max Health
-| effect_name = アサルト ソルジャー 
+| effect_name = Assault Soldier 
 | effect_name_JP = アサルト・ソルジャー
 | effect1 = Attack Up While At Max Health [V / 25%] & Blast Damage Up [IV / 30%] & Regenerate HP [II / 3%]
 | effect2 = Attack Up While At Max Health [VI / 30%] & Blast Damage Up [V / 35%] & Regenerate HP [III / 4%]

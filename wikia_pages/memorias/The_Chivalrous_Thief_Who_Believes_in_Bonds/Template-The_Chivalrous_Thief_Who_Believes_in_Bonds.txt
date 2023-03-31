@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Flame Attribute Attack Up
-| effect_name = フレイムスマッシュ Adept 
+| effect_name = Flame Smash Adept 
 | effect_name_JP = フレイムスマッシュ・アデプト
 | effect1 = 
 | effect2 = Flame Attribute Attack Up [III / 10%] & Blast Damage Up [II / 20%]

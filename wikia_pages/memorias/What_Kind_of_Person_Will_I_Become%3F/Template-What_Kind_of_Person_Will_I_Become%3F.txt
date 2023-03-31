@@ -18,7 +18,7 @@
 | max_DEF = 2030
 
 | image = Blast Damage Up
-| effect_name = オールディスク Up 
+| effect_name = All Disc Up 
 | effect_name_JP = オールディスクアップ
 | effect1 = Blast Damage Up [IV / 30%] (Self / 1 Turn) & Charged Attack Damage Up [IV / 12.5%] (Self / 1 Turn) & Accele MP Gain Up [III / 15%] (Self / 1 Turn)
 | effect2 = Blast Damage Up [V / 35%] (Self / 1 Turn) & Charged Attack Damage Up [V / 15%] (Self / 1 Turn) & Accele MP Gain Up [IV / 17.5%] (Self / 1 Turn)

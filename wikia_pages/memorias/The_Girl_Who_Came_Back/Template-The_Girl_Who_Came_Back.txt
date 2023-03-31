@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Regenerate HP
-| effect_name = Regeneration ブレイド 
+| effect_name = Regenerate Blade 
 | effect_name_JP = リジェネレイト・ブレイド
 | effect1 = Regenerate HP [I / 2%] & Damage Up [II / 10%]
 | effect2 = Regenerate HP [II / 3%] & Damage Up [III / 15%]

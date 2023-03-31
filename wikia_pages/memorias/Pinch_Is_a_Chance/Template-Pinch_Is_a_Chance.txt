@@ -18,7 +18,7 @@
 | max_DEF = 1808
 
 | image = Chance to Critical Hit
-| effect_name = ジャックポット Strike 
+| effect_name = Jackpot Strike 
 | effect_name_JP = ジャックポット・ストライク
 | effect1 = Chance to Critical Hit [XII / 65%] (Self / 1 Turn) & Chance to Defense Pierce [VIII / 45%] (Self / 1 Turn) & Chance to Darkness [VIII / 130%] (Self / 1 Turn) & Chance to Dazzle [VIII / 70%] (Self / 1 Turn)
 | effect2 = Chance to Critical Hit [XIII / 70%] (Self / 1 Turn) & Chance to Defense Pierce [IX / 50%] (Self / 1 Turn) & Chance to Darkness [IX / 130%] (Self / 1 Turn) & Chance to Dazzle [IX / 70%] (Self / 1 Turn)

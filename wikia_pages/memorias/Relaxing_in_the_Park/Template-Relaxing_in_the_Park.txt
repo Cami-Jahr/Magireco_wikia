@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Darkness
-| effect_name = グラムサイト 
+| effect_name = Gram Sight 
 | effect_name_JP = グラムサイト
 | effect1 = Chance to Anti-Darkness [II / 100%] & Accele MP Gain Up [II / 12.5%] (Self / 1 Turn)
 | effect2 = Chance to Anti-Darkness [III / 100%] & Accele MP Gain Up [III / 15%] (Self / 1 Turn)

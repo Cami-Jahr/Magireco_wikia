@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = オーバーカム Adept 
+| effect_name = Overcome Adept 
 | effect_name_JP = オーバーカム・アデプト
 | effect1 = 
 | effect2 = Attack Up [III / 15%] & MP Up When Attacked By Weak Element [II / 3%]

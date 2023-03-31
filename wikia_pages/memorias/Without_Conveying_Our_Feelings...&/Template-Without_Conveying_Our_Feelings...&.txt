@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Increase
-| effect_name = アーマメント Adept 
+| effect_name = Armanent Adept 
 | effect_name_JP = アーマメント・アデプト
 | effect1 = Damage Increase [II / 10%] & Damage Cut [II / 10%]
 | effect2 = Damage Increase [III / 15%] & Damage Cut [III / 15%]

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Attack Up While At Max Health
-| effect_name = Full Gaugeバーサクドライブ 
+| effect_name = Full Gauge Berserk Drive 
 | effect_name_JP = フルゲージバーサクドライブ
 | effect1 = 
 | effect2 = Attack Up While At Max Health [V / 25%] & Blast Damage Up [III / 25%] & Defense Down [III / 15%]

@@ -18,7 +18,7 @@
 | max_DEF = 1180
 
 | image = Blast Damage Up
-| effect_name = ビッグ キャッチ 
+| effect_name = Big Catch 
 | effect_name_JP = ビッグ・キャッチ
 | effect1 = Blast Damage Up [II / 20%] (Self / 3 Turns) & MP Gain Up [IV / 12.5%] (Self / 3 Turns)
 | effect2 = Blast Damage Up [III / 25%] (Self / 3 Turns) & MP Gain Up [V / 15%] (Self / 3 Turns)

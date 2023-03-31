@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Blast Damage Up
-| effect_name = デスペレイト Attack 
+| effect_name = Desperate Attack 
 | effect_name_JP = デスペレイト・アタック
 | effect1 = Blast Damage Up [V / 35%] & Blast MP Gain Up [III / 3%] & Defense Down [III / 15%]
 | effect2 = Blast Damage Up [VII / 45%] & Blast MP Gain Up [V / 5%] & Defense Down [III / 15%]

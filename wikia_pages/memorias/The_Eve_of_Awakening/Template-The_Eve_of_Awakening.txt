@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Blast Damage Up
-| effect_name = オールディスク Adept 
+| effect_name = All Disc Adept 
 | effect_name_JP = オールディスク・アデプト
 | effect1 = 
 | effect2 = Blast Damage Up [IV / 30%] & Charged Attack Damage Up [III / 10%] & Accele MP Gain Up [III / 15%]

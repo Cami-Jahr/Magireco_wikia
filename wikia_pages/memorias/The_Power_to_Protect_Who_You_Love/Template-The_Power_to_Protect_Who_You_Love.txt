@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Defense Up When At Critical Health
-| effect_name = クライシス Shield 
+| effect_name = Crisis Shield 
 | effect_name_JP = クライシス・シールド
 | effect1 = Defense Up When At Critical Health [II / 30%] & Defense Up [III / 22.5%] & Damage Cut [II / 10%]
 | effect2 = Defense Up When At Critical Health [III / 40%] & Defense Up [IV / 30%] & Damage Cut [III / 15%]

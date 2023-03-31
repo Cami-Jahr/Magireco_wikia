@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Increase
-| effect_name = TechnicalWeapon Adept 
+| effect_name = Technical Weapon Adept 
 | effect_name_JP = テクニカルウェポン・アデプト
 | effect1 = Damage Increase [III / 15%] & Charge Disc Damage Up [II / 10%]
 | effect2 = Damage Increase [IV / 20%] & Charge Disc Damage Up [III / 15%]

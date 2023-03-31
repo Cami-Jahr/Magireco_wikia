@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Increase
-| effect_name = WeaponBlast Adept 
+| effect_name = Weapon Blast Adept 
 | effect_name_JP = ウェポンブラスト・アデプト
 | effect1 = 
 | effect2 = Damage Increase [V / 25%] & Blast Damage Up [IV / 30%]

@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Dazzle on Attack
-| effect_name = Mesmerize ブレイド 
+| effect_name = Mesmerise Blade 
 | effect_name_JP = メズマライズ・ブレイド
 | effect1 = Chance to Dazzle on Attack [II / 15%] (1 Turn) & Damage Up [IV / 20%]
 | effect2 = Chance to Dazzle on Attack [III / 20%] (1 Turn) & Damage Up [V / 25%]

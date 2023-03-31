@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Stun on Attack
-| effect_name = Stun スマッシュ 
+| effect_name = Stun Smash 
 | effect_name_JP = スタン・スマッシュ
 | effect1 = Chance to Stun on Attack [II / 15%] (1 Turn) & Attack Up [I / 5%]
 | effect2 = Chance to Stun on Attack [III / 20%] (1 Turn) & Attack Up [II / 10%]

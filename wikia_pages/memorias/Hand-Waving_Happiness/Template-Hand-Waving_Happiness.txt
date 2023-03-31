@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Defense Up
-| effect_name = ソリッド Adept 
+| effect_name = Solid Adept 
 | effect_name_JP = ソリッド・アデプト
 | effect1 = Defense Up [V / 37.5%] & Status Ailment Resistance Up [III / 30%]
 | effect2 = Defense Up [VI / 45%] & Status Ailment Resistance Up [IV / 35%]

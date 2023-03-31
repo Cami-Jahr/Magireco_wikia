@@ -18,7 +18,7 @@
 | max_DEF = 1000
 
 | image = Regenerate HP
-| effect_name = Regeneration バックラー 
+| effect_name = Regenerate Buckler 
 | effect_name_JP = リジェネレイト・バックラー
 | effect1 = Regenerate HP [III / 4%] (Self / 1 Turn) & Damage Cut [VII / 35%] (Self / 1 Turn)
 | effect2 = Regenerate HP [IV / 5%] (Self / 1 Turn) & Damage Cut [VIII / 40%] (Self / 1 Turn)

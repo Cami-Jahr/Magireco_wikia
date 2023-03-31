@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Chance to Anti-Skill Seal
-| effect_name = メディエイト Adept 
+| effect_name = Mediate Adept 
 | effect_name_JP = メディエイト・アデプト
 | effect1 = Chance to Anti-Skill Seal [II / 100%] & Accele MP Gain Up [II / 12.5%]
 | effect2 = Chance to Anti-Skill Seal [III / 100%] & Accele MP Gain Up [III / 15%]

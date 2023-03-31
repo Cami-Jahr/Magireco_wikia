@@ -18,7 +18,7 @@
 | max_DEF = 1185
 
 | image = Chance to Evade
-| effect_name = ふたつの魔力光
+| effect_name = Two Magical Lights
 | effect_name_JP = ふたつの魔力光
 | effect1 = Chance to Evade [100%] (Self / 1 Turn)
 | effect2 = Chance to Evade [100%] (Self / 1 Turn)
