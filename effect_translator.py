@@ -284,6 +284,7 @@ jp_to_en = {
     "フルバースト": "Full Burst",
     "ピースフルカーム": "Peaceful Calm",
     "アタックライズ": "Attack Rise",
+    "ブルームライズ": "Bloom Rise",
     "アクセルライズ": "Accelerise",
     "フレッシュヒール": "Fresh Heal",
     "ブラストサルテーション": "Blast Salutation",
@@ -417,13 +418,16 @@ jp_to_en = {
     "エッジ": "Edge",
     "ポイズン": "Poison",
     "ヴェノム": "Venom",
+    "インデュア": "Endure",
+    "エピソード": "Episode",
+    "ウェポン": "Weapon",
 }
 
 target_tl = {
-    "TARGET": "One",
+    "TARGET": "Target",
     "SELF": "Self",
     "ALL": "All",
-    "ONE": "One",
+    "ONE": "One Ally",
 }
 
 special = {
@@ -436,7 +440,7 @@ special = {
 }
 
 
-def translate(shortDescription, arts):
+def translate(shortDescription: str, arts: list[dict]):
     if shortDescription in special:
         return special[shortDescription]
 
@@ -466,8 +470,7 @@ def translate(shortDescription, arts):
                 text, uses_roman, no_states_target = sub[effect_code]
             except KeyError:
                 text, uses_roman, no_states_target = sub[art["targetId"]]
-            if not icon:
-                icon = text
+            icon = text
             val = 0
             if "effectValue" in art:
                 val = round(art["effectValue"] / 10, 1)
@@ -527,6 +530,14 @@ def translate(shortDescription, arts):
 
             try:
                 target = target_tl[art["targetId"]]
+                # Differentiates between effects that target all allies or all enemies by whether they are beneficial
+                if target == 'All':
+                    if verb_code in ("CONDITION_GOOD", "BUFF", "IGNORE", "LIMITED_ENEMY_TYPE", "TURN_ALLY"
+                                     ) or (verb_code == 'REVOKE' and effect_code in ("BAD", "DEBUFF")) or (
+                            verb_code == "HEAL" and effect_code in ("HP", "MP")):
+                        target = "Allies"
+                    else:
+                        target = "All Enemies"
             except KeyError:
                 target = ""
             try:
@@ -536,13 +547,13 @@ def translate(shortDescription, arts):
             except KeyError:
                 turns = 0
 
-            # Move 1 down so thing w multiple efefcts only have 1 (target / X turns)?
+            # Move 1 down so thing w multiple effects only have 1 (target / X turns)?
             if turns and target and not no_states_target:  # enchant dont need target
-                ta = "{} / {} Turn{}".format(target, turns, "s" if turns != 1 else "")
+                ta = f"{target} / {turns} Turn{'s' if turns != 1 else ''}"
             elif turns:
-                ta = "{} Turn{}".format(turns, "s" if turns != 1 else "")
+                ta = f"{turns} Turn{'s' if turns != 1 else ''}"
             elif target and target != "Self" and not no_states_target:
-                ta = "{}".format(target)
+                ta = str(target)
             else:
                 ta = ""
             try:
