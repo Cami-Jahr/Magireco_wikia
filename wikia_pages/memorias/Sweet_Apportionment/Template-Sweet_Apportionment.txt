@@ -21,7 +21,7 @@
 | effect_name = Keen Insight 
 | effect_name_JP = キーンインサイト
 | effect1 = Chance to Critical Hit [III / 20%] & Chance to Anti-Dazzle [X / 70%]
-| effect2 = Chance to Critical Hit [IV / 25%] & Chance to Anti-Dazzle [IV / 100%]
+| effect2 = Chance to Critical Hit [IV / 25%] & Anti-Dazzle
 | Cooldown = 
 | Cooldown2 = 
 }}

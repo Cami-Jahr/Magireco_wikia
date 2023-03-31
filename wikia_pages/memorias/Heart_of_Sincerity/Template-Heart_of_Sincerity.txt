@@ -20,8 +20,8 @@
 | image = Chance to Chase
 | effect_name = Chase Attack 
 | effect_name_JP = チェイスアタック
-| effect1 = Chance to Chase [IV / 80%] (Self / 1 Turn)
-| effect2 = Chance to Chase [V / 80%] (Self / 1 Turn)
+| effect1 = Chance to Chase [IV / 25%] (Self / 1 Turn)
+| effect2 = Chance to Chase [V / 30%] (Self / 1 Turn)
 | Cooldown = 12
 | Cooldown2 = 10
 }}

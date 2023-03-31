@@ -21,7 +21,7 @@
 | effect_name = Full Swing Rise 
 | effect_name_JP = フルスウィングライズ
 | effect1 = 
-| effect2 = Charged Attack Damage Up [VII / 20%] (Self / 1 Turn) & Blast Damage Up [IV / 30%] (Self / 1 Turn)
+| effect2 = Charged Attack Damage Up [VII / 20%] & Blast Damage Up [IV / 30%] (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 7
 }}

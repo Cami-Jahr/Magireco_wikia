@@ -21,7 +21,7 @@
 | effect_name = Aiming
 | effect_name_JP = エイミング
 | effect1 = Chance to Anti-Evade [VI / 50%] (Self / 1 Turn)
-| effect2 = Chance to Anti-Evade [100%] (Self / 1 Turn)
+| effect2 = Anti-Evade (Self / 1 Turn)
 | Cooldown = 5
 | Cooldown2 = 4
 }}

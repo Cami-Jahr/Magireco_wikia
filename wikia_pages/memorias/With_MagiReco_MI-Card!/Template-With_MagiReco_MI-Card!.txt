@@ -21,7 +21,7 @@
 | effect_name = Immunity Shield 
 | effect_name_JP = イミュニティシールド
 | effect1 = 
-| effect2 = Damage Cut [IV / 20%] (Self / 3 Turns) & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
+| effect2 = Damage Cut [IV / 20%] & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
 | Cooldown = 
 | Cooldown2 = 8
 }}

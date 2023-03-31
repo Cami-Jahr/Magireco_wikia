@@ -20,8 +20,8 @@
 | image = Redraw Discs
 | effect_name = Disc Shuffle
 | effect_name_JP = ディスクシャッフル
-| effect1 = Redraw Discs [100%]
-| effect2 = Redraw Discs [100%]
+| effect1 = Redraw Discs
+| effect2 = Redraw Discs
 | Cooldown = 10
 | Cooldown2 = 8
 }}

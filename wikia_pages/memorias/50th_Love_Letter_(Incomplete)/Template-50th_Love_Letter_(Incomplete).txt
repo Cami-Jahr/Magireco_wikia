@@ -20,8 +20,8 @@
 | image = Chance to Defense Pierce
 | effect_name = Penetrate
 | effect_name_JP = ペネトレイト
-| effect1 = Chance to Defense Pierce [100%] (Self / 1 Turn)
-| effect2 = Chance to Defense Pierce [100%] (Self / 1 Turn)
+| effect1 = Defense Pierce (Self / 1 Turn)
+| effect2 = Defense Pierce (Self / 1 Turn)
 | Cooldown = 8
 | Cooldown2 = 7
 }}

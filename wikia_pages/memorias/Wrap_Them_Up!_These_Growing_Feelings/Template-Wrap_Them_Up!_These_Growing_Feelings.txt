@@ -20,8 +20,8 @@
 | image = Damage Increase
 | effect_name = Addict Slayer 
 | effect_name_JP = アディクトスレイヤー
-| effect1 = Damage Increase [II / 10%] (Self / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [IV / 30%] (Self / 1 Turn)
-| effect2 = Damage Increase [III / 15%] (Self / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [V / 35%] (Self / 1 Turn)
+| effect1 = Damage Increase [II / 10%] & Damage Up Versus Enemies Affected With Status Ailments [IV / 30%] (Self / 1 Turn)
+| effect2 = Damage Increase [III / 15%] & Damage Up Versus Enemies Affected With Status Ailments [V / 35%] (Self / 1 Turn)
 | Cooldown = 10
 | Cooldown2 = 9
 }}

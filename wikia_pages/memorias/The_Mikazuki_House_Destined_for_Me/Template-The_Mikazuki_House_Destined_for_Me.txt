@@ -20,8 +20,8 @@
 | image = Chance to Charm
 | effect_name = Attrition Charm 
 | effect_name_JP = アトリションチャーム
-| effect1 = Chance to Charm [VII / 45%] (Target / 1 Turn) & Defense Down [IV / 20%] (Target / 1 Turn)
-| effect2 = Chance to Charm [IX / 50%] (Target / 1 Turn) & Defense Down [V / 25%] (Target / 1 Turn)
+| effect1 = Chance to Charm [VII / 45%] & Defense Down [IV / 20%] (Target / 1 Turn)
+| effect2 = Chance to Charm [IX / 50%] & Defense Down [V / 25%] (Target / 1 Turn)
 | Cooldown = 11
 | Cooldown2 = 9
 }}

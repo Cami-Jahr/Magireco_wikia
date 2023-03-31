@@ -20,8 +20,8 @@
 | image = Chance to Critical Hit
 | effect_name = Inevitable 
 | effect_name_JP = イネヴィタブル
-| effect1 = Chance to Critical Hit [I / 10%] (Self / 3 Turns) & Chance to Anti-Evade [XII / 80%] (Self / 3 Turns)
-| effect2 = Chance to Critical Hit [II / 15%] (Self / 3 Turns) & Chance to Anti-Evade [II / 100%] (Self / 3 Turns)
+| effect1 = Chance to Critical Hit [I / 10%] & Chance to Anti-Evade [XII / 80%] (Self / 3 Turns)
+| effect2 = Chance to Critical Hit [II / 15%] & Anti-Evade (Self / 3 Turns)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

@@ -20,8 +20,8 @@
 | image = Attack Up
 | effect_name = Bloom Up 
 | effect_name_JP = ブルームアップ
-| effect1 = Attack Up [V / 25%] (Self / 1 Turn) & Defense Up [IV / 30%] (Self / 1 Turn)
-| effect2 = Attack Up [VI / 30%] (Self / 1 Turn) & Defense Up [V / 37.5%] (Self / 1 Turn)
+| effect1 = Attack Up [V / 25%] & Defense Up [IV / 30%] (Self / 1 Turn)
+| effect2 = Attack Up [VI / 30%] & Defense Up [V / 37.5%] (Self / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

@@ -21,7 +21,7 @@
 | effect_name = Quell Distraction 
 | effect_name_JP = クウェル・ディストラクション
 | effect1 = 
-| effect2 = Magia Damage Down [VI / 30%] (All Enemies / 1 Turn) & Attack Down [V / 25%] (All Enemies / 1 Turn)
+| effect2 = Magia Damage Down [VI / 30%] & Attack Down [V / 25%] (All Enemies / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 8
 }}

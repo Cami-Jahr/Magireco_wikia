@@ -21,7 +21,7 @@
 | effect_name = Anti-Heat 
 | effect_name_JP = アンチ・ヒート
 | effect1 = 
-| effect2 = Chance to Anti-Burn [III / 100%] & Regenerate HP [III / 4%]
+| effect2 = Anti-Burn & Regenerate HP [III / 4%]
 | Cooldown = 
 | Cooldown2 = 
 }}

@@ -20,8 +20,8 @@
 | image = Damage Cut
 | effect_name = H Shield Rise 
 | effect_name_JP = Hシールド・ライズ
-| effect1 = Damage Cut [III / 15%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns)
-| effect2 = Damage Cut [IV / 20%] (Self / 3 Turns) & Defense Up [IV / 30%] (Self / 3 Turns)
+| effect1 = Damage Cut [III / 15%] & Defense Up [III / 22.5%] (Self / 3 Turns)
+| effect2 = Damage Cut [IV / 20%] & Defense Up [IV / 30%] (Self / 3 Turns)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

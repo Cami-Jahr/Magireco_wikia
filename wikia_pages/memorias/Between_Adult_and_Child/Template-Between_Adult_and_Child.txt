@@ -21,7 +21,7 @@
 | effect_name = Blast Force 
 | effect_name_JP = ブラスト・フォース
 | effect1 = 
-| effect2 = Blast Damage Up [III / 25%] (Self / 3 Turns) & Chance to Critical Hit [II / 15%] (Self / 3 Turns)
+| effect2 = Blast Damage Up [III / 25%] & Chance to Critical Hit [II / 15%] (Self / 3 Turns)
 | Cooldown = 
 | Cooldown2 = 6
 }}

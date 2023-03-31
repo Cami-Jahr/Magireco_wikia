@@ -20,8 +20,8 @@
 | image = Attack Up
 | effect_name = High End Dreamer 
 | effect_name_JP = ハイエンド・ドリーマー
-| effect1 = Attack Up [II / 10%] & Chance to Anti-Fog [II / 100%]
-| effect2 = Attack Up [III / 15%] & Chance to Anti-Fog [III / 100%]
+| effect1 = Attack Up [II / 10%] & Anti-Fog
+| effect2 = Attack Up [III / 15%] & Anti-Fog
 | Cooldown = 
 | Cooldown2 = 
 }}

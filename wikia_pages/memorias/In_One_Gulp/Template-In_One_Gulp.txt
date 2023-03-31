@@ -21,7 +21,7 @@
 | effect_name = Anti-Poison
 | effect_name_JP = アンチ・ポイズン
 | effect1 = Chance to Anti-Poison [VIII / 60%] & Attack Up [I / 5%]
-| effect2 = Chance to Anti-Poison [II / 100%] & Attack Up [II / 10%]
+| effect2 = Anti-Poison & Attack Up [II / 10%]
 | Cooldown = 
 | Cooldown2 = 
 }}

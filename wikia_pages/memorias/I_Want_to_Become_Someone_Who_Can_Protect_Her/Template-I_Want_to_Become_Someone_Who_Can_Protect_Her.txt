@@ -20,8 +20,8 @@
 | image = Chance to Skill Quicken
 | effect_name = Skill Quick
 | effect_name_JP = スキルクイック
-| effect1 = Chance to Skill Quicken [100%] (Self / 3 Turns)
-| effect2 = Chance to Skill Quicken [100%] (Self / 3 Turns)
+| effect1 = Skill Quicken (Self / 3 Turns)
+| effect2 = Skill Quicken (Self / 3 Turns)
 | Cooldown = 15
 | Cooldown2 = 13
 }}

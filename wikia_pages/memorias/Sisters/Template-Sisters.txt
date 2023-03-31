@@ -21,7 +21,7 @@
 | effect_name = Forgiveness 
 | effect_name_JP = フォーギブネス
 | effect1 = 
-| effect2 = Regenerate HP [III / 4%] (Self / 3 Turns) & MP Gain Up [III / 10%] (Self / 3 Turns)
+| effect2 = Regenerate HP [III / 4%] & MP Gain Up [III / 10%] (Self / 3 Turns)
 | Cooldown = 
 | Cooldown2 = 8
 }}

@@ -21,7 +21,7 @@
 | effect_name = Anti-Charm
 | effect_name_JP = アンチ・チャーム
 | effect1 = Chance to Anti-Charm [VI / 50%]
-| effect2 = Chance to Anti-Charm [100%]
+| effect2 = Anti-Charm
 | Cooldown = 
 | Cooldown2 = 
 }}

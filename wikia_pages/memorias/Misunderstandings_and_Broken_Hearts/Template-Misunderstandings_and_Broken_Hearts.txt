@@ -20,8 +20,8 @@
 | image = Blast Damage Up
 | effect_name = Full Burst 
 | effect_name_JP = フルバースト
-| effect1 = Blast Damage Up [IV / 30%] (Self / 1 Turn) & Accele MP Gain Up [IV / 17.5%] (Self / 1 Turn)
-| effect2 = Blast Damage Up [V / 35%] (Self / 1 Turn) & Accele MP Gain Up [V / 20%] (Self / 1 Turn)
+| effect1 = Blast Damage Up [IV / 30%] & Accele MP Gain Up [IV / 17.5%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [V / 35%] & Accele MP Gain Up [V / 20%] (Self / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

@@ -20,8 +20,8 @@
 | image = Damage Cut
 | effect_name = Aura Rise 
 | effect_name_JP = オーラライズ
-| effect1 = Damage Cut [II / 10%] (Self / 3 Turns) & Attack Up [II / 10%] (Self / 3 Turns)
-| effect2 = Damage Cut [II / 10%] (Self / 3 Turns) & Attack Up [II / 10%] (Self / 3 Turns)
+| effect1 = Damage Cut [II / 10%] & Attack Up [II / 10%] (Self / 3 Turns)
+| effect2 = Damage Cut [II / 10%] & Attack Up [II / 10%] (Self / 3 Turns)
 | Cooldown = 9
 | Cooldown2 = 8
 }}

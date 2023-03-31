@@ -20,8 +20,8 @@
 | image = Defense Up
 | effect_name = Solid Rise 
 | effect_name_JP = ソリッドライズ
-| effect1 = Defense Up [IV / 30%] (Self / 3 Turns) & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns)
-| effect2 = Defense Up [V / 37.5%] (Self / 3 Turns) & Status Ailment Resistance Up [IV / 35%] (Self / 3 Turns)
+| effect1 = Defense Up [IV / 30%] & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns)
+| effect2 = Defense Up [V / 37.5%] & Status Ailment Resistance Up [IV / 35%] (Self / 3 Turns)
 | Cooldown = 7
 | Cooldown2 = 6
 }}

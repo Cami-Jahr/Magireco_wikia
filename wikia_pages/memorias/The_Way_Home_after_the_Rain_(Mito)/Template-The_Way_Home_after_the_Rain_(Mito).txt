@@ -20,8 +20,8 @@
 | image = Attack Down
 | effect_name = Quell Bloom 
 | effect_name_JP = クウェル・ブルーム
-| effect1 = Attack Down [IX / 45%] (All Enemies / 1 Turn) & Defense Down [VIII / 40%] (All Enemies / 1 Turn)
-| effect2 = Attack Down [X / 50%] (All Enemies / 1 Turn) & Defense Down [IX / 45%] (All Enemies / 1 Turn)
+| effect1 = Attack Down [IX / 45%] & Defense Down [VIII / 40%] (All Enemies / 1 Turn)
+| effect2 = Attack Down [X / 50%] & Defense Down [IX / 45%] (All Enemies / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

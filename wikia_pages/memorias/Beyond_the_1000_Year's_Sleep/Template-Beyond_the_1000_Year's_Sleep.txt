@@ -20,8 +20,8 @@
 | image = Chance to Provoke
 | effect_name = Shield Appeal 
 | effect_name_JP = シールドアピール
-| effect1 = Chance to Provoke [VII / 100%] (Self / 1 Turn) & Damage Cut [VII / 35%] (Self / 1 Turn)
-| effect2 = Chance to Provoke [IX / 100%] (Self / 1 Turn) & Damage Cut [IX / 45%] (Self / 1 Turn)
+| effect1 = Provoke & Damage Cut [VII / 35%] (Self / 1 Turn)
+| effect2 = Provoke & Damage Cut [IX / 45%] (Self / 1 Turn)
 | Cooldown = 8
 | Cooldown2 = 5
 }}

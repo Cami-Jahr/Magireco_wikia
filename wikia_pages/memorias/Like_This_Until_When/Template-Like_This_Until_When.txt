@@ -21,7 +21,7 @@
 | effect_name = Phantom Spirit 
 | effect_name_JP = ファントム・スピリット
 | effect1 = 
-| effect2 = Chance to Anti-Curse [II / 100%] & Chance to Anti-Darkness [II / 100%] & Blast Damage Up [II / 20%]
+| effect2 = Anti-Curse & Anti-Darkness & Blast Damage Up [II / 20%]
 | Cooldown = 
 | Cooldown2 = 
 }}

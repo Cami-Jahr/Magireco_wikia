@@ -20,8 +20,8 @@
 | image = Defense Up
 | effect_name = Anti-Stun
 | effect_name_JP = アンチ・スタン
-| effect1 = Defense Up [III / 22.5%] & Chance to Anti-Stun [III / 100%]
-| effect2 = Defense Up [IV / 30%] & Chance to Anti-Stun [IV / 100%]
+| effect1 = Defense Up [III / 22.5%] & Anti-Stun
+| effect2 = Defense Up [IV / 30%] & Anti-Stun
 | Cooldown = 
 | Cooldown2 = 
 }}

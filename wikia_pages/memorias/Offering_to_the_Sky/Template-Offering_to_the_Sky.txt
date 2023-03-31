@@ -20,8 +20,8 @@
 | image = Regenerate HP
 | effect_name = Mana Geyser 
 | effect_name_JP = マナガイザー
-| effect1 = Regenerate HP [III / 4%] (Self / 3 Turns) & Magia Damage Up [III / 10%] (Self / 3 Turns)
-| effect2 = Regenerate HP [IV / 5%] (Self / 3 Turns) & Magia Damage Up [IV / 12.5%] (Self / 3 Turns)
+| effect1 = Regenerate HP [III / 4%] & Magia Damage Up [III / 10%] (Self / 3 Turns)
+| effect2 = Regenerate HP [IV / 5%] & Magia Damage Up [IV / 12.5%] (Self / 3 Turns)
 | Cooldown = 7
 | Cooldown2 = 6
 }}

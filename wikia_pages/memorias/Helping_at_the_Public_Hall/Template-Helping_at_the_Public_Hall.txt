@@ -20,8 +20,8 @@
 | image = Chance to Critical Hit
 | effect_name = Esperanza Strike 
 | effect_name_JP = エスペランサ―・ストライク
-| effect1 = Chance to Critical Hit [III / 20%] (Self / 1 Turn) & Attack Up [V / 25%] (Self / 1 Turn)
-| effect2 = Chance to Critical Hit [IV / 25%] (Self / 1 Turn) & Attack Up [VI / 30%] (Self / 1 Turn)
+| effect1 = Chance to Critical Hit [III / 20%] & Attack Up [V / 25%] (Self / 1 Turn)
+| effect2 = Chance to Critical Hit [IV / 25%] & Attack Up [VI / 30%] (Self / 1 Turn)
 | Cooldown = 9
 | Cooldown2 = 8
 }}

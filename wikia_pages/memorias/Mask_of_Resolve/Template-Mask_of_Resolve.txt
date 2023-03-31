@@ -21,7 +21,7 @@
 | effect_name = Masquerade 
 | effect_name_JP = マスカレード
 | effect1 = 
-| effect2 = Chance to Dazzle [V / 40%] (Target / 1 Turn) & Chance to Charm [III / 35%] (Target / 1 Turn) & Blast Damage Cut [III / 15%] (Self / 1 Turn)
+| effect2 = Chance to Dazzle [V / 40%] & Chance to Charm [III / 35%] (Target / 1 Turn) & Blast Damage Cut [III / 15%] (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 8
 }}

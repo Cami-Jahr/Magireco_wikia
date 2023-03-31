@@ -20,8 +20,8 @@
 | image = Chance to Chase
 | effect_name = Chase Adept 
 | effect_name_JP = チェイス・アデプト
-| effect1 = Chance to Chase [II / 80%]
-| effect2 = Chance to Chase [III / 80%]
+| effect1 = Chance to Chase [II / 4%]
+| effect2 = Chance to Chase [III / 5%]
 | Cooldown = 
 | Cooldown2 = 
 }}

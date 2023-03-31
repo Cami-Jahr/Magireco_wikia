@@ -21,7 +21,7 @@
 | effect_name = Charge Rise Enhance 
 | effect_name_JP = チャージライズ・エンハンス
 | effect1 = 
-| effect2 = Damage Increase [V / 25%] (Self / 1 Turn) & Charged Attack Damage Up [IV / 12.5%] (Self / 1 Turn)
+| effect2 = Damage Increase [V / 25%] & Charged Attack Damage Up [IV / 12.5%] (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 8
 }}

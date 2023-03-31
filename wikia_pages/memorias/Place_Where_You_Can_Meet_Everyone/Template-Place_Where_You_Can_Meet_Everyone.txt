@@ -20,8 +20,8 @@
 | image = Chance to Anti-Darkness
 | effect_name = On Stage 
 | effect_name_JP = オン・ステージ
-| effect1 = Chance to Anti-Darkness [IV / 100%] & Chance to Anti-Skill Seal [II / 40%] & Attack Up [II / 10%]
-| effect2 = Chance to Anti-Darkness [IX / 100%] & Chance to Anti-Skill Seal [II / 65%] & Attack Up [II / 10%]
+| effect1 = Anti-Darkness & Chance to Anti-Skill Seal [IV / 40%] & Attack Up [II / 10%]
+| effect2 = Anti-Darkness & Chance to Anti-Skill Seal [IX / 65%] & Attack Up [II / 10%]
 | Cooldown = 
 | Cooldown2 = 
 }}

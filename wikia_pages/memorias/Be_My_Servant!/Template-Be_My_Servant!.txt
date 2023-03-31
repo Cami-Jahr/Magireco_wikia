@@ -21,7 +21,7 @@
 | effect_name = Anti-Bind
 | effect_name_JP = アンチ・バインド
 | effect1 = Accele MP Gain Up [III / 15%] & Chance to Anti-Bind [X / 70%]
-| effect2 = Accele MP Gain Up [IV / 17.5%] & Chance to Anti-Bind [IV / 100%]
+| effect2 = Accele MP Gain Up [IV / 17.5%] & Anti-Bind
 | Cooldown = 
 | Cooldown2 = 
 }}

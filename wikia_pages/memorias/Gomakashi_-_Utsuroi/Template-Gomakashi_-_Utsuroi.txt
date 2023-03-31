@@ -21,7 +21,7 @@
 | effect_name = Gomakashi / Utsuroi
 | effect_name_JP = ごまかし／うつろい
 | effect1 = 
-| effect2 = Chance to Anti-Bind [I / 100%] & Chance to Anti-Stun [I / 100%] & Attack Up [I / 5%]
+| effect2 = Anti-Bind & Anti-Stun & Attack Up [I / 5%]
 | Cooldown = 
 | Cooldown2 = 
 }}

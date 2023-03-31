@@ -20,8 +20,8 @@
 | image = Accele MP Gain Up
 | effect_name = インテント Adept 
 | effect_name_JP = インテント・アデプト
-| effect1 = Accele MP Gain Up [III / 15%] & Chance to Anti-Charm [III / 100%]
-| effect2 = Accele MP Gain Up [IV / 17.5%] & Chance to Anti-Charm [IV / 100%]
+| effect1 = Accele MP Gain Up [III / 15%] & Anti-Charm
+| effect2 = Accele MP Gain Up [IV / 17.5%] & Anti-Charm
 | Cooldown = 
 | Cooldown2 = 
 }}

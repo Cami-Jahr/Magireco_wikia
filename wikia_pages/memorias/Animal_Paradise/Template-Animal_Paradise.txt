@@ -20,8 +20,8 @@
 | image = Attribute Draw
 | effect_name = Attribute Draw
 | effect_name_JP = アトリビュートドロー
-| effect1 = Attribute Draw [100%]
-| effect2 = Attribute Draw [100%]
+| effect1 = Attribute Draw
+| effect2 = Attribute Draw
 | Cooldown = 15
 | Cooldown2 = 13
 }}

@@ -20,8 +20,8 @@
 | image = Attack Up
 | effect_name = Invisible Attack 
 | effect_name_JP = インビジブル・アタック
-| effect1 = Attack Up [IV / 20%] (Self / 1 Turn) & Chance to Anti-Evade [IV / 100%] (Self / 1 Turn)
-| effect2 = Attack Up [V / 25%] (Self / 1 Turn) & Chance to Anti-Evade [V / 100%] (Self / 1 Turn)
+| effect1 = Attack Up [IV / 20%] & Anti-Evade (Self / 1 Turn)
+| effect2 = Attack Up [V / 25%] & Anti-Evade (Self / 1 Turn)
 | Cooldown = 7
 | Cooldown2 = 6
 }}

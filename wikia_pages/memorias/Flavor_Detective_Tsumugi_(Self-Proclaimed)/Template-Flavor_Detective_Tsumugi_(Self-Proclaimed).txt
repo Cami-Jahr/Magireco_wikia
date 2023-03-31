@@ -20,8 +20,8 @@
 | image = Attack Up
 | effect_name = Glam Vision 
 | effect_name_JP = グラムビジョン
-| effect1 = Attack Up [I / 5%] & Chance to Anti-Darkness [I / 100%]
-| effect2 = Attack Up [II / 10%] & Chance to Anti-Darkness [II / 100%]
+| effect1 = Attack Up [I / 5%] & Anti-Darkness
+| effect2 = Attack Up [II / 10%] & Anti-Darkness
 | Cooldown = 
 | Cooldown2 = 
 }}

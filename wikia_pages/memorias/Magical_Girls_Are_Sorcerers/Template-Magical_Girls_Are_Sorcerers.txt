@@ -20,8 +20,8 @@
 | image = Damage Increase
 | effect_name = Anti-Jammer Weapon 
 | effect_name_JP = アンチジャマ―・ウェポン
-| effect1 = Damage Increase [V / 25%] & Chance to Anti-Skill Seal [V / 100%]
-| effect2 = Damage Increase [VI / 30%] & Chance to Anti-Skill Seal [VI / 100%]
+| effect1 = Damage Increase [V / 25%] & Anti-Skill Seal
+| effect2 = Damage Increase [VI / 30%] & Anti-Skill Seal
 | Cooldown = 
 | Cooldown2 = 
 }}

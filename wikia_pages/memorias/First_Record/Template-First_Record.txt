@@ -21,7 +21,7 @@
 | effect_name = Neatness Aura 
 | effect_name_JP = ニートネス・オーラ
 | effect1 = 
-| effect2 = Regenerate HP [III / 4%] (Allies / 3 Turns) & Status Ailment Resistance Up [III / 20%] (Allies / 3 Turns)
+| effect2 = Regenerate HP [III / 4%] & Status Ailment Resistance Up [III / 20%] (Allies / 3 Turns)
 | Cooldown = 
 | Cooldown2 = 10
 }}

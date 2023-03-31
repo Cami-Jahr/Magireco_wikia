@@ -21,7 +21,7 @@
 | effect_name = Morale Slash Rise 
 | effect_name_JP = モラールスラッシュ・ライズ
 | effect1 = 
-| effect2 = Damage Up [III / 15%] (Self / 3 Turns) & MP Gain Up [III / 10%] (Self / 3 Turns)
+| effect2 = Damage Up [III / 15%] & MP Gain Up [III / 10%] (Self / 3 Turns)
 | Cooldown = 
 | Cooldown2 = 7
 }}

@@ -20,8 +20,8 @@
 | image = Regenerate HP
 | effect_name = Unblinking Adept 
 | effect_name_JP = アンブリンキング・アデプト
-| effect1 = Regenerate HP [II / 3%] & Damage Increase [III / 15%] & Chance to Anti-Stun [III / 100%]
-| effect2 = Regenerate HP [III / 4%] & Damage Increase [IV / 20%] & Chance to Anti-Stun [IV / 100%]
+| effect1 = Regenerate HP [II / 3%] & Damage Increase [III / 15%] & Anti-Stun
+| effect2 = Regenerate HP [III / 4%] & Damage Increase [IV / 20%] & Anti-Stun
 | Cooldown = 
 | Cooldown2 = 
 }}

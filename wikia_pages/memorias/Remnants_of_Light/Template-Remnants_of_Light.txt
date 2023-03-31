@@ -21,7 +21,7 @@
 | effect_name = Anti-Mesmerize
 | effect_name_JP = アンチ・メズマライズ
 | effect1 = Chance to Anti-Dazzle [IX / 65%]
-| effect2 = Chance to Anti-Dazzle [100%]
+| effect2 = Anti-Dazzle
 | Cooldown = 
 | Cooldown2 = 
 }}

@@ -21,7 +21,7 @@
 | effect_name = Anti-Burn
 | effect_name_JP = アンチ・バーン
 | effect1 = 
-| effect2 = Chance to Anti-Burn [V / 100%] & Blast Damage Up [V / 35%]
+| effect2 = Anti-Burn & Blast Damage Up [V / 35%]
 | Cooldown = 
 | Cooldown2 = 
 }}

@@ -20,8 +20,8 @@
 | image = Damage Increase
 | effect_name = Ray of Hope 
 | effect_name_JP = レイ・オブ・ホープ
-| effect1 = Damage Increase [II / 10%] & Chance to Anti-Fog [II / 100%] & Chance to Anti-Darkness [II / 100%]
-| effect2 = Damage Increase [III / 15%] & Chance to Anti-Fog [III / 100%] & Chance to Anti-Darkness [III / 100%]
+| effect1 = Damage Increase [II / 10%] & Anti-Fog & Anti-Darkness
+| effect2 = Damage Increase [III / 15%] & Anti-Fog & Anti-Darkness
 | Cooldown = 
 | Cooldown2 = 
 }}

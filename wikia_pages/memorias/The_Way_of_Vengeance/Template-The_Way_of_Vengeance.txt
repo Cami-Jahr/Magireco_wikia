@@ -21,7 +21,7 @@
 | effect_name = Restore Health
 | effect_name_JP = レストア・ヘルス
 | effect1 = 
-| effect2 = Remove Status Ailments [%]
+| effect2 = Remove Status Ailments
 | Cooldown = 
 | Cooldown2 = 7
 }}

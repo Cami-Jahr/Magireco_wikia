@@ -20,8 +20,8 @@
 | image = Magia Damage Up
 | effect_name = Doppel  Up 
 | effect_name_JP = ドッペル・アップ
-| effect1 = Magia Damage Up [V / 15%] (Self / 1 Turn) & Doppel Damage Up [IV / 20%] (Self / 1 Turn)
-| effect2 = Magia Damage Up [VII / 20%] (Self / 1 Turn) & Doppel Damage Up [VI / 30%] (Self / 1 Turn)
+| effect1 = Magia Damage Up [V / 15%] & Doppel Damage Up [IV / 20%] (Self / 1 Turn)
+| effect2 = Magia Damage Up [VII / 20%] & Doppel Damage Up [VI / 30%] (Self / 1 Turn)
 | Cooldown = 10
 | Cooldown2 = 8
 }}

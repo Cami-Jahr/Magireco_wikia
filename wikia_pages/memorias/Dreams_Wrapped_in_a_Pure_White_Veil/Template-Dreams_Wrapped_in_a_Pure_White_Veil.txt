@@ -20,8 +20,8 @@
 | image = Regenerate HP
 | effect_name = ナーシング Circle 
 | effect_name_JP = ナーシング・サークル
-| effect1 = Regenerate HP [II / 3%] (Allies / 3 Turns) & Regenerate MP [I / 3 MP] (Allies / 3 Turns)
-| effect2 = Regenerate HP [III / 4%] (Allies / 3 Turns) & Regenerate MP [I / 3 MP] (Allies / 3 Turns)
+| effect1 = Regenerate HP [II / 3%] & Regenerate MP [I / 3 MP] (Allies / 3 Turns)
+| effect2 = Regenerate HP [III / 4%] & Regenerate MP [I / 3 MP] (Allies / 3 Turns)
 | Cooldown = 10
 | Cooldown2 = 9
 }}

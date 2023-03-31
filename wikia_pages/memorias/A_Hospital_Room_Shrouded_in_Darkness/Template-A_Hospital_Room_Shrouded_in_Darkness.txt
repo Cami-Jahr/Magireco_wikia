@@ -20,8 +20,8 @@
 | image = Chance to Anti-Bind
 | effect_name = Escape Artist
 | effect_name_JP = エスケープアーティスト
-| effect1 = Chance to Anti-Bind [VIII / 100%] & Endure [100%] & Chance to Anti-Burn [VIII / 60%]
-| effect2 = Chance to Anti-Bind [100%] & Chance to Anti-Burn [100%] & Endure [100%]
+| effect1 = Anti-Bind & Endure [100%] & Chance to Anti-Burn [VIII / 60%]
+| effect2 = Anti-Bind & Anti-Burn & Endure [100%]
 | Cooldown = 
 | Cooldown2 = 
 }}

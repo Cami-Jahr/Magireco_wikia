@@ -20,8 +20,8 @@
 | image = Chance to Anti-Bind
 | effect_name = Anti-Bind
 | effect_name_JP = アンチ・バインド
-| effect1 = Chance to Anti-Bind [I / 100%] & Defense Up [I / 7.5%]
-| effect2 = Chance to Anti-Bind [II / 100%] & Defense Up [II / 15%]
+| effect1 = Anti-Bind & Defense Up [I / 7.5%]
+| effect2 = Anti-Bind & Defense Up [II / 15%]
 | Cooldown = 
 | Cooldown2 = 
 }}

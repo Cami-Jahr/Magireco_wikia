@@ -20,8 +20,8 @@
 | image = Damage Increase
 | effect_name = Enhance Step 
 | effect_name_JP = エンハンス・ステップ
-| effect1 = Damage Increase [VI / 30%] (Self / 3 Turns) & Chance to Evade [VI / 35%] (Self / 3 Turns)
-| effect2 = Damage Increase [VII / 35%] (Self / 3 Turns) & Chance to Evade [VII / 40%] (Self / 3 Turns)
+| effect1 = Damage Increase [VI / 30%] & Chance to Evade [VI / 35%] (Self / 3 Turns)
+| effect2 = Damage Increase [VII / 35%] & Chance to Evade [VII / 40%] (Self / 3 Turns)
 | Cooldown = 10
 | Cooldown2 = 8
 }}

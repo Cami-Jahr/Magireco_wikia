@@ -21,7 +21,7 @@
 | effect_name = Chase Blade 
 | effect_name_JP = チェイス・ブレイド
 | effect1 = 
-| effect2 = Damage Up [III / 15%] & Chance to Chase [IV / 80%]
+| effect2 = Damage Up [III / 15%] & Chance to Chase [IV / 14%]
 | Cooldown = 
 | Cooldown2 = 
 }}

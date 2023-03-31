@@ -21,7 +21,7 @@
 | effect_name = Brandish 
 | effect_name_JP = ブランディッシュ
 | effect1 = 
-| effect2 = Blast Damage Up [V / 35%] (Self / 1 Turn) & Damage Up [III / 15%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [V / 35%] & Damage Up [III / 15%] (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 8
 }}

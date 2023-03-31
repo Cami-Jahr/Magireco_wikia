@@ -20,8 +20,8 @@
 | image = Chance to Evade
 | effect_name = Assassin Adept 
 | effect_name_JP = アサシン・アデプト
-| effect1 = Chance to Evade [II / 15%] & Chance to Chase [II / 80%]
-| effect2 = Chance to Evade [III / 20%] & Chance to Chase [III / 80%]
+| effect1 = Chance to Evade [II / 15%] & Chance to Chase [II / 4%]
+| effect2 = Chance to Evade [III / 20%] & Chance to Chase [III / 5%]
 | Cooldown = 
 | Cooldown2 = 
 }}

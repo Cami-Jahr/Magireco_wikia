@@ -21,7 +21,7 @@
 | effect_name = Anti Curse
 | effect_name_JP = アンチ・カース
 | effect1 = Chance to Anti-Curse [XIII / 85%] & Attack Up [I / 5%]
-| effect2 = Chance to Anti-Curse [II / 100%] & Attack Up [II / 10%]
+| effect2 = Anti-Curse & Attack Up [II / 10%]
 | Cooldown = 
 | Cooldown2 = 
 }}

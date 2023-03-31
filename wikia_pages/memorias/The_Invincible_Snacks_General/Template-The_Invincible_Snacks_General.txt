@@ -21,7 +21,7 @@
 | effect_name = Ignore Magia Seal 
 | effect_name_JP = イグノア・シールマギア
 | effect1 = Magia Damage Up [VI / 17.5%] & Chance to Anti-Magia Seal [VI / 65%]
-| effect2 = Magia Damage Up [VII / 20%] & Chance to Anti-Magia Seal [VII / 100%]
+| effect2 = Magia Damage Up [VII / 20%] & Anti-Magia Seal
 | Cooldown = 
 | Cooldown2 = 
 }}

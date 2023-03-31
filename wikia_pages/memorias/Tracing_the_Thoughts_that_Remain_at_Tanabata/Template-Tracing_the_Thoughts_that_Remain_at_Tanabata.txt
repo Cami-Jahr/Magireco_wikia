@@ -21,7 +21,7 @@
 | effect_name = Technical Attack Up 
 | effect_name_JP = テクニカルアタックアップ
 | effect1 = 
-| effect2 = Charge Disc Damage Up [V / 25%] (Self / 1 Turn) & Attack Up [III / 15%] (Self / 1 Turn)
+| effect2 = Charge Disc Damage Up [V / 25%] & Attack Up [III / 15%] (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 7
 }}

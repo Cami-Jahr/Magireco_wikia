@@ -20,8 +20,8 @@
 | image = Chance to Stun
 | effect_name = Peekaboo 
 | effect_name_JP = ピーカーブー
-| effect1 = Chance to Stun [II / 32.5%] (Target / 1 Turn) & Blast Damage Down [VII / 20%] (Target / 2 Turns) & Attack Down [III / 15%] (Target / 2 Turns)
-| effect2 = Chance to Stun [IV / 37.5%] (Target / 1 Turn) & Blast Damage Down [VIII / 22.5%] (Target / 2 Turns) & Attack Down [IV / 20%] (Target / 2 Turns)
+| effect1 = Chance to Stun [II / 32.5%] (Target / 1 Turn) & Blast Damage Down [VII / 20%] & Attack Down [III / 15%] (Target / 2 Turns)
+| effect2 = Chance to Stun [IV / 37.5%] (Target / 1 Turn) & Blast Damage Down [VIII / 22.5%] & Attack Down [IV / 20%] (Target / 2 Turns)
 | Cooldown = 10
 | Cooldown2 = 8
 }}

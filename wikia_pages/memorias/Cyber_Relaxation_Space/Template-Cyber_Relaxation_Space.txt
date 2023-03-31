@@ -20,8 +20,8 @@
 | image = Chance to Evade
 | effect_name = Regenerate Dodge 
 | effect_name_JP = リジェネレイト・ドッジ
-| effect1 = Chance to Evade [III / 20%] (Self / 3 Turns) & Regenerate HP [III / 4%] (Self / 3 Turns)
-| effect2 = Chance to Evade [IV / 25%] (Self / 3 Turns) & Regenerate HP [IV / 5%] (Self / 3 Turns)
+| effect1 = Chance to Evade [III / 20%] & Regenerate HP [III / 4%] (Self / 3 Turns)
+| effect2 = Chance to Evade [IV / 25%] & Regenerate HP [IV / 5%] (Self / 3 Turns)
 | Cooldown = 9
 | Cooldown2 = 8
 }}

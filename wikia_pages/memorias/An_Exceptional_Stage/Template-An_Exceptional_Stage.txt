@@ -20,8 +20,8 @@
 | image = Chance to Chase
 | effect_name = Performer's Belief 
 | effect_name_JP = パフォーマーズ・ビリーフ
-| effect1 = Chance to Chase [VII / 80%] (Self / 1 Turn) & Endure [100%] (Self / 1 Turn)
-| effect2 = Chance to Chase [IX / 80%] (Self / 1 Turn) & Endure [100%] (Self / 1 Turn)
+| effect1 = Chance to Chase [VII / 40%] & Endure [100%] (Self / 1 Turn)
+| effect2 = Chance to Chase [IX / 50%] & Endure [100%] (Self / 1 Turn)
 | Cooldown = 10
 | Cooldown2 = 8
 }}

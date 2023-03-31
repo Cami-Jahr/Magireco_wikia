@@ -21,7 +21,7 @@
 | effect_name = Poison
 | effect_name_JP = ポイズン
 | effect1 = Chance to Poison [X / 52.5%] (Target / 3 Turns)
-| effect2 = Chance to Poison [100%] (Target / 3 Turns)
+| effect2 = Poison (Target / 3 Turns)
 | Cooldown = 5
 | Cooldown2 = 4
 }}

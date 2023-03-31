@@ -21,7 +21,7 @@
 | effect_name = Ignore Mesmerize 
 | effect_name_JP = イグノア・メズマライズ
 | effect1 = 
-| effect2 = Attack Up [II / 10%] & Chance to Anti-Dazzle [II / 100%]
+| effect2 = Attack Up [II / 10%] & Anti-Dazzle
 | Cooldown = 
 | Cooldown2 = 
 }}

@@ -21,7 +21,7 @@
 | effect_name = Everglow
 | effect_name_JP = エバーグロウ
 | effect1 = 
-| effect2 = Chance to Anti-Charm [100%] & Chance to Anti-Dazzle [100%] & Chance to Anti-Darkness [100%]
+| effect2 = Anti-Charm & Anti-Dazzle & Anti-Darkness
 | Cooldown = 
 | Cooldown2 = 
 }}

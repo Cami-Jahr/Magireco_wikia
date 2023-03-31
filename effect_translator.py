@@ -511,24 +511,30 @@ def translate(shortDescription, arts):
                 if pro and (val >= 100 or val == 0):
                     if effect_code in ("BARRIER",):
                         effect = val
+                    elif verb_code in ("DRAW",):
+                        effect = ""
                     else:
                         effect = pro
-                elif verb_code in ("ENCHANT", "CONDITION_BAD", "IGNORE") or effect_code in ("COUNTER",):
+                elif verb_code in ("ENCHANT", "CONDITION_BAD", "IGNORE") or effect_code in ("COUNTER", "PURSUE"):
                     effect = pro
                 else:
                     effect = val
+            if effect == 100 and "Chance to " in text :
+                text = text.replace("Chance to ", "")
+                effect = ""
 
-            if uses_roman:
-                try:
-                    effect = f"{romans[idx]} / {effect}%"
-                    idx += 1
-                except IndexError:
-                    if idx > 0:
-                        effect = f"{romans[idx - 1]} / {effect}%"
-                    else:
-                        effect = f"{effect}%"
-            else:
-                effect = f"{effect}%"
+            if effect != "":
+                if uses_roman:
+                    try:
+                        effect = f"{romans[idx]} / {effect}%"
+                        idx += 1
+                    except IndexError:
+                        if idx > 0:
+                            effect = f"{romans[idx - 1]} / {effect}%"
+                        else:
+                            effect = f"{effect}%"
+                else:
+                    effect = f"{effect}%"
 
             if effect_code in ("MP", "MP_DAMAGE"):
                 if verb_code == "INITIAL":
@@ -584,14 +590,20 @@ def translate(shortDescription, arts):
                 sc = 0
             if sc % 1 == 0:
                 sc = int(sc)
-            effects[text] = (effect, ta, f"{sc}%")
+            effects[text] = [effect, ta, f"{sc}%"]
         except KeyError as e:
             print("UNKNOWN effectCode =", art["effectCode"], shortDescription, art)
             raise e
         except IndexError as e:
             print("Missing roman in", shortDescription, romans, art)
             raise e
-    # print(shortDescription)
-    # print(text)
+
+    # Remove target if it's repeated multiple times
+    prev_turn_counter = "TEMPLATE"
+    for key in reversed(list(effects.keys())):
+        current_turn_counter = effects[key][1]
+        if current_turn_counter == prev_turn_counter:
+            effects[key][1] = ""
+        prev_turn_counter = current_turn_counter
 
     return effects, icon

@@ -20,8 +20,8 @@
 | image = Attack Up
 | effect_name = Smite Rise 
 | effect_name_JP = スマイトライズ
-| effect1 = Attack Up [IV / 20%] (Self / 3 Turns) & Charged Attack Damage Up [IV / 12.5%] (Self / 3 Turns)
-| effect2 = Attack Up [V / 25%] (Self / 3 Turns) & Charged Attack Damage Up [V / 15%] (Self / 3 Turns)
+| effect1 = Attack Up [IV / 20%] & Charged Attack Damage Up [IV / 12.5%] (Self / 3 Turns)
+| effect2 = Attack Up [V / 25%] & Charged Attack Damage Up [V / 15%] (Self / 3 Turns)
 | Cooldown = 9
 | Cooldown2 = 8
 }}

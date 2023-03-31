@@ -20,8 +20,8 @@
 | image = Chance to Anti-Evade
 | effect_name = Invisible Accele 
 | effect_name_JP = インビジブルアクセル
-| effect1 = Chance to Anti-Evade [VIII / 100%] (Self / 1 Turn) & Accele MP Gain Up [VIII / 27.5%] (Self / 1 Turn)
-| effect2 = Chance to Anti-Evade [IX / 100%] (Self / 1 Turn) & Accele MP Gain Up [IX / 30%] (Self / 1 Turn)
+| effect1 = Anti-Evade & Accele MP Gain Up [VIII / 27.5%] (Self / 1 Turn)
+| effect2 = Anti-Evade & Accele MP Gain Up [IX / 30%] (Self / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

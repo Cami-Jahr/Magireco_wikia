@@ -21,7 +21,7 @@
 | effect_name = Sperenza Force 
 | effect_name_JP = スペランツァ・フォース
 | effect1 = 
-| effect2 = Attack Up [III / 15%] (Self / 3 Turns) & Defense Up [III / 22.5%] (Self / 3 Turns) & Chance to Critical Hit [III / 20%] (Self / 3 Turns)
+| effect2 = Attack Up [III / 15%] & Defense Up [III / 22.5%] & Chance to Critical Hit [III / 20%] (Self / 3 Turns)
 | Cooldown = 
 | Cooldown2 = 10
 }}

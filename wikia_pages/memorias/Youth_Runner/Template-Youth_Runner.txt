@@ -20,8 +20,8 @@
 | image = Accele MP Gain Up
 | effect_name = フThrottlerize 
 | effect_name_JP = フルスロットルライズ
-| effect1 = Accele MP Gain Up [II / 12.5%] (Self / 3 Turns) & Charged Attack Damage Up [II / 7.5%] (Self / 3 Turns)
-| effect2 = Accele MP Gain Up [III / 15%] (Self / 3 Turns) & Charged Attack Damage Up [III / 10%] (Self / 3 Turns)
+| effect1 = Accele MP Gain Up [II / 12.5%] & Charged Attack Damage Up [II / 7.5%] (Self / 3 Turns)
+| effect2 = Accele MP Gain Up [III / 15%] & Charged Attack Damage Up [III / 10%] (Self / 3 Turns)
 | Cooldown = 10
 | Cooldown2 = 9
 }}

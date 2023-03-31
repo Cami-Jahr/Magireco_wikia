@@ -20,8 +20,8 @@
 | image = Charged Attack Damage Up
 | effect_name = Full Throttle Up 
 | effect_name_JP = フルスロットルアップ
-| effect1 = Charged Attack Damage Up [III / 10%] (Self / 1 Turn) & Accele MP Gain Up [II / 12.5%] (Self / 1 Turn)
-| effect2 = Charged Attack Damage Up [IV / 12.5%] (Self / 1 Turn) & Accele MP Gain Up [IV / 17.5%] (Self / 1 Turn)
+| effect1 = Charged Attack Damage Up [III / 10%] & Accele MP Gain Up [II / 12.5%] (Self / 1 Turn)
+| effect2 = Charged Attack Damage Up [IV / 12.5%] & Accele MP Gain Up [IV / 17.5%] (Self / 1 Turn)
 | Cooldown = 7
 | Cooldown2 = 7
 }}

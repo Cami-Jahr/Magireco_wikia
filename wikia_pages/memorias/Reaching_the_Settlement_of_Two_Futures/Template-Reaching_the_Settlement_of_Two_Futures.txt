@@ -21,7 +21,7 @@
 | effect_name = Counteract
 | effect_name_JP = カウンタラクト
 | effect1 = 
-| effect2 = Remove Debuffs [%]
+| effect2 = Remove Debuffs
 | Cooldown = 
 | Cooldown2 = 9
 }}

@@ -20,8 +20,8 @@
 | image = Attack Up
 | effect_name = Uplift 
 | effect_name_JP = アップリフト
-| effect1 = Attack Up [II / 10%] (Self / 3 Turns) & Status Ailment Resistance Up [I / 20%] (Self / 3 Turns)
-| effect2 = Attack Up [III / 15%] (Self / 3 Turns) & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
+| effect1 = Attack Up [II / 10%] & Status Ailment Resistance Up [I / 20%] (Self / 3 Turns)
+| effect2 = Attack Up [III / 15%] & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
 | Cooldown = 9
 | Cooldown2 = 8
 }}

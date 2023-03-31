@@ -20,8 +20,8 @@
 | image = Blast Damage Up
 | effect_name = Blast Strike 
 | effect_name_JP = ブラスト・ストライク
-| effect1 = Blast Damage Up [V / 35%] (Self / 1 Turn) & Chance to Critical Hit [IV / 25%] (Self / 1 Turn)
-| effect2 = Blast Damage Up [VI / 40%] (Self / 1 Turn) & Chance to Critical Hit [V / 30%] (Self / 1 Turn)
+| effect1 = Blast Damage Up [V / 35%] & Chance to Critical Hit [IV / 25%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [VI / 40%] & Chance to Critical Hit [V / 30%] (Self / 1 Turn)
 | Cooldown = 7
 | Cooldown2 = 6
 }}

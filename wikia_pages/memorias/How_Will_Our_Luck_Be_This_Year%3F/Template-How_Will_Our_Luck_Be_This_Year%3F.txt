@@ -21,7 +21,7 @@
 | effect_name = Anti-Stun
 | effect_name_JP = アンチ・スタン
 | effect1 = 
-| effect2 = Chance to Anti-Stun [100%]
+| effect2 = Anti-Stun
 | Cooldown = 
 | Cooldown2 = 
 }}

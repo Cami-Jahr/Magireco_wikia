@@ -20,8 +20,8 @@
 | image = Chance to Provoke
 | effect_name = アピールRegeneration 
 | effect_name_JP = アピールリジェネレイト
-| effect1 = Chance to Provoke [VII / 100%] (Self / 1 Turn) & Regenerate HP [VII / 8%] (Self / 1 Turn)
-| effect2 = Chance to Provoke [IX / 100%] (Self / 1 Turn) & Regenerate HP [IX / 10%] (Self / 1 Turn)
+| effect1 = Provoke & Regenerate HP [VII / 8%] (Self / 1 Turn)
+| effect2 = Provoke & Regenerate HP [IX / 10%] (Self / 1 Turn)
 | Cooldown = 12
 | Cooldown2 = 10
 }}

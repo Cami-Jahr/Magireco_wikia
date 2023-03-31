@@ -21,7 +21,7 @@
 | effect_name = Realist
 | effect_name_JP = リアリスト
 | effect1 = Chance to Anti-Dazzle [IX / 65%]
-| effect2 = Chance to Anti-Dazzle [I / 100%] & CC Gain Up [I / 5%]
+| effect2 = Anti-Dazzle & CC Gain Up [I / 5%]
 | Cooldown = 
 | Cooldown2 = 
 }}

@@ -20,8 +20,8 @@
 | image = Blast Damage Up
 | effect_name = Regeneration Blast 
 | effect_name_JP = リジェネレイト・ブラスト
-| effect1 = Blast Damage Up [III / 25%] (Self / 3 Turns) & Regenerate HP [III / 4%] (Self / 3 Turns)
-| effect2 = Blast Damage Up [IV / 30%] (Self / 3 Turns) & Regenerate HP [IV / 5%] (Self / 3 Turns)
+| effect1 = Blast Damage Up [III / 25%] & Regenerate HP [III / 4%] (Self / 3 Turns)
+| effect2 = Blast Damage Up [IV / 30%] & Regenerate HP [IV / 5%] (Self / 3 Turns)
 | Cooldown = 10
 | Cooldown2 = 8
 }}

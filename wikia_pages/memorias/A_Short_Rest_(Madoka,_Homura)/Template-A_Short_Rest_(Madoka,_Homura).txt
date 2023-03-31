@@ -21,7 +21,7 @@
 | effect_name = Heavenly Adept 
 | effect_name_JP = ヘブンリー・アデプト
 | effect1 = 
-| effect2 = Chance to Anti-Curse [I / 100%] & Regenerate HP [I / 2%]
+| effect2 = Anti-Curse & Regenerate HP [I / 2%]
 | Cooldown = 
 | Cooldown2 = 
 }}

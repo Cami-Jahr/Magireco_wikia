@@ -21,7 +21,7 @@
 | effect_name = Suppress Resist 
 | effect_name_JP = サプレス・レジスト
 | effect1 = 
-| effect2 = Attack Down [II / 17.5%] (All Enemies / 3 Turns) & Status Ailment Resistance Down [II / 7.5%] (All Enemies / 3 Turns)
+| effect2 = Attack Down [II / 17.5%] & Status Ailment Resistance Down [II / 7.5%] (All Enemies / 3 Turns)
 | Cooldown = 
 | Cooldown2 = 9
 }}

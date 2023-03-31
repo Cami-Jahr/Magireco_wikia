@@ -20,8 +20,8 @@
 | image = Chance to Magia Seal
 | effect_name = Restrict Magia 
 | effect_name_JP = リストリクト・マギア
-| effect1 = Chance to Magia Seal [VI / 100%] (Target / 1 Turn) & Attack Down [VI / 30%] (Target / 1 Turn)
-| effect2 = Chance to Magia Seal [VII / 100%] (Target / 1 Turn) & Attack Down [VII / 35%] (Target / 1 Turn)
+| effect1 = Magia Seal & Attack Down [VI / 30%] (Target / 1 Turn)
+| effect2 = Magia Seal & Attack Down [VII / 35%] (Target / 1 Turn)
 | Cooldown = 5
 | Cooldown2 = 4
 }}

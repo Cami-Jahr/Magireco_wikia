@@ -21,7 +21,7 @@
 | effect_name = Liberty 
 | effect_name_JP = リバティ
 | effect1 = Attack Up [II / 10%] & Chance to Anti-Bind [VI / 50%]
-| effect2 = Attack Up [III / 15%] & Chance to Anti-Bind [III / 100%]
+| effect2 = Attack Up [III / 15%] & Anti-Bind
 | Cooldown = 
 | Cooldown2 = 
 }}

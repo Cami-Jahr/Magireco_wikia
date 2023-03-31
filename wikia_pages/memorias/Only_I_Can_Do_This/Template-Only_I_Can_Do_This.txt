@@ -20,8 +20,8 @@
 | image = Regenerate HP
 | effect_name = Neatness 
 | effect_name_JP = ニートネス
-| effect1 = Regenerate HP [III / 4%] (Self / 3 Turns) & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
-| effect2 = Regenerate HP [IV / 5%] (Self / 3 Turns) & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns)
+| effect1 = Regenerate HP [III / 4%] & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
+| effect2 = Regenerate HP [IV / 5%] & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns)
 | Cooldown = 7
 | Cooldown2 = 6
 }}

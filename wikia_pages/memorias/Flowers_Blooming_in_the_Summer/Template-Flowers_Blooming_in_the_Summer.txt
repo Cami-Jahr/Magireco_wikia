@@ -20,8 +20,8 @@
 | image = Attack Up
 | effect_name = Pallasch Up 
 | effect_name_JP = パラッシュアップ
-| effect1 = Attack Up [III / 15%] (Self / 1 Turn) & Ignore Damage Cut [III / 100%] (Self / 1 Turn)
-| effect2 = Attack Up [IV / 20%] (Self / 1 Turn) & Ignore Damage Cut [IV / 100%] (Self / 1 Turn)
+| effect1 = Attack Up [III / 15%] & Ignore Damage Cut [III / 100%] (Self / 1 Turn)
+| effect2 = Attack Up [IV / 20%] & Ignore Damage Cut [IV / 100%] (Self / 1 Turn)
 | Cooldown = 10
 | Cooldown2 = 9
 }}

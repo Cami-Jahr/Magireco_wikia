@@ -20,8 +20,8 @@
 | image = Chance to Anti-Charm
 | effect_name = Anti Fascinate
 | effect_name_JP = アンチ・ファサネイト
-| effect1 = Chance to Anti-Charm [VIII / 100%] & Chance to Anti-Dazzle [VIII / 60%]
-| effect2 = Chance to Anti-Charm [100%] & Chance to Anti-Dazzle [100%]
+| effect1 = Anti-Charm & Chance to Anti-Dazzle [VIII / 60%]
+| effect2 = Anti-Charm & Anti-Dazzle
 | Cooldown = 
 | Cooldown2 = 
 }}

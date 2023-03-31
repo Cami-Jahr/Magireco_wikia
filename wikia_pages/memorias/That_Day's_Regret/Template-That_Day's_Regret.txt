@@ -20,8 +20,8 @@
 | image = Attack Up Upon Death
 | effect_name = Silent Protection 
 | effect_name_JP = 無言の加護
-| effect1 = Attack Up Upon Death [III / 5%] (2 Turns) & Defense Up Upon Death [III / 10%] (2 Turns)
-| effect2 = Attack Up Upon Death [IV / 6.3%] (2 Turns) & Defense Up Upon Death [IV / 12.6%] (2 Turns)
+| effect1 = Attack Up Upon Death [III / 5%] & Defense Up Upon Death [III / 10%] (2 Turns)
+| effect2 = Attack Up Upon Death [IV / 6.3%] & Defense Up Upon Death [IV / 12.6%] (2 Turns)
 | Cooldown = 
 | Cooldown2 = 
 }}

@@ -21,7 +21,7 @@
 | effect_name = Full Burst 
 | effect_name_JP = フルバースト
 | effect1 = 
-| effect2 = Blast Damage Up [III / 25%] (Self / 1 Turn) & Accele MP Gain Up [III / 15%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [III / 25%] & Accele MP Gain Up [III / 15%] (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 4
 }}

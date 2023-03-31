@@ -20,8 +20,8 @@
 | image = Magia Damage Up
 | effect_name = Morale Magia 
 | effect_name_JP = モラールマギア
-| effect1 = Magia Damage Up [IX / 25%] (Self / 1 Turn) & MP Gain Up [IX / 25%] (Self / 1 Turn)
-| effect2 = Magia Damage Up [X / 27.5%] (Self / 1 Turn) & MP Gain Up [X / 27.5%] (Self / 1 Turn)
+| effect1 = Magia Damage Up [IX / 25%] & MP Gain Up [IX / 25%] (Self / 1 Turn)
+| effect2 = Magia Damage Up [X / 27.5%] & MP Gain Up [X / 27.5%] (Self / 1 Turn)
 | Cooldown = 7
 | Cooldown2 = 6
 }}

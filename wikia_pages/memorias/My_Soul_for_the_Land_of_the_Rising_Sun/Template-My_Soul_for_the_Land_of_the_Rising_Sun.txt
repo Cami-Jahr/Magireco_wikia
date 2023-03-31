@@ -21,7 +21,7 @@
 | effect_name = Anti-Jammer
 | effect_name_JP = アンチ・ジャマ―
 | effect1 = Chance to Anti-Skill Seal [VI / 50%]
-| effect2 = Chance to Anti-Skill Seal [100%]
+| effect2 = Anti-Skill Seal
 | Cooldown = 
 | Cooldown2 = 
 }}

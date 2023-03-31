@@ -20,8 +20,8 @@
 | image = Chance to Anti-Evade
 | effect_name = Invisible Blast 
 | effect_name_JP = インビジブルブラスト
-| effect1 = Chance to Anti-Evade [VI / 100%] (Self / 1 Turn) & Blast Damage Up [VI / 40%] (Self / 1 Turn)
-| effect2 = Chance to Anti-Evade [VII / 100%] (Self / 1 Turn) & Blast Damage Up [VII / 45%] (Self / 1 Turn)
+| effect1 = Anti-Evade & Blast Damage Up [VI / 40%] (Self / 1 Turn)
+| effect2 = Anti-Evade & Blast Damage Up [VII / 45%] (Self / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

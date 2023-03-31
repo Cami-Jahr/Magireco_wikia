@@ -20,8 +20,8 @@
 | image = Blast Damage Up
 | effect_name = Master of the Tome of the Night Sky 
 | effect_name_JP = 夜天の書の主
-| effect1 = Blast Damage Up [II / 20%] (Self / 3 Turns) & Magia Damage Up [III / 10%] (Self / 3 Turns)
-| effect2 = Blast Damage Up [III / 25%] (Self / 3 Turns) & Magia Damage Up [IV / 12.5%] (Self / 3 Turns)
+| effect1 = Blast Damage Up [II / 20%] & Magia Damage Up [III / 10%] (Self / 3 Turns)
+| effect2 = Blast Damage Up [III / 25%] & Magia Damage Up [IV / 12.5%] (Self / 3 Turns)
 | Cooldown = 9
 | Cooldown2 = 8
 }}

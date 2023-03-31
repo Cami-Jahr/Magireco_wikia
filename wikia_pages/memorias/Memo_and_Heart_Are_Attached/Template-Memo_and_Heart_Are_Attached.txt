@@ -20,8 +20,8 @@
 | image = Regenerate HP
 | effect_name = Regenerate Shield 
 | effect_name_JP = リジェネレイト・シールド
-| effect1 = Regenerate HP [III / 4%] (Self / 3 Turns) & Damage Cut [III / 15%] (Self / 3 Turns)
-| effect2 = Regenerate HP [IV / 5%] (Self / 3 Turns) & Damage Cut [IV / 20%] (Self / 3 Turns)
+| effect1 = Regenerate HP [III / 4%] & Damage Cut [III / 15%] (Self / 3 Turns)
+| effect2 = Regenerate HP [IV / 5%] & Damage Cut [IV / 20%] (Self / 3 Turns)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

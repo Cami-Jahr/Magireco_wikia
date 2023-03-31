@@ -20,8 +20,8 @@
 | image = Damage Up
 | effect_name = ソニック スラスト 
 | effect_name_JP = ソニック・スラスト
-| effect1 = Damage Up [VI / 30%] (Self / 1 Turn) & Ignore Damage Cut [VIII / 65%] (Self / 1 Turn)
-| effect2 = Damage Up [VII / 35%] (Self / 1 Turn) & Ignore Damage Cut [IX / 70%] (Self / 1 Turn)
+| effect1 = Damage Up [VI / 30%] & Ignore Damage Cut [VIII / 65%] (Self / 1 Turn)
+| effect2 = Damage Up [VII / 35%] & Ignore Damage Cut [IX / 70%] (Self / 1 Turn)
 | Cooldown = 10
 | Cooldown2 = 9
 }}

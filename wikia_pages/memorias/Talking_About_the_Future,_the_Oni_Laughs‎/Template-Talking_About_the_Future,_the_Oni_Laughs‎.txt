@@ -21,7 +21,7 @@
 | effect_name = Morale Magia Rise 
 | effect_name_JP = モラールマギアライズ
 | effect1 = 
-| effect2 = Magia Damage Up [V / 15%] (Self / 3 Turns) & MP Gain Up [III / 10%] (Self / 3 Turns)
+| effect2 = Magia Damage Up [V / 15%] & MP Gain Up [III / 10%] (Self / 3 Turns)
 | Cooldown = 
 | Cooldown2 = 8
 }}

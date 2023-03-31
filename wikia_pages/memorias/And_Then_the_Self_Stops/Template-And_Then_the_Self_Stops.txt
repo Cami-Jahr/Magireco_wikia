@@ -21,7 +21,7 @@
 | effect_name = Astral Rise 
 | effect_name_JP = アストラルライズ
 | effect1 = 
-| effect2 = Accele MP Gain Up [V / 20%] (Self / 3 Turns) & Magia Damage Up [V / 15%] (Self / 3 Turns)
+| effect2 = Accele MP Gain Up [V / 20%] & Magia Damage Up [V / 15%] (Self / 3 Turns)
 | Cooldown = 
 | Cooldown2 = 7
 }}

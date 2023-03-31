@@ -21,7 +21,7 @@
 | effect_name = Ignore Counter
 | effect_name_JP = イグノア・カウンター
 | effect1 = Chance to Anti-Counter [V / 45%] & Attack Up [II / 10%]
-| effect2 = Chance to Anti-Counter [II / 100%] & Attack Up [II / 10%]
+| effect2 = Anti-Counter & Attack Up [II / 10%]
 | Cooldown = 
 | Cooldown2 = 
 }}

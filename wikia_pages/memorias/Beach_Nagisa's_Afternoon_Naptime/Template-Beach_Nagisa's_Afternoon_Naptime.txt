@@ -21,7 +21,7 @@
 | effect_name = Whirlwind 
 | effect_name_JP = ワールウィンド
 | effect1 = 
-| effect2 = Chance to Critical Hit [VII / 40%] (Self / 1 Turn) & Chance to Evade [VI / 35%] (Self / 1 Turn)
+| effect2 = Chance to Critical Hit [VII / 40%] & Chance to Evade [VI / 35%] (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 6
 }}

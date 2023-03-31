@@ -21,7 +21,7 @@
 | effect_name = Neglect Counter 
 | effect_name_JP = ネグレクト・カウンター
 | effect1 = 
-| effect2 = Attack Up [VI / 30%] (Self / 1 Turn) & Endure [100%] (Self / 1 Turn) & Chance to Anti-Counter [VI / 100%] (Self / 1 Turn) & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| effect2 = Attack Up [VI / 30%] & Endure [100%] & Anti-Counter (Self / 1 Turn) & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
 | Cooldown = 
 | Cooldown2 = 7
 }}

@@ -20,8 +20,8 @@
 | image = Attack Down
 | effect_name = Assault Down 
 | effect_name_JP = アサルトダウン
-| effect1 = Attack Down [V / 25%] (Target / 1 Turn) & Damage Down [V / 25%] (Target / 1 Turn)
-| effect2 = Attack Down [VI / 30%] (Target / 1 Turn) & Damage Down [VI / 30%] (Target / 1 Turn)
+| effect1 = Attack Down [V / 25%] & Damage Down [V / 25%] (Target / 1 Turn)
+| effect2 = Attack Down [VI / 30%] & Damage Down [VI / 30%] (Target / 1 Turn)
 | Cooldown = 8
 | Cooldown2 = 7
 }}

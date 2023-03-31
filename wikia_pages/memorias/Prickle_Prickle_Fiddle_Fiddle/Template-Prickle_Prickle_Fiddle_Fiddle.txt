@@ -20,8 +20,8 @@
 | image = Charge Draw
 | effect_name = Charge Draw
 | effect_name_JP = チャージドロー
-| effect1 = Charge Draw [100%]
-| effect2 = Charge Draw [100%]
+| effect1 = Charge Draw
+| effect2 = Charge Draw
 | Cooldown = 8
 | Cooldown2 = 7
 }}

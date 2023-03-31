@@ -20,8 +20,8 @@
 | image = Chance to Anti-Evade
 | effect_name = Resonance Blast Up 
 | effect_name_JP = レゾナンス・ブラストアップ
-| effect1 = Chance to Anti-Evade [I / 100%] (Allies / 1 Turn) & Blast Damage Up [I / 15%] (Allies / 1 Turn)
-| effect2 = Chance to Anti-Evade [II / 100%] (Allies / 1 Turn) & Blast Damage Up [II / 20%] (Allies / 1 Turn)
+| effect1 = Anti-Evade & Blast Damage Up [I / 15%] (Allies / 1 Turn)
+| effect2 = Anti-Evade & Blast Damage Up [II / 20%] (Allies / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

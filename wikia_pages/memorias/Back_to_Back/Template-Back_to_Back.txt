@@ -21,7 +21,7 @@
 | effect_name = Invisible Burn Edge 
 | effect_name_JP = インビジブル・バーンエッジ
 | effect1 = Chance to Burn on Attack [V / 30%] (2 Turns) & Chance to Anti-Evade [X / 70%]
-| effect2 = Chance to Burn on Attack [VI / 35%] (2 Turns) & Chance to Anti-Evade [VI / 100%]
+| effect2 = Chance to Burn on Attack [VI / 35%] (2 Turns) & Anti-Evade
 | Cooldown = 
 | Cooldown2 = 
 }}

@@ -21,7 +21,7 @@
 | effect_name = Sisterhood 
 | effect_name_JP = シスターフッド
 | effect1 = Attack Up [II / 10%] & Chance to Anti-Stun [VI / 50%]
-| effect2 = Attack Up [III / 15%] & Chance to Anti-Stun [III / 100%]
+| effect2 = Attack Up [III / 15%] & Anti-Stun
 | Cooldown = 
 | Cooldown2 = 
 }}

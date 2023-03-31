@@ -20,8 +20,8 @@
 | image = Chance to Anti-Fog
 | effect_name = Snake Vision
 | effect_name_JP = スネークビジョン
-| effect1 = Chance to Anti-Fog [XII / 100%] & Chance to Anti-Darkness [XII / 100%] & Chance to Anti-Charm [XII / 80%]
-| effect2 = Chance to Anti-Fog [100%] & Chance to Anti-Darkness [100%] & Chance to Anti-Charm [100%]
+| effect1 = Anti-Fog & Anti-Darkness & Chance to Anti-Charm [XII / 80%]
+| effect2 = Anti-Fog & Anti-Darkness & Anti-Charm
 | Cooldown = 
 | Cooldown2 = 
 }}

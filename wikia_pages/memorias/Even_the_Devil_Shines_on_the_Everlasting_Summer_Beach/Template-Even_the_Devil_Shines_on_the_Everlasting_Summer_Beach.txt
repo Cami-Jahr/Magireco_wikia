@@ -20,8 +20,8 @@
 | image = Chance to Charm on Attack
 | effect_name = Devil on the Beach 
 | effect_name_JP = デビルオンザビーチ
-| effect1 = Chance to Charm on Attack [II / 15%] (1 Turn) & Chance to Dazzle on Attack [II / 15%] (1 Turn)
-| effect2 = Chance to Charm on Attack [III / 20%] (1 Turn) & Chance to Dazzle on Attack [III / 20%] (1 Turn)
+| effect1 = Chance to Charm on Attack [II / 15%] & Chance to Dazzle on Attack [II / 15%] (1 Turn)
+| effect2 = Chance to Charm on Attack [III / 20%] & Chance to Dazzle on Attack [III / 20%] (1 Turn)
 | Cooldown = 
 | Cooldown2 = 
 }}

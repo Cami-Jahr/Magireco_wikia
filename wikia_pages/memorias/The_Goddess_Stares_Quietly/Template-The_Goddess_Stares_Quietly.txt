@@ -20,8 +20,8 @@
 | image = Regenerate HP
 | effect_name = Regenerate Buckler 
 | effect_name_JP = リジェネレイト・バックラー
-| effect1 = Regenerate HP [III / 4%] (Self / 1 Turn) & Damage Cut [VII / 35%] (Self / 1 Turn)
-| effect2 = Regenerate HP [IV / 5%] (Self / 1 Turn) & Damage Cut [VIII / 40%] (Self / 1 Turn)
+| effect1 = Regenerate HP [III / 4%] & Damage Cut [VII / 35%] (Self / 1 Turn)
+| effect2 = Regenerate HP [IV / 5%] & Damage Cut [VIII / 40%] (Self / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

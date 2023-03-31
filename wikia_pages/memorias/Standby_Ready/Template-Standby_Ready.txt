@@ -20,8 +20,8 @@
 | image = Damage Cut
 | effect_name = Standby Ready 
 | effect_name_JP = スタンバイ・レディ
-| effect1 = Damage Cut [VII / 35%] (Self / 1 Turn) & Ignore Damage Cut [VI / 55%] (Self / 1 Turn)
-| effect2 = Damage Cut [VIII / 40%] (Self / 1 Turn) & Ignore Damage Cut [VII / 60%] (Self / 1 Turn)
+| effect1 = Damage Cut [VII / 35%] & Ignore Damage Cut [VI / 55%] (Self / 1 Turn)
+| effect2 = Damage Cut [VIII / 40%] & Ignore Damage Cut [VII / 60%] (Self / 1 Turn)
 | Cooldown = 7
 | Cooldown2 = 6
 }}

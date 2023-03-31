@@ -20,8 +20,8 @@
 | image = Chance to Evade
 | effect_name = Parry
 | effect_name_JP = パリィ
-| effect1 = Chance to Evade [100%] (Self / 1 Turn)
-| effect2 = Chance to Evade [100%] (Self / 1 Turn)
+| effect1 = Evade (Self / 1 Turn)
+| effect2 = Evade (Self / 1 Turn)
 | Cooldown = 10
 | Cooldown2 = 8
 }}

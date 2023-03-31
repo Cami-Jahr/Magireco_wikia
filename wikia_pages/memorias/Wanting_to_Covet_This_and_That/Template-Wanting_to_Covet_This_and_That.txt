@@ -20,8 +20,8 @@
 | image = Accele MP Gain Up
 | effect_name = Clear Mind 
 | effect_name_JP = クリアマインド
-| effect1 = Accele MP Gain Up [V / 20%] (Self / 3 Turns) & Damage Increase [III / 15%] (Self / 3 Turns)
-| effect2 = Accele MP Gain Up [VI / 22.5%] (Self / 3 Turns) & Damage Increase [IV / 20%] (Self / 3 Turns)
+| effect1 = Accele MP Gain Up [V / 20%] & Damage Increase [III / 15%] (Self / 3 Turns)
+| effect2 = Accele MP Gain Up [VI / 22.5%] & Damage Increase [IV / 20%] (Self / 3 Turns)
 | Cooldown = 10
 | Cooldown2 = 9
 }}

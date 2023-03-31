@@ -21,7 +21,7 @@
 | effect_name = I Had a Feeling We Could Become Magical Girls
 | effect_name_JP = 魔法少女になれる気がしたの
 | effect1 = 
-| effect2 = Negate Status Ailments [100%] (Allies / 3 Turns) & Remove Status Ailments [%] (Allies)
+| effect2 = Negate Status Ailments [100%] (Allies / 3 Turns) & Remove Status Ailments (Allies)
 | Cooldown = 
 | Cooldown2 = 12
 }}
