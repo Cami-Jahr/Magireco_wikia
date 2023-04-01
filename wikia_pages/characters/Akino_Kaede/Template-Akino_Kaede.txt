@@ -162,7 +162,7 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage All Enemies
-| Magia effect 1 = Damage All Enemies
+| Magia effect 1 = Attribute Strengthened Damage All Enemies
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = IV / 305%
 | Magia 1 / 2 = VI / 325%
@@ -189,5 +189,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、敷地
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 821%] & Fog [All Enemies / 3 Turns] & Charged Attack Damage Up [IX / 35%] & Accele MP Gain Up [IX / 35% / Allies / 3 Turns]
+| Doppel effect = Attribute Strengthened Damage All Enemies [IX / 821%] & Fog [All Enemies / 3 Turns] & Charged Attack Damage Up [IX / 35%] & Accele MP Gain Up [IX / 35% / Allies / 3 Turns]
 }}

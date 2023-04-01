@@ -162,7 +162,7 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage One Enemy
-| Magia effect 1 = Damage One Enemy
+| Magia effect 1 = Attribute Strengthened Damage One Enemy
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 864%
 | Magia 1 / 2 = VII / 928%
@@ -181,5 +181,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、人魚
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Survive [IX / 40% / Self / 3 Turns] & Critical Hit [Self / 2 Turns]
+| Doppel effect = Attribute Strengthened Damage One Enemy [IX / 2270.4%] & Survive [IX / 40% / Self / 3 Turns] & Critical Hit [Self / 2 Turns]
 }}

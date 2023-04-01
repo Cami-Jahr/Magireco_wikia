@@ -139,4 +139,4 @@ def check_incorrect_chars():
 
 
 check_incorrect_memos()
-# check_incorrect_chars()
+check_incorrect_chars()

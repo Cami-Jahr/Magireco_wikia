@@ -162,7 +162,7 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage 4 Random Enemies
-| Magia effect 1 = Damage 4 Random Enemies
+| Magia effect 1 = Attribute Strengthened Damage 4 Random Enemies
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 273.6%
 | Magia 1 / 2 = VII / 291%
@@ -189,5 +189,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ヨダカ
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage 5 Random Enemies [IX / 638%] & Dark Attribute Attack Up [IX / 45% / Allies / 5 Turns] & Remove Debuffs [] & Remove Status Ailments [Allies] & MP Restore [IX / 9 MP]
+| Doppel effect = Attribute Strengthened Damage 5 Random Enemies [IX / 638%] & Dark Attribute Attack Up [IX / 45% / Allies / 5 Turns] & Remove Debuffs [] & Remove Status Ailments [Allies] & MP Restore [IX / 9 MP]
 }}

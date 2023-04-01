@@ -159,7 +159,7 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage All Enemies
-| Magia effect 1 = Damage All Enemies
+| Magia effect 1 = Attribute Strengthened Damage All Enemies
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 325%
 | Magia 1 / 2 = VIII / 345%
@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、女王の黄昏
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
-| Doppel effect = Damage All Enemies [X / 902%] & Curse [All Enemies / 3 Turns] & Magia Damage Up [X / 42.5%] & Dark Attribute Attack Up [X / 30% / Self / 5 Turns] & Survive [X / 40% / Self / 3 Turns]
+| Doppel effect = Attribute Strengthened Damage All Enemies [X / 902%] & Curse [All Enemies / 3 Turns] & Magia Damage Up [X / 42.5%] & Dark Attribute Attack Up [X / 30% / Self / 5 Turns] & Survive [X / 40% / Self / 3 Turns]
 }}

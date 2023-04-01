@@ -159,7 +159,7 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage All Enemies
-| Magia effect 1 = Damage All Enemies
+| Magia effect 1 = Attribute Strengthened Damage All Enemies
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 315%
 | Magia 1 / 2 = VII / 335%
@@ -190,5 +190,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、感情
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 869%] & Revive one Ally [100%] & Anti-Debuff [2 Debuffs] & Negate Status Ailments [2 Status Ailments] & Regenerate HP [IX / 14% / Allies / 5 Turns] & Remove Status Ailments [Allies] & Imitate Attribute [IX / 100% / Self / 3 Turns]
+| Doppel effect = Attribute Strengthened Damage All Enemies [IX / 869%] & Revive one Ally [100%] & Anti-Debuff [2 Debuffs] & Negate Status Ailments [2 Status Ailments] & Regenerate HP [IX / 14% / Allies / 5 Turns] & Remove Status Ailments [Allies] & Imitate Attribute [IX / 100% / Self / 3 Turns]
 }}

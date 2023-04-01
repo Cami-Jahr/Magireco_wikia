@@ -156,7 +156,7 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage One Enemy
-| Magia effect 1 = Damage One Enemy
+| Magia effect 1 = Attribute Strengthened Damage One Enemy
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 896%
 | Magia 1 / 2 = VIII / 960%
@@ -183,5 +183,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage One Enemy [X / 2340.8%] & Dazzle [] & Defense Down [X / 60% / Target / 3 Turns] & Magia Damage Up [X / 45% / Self / 5 Turns] & MP Restore [X / 44 MP]
+| Doppel effect = Attribute Strengthened Damage One Enemy [X / 2340.8%] & Dazzle [] & Defense Down [X / 60% / Target / 3 Turns] & Magia Damage Up [X / 45% / Self / 5 Turns] & MP Restore [X / 44 MP]
 }}

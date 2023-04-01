@@ -159,7 +159,7 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage 5 Random Enemies
-| Magia effect 1 = Damage 5 Random Enemies
+| Magia effect 1 = Attribute Strengthened Damage 5 Random Enemies
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 238.1%
 | Magia 1 / 2 = VIII / 252.7%
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage 5 Random Enemies [X / 676%] & Magia Damage Up [X / 40% / Allies / 5 Turns] & Damage Up [X / 40%] & Flame Attribute Attack Up [X / 30% / Self / 5 Turns]
+| Doppel effect = Attribute Strengthened Damage 5 Random Enemies [X / 676%] & Magia Damage Up [X / 40% / Allies / 5 Turns] & Damage Up [X / 40%] & Flame Attribute Attack Up [X / 30% / Self / 5 Turns]
 }}

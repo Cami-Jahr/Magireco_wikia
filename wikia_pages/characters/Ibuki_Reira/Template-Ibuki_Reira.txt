@@ -167,7 +167,7 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage One Enemy
-| Magia effect 1 = Damage One Enemy
+| Magia effect 1 = Attribute Strengthened Damage One Enemy
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = III / 800%
 | Magia 1 / 2 = V / 864%

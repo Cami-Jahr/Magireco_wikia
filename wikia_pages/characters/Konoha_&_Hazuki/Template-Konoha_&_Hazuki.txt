@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、狐拳
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [X / 902%] & Curse [] & Burn [] & Poison [All Enemies / 3 Turns] & Forest Attribute Attack Up [X / 35% / Self / 5 Turns]
+| Doppel effect = Attribute Strengthened Damage All Enemies [X / 902%] & Curse [] & Burn [] & Poison [All Enemies / 3 Turns] & Forest Attribute Attack Up [X / 35% / Self / 5 Turns]
 }}

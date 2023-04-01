@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、舞踏会
 | Doppel Japanese Designer = 原案：f4samurai、監修：ムラ黒江
-| Doppel effect = Damage All Enemies [IX / 869%] & Defense Pierce [] & Ignore Damage Cut [IX / 100%] & Evade [Self / 2 Turns] & MP Restore [IX / 49 MP]
+| Doppel effect = Attribute Strengthened Damage All Enemies [IX / 869%] & Defense Pierce [] & Ignore Damage Cut [IX / 100%] & Evade [Self / 2 Turns] & MP Restore [IX / 49 MP]
 }}

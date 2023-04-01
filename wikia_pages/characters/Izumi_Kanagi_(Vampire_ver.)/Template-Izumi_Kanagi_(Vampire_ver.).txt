@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、竈獅子
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [X / 902%] & MP Damage [X / 100 MP / All Enemies] & Evade [Self / 2 Turns] & HP Restore [X / 60.5%]
+| Doppel effect = Attribute Strengthened Damage All Enemies [X / 902%] & MP Damage [X / 100 MP / All Enemies] & Evade [Self / 2 Turns] & HP Restore [X / 60.5%]
 }}

@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 869%] & Attack Down [IX / 35% / All Enemies / 3 Turns] & Stun [All Enemies / 1 Turn] & Aqua Attribute Attack Up [IX / 35% / Self / 5 Turns] & Ignore Damage Cut [IX / 100% / Self / 3 Turns]
+| Doppel effect = Attribute Strengthened Damage All Enemies [IX / 869%] & Attack Down [IX / 35% / All Enemies / 3 Turns] & Stun [All Enemies / 1 Turn] & Aqua Attribute Attack Up [IX / 35% / Self / 5 Turns] & Ignore Damage Cut [IX / 100% / Self / 3 Turns]
 }}

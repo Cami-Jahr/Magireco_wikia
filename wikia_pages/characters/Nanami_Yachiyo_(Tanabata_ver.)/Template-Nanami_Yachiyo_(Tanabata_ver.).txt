@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、切符鋏
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage 5 Random Enemies [IX / 638%] & Attack Up [IX / 40%] & Aqua Attribute Attack Up [IX / 40% / Self / 5 Turns] & Charge Conservation [IX / 100% / Self / 2 Turns] & HP Restore [IX / 38%]
+| Doppel effect = Attribute Strengthened Damage 5 Random Enemies [IX / 638%] & Attack Up [IX / 40%] & Aqua Attribute Attack Up [IX / 40% / Self / 5 Turns] & Charge Conservation [IX / 100% / Self / 2 Turns] & HP Restore [IX / 38%]
 }}

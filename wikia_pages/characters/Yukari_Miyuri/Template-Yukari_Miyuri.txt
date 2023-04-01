@@ -187,5 +187,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、靴
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Charge Disc Damage Up [IX / 60%] & Charged Attack Damage Up [IX / 35%] & Chance to Defense Pierce [IX / 50% / Self / 5 Turns] & Charge Conservation [IX / 100% / Self / 2 Turns]
+| Doppel effect = Attribute Strengthened Damage One Enemy [IX / 2270.4%] & Charge Disc Damage Up [IX / 60%] & Charged Attack Damage Up [IX / 35%] & Chance to Defense Pierce [IX / 50% / Self / 5 Turns] & Charge Conservation [IX / 100% / Self / 2 Turns]
 }}

@@ -159,7 +159,7 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage One Enemy
-| Magia effect 1 = Damage One Enemy
+| Magia effect 1 = Attribute Strengthened Damage One Enemy
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 864%
 | Magia 1 / 2 = VII / 928%
@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ー
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Skill Seal [Target / 2 Turns] & Accele MP Gain Up [IX / 35%] & Anti-Evade [Allies / 3 Turns]
+| Doppel effect = Attribute Strengthened Damage One Enemy [IX / 2270.4%] & Skill Seal [Target / 2 Turns] & Accele MP Gain Up [IX / 35%] & Anti-Evade [Allies / 3 Turns]
 }}

@@ -561,6 +561,9 @@ def translate(shortDescription, arts):
                 elif effect_code in ("CONDITION_BAD",):
                     effect = f"{nr} Status Ailment{'s' if nr > 1 else ''}"
 
+            if verb_code == "ATTACK" and "effectCode" in art and art["effectCode"] in ("ALIGNMENT",):
+                text = text.replace("Damage", "Attribute Strengthened Damage")
+
             try:
                 target_id = art["targetId"]
                 target = target_tl[target_id]

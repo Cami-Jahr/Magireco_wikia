@@ -156,7 +156,7 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage A Horizontal Line
-| Magia effect 1 = Damage A Horizontal Line
+| Magia effect 1 = Attribute Strengthened Damage A Horizontal Line
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 465.9%
 | Magia 1 / 2 = VII / 500.9%
@@ -179,5 +179,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、遊園
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage A Horizontal Line [IX / 1194.8%] & Blast Damage Up [IX / 60%] & Light Attribute Attack Up [IX / 30%] & Defense Up [IX / 47.5% / Self / 5 Turns]
+| Doppel effect = Attribute Strengthened Damage A Horizontal Line [IX / 1194.8%] & Blast Damage Up [IX / 60%] & Light Attribute Attack Up [IX / 30%] & Defense Up [IX / 47.5% / Self / 5 Turns]
 }}

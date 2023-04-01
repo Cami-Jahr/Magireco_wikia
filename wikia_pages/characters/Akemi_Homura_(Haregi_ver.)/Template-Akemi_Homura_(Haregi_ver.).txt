@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、宝船
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 869%] & Defense Down [IX / 45% / All Enemies / 3 Turns] & Dark Attribute Attack Up [IX / 30% / Allies / 3 Turns] & Damage Up [IX / 40% / Self / 3 Turns] & MP Restore [IX / 19 MP / Allies]
+| Doppel effect = Attribute Strengthened Damage All Enemies [IX / 869%] & Defense Down [IX / 45% / All Enemies / 3 Turns] & Dark Attribute Attack Up [IX / 30% / Allies / 3 Turns] & Damage Up [IX / 40% / Self / 3 Turns] & MP Restore [IX / 19 MP / Allies]
 }}

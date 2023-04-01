@@ -159,7 +159,7 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage All Enemies
-| Magia effect 1 = Damage All Enemies
+| Magia effect 1 = Attribute Strengthened Damage All Enemies
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 315%
 | Magia 1 / 2 = VII / 335%
@@ -194,5 +194,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 869%] & HP Restore [IX / 100%] & MP Restore [IX / 34 MP / Allies] & Blast Damage Up [IX / 50%] & Charged Attack Damage Up [IX / 50%] & Accele MP Gain Up [IX / 40%] & Anti-Debuff [3 Debuffs / Allies / 5 Turns]
+| Doppel effect = Attribute Strengthened Damage All Enemies [IX / 869%] & HP Restore [IX / 100%] & MP Restore [IX / 34 MP / Allies] & Blast Damage Up [IX / 50%] & Charged Attack Damage Up [IX / 50%] & Accele MP Gain Up [IX / 40%] & Anti-Debuff [3 Debuffs / Allies / 5 Turns]
 }}

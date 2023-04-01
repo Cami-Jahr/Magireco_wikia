@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、藁武者
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Remove Buffs [Target] & Damage Increase [IX / 40%] & Aqua Attribute Attack Up [IX / 25% / Allies / 5 Turns] & HP Restore [IX / 18%]
+| Doppel effect = Attribute Strengthened Damage One Enemy [IX / 2270.4%] & Remove Buffs [Target] & Damage Increase [IX / 40%] & Aqua Attribute Attack Up [IX / 25% / Allies / 5 Turns] & HP Restore [IX / 18%]
 }}

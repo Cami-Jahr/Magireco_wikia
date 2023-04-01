@@ -162,7 +162,7 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage One Enemy
-| Magia effect 1 = Damage One Enemy
+| Magia effect 1 = Attribute Strengthened Damage One Enemy
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 896%
 | Magia 1 / 2 = VIII / 960%
@@ -185,5 +185,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、悪戯猫
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
-| Doppel effect = Damage One Enemy [X / 2340.8%] & MP Gain Down [X / 60% / Target / 5 Turns] & MP Damage [X / 100 MP / Target] & Magia Damage Up [X / 36% / Allies / 5 Turns]
+| Doppel effect = Attribute Strengthened Damage One Enemy [X / 2340.8%] & MP Gain Down [X / 60% / Target / 5 Turns] & MP Damage [X / 100 MP / Target] & Magia Damage Up [X / 36% / Allies / 5 Turns]
 }}

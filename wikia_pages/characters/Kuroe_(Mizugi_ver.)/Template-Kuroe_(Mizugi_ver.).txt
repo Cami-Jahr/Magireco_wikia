@@ -156,7 +156,7 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage 4 Random Enemies
-| Magia effect 1 = Damage 4 Random Enemies
+| Magia effect 1 = Attribute Strengthened Damage 4 Random Enemies
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 273.6%
 | Magia 1 / 2 = VII / 291%
@@ -179,5 +179,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ヨダカ
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage 5 Random Enemies [IX / 638%] & Attack Up [IX / 50%] & Dark Attribute Attack Up [IX / 25% / Self / 5 Turns] & Regenerate MP [IX / 16 MP] & Blast MP Gain Up [IX / 5 MP / Self / 3 Turns]
+| Doppel effect = Attribute Strengthened Damage 5 Random Enemies [IX / 638%] & Attack Up [IX / 50%] & Dark Attribute Attack Up [IX / 25% / Self / 5 Turns] & Regenerate MP [IX / 16 MP] & Blast MP Gain Up [IX / 5 MP / Self / 3 Turns]
 }}
