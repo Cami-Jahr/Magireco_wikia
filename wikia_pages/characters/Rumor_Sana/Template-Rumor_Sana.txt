@@ -126,7 +126,7 @@
 | Passive 11 effect = Accele MP Gain Up [II / 12.5%]
 
 | Passive 12 icon = Damage Cut
-| Passive 12 name = ShieldAura [III]
+| Passive 12 name = Shield Aura [III]
 | Passive 12 name JP = シールドオーラ[Ⅲ]
 | Passive 12 effect = Damage Cut [III / 15%] (Self / 3 Turns)
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Attack Down
-| Active 1 name = Attackドレイン [VI]
+| Active 1 name = Attack Drain [VI]
 | Active 1 name JP = アタックドレイン[Ⅵ]
-| Active 1 effect = Attack Down [II / 10%] (One / 5 Turns) & Attack Up [II / 10%] (Self / 5 Turns)
+| Active 1 effect = Attack Down [II / 10%] (Target / 5 Turns) & Attack Up [II / 10%] (Self / 5 Turns)
 | Active 1 cooldown = 3
 
 | Connect name JP = 今だけは一緒に…
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
-| Connect effect 2 = Chance to Curse on Attack
-| Connect 2 / 1 = VII / 100%
-| Connect 2 / 2 = IX / 100%
-| Connect effect 3 = Chance to Evade
-| Connect 3 / 1 = Self / 1 Turn / VII / 100%
-| Connect 3 / 2 = Self / 1 Turn / IX / 100%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect effect 2 = Curse on Attack
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
+| Connect effect 3 = Evade
+| Connect 3 / 1 = Self / 1 Turn / 
+| Connect 3 / 2 = Self / 1 Turn / 
 
 | Magia name JP = エレクトロン・シュヴェールト
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 17.5%
-| Magia 2 / 2 = All / 3 Turns / VII / 20%
-| Magia effect 3 = Chance to Stun
+| Magia 2 / 1 = All Enemies / 3 Turns / V / 17.5%
+| Magia 2 / 2 = All Enemies / 3 Turns / VII / 20%
+| Magia effect 3 = Stun
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / 1 Turn / V / 100%
-| Magia 3 / 2 = All / 1 Turn / VII / 100%
+| Magia 3 / 1 = All Enemies / 1 Turn / 
+| Magia 3 / 2 = All Enemies / 1 Turn / 
 | Magia effect 4 = Aqua Attribute Attack Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Self / 3 Turns / V / 15%
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 869%] & Attack Down [IX / 35% / All / 3 Turns] & Chance to Stun [IX / 100% / All / 1 Turn] & Aqua Attribute Attack Up [IX / 35% / Self / 5 Turns] & Ignore Damage Cut [IX / 100% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 869%] & Attack Down [IX / 35% / All Enemies / 3 Turns] & Stun [All Enemies / 1 Turn] & Aqua Attribute Attack Up [IX / 35% / Self / 5 Turns] & Ignore Damage Cut [IX / 100% / Self / 3 Turns]
 }}

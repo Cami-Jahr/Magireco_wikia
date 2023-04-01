@@ -96,7 +96,7 @@
 | Passive 5 effect = Chance to Provoke [II / 15%]
 
 | Passive 6 icon = Regenerate HP
-| Passive 6 name = Regeneration Adept [IV]
+| Passive 6 name = Regenerate Adept [IV]
 | Passive 6 name JP = リジェネレイト・アデプト[Ⅳ]
 | Passive 6 effect = Regenerate HP [IV / 5%]
 
@@ -121,7 +121,7 @@
 | Passive 10 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 11 icon = Chance to Skill Quicken
-| Passive 11 name = Skill Quicken [III]
+| Passive 11 name = Skill Quick [III]
 | Passive 11 name JP = スキルクイック[Ⅲ]
 | Passive 11 effect = Chance to Skill Quicken [III / 15%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Chance to Charm
 | Active 1 name = Attention [X]
 | Active 1 name JP = アテンション[Ⅹ]
-| Active 1 effect = Chance to Charm [X / 52.5%] (All / 1 Turn) & Chance to Provoke [X / 100%] (Self / 1 Turn)
+| Active 1 effect = Chance to Charm [X / 52.5%] (All Enemies / 1 Turn) & Provoke (Self / 1 Turn)
 | Active 1 cooldown = 15
 
 | Connect name JP = 必ず完璧に支えてみせる
@@ -146,13 +146,13 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = V / 30%
-| Connect 1 / 2 = VII / 35%
-| Connect 1 / 3 = IX / 40%
-| Connect effect 2 = Chance to Charm on Attack
-| Connect 2 / 1 = V / 100%
-| Connect 2 / 2 = VII / 100%
-| Connect 2 / 3 = IX / 100%
+| Connect 1 / 1 = Self / 1 Turn / V / 30%
+| Connect 1 / 2 = Self / 1 Turn / VII / 35%
+| Connect 1 / 3 = Self / 1 Turn / IX / 40%
+| Connect effect 2 = Charm on Attack
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
+| Connect 2 / 3 = 
 
 | Magia name JP = アテンション＆リリース
 | Magia name EN = 
@@ -165,19 +165,19 @@
 | Magia 1 / 3 = VII / 1152%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = One / 3 Turns / III / 15%
-| Magia 2 / 2 = One / 3 Turns / V / 25%
-| Magia 2 / 3 = One / 3 Turns / VII / 35%
+| Magia 2 / 1 = Target / 3 Turns / III / 15%
+| Magia 2 / 2 = Target / 3 Turns / V / 25%
+| Magia 2 / 3 = Target / 3 Turns / VII / 35%
 | Magia effect 3 = Damage Cut
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Self / 3 Turns / III / 20%
 | Magia 3 / 2 = Self / 3 Turns / V / 30%
-| Magia 3 / 3 = Self / 3 Turns / VII / 40%
-| Magia effect 4 = Chance to Provoke
+| Magia 3 / 3 = VII / 40%
+| Magia effect 4 = Provoke
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = Self / 1 Turn / III / 100%
-| Magia 4 / 2 = Self / 1 Turn / V / 100%
-| Magia 4 / 3 = Self / 1 Turn / VII / 100%
+| Magia 4 / 1 = Self / 1 Turn / 
+| Magia 4 / 2 = Self / 1 Turn / 
+| Magia 4 / 3 = Self / 1 Turn / 
 | Magia effect 5 = Regenerate HP
 | Magia scaling 5 = 1%
 | Magia 5 / 1 = -
@@ -190,5 +190,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、瞳
 | Doppel Japanese Designer = 原案・監修：GAN
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Down [IX / 55% / One / 5 Turns] & Damage Cut [IX / 60% / Self / 3 Turns] & Regenerate HP [IX / 11% / Self / 3 Turns] & Chance to Provoke [IX / 100% / Self / 2 Turns]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Down [IX / 55% / Target / 5 Turns] & Damage Cut [IX / 60%] & Regenerate HP [IX / 11% / Self / 3 Turns] & Provoke [Self / 2 Turns]
 }}

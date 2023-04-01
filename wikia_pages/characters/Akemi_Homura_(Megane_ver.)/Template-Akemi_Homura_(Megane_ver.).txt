@@ -96,7 +96,7 @@
 | Passive 5 effect = Charge Disc Damage Up [II / 10%]
 
 | Passive 6 icon = Chance to Skill Quicken
-| Passive 6 name = Skill Quicken [III]
+| Passive 6 name = Skill Quick [III]
 | Passive 6 name JP = スキルクイック[Ⅲ]
 | Passive 6 effect = Chance to Skill Quicken [III / 15%]
 
@@ -126,7 +126,7 @@
 | Passive 11 effect = MP Gain Up [III / 10%]
 
 | Passive 12 icon = Chance to Skill Quicken
-| Passive 12 name = Skill Quicken [III]
+| Passive 12 name = Skill Quick [III]
 | Passive 12 name JP = スキルクイック[Ⅲ]
 | Passive 12 effect = Chance to Skill Quicken [III / 15%]
 
@@ -138,16 +138,16 @@
 | Active 1 icon = Chance to Evade
 | Active 1 name = Parry
 | Active 1 name JP = パリィ
-| Active 1 effect = Chance to Evade [100%] (Self / 1 Turn)
+| Active 1 effect = Evade (Self / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = 一緒に頑張ろうね！
 | Connect name EN = 
 | Connect name NA = 
 | Connect icon = Chance to Evade
-| Connect effect 1 = Chance to Evade
-| Connect 1 / 1 = 100%
-| Connect 1 / 2 = III / 100%
+| Connect effect 1 = Evade
+| Connect 1 / 1 = Self / 1 Turn / 
+| Connect 1 / 2 = Self / 1 Turn / 
 | Connect effect 2 = Magia Damage Up
 | Connect 2 / 1 = -
 | Connect 2 / 2 = III / 7.5%
@@ -160,10 +160,10 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
-| Magia effect 2 = Chance to Skill Quicken
+| Magia effect 2 = Skill Quicken
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 3 Turns / V / 100%
-| Magia 2 / 2 = All / 3 Turns / VII / 100%
+| Magia 2 / 1 = Allies / 3 Turns / 
+| Magia 2 / 2 = Allies / 3 Turns / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -171,5 +171,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、此岸
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 924%] & Chance to Skill Quicken [IX / 100% / All / 3 Turns] & MP Restore [IX / 16.5 MP / All]
+| Doppel effect = Damage All Enemies [IX / 924%] & Skill Quicken [Allies / 3 Turns] & MP Restore [IX / 16.5 MP / Allies]
 }}

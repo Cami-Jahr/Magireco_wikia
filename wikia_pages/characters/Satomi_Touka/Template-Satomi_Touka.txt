@@ -126,7 +126,7 @@
 | Passive 11 effect = Chance to Evade [II / 15%]
 
 | Passive 12 icon = Aqua Attribute Damage Cut
-| Passive 12 name = アクアShield Adept [III]
+| Passive 12 name = Aqua Shield Adept [III]
 | Passive 12 name JP = アクアシールド・アデプト[Ⅲ]
 | Passive 12 effect = Aqua Attribute Damage Cut [III / 15%]
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Magia Damage Down
-| Active 1 name = Magiaドレイン [VI]
+| Active 1 name = Magia Drain [VI]
 | Active 1 name JP = マギアドレイン[Ⅵ]
-| Active 1 effect = Magia Damage Down [VI / 30%] (One / 1 Turn) & Magia Damage Up [VI / 17.5%] (Self / 1 Turn)
+| Active 1 effect = Magia Damage Down [VI / 30%] (Target / 1 Turn) & Magia Damage Up [VI / 17.5%] (Self / 1 Turn)
 | Active 1 cooldown = 6
 
 | Connect name JP = 確率あげてこー！
@@ -146,14 +146,17 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = MP Restore
 | Connect 2 / 1 = IV / 20 MP
 | Connect 2 / 2 = VI / 25 MP
-| Connect effect 3 = Chance to Magia Seal on Attack
-| Connect 3 / 1 = IV / 60%
-| Connect 3 / 2 = VI / 100%
+| Connect effect 3 = Magia Seal on Attack
+| Connect 3 / 1 = -
+| Connect 3 / 2 = 
+| Connect effect 4 = Chance to Magia Seal on Attack
+| Connect 4 / 1 = IV / 60%
+| Connect 4 / 2 = -
 
 | Magia name JP = ネオ・ジェネシス☆彡
 | Magia name EN = 
@@ -165,12 +168,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Defense Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 15%
-| Magia 2 / 2 = All / 3 Turns / VII / 17.5%
+| Magia 2 / 1 = All Enemies / 3 Turns / V / 15%
+| Magia 2 / 2 = All Enemies / 3 Turns / VII / 17.5%
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Self / 3 Turns / V / 22.5%
-| Magia 3 / 2 = Self / 3 Turns / VII / 37.5%
+| Magia 3 / 2 = VII / 37.5%
 | Magia effect 4 = Magia Damage Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -
@@ -182,5 +185,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、マッチ売り
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Defense Down [IX / 35% / All / 3 Turns] & Defense Up [IX / 47.5% / Self / 3 Turns] & Magia Damage Up [IX / 35% / Self / 5 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Defense Down [IX / 35% / All Enemies / 3 Turns] & Defense Up [IX / 47.5% / Self / 3 Turns] & Magia Damage Up [IX / 35% / Self / 5 Turns]
 }}

@@ -106,27 +106,27 @@
 | Passive 7 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 8 icon = Flame Attribute Damage Cut
-| Passive 8 name = フレイムShield Adept [III]
+| Passive 8 name = Flame Shield Adept [III]
 | Passive 8 name JP = フレイムシールド・アデプト[Ⅲ]
 | Passive 8 effect = Flame Attribute Damage Cut [III / 15%]
 
 | Passive 9 icon = Doppel Damage Up
-| Passive 9 name = DoppelAura [V]
+| Passive 9 name = Doppel Aura [V]
 | Passive 9 name JP = ドッペルオーラ[Ⅴ]
-| Passive 9 effect = Doppel Damage Up [V / 25%] (Self / 5 Turns) & Magia Damage Up [IV / 12.5%] (Self / 5 Turns)
+| Passive 9 effect = Doppel Damage Up [V / 25%] & Magia Damage Up [IV / 12.5%] (Self / 5 Turns)
 
 | Passive 10 icon = Magia Damage Up
 | Passive 10 name = Magia Up Aura [II]
 | Passive 10 name JP = マギアアップ・オーラ[Ⅱ]
-| Passive 10 effect = Magia Damage Up [II / 12%] (All / 5 Turns)
+| Passive 10 effect = Magia Damage Up [II / 12%] (Allies / 5 Turns)
 
 | Passive 11 icon = Chance to Anti-Charm
 | Passive 11 name = Anti-Charm
 | Passive 11 name JP = アンチ・チャーム
-| Passive 11 effect = Chance to Anti-Charm [100%]
+| Passive 11 effect = Anti-Charm
 
 | Passive 12 icon = Regenerate HP
-| Passive 12 name = Mana SpringAura [XV]
+| Passive 12 name = Mana Spring Aura [XV]
 | Passive 12 name JP = マナスプリングオーラ[XV]
 | Passive 12 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn)
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Accele Draw
-| Active 1 name = Acceleドロー
+| Active 1 name = Accele Draw
 | Active 1 name JP = アクセルドロー
-| Active 1 effect = Accele Draw [100%]
+| Active 1 effect = Accele Draw
 | Active 1 cooldown = 5
 
 | Connect name JP = クールに決めましょう
@@ -146,8 +146,8 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = VIII / 37.5%
-| Connect 1 / 2 = X / 42.5%
+| Connect 1 / 1 = Self / 1 Turn / VIII / 37.5%
+| Connect 1 / 2 = Self / 1 Turn / X / 42.5%
 | Connect effect 2 = MP Restore
 | Connect 2 / 1 = V / 22.5 MP
 | Connect 2 / 2 = VII / 27.5 MP
@@ -162,8 +162,8 @@
 | Magia 1 / 2 = VIII / 299.7%
 | Magia effect 2 = Aqua Attribute Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / VI / 5%
-| Magia 2 / 2 = Self / 3 Turns / VIII / 10%
+| Magia 2 / 1 = VI / 5%
+| Magia 2 / 2 = VIII / 10%
 | Magia effect 3 = Attack Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Self / 3 Turns / VI / 5%
@@ -179,5 +179,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、切符鋏
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage 5 Random Enemies [X / 676%] & Aqua Attribute Attack Up [X / 25% / All / 5 Turns] & Attack Up [X / 25% / Self / 5 Turns] & MP Restore [X / 24 MP / All]
+| Doppel effect = Damage 5 Random Enemies [X / 676%] & Aqua Attribute Attack Up [X / 25% / Allies / 5 Turns] & Attack Up [X / 25% / Self / 5 Turns] & MP Restore [X / 24 MP / Allies]
 }}

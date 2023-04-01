@@ -91,12 +91,12 @@
 | Passive 4 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
 
 | Passive 5 icon = Chance to Anti-Magia Seal
-| Passive 5 name = Anti-Magia Seal [VI]
+| Passive 5 name = Anti-Seal Magia [VI]
 | Passive 5 name JP = アンチ・シールマギア[Ⅵ]
 | Passive 5 effect = Chance to Anti-Magia Seal [VI / 50%]
 
 | Passive 6 icon = Chance to Skill Quicken
-| Passive 6 name = Skill Quicken [II]
+| Passive 6 name = Skill Quick [II]
 | Passive 6 name JP = スキルクイック[Ⅱ]
 | Passive 6 effect = Chance to Skill Quicken [II / 10%]
 
@@ -126,19 +126,19 @@
 | Passive 11 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 12 icon = Negate Status Ailments
-| Passive 12 name = ResistShield
+| Passive 12 name = Resist Shield
 | Passive 12 name JP = レジストシールド
-| Passive 12 effect = Negate Status Ailments [100%]
+| Passive 12 effect = Negate Status Ailments [1 Status Ailment]
 
 | Passive 13 icon = Chance to Anti-Skill Seal
 | Passive 13 name = Anti-Jammer
 | Passive 13 name JP = アンチ・ジャマ―
-| Passive 13 effect = Chance to Anti-Skill Seal [100%]
+| Passive 13 effect = Anti-Skill Seal
 
 | Active 1 icon = Chance to Dazzle
-| Active 1 name = ミラージュ Charm [IX]
+| Active 1 name = Mirage Charm [IX]
 | Active 1 name JP = ミラージュ・チャーム[Ⅸ]
-| Active 1 effect = Chance to Dazzle [IX / 100%] (One / 1 Turn) & Chance to Charm [IX / 50%] (One / 1 Turn)
+| Active 1 effect = Dazzle & Chance to Charm [IX / 50%] (Target / 1 Turn)
 | Active 1 cooldown = 6
 
 | Connect name JP = 僕と連作を完成させよう
@@ -146,14 +146,17 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = HP Restore
 | Connect 2 / 1 = IV / 37.5%
 | Connect 2 / 2 = VI / 42.5%
-| Connect effect 3 = Chance to Dazzle on Attack
-| Connect 3 / 1 = IV / 65%
-| Connect 3 / 2 = VI / 100%
+| Connect effect 3 = Dazzle on Attack
+| Connect 3 / 1 = -
+| Connect 3 / 2 = 
+| Connect effect 4 = Chance to Dazzle on Attack
+| Connect 4 / 1 = IV / 65%
+| Connect 4 / 2 = -
 
 | Magia name JP = 創造の子どもたち
 | Magia name EN = 
@@ -163,26 +166,26 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
-| Magia effect 2 = Chance to Charm
+| Magia effect 2 = Charm
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = One / 1 Turn / V / 100%
-| Magia 2 / 2 = One / 1 Turn / VII / 100%
-| Magia effect 3 = Chance to Curse
+| Magia 2 / 1 = 
+| Magia 2 / 2 = 
+| Magia effect 3 = Curse
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = One / 1 Turn / V / 100%
-| Magia 3 / 2 = One / 1 Turn / VII / 100%
-| Magia effect 4 = Chance to Darkness
+| Magia 3 / 1 = 
+| Magia 3 / 2 = 
+| Magia effect 4 = Darkness
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = One / 1 Turn / V / 100%
-| Magia 4 / 2 = One / 1 Turn / VII / 100%
+| Magia 4 / 1 = Target / 1 Turn / 
+| Magia 4 / 2 = Target / 1 Turn / 
 | Magia effect 5 = Attack Up
 | Magia scaling 5 = 2.5%
-| Magia 5 / 1 = All / 3 Turns / V / 20%
-| Magia 5 / 2 = All / 3 Turns / VII / 20%
+| Magia 5 / 1 = Allies / 3 Turns / V / 20%
+| Magia 5 / 2 = Allies / 3 Turns / VII / 20%
 | Magia effect 6 = Remove Buffs
 | Magia scaling 6 = 0%
 | Magia 6 / 1 = -
-| Magia 6 / 2 = One / %
+| Magia 6 / 2 = Target / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -190,5 +193,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、死番虫
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Chance to Charm [IX / 100% / One / 1 Turn] & Chance to Curse [IX / 100% / One / 1 Turn] & Chance to Darkness [IX / 100% / One / 1 Turn] & Remove Buffs [% / One] & Attack Up [IX / 30% / All / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Charm [] & Curse [] & Darkness [Target / 1 Turn] & Remove Buffs [Target] & Attack Up [IX / 30% / Allies / 3 Turns]
 }}

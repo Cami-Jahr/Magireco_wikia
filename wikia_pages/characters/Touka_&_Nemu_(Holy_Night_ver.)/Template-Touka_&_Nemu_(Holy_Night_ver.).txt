@@ -106,19 +106,19 @@
 | Passive 7 effect = Charge Disc Damage Up [II / 10%]
 
 | Passive 8 icon = Negate Status Ailments
-| Passive 8 name = ResistShieldAura
+| Passive 8 name = Resist Shield Aura
 | Passive 8 name JP = レジストシールドオーラ
-| Passive 8 effect = Negate Status Ailments [100%] (Self / 5 Turns)
+| Passive 8 effect = Negate Status Ailments [2 Status Ailments] (Self / 5 Turns)
 
 | Passive 9 icon = Chance to Skill Quicken
-| Passive 9 name = Skill Quicken [II]
+| Passive 9 name = Skill Quick [II]
 | Passive 9 name JP = スキルクイック[Ⅱ]
 | Passive 9 effect = Chance to Skill Quicken [II / 10%]
 
 | Passive 10 icon = MP Up When Attacked By Weak Element
 | Passive 10 name = Revenge Adept [XIV]
 | Passive 10 name JP = リベンジ・アデプト[XIV]
-| Passive 10 effect = MP Up When Attacked By Weak Element [XIV / 15%]
+| Passive 10 effect = MP Up When Attacked By Weak Element [XIV / 15 MP]
 
 | Passive 11 icon = Magia Damage Up
 | Passive 11 name = Magia Adept [II]
@@ -126,9 +126,9 @@
 | Passive 11 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 12 icon = Damage Cut
-| Passive 12 name = ライトShieldAura [III]
+| Passive 12 name = Light Shield Aura [III]
 | Passive 12 name JP = ライトシールドオーラ[Ⅲ]
-| Passive 12 effect = Damage Cut [III / 15%] (Self / 5 Turns) & Light Attribute Damage Cut [III / 15%] (Self / 5 Turns)
+| Passive 12 effect = Damage Cut [III / 15%] & Light Attribute Damage Cut [III / 15%] (Self / 5 Turns)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Remove Buffs
-| Active 1 name = ディフィーザンス
+| Active 1 name = Defuse Sense
 | Active 1 name JP = ディフィーザンス
-| Active 1 effect = Remove Buffs [%] (One)
+| Active 1 effect = Remove Buffs (Target)
 | Active 1 cooldown = 5
 
 | Connect name JP = 一緒に絆を結びなおそー！
@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Dark Attribute Attack Up
-| Connect 2 / 1 = VII / 20%
-| Connect 2 / 2 = IX / 25%
-| Connect effect 3 = Chance to Dazzle on Attack
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect 2 / 1 = Self / 1 Turn / VII / 20%
+| Connect 2 / 2 = Self / 1 Turn / IX / 25%
+| Connect effect 3 = Dazzle on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = クリスマスゴースト・カミング
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Damage Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 20%
-| Magia 2 / 2 = All / 3 Turns / VII / 22.5%
+| Magia 2 / 1 = V / 20%
+| Magia 2 / 2 = VII / 22.5%
 | Magia effect 3 = Attack Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 15%
-| Magia 3 / 2 = All / 3 Turns / VII / 17.5%
+| Magia 3 / 1 = All Enemies / 3 Turns / V / 15%
+| Magia 3 / 2 = All Enemies / 3 Turns / VII / 17.5%
 | Magia effect 4 = Dark Attribute Attack Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Self / 5 Turns / V / 15%
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Damage Down [IX / 35% / All / 3 Turns] & Attack Down [IX / 30% / All / 3 Turns] & Defense Down [IX / 35% / All / 3 Turns] & Dark Attribute Attack Up [IX / 35% / All / 5 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Damage Down [IX / 35%] & Attack Down [IX / 30%] & Defense Down [IX / 35% / All Enemies / 3 Turns] & Dark Attribute Attack Up [IX / 35% / Allies / 5 Turns]
 }}

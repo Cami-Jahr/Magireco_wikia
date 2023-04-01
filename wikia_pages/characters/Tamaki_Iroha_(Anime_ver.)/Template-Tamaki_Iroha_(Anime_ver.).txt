@@ -113,22 +113,22 @@
 | Passive 9 icon = Chance to Anti-Skill Seal
 | Passive 9 name = Anti-Jammer
 | Passive 9 name JP = アンチ・ジャマ―
-| Passive 9 effect = Chance to Anti-Skill Seal [100%]
+| Passive 9 effect = Anti-Skill Seal
 
 | Passive 10 icon = Negate Status Ailments
-| Passive 10 name = ResistShield
+| Passive 10 name = Resist Shield
 | Passive 10 name JP = レジストシールド
-| Passive 10 effect = Negate Status Ailments [100%]
+| Passive 10 effect = Negate Status Ailments [2 Status Ailments]
 
 | Passive 11 icon = Regenerate HP
-| Passive 11 name = ナーシングケア [III]
+| Passive 11 name = Nursing Care [III]
 | Passive 11 name JP = ナーシングケア[Ⅲ]
 | Passive 11 effect = Regenerate HP [III / 4%] & Regenerate MP [II / 4.5 MP]
 
 | Passive 12 icon = Regenerate HP
-| Passive 12 name = ニートネス Aura [V]
+| Passive 12 name = Neatness Aura [V]
 | Passive 12 name JP = ニートネス・オーラ[Ⅴ]
-| Passive 12 effect = Regenerate HP [V / 6%] (All / 5 Turns) & Status Ailment Resistance Up [II / 15%] (All / 5 Turns)
+| Passive 12 effect = Regenerate HP [V / 6%] & Status Ailment Resistance Up [II / 15%] (Allies / 5 Turns)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -138,7 +138,7 @@
 | Active 1 icon = Remove Status Ailments
 | Active 1 name = Fresh Heal Circle [V]
 | Active 1 name JP = フレッシュヒール・サークル[Ⅴ]
-| Active 1 effect = Remove Status Ailments [%] (All) & HP Restore [V / 20%] (All)
+| Active 1 effect = Remove Status Ailments & HP Restore [V / 20%] (Allies)
 | Active 1 cooldown = 12
 
 | Connect name JP = 私が手を繋ぐから
@@ -146,11 +146,11 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Increase
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = Remove Status Ailments
-| Connect 2 / 1 = %
-| Connect 2 / 2 = %
+| Connect 2 / 1 = Self / 
+| Connect 2 / 2 = Self / 
 | Connect effect 3 = HP Restore
 | Connect 3 / 1 = VIII / 47.5%
 | Connect 3 / 2 = X / 52.5%
@@ -169,20 +169,20 @@
 | Magia 2 / 2 = 40%
 | Magia effect 3 = Regenerate HP
 | Magia scaling 3 = 1%
-| Magia 3 / 1 = All / 3 Turns / V / 6%
-| Magia 3 / 2 = All / 3 Turns / VII / 8%
+| Magia 3 / 1 = V / 6%
+| Magia 3 / 2 = VII / 8%
 | Magia effect 4 = Negate Status Ailments
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / 3 Turns / V / 100%
-| Magia 4 / 2 = All / 3 Turns / VII / 100%
+| Magia 4 / 1 = Allies / 3 Turns / 1 Status Ailment
+| Magia 4 / 2 = Allies / 3 Turns / 1 Status Ailment
 | Magia effect 5 = Remove Status Ailments
 | Magia scaling 5 = 0%
-| Magia 5 / 1 = All / %
-| Magia 5 / 2 = All / %
+| Magia 5 / 1 = 
+| Magia 5 / 2 = 
 | Magia effect 6 = HP Restore
 | Magia scaling 6 = 2%
-| Magia 6 / 1 = All / V / 22.5%
-| Magia 6 / 2 = All / VII / 25%
+| Magia 6 / 1 = Allies / V / 22.5%
+| Magia 6 / 2 = Allies / VII / 25%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -190,5 +190,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、呼子鳥
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Revive one Ally [54%] & Regenerate HP [IX / 17% / All / 3 Turns] & Negate Status Ailments [IX / 100% / All / 3 Turns] & Remove Status Ailments [% / All] & HP Restore [IX / 48% / All]
+| Doppel effect = Damage All Enemies [IX / 902%] & Revive one Ally [54%] & Regenerate HP [IX / 17%] & Negate Status Ailments [3 Status Ailments / Allies / 3 Turns] & Remove Status Ailments [] & HP Restore [IX / 48% / Allies]
 }}

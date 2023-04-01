@@ -138,7 +138,7 @@
 | Active 1 icon = Blast Damage Up
 | Active 1 name = Eliminate Up [VI]
 | Active 1 name JP = エリミネイトアップ[Ⅵ]
-| Active 1 effect = Blast Damage Up [VI / 40%] (Self / 1 Turn) & Magia Damage Up [IV / 12.5%] (Self / 1 Turn)
+| Active 1 effect = Blast Damage Up [VI / 40%] & Magia Damage Up [IV / 12.5%] (Self / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = アタック、決めろよ！
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 70%
 | Connect 1 / 2 = IX / 80%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = VII / 35%
-| Connect 2 / 2 = IX / 40%
+| Connect 2 / 1 = Self / 1 Turn / VII / 35%
+| Connect 2 / 2 = Self / 1 Turn / IX / 40%
 
 | Magia name JP = 真夏のファイヤーアタック！
 | Magia name EN = 
@@ -162,8 +162,8 @@
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = Blast Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 35%
-| Magia 2 / 2 = All / 3 Turns / VII / 45%
+| Magia 2 / 1 = Allies / 3 Turns / V / 35%
+| Magia 2 / 2 = Allies / 3 Turns / VII / 45%
 | Magia effect 3 = Damage Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Self / 3 Turns / V / 30%
@@ -175,5 +175,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、武旦
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 869%] & Blast Damage Up [IX / 65% / All / 3 Turns] & Damage Up [IX / 65% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 869%] & Blast Damage Up [IX / 65% / Allies / 3 Turns] & Damage Up [IX / 65% / Self / 3 Turns]
 }}

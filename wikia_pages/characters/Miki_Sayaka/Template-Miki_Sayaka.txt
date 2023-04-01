@@ -106,7 +106,7 @@
 | Passive 7 effect = Damage Cut [II / 10%]
 
 | Passive 8 icon = Regenerate HP
-| Passive 8 name = Regeneration Adept [IV]
+| Passive 8 name = Regenerate Adept [IV]
 | Passive 8 name JP = リジェネレイト・アデプト[Ⅳ]
 | Passive 8 effect = Regenerate HP [IV / 5%]
 
@@ -146,11 +146,11 @@
 | Connect name NA = 
 | Connect icon = Regenerate HP
 | Connect effect 1 = Regenerate HP
-| Connect 1 / 1 = 3 Turns / VII / 8%
-| Connect 1 / 2 = 3 Turns / IX / 10%
+| Connect 1 / 1 = Self / 3 Turns / VII / 8%
+| Connect 1 / 2 = Self / 3 Turns / IX / 10%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = VII / 35%
-| Connect 2 / 2 = IX / 40%
+| Connect 2 / 1 = Self / 1 Turn / VII / 35%
+| Connect 2 / 2 = Self / 1 Turn / IX / 40%
 
 | Magia name JP = プレスティッシモ・アジタート
 | Magia name EN = 
@@ -164,14 +164,14 @@
 | Magia scaling 2 = 0%
 | Magia 2 / 1 = Self / 3 Turns / V / 30%
 | Magia 2 / 2 = Self / 3 Turns / VII / 35%
-| Magia effect 3 = Chance to Critical Hit
+| Magia effect 3 = Critical Hit
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = Self / 2 Turns / V / 100%
-| Magia 3 / 2 = Self / 2 Turns / VII / 100%
-| Magia effect 4 = Chance to Counter
+| Magia 3 / 1 = Self / 2 Turns / 
+| Magia 3 / 2 = 
+| Magia effect 4 = Counter
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = -
-| Magia 4 / 2 = Self / 2 Turns / VII / 100%
+| Magia 4 / 2 = Self / 2 Turns / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -179,5 +179,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、人魚
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Survive [IX / 40% / Self / 3 Turns] & Chance to Critical Hit [IX / 100% / Self / 2 Turns] & Chance to Counter [IX / 100% / Self / 2 Turns]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Survive [IX / 40% / Self / 3 Turns] & Critical Hit [] & Counter [Self / 2 Turns]
 }}

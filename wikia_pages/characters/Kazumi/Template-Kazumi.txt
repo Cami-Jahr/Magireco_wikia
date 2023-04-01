@@ -138,7 +138,7 @@
 | Active 1 icon = Blast Damage Up
 | Active 1 name = Blast Strike [VI]
 | Active 1 name JP = ブラスト・ストライク[Ⅵ]
-| Active 1 effect = Blast Damage Up [VI / 35%] (Self / 1 Turn) & Chance to Critical Hit [VII / 40%] (Self / 1 Turn)
+| Active 1 effect = Blast Damage Up [VI / 35%] & Chance to Critical Hit [VII / 40%] (Self / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = いまのわたしはこう動く！
@@ -148,9 +148,9 @@
 | Connect effect 1 = Blast Damage Up
 | Connect 1 / 1 = VII / 70%
 | Connect 1 / 2 = IX / 80%
-| Connect effect 2 = Chance to Defense Pierce
-| Connect 2 / 1 = VII / 100%
-| Connect 2 / 2 = IX / 100%
+| Connect effect 2 = Defense Pierce
+| Connect 2 / 1 = Self / 1 Turn / 
+| Connect 2 / 2 = Self / 1 Turn / 
 
 | Magia name JP = リーミティ・エステールニ
 | Magia name EN = 
@@ -167,7 +167,7 @@
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = All / 3 Turns / VII / 45%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 45%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -175,5 +175,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、黒いコック
 | Doppel Japanese Designer = 原案・監修：平松正樹/天杉貴志
-| Doppel effect = Damage All Enemies [IX / 924%] & Blast Damage Up [IX / 65% / All / 3 Turns] & MP Restore [IX / 41.5 MP]
+| Doppel effect = Damage All Enemies [IX / 924%] & Blast Damage Up [IX / 65% / Allies / 3 Turns] & MP Restore [IX / 41.5 MP]
 }}

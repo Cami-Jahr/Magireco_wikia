@@ -96,12 +96,12 @@
 | Passive 5 effect = MP Up When Damaged [X / 10%]
 
 | Passive 6 icon = Light Attribute Damage Cut
-| Passive 6 name = ライトShield Adept [III]
+| Passive 6 name = Light Shield Adept [III]
 | Passive 6 name JP = ライトシールド・アデプト[Ⅲ]
 | Passive 6 effect = Light Attribute Damage Cut [III / 15%]
 
 | Passive 7 icon = Regenerate HP
-| Passive 7 name = Regeneration Adept [II]
+| Passive 7 name = Regenerate Adept [II]
 | Passive 7 name JP = リジェネレイト・アデプト[Ⅱ]
 | Passive 7 effect = Regenerate HP [II / 3%]
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Chance to Provoke
-| Active 1 name = スウィート ガーディアン
+| Active 1 name = Sweet Guardian
 | Active 1 name JP = スウィート・ガーディアン
-| Active 1 effect = Chance to Provoke [I / 100%] (Self / 1 Turn) & Barrier [I / 15000 damage] (Self / 1 Turn) & HP Restore [I / 30%]
+| Active 1 effect = Provoke & Barrier [I / 15000 damage] (Self / 1 Turn) & HP Restore [I / 30%]
 | Active 1 cooldown = 7
 
 | Connect name JP = ふむむむふむむんふむむふ！
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = XIII / 135%
 | Connect 1 / 2 = XV / 150%
 | Connect effect 2 = Barrier
-| Connect 2 / 1 = XIII / 8000 damage
-| Connect 2 / 2 = XV / 10000 damage
+| Connect 2 / 1 = Self / 1 Turn / XIII / 8000 damage
+| Connect 2 / 2 = Self / 1 Turn / XV / 10000 damage
 
 | Magia name JP = 驚天超光麗斗喜劇
 | Magia name EN = 
@@ -162,16 +162,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Barrier
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 3 Turns / V / 8000 damage
-| Magia 2 / 2 = All / 3 Turns / VII / 8000 damage
+| Magia 2 / 1 = Allies / 3 Turns / V / 8000 damage
+| Magia 2 / 2 = Allies / 3 Turns / VII / 8000 damage
 | Magia effect 3 = HP Restore
 | Magia scaling 3 = 2%
-| Magia 3 / 1 = All / V / 17.5%
-| Magia 3 / 2 = All / VII / 20%
-| Magia effect 4 = Chance to Provoke
+| Magia 3 / 1 = Allies / V / 17.5%
+| Magia 3 / 2 = Allies / VII / 20%
+| Magia effect 4 = Provoke
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = Self / 1 Turn / V / 100%
-| Magia 4 / 2 = Self / 1 Turn / VII / 100%
+| Magia 4 / 1 = 
+| Magia 4 / 2 = 
 | Magia effect 5 = MP Up When Damaged
 | Magia scaling 5 = 0%
 | Magia 5 / 1 = Self / 1 Turn / V / 8%
@@ -183,5 +183,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、クッキー
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Barrier [IX / 12000 damage / All / 5 Turns] & MP Up When Damaged [IX / 10% / All / 1 Turn] & HP Restore [IX / 38% / All] & Chance to Provoke [IX / 100% / Self / 2 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Barrier [IX / 12000 damage / Allies / 5 Turns] & MP Up When Damaged [IX / 10% / Allies / 1 Turn] & HP Restore [IX / 38% / Allies] & Provoke [Self / 2 Turns]
 }}

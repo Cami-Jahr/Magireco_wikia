@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Defense Down
-| Active 1 name = Cower Guard [VII]
+| Active 1 name = Quell Guard [VII]
 | Active 1 name JP = クウェル・ガード[Ⅶ]
-| Active 1 effect = Defense Down [VII / 35%] (All / 1 Turn)
+| Active 1 effect = Defense Down [VII / 35%] (All Enemies / 1 Turn)
 | Active 1 cooldown = 7
 
 | Connect name JP = ご命令とあらばなんなりと…
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Increase
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = Remove Status Ailments
-| Connect 2 / 1 = %
-| Connect 2 / 2 = %
-| Connect effect 3 = Chance to Chase
-| Connect 3 / 1 = Self / 1 Turn / VII / 80%
-| Connect 3 / 2 = Self / 1 Turn / IX / 80%
+| Connect 2 / 1 = Self / 
+| Connect 2 / 2 = Self / 
+| Connect effect 3 = Chase
+| Connect 3 / 1 = Self / 1 Turn / 
+| Connect 3 / 2 = Self / 1 Turn / 
 
 | Magia name JP = 激昂星弾輪舞
 | Magia name EN = 
@@ -163,18 +163,18 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
-| Magia effect 2 = Chance to Stun
+| Magia effect 2 = Stun
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = One / 1 Turn / V / 100%
-| Magia 2 / 2 = One / 1 Turn / VII / 100%
+| Magia 2 / 1 = Target / 1 Turn / 
+| Magia 2 / 2 = Target / 1 Turn / 
 | Magia effect 3 = Attack Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Self / 3 Turns / V / 15%
 | Magia 3 / 2 = Self / 3 Turns / VII / 25%
 | Magia effect 4 = Remove Debuffs
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = %
-| Magia 4 / 2 = %
+| Magia 4 / 1 = Self / 
+| Magia 4 / 2 = Self / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、塔
 | Doppel Japanese Designer = 原案・監修：富士フジノ
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Chance to Stun [IX / 100% / One / 1 Turn] & Attack Up [IX / 45% / Self / 3 Turns] & Remove Debuffs [%]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Stun [Target / 1 Turn] & Attack Up [IX / 45% / Self / 3 Turns] & Remove Debuffs [Self]
 }}

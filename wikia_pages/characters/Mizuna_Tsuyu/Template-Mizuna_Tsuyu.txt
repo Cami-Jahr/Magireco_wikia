@@ -126,9 +126,9 @@
 | Passive 11 effect = Attack Up [II / 10%] & Defense Up [II / 15%]
 
 | Passive 12 icon = Aqua Attribute Attack Up
-| Passive 12 name = アクアBloom Aura [V]
+| Passive 12 name = Aqua Bloom Aura [V]
 | Passive 12 name JP = アクアブルーム・オーラ[Ⅴ]
-| Passive 12 effect = Aqua Attribute Attack Up [V / 15%] (All) & Defense Up [I / 30%] (All / ∞ Turns)
+| Passive 12 effect = Aqua Attribute Attack Up [V / 15%] (Allies) & Defense Up [I / 30%] (Allies / ∞ Turns)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Remove Buffs
-| Active 1 name = アクア ブレイク [III]
+| Active 1 name = Aqua Break [III]
 | Active 1 name JP = アクア・ブレイク[Ⅲ]
-| Active 1 effect = Remove Buffs [%] (One) & Aqua Defense Down [III / 18%] (One / 3 Turns)
+| Active 1 effect = Remove Buffs (Target) & Aqua Defense Down [III / 18%] (Target / 3 Turns)
 | Active 1 cooldown = 9
 
 | Connect name JP = 二振りの刃となりましょう
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 20%
 | Connect 2 / 2 = IX / 25%
 | Connect effect 3 = Defense Up
-| Connect 3 / 1 = VII / 90%
-| Connect 3 / 2 = IX / 105%
+| Connect 3 / 1 = Self / 1 Turn / VII / 90%
+| Connect 3 / 2 = Self / 1 Turn / IX / 105%
 
 | Magia name JP = 明鏡止水の幾太刀
 | Magia name EN = 
@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Remove Buffs
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = One / %
-| Magia 2 / 2 = One / %
+| Magia 2 / 1 = Target / 
+| Magia 2 / 2 = Target / 
 | Magia effect 3 = Damage Increase
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 20%
-| Magia 3 / 2 = All / 3 Turns / VII / 25%
+| Magia 3 / 1 = V / 20%
+| Magia 3 / 2 = VII / 25%
 | Magia effect 4 = Aqua Attribute Attack Up
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = All / 3 Turns / V / 5%
-| Magia 4 / 2 = All / 3 Turns / VII / 10%
+| Magia 4 / 1 = Allies / 3 Turns / V / 5%
+| Magia 4 / 2 = Allies / 3 Turns / VII / 10%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、藁武者
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Remove Buffs [% / One] & Damage Increase [IX / 40% / All / 5 Turns] & Aqua Attribute Attack Up [IX / 25% / All / 5 Turns] & HP Restore [IX / 18%]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Remove Buffs [Target] & Damage Increase [IX / 40%] & Aqua Attribute Attack Up [IX / 25% / Allies / 5 Turns] & HP Restore [IX / 18%]
 }}

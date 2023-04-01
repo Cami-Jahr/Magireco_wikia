@@ -93,7 +93,7 @@
 | Passive 5 icon = Blast MP Gain Up
 | Passive 5 name = Blast Salutation [II]
 | Passive 5 name JP = ブラストサルテーション[Ⅱ]
-| Passive 5 effect = Blast MP Gain Up [II / 2%]
+| Passive 5 effect = Blast MP Gain Up [II / 2 MP]
 
 | Passive 6 icon = Chance to Anti-Evade
 | Passive 6 name = Aiming Adept [III]
@@ -101,7 +101,7 @@
 | Passive 6 effect = Chance to Anti-Evade [III / 35%]
 
 | Passive 7 icon = Regenerate HP
-| Passive 7 name = Regeneration Adept [III]
+| Passive 7 name = Regenerate Adept [III]
 | Passive 7 name JP = リジェネレイト・アデプト[Ⅲ]
 | Passive 7 effect = Regenerate HP [III / 4%]
 
@@ -128,7 +128,7 @@
 | Passive 12 icon = Blast MP Gain Up
 | Passive 12 name = Blast Salutation [III]
 | Passive 12 name JP = ブラストサルテーション[Ⅲ]
-| Passive 12 effect = Blast MP Gain Up [III / 3%]
+| Passive 12 effect = Blast MP Gain Up [III / 3 MP]
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -138,7 +138,7 @@
 | Active 1 icon = Magia Damage Up
 | Active 1 name = Magia Up Circle [II]
 | Active 1 name JP = マギアアップ・サークル[Ⅱ]
-| Active 1 effect = Magia Damage Up [II / 7.5%] (All / 1 Turn)
+| Active 1 effect = Magia Damage Up [II / 7.5%] (Allies / 1 Turn)
 | Active 1 cooldown = 12
 
 | Connect name JP = あなたに光あれ
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 90%
 | Connect 2 / 2 = IX / 105%
 | Connect effect 3 = Chance to Critical Hit
-| Connect 3 / 1 = VII / 60%
-| Connect 3 / 2 = IX / 70%
+| Connect 3 / 1 = Self / 1 Turn / VII / 60%
+| Connect 3 / 2 = Self / 1 Turn / IX / 70%
 
 | Magia name JP = 完璧なるイレギュラー
 | Magia name EN = 
@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = Blast MP Gain Up
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = Self / 2 Turns / V / 2%
-| Magia 2 / 2 = Self / 2 Turns / VII / 3%
+| Magia 2 / 1 = Self / 2 Turns / V / 2 MP
+| Magia 2 / 2 = Self / 2 Turns / VII / 3 MP
 | Magia effect 3 = MP Restore
 | Magia scaling 3 = 1%
 | Magia 3 / 1 = V / 18 MP
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 869%] & Blast MP Gain Up [IX / 5% / Self / 2 Turns] & MP Restore [IX / 36.5 MP]
+| Doppel effect = Damage All Enemies [IX / 869%] & Blast MP Gain Up [IX / 5 MP / Self / 2 Turns] & MP Restore [IX / 36.5 MP]
 }}

@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Chance to Curse
-| Active 1 name = Curseエンチャント [III]
+| Active 1 name = Curse Enchant [III]
 | Active 1 name JP = カースエンチャント[Ⅲ]
-| Active 1 effect = Chance to Curse [III / 100%] (One / 1 Turn) & Status Ailment Resistance Up [III / 30%] (All / 1 Turn)
+| Active 1 effect = Curse (Target / 1 Turn) & Status Ailment Resistance Up [III / 30%] (Allies / 1 Turn)
 | Active 1 cooldown = 7
 
 | Connect name JP = ひよっこでもいいですか!?
@@ -149,11 +149,14 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Ignore Damage Cut
-| Connect 2 / 1 = VII / 100%
-| Connect 2 / 2 = IX / 100%
-| Connect effect 3 = Chance to Curse on Attack
-| Connect 3 / 1 = VII / 65%
-| Connect 3 / 2 = IX / 100%
+| Connect 2 / 1 = Self / 1 Turn / VII / 100%
+| Connect 2 / 2 = Self / 1 Turn / IX / 100%
+| Connect effect 3 = Curse on Attack
+| Connect 3 / 1 = -
+| Connect 3 / 2 = 
+| Connect effect 4 = Chance to Curse on Attack
+| Connect 4 / 1 = VII / 65%
+| Connect 4 / 2 = -
 
 | Magia name JP = ルーチェ・スペランツァー
 | Magia name EN = 
@@ -165,12 +168,12 @@
 | Magia 1 / 2 = VIII / 370%
 | Magia effect 2 = MP Damage
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / VI / 30 MP
-| Magia 2 / 2 = All / VIII / 35 MP
-| Magia effect 3 = Chance to Curse
+| Magia 2 / 1 = All Enemies / VI / 30 MP
+| Magia 2 / 2 = All Enemies / VIII / 35 MP
+| Magia effect 3 = Curse
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / 1 Turn / VI / 100%
-| Magia 3 / 2 = All / 1 Turn / VIII / 100%
+| Magia 3 / 1 = All Enemies / 1 Turn / 
+| Magia 3 / 2 = All Enemies / 1 Turn / 
 | Magia effect 4 = MP Restore
 | Magia scaling 4 = 1%
 | Magia 4 / 1 = -
@@ -182,5 +185,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、幸福な彫像
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [X / 902%] & MP Damage [X / 60 MP / All] & Chance to Curse [X / 100% / All / 1 Turn] & MP Restore [X / 34 MP]
+| Doppel effect = Damage All Enemies [X / 902%] & MP Damage [X / 60 MP / All Enemies] & Curse [All Enemies / 1 Turn] & MP Restore [X / 34 MP]
 }}

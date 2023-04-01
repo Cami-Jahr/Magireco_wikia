@@ -91,12 +91,12 @@
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 5 icon = Chance to Skill Quicken
-| Passive 5 name = Skill Quicken [III]
+| Passive 5 name = Skill Quick [III]
 | Passive 5 name JP = スキルクイック[Ⅲ]
 | Passive 5 effect = Chance to Skill Quicken [III / 15%]
 
 | Passive 6 icon = Damage Increase
-| Passive 6 name = ウェポン Adept [II]
+| Passive 6 name = Weapon Adept [II]
 | Passive 6 name JP = ウェポン・アデプト[Ⅱ]
 | Passive 6 effect = Damage Increase [II / 10%]
 
@@ -106,7 +106,7 @@
 | Passive 7 effect = MP Gain Up When Over 100 MP [II / 20%]
 
 | Passive 8 icon = Barrier
-| Passive 8 name = バリアAura
+| Passive 8 name = Barrier Aura
 | Passive 8 name JP = バリアオーラ
 | Passive 8 effect = Barrier [5000 damage]
 
@@ -121,12 +121,12 @@
 | Passive 10 effect = Regenerate MP [V / 9 MP]
 
 | Passive 11 icon = Chance to Anti-Curse
-| Passive 11 name = Anti-Curse
+| Passive 11 name = Anti Curse
 | Passive 11 name JP = アンチ・カース
-| Passive 11 effect = Chance to Anti-Curse [100%]
+| Passive 11 effect = Anti-Curse
 
 | Passive 12 icon = Attack Up While At Max Health
-| Passive 12 name = Full Gaugeオーバードライブ [IV]
+| Passive 12 name = Full Gauge Overdrive [IV]
 | Passive 12 name JP = フルゲージオーバードライブ[Ⅳ]
 | Passive 12 effect = Attack Up While At Max Health [IV / 20%] & Attack Up [II / 10%]
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Attack Down
-| Active 1 name = サプレス Bloom [III]
+| Active 1 name = Suppress Bloom [III]
 | Active 1 name JP = サプレス・ブルーム[Ⅲ]
-| Active 1 effect = Attack Down [III / 20%] (All / 3 Turns) & Defense Down [III / 10%] (All / 3 Turns)
+| Active 1 effect = Attack Down [III / 20%] & Defense Down [III / 10%] (All Enemies / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = 行こう！ココロをひとつに！
@@ -148,9 +148,9 @@
 | Connect effect 1 = Attack Up
 | Connect 1 / 1 = VII / 30%
 | Connect 1 / 2 = IX / 35%
-| Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = VII / 100%
-| Connect 2 / 2 = IX / 100%
+| Connect effect 2 = Critical Hit
+| Connect 2 / 1 = Self / 1 Turn / 
+| Connect 2 / 2 = Self / 1 Turn / 
 
 | Magia name JP = メテオ―ラ・フィナーレ
 | Magia name EN = 
@@ -162,16 +162,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 25%
-| Magia 2 / 2 = All / 3 Turns / VII / 30%
+| Magia 2 / 1 = V / 25%
+| Magia 2 / 2 = VII / 30%
 | Magia effect 3 = Defense Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 15%
-| Magia 3 / 2 = All / 3 Turns / VII / 20%
+| Magia 3 / 1 = All Enemies / 3 Turns / V / 15%
+| Magia 3 / 2 = All Enemies / 3 Turns / VII / 20%
 | Magia effect 4 = Attack Up
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = Self / 3 Turns / V / 20%
-| Magia 4 / 2 = Self / 3 Turns / VII / 30%
+| Magia 4 / 1 = V / 20%
+| Magia 4 / 2 = VII / 30%
 | Magia effect 5 = Damage Up
 | Magia scaling 5 = 2.5%
 | Magia 5 / 1 = Self / 3 Turns / V / 15%
@@ -183,5 +183,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、美食家
 | Doppel Japanese Designer = 原案：f4samurai、監修：平松/天杉
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Down [IX / 45% / All / 5 Turns] & Defense Down [IX / 40% / All / 5 Turns] & Attack Up [IX / 50% / Self / 5 Turns] & Damage Up [IX / 40% / Self / 5 Turns] & HP Restore [IX / 43%]
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Down [IX / 45%] & Defense Down [IX / 40% / All Enemies / 5 Turns] & Attack Up [IX / 50%] & Damage Up [IX / 40% / Self / 5 Turns] & HP Restore [IX / 43%]
 }}

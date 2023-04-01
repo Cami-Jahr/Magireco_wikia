@@ -111,7 +111,7 @@
 | Passive 8 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 9 icon = Regenerate HP
-| Passive 9 name = Mana SpringAura [XV]
+| Passive 9 name = Mana Spring Aura [XV]
 | Passive 9 name JP = マナスプリングオーラ[XV]
 | Passive 9 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn)
 
@@ -126,9 +126,9 @@
 | Passive 11 effect = Chance to Burn on Attack [III / 20%] (2 Turns)
 
 | Passive 12 icon = Chance to Anti-Magia Seal
-| Passive 12 name = Anti-Magia Seal
+| Passive 12 name = Anti-Seal Magia
 | Passive 12 name JP = アンチ・シールマギア
-| Passive 12 effect = Chance to Anti-Magia Seal [100%]
+| Passive 12 effect = Anti-Magia Seal
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Magia Damage Up
-| Active 1 name = スペシャルライズ [V]
+| Active 1 name = Specialize [V]
 | Active 1 name JP = スペシャルライズ[Ⅴ]
-| Active 1 effect = Magia Damage Up [V / 15%] (Self / 3 Turns) & Regenerate MP [V / 9 MP] (Self / 3 Turns)
+| Active 1 effect = Magia Damage Up [V / 15%] & Regenerate MP [V / 9 MP] (Self / 3 Turns)
 | Active 1 cooldown = 9
 
 | Connect name JP = さあ、一緒に救われましょう
@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Damage Up Versus Enemies Affected With Status Ailments
-| Connect 2 / 1 = VIII / 42.5%
-| Connect 2 / 2 = X / 47.5%
-| Connect effect 3 = Chance to Fog on Attack
-| Connect 3 / 1 = VIII / 100%
-| Connect 3 / 2 = X / 100%
+| Connect 2 / 1 = Self / 1 Turn / VIII / 42.5%
+| Connect 2 / 2 = Self / 1 Turn / X / 47.5%
+| Connect effect 3 = Fog on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = ティロフィナーレ・リベレーション
 | Magia name EN = 
@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = Forest Attribute Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / V / 15%
-| Magia 2 / 2 = Self / 3 Turns / VII / 20%
+| Magia 2 / 1 = V / 15%
+| Magia 2 / 2 = VII / 20%
 | Magia effect 3 = Magia Damage Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Self / 3 Turns / V / 15%
@@ -177,8 +177,8 @@
 | Magia 4 / 2 = Self / 1 Turn / VII / 35 MP
 | Magia effect 5 = Remove Debuffs
 | Magia scaling 5 = 0%
-| Magia 5 / 1 = %
-| Magia 5 / 2 = %
+| Magia 5 / 1 = Self / 
+| Magia 5 / 2 = Self / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 869%] & Forest Attribute Attack Up [IX / 35% / Self / 5 Turns] & Magia Damage Up [IX / 35% / Self / 5 Turns] & Anti-Debuff [3 Debuffs / Self / 5 Turns] & Regenerate MP [IX / 64 MP / Self / 1 Turn] & Remove Debuffs [%]
+| Doppel effect = Damage All Enemies [IX / 869%] & Forest Attribute Attack Up [IX / 35%] & Magia Damage Up [IX / 35%] & Anti-Debuff [3 Debuffs / Self / 5 Turns] & Regenerate MP [IX / 64 MP / Self / 1 Turn] & Remove Debuffs [Self]
 }}

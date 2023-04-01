@@ -101,7 +101,7 @@
 | Passive 6 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 7 icon = Chance to Anti-Magia Seal
-| Passive 7 name = Anti-Magia Seal [VII]
+| Passive 7 name = Anti-Seal Magia [VII]
 | Passive 7 name JP = アンチ・シールマギア[Ⅶ]
 | Passive 7 effect = Chance to Anti-Magia Seal [VII / 55%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Status Ailment Resistance Down
 | Active 1 name = Resist Down [XXV]
 | Active 1 name JP = レジストダウン[XXV]
-| Active 1 effect = Status Ailment Resistance Down [XXV / 65%] (One / 1 Turn)
+| Active 1 effect = Status Ailment Resistance Down [XXV / 65%] (Target / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = 救いの施しをあなたに
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 35%
 | Connect 2 / 2 = IX / 40%
 | Connect effect 3 = Status Ailment Resistance Up
-| Connect 3 / 1 = VII / 50%
-| Connect 3 / 2 = IX / 60%
+| Connect 3 / 1 = Self / 1 Turn / VII / 50%
+| Connect 3 / 2 = Self / 1 Turn / IX / 60%
 
 | Magia name JP = アルマ・デロ・ショッコ
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VIII / 960%
 | Magia effect 2 = Status Ailment Resistance Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = One / 2 Turns / VI / 25%
-| Magia 2 / 2 = One / 2 Turns / VIII / 30%
-| Magia effect 3 = Chance to Evade
+| Magia 2 / 1 = Target / 2 Turns / VI / 25%
+| Magia 2 / 2 = Target / 2 Turns / VIII / 30%
+| Magia effect 3 = Evade
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = Self / 1 Turn / VI / 100%
-| Magia 3 / 2 = Self / 1 Turn / VIII / 100%
+| Magia 3 / 1 = Self / 1 Turn / 
+| Magia 3 / 2 = Self / 1 Turn / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、コンポート
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [X / 2340.8%] & Status Ailment Resistance Down [X / 45% / One / 2 Turns] & Chance to Evade [X / 100% / Self / 1 Turn]
+| Doppel effect = Damage One Enemy [X / 2340.8%] & Status Ailment Resistance Down [X / 45% / Target / 2 Turns] & Evade [Self / 1 Turn]
 }}

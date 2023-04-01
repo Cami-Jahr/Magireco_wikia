@@ -138,7 +138,7 @@
 | Active 1 icon = Chance to Provoke
 | Active 1 name = Shield Appeal [VIII]
 | Active 1 name JP = シールドアピール[Ⅷ]
-| Active 1 effect = Chance to Provoke [VIII / 100%] (Self / 1 Turn) & Damage Cut [VIII / 40%] (Self / 1 Turn)
+| Active 1 effect = Provoke & Damage Cut [VIII / 40%] (Self / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = ふむふむんむふむむむふんむ
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Damage Cut
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
 
 | Magia name JP = 奇天烈布悲劇
 | Magia name EN = 
@@ -162,24 +162,24 @@
 | Magia 1 / 2 = I / 110%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / I / 17.5%
-| Magia 2 / 2 = All / 3 Turns / I / 20%
+| Magia 2 / 1 = I / 17.5%
+| Magia 2 / 2 = I / 20%
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / I / 15%
-| Magia 3 / 2 = All / 3 Turns / I / 25%
+| Magia 3 / 1 = I / 15%
+| Magia 3 / 2 = I / 25%
 | Magia effect 4 = Charged Attack Damage Up
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = All / 3 Turns / I / 15%
-| Magia 4 / 2 = All / 3 Turns / I / 20%
+| Magia 4 / 1 = I / 15%
+| Magia 4 / 2 = I / 20%
 | Magia effect 5 = Accele MP Gain Up
 | Magia scaling 5 = 2.5%
-| Magia 5 / 1 = All / 3 Turns / I / 12.5%
-| Magia 5 / 2 = All / 3 Turns / I / 17.5%
-| Magia effect 6 = Chance to Provoke
+| Magia 5 / 1 = Allies / 3 Turns / I / 12.5%
+| Magia 5 / 2 = Allies / 3 Turns / I / 17.5%
+| Magia effect 6 = Provoke
 | Magia scaling 6 = 0%
-| Magia 6 / 1 = Self / 1 Turn / I / 100%
-| Magia 6 / 2 = Self / 1 Turn / I / 100%
+| Magia 6 / 1 = Self / 1 Turn / 
+| Magia 6 / 2 = Self / 1 Turn / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -187,5 +187,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、クッキー
 | Doppel Japanese Designer = 原案・監修：渡辺明夫
-| Doppel effect = Damage All Enemies [I / 308%] & Attack Up [I / 35% / All / 3 Turns] & Blast Damage Up [I / 45% / All / 3 Turns] & Charged Attack Damage Up [I / 35% / All / 3 Turns] & Accele MP Gain Up [I / 32.5% / All / 3 Turns] & Chance to Provoke [I / 100% / Self / 1 Turn]
+| Doppel effect = Damage All Enemies [I / 308%] & Attack Up [I / 35%] & Blast Damage Up [I / 45%] & Charged Attack Damage Up [I / 35%] & Accele MP Gain Up [I / 32.5% / Allies / 3 Turns] & Provoke [Self / 1 Turn]
 }}

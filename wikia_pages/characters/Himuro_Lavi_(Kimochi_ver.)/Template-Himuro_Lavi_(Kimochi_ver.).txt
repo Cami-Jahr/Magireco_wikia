@@ -108,12 +108,12 @@
 | Passive 8 icon = Blast MP Gain Up
 | Passive 8 name = Blast Salutation [IV]
 | Passive 8 name JP = ブラストサルテーション[Ⅳ]
-| Passive 8 effect = Blast MP Gain Up [IV / 4%]
+| Passive 8 effect = Blast MP Gain Up [IV / 4 MP]
 
 | Passive 9 icon = Blast MP Gain Up
 | Passive 9 name = Blast Salutation [V]
 | Passive 9 name JP = ブラストサルテーション[Ⅴ]
-| Passive 9 effect = Blast MP Gain Up [V / 5%]
+| Passive 9 effect = Blast MP Gain Up [V / 5 MP]
 
 | Passive 10 icon = Attack Up While At Max Health
 | Passive 10 name = Full Gauge Bloom [X]
@@ -121,12 +121,12 @@
 | Passive 10 effect = Attack Up While At Max Health [X / 50%] & Defense Up While At Max Health [V / 50%]
 
 | Passive 11 icon = Chance to Anti-Evade
-| Passive 11 name = ブルズアイShield Aura
+| Passive 11 name = Bullseye Shield Aura
 | Passive 11 name JP = ブルズアイシールド・オーラ
-| Passive 11 effect = Chance to Anti-Evade [100%] (Self / 3 Turns) & Barrier [5000 damage]
+| Passive 11 effect = Anti-Evade (Self / 3 Turns) & Barrier [5000 damage]
 
 | Passive 12 icon = Imitate Attribute
-| Passive 12 name = ヴァリアブルAura
+| Passive 12 name = Variable Aura
 | Passive 12 name JP = ヴァリアブルオーラ
 | Passive 12 effect = Imitate Attribute [100%] (Self / 3 Turns)
 
@@ -136,7 +136,7 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Blast Damage Up
-| Active 1 name = MRegeneration Blast [XI]
+| Active 1 name = M Regeneration Blast [XI]
 | Active 1 name JP = Mリジェネレイト・ブラスト[XI]
 | Active 1 effect = Blast Damage Up [XI / 65%] (Self / 1 Turn) & Regenerate MP [VI / 10.5 MP] (Self / 3 Turns)
 | Active 1 cooldown = 10
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VIII / 75%
 | Connect 1 / 2 = X / 85%
 | Connect effect 2 = Ignore Damage Cut
-| Connect 2 / 1 = VIII / 100%
-| Connect 2 / 2 = X / 100%
+| Connect 2 / 1 = Self / 1 Turn / VIII / 100%
+| Connect 2 / 2 = Self / 1 Turn / X / 100%
 
 | Magia name JP = タイム・ゼロ
 | Magia name EN = 
@@ -162,12 +162,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Blast Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / V / 40%
-| Magia 2 / 2 = Self / 3 Turns / VII / 50%
+| Magia 2 / 1 = V / 40%
+| Magia 2 / 2 = VII / 50%
 | Magia effect 3 = Damage Cut
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / V / 30%
-| Magia 3 / 2 = Self / 3 Turns / VII / 40%
+| Magia 3 / 1 = V / 30%
+| Magia 3 / 2 = VII / 40%
 | Magia effect 4 = Barrier
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = Self / 3 Turns / V / 10000 damage
@@ -187,5 +187,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、祭壇
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Blast Damage Up [IX / 70% / Self / 5 Turns] & Damage Cut [IX / 60% / Self / 5 Turns] & Barrier [IX / 15000 damage / Self / 5 Turns] & Regenerate MP [IX / 54 MP / Self / 1 Turn] & HP Restore [IX / 58%]
+| Doppel effect = Damage All Enemies [IX / 902%] & Blast Damage Up [IX / 70%] & Damage Cut [IX / 60%] & Barrier [IX / 15000 damage / Self / 5 Turns] & Regenerate MP [IX / 54 MP / Self / 1 Turn] & HP Restore [IX / 58%]
 }}

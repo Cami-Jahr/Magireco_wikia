@@ -111,7 +111,7 @@
 | Passive 8 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 9 icon = Attack Up While At Max Health
-| Passive 9 name = Full Gaugeオーバードライブ [IV]
+| Passive 9 name = Full Gauge Overdrive [IV]
 | Passive 9 name JP = フルゲージオーバードライブ[Ⅳ]
 | Passive 9 effect = Attack Up While At Max Health [IV / 20%] & Attack Up [II / 10%]
 
@@ -121,7 +121,7 @@
 | Passive 10 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 11 icon = Regenerate HP
-| Passive 11 name = Regeneration Adept [IV]
+| Passive 11 name = Regenerate Adept [IV]
 | Passive 11 name JP = リジェネレイト・アデプト[Ⅳ]
 | Passive 11 effect = Regenerate HP [IV / 5%]
 
@@ -136,7 +136,7 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Barrier
-| Active 1 name = リカバリーバリア
+| Active 1 name = Recovery Barrier
 | Active 1 name JP = リカバリーバリア
 | Active 1 effect = Barrier [IV / 10000 damage] (Self / 5 Turns) & Regenerate MP [III / 7.5 MP] (Self / 3 Turns) & HP Restore [III / 35%]
 | Active 1 cooldown = 10
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Damage Cut
-| Connect 2 / 1 = V / 50%
-| Connect 2 / 2 = VII / 60%
+| Connect 2 / 1 = Self / 1 Turn / V / 50%
+| Connect 2 / 2 = Self / 1 Turn / VII / 60%
 | Connect effect 3 = Chance to Magia Seal on Attack
 | Connect 3 / 1 = V / 30%
 | Connect 3 / 2 = VII / 40%
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage 5 Random Enemies [IX / 622.1999999999999%] & Damage Up [IX / 40% / All / 3 Turns] & Barrier [IX / 10000 damage / Self / 5 Turns]
+| Doppel effect = Damage 5 Random Enemies [IX / 622.1999999999999%] & Damage Up [IX / 40% / Allies / 3 Turns] & Barrier [IX / 10000 damage / Self / 5 Turns]
 }}

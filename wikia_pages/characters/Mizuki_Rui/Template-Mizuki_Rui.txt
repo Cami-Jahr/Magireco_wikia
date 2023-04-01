@@ -111,7 +111,7 @@
 | Passive 8 effect = Damage Cut [II / 10%]
 
 | Passive 9 icon = Regenerate HP
-| Passive 9 name = Regeneration Adept [III]
+| Passive 9 name = Regenerate Adept [III]
 | Passive 9 name JP = リジェネレイト・アデプト[Ⅲ]
 | Passive 9 effect = Regenerate HP [III / 4%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Attack Up
 | Active 1 name = Aura Up [VI]
 | Active 1 name JP = オーラアップ[Ⅵ]
-| Active 1 effect = Attack Up [VI / 30%] (Self / 1 Turn) & Damage Cut [VIII / 40%] (Self / 1 Turn)
+| Active 1 effect = Attack Up [VI / 30%] & Damage Cut [VIII / 40%] (Self / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = 行くぜ！相棒!!
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = V / 50%
 | Connect 2 / 2 = VII / 60%
 | Connect effect 3 = Defense Up
-| Connect 3 / 1 = IV / 67.5%
-| Connect 3 / 2 = VI / 82.5%
+| Connect 3 / 1 = Self / 1 Turn / IV / 67.5%
+| Connect 3 / 2 = Self / 1 Turn / VI / 82.5%
 
 | Magia name JP = 終末宣告紋章
 | Magia name EN = 
@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = Chance to Stun
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 1 Turn / V / 40%
-| Magia 2 / 2 = All / 1 Turn / VII / 45%
+| Magia 2 / 1 = All Enemies / 1 Turn / V / 40%
+| Magia 2 / 2 = All Enemies / 1 Turn / VII / 45%
 | Magia effect 3 = Attack Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Self / 3 Turns / V / 25%
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、第三の目
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 869%] & Chance to Stun [IX / 100% / All / 1 Turn] & Attack Up [IX / 45% / Self / 5 Turns]
+| Doppel effect = Damage All Enemies [IX / 869%] & Stun [All Enemies / 1 Turn] & Attack Up [IX / 45% / Self / 5 Turns]
 }}

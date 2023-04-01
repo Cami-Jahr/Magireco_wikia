@@ -96,9 +96,9 @@
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
 | Passive 6 icon = Chance to Anti-Magia Seal
-| Passive 6 name = Anti-Magia Seal
+| Passive 6 name = Anti-Seal Magia
 | Passive 6 name JP = アンチ・シールマギア
-| Passive 6 effect = Chance to Anti-Magia Seal [100%]
+| Passive 6 effect = Anti-Magia Seal
 
 | Passive 7 icon = Damage Up Versus Enemies Affected With Status Ailments
 | Passive 7 name = Addict Killer [III]
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Magia Damage Up
-| Active 1 name = Magia ゲイズ [II]
+| Active 1 name = Magia Gaze [II]
 | Active 1 name JP = マギア・ゲイズ[Ⅱ]
-| Active 1 effect = Magia Damage Up [II / 7.5%] (All / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [II / 20%] (All / 1 Turn)
+| Active 1 effect = Magia Damage Up [II / 7.5%] & Damage Up Versus Enemies Affected With Status Ailments [II / 20%] (Allies / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = 依頼はきっちりこなすよ！
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Regenerate HP
 | Connect effect 1 = Regenerate HP
-| Connect 1 / 1 = 3 Turns / V / 6%
-| Connect 1 / 2 = 3 Turns / VII / 8%
+| Connect 1 / 1 = Self / 3 Turns / V / 6%
+| Connect 1 / 2 = Self / 3 Turns / VII / 8%
 | Connect effect 2 = Attack Up
 | Connect 2 / 1 = VII / 35%
 | Connect 2 / 2 = IX / 40%
 | Connect effect 3 = Accele MP Gain Up
-| Connect 3 / 1 = VII / 40%
-| Connect 3 / 2 = IX / 50%
+| Connect 3 / 1 = Self / 1 Turn / VII / 40%
+| Connect 3 / 2 = Self / 1 Turn / IX / 50%
 
 | Magia name JP = トリプル・デトネーション
 | Magia name EN = 
@@ -163,18 +163,18 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 350%
 | Magia 1 / 2 = VIII / 370%
-| Magia effect 2 = Chance to Curse
+| Magia effect 2 = Curse
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 3 Turns / VI / 100%
-| Magia 2 / 2 = All / 3 Turns / VIII / 100%
-| Magia effect 3 = Chance to Burn
+| Magia 2 / 1 = 
+| Magia 2 / 2 = 
+| Magia effect 3 = Burn
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / 3 Turns / VI / 100%
-| Magia 3 / 2 = All / 3 Turns / VIII / 100%
-| Magia effect 4 = Chance to Poison
+| Magia 3 / 1 = 
+| Magia 3 / 2 = 
+| Magia effect 4 = Poison
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / 3 Turns / VI / 100%
-| Magia 4 / 2 = All / 3 Turns / VIII / 100%
+| Magia 4 / 1 = All Enemies / 3 Turns / 
+| Magia 4 / 2 = All Enemies / 3 Turns / 
 | Magia effect 5 = Forest Attribute Attack Up
 | Magia scaling 5 = 2.5%
 | Magia 5 / 1 = Self / 3 Turns / VI / 15%
@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、狐拳
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [X / 902%] & Chance to Curse [X / 100% / All / 3 Turns] & Chance to Burn [X / 100% / All / 3 Turns] & Chance to Poison [X / 100% / All / 3 Turns] & Forest Attribute Attack Up [X / 35% / Self / 5 Turns]
+| Doppel effect = Damage All Enemies [X / 902%] & Curse [] & Burn [] & Poison [All Enemies / 3 Turns] & Forest Attribute Attack Up [X / 35% / Self / 5 Turns]
 }}

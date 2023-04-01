@@ -111,7 +111,7 @@
 | Passive 8 effect = MP Gain Up [II / 7.5%]
 
 | Passive 9 icon = Forest Attribute Damage Cut
-| Passive 9 name = ティンバーShield Adept [III]
+| Passive 9 name = Timber Shield Adept [III]
 | Passive 9 name JP = ティンバーシールド・アデプト[Ⅲ]
 | Passive 9 effect = Forest Attribute Damage Cut [III / 15%]
 
@@ -126,9 +126,9 @@
 | Passive 11 effect = MP Up When Damaged [VI / 6%]
 
 | Passive 12 icon = Attack Up
-| Passive 12 name = BloomAura [V]
+| Passive 12 name = Bloom Aura [V]
 | Passive 12 name JP = ブルームオーラ[Ⅴ]
-| Passive 12 effect = Attack Up [V / 15%] (All / 5 Turns) & Defense Up [V / 15%] (All / 5 Turns)
+| Passive 12 effect = Attack Up [V / 15%] & Defense Up [V / 15%] (Allies / 5 Turns)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -138,7 +138,7 @@
 | Active 1 icon = Attack Up
 | Active 1 name = Bloom Up [V]
 | Active 1 name JP = ブルームアップ[Ⅴ]
-| Active 1 effect = Attack Up [V / 25%] (Self / 1 Turn) & Defense Up [VI / 45%] (Self / 1 Turn)
+| Active 1 effect = Attack Up [V / 25%] & Defense Up [VI / 45%] (Self / 1 Turn)
 | Active 1 cooldown = 5
 
 | Connect name JP = 共に日の本のために！
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
 
 | Magia name JP = 巫流・祈祷通天ノ光
 | Magia name EN = 
@@ -162,16 +162,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 25%
-| Magia 2 / 2 = All / 3 Turns / VII / 30%
+| Magia 2 / 1 = V / 25%
+| Magia 2 / 2 = VII / 30%
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 41.3%
-| Magia 3 / 2 = All / 3 Turns / VII / 48.8%
+| Magia 3 / 1 = Allies / 3 Turns / V / 41.3%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 48.8%
 | Magia effect 4 = Remove Buffs
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / %
-| Magia 4 / 2 = All / %
+| Magia 4 / 1 = All Enemies / 
+| Magia 4 / 2 = All Enemies / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -179,5 +179,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、千手
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 869%] & Attack Up [IX / 45% / All / 3 Turns] & Defense Up [IX / 66.3% / All / 3 Turns] & Remove Buffs [% / All]
+| Doppel effect = Damage All Enemies [IX / 869%] & Attack Up [IX / 45%] & Defense Up [IX / 66.3% / Allies / 3 Turns] & Remove Buffs [All Enemies]
 }}

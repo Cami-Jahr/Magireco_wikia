@@ -108,7 +108,7 @@
 | Passive 8 icon = Chance to Anti-Bind
 | Passive 8 name = Anti-Bind
 | Passive 8 name JP = アンチ・バインド
-| Passive 8 effect = Chance to Anti-Bind [100%]
+| Passive 8 effect = Anti-Bind
 
 | Passive 9 icon = Chance to Evade
 | Passive 9 name = Parry Adept [II]
@@ -138,7 +138,7 @@
 | Active 1 icon = Chance to Skill Quicken
 | Active 1 name = Mischief
 | Active 1 name JP = ミスチーフ
-| Active 1 effect = Chance to Skill Quicken [100%] (Self / 1 Turn) & Endure [100%] (Self / 1 Turn)
+| Active 1 effect = Skill Quicken & Endure (Self / 1 Turn)
 | Active 1 cooldown = 7
 
 | Connect name JP = おすそわけなのです
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 100%
 | Connect 2 / 2 = IX / 100%
 | Connect effect 3 = Defense Up
-| Connect 3 / 1 = VII / 90%
-| Connect 3 / 2 = IX / 105%
+| Connect 3 / 1 = Self / 1 Turn / VII / 90%
+| Connect 3 / 2 = Self / 1 Turn / IX / 105%
 
 | Magia name JP = なぎさのショコラパーティー
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = HP Restore
 | Magia scaling 2 = 2%
-| Magia 2 / 1 = All / V / 20%
-| Magia 2 / 2 = All / VII / 22.5%
+| Magia 2 / 1 = V / 20%
+| Magia 2 / 2 = VII / 22.5%
 | Magia effect 3 = Remove Debuffs
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / %
-| Magia 3 / 2 = All / %
+| Magia 3 / 1 = Allies / 
+| Magia 3 / 2 = Allies / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ショコラ
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & HP Restore [IX / 33% / All] & Remove Debuffs [% / All]
+| Doppel effect = Damage All Enemies [IX / 902%] & HP Restore [IX / 33%] & Remove Debuffs [Allies]
 }}

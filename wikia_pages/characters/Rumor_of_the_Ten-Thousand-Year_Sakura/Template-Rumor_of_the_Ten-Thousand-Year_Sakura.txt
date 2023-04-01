@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Attack Up
-| Active 1 name = PenetrateAttack [V]
+| Active 1 name = Penetrate Attack [V]
 | Active 1 name JP = ペネトレイトアタック[Ⅴ]
-| Active 1 effect = Attack Up [V / 25%] (Self / 1 Turn) & Chance to Defense Pierce [VII / 40%] (Self / 1 Turn)
+| Active 1 effect = Attack Up [V / 25%] & Chance to Defense Pierce [VII / 40%] (Self / 1 Turn)
 | Active 1 cooldown = 9
 
 | Connect name JP = ｜あの子たちのためなら｜
@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = VII / 60%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
 | Connect 2 / 2 = IX / 70%
 | Connect effect 3 = Chance to Evade
 | Connect 3 / 1 = -
-| Connect 3 / 2 = IX / 65%
+| Connect 3 / 2 = Self / 1 Turn / IX / 65%
 
 | Magia name JP = ｜刻み込む桜の物語｜
 | Magia name EN = 
@@ -163,18 +163,22 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 864%
 | Magia 1 / 2 = VII / 928%
-| Magia effect 2 = Chance to Skill Seal
+| Magia effect 2 = Skill Seal
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = One / 2 Turns / V / 100%
-| Magia 2 / 2 = One / 2 Turns / VII / 100%
+| Magia 2 / 1 = Target / 2 Turns / 
+| Magia 2 / 2 = Target / 2 Turns / 
 | Magia effect 3 = Accele MP Gain Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 15%
-| Magia 3 / 2 = All / 3 Turns / VII / 20%
-| Magia effect 4 = Chance to Anti-Evade
+| Magia 3 / 1 = Allies / 3 Turns / V / 15%
+| Magia 3 / 2 = VII / 20%
+| Magia effect 4 = Anti-Evade
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = Self / 3 Turns / V / 70%
-| Magia 4 / 2 = All / 3 Turns / VII / 100%
+| Magia 4 / 1 = -
+| Magia 4 / 2 = Allies / 3 Turns / 
+| Magia effect 5 = Chance to Anti-Evade
+| Magia scaling 5 = 0%
+| Magia 5 / 1 = Self / 3 Turns / V / 70%
+| Magia 5 / 2 = -
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ー
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Chance to Skill Seal [IX / 100% / One / 2 Turns] & Accele MP Gain Up [IX / 35% / All / 3 Turns] & Chance to Anti-Evade [IX / 100% / All / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Skill Seal [Target / 2 Turns] & Accele MP Gain Up [IX / 35%] & Anti-Evade [Allies / 3 Turns]
 }}

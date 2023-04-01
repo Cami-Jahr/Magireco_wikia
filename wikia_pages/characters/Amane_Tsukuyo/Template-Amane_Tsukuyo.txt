@@ -143,7 +143,7 @@
 | Active 1 icon = Chance to Skill Seal
 | Active 1 name = Mute [IX]
 | Active 1 name JP = ミュート[Ⅸ]
-| Active 1 effect = Chance to Skill Seal [IX / 50%] (One / 1 Turn) & Chance to Magia Seal [V / 40%] (One / 1 Turn)
+| Active 1 effect = Chance to Skill Seal [IX / 50%] & Chance to Magia Seal [V / 40%] (Target / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = 共に奏でるでございます
@@ -154,8 +154,8 @@
 | Connect 1 / 1 = IX / 30%
 | Connect 1 / 2 = XI / 35%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
 | Connect effect 3 = Attack Up
 | Connect 3 / 1 = VII / 25%
 | Connect 3 / 2 = IX / 30%
@@ -170,8 +170,8 @@
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = Charged Attack Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 25%
-| Magia 2 / 2 = All / 5 Turns / VII / 30%
+| Magia 2 / 1 = Allies / 3 Turns / V / 25%
+| Magia 2 / 2 = Allies / 5 Turns / VII / 30%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -179,5 +179,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、テラリウム
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 821%] & Charged Attack Damage Up [IX / 45% / All / 5 Turns]
+| Doppel effect = Damage All Enemies [IX / 821%] & Charged Attack Damage Up [IX / 45% / Allies / 5 Turns]
 }}

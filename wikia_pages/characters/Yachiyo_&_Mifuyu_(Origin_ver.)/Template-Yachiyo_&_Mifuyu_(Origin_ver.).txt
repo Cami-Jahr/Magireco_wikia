@@ -93,7 +93,7 @@
 | Passive 5 icon = Blast MP Gain Up
 | Passive 5 name = Blast Salutation [II]
 | Passive 5 name JP = ブラストサルテーション[Ⅱ]
-| Passive 5 effect = Blast MP Gain Up [II / 2%]
+| Passive 5 effect = Blast MP Gain Up [II / 2 MP]
 
 | Passive 6 icon = Chance to Evade
 | Passive 6 name = Parry Adept [II]
@@ -113,7 +113,7 @@
 | Passive 9 icon = Blast MP Gain Up
 | Passive 9 name = Blast Salutation [III]
 | Passive 9 name JP = ブラストサルテーション[Ⅲ]
-| Passive 9 effect = Blast MP Gain Up [III / 3%]
+| Passive 9 effect = Blast MP Gain Up [III / 3 MP]
 
 | Passive 10 icon = Damage Cut
 | Passive 10 name = Shield Adept [II]
@@ -128,7 +128,7 @@
 | Passive 12 icon = Chance to Anti-Charm
 | Passive 12 name = Anti-Charm
 | Passive 12 name JP = アンチ・チャーム
-| Passive 12 effect = Chance to Anti-Charm [100%]
+| Passive 12 effect = Anti-Charm
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -138,7 +138,7 @@
 | Active 1 icon = Chance to Critical Hit
 | Active 1 name = Blast Force [III]
 | Active 1 name JP = ブラスト・フォース[Ⅲ]
-| Active 1 effect = Chance to Critical Hit [III / 40%] (Self / 3 Turns) & Blast Damage Up [VII / 20%] (Self / 3 Turns)
+| Active 1 effect = Chance to Critical Hit [III / 40%] & Blast Damage Up [VII / 20%] (Self / 3 Turns)
 | Active 1 cooldown = 8
 
 | Connect name JP = 諦めたら何も残らないよ
@@ -148,12 +148,12 @@
 | Connect effect 1 = Attack Up
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
-| Connect effect 2 = Chance to Defense Pierce
-| Connect 2 / 1 = VII / 100%
-| Connect 2 / 2 = IX / 100%
-| Connect effect 3 = Chance to Dazzle on Attack
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect effect 2 = Defense Pierce
+| Connect 2 / 1 = Self / 1 Turn / 
+| Connect 2 / 2 = Self / 1 Turn / 
+| Connect effect 3 = Dazzle on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = アブソリュート・ハーモニー
 | Magia name EN = 
@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / V / 35%
-| Magia 2 / 2 = Self / 3 Turns / VII / 40%
+| Magia 2 / 1 = V / 35%
+| Magia 2 / 2 = VII / 40%
 | Magia effect 3 = Chance to Defense Pierce
 | Magia scaling 3 = 0%
 | Magia 3 / 1 = Self / 3 Turns / V / 55%
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 55% / Self / 3 Turns] & Chance to Defense Pierce [IX / 100% / Self / 3 Turns] & MP Restore [IX / 49 MP]
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 55%] & Defense Pierce [Self / 3 Turns] & MP Restore [IX / 49 MP]
 }}

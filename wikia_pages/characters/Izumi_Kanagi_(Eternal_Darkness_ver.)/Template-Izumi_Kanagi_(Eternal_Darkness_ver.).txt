@@ -108,12 +108,12 @@
 | Passive 8 icon = Blast MP Gain Up
 | Passive 8 name = Blast Salutation [V]
 | Passive 8 name JP = ブラストサルテーション[Ⅴ]
-| Passive 8 effect = Blast MP Gain Up [V / 5%]
+| Passive 8 effect = Blast MP Gain Up [V / 5 MP]
 
 | Passive 9 icon = Chance to Anti-Bind
 | Passive 9 name = Anti-Bind
 | Passive 9 name JP = アンチ・バインド
-| Passive 9 effect = Chance to Anti-Bind [100%]
+| Passive 9 effect = Anti-Bind
 
 | Passive 10 icon = Attack Up When At Critical Health
 | Passive 10 name = Crisis Bloom [V]
@@ -121,14 +121,14 @@
 | Passive 10 effect = Attack Up When At Critical Health [V / 30%] & Defense Up When At Critical Health [II / 30%]
 
 | Passive 11 icon = Chance to Anti-Evade
-| Passive 11 name = ブルズアイ Aura
+| Passive 11 name = Bullseye Aura
 | Passive 11 name JP = ブルズアイ・オーラ
-| Passive 11 effect = Chance to Anti-Evade [100%] (Self / 5 Turns)
+| Passive 11 effect = Anti-Evade (Self / 5 Turns)
 
 | Passive 12 icon = Attack Up When At Critical Health
 | Passive 12 name = Crisis Bloom Aura [VII]
 | Passive 12 name JP = クライシスブルーム・オーラ[Ⅶ]
-| Passive 12 effect = Attack Up When At Critical Health [VII / 40%] (Self / 5 Turns) & Defense Up When At Critical Health [III / 40%] (Self / 5 Turns)
+| Passive 12 effect = Attack Up When At Critical Health [VII / 40%] & Defense Up When At Critical Health [III / 40%] (Self / 5 Turns)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Attack Up When At Critical Health
-| Active 1 name = インテンショナル クライシス [XI]
+| Active 1 name = Intentional Crisis [XI]
 | Active 1 name JP = インテンショナル・クライシス[XI]
-| Active 1 effect = Attack Up When At Critical Health [XI / 60%] (Self / 5 Turns) & Defense Up When At Critical Health [IX / 100%] (Self / 5 Turns) & Barrier [IX / 10000 damage] (Self / 5 Turns) & {{Receive Damage [80.1%]
+| Active 1 effect = Attack Up When At Critical Health [XI / 60%] & Defense Up When At Critical Health [IX / 100%] & Barrier [IX / 10000 damage] (Self / 5 Turns) & {{Receive Damage [80.1%]
 | Active 1 cooldown = 7
 
 | Connect name JP = 自分と討たれる覚悟か
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VIII / 75%
 | Connect 1 / 2 = X / 85%
 | Connect effect 2 = Dark Attribute Attack Up
-| Connect 2 / 1 = VIII / 22.5%
-| Connect 2 / 2 = X / 27.5%
+| Connect 2 / 1 = Self / 1 Turn / VIII / 22.5%
+| Connect 2 / 2 = Self / 1 Turn / X / 27.5%
 
 | Magia name JP = 冥暗の断罪
 | Magia name EN = 
@@ -162,24 +162,24 @@
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Blast Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / V / 40%
-| Magia 2 / 2 = Self / 3 Turns / VII / 50%
+| Magia 2 / 1 = V / 40%
+| Magia 2 / 2 = VII / 50%
 | Magia effect 3 = Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / V / 30%
-| Magia 3 / 2 = Self / 3 Turns / VII / 40%
-| Magia effect 4 = Chance to Defense Pierce
+| Magia 3 / 1 = V / 30%
+| Magia 3 / 2 = VII / 40%
+| Magia effect 4 = Defense Pierce
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = Self / 3 Turns / V / 100%
-| Magia 4 / 2 = Self / 3 Turns / VII / 100%
+| Magia 4 / 1 = Self / 3 Turns / 
+| Magia 4 / 2 = Self / 3 Turns / 
 | Magia effect 5 = Defense Down
 | Magia scaling 5 = 0%
-| Magia 5 / 1 = Self / 1 Turn / V / 20%
-| Magia 5 / 2 = Self / 1 Turn / VII / 20%
-| Magia effect 6 = Chance to Provoke
+| Magia 5 / 1 = V / 20%
+| Magia 5 / 2 = VII / 20%
+| Magia effect 6 = Provoke
 | Magia scaling 6 = 0%
-| Magia 6 / 1 = Self / 1 Turn / V / 100%
-| Magia 6 / 2 = Self / 1 Turn / VII / 100%
+| Magia 6 / 1 = Self / 1 Turn / 
+| Magia 6 / 2 = Self / 1 Turn / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -187,5 +187,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、竈獅子
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Blast Damage Up [IX / 70% / Self / 5 Turns] & Dark Attribute Attack Up [IX / 60% / Self / 5 Turns] & Chance to Defense Pierce [IX / 100% / Self / 5 Turns] & Defense Down [IX / 30% / Self / 1 Turn] & Chance to Provoke [IX / 100% / Self / 1 Turn]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Blast Damage Up [IX / 70%] & Dark Attribute Attack Up [IX / 60%] & Defense Pierce [Self / 5 Turns] & Defense Down [IX / 30%] & Provoke [Self / 1 Turn]
 }}

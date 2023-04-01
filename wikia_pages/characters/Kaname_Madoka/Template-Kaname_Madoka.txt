@@ -96,7 +96,7 @@
 | Passive 5 effect = Status Ailment Resistance Up [II / 25%]
 
 | Passive 6 icon = Regenerate HP
-| Passive 6 name = Regeneration Adept [IV]
+| Passive 6 name = Regenerate Adept [IV]
 | Passive 6 name JP = リジェネレイト・アデプト[Ⅳ]
 | Passive 6 effect = Regenerate HP [IV / 5%]
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Anti-Debuff
-| Active 1 name = Ignore Debuffs Circle [II]
+| Active 1 name = Ignore Debuff Circle [II]
 | Active 1 name JP = イグノアデバフ・サークル[Ⅱ]
-| Active 1 effect = Anti-Debuff [2 Debuffs] (All / 1 Turn)
+| Active 1 effect = Anti-Debuff [2 Debuffs] (Allies / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = 私が受け止めてあげるから
@@ -162,12 +162,12 @@
 | Magia 1 / 2 = VI / 350%
 | Magia effect 2 = MP Restore
 | Magia scaling 2 = 1%
-| Magia 2 / 1 = All / IV / 22.5 MP
-| Magia 2 / 2 = All / VI / 27.5 MP
+| Magia 2 / 1 = Allies / IV / 22.5 MP
+| Magia 2 / 2 = Allies / VI / 27.5 MP
 | Magia effect 3 = Damage Cut
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = All / 3 Turns / VI / 35%
+| Magia 3 / 2 = Allies / 3 Turns / VI / 35%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -175,5 +175,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、救済
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [VIII / 902%] & Damage Cut [VIII / 50% / All / 3 Turns] & MP Restore [VIII / 36.5 MP / All]
+| Doppel effect = Damage All Enemies [VIII / 902%] & Damage Cut [VIII / 50% / Allies / 3 Turns] & MP Restore [VIII / 36.5 MP / Allies]
 }}

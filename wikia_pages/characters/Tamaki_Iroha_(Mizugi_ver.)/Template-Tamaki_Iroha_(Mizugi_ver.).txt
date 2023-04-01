@@ -106,7 +106,7 @@
 | Passive 7 effect = Accele MP Gain Up [II / 12.5%]
 
 | Passive 8 icon = Chance to Skill Quicken
-| Passive 8 name = Skill Quicken [III]
+| Passive 8 name = Skill Quick [III]
 | Passive 8 name JP = スキルクイック[Ⅲ]
 | Passive 8 effect = Chance to Skill Quicken [III / 15%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Defense Up
 | Active 1 name = Brace Circle [II]
 | Active 1 name JP = ブレス・サークル[Ⅱ]
-| Active 1 effect = Defense Up [II / 26.3%] (All / 3 Turns) & Regenerate HP [II / 3%] (All / 3 Turns)
+| Active 1 effect = Defense Up [II / 26.3%] & Regenerate HP [II / 3%] (Allies / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = 泳げないけどいいですか!?
@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VIII / 75%
 | Connect 1 / 2 = X / 85%
 | Connect effect 2 = Defense Up
-| Connect 2 / 1 = VIII / 97.5%
-| Connect 2 / 2 = X / 112.5%
-| Connect effect 3 = Chance to Fog on Attack
-| Connect 3 / 1 = VIII / 100%
-| Connect 3 / 2 = X / 100%
+| Connect 2 / 1 = Self / 1 Turn / VIII / 97.5%
+| Connect 2 / 2 = Self / 1 Turn / X / 112.5%
+| Connect effect 3 = Fog on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = これが今の私にできる泳ぎ方
 | Magia name EN = 
@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 586.5%
 | Magia effect 2 = Defense Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 15%
-| Magia 2 / 2 = All / 3 Turns / VII / 17.5%
+| Magia 2 / 1 = All Enemies / 3 Turns / V / 15%
+| Magia 2 / 2 = All Enemies / 3 Turns / VII / 17.5%
 | Magia effect 3 = Accele MP Gain Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 15%
-| Magia 3 / 2 = All / 3 Turns / VII / 20%
+| Magia 3 / 1 = Allies / 3 Turns / V / 15%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 20%
 | Magia effect 4 = HP Restore
 | Magia scaling 4 = 2%
 | Magia 4 / 1 = -
-| Magia 4 / 2 = All / VII / 18.7%
+| Magia 4 / 2 = Allies / VII / 18.7%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、呼子鳥
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage A Vertical Line [IX / 1331%] & Defense Down [IX / 35% / All / 3 Turns] & Accele MP Gain Up [IX / 35% / All / 3 Turns] & HP Restore [IX / 30.5% / All]
+| Doppel effect = Damage A Vertical Line [IX / 1331%] & Defense Down [IX / 35% / All Enemies / 3 Turns] & Accele MP Gain Up [IX / 35% / Allies / 3 Turns] & HP Restore [IX / 30.5% / Allies]
 }}

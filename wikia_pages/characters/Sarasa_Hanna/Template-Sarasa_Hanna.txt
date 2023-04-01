@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Chance to Fog
-| Active 1 name = サプレス Fog [IV]
+| Active 1 name = Suppress Fog [IV]
 | Active 1 name JP = サプレス・フォッグ[Ⅳ]
-| Active 1 effect = Chance to Fog [IV / 37.5%] (All / 3 Turns) & MP Gain Down [IV / 25%] (All / 3 Turns) & Accele MP Gain Down [IV / 12.5%] (All / 3 Turns)
+| Active 1 effect = Chance to Fog [IV / 37.5%] & MP Gain Down [IV / 25%] & Accele MP Gain Down [IV / 12.5%] (All Enemies / 3 Turns)
 | Active 1 cooldown = 8
 
 | Connect name JP = あたしの言った通りにね！
@@ -149,11 +149,14 @@
 | Connect 1 / 1 = VI / 30%
 | Connect 1 / 2 = VIII / 35%
 | Connect effect 2 = Damage Up Versus Enemies Affected With Status Ailments
-| Connect 2 / 1 = II / 27.5%
-| Connect 2 / 2 = IV / 32.5%
-| Connect effect 3 = Chance to Charm on Attack
-| Connect 3 / 1 = II / 65%
-| Connect 3 / 2 = IV / 100%
+| Connect 2 / 1 = Self / 1 Turn / II / 27.5%
+| Connect 2 / 2 = Self / 1 Turn / IV / 32.5%
+| Connect effect 3 = Charm on Attack
+| Connect 3 / 1 = -
+| Connect 3 / 2 = 
+| Connect effect 4 = Chance to Charm on Attack
+| Connect 4 / 1 = II / 65%
+| Connect 4 / 2 = -
 
 | Magia name JP = ナイトメア・キャッチャー
 | Magia name EN = 
@@ -163,22 +166,26 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
-| Magia effect 2 = Chance to Bind
-| Magia scaling 2 = 0%
-| Magia 2 / 1 = One / 1 Turn / V / 45%
-| Magia 2 / 2 = One / 1 Turn / VII / 100%
-| Magia effect 3 = Attack Down
+| Magia effect 2 = Attack Down
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = V / 10%
+| Magia 2 / 2 = VII / 15%
+| Magia effect 3 = Defense Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = One / 3 Turns / V / 10%
-| Magia 3 / 2 = One / 3 Turns / VII / 15%
-| Magia effect 4 = Defense Down
-| Magia scaling 4 = 2.5%
-| Magia 4 / 1 = One / 3 Turns / V / 25%
-| Magia 4 / 2 = One / 3 Turns / VII / 30%
-| Magia effect 5 = Chance to Evade
+| Magia 3 / 1 = Target / 3 Turns / V / 25%
+| Magia 3 / 2 = Target / 3 Turns / VII / 30%
+| Magia effect 4 = Bind
+| Magia scaling 4 = 0%
+| Magia 4 / 1 = -
+| Magia 4 / 2 = Target / 1 Turn / 
+| Magia effect 5 = Evade
 | Magia scaling 5 = 0%
 | Magia 5 / 1 = -
-| Magia 5 / 2 = Self / 1 Turn / VII / 100%
+| Magia 5 / 2 = Self / 1 Turn / 
+| Magia effect 6 = Chance to Bind
+| Magia scaling 6 = 0%
+| Magia 6 / 1 = Target / 1 Turn / V / 45%
+| Magia 6 / 2 = -
 
 | Doppel Name = 
 | Doppel Title = 
@@ -186,5 +193,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ペット
 | Doppel Japanese Designer = 原案・監修：ムラ黒江
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Chance to Bind [IX / 100% / One / 1 Turn] & Attack Down [IX / 35% / One / 3 Turns] & Defense Down [IX / 40% / One / 3 Turns] & Chance to Evade [IX / 100% / Self / 1 Turn]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Bind [Target / 1 Turn] & Attack Down [IX / 35%] & Defense Down [IX / 40% / Target / 3 Turns] & Evade [Self / 1 Turn]
 }}

@@ -101,7 +101,7 @@
 | Passive 6 effect = Damage Cut [II / 10%]
 
 | Passive 7 icon = Chance to Skill Quicken
-| Passive 7 name = Skill Quicken [II]
+| Passive 7 name = Skill Quick [II]
 | Passive 7 name JP = スキルクイック[Ⅱ]
 | Passive 7 effect = Chance to Skill Quicken [II / 10%]
 
@@ -113,17 +113,17 @@
 | Passive 9 icon = Chance to Anti-Charm
 | Passive 9 name = Anti-Charm
 | Passive 9 name JP = アンチ・チャーム
-| Passive 9 effect = Chance to Anti-Charm [100%]
+| Passive 9 effect = Anti-Charm
 
 | Passive 10 icon = Forest Attribute Attack Up
-| Passive 10 name = ティンバーAura [V]
+| Passive 10 name = Timber Aura [V]
 | Passive 10 name JP = ティンバーオーラ[Ⅴ]
-| Passive 10 effect = Forest Attribute Attack Up [V / 15%] (All / 5 Turns)
+| Passive 10 effect = Forest Attribute Attack Up [V / 15%] (Allies / 5 Turns)
 
 | Passive 11 icon = Chance to Anti-Magia Seal
-| Passive 11 name = Anti-Magia Seal
+| Passive 11 name = Anti-Seal Magia
 | Passive 11 name JP = アンチ・シールマギア
-| Passive 11 effect = Chance to Anti-Magia Seal [100%]
+| Passive 11 effect = Anti-Magia Seal
 
 | Passive 12 icon = Chance to Charm on Attack
 | Passive 12 name = Charm Edge [II]
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Forest Defense Down
-| Active 1 name = ティンバーイロージョン [III]
+| Active 1 name = Timber Erosion [III]
 | Active 1 name JP = ティンバーイロージョン[Ⅲ]
-| Active 1 effect = Forest Defense Down [III / 10%] (All / 5 Turns) & Status Ailment Resistance Down [III / 10%] (All / 5 Turns)
+| Active 1 effect = Forest Defense Down [III / 10%] & Status Ailment Resistance Down [III / 10%] (All Enemies / 5 Turns)
 | Active 1 cooldown = 9
 
 | Connect name JP = 一緒に想いを届けよう
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = MP Restore
 | Connect 2 / 1 = V / 22.5 MP
 | Connect 2 / 2 = VII / 27.5 MP
 | Connect effect 3 = Accele MP Gain Up
-| Connect 3 / 1 = V / 30%
-| Connect 3 / 2 = VII / 40%
+| Connect 3 / 1 = Self / 1 Turn / V / 30%
+| Connect 3 / 2 = Self / 1 Turn / VII / 40%
 
 | Magia name JP = ルーチェ・ディ・フェリチータ
 | Magia name EN = 
@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 30%
-| Magia 2 / 2 = All / 3 Turns / VII / 35%
+| Magia 2 / 1 = V / 30%
+| Magia 2 / 2 = VII / 35%
 | Magia effect 3 = Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 20%
-| Magia 3 / 2 = All / 3 Turns / VII / 25%
+| Magia 3 / 1 = Allies / 3 Turns / V / 20%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 25%
 | Magia effect 4 = Chance to Skill Seal
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / 3 Turns / V / 30%
-| Magia 4 / 2 = All / 3 Turns / VII / 40%
+| Magia 4 / 1 = All Enemies / 3 Turns / V / 30%
+| Magia 4 / 2 = All Enemies / 3 Turns / VII / 40%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 50% / All / 5 Turns] & Forest Attribute Attack Up [IX / 20% / All / 5 Turns] & Damage Up [IX / 40% / All / 5 Turns] & Chance to Skill Seal [IX / 50% / All / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 50%] & Forest Attribute Attack Up [IX / 20%] & Damage Up [IX / 40% / Allies / 5 Turns] & Chance to Skill Seal [IX / 50% / All Enemies / 3 Turns]
 }}

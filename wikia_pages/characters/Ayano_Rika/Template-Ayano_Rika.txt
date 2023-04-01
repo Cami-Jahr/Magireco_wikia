@@ -96,7 +96,7 @@
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
 | Passive 6 icon = Chance to Anti-Magia Seal
-| Passive 6 name = Anti-Magia Seal [VII]
+| Passive 6 name = Anti-Seal Magia [VII]
 | Passive 6 name JP = アンチ・シールマギア[Ⅶ]
 | Passive 6 effect = Chance to Anti-Magia Seal [VII / 55%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Chance to Charm
 | Active 1 name = Charm Eyes [IV]
 | Active 1 name JP = チャーム・アイズ[Ⅳ]
-| Active 1 effect = Chance to Charm [IV / 37.5%] (All / 1 Turn)
+| Active 1 effect = Chance to Charm [IV / 37.5%] (All Enemies / 1 Turn)
 | Active 1 cooldown = 7
 
 | Connect name JP = 一緒なら大丈夫だよ！
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VI / 35%
 | Connect 1 / 2 = VIII / 45%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = VI / 55%
-| Connect 2 / 2 = VIII / 65%
+| Connect 2 / 1 = Self / 1 Turn / VI / 55%
+| Connect 2 / 2 = Self / 1 Turn / VIII / 65%
 
 | Magia name JP = キラ盛りビーム
 | Magia name EN = 
@@ -163,7 +163,7 @@
 | Magia effect 2 = Chance to Charm
 | Magia scaling 2 = 0%
 | Magia 2 / 1 = -
-| Magia 2 / 2 = All / 1 Turn / V / 40%
+| Magia 2 / 2 = All Enemies / 1 Turn / V / 40%
 
 | Doppel Name = 
 | Doppel Title = 

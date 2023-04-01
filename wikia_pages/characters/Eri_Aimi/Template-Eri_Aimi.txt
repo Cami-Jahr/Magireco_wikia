@@ -113,7 +113,7 @@
 | Passive 9 icon = Chance to Chase
 | Passive 9 name = Chase Adept [VI]
 | Passive 9 name JP = チェイス・アデプト[Ⅵ]
-| Passive 9 effect = Chance to Chase [VI / 80%]
+| Passive 9 effect = Chance to Chase [VI / 20%]
 
 | Passive 10 icon = Chance to Evade
 | Passive 10 name = Parry Adept [II]
@@ -136,27 +136,27 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Chance to Anti-Evade
-| Active 1 name = InvisibleBlast [IV]
+| Active 1 name = Invisible Blast [IV]
 | Active 1 name JP = インビジブルブラスト[Ⅳ]
-| Active 1 effect = Chance to Anti-Evade [IV / 100%] (Self / 1 Turn) & Blast Damage Up [IV / 30%] (Self / 1 Turn)
+| Active 1 effect = Anti-Evade & Blast Damage Up [IV / 30%] (Self / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = 恋する力！みせてあげる！
 | Connect name EN = 
 | Connect name NA = 
 | Connect icon = Chance to Anti-Evade
-| Connect effect 1 = Chance to Anti-Evade
-| Connect 1 / 1 = VI / 100%
-| Connect 1 / 2 = VIII / 100%
-| Connect 1 / 3 = IX / 100%
+| Connect effect 1 = Anti-Evade
+| Connect 1 / 1 = 
+| Connect 1 / 2 = 
+| Connect 1 / 3 = 
 | Connect effect 2 = Blast Damage Up
-| Connect 2 / 1 = VI / 65%
-| Connect 2 / 2 = VIII / 75%
+| Connect 2 / 1 = Self / 1 Turn / VI / 65%
+| Connect 2 / 2 = Self / 1 Turn / VIII / 75%
 | Connect 2 / 3 = IX / 80%
 | Connect effect 3 = Chance to Chase
 | Connect 3 / 1 = -
 | Connect 3 / 2 = -
-| Connect 3 / 3 = Self / 1 Turn / IX / 80%
+| Connect 3 / 3 = Self / 1 Turn / IX / 50%
 
 | Magia name JP = 絶対ロックオン
 | Magia name EN = 
@@ -169,19 +169,19 @@
 | Magia 1 / 3 = VI / 350%
 | Magia effect 2 = Blast Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / II / 25%
-| Magia 2 / 2 = All / 3 Turns / IV / 35%
-| Magia 2 / 3 = All / 3 Turns / VI / 45%
-| Magia effect 3 = Chance to Anti-Evade
+| Magia 2 / 1 = Allies / 3 Turns / II / 25%
+| Magia 2 / 2 = IV / 35%
+| Magia 2 / 3 = VI / 45%
+| Magia effect 3 = Anti-Evade
 | Magia scaling 3 = 0%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = All / 3 Turns / IV / 100%
-| Magia 3 / 3 = All / 3 Turns / VI / 100%
-| Magia effect 4 = Chance to Chase
+| Magia 3 / 2 = Allies / 3 Turns / 
+| Magia 3 / 3 = Allies / 3 Turns / 
+| Magia effect 4 = Chase
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
-| Magia 4 / 3 = Self / 2 Turns / VI / 80%
+| Magia 4 / 3 = Self / 2 Turns / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -189,5 +189,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、鉛
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [VIII / 880%] & Blast Damage Up [VIII / 55% / All / 5 Turns] & Chance to Anti-Evade [VIII / 100% / All / 5 Turns] & Chance to Chase [VIII / 80% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [VIII / 880%] & Blast Damage Up [VIII / 55%] & Anti-Evade [Allies / 5 Turns] & Chase [Self / 3 Turns]
 }}

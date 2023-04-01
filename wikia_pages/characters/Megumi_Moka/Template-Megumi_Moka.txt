@@ -106,7 +106,7 @@
 | Passive 7 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 8 icon = Chance to Skill Quicken
-| Passive 8 name = Skill Quicken [III]
+| Passive 8 name = Skill Quick [III]
 | Passive 8 name JP = スキルクイック[Ⅲ]
 | Passive 8 effect = Chance to Skill Quicken [III / 15%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Charged Attack Damage Up
 | Active 1 name = Charge Circle [VII]
 | Active 1 name JP = チャージ・サークル[Ⅶ]
-| Active 1 effect = Charged Attack Damage Up [VII / 20%] (All / 1 Turn)
+| Active 1 effect = Charged Attack Damage Up [VII / 20%] (Allies / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = ドジ…したらごめんね…？
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 35%
 | Connect 2 / 2 = IX / 40%
 | Connect effect 3 = Accele MP Gain Up
-| Connect 3 / 1 = IV / 25%
-| Connect 3 / 2 = VI / 35%
+| Connect 3 / 1 = Self / 1 Turn / IV / 25%
+| Connect 3 / 2 = Self / 1 Turn / VI / 35%
 
 | Magia name JP = ラッキーダイナマイト
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = V / 551.5%
 | Magia effect 2 = Charged Attack Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / III / 20%
-| Magia 2 / 2 = All / 3 Turns / V / 25%
+| Magia 2 / 1 = Allies / 3 Turns / III / 20%
+| Magia 2 / 2 = Allies / 3 Turns / V / 25%
 | Magia effect 3 = Chance to Skill Quicken
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / 1 Turn / III / 50%
-| Magia 3 / 2 = All / 1 Turn / V / 50%
+| Magia 3 / 1 = Allies / 1 Turn / III / 50%
+| Magia 3 / 2 = Allies / 1 Turn / V / 50%
 
 | Doppel Name = 
 | Doppel Title = 

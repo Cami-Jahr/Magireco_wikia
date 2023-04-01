@@ -101,7 +101,7 @@
 | Passive 6 effect = Charge Disc Damage Up [II / 10%]
 
 | Passive 7 icon = Chance to Skill Quicken
-| Passive 7 name = Skill Quicken [II]
+| Passive 7 name = Skill Quick [II]
 | Passive 7 name JP = スキルクイック[Ⅱ]
 | Passive 7 effect = Chance to Skill Quicken [II / 10%]
 
@@ -141,9 +141,9 @@
 | Passive 14 effect = Damage Cut [II / 10%]
 
 | Active 1 icon = Charge Draw
-| Active 1 name = Chargeドロー
+| Active 1 name = Charge Draw
 | Active 1 name JP = チャージドロー
-| Active 1 effect = Charge Draw [100%]
+| Active 1 effect = Charge Draw
 | Active 1 cooldown = 5
 
 | Connect name JP = わたしが勝手に手伝うだけだよ
@@ -154,8 +154,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Charge Conservation
-| Connect 2 / 1 = VII / 100%
-| Connect 2 / 2 = IX / 100%
+| Connect 2 / 1 = Self / 1 Turn / VII / 100%
+| Connect 2 / 2 = Self / 1 Turn / IX / 100%
 
 | Magia name JP = 即刻死刑
 | Magia name EN = 
@@ -167,12 +167,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Charged Attack Received Damage Up
 | Magia scaling 2 = 1%
-| Magia 2 / 1 = All / 3 Turns / V / 3%
-| Magia 2 / 2 = All / 3 Turns / VII / 5%
+| Magia 2 / 1 = All Enemies / 3 Turns / V / 3%
+| Magia 2 / 2 = All Enemies / 3 Turns / VII / 5%
 | Magia effect 3 = Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 15%
-| Magia 3 / 2 = All / 3 Turns / VII / 20%
+| Magia 3 / 1 = Allies / 3 Turns / V / 15%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 20%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -180,5 +180,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ポーン
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Charged Attack Received Damage Up [IX / 11% / All / 3 Turns] & Damage Up [IX / 30% / All / 3 Turns] & Charged Attack Damage Up [IX / 45% / All / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Charged Attack Received Damage Up [IX / 11% / All Enemies / 3 Turns] & Damage Up [IX / 30%] & Charged Attack Damage Up [IX / 45% / Allies / 3 Turns]
 }}

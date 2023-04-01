@@ -126,7 +126,7 @@
 | Passive 11 effect = Blast Damage Up [III / 20%]
 
 | Passive 12 icon = Regenerate HP
-| Passive 12 name = Regeneration Adept [III]
+| Passive 12 name = Regenerate Adept [III]
 | Passive 12 name JP = リジェネレイト・アデプト[Ⅲ]
 | Passive 12 effect = Regenerate HP [III / 4%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Chance to Bind
 | Active 1 name = Bind Analyze [XX]
 | Active 1 name JP = バインド・アナライズ[XX]
-| Active 1 effect = Chance to Bind [XX / 77.5%] (One / 1 Turn) & Regenerate HP [III / 4%] (Self / 3 Turns)
+| Active 1 effect = Chance to Bind [XX / 77.5%] (Target / 1 Turn) & Regenerate HP [III / 4%] (Self / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = 共同研究ね
@@ -146,14 +146,17 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = HP Restore
 | Connect 2 / 1 = V / 40%
 | Connect 2 / 2 = VII / 45%
-| Connect effect 3 = Chance to Bind on Attack
-| Connect 3 / 1 = V / 50%
-| Connect 3 / 2 = VII / 100%
+| Connect effect 3 = Bind on Attack
+| Connect 3 / 1 = -
+| Connect 3 / 2 = 
+| Connect effect 4 = Chance to Bind on Attack
+| Connect 4 / 1 = V / 50%
+| Connect 4 / 2 = -
 
 | Magia name JP = マグナ・カルタ
 | Magia name EN = 
@@ -165,12 +168,12 @@
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Remove Buffs
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = One / %
-| Magia 2 / 2 = One / %
-| Magia effect 3 = Chance to Bind
+| Magia 2 / 1 = One Ally / 
+| Magia 2 / 2 = One Ally / 
+| Magia effect 3 = Bind
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = One / 1 Turn / V / 100%
-| Magia 3 / 2 = One / 1 Turn / VII / 100%
+| Magia 3 / 1 = Target / 1 Turn / 
+| Magia 3 / 2 = Target / 1 Turn / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,5 +181,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、副葬品
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Remove Buffs [% / One] & Chance to Bind [IX / 100% / One / 1 Turn]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Remove Buffs [One Ally] & Bind [Target / 1 Turn]
 }}

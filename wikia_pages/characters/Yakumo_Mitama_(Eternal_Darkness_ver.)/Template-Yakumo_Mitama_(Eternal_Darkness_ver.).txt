@@ -111,14 +111,14 @@
 | Passive 8 effect = MP Up When Damaged [IV / 4%]
 
 | Passive 9 icon = Barrier
-| Passive 9 name = バリアAura
+| Passive 9 name = Barrier Aura
 | Passive 9 name JP = バリアオーラ
 | Passive 9 effect = Barrier [5000 damage]
 
 | Passive 10 icon = Chance to Skill Quicken
-| Passive 10 name = Skill QuickenAura
+| Passive 10 name = Skill Quicken Aura
 | Passive 10 name JP = スキルクイックオーラ
-| Passive 10 effect = Chance to Skill Quicken [100%] (Self / 1 Turn)
+| Passive 10 effect = Skill Quicken (Self / 1 Turn)
 
 | Passive 11 icon = MP Gauge Increased On Battle Start
 | Passive 11 name = Fast Mana Up
@@ -126,9 +126,9 @@
 | Passive 11 effect = MP Gauge Increased On Battle Start [50% full]
 
 | Passive 12 icon = Chance to Anti-Magia Seal
-| Passive 12 name = Anti-Magia Seal
+| Passive 12 name = Anti-Seal Magia
 | Passive 12 name JP = アンチ・シールマギア
-| Passive 12 effect = Chance to Anti-Magia Seal [100%]
+| Passive 12 effect = Anti-Magia Seal
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Chance to Skill Seal
-| Active 1 name = サイレント ナイト [X]
+| Active 1 name = Silent Night [X]
 | Active 1 name JP = サイレント・ナイト[Ⅹ]
-| Active 1 effect = Chance to Skill Seal [X / 52.5%] (All / 1 Turn) & Attack Down [III / 15%] (Self / 1 Turn)
+| Active 1 effect = Chance to Skill Seal [X / 52.5%] (All Enemies / 1 Turn) & Attack Down [III / 15%] (Self / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = まだ繋がれるの…？
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = VII / 35%
-| Connect 2 / 2 = IX / 40%
+| Connect 2 / 1 = Self / 1 Turn / VII / 35%
+| Connect 2 / 2 = Self / 1 Turn / IX / 40%
 
 | Magia name JP = 葬々魂吸演舞
 | Magia name EN = 
@@ -158,28 +158,28 @@
 | Magia icon = Damage All Enemies
 | Magia effect 1 = Damage All Enemies
 | Magia scaling 1 = 0%
-| Magia 1 / 1 = %
-| Magia 1 / 2 = %
+| Magia 1 / 1 = 
+| Magia 1 / 2 = 
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / 25%
-| Magia 2 / 2 = All / 3 Turns / 30%
+| Magia 2 / 1 = 25%
+| Magia 2 / 2 = 30%
 | Magia effect 3 = Defense Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / 15%
-| Magia 3 / 2 = All / 3 Turns / 20%
-| Magia effect 4 = Chance to Curse
+| Magia 3 / 1 = All Enemies / 3 Turns / 15%
+| Magia 3 / 2 = All Enemies / 3 Turns / 20%
+| Magia effect 4 = Curse
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = Self / 1 Turn / 100%
-| Magia 4 / 2 = Self / 1 Turn / 100%
-| Magia effect 5 = Chance to Magia Seal
+| Magia 4 / 1 = Self / 1 Turn / 
+| Magia 4 / 2 = Self / 1 Turn / 
+| Magia effect 5 = Magia Seal
 | Magia scaling 5 = 0%
-| Magia 5 / 1 = All / 2 Turns / 100%
-| Magia 5 / 2 = All / 2 Turns / 100%
-| Magia effect 6 = Chance to Skill Seal
+| Magia 5 / 1 = 
+| Magia 5 / 2 = 
+| Magia effect 6 = Skill Seal
 | Magia scaling 6 = 0%
-| Magia 6 / 1 = All / 2 Turns / 100%
-| Magia 6 / 2 = All / 2 Turns / 100%
+| Magia 6 / 1 = All Enemies / 2 Turns / 
+| Magia 6 / 2 = All Enemies / 2 Turns / 
 | Magia effect 7 = Frailty
 | Magia scaling 7 = 0%
 | Magia 7 / 1 = Self / 1 Turn / 100%
@@ -191,5 +191,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、花弁
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [%] & Attack Down [45% / All / 5 Turns] & Defense Down [35% / All / 5 Turns] & Chance to Curse [100% / Self / 1 Turn] & Chance to Magia Seal [100% / All / 3 Turns] & Chance to Skill Seal [100% / All / 3 Turns] & Frailty [100% / Self / 1 Turn]
+| Doppel effect = Damage All Enemies [] & Attack Down [45%] & Defense Down [35% / All Enemies / 5 Turns] & Curse [Self / 1 Turn] & Magia Seal [] & Skill Seal [All Enemies / 3 Turns] & Frailty [100% / Self / 1 Turn]
 }}

@@ -113,7 +113,7 @@
 | Passive 9 icon = Blast MP Gain Up
 | Passive 9 name = Blast Salutation [V]
 | Passive 9 name JP = ブラストサルテーション[Ⅴ]
-| Passive 9 effect = Blast MP Gain Up [V / 5%]
+| Passive 9 effect = Blast MP Gain Up [V / 5 MP]
 
 | Passive 10 icon = MP Gauge Increased On Battle Start
 | Passive 10 name = Fast Mana Up
@@ -121,12 +121,12 @@
 | Passive 10 effect = MP Gauge Increased On Battle Start [10% full]
 
 | Passive 11 icon = Flame Attribute Attack Up
-| Passive 11 name = フレイム Adept [II]
+| Passive 11 name = Flame Adept [II]
 | Passive 11 name JP = フレイム・アデプト[Ⅱ]
 | Passive 11 effect = Flame Attribute Attack Up [II / 7.5%]
 
 | Passive 12 icon = Regenerate HP
-| Passive 12 name = Mana SpringAura [XV]
+| Passive 12 name = Mana Spring Aura [XV]
 | Passive 12 name JP = マナスプリングオーラ[XV]
 | Passive 12 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn)
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Blast Draw
-| Active 1 name = Blastドロー
+| Active 1 name = Blast Draw
 | Active 1 name JP = ブラストドロー
-| Active 1 effect = Blast Draw [100%]
+| Active 1 effect = Blast Draw
 | Active 1 cooldown = 5
 
 | Connect name JP = 共同戦線だな！
@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VII / 70%
 | Connect 1 / 2 = IX / 80%
 | Connect effect 2 = Damage Up
-| Connect 2 / 1 = VII / 35%
-| Connect 2 / 2 = IX / 40%
-| Connect effect 3 = Chance to Dazzle on Attack
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect 2 / 1 = Self / 1 Turn / VII / 35%
+| Connect 2 / 2 = Self / 1 Turn / IX / 40%
+| Connect effect 3 = Dazzle on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = 鉄火神裁（ひぎしょう）
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = Blast Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / V / 30%
-| Magia 2 / 2 = Self / 3 Turns / VII / 40%
+| Magia 2 / 1 = V / 30%
+| Magia 2 / 2 = VII / 40%
 | Magia effect 3 = Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / V / 10%
-| Magia 3 / 2 = Self / 3 Turns / VII / 20%
+| Magia 3 / 1 = V / 10%
+| Magia 3 / 2 = VII / 20%
 | Magia effect 4 = Flame Attribute Attack Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Self / 3 Turns / V / 5%
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 869%] & Blast Damage Up [IX / 60% / Self / 5 Turns] & Attack Up [IX / 40% / Self / 5 Turns] & Flame Attribute Attack Up [IX / 25% / Self / 5 Turns] & Blast MP Gain Up [IX / 5% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 869%] & Blast Damage Up [IX / 60%] & Attack Up [IX / 40%] & Flame Attribute Attack Up [IX / 25% / Self / 5 Turns] & Blast MP Gain Up [IX / 5 MP / Self / 3 Turns]
 }}

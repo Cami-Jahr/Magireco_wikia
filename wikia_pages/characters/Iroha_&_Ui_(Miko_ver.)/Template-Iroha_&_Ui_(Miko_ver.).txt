@@ -101,9 +101,9 @@
 | Passive 6 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 7 icon = Chance to Anti-Magia Seal
-| Passive 7 name = Anti-Magia Seal
+| Passive 7 name = Anti-Seal Magia
 | Passive 7 name JP = アンチ・シールマギア
-| Passive 7 effect = Chance to Anti-Magia Seal [100%]
+| Passive 7 effect = Anti-Magia Seal
 
 | Passive 8 icon = MP Gain Up When Over 100 MP
 | Passive 8 name = MP Boost [II]
@@ -116,9 +116,9 @@
 | Passive 9 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 10 icon = Chance to Anti-Curse
-| Passive 10 name = Anti-Curse
+| Passive 10 name = Anti Curse
 | Passive 10 name JP = アンチ・カース
-| Passive 10 effect = Chance to Anti-Curse [100%]
+| Passive 10 effect = Anti-Curse
 
 | Passive 11 icon = Blast Damage Up
 | Passive 11 name = Blast Adept [II]
@@ -126,19 +126,19 @@
 | Passive 11 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 12 icon = Regenerate HP
-| Passive 12 name = Regeneration Adept [IV]
+| Passive 12 name = Regenerate Adept [IV]
 | Passive 12 name JP = リジェネレイト・アデプト[Ⅳ]
 | Passive 12 effect = Regenerate HP [IV / 5%]
 
 | Passive 13 icon = Dark Attribute Damage Cut
-| Passive 13 name = Dark ShieldAura [II]
+| Passive 13 name = Dark Shield Aura [II]
 | Passive 13 name JP = ダークシールドオーラ[Ⅱ]
-| Passive 13 effect = Dark Attribute Damage Cut [II / 10%] (All / 5 Turns)
+| Passive 13 effect = Dark Attribute Damage Cut [II / 10%] (Allies / 5 Turns)
 
 | Active 1 icon = Light Attribute Attack Up
-| Active 1 name = ライト Regeneration [V]
+| Active 1 name = Light Regeneration [V]
 | Active 1 name JP = ライト・リジェネレイト[Ⅴ]
-| Active 1 effect = Light Attribute Attack Up [V / 15%] (All / 3 Turns) & Regenerate HP [V / 6%] (All / 3 Turns)
+| Active 1 effect = Light Attribute Attack Up [V / 15%] & Regenerate HP [V / 6%] (Allies / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = このご縁が環になりますように
@@ -146,17 +146,17 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = HP Restore
 | Connect 2 / 1 = VIII / 47.5%
 | Connect 2 / 2 = X / 52.5%
 | Connect effect 3 = Damage Cut
-| Connect 3 / 1 = VII / 60%
-| Connect 3 / 2 = IX / 70%
+| Connect 3 / 1 = Self / 1 Turn / VII / 60%
+| Connect 3 / 2 = Self / 1 Turn / IX / 70%
 | Connect effect 4 = Remove Status Ailments
-| Connect 4 / 1 = %
-| Connect 4 / 2 = %
+| Connect 4 / 1 = Self / 
+| Connect 4 / 2 = Self / 
 
 | Magia name JP = プリマ・ランチャーレ
 | Magia name EN = 
@@ -168,20 +168,20 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 25%
-| Magia 2 / 2 = All / 3 Turns / VII / 30%
+| Magia 2 / 1 = V / 25%
+| Magia 2 / 2 = VII / 30%
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 30%
-| Magia 3 / 2 = All / 3 Turns / VII / 37.5%
+| Magia 3 / 1 = V / 30%
+| Magia 3 / 2 = VII / 37.5%
 | Magia effect 4 = Negate Status Ailments
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / 3 Turns / V / 100%
-| Magia 4 / 2 = All / 3 Turns / VII / 100%
+| Magia 4 / 1 = Allies / 3 Turns / 1 Status Ailment
+| Magia 4 / 2 = Allies / 3 Turns / 1 Status Ailment
 | Magia effect 5 = HP Restore
 | Magia scaling 5 = 2%
-| Magia 5 / 1 = All / V / 22.5%
-| Magia 5 / 2 = All / VII / 25%
+| Magia 5 / 1 = Allies / V / 22.5%
+| Magia 5 / 2 = Allies / VII / 25%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -189,5 +189,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 45% / All / 3 Turns] & Defense Up [IX / 55% / All / 3 Turns] & Negate Status Ailments [IX / 100% / All / 3 Turns] & HP Restore [IX / 35.5% / All]
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 45%] & Defense Up [IX / 55%] & Negate Status Ailments [3 Status Ailments / Allies / 3 Turns] & HP Restore [IX / 35.5% / Allies]
 }}

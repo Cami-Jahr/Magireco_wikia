@@ -111,7 +111,7 @@
 | Passive 8 effect = Magia Damage Up [IV / 12.5%]
 
 | Passive 9 icon = Chance to Skill Quicken
-| Passive 9 name = Skill Quicken [III]
+| Passive 9 name = Skill Quick [III]
 | Passive 9 name JP = スキルクイック[Ⅲ]
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
 
@@ -123,7 +123,7 @@
 | Passive 11 icon = Chance to Anti-Bind
 | Passive 11 name = Anti-Bind
 | Passive 11 name JP = アンチ・バインド
-| Passive 11 effect = Chance to Anti-Bind [100%]
+| Passive 11 effect = Anti-Bind
 
 | Passive 12 icon = Accele MP Gain Up
 | Passive 12 name = Accele Adept [II]
@@ -138,22 +138,25 @@
 | Active 1 icon = Chance to Evade
 | Active 1 name = Parry
 | Active 1 name JP = パリィ
-| Active 1 effect = Chance to Evade [100%] (Self / 1 Turn)
+| Active 1 effect = Evade (Self / 1 Turn)
 | Active 1 cooldown = 5
 
 | Connect name JP = ふたりなら倍だよね～！
 | Connect name EN = 
 | Connect name NA = 
 | Connect icon = Chance to Evade
-| Connect effect 1 = Chance to Evade
+| Connect effect 1 = Chance to Provoke
 | Connect 1 / 1 = VII / 60%
-| Connect 1 / 2 = IX / 100%
-| Connect effect 2 = Chance to Provoke
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
-| Connect effect 3 = Chance to Critical Hit
-| Connect 3 / 1 = VII / 60%
-| Connect 3 / 2 = IX / 70%
+| Connect 1 / 2 = IX / 70%
+| Connect effect 2 = Chance to Critical Hit
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
+| Connect effect 3 = Evade
+| Connect 3 / 1 = -
+| Connect 3 / 2 = 
+| Connect effect 4 = Chance to Evade
+| Connect 4 / 1 = VII / 60%
+| Connect 4 / 2 = -
 
 | Magia name JP = ツキササルイバラノヤ
 | Magia name EN = 
@@ -163,18 +166,22 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
-| Magia effect 2 = Chance to Provoke
+| Magia effect 2 = Provoke
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = Self / 1 Turn / V / 100%
-| Magia 2 / 2 = Self / 1 Turn / VII / 100%
-| Magia effect 3 = Chance to Evade
-| Magia scaling 3 = 0%
-| Magia 3 / 1 = Self / 1 Turn / V / 50%
-| Magia 3 / 2 = Self / 1 Turn / VII / 100%
-| Magia effect 4 = Defense Up
-| Magia scaling 4 = 2.5%
+| Magia 2 / 1 = 
+| Magia 2 / 2 = 
+| Magia effect 3 = Defense Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = Allies / 3 Turns / VII / 45%
+| Magia effect 4 = Evade
+| Magia scaling 4 = 0%
 | Magia 4 / 1 = -
-| Magia 4 / 2 = All / 3 Turns / VII / 45%
+| Magia 4 / 2 = Self / 1 Turn / 
+| Magia effect 5 = Chance to Evade
+| Magia scaling 5 = 0%
+| Magia 5 / 1 = Self / 1 Turn / V / 50%
+| Magia 5 / 2 = -
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +189,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、外套
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Defense Up [IX / 62.5% / All / 3 Turns] & Chance to Provoke [IX / 100% / Self / 1 Turn] & Chance to Evade [IX / 100% / Self / 1 Turn]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Defense Up [IX / 62.5% / Allies / 3 Turns] & Provoke [] & Evade [Self / 1 Turn]
 }}

@@ -101,7 +101,7 @@
 | Passive 6 effect = Charge Disc Damage Up [II / 10%]
 
 | Passive 7 icon = Chance to Skill Quicken
-| Passive 7 name = Skill Quicken [II]
+| Passive 7 name = Skill Quick [II]
 | Passive 7 name JP = スキルクイック[Ⅱ]
 | Passive 7 effect = Chance to Skill Quicken [II / 10%]
 
@@ -133,7 +133,7 @@
 | Passive 13 icon = Chance to Anti-Skill Seal
 | Passive 13 name = Anti-Jammer
 | Passive 13 name JP = アンチ・ジャマ―
-| Passive 13 effect = Chance to Anti-Skill Seal [100%]
+| Passive 13 effect = Anti-Skill Seal
 
 | Passive 14 icon = Damage Cut
 | Passive 14 name = Shield Adept [II]
@@ -141,9 +141,9 @@
 | Passive 14 effect = Damage Cut [II / 10%]
 
 | Active 1 icon = Charged Attack Damage Up
-| Active 1 name = Chargeライズ バリア [V]
+| Active 1 name = Charge Rise Barrier [V]
 | Active 1 name JP = チャージライズ・バリア[Ⅴ]
-| Active 1 effect = Charged Attack Damage Up [V / 15%] (All / 1 Turn) & Anti-Debuff [1 Debuff] (All / 1 Turn)
+| Active 1 effect = Charged Attack Damage Up [V / 15%] & Anti-Debuff [1 Debuff] (Allies / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = こんな風にするの！
@@ -154,11 +154,14 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Charged Attack Damage Up
-| Connect 2 / 1 = VIII / 27.5%
-| Connect 2 / 2 = X / 32.5%
-| Connect effect 3 = Chance to Skill Seal on Attack
-| Connect 3 / 1 = VIII / 65%
-| Connect 3 / 2 = X / 100%
+| Connect 2 / 1 = Self / 1 Turn / VIII / 27.5%
+| Connect 2 / 2 = Self / 1 Turn / X / 32.5%
+| Connect effect 3 = Skill Seal on Attack
+| Connect 3 / 1 = -
+| Connect 3 / 2 = 
+| Connect effect 4 = Chance to Skill Seal on Attack
+| Connect 4 / 1 = VIII / 65%
+| Connect 4 / 2 = -
 
 | Magia name JP = 食べごろハンター
 | Magia name EN = 
@@ -170,16 +173,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Charged Attack Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 25%
-| Magia 2 / 2 = All / 3 Turns / VII / 30%
+| Magia 2 / 1 = V / 25%
+| Magia 2 / 2 = VII / 30%
 | Magia effect 3 = Chance to Critical Hit
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / 3 Turns / V / 25%
-| Magia 3 / 2 = All / 3 Turns / VII / 30%
+| Magia 3 / 1 = Allies / 3 Turns / V / 25%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 30%
 | Magia effect 4 = MP Restore
 | Magia scaling 4 = 1%
-| Magia 4 / 1 = All / V / 15 MP
-| Magia 4 / 2 = All / VII / 20 MP
+| Magia 4 / 1 = Allies / V / 15 MP
+| Magia 4 / 2 = Allies / VII / 20 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -187,5 +190,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、月下氷人
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Charged Attack Damage Up [IX / 45% / All / 3 Turns] & Chance to Critical Hit [IX / 30% / All / 3 Turns] & MP Restore [IX / 29 MP / All]
+| Doppel effect = Damage All Enemies [IX / 902%] & Charged Attack Damage Up [IX / 45%] & Chance to Critical Hit [IX / 30% / Allies / 3 Turns] & MP Restore [IX / 29 MP / Allies]
 }}

@@ -108,7 +108,7 @@
 | Passive 8 icon = Endure
 | Passive 8 name = Fortitude Adept
 | Passive 8 name JP = フォティチュード・アデプト
-| Passive 8 effect = Endure [100%]
+| Passive 8 effect = Endure
 
 | Passive 9 icon = Chance to Skill Seal on Attack
 | Passive 9 name = Jammer Edge [II]
@@ -121,7 +121,7 @@
 | Passive 10 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 11 icon = Blast Damage Cut
-| Passive 11 name = BlastShield [III]
+| Passive 11 name = Blast Shield [III]
 | Passive 11 name JP = ブラストシールド[Ⅲ]
 | Passive 11 effect = Blast Damage Cut [III / 15%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Remove Debuffs
 | Active 1 name = Refresh
 | Active 1 name JP = リフレッシュ
-| Active 1 effect = Remove Debuffs [%] & Remove Status Ailments [%]
+| Active 1 effect = Remove Debuffs & Remove Status Ailments (Self)
 | Active 1 cooldown = 3
 
 | Connect name JP = 美味しい食べ方教えちゃうよ！
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Damage Cut
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
 
 | Magia name JP = アングリー・ハングリー
 | Magia name EN = 
@@ -162,12 +162,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Aqua Attribute Damage Cut
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 3 Turns / V / 10%
-| Magia 2 / 2 = All / 3 Turns / VII / 15%
+| Magia 2 / 1 = V / 10%
+| Magia 2 / 2 = VII / 15%
 | Magia effect 3 = Damage Cut
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 27.5%
-| Magia 3 / 2 = All / 3 Turns / VII / 32.5%
+| Magia 3 / 1 = Allies / 3 Turns / V / 27.5%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 32.5%
 | Magia effect 4 = Regenerate HP
 | Magia scaling 4 = 1%
 | Magia 4 / 1 = Self / 3 Turns / V / 6%
@@ -179,5 +179,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、バキュームクリーナー
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Aqua Attribute Damage Cut [IX / 20% / All / 3 Turns] & Damage Cut [IX / 50% / All / 3 Turns] & Regenerate HP [IX / 14% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Aqua Attribute Damage Cut [IX / 20%] & Damage Cut [IX / 50% / Allies / 3 Turns] & Regenerate HP [IX / 14% / Self / 3 Turns]
 }}

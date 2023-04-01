@@ -106,7 +106,7 @@
 | Passive 7 effect = MP Gain Up When Over 100 MP [II / 20%]
 
 | Passive 8 icon = Chance to Anti-Magia Seal
-| Passive 8 name = Anti-Magia Seal [VII]
+| Passive 8 name = Anti-Seal Magia [VII]
 | Passive 8 name JP = アンチ・シールマギア[Ⅶ]
 | Passive 8 effect = Chance to Anti-Magia Seal [VII / 55%]
 
@@ -123,7 +123,7 @@
 | Passive 11 icon = Chance to Chase
 | Passive 11 name = Chase Adept [VI]
 | Passive 11 name JP = チェイス・アデプト[Ⅵ]
-| Passive 11 effect = Chance to Chase [VI / 80%]
+| Passive 11 effect = Chance to Chase [VI / 20%]
 
 | Passive 12 icon = Chance to Evade
 | Passive 12 name = Parry Adept [II]
@@ -138,7 +138,7 @@
 | Active 1 icon = Remove Status Ailments
 | Active 1 name = Health Recovery [XVII]
 | Active 1 name JP = ヘルスリカバリー[XVII]
-| Active 1 effect = Remove Status Ailments [%] & Status Ailment Resistance Up [XVII / 100%] (Self / 1 Turn)
+| Active 1 effect = Remove Status Ailments (Self) & Status Ailment Resistance Up [XVII / 100%] (Self / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = クリスマスを盛り上げよっ!?
@@ -151,9 +151,9 @@
 | Connect effect 2 = Accele MP Gain Up
 | Connect 2 / 1 = VII / 40%
 | Connect 2 / 2 = IX / 50%
-| Connect effect 3 = Chance to Evade
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect effect 3 = Evade
+| Connect 3 / 1 = Self / 1 Turn / 
+| Connect 3 / 2 = Self / 1 Turn / 
 
 | Magia name JP = ホーリースパイラルホープ
 | Magia name EN = 
@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VIII / 345%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / VI / 25%
-| Magia 2 / 2 = All / 3 Turns / VIII / 30%
+| Magia 2 / 1 = VI / 25%
+| Magia 2 / 2 = VIII / 30%
 | Magia effect 3 = Regenerate HP
 | Magia scaling 3 = 1%
-| Magia 3 / 1 = All / 3 Turns / VI / 6%
-| Magia 3 / 2 = All / 3 Turns / VIII / 8%
+| Magia 3 / 1 = Allies / 3 Turns / VI / 6%
+| Magia 3 / 2 = Allies / 3 Turns / VIII / 8%
 | Magia effect 4 = Remove Debuffs
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / %
-| Magia 4 / 2 = All / %
+| Magia 4 / 1 = Allies / 
+| Magia 4 / 2 = Allies / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ー
-| Doppel effect = Damage All Enemies [X / 902%] & Attack Up [X / 45% / All / 3 Turns] & Regenerate HP [X / 14% / All / 3 Turns] & Remove Debuffs [% / All]
+| Doppel effect = Damage All Enemies [X / 902%] & Attack Up [X / 45%] & Regenerate HP [X / 14% / Allies / 3 Turns] & Remove Debuffs [Allies]
 }}

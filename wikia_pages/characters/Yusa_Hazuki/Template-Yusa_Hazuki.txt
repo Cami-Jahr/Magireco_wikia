@@ -116,7 +116,7 @@
 | Passive 9 effect = Chance to Curse on Attack [III / 20%] (1 Turn)
 
 | Passive 10 icon = Chance to Skill Quicken
-| Passive 10 name = Skill Quicken [II]
+| Passive 10 name = Skill Quick [II]
 | Passive 10 name JP = スキルクイック[Ⅱ]
 | Passive 10 effect = Chance to Skill Quicken [II / 10%]
 
@@ -131,14 +131,14 @@
 | Passive 12 effect = MP Gauge Increased On Battle Start [15% full]
 
 | Passive 13 icon = Magia Damage Cut
-| Passive 13 name = MagiaShield [V]
+| Passive 13 name = Magia Shield [V]
 | Passive 13 name JP = マギアシールド[Ⅴ]
 | Passive 13 effect = Magia Damage Cut [V / 25%]
 
 | Active 1 icon = Attack Down
 | Active 1 name = Attack Down [VIII]
 | Active 1 name JP = アタックダウン[Ⅷ]
-| Active 1 effect = Attack Down [VIII / 40%] (One / 1 Turn)
+| Active 1 effect = Attack Down [VIII / 40%] (Target / 1 Turn)
 | Active 1 cooldown = 5
 
 | Connect name JP = 完璧ー！一緒に仕留めるよ！
@@ -146,13 +146,13 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = VI / 32.5%
-| Connect 1 / 2 = VIII / 37.5%
-| Connect 1 / 3 = IX / 40%
-| Connect effect 2 = Chance to Curse on Attack
-| Connect 2 / 1 = VI / 100%
-| Connect 2 / 2 = VIII / 100%
-| Connect 2 / 3 = IX / 100%
+| Connect 1 / 1 = Self / 1 Turn / VI / 32.5%
+| Connect 1 / 2 = Self / 1 Turn / VIII / 37.5%
+| Connect 1 / 3 = Self / 1 Turn / IX / 40%
+| Connect effect 2 = Curse on Attack
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
+| Connect 2 / 3 = 
 
 | Magia name JP = サンダー・トレント
 | Magia name EN = 
@@ -165,19 +165,19 @@
 | Magia 1 / 3 = VII / 360%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / III / 22.5%
-| Magia 2 / 2 = All / 3 Turns / V / 27.5%
-| Magia 2 / 3 = All / 3 Turns / VII / 30%
-| Magia effect 3 = Chance to Curse
+| Magia 2 / 1 = All Enemies / 3 Turns / III / 22.5%
+| Magia 2 / 2 = All Enemies / 3 Turns / V / 27.5%
+| Magia 2 / 3 = VII / 30%
+| Magia effect 3 = Curse
 | Magia scaling 3 = 0%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = All / 1 Turn / V / 100%
-| Magia 3 / 3 = All / 1 Turn / VII / 100%
+| Magia 3 / 2 = All Enemies / 1 Turn / 
+| Magia 3 / 3 = All Enemies / 1 Turn / 
 | Magia effect 4 = Defense Down
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
-| Magia 4 / 3 = All / 3 Turns / VII / 15%
+| Magia 4 / 3 = All Enemies / 3 Turns / VII / 15%
 | Magia effect 5 = MP Restore
 | Magia scaling 5 = 1%
 | Magia 5 / 1 = -
@@ -190,5 +190,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、蔵
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Down [IX / 45% / All / 3 Turns] & Defense Down [IX / 30% / All / 3 Turns] & Chance to Curse [IX / 100% / All / 1 Turn] & MP Restore [IX / 29 MP]
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Down [IX / 45%] & Defense Down [IX / 30% / All Enemies / 3 Turns] & Curse [All Enemies / 1 Turn] & MP Restore [IX / 29 MP]
 }}

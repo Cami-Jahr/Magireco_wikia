@@ -81,7 +81,7 @@
 | Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 3 icon = Chance to Skill Quicken
-| Passive 3 name = Skill Quicken [II]
+| Passive 3 name = Skill Quick [II]
 | Passive 3 name JP = スキルクイック[Ⅱ]
 | Passive 3 effect = Chance to Skill Quicken [II / 10%]
 
@@ -98,7 +98,7 @@
 | Passive 6 icon = Endure
 | Passive 6 name = Fortitude Adept
 | Passive 6 name JP = フォティチュード・アデプト
-| Passive 6 effect = Endure [100%]
+| Passive 6 effect = Endure
 
 | Passive 7 icon = Damage Cut
 | Passive 7 name = Shield Adept [II]
@@ -111,7 +111,7 @@
 | Passive 8 effect = Accele MP Gain Up [II / 12.5%]
 
 | Passive 9 icon = Attack Up When Ally Dies
-| Passive 9 name = フューリィ Adept [III]
+| Passive 9 name = Fury Adept [III]
 | Passive 9 name JP = フューリィ・アデプト[Ⅲ]
 | Passive 9 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]
 
@@ -121,9 +121,9 @@
 | Passive 10 effect = Chance to Curse on Attack [III / 20%] (1 Turn)
 
 | Passive 11 icon = Chance to Anti-Magia Seal
-| Passive 11 name = Anti-Magia Seal
+| Passive 11 name = Anti-Seal Magia
 | Passive 11 name JP = アンチ・シールマギア
-| Passive 11 effect = Chance to Anti-Magia Seal [100%]
+| Passive 11 effect = Anti-Magia Seal
 
 | Passive 12 icon = MP Gauge Increased On Battle Start
 | Passive 12 name = Fast Mana Up
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Regenerate HP
-| Active 1 name = ニートネス [II]
+| Active 1 name = Neatness [II]
 | Active 1 name JP = ニートネス[Ⅱ]
-| Active 1 effect = Regenerate HP [II / 3%] (All / 3 Turns) & Status Ailment Resistance Up [II / 15%] (All / 3 Turns)
+| Active 1 effect = Regenerate HP [II / 3%] & Status Ailment Resistance Up [II / 15%] (Allies / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = 手を貸すでありますよ
@@ -151,9 +151,9 @@
 | Connect effect 2 = Survive
 | Connect 2 / 1 = VII / 20%
 | Connect 2 / 2 = IX / 20%
-| Connect effect 3 = Chance to Guardian
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect effect 3 = Guardian
+| Connect 3 / 1 = Self / 1 Turn / 
+| Connect 3 / 2 = Self / 1 Turn / 
 
 | Magia name JP = 突貫！絶対必中弾雨
 | Magia name EN = 
@@ -169,16 +169,16 @@
 | Magia 2 / 2 = 30%
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 41.3%
-| Magia 3 / 2 = All / 3 Turns / VII / 48.8%
+| Magia 3 / 1 = V / 41.3%
+| Magia 3 / 2 = VII / 48.8%
 | Magia effect 4 = Anti-Debuff
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / 3 Turns / 1 Debuff
-| Magia 4 / 2 = All / 3 Turns / 1 Debuff
+| Magia 4 / 1 = 1 Debuff
+| Magia 4 / 2 = 1 Debuff
 | Magia effect 5 = Negate Status Ailments
 | Magia scaling 5 = 0%
-| Magia 5 / 1 = All / 3 Turns / V / 100%
-| Magia 5 / 2 = All / 3 Turns / VII / 100%
+| Magia 5 / 1 = Allies / 3 Turns / 1 Status Ailment
+| Magia 5 / 2 = Allies / 3 Turns / 1 Status Ailment
 
 | Doppel Name = 
 | Doppel Title = 
@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、砦
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Revive one Ally [54%] & Defense Up [IX / 66.3% / All / 5 Turns] & Anti-Debuff [2 Debuffs / All / 5 Turns] & Negate Status Ailments [IX / 100% / All / 5 Turns]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Revive one Ally [54%] & Defense Up [IX / 66.3%] & Anti-Debuff [2 Debuffs] & Negate Status Ailments [2 Status Ailments / Allies / 5 Turns]
 }}

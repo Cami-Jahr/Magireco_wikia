@@ -101,7 +101,7 @@
 | Passive 6 effect = Chance to Anti-Evade [III / 35%]
 
 | Passive 7 icon = Blast Damage Cut
-| Passive 7 name = BlastShield [III]
+| Passive 7 name = Blast Shield [III]
 | Passive 7 name JP = ブラストシールド[Ⅲ]
 | Passive 7 effect = Blast Damage Cut [III / 15%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Chance to Anti-Evade
 | Active 1 name = Absolute Blast [III]
 | Active 1 name JP = アブソリュート・ブラスト[Ⅲ]
-| Active 1 effect = Chance to Anti-Evade [III / 100%] (Self / 3 Turns) & Blast Damage Up [III / 25%] (Self / 3 Turns)
+| Active 1 effect = Anti-Evade & Blast Damage Up [III / 25%] (Self / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = 貸しではないから心配するな
@@ -148,9 +148,9 @@
 | Connect effect 1 = Attack Up
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
-| Connect effect 2 = Chance to Anti-Evade
-| Connect 2 / 1 = VII / 100%
-| Connect 2 / 2 = IX / 100%
+| Connect effect 2 = Anti-Evade
+| Connect 2 / 1 = Self / 1 Turn / 
+| Connect 2 / 2 = Self / 1 Turn / 
 
 | Magia name JP = 断罪の光芒
 | Magia name EN = 
@@ -160,14 +160,18 @@
 | Magia scaling 1 = 8%
 | Magia 1 / 1 = V / 224.4%
 | Magia 1 / 2 = VII / 237.6%
-| Magia effect 2 = Chance to Anti-Evade
-| Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 1 Turn / V / 70%
-| Magia 2 / 2 = All / 1 Turn / VII / 100%
-| Magia effect 3 = Damage Cut
-| Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 1 Turn / V / 90%
-| Magia 3 / 2 = Self / 1 Turn / VII / 90%
+| Magia effect 2 = Damage Cut
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = Self / 1 Turn / V / 90%
+| Magia 2 / 2 = Self / 1 Turn / VII / 90%
+| Magia effect 3 = Anti-Evade
+| Magia scaling 3 = 0%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = Allies / 1 Turn / 
+| Magia effect 4 = Chance to Anti-Evade
+| Magia scaling 4 = 0%
+| Magia 4 / 1 = Allies / 1 Turn / V / 70%
+| Magia 4 / 2 = -
 
 | Doppel Name = 
 | Doppel Title = 
@@ -175,5 +179,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、竈獅子
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage 5 Random Enemies [VIII / 622.1999999999999%] & Chance to Anti-Evade [VIII / 100% / All / 1 Turn] & Damage Cut [VIII / 100% / Self / 1 Turn]
+| Doppel effect = Damage 5 Random Enemies [VIII / 622.1999999999999%] & Anti-Evade [Allies / 1 Turn] & Damage Cut [VIII / 100% / Self / 1 Turn]
 }}

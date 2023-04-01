@@ -91,12 +91,12 @@
 | Passive 4 effect = Accele MP Gain Up [II / 12.5%]
 
 | Passive 5 icon = Flame Attribute Damage Cut
-| Passive 5 name = フレイムShield Adept [III]
+| Passive 5 name = Flame Shield Adept [III]
 | Passive 5 name JP = フレイムシールド・アデプト[Ⅲ]
 | Passive 5 effect = Flame Attribute Damage Cut [III / 15%]
 
 | Passive 6 icon = Chance to Skill Quicken
-| Passive 6 name = Skill Quicken [III]
+| Passive 6 name = Skill Quick [III]
 | Passive 6 name JP = スキルクイック[Ⅲ]
 | Passive 6 effect = Chance to Skill Quicken [III / 15%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Accele MP Gain Up
 | Active 1 name = AcceleGuard Circle [II]
 | Active 1 name JP = アクセルガード・サークル[Ⅱ]
-| Active 1 effect = Accele MP Gain Up [II / 12.5%] (All / 3 Turns) & Defense Up [II / 26.3%] (All / 3 Turns)
+| Active 1 effect = Accele MP Gain Up [II / 12.5%] & Defense Up [II / 26.3%] (Allies / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = ウィキャンドゥーイッ！
@@ -151,10 +151,10 @@
 | Connect 1 / 3 = VIII / 37.5%
 | Connect 1 / 4 = IX / 40%
 | Connect effect 2 = Defense Up
-| Connect 2 / 1 = IV / 67.5%
-| Connect 2 / 2 = VI / 82.5%
-| Connect 2 / 3 = VIII / 97.5%
-| Connect 2 / 4 = IX / 105%
+| Connect 2 / 1 = Self / 1 Turn / IV / 67.5%
+| Connect 2 / 2 = Self / 1 Turn / VI / 82.5%
+| Connect 2 / 3 = Self / 1 Turn / VIII / 97.5%
+| Connect 2 / 4 = Self / 1 Turn / IX / 105%
 
 | Magia name JP = ゴー！ファイト！ウィン！
 | Magia name EN = 
@@ -168,22 +168,22 @@
 | Magia 1 / 4 = VII / 1152%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / I / 17.5%
-| Magia 2 / 2 = All / 3 Turns / III / 22.5%
-| Magia 2 / 3 = All / 3 Turns / V / 27.5%
-| Magia 2 / 4 = All / 3 Turns / VII / 30%
+| Magia 2 / 1 = I / 17.5%
+| Magia 2 / 2 = III / 22.5%
+| Magia 2 / 3 = V / 27.5%
+| Magia 2 / 4 = VII / 30%
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / I / 26.3%
-| Magia 3 / 2 = All / 3 Turns / III / 33.8%
-| Magia 3 / 3 = All / 3 Turns / V / 41.3%
-| Magia 3 / 4 = All / 3 Turns / VII / 45%
+| Magia 3 / 1 = Allies / 3 Turns / I / 26.3%
+| Magia 3 / 2 = Allies / 3 Turns / III / 33.8%
+| Magia 3 / 3 = V / 41.3%
+| Magia 3 / 4 = VII / 45%
 | Magia effect 4 = Damage Cut
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
-| Magia 4 / 3 = All / 3 Turns / V / 20%
-| Magia 4 / 4 = All / 3 Turns / VII / 22.5%
+| Magia 4 / 3 = Allies / 3 Turns / V / 20%
+| Magia 4 / 4 = Allies / 3 Turns / VII / 22.5%
 | Magia effect 5 = MP Restore
 | Magia scaling 5 = 1%
 | Magia 5 / 1 = -
@@ -197,5 +197,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、メガホン
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Up [IX / 45% / All / 3 Turns] & Defense Up [IX / 62.5% / All / 3 Turns] & Damage Cut [IX / 37.5% / All / 3 Turns] & MP Restore [IX / 29 MP]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Up [IX / 45%] & Defense Up [IX / 62.5%] & Damage Cut [IX / 37.5% / Allies / 3 Turns] & MP Restore [IX / 29 MP]
 }}

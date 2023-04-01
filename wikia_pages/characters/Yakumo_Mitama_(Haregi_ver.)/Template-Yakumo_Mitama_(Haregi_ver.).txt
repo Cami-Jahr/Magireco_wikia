@@ -138,7 +138,7 @@
 | Active 1 icon = Attack Up
 | Active 1 name = Shield Performance [II]
 | Active 1 name JP = シールド・パフォーマンス[Ⅱ]
-| Active 1 effect = Attack Up [II / 10%] (All / 1 Turn) & Damage Cut [XIV / 70%] (Self / 1 Turn)
+| Active 1 effect = Attack Up [II / 10%] (Allies / 1 Turn) & Damage Cut [XIV / 70%] (Self / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = 今年もいい１年になりそうね
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = V / 30%
 | Connect 2 / 2 = VII / 35%
 | Connect effect 3 = Damage Up Versus Enemies Affected With Status Ailments
-| Connect 3 / 1 = III / 30%
-| Connect 3 / 2 = V / 35%
+| Connect 3 / 1 = Self / 1 Turn / III / 30%
+| Connect 3 / 2 = Self / 1 Turn / V / 35%
 
 | Magia name JP = 新春骨牌演舞
 | Magia name EN = 
@@ -163,18 +163,22 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
-| Magia effect 2 = Chance to Curse
+| Magia effect 2 = Curse
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 1 Turn / V / 100%
-| Magia 2 / 2 = All / 1 Turn / VII / 100%
-| Magia effect 3 = Chance to Magia Seal
+| Magia 2 / 1 = 
+| Magia 2 / 2 = All Enemies / 1 Turn / 
+| Magia effect 3 = Poison
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / 1 Turn / V / 52.5%
-| Magia 3 / 2 = All / 2 Turns / VII / 100%
-| Magia effect 4 = Chance to Poison
+| Magia 3 / 1 = -
+| Magia 3 / 2 = 
+| Magia effect 4 = Magia Seal
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = -
-| Magia 4 / 2 = All / 2 Turns / VII / 100%
+| Magia 4 / 2 = All Enemies / 2 Turns / 
+| Magia effect 5 = Chance to Magia Seal
+| Magia scaling 5 = 0%
+| Magia 5 / 1 = All Enemies / 1 Turn / V / 52.5%
+| Magia 5 / 2 = -
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、佳日
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Chance to Curse [IX / 100% / All / 1 Turn] & Chance to Poison [IX / 100% / All / 3 Turns] & Chance to Magia Seal [IX / 100% / All / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Curse [All Enemies / 1 Turn] & Poison [] & Magia Seal [All Enemies / 3 Turns]
 }}

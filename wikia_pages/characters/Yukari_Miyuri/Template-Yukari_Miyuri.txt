@@ -131,19 +131,19 @@
 | Passive 12 effect = Charged Attack Damage Up [IV / 15%] & Charge Disc Damage Up [II / 10%]
 
 | Passive 13 icon = Aqua Attribute Attack Up
-| Passive 13 name = アクア Adept [II]
+| Passive 13 name = Aqua Adept [II]
 | Passive 13 name JP = アクア・アデプト[Ⅱ]
 | Passive 13 effect = Aqua Attribute Attack Up [II / 7.5%]
 
 | Passive 14 icon = Chance to Anti-Burn
 | Passive 14 name = Anti-Burn
 | Passive 14 name JP = アンチ・バーン
-| Passive 14 effect = Chance to Anti-Burn [100%]
+| Passive 14 effect = Anti-Burn
 
 | Active 1 icon = Charged Attack Received Damage Up
-| Active 1 name = Chargeフォール [V]
+| Active 1 name = Charge Fall [V]
 | Active 1 name JP = チャージフォール[Ⅴ]
-| Active 1 effect = Charged Attack Received Damage Up [V / 5%] (One / 3 Turns) & Charged Attack Damage Up [V / 20%] (All / 3 Turns)
+| Active 1 effect = Charged Attack Received Damage Up [V / 5%] (Target / 3 Turns) & Charged Attack Damage Up [V / 20%] (Allies / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = ではでは！ミユも一緒に！
@@ -156,9 +156,9 @@
 | Connect effect 2 = Charge Disc Damage Up
 | Connect 2 / 1 = VII / 35%
 | Connect 2 / 2 = IX / 40%
-| Connect effect 3 = Chance to Anti-Evade
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect effect 3 = Anti-Evade
+| Connect 3 / 1 = Self / 1 Turn / 
+| Connect 3 / 2 = Self / 1 Turn / 
 
 | Magia name JP = 人事不省ランオーバー
 | Magia name EN = 
@@ -170,12 +170,12 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Charge Disc Damage Up
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = Self / 3 Turns / V / 40%
-| Magia 2 / 2 = Self / 3 Turns / VII / 50%
+| Magia 2 / 1 = V / 40%
+| Magia 2 / 2 = VII / 50%
 | Magia effect 3 = Charged Attack Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / V / 15%
-| Magia 3 / 2 = Self / 3 Turns / VII / 20%
+| Magia 3 / 1 = V / 15%
+| Magia 3 / 2 = VII / 20%
 | Magia effect 4 = Chance to Defense Pierce
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = Self / 3 Turns / V / 30%
@@ -187,5 +187,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、靴
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Charge Disc Damage Up [IX / 60% / Self / 5 Turns] & Charged Attack Damage Up [IX / 35% / Self / 5 Turns] & Chance to Defense Pierce [IX / 50% / Self / 5 Turns] & Charge Conservation [IX / 100% / Self / 2 Turns]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Charge Disc Damage Up [IX / 60%] & Charged Attack Damage Up [IX / 35%] & Chance to Defense Pierce [IX / 50% / Self / 5 Turns] & Charge Conservation [IX / 100% / Self / 2 Turns]
 }}

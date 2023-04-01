@@ -111,14 +111,14 @@
 | Passive 8 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
 
 | Passive 9 icon = Chance to Anti-Magia Seal
-| Passive 9 name = Anti-Magia Seal
+| Passive 9 name = Anti-Seal Magia
 | Passive 9 name JP = アンチ・シールマギア
-| Passive 9 effect = Chance to Anti-Magia Seal [100%]
+| Passive 9 effect = Anti-Magia Seal
 
 | Passive 10 icon = MP Up When Attacked By Weak Element
 | Passive 10 name = Revenge Adept [XIV]
 | Passive 10 name JP = リベンジ・アデプト[XIV]
-| Passive 10 effect = MP Up When Attacked By Weak Element [XIV / 15%]
+| Passive 10 effect = MP Up When Attacked By Weak Element [XIV / 15 MP]
 
 | Passive 11 icon = Magia Damage Up
 | Passive 11 name = Magia Adept [II]
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Charged Attack Received Damage Up
-| Active 1 name = Chargeフォール [V]
+| Active 1 name = Charge Fall [V]
 | Active 1 name JP = チャージフォール[Ⅴ]
-| Active 1 effect = Charged Attack Received Damage Up [V / 5%] (One / 3 Turns) & Defense Down [V / 25%] (One / 3 Turns)
+| Active 1 effect = Charged Attack Received Damage Up [V / 5%] & Defense Down [V / 25%] (Target / 3 Turns)
 | Active 1 cooldown = 8
 
 | Connect name JP = やる気スイッチここかな？
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 25%
 | Connect 2 / 2 = IX / 30%
 | Connect effect 3 = Charge Disc Damage Up
-| Connect 3 / 1 = VII / 35%
-| Connect 3 / 2 = IX / 40%
+| Connect 3 / 1 = Self / 1 Turn / VII / 35%
+| Connect 3 / 2 = Self / 1 Turn / IX / 40%
 
 | Magia name JP = ハイメガキャンサー
 | Magia name EN = 
@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Charge Conservation
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 2 Turns / V / 100%
-| Magia 2 / 2 = All / 2 Turns / VII / 100%
+| Magia 2 / 1 = Allies / 2 Turns / V / 100%
+| Magia 2 / 2 = Allies / 2 Turns / VII / 100%
 | Magia effect 3 = Light Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 27.5%
-| Magia 3 / 2 = All / 3 Turns / VII / 30%
+| Magia 3 / 1 = Allies / 3 Turns / V / 27.5%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 30%
 | Magia effect 4 = Remove Debuffs
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / %
-| Magia 4 / 2 = All / %
+| Magia 4 / 1 = Allies / 
+| Magia 4 / 2 = Allies / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Charge Conservation [IX / 100% / All / 2 Turns] & Attack Up [IX / 30% / All / 5 Turns] & Light Attribute Attack Up [IX / 45% / All / 5 Turns] & Remove Debuffs [% / All]
+| Doppel effect = Damage All Enemies [IX / 902%] & Charge Conservation [IX / 100% / Allies / 2 Turns] & Attack Up [IX / 30%] & Light Attribute Attack Up [IX / 45% / Allies / 5 Turns] & Remove Debuffs [Allies]
 }}

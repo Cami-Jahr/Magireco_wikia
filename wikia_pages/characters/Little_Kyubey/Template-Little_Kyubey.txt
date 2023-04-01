@@ -93,7 +93,7 @@
 | Passive 5 icon = Blast MP Gain Up
 | Passive 5 name = Blast Salutation [II]
 | Passive 5 name JP = ブラストサルテーション[Ⅱ]
-| Passive 5 effect = Blast MP Gain Up [II / 2%]
+| Passive 5 effect = Blast MP Gain Up [II / 2 MP]
 
 | Passive 6 icon = Doppel Damage Up
 | Passive 6 name = Doppel Adept [I]
@@ -103,7 +103,7 @@
 | Passive 7 icon = Blast MP Gain Up
 | Passive 7 name = Blast Salutation [III]
 | Passive 7 name JP = ブラストサルテーション[Ⅲ]
-| Passive 7 effect = Blast MP Gain Up [III / 3%]
+| Passive 7 effect = Blast MP Gain Up [III / 3 MP]
 
 | Passive 8 icon = Damage Cut
 | Passive 8 name = Shield Adept [II]
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Blast Damage Up
-| Active 1 name = ヴァリアブルBoost [VI]
+| Active 1 name = Variable Boost [VI]
 | Active 1 name JP = ヴァリアブルブースト[Ⅵ]
-| Active 1 effect = Blast Damage Up [VI / 35%] (Self / 1 Turn) & Imitate Attribute [VI / 100%] (Self / 1 Turn)
+| Active 1 effect = Blast Damage Up [VI / 35%] & Imitate Attribute [VI / 100%] (Self / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = モッキュ、モキューイ！
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Blast Damage Up
-| Connect 2 / 1 = VII / 70%
-| Connect 2 / 2 = IX / 80%
+| Connect 2 / 1 = Self / 1 Turn / VII / 70%
+| Connect 2 / 2 = Self / 1 Turn / IX / 80%
 | Connect effect 3 = HP Restore
 | Connect 3 / 1 = VII / 45%
 | Connect 3 / 2 = IX / 50%
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Defense Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 15%
-| Magia 2 / 2 = All / 3 Turns / VII / 20%
+| Magia 2 / 1 = All Enemies / 3 Turns / V / 15%
+| Magia 2 / 2 = All Enemies / 3 Turns / VII / 20%
 | Magia effect 3 = Damage Cut
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 30%
-| Magia 3 / 2 = All / 3 Turns / VII / 35%
+| Magia 3 / 1 = Allies / 3 Turns / V / 30%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 35%
 | Magia effect 4 = Imitate Attribute
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = Self / 3 Turns / V / 100%
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Defense Down [IX / 35% / All / 3 Turns] & Damage Cut [IX / 50% / All / 3 Turns] & Imitate Attribute [IX / 100% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Defense Down [IX / 35% / All Enemies / 3 Turns] & Damage Cut [IX / 50% / Allies / 3 Turns] & Imitate Attribute [IX / 100% / Self / 3 Turns]
 }}

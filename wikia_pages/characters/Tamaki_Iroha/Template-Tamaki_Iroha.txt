@@ -71,7 +71,7 @@
 | se charge bonus = 5
 
 | Passive 1 icon = Regenerate HP
-| Passive 1 name = Regeneration Adept [II]
+| Passive 1 name = Regenerate Adept [II]
 | Passive 1 name JP = リジェネレイト・アデプト[Ⅱ]
 | Passive 1 effect = Regenerate HP [II / 3%]
 
@@ -101,7 +101,7 @@
 | Passive 6 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 7 icon = Regenerate HP
-| Passive 7 name = Regeneration Adept [III]
+| Passive 7 name = Regenerate Adept [III]
 | Passive 7 name JP = リジェネレイト・アデプト[Ⅲ]
 | Passive 7 effect = Regenerate HP [III / 4%]
 
@@ -128,7 +128,7 @@
 | Passive 12 icon = Chance to Anti-Skill Seal
 | Passive 12 name = Anti-Jammer
 | Passive 12 name JP = アンチ・ジャマ―
-| Passive 12 effect = Chance to Anti-Skill Seal [100%]
+| Passive 12 effect = Anti-Skill Seal
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -138,7 +138,7 @@
 | Active 1 icon = Remove Status Ailments
 | Active 1 name = Restore Health
 | Active 1 name JP = レストア・ヘルス
-| Active 1 effect = Remove Status Ailments [%] (One)
+| Active 1 effect = Remove Status Ailments (One Ally)
 | Active 1 cooldown = 10
 
 | Connect name JP = 一緒にいるから大丈夫だよ
@@ -162,7 +162,7 @@
 | Connect 3 / 2 = -
 | Connect 3 / 3 = -
 | Connect 3 / 4 = -
-| Connect 3 / 5 = VI / 32.5%
+| Connect 3 / 5 = Self / 1 Turn / VI / 32.5%
 
 | Magia name JP = ストラーダ・フトゥーロ
 | Magia name EN = 
@@ -188,7 +188,7 @@
 | Magia 3 / 2 = -
 | Magia 3 / 3 = -
 | Magia 3 / 4 = -
-| Magia 3 / 5 = All / VI / 20%
+| Magia 3 / 5 = Allies / VI / 20%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -196,5 +196,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、呼子鳥
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [VIII / 880%] & HP Restore [VIII / 28% / All] & Remove Status Ailments [% / All] & Revive one Ally [54%]
+| Doppel effect = Damage All Enemies [VIII / 880%] & HP Restore [VIII / 28%] & Remove Status Ailments [Allies] & Revive one Ally [54%]
 }}

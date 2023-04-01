@@ -113,12 +113,12 @@
 | Passive 9 icon = Chance to Anti-Stun
 | Passive 9 name = Anti-Stun
 | Passive 9 name JP = アンチ・スタン
-| Passive 9 effect = Chance to Anti-Stun [100%]
+| Passive 9 effect = Anti-Stun
 
 | Passive 10 icon = Blast MP Gain Up
 | Passive 10 name = Blast Salutation [V]
 | Passive 10 name JP = ブラストサルテーション[Ⅴ]
-| Passive 10 effect = Blast MP Gain Up [V / 5%]
+| Passive 10 effect = Blast MP Gain Up [V / 5 MP]
 
 | Passive 11 icon = MP Gauge Increased On Battle Start
 | Passive 11 name = Fast Mana Up
@@ -126,7 +126,7 @@
 | Passive 11 effect = MP Gauge Increased On Battle Start [10% full]
 
 | Passive 12 icon = Regenerate HP
-| Passive 12 name = Mana SpringAura [XV]
+| Passive 12 name = Mana Spring Aura [XV]
 | Passive 12 name JP = マナスプリングオーラ[XV]
 | Passive 12 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn)
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Blast Draw
-| Active 1 name = Blastドロー
+| Active 1 name = Blast Draw
 | Active 1 name JP = ブラストドロー
-| Active 1 effect = Blast Draw [100%]
+| Active 1 effect = Blast Draw
 | Active 1 cooldown = 5
 
 | Connect name JP = 一緒に乗ってみる？
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VIII / 37.5%
 | Connect 1 / 2 = X / 42.5%
 | Connect effect 2 = Dark Attribute Attack Up
-| Connect 2 / 1 = VIII / 22.5%
-| Connect 2 / 2 = X / 27.5%
+| Connect 2 / 1 = Self / 1 Turn / VIII / 22.5%
+| Connect 2 / 2 = Self / 1 Turn / X / 27.5%
 
 | Magia name JP = パドリング・オンラッシュ
 | Magia name EN = 
@@ -162,12 +162,12 @@
 | Magia 1 / 2 = VII / 291%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / V / 20%
-| Magia 2 / 2 = Self / 3 Turns / VII / 30%
+| Magia 2 / 1 = V / 20%
+| Magia 2 / 2 = VII / 30%
 | Magia effect 3 = Dark Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / V / 5%
-| Magia 3 / 2 = Self / 3 Turns / VII / 10%
+| Magia 3 / 1 = V / 5%
+| Magia 3 / 2 = VII / 10%
 | Magia effect 4 = Regenerate MP
 | Magia scaling 4 = 1%
 | Magia 4 / 1 = Self / 3 Turns / V / 4.5 MP
@@ -179,5 +179,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ヨダカ
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage 5 Random Enemies [IX / 638%] & Attack Up [IX / 50% / Self / 5 Turns] & Dark Attribute Attack Up [IX / 25% / Self / 5 Turns] & Regenerate MP [IX / 16 MP / Self / 3 Turns] & Blast MP Gain Up [IX / 5% / Self / 3 Turns]
+| Doppel effect = Damage 5 Random Enemies [IX / 638%] & Attack Up [IX / 50%] & Dark Attribute Attack Up [IX / 25% / Self / 5 Turns] & Regenerate MP [IX / 16 MP] & Blast MP Gain Up [IX / 5 MP / Self / 3 Turns]
 }}

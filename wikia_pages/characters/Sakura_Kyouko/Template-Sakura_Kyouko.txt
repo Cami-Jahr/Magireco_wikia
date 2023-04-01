@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 70%
 | Connect 1 / 2 = IX / 80%
 | Connect effect 2 = Damage Cut
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
 
 | Magia name JP = 盟神抉槍（くがたち）
 | Magia name EN = 
@@ -167,7 +167,7 @@
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = All / 3 Turns / VII / 45%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 45%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -175,5 +175,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、武旦
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 869%] & Blast Damage Up [IX / 65% / All / 3 Turns] & Attack Up [IX / 55% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 869%] & Blast Damage Up [IX / 65% / Allies / 3 Turns] & Attack Up [IX / 55% / Self / 3 Turns]
 }}

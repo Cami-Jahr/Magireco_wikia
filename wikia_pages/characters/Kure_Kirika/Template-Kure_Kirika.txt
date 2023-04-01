@@ -88,7 +88,7 @@
 | Passive 4 icon = Endure
 | Passive 4 name = Fortitude Adept
 | Passive 4 name JP = フォティチュード・アデプト
-| Passive 4 effect = Endure [100%]
+| Passive 4 effect = Endure
 
 | Passive 5 icon = Damage Cut
 | Passive 5 name = Shield Adept [II]
@@ -121,7 +121,7 @@
 | Passive 10 effect = MP Gain Up [III / 10%]
 
 | Passive 11 icon = Blast Damage Cut
-| Passive 11 name = BlastShield [IV]
+| Passive 11 name = Blast Shield [IV]
 | Passive 11 name JP = ブラストシールド[Ⅳ]
 | Passive 11 effect = Blast Damage Cut [IV / 20%]
 
@@ -145,15 +145,15 @@
 | Connect name EN = 
 | Connect name NA = 
 | Connect icon = Chance to Counter
-| Connect effect 1 = Chance to Counter
-| Connect 1 / 1 = V / 100%
-| Connect 1 / 2 = VII / 100%
-| Connect effect 2 = Chance to Provoke
-| Connect 2 / 1 = V / 100%
-| Connect 2 / 2 = VII / 100%
+| Connect effect 1 = Counter
+| Connect 1 / 1 = 
+| Connect 1 / 2 = 
+| Connect effect 2 = Provoke
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
 | Connect effect 3 = Defense Up
-| Connect 3 / 1 = V / 75%
-| Connect 3 / 2 = VII / 90%
+| Connect 3 / 1 = Self / 1 Turn / V / 75%
+| Connect 3 / 2 = Self / 1 Turn / VII / 90%
 
 | Magia name JP = ヴァンパイアファング
 | Magia name EN = 
@@ -163,14 +163,18 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
-| Magia effect 2 = Chance to Provoke
+| Magia effect 2 = Provoke
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = Self / 1 Turn / V / 100%
-| Magia 2 / 2 = Self / 1 Turn / VII / 100%
-| Magia effect 3 = Chance to Counter
+| Magia 2 / 1 = 
+| Magia 2 / 2 = 
+| Magia effect 3 = Counter
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = Self / 1 Turn / V / 35%
-| Magia 3 / 2 = Self / 1 Turn / VII / 100%
+| Magia 3 / 1 = -
+| Magia 3 / 2 = Self / 1 Turn / 
+| Magia effect 4 = Chance to Counter
+| Magia scaling 4 = 0%
+| Magia 4 / 1 = Self / 1 Turn / V / 35%
+| Magia 4 / 2 = -
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、針
 | Doppel Japanese Designer = 原案・監修：ムラ黒江
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Chance to Provoke [IX / 100% / Self / 1 Turn] & Chance to Counter [IX / 100% / Self / 1 Turn]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Provoke [] & Counter [Self / 1 Turn]
 }}

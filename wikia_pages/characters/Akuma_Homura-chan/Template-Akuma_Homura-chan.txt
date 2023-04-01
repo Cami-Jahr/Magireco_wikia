@@ -106,19 +106,19 @@
 | Passive 7 effect = Status Ailment Resistance Up [II / 25%]
 
 | Passive 8 icon = Dark Attribute Attack Up
-| Passive 8 name = ダーク Adept [II]
+| Passive 8 name = Dark Adept [II]
 | Passive 8 name JP = ダーク・アデプト[Ⅱ]
 | Passive 8 effect = Dark Attribute Attack Up [II / 7.5%]
 
 | Passive 9 icon = Chance to Anti-Magia Seal
-| Passive 9 name = Anti-Magia Seal
+| Passive 9 name = Anti-Seal Magia
 | Passive 9 name JP = アンチ・シールマギア
-| Passive 9 effect = Chance to Anti-Magia Seal [100%]
+| Passive 9 effect = Anti-Magia Seal
 
 | Passive 10 icon = Blast MP Gain Up
 | Passive 10 name = Blast Salutation [V]
 | Passive 10 name JP = ブラストサルテーション[Ⅴ]
-| Passive 10 effect = Blast MP Gain Up [V / 5%]
+| Passive 10 effect = Blast MP Gain Up [V / 5 MP]
 
 | Passive 11 icon = MP Gauge Increased On Battle Start
 | Passive 11 name = Fast Mana Up
@@ -126,9 +126,9 @@
 | Passive 11 effect = MP Gauge Increased On Battle Start [20% full]
 
 | Passive 12 icon = Chance to Skill Quicken
-| Passive 12 name = Skill QuickenAura
+| Passive 12 name = Skill Quicken Aura
 | Passive 12 name JP = スキルクイックオーラ
-| Passive 12 effect = Chance to Skill Quicken [100%] (Self / 1 Turn)
+| Passive 12 effect = Skill Quicken (Self / 1 Turn)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,27 +136,27 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Damage Down
-| Active 1 name = コラプス [V]
+| Active 1 name = Collapse [V]
 | Active 1 name JP = コラプス[Ⅴ]
-| Active 1 effect = Damage Down [V / 25%] (All / 3 Turns) & MP Gain Down [VI / 35%] (All / 3 Turns) & Accele MP Gain Down [V / 15%] (All / 3 Turns)
+| Active 1 effect = Damage Down [V / 25%] & MP Gain Down [VI / 35%] & Accele MP Gain Down [V / 15%] (All Enemies / 3 Turns)
 | Active 1 cooldown = 12
 
 | Connect name JP = ズルをしましょうか
 | Connect name EN = 
 | Connect name NA = 
 | Connect icon = Chance to Evade
-| Connect effect 1 = Chance to Evade
-| Connect 1 / 1 = 100%
-| Connect 1 / 2 = 100%
-| Connect effect 2 = Chance to Provoke
-| Connect 2 / 1 = 100%
-| Connect 2 / 2 = 100%
+| Connect effect 1 = Evade
+| Connect 1 / 1 = 
+| Connect 1 / 2 = 
+| Connect effect 2 = Provoke
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
 | Connect effect 3 = Endure
-| Connect 3 / 1 = 100%
-| Connect 3 / 2 = 100%
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 | Connect effect 4 = Negate Status Ailments
-| Connect 4 / 1 = 100%
-| Connect 4 / 2 = 100%
+| Connect 4 / 1 = Self / 1 Turn / 1 Status Ailment
+| Connect 4 / 2 = Self / 1 Turn / 2 Status Ailments
 
 | Magia name JP = あの右上のボタンを押すわ
 | Magia name EN = 
@@ -168,28 +168,28 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Damage Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 27.5%
-| Magia 2 / 2 = All / 3 Turns / VII / 32.5%
+| Magia 2 / 1 = V / 27.5%
+| Magia 2 / 2 = VII / 32.5%
 | Magia effect 3 = MP Gain Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 40%
-| Magia 3 / 2 = All / 3 Turns / VII / 50%
-| Magia effect 4 = Chance to Dazzle
+| Magia 3 / 1 = All Enemies / 3 Turns / V / 40%
+| Magia 3 / 2 = All Enemies / 3 Turns / VII / 50%
+| Magia effect 4 = Dazzle
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / 2 Turns / V / 100%
-| Magia 4 / 2 = All / 2 Turns / VII / 100%
-| Magia effect 5 = Chance to Magia Seal
+| Magia 4 / 1 = 
+| Magia 4 / 2 = 
+| Magia effect 5 = Magia Seal
 | Magia scaling 5 = 0%
-| Magia 5 / 1 = All / 2 Turns / V / 100%
-| Magia 5 / 2 = All / 2 Turns / VII / 100%
+| Magia 5 / 1 = All Enemies / 2 Turns / 
+| Magia 5 / 2 = All Enemies / 2 Turns / 
 | Magia effect 6 = MP Damage
 | Magia scaling 6 = 0%
-| Magia 6 / 1 = All / V / 35 MP
-| Magia 6 / 2 = All / VII / 40 MP
-| Magia effect 7 = Chance to Skill Quicken
+| Magia 6 / 1 = All Enemies / V / 35 MP
+| Magia 6 / 2 = All Enemies / VII / 40 MP
+| Magia effect 7 = Skill Quicken
 | Magia scaling 7 = 0%
-| Magia 7 / 1 = Self / 1 Turn / V / 100%
-| Magia 7 / 2 = Self / 1 Turn / VII / 100%
+| Magia 7 / 1 = Self / 1 Turn / 
+| Magia 7 / 2 = Self / 1 Turn / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -197,5 +197,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Damage Down [IX / 42.5% / All / 5 Turns] & MP Gain Down [IX / 60% / All / 5 Turns] & Chance to Dazzle [IX / 100% / All / 3 Turns] & Chance to Magia Seal [IX / 100% / All / 3 Turns] & MP Damage [IX / 60 MP / All] & Chance to Skill Quicken [IX / 100% / All / 1 Turn]
+| Doppel effect = Damage All Enemies [IX / 902%] & Damage Down [IX / 42.5%] & MP Gain Down [IX / 60% / All Enemies / 5 Turns] & Dazzle [] & Magia Seal [All Enemies / 3 Turns] & MP Damage [IX / 60 MP / All Enemies] & Skill Quicken [Allies / 1 Turn]
 }}

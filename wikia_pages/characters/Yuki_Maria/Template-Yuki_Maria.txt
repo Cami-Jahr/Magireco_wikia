@@ -113,7 +113,7 @@
 | Passive 9 icon = Chance to Anti-Bind
 | Passive 9 name = Anti-Bind
 | Passive 9 name JP = アンチ・バインド
-| Passive 9 effect = Chance to Anti-Bind [100%]
+| Passive 9 effect = Anti-Bind
 
 | Passive 10 icon = Magia Damage Up
 | Passive 10 name = Magia Adept [III]
@@ -126,7 +126,7 @@
 | Passive 11 effect = Chance to Bind on Attack [II / 15%] (1 Turn)
 
 | Passive 12 icon = Regenerate HP
-| Passive 12 name = Regeneration Adept [III]
+| Passive 12 name = Regenerate Adept [III]
 | Passive 12 name JP = リジェネレイト・アデプト[Ⅲ]
 | Passive 12 effect = Regenerate HP [III / 4%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Magia Damage Up
 | Active 1 name = Reinforce [IV]
 | Active 1 name JP = リーンホース[Ⅳ]
-| Active 1 effect = Magia Damage Up [IV / 12.5%] (Self / 1 Turn) & Attack Up [II / 10%] (Self / 1 Turn)
+| Active 1 effect = Magia Damage Up [IV / 12.5%] & Attack Up [II / 10%] (Self / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = 頑張れたら褒めてあげる
@@ -148,9 +148,9 @@
 | Connect effect 1 = HP Restore
 | Connect 1 / 1 = V / 40%
 | Connect 1 / 2 = VII / 45%
-| Connect effect 2 = Chance to Bind on Attack
-| Connect 2 / 1 = V / 100%
-| Connect 2 / 2 = VII / 100%
+| Connect effect 2 = Bind on Attack
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
 
 | Magia name JP = 優しくお仕置き
 | Magia name EN = 
@@ -162,12 +162,12 @@
 | Magia 1 / 2 = V / 864%
 | Magia effect 2 = HP Restore
 | Magia scaling 2 = 2%
-| Magia 2 / 1 = All / III / 17.5%
-| Magia 2 / 2 = All / V / 20%
+| Magia 2 / 1 = III / 17.5%
+| Magia 2 / 2 = V / 20%
 | Magia effect 3 = Remove Status Ailments
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / %
-| Magia 3 / 2 = All / %
+| Magia 3 / 1 = Allies / 
+| Magia 3 / 2 = Allies / 
 
 | Doppel Name = 
 | Doppel Title = 

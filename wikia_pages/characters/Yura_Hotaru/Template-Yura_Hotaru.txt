@@ -81,7 +81,7 @@
 | Passive 2 effect = Accele MP Gain Up [II / 12.5%]
 
 | Passive 3 icon = Forest Attribute Damage Cut
-| Passive 3 name = ティンバーShield Adept [III]
+| Passive 3 name = Timber Shield Adept [III]
 | Passive 3 name JP = ティンバーシールド・アデプト[Ⅲ]
 | Passive 3 effect = Forest Attribute Damage Cut [III / 15%]
 
@@ -96,7 +96,7 @@
 | Passive 5 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 6 icon = Regenerate HP
-| Passive 6 name = Regeneration Adept [III]
+| Passive 6 name = Regenerate Adept [III]
 | Passive 6 name JP = リジェネレイト・アデプト[Ⅲ]
 | Passive 6 effect = Regenerate HP [III / 4%]
 
@@ -146,8 +146,8 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = V / 30%
-| Connect 1 / 2 = VII / 35%
+| Connect 1 / 1 = Self / 1 Turn / V / 30%
+| Connect 1 / 2 = Self / 1 Turn / VII / 35%
 | Connect effect 2 = HP Restore
 | Connect 2 / 1 = V / 40%
 | Connect 2 / 2 = VII / 45%
@@ -162,12 +162,12 @@
 | Magia 1 / 2 = V / 340%
 | Magia effect 2 = Regenerate HP
 | Magia scaling 2 = 1%
-| Magia 2 / 1 = All / 3 Turns / III / 5%
-| Magia 2 / 2 = All / 3 Turns / V / 7%
+| Magia 2 / 1 = III / 5%
+| Magia 2 / 2 = V / 7%
 | Magia effect 3 = Regenerate MP
 | Magia scaling 3 = 0.5%
-| Magia 3 / 1 = All / 3 Turns / III / 5 MP
-| Magia 3 / 2 = All / 3 Turns / V / 7 MP
+| Magia 3 / 1 = Allies / 3 Turns / III / 5 MP
+| Magia 3 / 2 = Allies / 3 Turns / V / 7 MP
 
 | Doppel Name = 
 | Doppel Title = 

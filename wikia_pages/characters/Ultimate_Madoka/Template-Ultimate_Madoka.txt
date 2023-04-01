@@ -121,12 +121,12 @@
 | Passive 10 effect = Damage Up Versus Witches [III / 15%]
 
 | Passive 11 icon = Flame Attribute Damage Cut
-| Passive 11 name = エナジーShield Adept [III]
+| Passive 11 name = Energy Shield Adept [III]
 | Passive 11 name JP = エナジーシールド・アデプト[Ⅲ]
 | Passive 11 effect = Flame Attribute Damage Cut [III / 15%] & Aqua Attribute Damage Cut [III / 15%] & Forest Attribute Damage Cut [III / 15%]
 
 | Passive 12 icon = Regenerate HP
-| Passive 12 name = ナーシングケア [III]
+| Passive 12 name = Nursing Care [III]
 | Passive 12 name JP = ナーシングケア[Ⅲ]
 | Passive 12 effect = Regenerate HP [III / 4%] & Regenerate MP [III / 6 MP]
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Blast Damage Up
-| Active 1 name = オールディスク Circle [VII]
+| Active 1 name = All-Disc Circle [VII]
 | Active 1 name JP = オールディスク・サークル[Ⅶ]
-| Active 1 effect = Blast Damage Up [VII / 15.5%] (All / 3 Turns) & Charged Attack Damage Up [VII / 14%] (All / 3 Turns) & Accele MP Gain Up [VII / 15%] (All / 3 Turns)
+| Active 1 effect = Blast Damage Up [VII / 15.5%] & Charged Attack Damage Up [VII / 14%] & Accele MP Gain Up [VII / 15%] (Allies / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = 待たせちゃってごめんね
@@ -152,11 +152,11 @@
 | Connect 2 / 1 = VII / 100%
 | Connect 2 / 2 = IX / 100%
 | Connect effect 3 = Survive
-| Connect 3 / 1 = VII / 20%
-| Connect 3 / 2 = IX / 20%
+| Connect 3 / 1 = Self / 1 Turn / VII / 20%
+| Connect 3 / 2 = Self / 1 Turn / IX / 20%
 | Connect effect 4 = Remove Status Ailments
-| Connect 4 / 1 = %
-| Connect 4 / 2 = %
+| Connect 4 / 1 = Self / 
+| Connect 4 / 2 = Self / 
 
 | Magia name JP = もう絶望する必要なんてない！
 | Magia name EN = 
@@ -168,24 +168,24 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 25%
-| Magia 2 / 2 = All / 3 Turns / VII / 30%
+| Magia 2 / 1 = V / 25%
+| Magia 2 / 2 = VII / 30%
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 15%
-| Magia 3 / 2 = All / 3 Turns / VII / 25%
+| Magia 3 / 1 = V / 15%
+| Magia 3 / 2 = VII / 25%
 | Magia effect 4 = Charged Attack Damage Up
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = All / 3 Turns / V / 15%
-| Magia 4 / 2 = All / 3 Turns / VII / 20%
+| Magia 4 / 1 = V / 15%
+| Magia 4 / 2 = VII / 20%
 | Magia effect 5 = Accele MP Gain Up
 | Magia scaling 5 = 2.5%
-| Magia 5 / 1 = All / 3 Turns / V / 15%
-| Magia 5 / 2 = All / 3 Turns / VII / 20%
+| Magia 5 / 1 = V / 15%
+| Magia 5 / 2 = VII / 20%
 | Magia effect 6 = Damage Cut
 | Magia scaling 6 = 2.5%
-| Magia 6 / 1 = All / 3 Turns / V / 25%
-| Magia 6 / 2 = All / 3 Turns / VII / 35%
+| Magia 6 / 1 = Allies / 3 Turns / V / 25%
+| Magia 6 / 2 = Allies / 3 Turns / VII / 35%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -193,5 +193,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ー
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 45% / All / 3 Turns] & Blast Damage Up [IX / 45% / All / 3 Turns] & Charged Attack Damage Up [IX / 35% / All / 3 Turns] & Accele MP Gain Up [IX / 35% / All / 3 Turns] & Damage Cut [IX / 50% / All / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 45%] & Blast Damage Up [IX / 45%] & Charged Attack Damage Up [IX / 35%] & Accele MP Gain Up [IX / 35%] & Damage Cut [IX / 50% / Allies / 3 Turns]
 }}

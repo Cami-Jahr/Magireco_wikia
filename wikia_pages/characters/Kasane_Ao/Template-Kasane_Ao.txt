@@ -126,19 +126,19 @@
 | Passive 11 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 12 icon = Chance to Anti-Magia Seal
-| Passive 12 name = Anti-Magia Seal
+| Passive 12 name = Anti-Seal Magia
 | Passive 12 name JP = アンチ・シールマギア
-| Passive 12 effect = Chance to Anti-Magia Seal [100%]
+| Passive 12 effect = Anti-Magia Seal
 
 | Passive 13 icon = Chance to Skill Quicken
-| Passive 13 name = Skill Quicken [III]
+| Passive 13 name = Skill Quick [III]
 | Passive 13 name JP = スキルクイック[Ⅲ]
 | Passive 13 effect = Chance to Skill Quicken [III / 15%]
 
 | Active 1 icon = Defense Down
 | Active 1 name = Aqua Fall [III]
 | Active 1 name JP = アクアフォール[Ⅲ]
-| Active 1 effect = Defense Down [III / 15%] (One / 3 Turns) & Aqua Defense Down [III / 18%] (One / 3 Turns)
+| Active 1 effect = Defense Down [III / 15%] & Aqua Defense Down [III / 18%] (Target / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = プレイヤー２参戦！
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = MP Restore
 | Connect 2 / 1 = IV / 20 MP
 | Connect 2 / 2 = VI / 25 MP
 | Connect effect 3 = Remove Debuffs
-| Connect 3 / 1 = %
-| Connect 3 / 2 = %
+| Connect 3 / 1 = Self / 
+| Connect 3 / 2 = Self / 
 
 | Magia name JP = 超必・ソニックエッジNo.Ⅵ
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VIII / 1184%
 | Magia effect 2 = Remove Buffs
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = One / %
-| Magia 2 / 2 = One / %
+| Magia 2 / 1 = Target / 
+| Magia 2 / 2 = Target / 
 | Magia effect 3 = Damage Increase
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / VI / 27.5%
-| Magia 3 / 2 = All / 3 Turns / VIII / 32.5%
+| Magia 3 / 1 = Allies / 3 Turns / VI / 27.5%
+| Magia 3 / 2 = Allies / 3 Turns / VIII / 32.5%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、叢雲
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [X / 2833.6%] & Remove Buffs [% / One] & Damage Increase [X / 47.5% / All / 3 Turns]
+| Doppel effect = Damage One Enemy [X / 2833.6%] & Remove Buffs [Target] & Damage Increase [X / 47.5% / Allies / 3 Turns]
 }}

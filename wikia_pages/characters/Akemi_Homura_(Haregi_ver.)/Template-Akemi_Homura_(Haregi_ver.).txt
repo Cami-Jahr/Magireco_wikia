@@ -81,7 +81,7 @@
 | Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 3 icon = Blast Damage Up
-| Passive 3 name = Full Burst Adept [II]
+| Passive 3 name = Full Blast Adept [II]
 | Passive 3 name JP = フルバースト・アデプト[Ⅱ]
 | Passive 3 effect = Blast Damage Up [II / 16.5%] & Accele MP Gain Up [II / 12.5%]
 
@@ -101,29 +101,29 @@
 | Passive 6 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
 
 | Passive 7 icon = Negate Status Ailments
-| Passive 7 name = ResistShield
+| Passive 7 name = Resist Shield
 | Passive 7 name JP = レジストシールド
-| Passive 7 effect = Negate Status Ailments [100%]
+| Passive 7 effect = Negate Status Ailments [1 Status Ailment]
 
 | Passive 8 icon = Dark Attribute Attack Up
-| Passive 8 name = ダーク Adept [II]
+| Passive 8 name = Dark Adept [II]
 | Passive 8 name JP = ダーク・アデプト[Ⅱ]
 | Passive 8 effect = Dark Attribute Attack Up [II / 7.5%]
 
 | Passive 9 icon = Chance to Anti-Charm
 | Passive 9 name = Anti-Charm
 | Passive 9 name JP = アンチ・チャーム
-| Passive 9 effect = Chance to Anti-Charm [100%]
+| Passive 9 effect = Anti-Charm
 
 | Passive 10 icon = Blast MP Gain Up
 | Passive 10 name = Blast Salutation [V]
 | Passive 10 name JP = ブラストサルテーション[Ⅴ]
-| Passive 10 effect = Blast MP Gain Up [V / 5%]
+| Passive 10 effect = Blast MP Gain Up [V / 5 MP]
 
 | Passive 11 icon = MP Up When Attacked By Weak Element
 | Passive 11 name = Revenge Adept [X]
 | Passive 11 name JP = リベンジ・アデプト[Ⅹ]
-| Passive 11 effect = MP Up When Attacked By Weak Element [X / 11%]
+| Passive 11 effect = MP Up When Attacked By Weak Element [X / 11 MP]
 
 | Passive 12 icon = MP Gauge Increased On Battle Start
 | Passive 12 name = Fast Mana Up
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Extend Buffs
-| Active 1 name = 永遠の刻
+| Active 1 name = Time of Eternity
 | Active 1 name JP = 永遠の刻
-| Active 1 effect = Extend Buffs [0.1%] (All) & Extend Debuffs [0.1%] (All)
+| Active 1 effect = Extend Buffs [0.1%] (Allies) & Extend Debuffs [0.1%] (All Enemies)
 | Active 1 cooldown = 13
 
 | Connect name JP = あなたに預けるわ
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = I / 20%
 | Connect 2 / 2 = III / 25%
 | Connect effect 3 = Dark Attribute Attack Up
-| Connect 3 / 1 = I / 5%
-| Connect 3 / 2 = III / 10%
+| Connect 3 / 1 = Self / 1 Turn / I / 5%
+| Connect 3 / 2 = Self / 1 Turn / III / 10%
 
 | Magia name JP = 魔力杵による打擲攻撃
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Defense Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 15%
-| Magia 2 / 2 = All / 3 Turns / VII / 20%
+| Magia 2 / 1 = All Enemies / 3 Turns / V / 15%
+| Magia 2 / 2 = All Enemies / 3 Turns / VII / 20%
 | Magia effect 3 = Dark Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / V / 10%
-| Magia 3 / 2 = Self / 3 Turns / VII / 15%
+| Magia 3 / 1 = V / 10%
+| Magia 3 / 2 = VII / 15%
 | Magia effect 4 = Damage Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Self / 3 Turns / V / 5%
@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、宝船
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 869%] & Defense Down [IX / 45% / All / 3 Turns] & Dark Attribute Attack Up [IX / 30% / All / 3 Turns] & Damage Up [IX / 40% / Self / 3 Turns] & MP Restore [IX / 19 MP / All]
+| Doppel effect = Damage All Enemies [IX / 869%] & Defense Down [IX / 45% / All Enemies / 3 Turns] & Dark Attribute Attack Up [IX / 30% / Allies / 3 Turns] & Damage Up [IX / 40% / Self / 3 Turns] & MP Restore [IX / 19 MP / Allies]
 }}

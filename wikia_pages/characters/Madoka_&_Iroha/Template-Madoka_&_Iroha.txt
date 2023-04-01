@@ -111,14 +111,14 @@
 | Passive 8 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 9 icon = Accele MP Gain Up
-| Passive 9 name = オールディスクAura [III]
+| Passive 9 name = All Disc Aura [III]
 | Passive 9 name JP = オールディスクオーラ[Ⅲ]
-| Passive 9 effect = Accele MP Gain Up [III / 15%] (All / 5 Turns) & Charged Attack Damage Up [III / 15%] (All / 5 Turns) & Blast Damage Up [III / 25%] (All / 5 Turns)
+| Passive 9 effect = Accele MP Gain Up [III / 15%] & Charged Attack Damage Up [III / 15%] & Blast Damage Up [III / 25%] (Allies / 5 Turns)
 
 | Passive 10 icon = Negate Status Ailments
-| Passive 10 name = アンチマジックAura
+| Passive 10 name = Anti-Magic Aura
 | Passive 10 name JP = アンチマジックオーラ
-| Passive 10 effect = Negate Status Ailments [100%] (All / 5 Turns) & Anti-Debuff [2 Debuffs] (All / 5 Turns)
+| Passive 10 effect = Negate Status Ailments [2 Status Ailments] & Anti-Debuff [2 Debuffs] (Allies / 5 Turns)
 
 | Passive 11 icon = Status Ailment Resistance Up
 | Passive 11 name = Resist Adept [II]
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Accele Draw
-| Active 1 name = Acceleドロー
+| Active 1 name = Accele Draw
 | Active 1 name JP = アクセルドロー
-| Active 1 effect = Accele Draw [100%]
+| Active 1 effect = Accele Draw
 | Active 1 cooldown = 5
 
 | Connect name JP = ほら、希望の道へ！
@@ -146,8 +146,8 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = HP Restore
 | Connect 2 / 1 = VII / 45%
 | Connect 2 / 2 = IX / 50%
@@ -165,28 +165,28 @@
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = HP Restore
 | Magia scaling 2 = 2%
-| Magia 2 / 1 = All / V / 25%
-| Magia 2 / 2 = All / VII / 30%
+| Magia 2 / 1 = Allies / V / 25%
+| Magia 2 / 2 = Allies / VII / 30%
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 25%
-| Magia 3 / 2 = All / 3 Turns / VII / 30%
+| Magia 3 / 1 = V / 25%
+| Magia 3 / 2 = VII / 30%
 | Magia effect 4 = Charged Attack Damage Up
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = All / 3 Turns / V / 25%
-| Magia 4 / 2 = All / 3 Turns / VII / 30%
+| Magia 4 / 1 = V / 25%
+| Magia 4 / 2 = VII / 30%
 | Magia effect 5 = Accele MP Gain Up
 | Magia scaling 5 = 2.5%
-| Magia 5 / 1 = All / 3 Turns / V / 15%
-| Magia 5 / 2 = All / 3 Turns / VII / 20%
+| Magia 5 / 1 = V / 15%
+| Magia 5 / 2 = VII / 20%
 | Magia effect 6 = Anti-Debuff
 | Magia scaling 6 = 0%
-| Magia 6 / 1 = All / 3 Turns / 1 Debuff
-| Magia 6 / 2 = All / 3 Turns / 1 Debuff
+| Magia 6 / 1 = 1 Debuff
+| Magia 6 / 2 = 1 Debuff
 | Magia effect 7 = Barrier
 | Magia scaling 7 = 0%
-| Magia 7 / 1 = All / 3 Turns / V / 3000 damage
-| Magia 7 / 2 = All / 3 Turns / VII / 5000 damage
+| Magia 7 / 1 = Allies / 3 Turns / V / 3000 damage
+| Magia 7 / 2 = Allies / 3 Turns / VII / 5000 damage
 
 | Doppel Name = 
 | Doppel Title = 
@@ -194,5 +194,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 869%] & HP Restore [IX / 100% / All] & MP Restore [IX / 34 MP / All] & Blast Damage Up [IX / 50% / All / 5 Turns] & Charged Attack Damage Up [IX / 50% / All / 5 Turns] & Accele MP Gain Up [IX / 40% / All / 5 Turns] & Anti-Debuff [3 Debuffs / All / 5 Turns]
+| Doppel effect = Damage All Enemies [IX / 869%] & HP Restore [IX / 100%] & MP Restore [IX / 34 MP / Allies] & Blast Damage Up [IX / 50%] & Charged Attack Damage Up [IX / 50%] & Accele MP Gain Up [IX / 40%] & Anti-Debuff [3 Debuffs / Allies / 5 Turns]
 }}

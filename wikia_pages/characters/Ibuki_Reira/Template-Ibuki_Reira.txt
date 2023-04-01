@@ -136,14 +136,14 @@
 | Passive 13 effect = MP Gain Up [III / 10%]
 
 | Passive 14 icon = Forest Attribute Damage Cut
-| Passive 14 name = ティンバーShield Adept [III]
+| Passive 14 name = Timber Shield Adept [III]
 | Passive 14 name JP = ティンバーシールド・アデプト[Ⅲ]
 | Passive 14 effect = Forest Attribute Damage Cut [III / 15%]
 
 | Active 1 icon = Chance to Burn
-| Active 1 name = BurnGuard [V]
+| Active 1 name = Burn Guard [V]
 | Active 1 name JP = バーンガード[Ⅴ]
-| Active 1 effect = Chance to Burn [V / 100%] (One / 1 Turn) & Defense Up [V / 37.5%] (Self / 1 Turn)
+| Active 1 effect = Burn (Target / 1 Turn) & Defense Up [V / 37.5%] (Self / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = 気持ちを結ぼう！
@@ -154,11 +154,14 @@
 | Connect 1 / 1 = IV / 37.5%
 | Connect 1 / 2 = VI / 42.5%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = V / 30%
-| Connect 2 / 2 = VII / 35%
-| Connect effect 3 = Chance to Burn on Attack
-| Connect 3 / 1 = V / 60%
-| Connect 3 / 2 = VII / 100%
+| Connect 2 / 1 = Self / 1 Turn / V / 30%
+| Connect 2 / 2 = Self / 1 Turn / VII / 35%
+| Connect effect 3 = Burn on Attack
+| Connect 3 / 1 = -
+| Connect 3 / 2 = 
+| Connect effect 4 = Chance to Burn on Attack
+| Connect 4 / 1 = V / 60%
+| Connect 4 / 2 = -
 
 | Magia name JP = サークル・オブ・ファイア
 | Magia name EN = 
@@ -170,12 +173,12 @@
 | Magia 1 / 2 = V / 864%
 | Magia effect 2 = Charged Attack Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / III / 15%
-| Magia 2 / 2 = All / 3 Turns / V / 20%
+| Magia 2 / 1 = Allies / 3 Turns / III / 15%
+| Magia 2 / 2 = Allies / 3 Turns / V / 20%
 | Magia effect 3 = Remove Status Ailments
 | Magia scaling 3 = 0%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = All / %
+| Magia 3 / 2 = Allies / 
 
 | Doppel Name = 
 | Doppel Title = 

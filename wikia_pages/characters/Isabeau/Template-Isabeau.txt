@@ -106,9 +106,9 @@
 | Passive 7 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 8 icon = Chance to Anti-Curse
-| Passive 8 name = Anti-Curse
+| Passive 8 name = Anti Curse
 | Passive 8 name JP = アンチ・カース
-| Passive 8 effect = Chance to Anti-Curse [100%]
+| Passive 8 effect = Anti-Curse
 
 | Passive 9 icon = Doppel Damage Up
 | Passive 9 name = Doppel Adept [IV]
@@ -116,7 +116,7 @@
 | Passive 9 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
 
 | Passive 10 icon = MP Gain Up
-| Passive 10 name = MoraleライトShield [V]
+| Passive 10 name = Moral Light Shield [V]
 | Passive 10 name JP = モラールライトシールド[Ⅴ]
 | Passive 10 effect = MP Gain Up [V / 15%] & Light Attribute Damage Cut [III / 15%]
 
@@ -126,7 +126,7 @@
 | Passive 11 effect = Chance to Curse on Attack [III / 20%] (2 Turns)
 
 | Passive 12 icon = Regenerate HP
-| Passive 12 name = ナーシングケア [V]
+| Passive 12 name = Nursing Care [V]
 | Passive 12 name JP = ナーシングケア[Ⅴ]
 | Passive 12 effect = Regenerate HP [V / 6%] & Regenerate MP [V / 9 MP]
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Chance to Curse
-| Active 1 name = CurseManaCharge [II]
+| Active 1 name = Curse Mana Charge [II]
 | Active 1 name JP = カースマナチャージ[Ⅱ]
-| Active 1 effect = Chance to Curse [II / 100%] (One / 1 Turn) & MP Restore [II / 18 MP]
+| Active 1 effect = Curse (Target / 1 Turn) & MP Restore [II / 18 MP]
 | Active 1 cooldown = 10
 
 | Connect name JP = 女王が与える…
@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Dark Attribute Attack Up
-| Connect 2 / 1 = VII / 20%
-| Connect 2 / 2 = IX / 25%
-| Connect effect 3 = Chance to Curse on Attack
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect 2 / 1 = Self / 1 Turn / VII / 20%
+| Connect 2 / 2 = Self / 1 Turn / IX / 25%
+| Connect effect 3 = Curse on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = 女王の処断
 | Magia name EN = 
@@ -163,18 +163,18 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 325%
 | Magia 1 / 2 = VIII / 345%
-| Magia effect 2 = Chance to Curse
+| Magia effect 2 = Curse
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 1 Turn / VI / 100%
-| Magia 2 / 2 = All / 1 Turn / VIII / 100%
+| Magia 2 / 1 = All Enemies / 1 Turn / 
+| Magia 2 / 2 = All Enemies / 1 Turn / 
 | Magia effect 3 = Magia Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / VI / 20%
-| Magia 3 / 2 = Self / 3 Turns / VIII / 25%
+| Magia 3 / 1 = VI / 20%
+| Magia 3 / 2 = VIII / 25%
 | Magia effect 4 = Dark Attribute Attack Up
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = Self / 3 Turns / VI / 10%
-| Magia 4 / 2 = Self / 3 Turns / VIII / 15%
+| Magia 4 / 1 = VI / 10%
+| Magia 4 / 2 = VIII / 15%
 | Magia effect 5 = Survive
 | Magia scaling 5 = 0%
 | Magia 5 / 1 = Self / 3 Turns / VI / 30%
@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、女王の黄昏
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
-| Doppel effect = Damage All Enemies [X / 902%] & Chance to Curse [X / 100% / All / 3 Turns] & Magia Damage Up [X / 42.5% / Self / 5 Turns] & Dark Attribute Attack Up [X / 30% / Self / 5 Turns] & Survive [X / 40% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [X / 902%] & Curse [All Enemies / 3 Turns] & Magia Damage Up [X / 42.5%] & Dark Attribute Attack Up [X / 30% / Self / 5 Turns] & Survive [X / 40% / Self / 3 Turns]
 }}

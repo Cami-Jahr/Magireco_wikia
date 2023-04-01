@@ -103,7 +103,7 @@
 | Passive 7 icon = Chance to Chase
 | Passive 7 name = Chase Adept [VI]
 | Passive 7 name JP = チェイス・アデプト[Ⅵ]
-| Passive 7 effect = Chance to Chase [VI / 80%]
+| Passive 7 effect = Chance to Chase [VI / 20%]
 
 | Passive 8 icon = MP Gain Up When Over 100 MP
 | Passive 8 name = MP Boost [II]
@@ -138,22 +138,22 @@
 | Active 1 icon = Chance to Fog
 | Active 1 name = Fog Stub [V]
 | Active 1 name JP = フォッグ・スタブ[Ⅴ]
-| Active 1 effect = Chance to Fog [V / 40%] (All / 3 Turns) & Chance to Chase [V / 80%] (Self / 3 Turns)
+| Active 1 effect = Chance to Fog [V / 40%] (All Enemies / 3 Turns) & Chance to Chase [V / 45%] (Self / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = 私に続きを記させて
 | Connect name EN = 
 | Connect name NA = 
 | Connect icon = Chance to Chase
-| Connect effect 1 = Chance to Chase
-| Connect 1 / 1 = VII / 80%
-| Connect 1 / 2 = IX / 80%
+| Connect effect 1 = Chase
+| Connect 1 / 1 = 
+| Connect 1 / 2 = 
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = VII / 35%
+| Connect 2 / 1 = Self / 1 Turn / VII / 35%
 | Connect 2 / 2 = IX / 40%
-| Connect effect 3 = Chance to Evade
+| Connect effect 3 = Evade
 | Connect 3 / 1 = -
-| Connect 3 / 2 = IX / 100%
+| Connect 3 / 2 = Self / 1 Turn / 
 
 | Magia name JP = ソウル・サルベーション
 | Magia name EN = 
@@ -163,10 +163,10 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 896%
 | Magia 1 / 2 = VIII / 960%
-| Magia effect 2 = Chance to Evade
+| Magia effect 2 = Evade
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = Self / 1 Turn / VI / 100%
-| Magia 2 / 2 = Self / 1 Turn / VIII / 100%
+| Magia 2 / 1 = Self / 1 Turn / 
+| Magia 2 / 2 = Self / 1 Turn / 
 | Magia effect 3 = Regenerate HP
 | Magia scaling 3 = 1%
 | Magia 3 / 1 = -
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、心電図
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [X / 2488%] & Chance to Evade [X / 100% / Self / 1 Turn] & Regenerate HP [X / 9% / Self / 3 Turns]
+| Doppel effect = Damage One Enemy [X / 2488%] & Evade [Self / 1 Turn] & Regenerate HP [X / 9% / Self / 3 Turns]
 }}

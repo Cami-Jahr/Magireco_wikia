@@ -81,7 +81,7 @@
 | Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 3 icon = Blast Damage Cut
-| Passive 3 name = BlastShield [III]
+| Passive 3 name = Blast Shield [III]
 | Passive 3 name JP = ブラストシールド[Ⅲ]
 | Passive 3 effect = Blast Damage Cut [III / 15%]
 
@@ -123,7 +123,7 @@
 | Passive 11 icon = Chance to Anti-Charm
 | Passive 11 name = Anti-Charm
 | Passive 11 name JP = アンチ・チャーム
-| Passive 11 effect = Chance to Anti-Charm [100%]
+| Passive 11 effect = Anti-Charm
 
 | Passive 12 icon = MP Gauge Increased On Battle Start
 | Passive 12 name = Fast Mana Up
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Status Ailment Resistance Down
-| Active 1 name = Resist Charmブレイク [III]
+| Active 1 name = Resist Charm Break [III]
 | Active 1 name JP = レジスト・チャームブレイク[Ⅲ]
-| Active 1 effect = Status Ailment Resistance Down [III / 10%] (All / 1 Turn) & Chance to Charm [XIII / 60%] (All / 1 Turn)
+| Active 1 effect = Status Ailment Resistance Down [III / 10%] & Chance to Charm [XIII / 60%] (All Enemies / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = 頑張らなくてもいいんだよ
@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Damage Up Versus Enemies Affected With Status Ailments
-| Connect 2 / 1 = VII / 40%
-| Connect 2 / 2 = IX / 45%
-| Connect effect 3 = Chance to Charm on Attack
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect 2 / 1 = Self / 1 Turn / VII / 40%
+| Connect 2 / 2 = Self / 1 Turn / IX / 45%
+| Connect effect 3 = Charm on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = ウワサの雷扇痺舞
 | Magia name EN = 
@@ -165,24 +165,24 @@
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = Remove Buffs
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / %
-| Magia 2 / 2 = All / %
+| Magia 2 / 1 = All Enemies / 
+| Magia 2 / 2 = All Enemies / 
 | Magia effect 3 = Attack Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 20%
-| Magia 3 / 2 = All / 3 Turns / VII / 25%
+| Magia 3 / 1 = V / 20%
+| Magia 3 / 2 = VII / 25%
 | Magia effect 4 = Magia Damage Down
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = All / 3 Turns / V / 35%
-| Magia 4 / 2 = All / 3 Turns / VII / 40%
+| Magia 4 / 1 = V / 35%
+| Magia 4 / 2 = VII / 40%
 | Magia effect 5 = Blast Damage Down
 | Magia scaling 5 = 2.5%
-| Magia 5 / 1 = All / 3 Turns / V / 35%
-| Magia 5 / 2 = All / 3 Turns / VII / 40%
-| Magia effect 6 = Chance to Charm
+| Magia 5 / 1 = All Enemies / 3 Turns / V / 35%
+| Magia 5 / 2 = All Enemies / 3 Turns / VII / 40%
+| Magia effect 6 = Charm
 | Magia scaling 6 = 0%
-| Magia 6 / 1 = All / 1 Turn / V / 100%
-| Magia 6 / 2 = All / 1 Turn / VII / 100%
+| Magia 6 / 1 = All Enemies / 1 Turn / 
+| Magia 6 / 2 = All Enemies / 1 Turn / 
 | Magia effect 7 = Survive
 | Magia scaling 7 = 0%
 | Magia 7 / 1 = Self / 3 Turns / V / 30%
@@ -194,5 +194,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 869%] & Remove Buffs [% / All] & Attack Down [IX / 45% / All / 3 Turns] & Magia Damage Down [IX / 60% / All / 3 Turns] & Blast Damage Down [IX / 60% / All / 3 Turns] & Chance to Charm [IX / 100% / All / 1 Turn] & Survive [IX / 40% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 869%] & Remove Buffs [All Enemies] & Attack Down [IX / 45%] & Magia Damage Down [IX / 60%] & Blast Damage Down [IX / 60% / All Enemies / 3 Turns] & Charm [All Enemies / 1 Turn] & Survive [IX / 40% / Self / 3 Turns]
 }}

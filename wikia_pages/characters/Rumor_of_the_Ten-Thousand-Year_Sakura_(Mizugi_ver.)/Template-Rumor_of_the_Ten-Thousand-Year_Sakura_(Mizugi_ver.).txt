@@ -108,17 +108,17 @@
 | Passive 8 icon = Chance to Anti-Skill Seal
 | Passive 8 name = Anti-Jammer
 | Passive 8 name JP = アンチ・ジャマ―
-| Passive 8 effect = Chance to Anti-Skill Seal [100%]
+| Passive 8 effect = Anti-Skill Seal
 
 | Passive 9 icon = Chance to Skill Quicken
-| Passive 9 name = Skill Quicken [III]
+| Passive 9 name = Skill Quick [III]
 | Passive 9 name JP = スキルクイック[Ⅲ]
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
 
 | Passive 10 icon = Chance to Anti-Magia Seal
-| Passive 10 name = Anti-Magia Seal
+| Passive 10 name = Anti-Seal Magia
 | Passive 10 name JP = アンチ・シールマギア
-| Passive 10 effect = Chance to Anti-Magia Seal [100%]
+| Passive 10 effect = Anti-Magia Seal
 
 | Passive 11 icon = Magia Damage Up
 | Passive 11 name = Magia Adept [II]
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Defense Down
-| Active 1 name = ライトフォール [III]
+| Active 1 name = Light Fall [III]
 | Active 1 name JP = ライトフォール[Ⅲ]
-| Active 1 effect = Defense Down [III / 15%] (One / 3 Turns) & Light Defense Down [III / 18%] (One / 3 Turns)
+| Active 1 effect = Defense Down [III / 15%] & Light Defense Down [III / 18%] (Target / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = ｜いい思い出にしよう｜
@@ -146,11 +146,11 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Increase
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = Remove Status Ailments
-| Connect 2 / 1 = %
-| Connect 2 / 2 = %
+| Connect 2 / 1 = Self / 
+| Connect 2 / 2 = Self / 
 
 | Magia name JP = ｜海まとう思い出のひとひら｜
 | Magia name EN = 
@@ -162,16 +162,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Damage Increase
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 27.5%
-| Magia 2 / 2 = All / 3 Turns / VII / 32.5%
+| Magia 2 / 1 = V / 27.5%
+| Magia 2 / 2 = VII / 32.5%
 | Magia effect 3 = Charged Attack Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 20%
-| Magia 3 / 2 = All / 3 Turns / VII / 25%
+| Magia 3 / 1 = Allies / 3 Turns / V / 20%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 25%
 | Magia effect 4 = Remove Status Ailments
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / %
-| Magia 4 / 2 = All / %
+| Magia 4 / 1 = Allies / 
+| Magia 4 / 2 = Allies / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -179,5 +179,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Damage Increase [IX / 47.5% / All / 3 Turns] & Charged Attack Damage Up [IX / 40% / All / 3 Turns] & Remove Status Ailments [% / All]
+| Doppel effect = Damage All Enemies [IX / 902%] & Damage Increase [IX / 47.5%] & Charged Attack Damage Up [IX / 40% / Allies / 3 Turns] & Remove Status Ailments [Allies]
 }}

@@ -96,9 +96,9 @@
 | Passive 5 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 6 icon = Chance to Anti-Magia Seal
-| Passive 6 name = Anti-Magia Seal
+| Passive 6 name = Anti-Seal Magia
 | Passive 6 name JP = アンチ・シールマギア
-| Passive 6 effect = Chance to Anti-Magia Seal [100%]
+| Passive 6 effect = Anti-Magia Seal
 
 | Passive 7 icon = Damage Cut
 | Passive 7 name = Shield Adept [II]
@@ -111,7 +111,7 @@
 | Passive 8 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
 
 | Passive 9 icon = Chance to Skill Quicken
-| Passive 9 name = Skill Quicken [II]
+| Passive 9 name = Skill Quick [II]
 | Passive 9 name JP = スキルクイック[Ⅱ]
 | Passive 9 effect = Chance to Skill Quicken [II / 10%]
 
@@ -128,7 +128,7 @@
 | Passive 12 icon = Chance to Anti-Skill Seal
 | Passive 12 name = Anti-Jammer
 | Passive 12 name JP = アンチ・ジャマ―
-| Passive 12 effect = Chance to Anti-Skill Seal [100%]
+| Passive 12 effect = Anti-Skill Seal
 
 | Passive 13 icon = MP Gauge Increased On Battle Start
 | Passive 13 name = Fast Mana Up
@@ -138,7 +138,7 @@
 | Active 1 icon = Defense Down
 | Active 1 name = ダークフォール [III]
 | Active 1 name JP = ダークフォール[Ⅲ]
-| Active 1 effect = Defense Down [III / 15%] (One / 3 Turns) & Dark Defense Down [III / 18%] (One / 3 Turns)
+| Active 1 effect = Defense Down [III / 15%] & Dark Defense Down [III / 18%] (Target / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = ミィが手伝ったげよっか？
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = MP Restore
 | Connect 2 / 1 = VII / 27.5 MP
 | Connect 2 / 2 = IX / 32.5 MP
-| Connect effect 3 = Chance to Charm on Attack
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect effect 3 = Charm on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = 今だけ悪い子！
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 25%
-| Magia 2 / 2 = All / 3 Turns / VII / 30%
+| Magia 2 / 1 = V / 25%
+| Magia 2 / 2 = VII / 30%
 | Magia effect 3 = Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 25%
-| Magia 3 / 2 = All / 3 Turns / VII / 30%
+| Magia 3 / 1 = Allies / 3 Turns / V / 25%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 30%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ヒナ鳥
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Up [IX / 45% / All / 5 Turns] & Damage Up [IX / 45% / All / 5 Turns] & Chance to Burn [IX / 100% / One / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Up [IX / 45%] & Damage Up [IX / 45% / Allies / 5 Turns] & Burn [Target / 3 Turns]
 }}

@@ -91,7 +91,7 @@
 | Passive 4 effect = Damage Cut [II / 10%]
 
 | Passive 5 icon = Regenerate HP
-| Passive 5 name = Regeneration Adept [III]
+| Passive 5 name = Regenerate Adept [III]
 | Passive 5 name JP = リジェネレイト・アデプト[Ⅲ]
 | Passive 5 effect = Regenerate HP [III / 4%]
 
@@ -145,14 +145,14 @@
 | Connect name EN = 
 | Connect name NA = 
 | Connect icon = Chance to Provoke
-| Connect effect 1 = Chance to Provoke
-| Connect 1 / 1 = V / 100%
-| Connect 1 / 2 = VII / 100%
-| Connect 1 / 3 = IX / 100%
+| Connect effect 1 = Provoke
+| Connect 1 / 1 = 
+| Connect 1 / 2 = 
+| Connect 1 / 3 = 
 | Connect effect 2 = Damage Cut
-| Connect 2 / 1 = V / 50%
-| Connect 2 / 2 = VII / 60%
-| Connect 2 / 3 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / V / 50%
+| Connect 2 / 2 = Self / 1 Turn / VII / 60%
+| Connect 2 / 3 = Self / 1 Turn / IX / 70%
 
 | Magia name JP = 竜真閃光爪牙
 | Magia name EN = 
@@ -163,16 +163,16 @@
 | Magia 1 / 1 = III / 1024%
 | Magia 1 / 2 = V / 1088%
 | Magia 1 / 3 = VII / 1152%
-| Magia effect 2 = Chance to Provoke
+| Magia effect 2 = Provoke
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = Self / 1 Turn / III / 100%
-| Magia 2 / 2 = Self / 1 Turn / V / 100%
-| Magia 2 / 3 = Self / 1 Turn / VII / 100%
+| Magia 2 / 1 = 
+| Magia 2 / 2 = Self / 1 Turn / 
+| Magia 2 / 3 = Self / 1 Turn / 
 | Magia effect 3 = Regenerate HP
 | Magia scaling 3 = 1%
 | Magia 3 / 1 = Self / 1 Turn / III / 4%
 | Magia 3 / 2 = Self / 3 Turns / V / 6%
-| Magia 3 / 3 = Self / 3 Turns / VII / 8%
+| Magia 3 / 3 = VII / 8%
 | Magia effect 4 = Damage Cut
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -
@@ -185,5 +185,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、陣太鼓
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Damage Cut [IX / 45% / All / 3 Turns] & Chance to Provoke [IX / 100% / Self / 1 Turn] & Regenerate HP [IX / 14% / Self / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Damage Cut [IX / 45% / Allies / 3 Turns] & Provoke [Self / 1 Turn] & Regenerate HP [IX / 14% / Self / 3 Turns]
 }}

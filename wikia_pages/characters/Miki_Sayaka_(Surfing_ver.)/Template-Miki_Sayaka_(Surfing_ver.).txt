@@ -96,9 +96,9 @@
 | Passive 5 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
 
 | Passive 6 icon = Chance to Anti-Darkness
-| Passive 6 name = Anti-Darkness
+| Passive 6 name = Anti Darkness
 | Passive 6 name JP = アンチ・ダークネス
-| Passive 6 effect = Chance to Anti-Darkness [100%]
+| Passive 6 effect = Anti-Darkness
 
 | Passive 7 icon = Chance to Guardian
 | Passive 7 name = Covering Adept [II]
@@ -111,7 +111,7 @@
 | Passive 8 effect = MP Up When Damaged [V / 5%]
 
 | Passive 9 icon = Barrier
-| Passive 9 name = バリアAura
+| Passive 9 name = Barrier Aura
 | Passive 9 name JP = バリアオーラ
 | Passive 9 effect = Barrier [5000 damage]
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Chance to Guardian
-| Active 1 name = RegenerationCovering [V]
+| Active 1 name = Regeneration Covering [V]
 | Active 1 name JP = リジェネレイトカバーリング[Ⅴ]
-| Active 1 effect = Chance to Guardian [V / 100%] (1 Turn) & Regenerate HP [V / 6%] (Self / 3 Turns)
+| Active 1 effect = Guardian (Self / 1 Turn) & Regenerate HP [V / 6%] (Self / 3 Turns)
 | Active 1 cooldown = 5
 
 | Connect name JP = 相乗り、いっちゃいますか！
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = V / 50%
 | Connect 2 / 2 = VII / 60%
 | Connect effect 3 = Status Ailment Resistance Up
-| Connect 3 / 1 = VII / 50%
-| Connect 3 / 2 = IX / 60%
+| Connect 3 / 1 = Self / 1 Turn / VII / 50%
+| Connect 3 / 2 = Self / 1 Turn / IX / 60%
 
 | Magia name JP = メロディア・アパッショナータ
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / V / 10%
-| Magia 2 / 2 = Self / 3 Turns / VII / 20%
+| Magia 2 / 1 = V / 10%
+| Magia 2 / 2 = VII / 20%
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / V / 15%
-| Magia 3 / 2 = Self / 3 Turns / VII / 30%
+| Magia 3 / 1 = V / 15%
+| Magia 3 / 2 = VII / 30%
 | Magia effect 4 = Barrier
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = Self / 3 Turns / V / 10000 damage
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、人魚
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Up [IX / 30% / Self / 5 Turns] & Defense Up [IX / 32.5% / Self / 5 Turns] & Barrier [IX / 20000 damage / Self / 5 Turns]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Up [IX / 30%] & Defense Up [IX / 32.5%] & Barrier [IX / 20000 damage / Self / 5 Turns]
 }}

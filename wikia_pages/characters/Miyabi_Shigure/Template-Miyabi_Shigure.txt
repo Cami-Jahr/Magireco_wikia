@@ -111,7 +111,7 @@
 | Passive 8 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)
 
 | Passive 9 icon = Chance to Skill Quicken
-| Passive 9 name = Skill Quicken [III]
+| Passive 9 name = Skill Quick [III]
 | Passive 9 name JP = スキルクイック[Ⅲ]
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Accele MP Gain Up
 | Active 1 name = Accele Strike [VII]
 | Active 1 name JP = アクセル・ストライク[Ⅶ]
-| Active 1 effect = Accele MP Gain Up [VII / 25%] (Self / 1 Turn) & Chance to Critical Hit [VII / 40%] (Self / 1 Turn)
+| Active 1 effect = Accele MP Gain Up [VII / 25%] & Chance to Critical Hit [VII / 40%] (Self / 1 Turn)
 | Active 1 cooldown = 7
 
 | Connect name JP = どうしてぼくが助けるの…？
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
 | Connect effect 3 = Chance to Skill Seal on Attack
 | Connect 3 / 1 = VII / 40%
 | Connect 3 / 2 = IX / 50%
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = One / 3 Turns / V / 15%
-| Magia 2 / 2 = One / 3 Turns / VII / 20%
+| Magia 2 / 1 = V / 15%
+| Magia 2 / 2 = VII / 20%
 | Magia effect 3 = Magia Damage Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = One / 3 Turns / V / 20%
-| Magia 3 / 2 = One / 3 Turns / VII / 30%
+| Magia 3 / 1 = Target / 3 Turns / V / 20%
+| Magia 3 / 2 = Target / 3 Turns / VII / 30%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、刺座
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Attack Down [IX / 40% / One / 3 Turns] & Magia Damage Down [IX / 50% / One / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Attack Down [IX / 40%] & Magia Damage Down [IX / 50% / Target / 3 Turns]
 }}

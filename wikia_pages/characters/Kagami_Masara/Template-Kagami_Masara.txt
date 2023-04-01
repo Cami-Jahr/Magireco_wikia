@@ -146,13 +146,17 @@
 | Connect name NA = 
 | Connect icon = Chance to Critical Hit
 | Connect effect 1 = Chance to Critical Hit
-| Connect 1 / 1 = X / 75%
-| Connect 1 / 2 = XII / 85%
-| Connect 1 / 3 = 100%
-| Connect effect 2 = Chance to Defense Pierce
+| Connect 1 / 1 = Self / 1 Turn / X / 75%
+| Connect 1 / 2 = Self / 1 Turn / XII / 85%
+| Connect 1 / 3 = -
+| Connect effect 2 = Critical Hit
 | Connect 2 / 1 = -
 | Connect 2 / 2 = -
-| Connect 2 / 3 = 50%
+| Connect 2 / 3 = 
+| Connect effect 3 = Chance to Defense Pierce
+| Connect 3 / 1 = -
+| Connect 3 / 2 = -
+| Connect 3 / 3 = Self / 1 Turn / 50%
 
 | Magia name JP = インビジブル・アサシン
 | Magia name EN = 
@@ -163,21 +167,26 @@
 | Magia 1 / 1 = III / 1024%
 | Magia 1 / 2 = V / 1088%
 | Magia 1 / 3 = VII / 1152%
-| Magia effect 2 = Chance to Chase
+| Magia effect 2 = Chase
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = Self / 1 Turn / III / 80%
-| Magia 2 / 2 = Self / 1 Turn / V / 80%
-| Magia 2 / 3 = Self / 1 Turn / VII / 80%
-| Magia effect 3 = Chance to Evade
+| Magia 2 / 1 = Self / 1 Turn / 
+| Magia 2 / 2 = 
+| Magia 2 / 3 = 
+| Magia effect 3 = Chance to Defense Pierce
 | Magia scaling 3 = 0%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = Self / 1 Turn / V / 30%
-| Magia 3 / 3 = Self / 1 Turn / VII / 100%
-| Magia effect 4 = Chance to Defense Pierce
+| Magia 3 / 2 = -
+| Magia 3 / 3 = VII / 40%
+| Magia effect 4 = Evade
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
-| Magia 4 / 3 = Self / 1 Turn / VII / 40%
+| Magia 4 / 3 = Self / 1 Turn / 
+| Magia effect 5 = Chance to Evade
+| Magia scaling 5 = 0%
+| Magia 5 / 1 = -
+| Magia 5 / 2 = Self / 1 Turn / V / 30%
+| Magia 5 / 3 = -
 
 | Doppel Name = 
 | Doppel Title = 
@@ -185,5 +194,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、凪
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Chance to Chase [IX / 80% / Self / 2 Turns] & Chance to Defense Pierce [IX / 50% / Self / 2 Turns] & Chance to Evade [IX / 100% / Self / 1 Turn]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Chase [] & Chance to Defense Pierce [IX / 50% / Self / 2 Turns] & Evade [Self / 1 Turn]
 }}

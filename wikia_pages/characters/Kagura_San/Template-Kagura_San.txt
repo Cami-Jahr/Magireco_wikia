@@ -91,7 +91,7 @@
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 5 icon = Regenerate HP
-| Passive 5 name = Regeneration Adept [IV]
+| Passive 5 name = Regenerate Adept [IV]
 | Passive 5 name JP = リジェネレイト・アデプト[Ⅳ]
 | Passive 5 effect = Regenerate HP [IV / 5%]
 
@@ -116,7 +116,7 @@
 | Passive 9 effect = MP Gauge Increased On Battle Start [15% full]
 
 | Passive 10 icon = Damage Cut
-| Passive 10 name = アクアShield Adept [III]
+| Passive 10 name = Aqua Shield Adept [III]
 | Passive 10 name JP = アクアシールド・アデプト[Ⅲ]
 | Passive 10 effect = Damage Cut [II / 10%] & Aqua Attribute Damage Cut [III / 15%]
 
@@ -128,7 +128,7 @@
 | Passive 12 icon = Chance to Anti-Bind
 | Passive 12 name = Anti-Bind
 | Passive 12 name JP = アンチ・バインド
-| Passive 12 effect = Chance to Anti-Bind [100%]
+| Passive 12 effect = Anti-Bind
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -138,7 +138,7 @@
 | Active 1 icon = Survive
 | Active 1 name = Survive Resist [VII]
 | Active 1 name JP = サヴァイヴ・レジスト[Ⅶ]
-| Active 1 effect = Survive [I / 10%] (Self / 1 Turn) & Status Ailment Resistance Up [VII / 50%] (Self / 1 Turn)
+| Active 1 effect = Survive [I / 10%] & Status Ailment Resistance Up [VII / 50%] (Self / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = 私の期待に応えなさい
@@ -146,11 +146,11 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = VII / 30%
-| Connect 1 / 2 = IX / 35%
+| Connect 1 / 1 = Self / 1 Turn / VII / 30%
+| Connect 1 / 2 = Self / 1 Turn / IX / 35%
 | Connect effect 2 = Remove Status Ailments
-| Connect 2 / 1 = %
-| Connect 2 / 2 = %
+| Connect 2 / 1 = Self / 
+| Connect 2 / 2 = Self / 
 | Connect effect 3 = HP Restore
 | Connect 3 / 1 = VII / 45%
 | Connect 3 / 2 = IX / 50%
@@ -165,20 +165,20 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Accele MP Gain Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 17.5%
-| Magia 2 / 2 = All / 3 Turns / VII / 22.5%
+| Magia 2 / 1 = V / 17.5%
+| Magia 2 / 2 = VII / 22.5%
 | Magia effect 3 = Status Ailment Resistance Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 30%
-| Magia 3 / 2 = All / 3 Turns / VII / 40%
+| Magia 3 / 1 = Allies / 3 Turns / V / 30%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 40%
 | Magia effect 4 = Remove Status Ailments
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / %
-| Magia 4 / 2 = All / %
+| Magia 4 / 1 = 
+| Magia 4 / 2 = 
 | Magia effect 5 = HP Restore
 | Magia scaling 5 = 2%
-| Magia 5 / 1 = All / V / 25%
-| Magia 5 / 2 = All / VII / 27.5%
+| Magia 5 / 1 = Allies / V / 25%
+| Magia 5 / 2 = Allies / VII / 27.5%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、セキュリティシステム
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Accele MP Gain Up [IX / 37.5% / All / 5 Turns] & Status Ailment Resistance Up [IX / 60% / All / 5 Turns] & Remove Status Ailments [% / All] & HP Restore [IX / 38% / All]
+| Doppel effect = Damage All Enemies [IX / 902%] & Accele MP Gain Up [IX / 37.5%] & Status Ailment Resistance Up [IX / 60% / Allies / 5 Turns] & Remove Status Ailments [] & HP Restore [IX / 38% / Allies]
 }}

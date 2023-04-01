@@ -101,19 +101,19 @@
 | Passive 6 effect = MP Gain Up [II / 7.5%]
 
 | Passive 7 icon = Chance to Skill Quicken
-| Passive 7 name = Skill Quicken [III]
+| Passive 7 name = Skill Quick [III]
 | Passive 7 name JP = スキルクイック[Ⅲ]
 | Passive 7 effect = Chance to Skill Quicken [III / 15%]
 
 | Passive 8 icon = Flame Attribute Damage Cut
-| Passive 8 name = フレイムShield Adept [III]
+| Passive 8 name = Flame Shield Adept [III]
 | Passive 8 name JP = フレイムシールド・アデプト[Ⅲ]
 | Passive 8 effect = Flame Attribute Damage Cut [III / 15%]
 
 | Passive 9 icon = Chance to Anti-Charm
 | Passive 9 name = Anti-Charm
 | Passive 9 name JP = アンチ・チャーム
-| Passive 9 effect = Chance to Anti-Charm [100%]
+| Passive 9 effect = Anti-Charm
 
 | Passive 10 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
 | Passive 10 name = Charge Combo Plus [IV]
@@ -126,9 +126,9 @@
 | Passive 11 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
 
 | Passive 12 icon = Regenerate HP
-| Passive 12 name = RShield Aura [IV]
+| Passive 12 name = R Shield Aura [IV]
 | Passive 12 name JP = Rシールド・オーラ[Ⅳ]
-| Passive 12 effect = Regenerate HP [IV / 5%] (All / 5 Turns) & Damage Cut [II / 22.5%] (All / 5 Turns)
+| Passive 12 effect = Regenerate HP [IV / 5%] & Damage Cut [II / 22.5%] (Allies / 5 Turns)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Charge Draw
-| Active 1 name = Chargeドロー
+| Active 1 name = Charge Draw
 | Active 1 name JP = チャージドロー
-| Active 1 effect = Charge Draw [100%]
+| Active 1 effect = Charge Draw
 | Active 1 cooldown = 5
 
 | Connect name JP = 特別な夏にしようね！
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = HP Restore
 | Connect 2 / 1 = VII / 45%
 | Connect 2 / 2 = IX / 50%
 | Connect effect 3 = Charge Conservation
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect 3 / 1 = Self / 1 Turn / VII / 100%
+| Connect 3 / 2 = Self / 1 Turn / IX / 100%
 
 | Magia name JP = プルウィア☆クララ
 | Magia name EN = 
@@ -165,20 +165,20 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Charge Conservation
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 2 Turns / V / 100%
-| Magia 2 / 2 = All / 2 Turns / VII / 100%
+| Magia 2 / 1 = Allies / 2 Turns / V / 100%
+| Magia 2 / 2 = Allies / 2 Turns / VII / 100%
 | Magia effect 3 = Aqua Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 15%
-| Magia 3 / 2 = All / 3 Turns / VII / 20%
+| Magia 3 / 1 = V / 15%
+| Magia 3 / 2 = VII / 20%
 | Magia effect 4 = Regenerate HP
 | Magia scaling 4 = 1%
-| Magia 4 / 1 = All / 3 Turns / V / 6%
-| Magia 4 / 2 = All / 3 Turns / VII / 8%
+| Magia 4 / 1 = V / 6%
+| Magia 4 / 2 = VII / 8%
 | Magia effect 5 = Anti-Debuff
 | Magia scaling 5 = 0%
-| Magia 5 / 1 = All / 3 Turns / 1 Debuff
-| Magia 5 / 2 = All / 3 Turns / 1 Debuff
+| Magia 5 / 1 = Allies / 3 Turns / 1 Debuff
+| Magia 5 / 2 = Allies / 3 Turns / 1 Debuff
 
 | Doppel Name = 
 | Doppel Title = 
@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、救済
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Charge Conservation [IX / 100% / All / 2 Turns] & Aqua Attribute Attack Up [IX / 35% / All / 5 Turns] & Regenerate HP [IX / 14% / All / 3 Turns] & Anti-Debuff [2 Debuffs / All / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Charge Conservation [IX / 100% / Allies / 2 Turns] & Aqua Attribute Attack Up [IX / 35% / Allies / 5 Turns] & Regenerate HP [IX / 14%] & Anti-Debuff [2 Debuffs / Allies / 3 Turns]
 }}

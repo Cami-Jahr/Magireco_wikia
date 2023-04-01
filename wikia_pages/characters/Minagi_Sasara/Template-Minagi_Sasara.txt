@@ -83,7 +83,7 @@
 | Passive 3 icon = Endure
 | Passive 3 name = Fortitude Adept
 | Passive 3 name JP = フォティチュード・アデプト
-| Passive 3 effect = Endure [100%]
+| Passive 3 effect = Endure
 
 | Passive 4 icon = MP Gain Up When Over 100 MP
 | Passive 4 name = MP Boost [II]
@@ -98,7 +98,7 @@
 | Passive 6 icon = MP Up When Attacked By Weak Element
 | Passive 6 name = Revenge Adept [III]
 | Passive 6 name JP = リベンジ・アデプト[Ⅲ]
-| Passive 6 effect = MP Up When Attacked By Weak Element [III / 4%]
+| Passive 6 effect = MP Up When Attacked By Weak Element [III / 4 MP]
 
 | Passive 7 icon = Magia Damage Up
 | Passive 7 name = Magia Adept [II]
@@ -116,7 +116,7 @@
 | Passive 9 effect = Dark Attribute Damage Cut [II / 10%]
 
 | Passive 10 icon = Regenerate HP
-| Passive 10 name = Regeneration Adept [III]
+| Passive 10 name = Regenerate Adept [III]
 | Passive 10 name JP = リジェネレイト・アデプト[Ⅲ]
 | Passive 10 effect = Regenerate HP [III / 4%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Dark Attribute Damage Cut
 | Active 1 name = Dark Shield Circle [III]
 | Active 1 name JP = ダークシールド・サークル[Ⅲ]
-| Active 1 effect = Dark Attribute Damage Cut [III / 15%] (All / 1 Turn)
+| Active 1 effect = Dark Attribute Damage Cut [III / 15%] (Allies / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = 私があなたを守るから！
@@ -151,15 +151,15 @@
 | Connect 1 / 3 = VII / 90%
 | Connect 1 / 4 = IX / 105%
 | Connect effect 2 = Damage Cut
-| Connect 2 / 1 = III / 40%
-| Connect 2 / 2 = V / 50%
-| Connect 2 / 3 = VII / 60%
+| Connect 2 / 1 = Self / 1 Turn / III / 40%
+| Connect 2 / 2 = Self / 1 Turn / V / 50%
+| Connect 2 / 3 = Self / 1 Turn / VII / 60%
 | Connect 2 / 4 = IX / 70%
 | Connect effect 3 = Endure
 | Connect 3 / 1 = -
 | Connect 3 / 2 = -
 | Connect 3 / 3 = -
-| Connect 3 / 4 = 100%
+| Connect 3 / 4 = Self / 1 Turn / 
 
 | Magia name JP = ナイトリゾルブ
 | Magia name EN = 
@@ -173,28 +173,28 @@
 | Magia 1 / 4 = VII / 360%
 | Magia effect 2 = Defense Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / I / 26.3%
-| Magia 2 / 2 = All / 3 Turns / III / 33.8%
-| Magia 2 / 3 = All / 3 Turns / V / 41.3%
-| Magia 2 / 4 = All / 3 Turns / VII / 48.8%
-| Magia effect 3 = Chance to Provoke
+| Magia 2 / 1 = Allies / 3 Turns / I / 26.3%
+| Magia 2 / 2 = Allies / 3 Turns / III / 33.8%
+| Magia 2 / 3 = Allies / 3 Turns / V / 41.3%
+| Magia 2 / 4 = Allies / 3 Turns / VII / 48.8%
+| Magia effect 3 = Provoke
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = Self / 1 Turn / I / 100%
-| Magia 3 / 2 = Self / 1 Turn / III / 100%
-| Magia 3 / 3 = Self / 1 Turn / V / 100%
-| Magia 3 / 4 = Self / 1 Turn / VII / 100%
+| Magia 3 / 1 = Self / 1 Turn / 
+| Magia 3 / 2 = Self / 1 Turn / 
+| Magia 3 / 3 = 
+| Magia 3 / 4 = 
 | Magia effect 4 = Endure
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
-| Magia 4 / 3 = Self / 1 Turn / 100%
-| Magia 4 / 4 = Self / 1 Turn / 100%
+| Magia 4 / 3 = Self / 1 Turn / 
+| Magia 4 / 4 = Self / 1 Turn / 
 | Magia effect 5 = Damage Cut
 | Magia scaling 5 = 2.5%
 | Magia 5 / 1 = -
 | Magia 5 / 2 = -
 | Magia 5 / 3 = -
-| Magia 5 / 4 = Self / 1 Turn / VII / 60%
+| Magia 5 / 4 = VII / 60%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -202,5 +202,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ゴルゲット
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Defense Up [IX / 66.3% / All / 3 Turns] & Damage Cut [IX / 80% / Self / 3 Turns] & Chance to Provoke [IX / 100% / Self / 3 Turns] & Endure [100% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Defense Up [IX / 66.3% / Allies / 3 Turns] & Damage Cut [IX / 80%] & Provoke [] & Endure [Self / 3 Turns]
 }}

@@ -91,9 +91,9 @@
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 5 icon = Chance to Anti-Curse
-| Passive 5 name = Anti-Curse
+| Passive 5 name = Anti Curse
 | Passive 5 name JP = アンチ・カース
-| Passive 5 effect = Chance to Anti-Curse [100%]
+| Passive 5 effect = Anti-Curse
 
 | Passive 6 icon = Damage Cut
 | Passive 6 name = Shield Adept [II]
@@ -126,7 +126,7 @@
 | Passive 11 effect = Chance to Curse on Attack [III / 20%] (1 Turn)
 
 | Passive 12 icon = Chance to Skill Quicken
-| Passive 12 name = Skill Quicken [II]
+| Passive 12 name = Skill Quick [II]
 | Passive 12 name JP = スキルクイック[Ⅱ]
 | Passive 12 effect = Chance to Skill Quicken [II / 10%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Chance to Curse
 | Active 1 name = Curse Scream [IV]
 | Active 1 name JP = カーススクリーム[Ⅳ]
-| Active 1 effect = Chance to Curse [IV / 37.5%] (All / 1 Turn) & Defense Down [IV / 20%] (All / 1 Turn)
+| Active 1 effect = Chance to Curse [IV / 37.5%] & Defense Down [IV / 20%] (All Enemies / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = こんなん一時の戯れやわ
@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Damage Up Versus Enemies Affected With Status Ailments
-| Connect 2 / 1 = IV / 32.5%
-| Connect 2 / 2 = VI / 37.5%
-| Connect effect 3 = Chance to Curse on Attack
-| Connect 3 / 1 = IV / 100%
-| Connect 3 / 2 = VI / 100%
+| Connect 2 / 1 = Self / 1 Turn / IV / 32.5%
+| Connect 2 / 2 = Self / 1 Turn / VI / 37.5%
+| Connect effect 3 = Curse on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = 極楽魔法遊戯
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Status Ailment Resistance Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 17.5%
-| Magia 2 / 2 = All / 3 Turns / VII / 20%
+| Magia 2 / 1 = V / 17.5%
+| Magia 2 / 2 = VII / 20%
 | Magia effect 3 = Defense Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 15%
-| Magia 3 / 2 = All / 3 Turns / VII / 20%
+| Magia 3 / 1 = All Enemies / 3 Turns / V / 15%
+| Magia 3 / 2 = All Enemies / 3 Turns / VII / 20%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、樹形図
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Status Ailment Resistance Down [IX / 35% / All / 3 Turns] & Defense Down [IX / 35% / All / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Status Ailment Resistance Down [IX / 35%] & Defense Down [IX / 35% / All Enemies / 3 Turns]
 }}

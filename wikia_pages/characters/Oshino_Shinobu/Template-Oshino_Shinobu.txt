@@ -103,7 +103,7 @@
 | Passive 7 icon = Chance to Anti-Skill Seal
 | Passive 7 name = Anti-Jammer
 | Passive 7 name JP = アンチ・ジャマ―
-| Passive 7 effect = Chance to Anti-Skill Seal [100%]
+| Passive 7 effect = Anti-Skill Seal
 
 | Passive 8 icon = Doppel Damage Up
 | Passive 8 name = Doppel Adept [I]
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Regenerate HP
 | Connect effect 1 = Regenerate HP
-| Connect 1 / 1 = 3 Turns / VI / 7%
-| Connect 1 / 2 = 3 Turns / VIII / 9%
+| Connect 1 / 1 = Self / 3 Turns / VI / 7%
+| Connect 1 / 2 = Self / 3 Turns / VIII / 9%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = VII / 35%
-| Connect 2 / 2 = IX / 40%
-| Connect effect 3 = Chance to Curse on Attack
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect 2 / 1 = Self / 1 Turn / VII / 35%
+| Connect 2 / 2 = Self / 1 Turn / IX / 40%
+| Connect effect 3 = Curse on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = 怪異殺し
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VIII / 518.4%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 2 Turns / VI / 15%
-| Magia 2 / 2 = All / 2 Turns / VIII / 20%
+| Magia 2 / 1 = All Enemies / 2 Turns / VI / 15%
+| Magia 2 / 2 = All Enemies / 2 Turns / VIII / 20%
 | Magia effect 3 = MP Damage
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / VI / 35 MP
-| Magia 3 / 2 = All / VIII / 40 MP
+| Magia 3 / 1 = All Enemies / VI / 35 MP
+| Magia 3 / 2 = All Enemies / VIII / 40 MP
 | Magia effect 4 = HP Restore
 | Magia scaling 4 = 2%
 | Magia 4 / 1 = VI / 35%
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、怪異殺し
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage A Vertical Line [X / 1194.8%] & Attack Down [X / 40% / All / 2 Turns] & MP Damage [X / 65 MP / All] & HP Restore [X / 58%]
+| Doppel effect = Damage A Vertical Line [X / 1194.8%] & Attack Down [X / 40% / All Enemies / 2 Turns] & MP Damage [X / 65 MP / All Enemies] & HP Restore [X / 58%]
 }}

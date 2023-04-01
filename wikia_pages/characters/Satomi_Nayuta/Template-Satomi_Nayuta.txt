@@ -108,15 +108,15 @@
 | Passive 8 icon = Chance to Anti-Bind
 | Passive 8 name = Anti-Bind
 | Passive 8 name JP = アンチ・バインド
-| Passive 8 effect = Chance to Anti-Bind [100%]
+| Passive 8 effect = Anti-Bind
 
 | Passive 9 icon = Light Attribute Damage Cut
-| Passive 9 name = ライトShieldAura [III]
+| Passive 9 name = Light Shield Aura [III]
 | Passive 9 name JP = ライトシールドオーラ[Ⅲ]
 | Passive 9 effect = Light Attribute Damage Cut [III / 15%] (Self / 5 Turns)
 
 | Passive 10 icon = Chance to Skill Quicken
-| Passive 10 name = Skill Quicken [II]
+| Passive 10 name = Skill Quick [II]
 | Passive 10 name JP = スキルクイック[Ⅱ]
 | Passive 10 effect = Chance to Skill Quicken [II / 10%]
 
@@ -126,9 +126,9 @@
 | Passive 11 effect = Accele MP Gain Up [II / 12.5%]
 
 | Passive 12 icon = Status Ailment Resistance Up
-| Passive 12 name = ResistCircleAura [II]
+| Passive 12 name = Resist Secure Aura [II]
 | Passive 12 name JP = レジストサークルオーラ[Ⅱ]
-| Passive 12 effect = Status Ailment Resistance Up [II / 15%] (All / 5 Turns)
+| Passive 12 effect = Status Ailment Resistance Up [II / 15%] (Allies / 5 Turns)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Dark Defense Down
-| Active 1 name = ダークイロージョン [III]
+| Active 1 name = Dark Erosion [III]
 | Active 1 name JP = ダークイロージョン[Ⅲ]
-| Active 1 effect = Dark Defense Down [III / 10%] (All / 5 Turns)
+| Active 1 effect = Dark Defense Down [III / 10%] (All Enemies / 5 Turns)
 | Active 1 cooldown = 9
 
 | Connect name JP = 共同捜査開始ですの！
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Accele MP Gain Up
-| Connect 2 / 1 = VII / 40%
-| Connect 2 / 2 = IX / 50%
+| Connect 2 / 1 = Self / 1 Turn / VII / 40%
+| Connect 2 / 2 = Self / 1 Turn / IX / 50%
 | Connect effect 3 = HP Restore
 | Connect 3 / 1 = III / 35%
 | Connect 3 / 2 = V / 40%
@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Defense Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 15%
-| Magia 2 / 2 = All / 3 Turns / VII / 20%
+| Magia 2 / 1 = V / 15%
+| Magia 2 / 2 = VII / 20%
 | Magia effect 3 = Chance to Skill Seal
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / 3 Turns / V / 30%
-| Magia 3 / 2 = All / 3 Turns / VII / 40%
+| Magia 3 / 1 = All Enemies / 3 Turns / V / 30%
+| Magia 3 / 2 = All Enemies / 3 Turns / VII / 40%
 | Magia effect 4 = Remove Buffs
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / %
-| Magia 4 / 2 = All / %
+| Magia 4 / 1 = All Enemies / 
+| Magia 4 / 2 = All Enemies / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、架子花臉
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Defense Down [IX / 35% / All / 5 Turns] & Chance to Skill Seal [IX / 80% / All / 3 Turns] & Remove Buffs [% / All]
+| Doppel effect = Damage All Enemies [IX / 902%] & Defense Down [IX / 35% / All Enemies / 5 Turns] & Chance to Skill Seal [IX / 80% / All Enemies / 3 Turns] & Remove Buffs [All Enemies]
 }}

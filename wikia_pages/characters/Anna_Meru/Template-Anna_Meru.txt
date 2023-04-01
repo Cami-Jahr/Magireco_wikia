@@ -116,7 +116,7 @@
 | Passive 9 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
 
 | Passive 10 icon = Chance to Skill Quicken
-| Passive 10 name = Skill Quicken [III]
+| Passive 10 name = Skill Quick [III]
 | Passive 10 name JP = スキルクイック[Ⅲ]
 | Passive 10 effect = Chance to Skill Quicken [III / 15%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Redraw Discs
 | Active 1 name = Disc Shuffle
 | Active 1 name JP = ディスクシャッフル
-| Active 1 effect = Redraw Discs [100%]
+| Active 1 effect = Redraw Discs
 | Active 1 cooldown = 5
 
 | Connect name JP = メルと運命を切り開くのです
@@ -152,11 +152,19 @@
 | Connect effect 2 = Chance to Anti-Evade
 | Connect 2 / 1 = V / 25%
 | Connect 2 / 2 = VII / 25%
-| Connect 2 / 3 = IX / 100%
+| Connect 2 / 3 = -
 | Connect effect 3 = Chance to Anti-Counter
-| Connect 3 / 1 = V / 80%
-| Connect 3 / 2 = VII / 80%
-| Connect 3 / 3 = IX / 100%
+| Connect 3 / 1 = Self / 1 Turn / V / 80%
+| Connect 3 / 2 = Self / 1 Turn / VII / 80%
+| Connect 3 / 3 = -
+| Connect effect 4 = Anti-Evade
+| Connect 4 / 1 = -
+| Connect 4 / 2 = -
+| Connect 4 / 3 = 
+| Connect effect 5 = Anti-Counter
+| Connect 5 / 1 = -
+| Connect 5 / 2 = -
+| Connect 5 / 3 = Self / 1 Turn / 
 
 | Magia name JP = 漆黒のアルカナ
 | Magia name EN = 
@@ -167,26 +175,31 @@
 | Magia 1 / 1 = II / 310%
 | Magia 1 / 2 = III / 320%
 | Magia 1 / 3 = VI / 350%
-| Magia effect 2 = Chance to Poison
+| Magia effect 2 = Chance to Bind
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 3 Turns / II / 40%
-| Magia 2 / 2 = All / 3 Turns / III / 50%
-| Magia 2 / 3 = All / 3 Turns / VI / 100%
-| Magia effect 3 = Chance to Bind
+| Magia 2 / 1 = II / 10%
+| Magia 2 / 2 = III / 20%
+| Magia 2 / 3 = VI / 25%
+| Magia effect 3 = Chance to Darkness
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / 1 Turn / II / 10%
-| Magia 3 / 2 = All / 1 Turn / III / 20%
-| Magia 3 / 3 = All / 1 Turn / VI / 25%
-| Magia effect 4 = Chance to Darkness
+| Magia 3 / 1 = II / 15%
+| Magia 3 / 2 = III / 20%
+| Magia 3 / 3 = VI / 25%
+| Magia effect 4 = Chance to Skill Seal
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / 1 Turn / II / 15%
-| Magia 4 / 2 = All / 1 Turn / III / 20%
-| Magia 4 / 3 = All / 1 Turn / VI / 25%
-| Magia effect 5 = Chance to Skill Seal
+| Magia 4 / 1 = All Enemies / 1 Turn / II / 20%
+| Magia 4 / 2 = All Enemies / 1 Turn / III / 25%
+| Magia 4 / 3 = All Enemies / 1 Turn / VI / 30%
+| Magia effect 5 = Chance to Poison
 | Magia scaling 5 = 0%
-| Magia 5 / 1 = All / 1 Turn / II / 20%
-| Magia 5 / 2 = All / 1 Turn / III / 25%
-| Magia 5 / 3 = All / 1 Turn / VI / 30%
+| Magia 5 / 1 = All Enemies / 3 Turns / II / 40%
+| Magia 5 / 2 = All Enemies / 3 Turns / III / 50%
+| Magia 5 / 3 = -
+| Magia effect 6 = Poison
+| Magia scaling 6 = 0%
+| Magia 6 / 1 = -
+| Magia 6 / 2 = -
+| Magia 6 / 3 = All Enemies / 3 Turns / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -194,5 +207,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、卜者
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Chance to Poison [IX / 100% / All / 3 Turns] & Chance to Bind [IX / 35% / All / 1 Turn] & Chance to Darkness [IX / 30% / All / 1 Turn] & Chance to Skill Seal [IX / 40% / All / 1 Turn]
+| Doppel effect = Damage All Enemies [IX / 902%] & Poison [All Enemies / 3 Turns] & Chance to Bind [IX / 35%] & Chance to Darkness [IX / 30%] & Chance to Skill Seal [IX / 40% / All Enemies / 1 Turn]
 }}

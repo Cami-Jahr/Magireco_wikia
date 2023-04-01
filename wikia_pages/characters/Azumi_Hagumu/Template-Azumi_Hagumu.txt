@@ -138,7 +138,7 @@
 | Active 1 icon = Charged Attack Damage Up
 | Active 1 name = Full Swing Up [IV]
 | Active 1 name JP = フルスウィングアップ[Ⅳ]
-| Active 1 effect = Charged Attack Damage Up [IV / 12.5%] (Self / 1 Turn) & Blast Damage Up [III / 25%] (Self / 1 Turn)
+| Active 1 effect = Charged Attack Damage Up [IV / 12.5%] & Blast Damage Up [III / 25%] (Self / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = あっ、私でよければ手伝うよ
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VIII / 27.5%
 | Connect 2 / 2 = X / 32.5%
 | Connect effect 3 = Damage Up Versus Witches
-| Connect 3 / 1 = IV / 35%
-| Connect 3 / 2 = V / 40%
+| Connect 3 / 1 = Self / 1 Turn / IV / 35%
+| Connect 3 / 2 = Self / 1 Turn / V / 40%
 
 | Magia name JP = くるくる回ってさようなら
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Defense Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 15%
-| Magia 2 / 2 = All / 3 Turns / VII / 17.5%
+| Magia 2 / 1 = All Enemies / 3 Turns / V / 15%
+| Magia 2 / 2 = All Enemies / 3 Turns / VII / 17.5%
 | Magia effect 3 = Charged Attack Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 20%
-| Magia 3 / 2 = All / 3 Turns / VII / 25%
+| Magia 3 / 1 = Allies / 3 Turns / V / 20%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 25%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、リバーシブル
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Defense Down [IX / 35% / All / 3 Turns] & Charged Attack Damage Up [IX / 40% / All / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Defense Down [IX / 35% / All Enemies / 3 Turns] & Charged Attack Damage Up [IX / 40% / Allies / 3 Turns]
 }}

@@ -146,13 +146,13 @@
 | Connect name NA = 
 | Connect icon = Accele MP Gain Up
 | Connect effect 1 = Accele MP Gain Up
-| Connect 1 / 1 = V / 30%
-| Connect 1 / 2 = VII / 40%
-| Connect 1 / 3 = IX / 50%
+| Connect 1 / 1 = Self / 1 Turn / V / 30%
+| Connect 1 / 2 = Self / 1 Turn / VII / 40%
+| Connect 1 / 3 = Self / 1 Turn / IX / 50%
 | Connect effect 2 = Remove Debuffs
-| Connect 2 / 1 = %
-| Connect 2 / 2 = %
-| Connect 2 / 3 = %
+| Connect 2 / 1 = Self / 
+| Connect 2 / 2 = Self / 
+| Connect 2 / 3 = Self / 
 
 | Magia name JP = デザンテグラシオン
 | Magia name EN = 
@@ -165,14 +165,14 @@
 | Magia 1 / 3 = VII / 1152%
 | Magia effect 2 = Defense Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = One / 3 Turns / IV / 15%
-| Magia 2 / 2 = One / 3 Turns / VI / 25%
-| Magia 2 / 3 = One / 3 Turns / VII / 30%
+| Magia 2 / 1 = Target / 3 Turns / IV / 15%
+| Magia 2 / 2 = Target / 3 Turns / VI / 25%
+| Magia 2 / 3 = Target / 3 Turns / VII / 30%
 | Magia effect 3 = Accele MP Gain Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = All / 3 Turns / VI / 20%
-| Magia 3 / 3 = All / 3 Turns / VII / 22.5%
+| Magia 3 / 2 = Allies / 3 Turns / VI / 20%
+| Magia 3 / 3 = Allies / 3 Turns / VII / 22.5%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -180,5 +180,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、震怒
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Defense Down [IX / 50% / One / 3 Turns] & Accele MP Gain Up [IX / 37.5% / All / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Defense Down [IX / 50% / Target / 3 Turns] & Accele MP Gain Up [IX / 37.5% / Allies / 3 Turns]
 }}

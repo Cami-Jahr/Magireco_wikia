@@ -91,12 +91,12 @@
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 5 icon = Chance to Anti-Magia Seal
-| Passive 5 name = Anti-Magia Seal [VI]
+| Passive 5 name = Anti-Seal Magia [VI]
 | Passive 5 name JP = アンチ・シールマギア[Ⅵ]
 | Passive 5 effect = Chance to Anti-Magia Seal [VI / 50%]
 
 | Passive 6 icon = Chance to Skill Quicken
-| Passive 6 name = Skill Quicken [II]
+| Passive 6 name = Skill Quick [II]
 | Passive 6 name JP = スキルクイック[Ⅱ]
 | Passive 6 effect = Chance to Skill Quicken [II / 10%]
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = Accele MP Gain Up [IV / 17.5%]
 
 | Active 1 icon = Chance to Burn
-| Active 1 name = アーデントネス [III]
+| Active 1 name = Arjentoness [III]
 | Active 1 name JP = アーデントネス[Ⅲ]
-| Active 1 effect = Chance to Burn [III / 100%] (One / 1 Turn) & Attack Up [III / 15%] (Self / 1 Turn)
+| Active 1 effect = Burn (Target / 1 Turn) & Attack Up [III / 15%] (Self / 1 Turn)
 | Active 1 cooldown = 7
 
 | Connect name JP = 友達、できちゃったね
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Remove Debuffs
 | Connect effect 1 = Remove Debuffs
-| Connect 1 / 1 = %
-| Connect 1 / 2 = %
+| Connect 1 / 1 = Self / 
+| Connect 1 / 2 = Self / 
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = VII / 35%
-| Connect 2 / 2 = IX / 40%
-| Connect effect 3 = Chance to Burn on Attack
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect 2 / 1 = Self / 1 Turn / VII / 35%
+| Connect 2 / 2 = Self / 1 Turn / IX / 40%
+| Connect effect 3 = Burn on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = シャンプ・ファイア
 | Magia name EN = 
@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 2 Turns / V / 15%
-| Magia 2 / 2 = All / 2 Turns / VII / 20%
+| Magia 2 / 1 = All Enemies / 2 Turns / V / 15%
+| Magia 2 / 2 = All Enemies / 2 Turns / VII / 20%
 | Magia effect 3 = MP Damage
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / V / 30 MP
-| Magia 3 / 2 = All / VII / 35 MP
+| Magia 3 / 1 = V / 30 MP
+| Magia 3 / 2 = VII / 35 MP
 | Magia effect 4 = Remove Buffs
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / %
-| Magia 4 / 2 = All / %
+| Magia 4 / 1 = All Enemies / 
+| Magia 4 / 2 = All Enemies / 
 | Magia effect 5 = MP Restore
 | Magia scaling 5 = 1%
 | Magia 5 / 1 = -
@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ふたつの影
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Down [IX / 40% / All / 2 Turns] & MP Damage [IX / 60 MP / All] & Remove Buffs [% / All] & MP Restore [IX / 34 MP]
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Down [IX / 40% / All Enemies / 2 Turns] & MP Damage [IX / 60 MP] & Remove Buffs [All Enemies] & MP Restore [IX / 34 MP]
 }}

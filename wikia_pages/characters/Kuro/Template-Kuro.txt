@@ -128,7 +128,7 @@
 | Passive 12 icon = Chance to Anti-Bind
 | Passive 12 name = Anti-Bind
 | Passive 12 name JP = アンチ・バインド
-| Passive 12 effect = Chance to Anti-Bind [100%]
+| Passive 12 effect = Anti-Bind
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,7 +136,7 @@
 | Passive 13 effect = 
 
 | Active 1 icon = MP Restore
-| Active 1 name = Manaリカバリー [I]
+| Active 1 name = Mana Recovery [I]
 | Active 1 name JP = マナリカバリー[Ⅰ]
 | Active 1 effect = MP Restore [I / 10 MP] & Regenerate MP [I / 3 MP] (Self / 3 Turns)
 | Active 1 cooldown = 10
@@ -146,7 +146,7 @@
 | Connect name NA = 
 | Connect icon = Accele MP Gain Up
 | Connect effect 1 = Accele MP Gain Up
-| Connect 1 / 1 = II / 15%
+| Connect 1 / 1 = Self / 1 Turn / II / 15%
 | Connect effect 2 = Attack Up
 | Connect 2 / 1 = II / 60%
 

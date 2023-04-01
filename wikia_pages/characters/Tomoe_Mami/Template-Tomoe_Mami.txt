@@ -138,7 +138,7 @@
 | Active 1 icon = Chance to Bind
 | Active 1 name = Bind [III]
 | Active 1 name JP = バインド[Ⅲ]
-| Active 1 effect = Chance to Bind [100%] (One / 1 Turn)
+| Active 1 effect = Bind (Target / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = ティロ・デュエット！
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
-| Connect effect 2 = Chance to Bind on Attack
-| Connect 2 / 1 = VII / 100%
-| Connect 2 / 2 = IX / 100%
-| Connect effect 3 = Chance to Burn on Attack
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect effect 2 = Bind on Attack
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
+| Connect effect 3 = Burn on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = ティロ・フィナーレ
 | Magia name EN = 
@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VIII / 370%
 | Magia effect 2 = Chance to Bind
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 1 Turn / VI / 47.5%
-| Magia 2 / 2 = All / 1 Turn / VIII / 52.5%
+| Magia 2 / 1 = All Enemies / 1 Turn / VI / 47.5%
+| Magia 2 / 2 = All Enemies / 1 Turn / VIII / 52.5%
 | Magia effect 3 = Defense Down
 | Magia scaling 3 = 0%
 | Magia 3 / 1 = Self / 1 Turn / VI / 50%
@@ -174,7 +174,7 @@
 | Magia effect 4 = Chance to Burn
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = -
-| Magia 4 / 2 = All / 3 Turns / VIII / 52.5%
+| Magia 4 / 2 = All Enemies / 3 Turns / VIII / 52.5%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、おめかし
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [X / 946%] & Chance to Bind [X / 55% / All / 1 Turn] & Chance to Burn [X / 55% / All / 3 Turns]
+| Doppel effect = Damage All Enemies [X / 946%] & Chance to Bind [X / 55% / All Enemies / 1 Turn] & Chance to Burn [X / 55% / All Enemies / 3 Turns]
 }}

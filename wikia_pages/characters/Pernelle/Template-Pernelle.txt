@@ -81,7 +81,7 @@
 | Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 3 icon = Blast Damage Cut
-| Passive 3 name = BlastShield [III]
+| Passive 3 name = Blast Shield [III]
 | Passive 3 name JP = ブラストシールド[Ⅲ]
 | Passive 3 effect = Blast Damage Cut [III / 15%]
 
@@ -101,9 +101,9 @@
 | Passive 6 effect = Damage Cut [II / 10%]
 
 | Passive 7 icon = Chance to Anti-Magia Seal
-| Passive 7 name = Anti-Magia Seal
+| Passive 7 name = Anti-Seal Magia
 | Passive 7 name JP = アンチ・シールマギア
-| Passive 7 effect = Chance to Anti-Magia Seal [100%]
+| Passive 7 effect = Anti-Magia Seal
 
 | Passive 8 icon = Defense Up While At Max Health
 | Passive 8 name = Full Gauge Guard [IV]
@@ -116,12 +116,12 @@
 | Passive 9 effect = Survive [I / 20%]
 
 | Passive 10 icon = Barrier
-| Passive 10 name = バリアAura
+| Passive 10 name = Barrier Aura
 | Passive 10 name JP = バリアオーラ
 | Passive 10 effect = Barrier [5000 damage]
 
 | Passive 11 icon = Regenerate HP
-| Passive 11 name = ニートネス Adept [VI]
+| Passive 11 name = Neatness Adept [VI]
 | Passive 11 name JP = ニートネス・アデプト[Ⅵ]
 | Passive 11 effect = Regenerate HP [VI / 7%] & Status Ailment Resistance Up [II / 25%]
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Defense Up
-| Active 1 name = HShield Circle [II]
+| Active 1 name = H Shield Circle [II]
 | Active 1 name JP = Hシールド・サークル[Ⅱ]
-| Active 1 effect = Defense Up [II / 26.3%] (All / 3 Turns) & Damage Cut [II / 22.5%] (All / 3 Turns)
+| Active 1 effect = Defense Up [II / 26.3%] & Damage Cut [II / 22.5%] (Allies / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = あらあら、大変ね
@@ -149,11 +149,11 @@
 | Connect 1 / 1 = XIII / 135%
 | Connect 1 / 2 = XV / 150%
 | Connect effect 2 = Damage Cut
-| Connect 2 / 1 = XIII / 90%
-| Connect 2 / 2 = XV / 100%
+| Connect 2 / 1 = Self / 1 Turn / XIII / 90%
+| Connect 2 / 2 = Self / 1 Turn / XV / 100%
 | Connect effect 3 = Regenerate HP
-| Connect 3 / 1 = 3 Turns / V / 6%
-| Connect 3 / 2 = 3 Turns / VII / 8%
+| Connect 3 / 1 = Self / 3 Turns / V / 6%
+| Connect 3 / 2 = Self / 3 Turns / VII / 8%
 
 | Magia name JP = エン・ト・パン
 | Magia name EN = 
@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Defense Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 48.8%
-| Magia 2 / 2 = All / 3 Turns / VII / 56.3%
+| Magia 2 / 1 = V / 48.8%
+| Magia 2 / 2 = VII / 56.3%
 | Magia effect 3 = Damage Cut
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 35%
-| Magia 3 / 2 = All / 3 Turns / VII / 40%
+| Magia 3 / 1 = V / 35%
+| Magia 3 / 2 = VII / 40%
 | Magia effect 4 = Barrier
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / 3 Turns / V / 8000 damage
-| Magia 4 / 2 = All / 3 Turns / VII / 8000 damage
+| Magia 4 / 1 = Allies / 3 Turns / V / 8000 damage
+| Magia 4 / 2 = Allies / 3 Turns / VII / 8000 damage
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、合一神
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
-| Doppel effect = Damage All Enemies [IX / 902%] & Defense Up [IX / 73.8% / All / 5 Turns] & Damage Cut [IX / 50% / All / 5 Turns] & Barrier [IX / 12000 damage / All / 5 Turns] & Imitate Attribute [IX / 100% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Defense Up [IX / 73.8%] & Damage Cut [IX / 50%] & Barrier [IX / 12000 damage / Allies / 5 Turns] & Imitate Attribute [IX / 100% / Self / 3 Turns]
 }}

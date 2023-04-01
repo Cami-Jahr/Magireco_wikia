@@ -101,12 +101,12 @@
 | Passive 6 effect = Damage Cut [II / 10%]
 
 | Passive 7 icon = Regenerate HP
-| Passive 7 name = Regeneration Adept [III]
+| Passive 7 name = Regenerate Adept [III]
 | Passive 7 name JP = リジェネレイト・アデプト[Ⅲ]
 | Passive 7 effect = Regenerate HP [III / 4%]
 
 | Passive 8 icon = Chance to Skill Quicken
-| Passive 8 name = Skill Quicken [III]
+| Passive 8 name = Skill Quick [III]
 | Passive 8 name JP = スキルクイック[Ⅲ]
 | Passive 8 effect = Chance to Skill Quicken [III / 15%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Remove Status Ailments
 | Active 1 name = Fresh Heal [I]
 | Active 1 name JP = フレッシュヒール[Ⅰ]
-| Active 1 effect = Remove Status Ailments [%] (One) & HP Restore [I / 30%] (One)
+| Active 1 effect = Remove Status Ailments (One Ally) & HP Restore [I / 30%] (Lowest HP Ally)
 | Active 1 cooldown = 10
 
 | Connect name JP = 次は引ける気がします！
@@ -146,8 +146,8 @@
 | Connect name NA = 
 | Connect icon = Chance to Critical Hit
 | Connect effect 1 = Chance to Critical Hit
-| Connect 1 / 1 = VIII / 65%
-| Connect 1 / 2 = X / 75%
+| Connect 1 / 1 = Self / 1 Turn / VIII / 65%
+| Connect 1 / 2 = Self / 1 Turn / X / 75%
 | Connect effect 2 = Chance to Dazzle on Attack
 | Connect 2 / 1 = VIII / 65%
 | Connect 2 / 2 = X / 65%
@@ -162,12 +162,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Chance to Dazzle
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 1 Turn / V / 37.5%
-| Magia 2 / 2 = All / 1 Turn / VII / 50%
+| Magia 2 / 1 = All Enemies / 1 Turn / V / 37.5%
+| Magia 2 / 2 = All Enemies / 1 Turn / VII / 50%
 | Magia effect 3 = Remove Debuffs
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / %
-| Magia 3 / 2 = All / %
+| Magia 3 / 1 = Allies / 
+| Magia 3 / 2 = Allies / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -175,5 +175,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ー
-| Doppel effect = Damage All Enemies [IX / 902%] & Chance to Dazzle [IX / 100% / All / 2 Turns] & Remove Debuffs [% / All]
+| Doppel effect = Damage All Enemies [IX / 902%] & Dazzle [All Enemies / 2 Turns] & Remove Debuffs [Allies]
 }}

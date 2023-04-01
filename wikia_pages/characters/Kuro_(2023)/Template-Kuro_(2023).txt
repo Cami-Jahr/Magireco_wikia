@@ -126,7 +126,7 @@
 | Passive 11 effect = Accele MP Gain Up [II / 12.5%]
 
 | Passive 12 icon = Chance to Skill Quicken
-| Passive 12 name = Skill Quicken [II]
+| Passive 12 name = Skill Quick [II]
 | Passive 12 name JP = スキルクイック[Ⅱ]
 | Passive 12 effect = Chance to Skill Quicken [II / 10%]
 
@@ -136,7 +136,7 @@
 | Passive 13 effect = 
 
 | Active 1 icon = MP Restore
-| Active 1 name = ManaCharge [II]
+| Active 1 name = Mana Charge [II]
 | Active 1 name JP = マナチャージ[Ⅱ]
 | Active 1 effect = MP Restore [II / 18 MP]
 | Active 1 cooldown = 7
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = II / 20 MP
 | Connect 1 / 2 = III / 20 MP
 | Connect effect 2 = Accele MP Gain Up
-| Connect 2 / 1 = II / 15%
-| Connect 2 / 2 = III / 20%
+| Connect 2 / 1 = Self / 1 Turn / II / 15%
+| Connect 2 / 2 = Self / 1 Turn / III / 20%
 
 | Magia name JP = 私なりの全力です
 | Magia name EN = 
@@ -162,12 +162,12 @@
 | Magia 1 / 2 = IV / 1056%
 | Magia effect 2 = Accele MP Gain Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / III / 12.5%
-| Magia 2 / 2 = All / 3 Turns / IV / 15%
+| Magia 2 / 1 = Allies / 3 Turns / III / 12.5%
+| Magia 2 / 2 = Allies / 3 Turns / IV / 15%
 | Magia effect 3 = MP Gain Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 2 Turns / III / 5%
-| Magia 3 / 2 = All / 2 Turns / IV / 5%
+| Magia 3 / 1 = Allies / 2 Turns / III / 5%
+| Magia 3 / 2 = Allies / 2 Turns / IV / 5%
 
 | Doppel Name = 
 | Doppel Title = 

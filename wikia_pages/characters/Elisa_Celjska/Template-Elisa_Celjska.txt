@@ -113,7 +113,7 @@
 | Passive 9 icon = Chance to Chase
 | Passive 9 name = Chase Adept [VI]
 | Passive 9 name JP = チェイス・アデプト[Ⅵ]
-| Passive 9 effect = Chance to Chase [VI / 80%]
+| Passive 9 effect = Chance to Chase [VI / 20%]
 
 | Passive 10 icon = Chance to Evade
 | Passive 10 name = Parry Adept [II]
@@ -136,24 +136,27 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Attack Up
-| Active 1 name = PenetrateAttack [V]
+| Active 1 name = Penetrate Attack [V]
 | Active 1 name JP = ペネトレイトアタック[Ⅴ]
-| Active 1 effect = Attack Up [V / 25%] (Self / 1 Turn) & Chance to Defense Pierce [VII / 40%] (Self / 1 Turn)
+| Active 1 effect = Attack Up [V / 25%] & Chance to Defense Pierce [VII / 40%] (Self / 1 Turn)
 | Active 1 cooldown = 9
 
 | Connect name JP = 主役を譲って差し上げますわ
 | Connect name EN = 
 | Connect name NA = 
 | Connect icon = Chance to Defense Pierce
-| Connect effect 1 = Chance to Defense Pierce
-| Connect 1 / 1 = 100%
-| Connect 1 / 2 = 100%
+| Connect effect 1 = Defense Pierce
+| Connect 1 / 1 = Self / 1 Turn / 
+| Connect 1 / 2 = Self / 1 Turn / 
 | Connect effect 2 = Remove Debuffs
-| Connect 2 / 1 = %
-| Connect 2 / 2 = %
-| Connect effect 3 = Chance to Burn on Attack
-| Connect 3 / 1 = 60%
-| Connect 3 / 2 = 100%
+| Connect 2 / 1 = Self / 
+| Connect 2 / 2 = Self / 
+| Connect effect 3 = Burn on Attack
+| Connect 3 / 1 = -
+| Connect 3 / 2 = 
+| Connect effect 4 = Chance to Burn on Attack
+| Connect 4 / 1 = 60%
+| Connect 4 / 2 = -
 
 | Magia name JP = デア・ドラッヘ・リントヴルム
 | Magia name EN = 
@@ -163,22 +166,22 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
-| Magia effect 2 = Chance to Burn
+| Magia effect 2 = Burn
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = One / 3 Turns / V / 100%
-| Magia 2 / 2 = One / 3 Turns / VII / 100%
+| Magia 2 / 1 = Target / 3 Turns / 
+| Magia 2 / 2 = Target / 3 Turns / 
 | Magia effect 3 = Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 1 Turn / V / 10%
-| Magia 3 / 2 = Self / 3 Turns / VII / 10%
+| Magia 3 / 1 = V / 10%
+| Magia 3 / 2 = VII / 10%
 | Magia effect 4 = Defense Up
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = Self / 1 Turn / V / 15%
+| Magia 4 / 1 = V / 15%
 | Magia 4 / 2 = Self / 3 Turns / VII / 15%
-| Magia effect 5 = Chance to Provoke
+| Magia effect 5 = Provoke
 | Magia scaling 5 = 0%
-| Magia 5 / 1 = Self / 1 Turn / V / 100%
-| Magia 5 / 2 = Self / 1 Turn / VII / 100%
+| Magia 5 / 1 = Self / 1 Turn / 
+| Magia 5 / 2 = Self / 1 Turn / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -186,5 +189,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、暴竜
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Chance to Burn [IX / 100% / One / 3 Turns] & Attack Up [IX / 20% / Self / 3 Turns] & Defense Up [IX / 25% / Self / 3 Turns] & Chance to Provoke [IX / 100% / Self / 1 Turn]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Burn [Target / 3 Turns] & Attack Up [IX / 20%] & Defense Up [IX / 25% / Self / 3 Turns] & Provoke [Self / 1 Turn]
 }}

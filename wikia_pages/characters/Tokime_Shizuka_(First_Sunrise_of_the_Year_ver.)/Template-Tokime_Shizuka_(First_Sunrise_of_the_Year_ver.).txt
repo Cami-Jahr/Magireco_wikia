@@ -116,19 +116,19 @@
 | Passive 9 effect = MP Gain Up [II / 7.5%]
 
 | Passive 10 icon = Regenerate HP
-| Passive 10 name = ナーシングケア [III]
+| Passive 10 name = Nursing Care [III]
 | Passive 10 name JP = ナーシングケア[Ⅲ]
 | Passive 10 effect = Regenerate HP [III / 4%] & Regenerate MP [II / 4.5 MP]
 
 | Passive 11 icon = Forest Attribute Damage Cut
-| Passive 11 name = ティンバーShield Aura [V]
+| Passive 11 name = Timber Shield Aura [V]
 | Passive 11 name JP = ティンバーシールド・オーラ[Ⅴ]
-| Passive 11 effect = Forest Attribute Damage Cut [V / 25%] (All / 5 Turns)
+| Passive 11 effect = Forest Attribute Damage Cut [V / 25%] (Allies / 5 Turns)
 
 | Passive 12 icon = Flame Attribute Attack Up
-| Passive 12 name = フレイムアサルト Aura [VII]
+| Passive 12 name = Flame Assault Aura [VII]
 | Passive 12 name JP = フレイムアサルト・オーラ[Ⅶ]
-| Passive 12 effect = Flame Attribute Attack Up [VII / 20%] (All / 5 Turns) & Blast Damage Up [II / 20%] (All / 5 Turns)
+| Passive 12 effect = Flame Attribute Attack Up [VII / 20%] & Blast Damage Up [II / 20%] (Allies / 5 Turns)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Flame Defense Down
-| Active 1 name = フレイムブレイク [II]
+| Active 1 name = Flame Break [II]
 | Active 1 name JP = フレイムブレイク[Ⅱ]
-| Active 1 effect = Flame Defense Down [II / 13%] (One / 3 Turns)
+| Active 1 effect = Flame Defense Down [II / 13%] (Target / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = 初日の出を共に！
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
 
 | Magia name JP = 巫流・迎春来光ノ儀
 | Magia name EN = 
@@ -162,20 +162,20 @@
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = Flame Attribute Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 7.5%
-| Magia 2 / 2 = All / 3 Turns / VII / 15%
+| Magia 2 / 1 = V / 7.5%
+| Magia 2 / 2 = VII / 15%
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 41.3%
-| Magia 3 / 2 = All / 3 Turns / VII / 48.8%
+| Magia 3 / 1 = V / 41.3%
+| Magia 3 / 2 = VII / 48.8%
 | Magia effect 4 = Status Ailment Resistance Up
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = All / 3 Turns / V / 20%
-| Magia 4 / 2 = All / 3 Turns / VII / 30%
+| Magia 4 / 1 = V / 20%
+| Magia 4 / 2 = VII / 30%
 | Magia effect 5 = Barrier
 | Magia scaling 5 = 0%
-| Magia 5 / 1 = All / 3 Turns / V / 5000 damage
-| Magia 5 / 2 = All / 3 Turns / VII / 5000 damage
+| Magia 5 / 1 = Allies / 3 Turns / V / 5000 damage
+| Magia 5 / 2 = Allies / 3 Turns / VII / 5000 damage
 
 | Doppel Name = 
 | Doppel Title = 
@@ -183,5 +183,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、千手
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 869%] & Flame Attribute Attack Up [IX / 35% / All / 5 Turns] & Defense Up [IX / 66.3% / All / 5 Turns] & Status Ailment Resistance Up [IX / 50% / All / 5 Turns] & Barrier [IX / 8000 damage / All / 5 Turns]
+| Doppel effect = Damage All Enemies [IX / 869%] & Flame Attribute Attack Up [IX / 35%] & Defense Up [IX / 66.3%] & Status Ailment Resistance Up [IX / 50%] & Barrier [IX / 8000 damage / Allies / 5 Turns]
 }}

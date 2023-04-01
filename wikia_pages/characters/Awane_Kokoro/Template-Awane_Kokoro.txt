@@ -103,10 +103,10 @@
 | Passive 7 icon = Endure
 | Passive 7 name = Fortitude Adept
 | Passive 7 name JP = フォティチュード・アデプト
-| Passive 7 effect = Endure [100%]
+| Passive 7 effect = Endure
 
 | Passive 8 icon = Blast Damage Cut
-| Passive 8 name = BlastShield [III]
+| Passive 8 name = Blast Shield [III]
 | Passive 8 name JP = ブラストシールド[Ⅲ]
 | Passive 8 effect = Blast Damage Cut [III / 15%]
 
@@ -136,21 +136,21 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Damage Cut
-| Active 1 name = Shield Circle [V]
+| Active 1 name = Shield Secure [V]
 | Active 1 name JP = シールド・サークル[Ⅴ]
-| Active 1 effect = Damage Cut [V / 25%] (All / 1 Turn)
+| Active 1 effect = Damage Cut [V / 25%] (Allies / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = もうひとりで我慢しないよ
 | Connect name EN = 
 | Connect name NA = 
 | Connect icon = Chance to Counter
-| Connect effect 1 = Chance to Counter
-| Connect 1 / 1 = VII / 100%
-| Connect 1 / 2 = IX / 100%
+| Connect effect 1 = Counter
+| Connect 1 / 1 = 
+| Connect 1 / 2 = 
 | Connect effect 2 = Damage Cut
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
 
 | Magia name JP = ディスクリート・バレット
 | Magia name EN = 
@@ -162,12 +162,12 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Chance to Counter
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 3 Turns / V / 15%
-| Magia 2 / 2 = All / 3 Turns / VII / 20%
+| Magia 2 / 1 = Allies / 3 Turns / V / 15%
+| Magia 2 / 2 = VII / 20%
 | Magia effect 3 = Damage Cut
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = All / 3 Turns / VII / 37.5%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 37.5%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -175,5 +175,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、殻
 | Doppel Japanese Designer = 原案・監修：GAN
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Chance to Counter [IX / 25% / All / 3 Turns] & Damage Cut [IX / 52.5% / All / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Chance to Counter [IX / 25%] & Damage Cut [IX / 52.5% / Allies / 3 Turns]
 }}

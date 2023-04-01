@@ -101,7 +101,7 @@
 | Passive 6 effect = Charge Disc Damage Up [II / 10%]
 
 | Passive 7 icon = Chance to Skill Quicken
-| Passive 7 name = Skill Quicken [II]
+| Passive 7 name = Skill Quick [II]
 | Passive 7 name JP = スキルクイック[Ⅱ]
 | Passive 7 effect = Chance to Skill Quicken [II / 10%]
 
@@ -131,7 +131,7 @@
 | Passive 12 effect = Charged Attack Damage Up [IV / 15%] & Charge Disc Damage Up [II / 10%]
 
 | Passive 13 icon = Light Attribute Attack Up
-| Passive 13 name = ライト Adept [I]
+| Passive 13 name = Light Adept [I]
 | Passive 13 name JP = ライト・アデプト[Ⅰ]
 | Passive 13 effect = Light Attribute Attack Up [I / 5%]
 
@@ -141,7 +141,7 @@
 | Passive 14 effect = Damage Cut [II / 10%]
 
 | Active 1 icon = Charge Conservation
-| Active 1 name = アンブレイカブルCharge
+| Active 1 name = Unbreakable Charge
 | Active 1 name JP = アンブレイカブルチャージ
 | Active 1 effect = Charge Conservation [100%] (Self / 1 Turn)
 | Active 1 cooldown = 6
@@ -157,8 +157,8 @@
 | Connect 2 / 1 = V / 20%
 | Connect 2 / 2 = VII / 25%
 | Connect effect 3 = Charge Conservation
-| Connect 3 / 1 = V / 100%
-| Connect 3 / 2 = VII / 100%
+| Connect 3 / 1 = Self / 1 Turn / V / 100%
+| Connect 3 / 2 = Self / 1 Turn / VII / 100%
 
 | Magia name JP = ハッキング・ライオット
 | Magia name EN = 
@@ -170,12 +170,12 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 25%
-| Magia 2 / 2 = All / 3 Turns / VII / 30%
+| Magia 2 / 1 = Allies / 3 Turns / V / 25%
+| Magia 2 / 2 = Allies / 3 Turns / VII / 30%
 | Magia effect 3 = Charged Attack Received Damage Up
 | Magia scaling 3 = 1%
-| Magia 3 / 1 = One / 3 Turns / V / 5%
-| Magia 3 / 2 = One / 3 Turns / VII / 7%
+| Magia 3 / 1 = Target / 3 Turns / V / 5%
+| Magia 3 / 2 = Target / 3 Turns / VII / 7%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -183,5 +183,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、カーテンレール
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Up [IX / 45% / All / 5 Turns] & Charged Attack Received Damage Up [IX / 13% / One / 5 Turns]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Up [IX / 45% / Allies / 5 Turns] & Charged Attack Received Damage Up [IX / 13% / Target / 5 Turns]
 }}

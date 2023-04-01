@@ -106,7 +106,7 @@
 | Passive 7 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 8 icon = Blast Damage Up
-| Passive 8 name = Full Burst Adept [II]
+| Passive 8 name = Full Blast Adept [II]
 | Passive 8 name JP = フルバースト・アデプト[Ⅱ]
 | Passive 8 effect = Blast Damage Up [II / 16.5%] & Accele MP Gain Up [II / 12.5%]
 
@@ -121,7 +121,7 @@
 | Passive 10 effect = Damage Cut [II / 10%]
 
 | Passive 11 icon = Chance to Skill Quicken
-| Passive 11 name = Skill Quicken [III]
+| Passive 11 name = Skill Quick [III]
 | Passive 11 name JP = スキルクイック[Ⅲ]
 | Passive 11 effect = Chance to Skill Quicken [III / 15%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Damage Up
 | Active 1 name = Concentrate [VI]
 | Active 1 name JP = コンセントレイト[Ⅵ]
-| Active 1 effect = Damage Up [VI / 30%] (Self / 1 Turn) & Chance to Evade [VI / 100%] (Self / 1 Turn)
+| Active 1 effect = Damage Up [VI / 30%] & Evade (Self / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = 共に駆け抜けるっすよ！
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = IV / 17.5%
 | Connect 2 / 2 = VI / 22.5%
 | Connect effect 3 = Accele MP Gain Up
-| Connect 3 / 1 = V / 30%
-| Connect 3 / 2 = VII / 40%
+| Connect 3 / 1 = Self / 1 Turn / V / 30%
+| Connect 3 / 2 = Self / 1 Turn / VII / 40%
 
 | Magia name JP = 行け！ひかる軍団！
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Chance to Critical Hit
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 3 Turns / V / 20%
-| Magia 2 / 2 = All / 3 Turns / VII / 30%
+| Magia 2 / 1 = V / 20%
+| Magia 2 / 2 = VII / 30%
 | Magia effect 3 = Status Ailment Resistance Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 25%
-| Magia 3 / 2 = All / 3 Turns / VII / 35%
+| Magia 3 / 1 = Allies / 3 Turns / V / 25%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 35%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、戦車
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Chance to Critical Hit [IX / 35% / All / 3 Turns] & Status Ailment Resistance Up [IX / 60% / All / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Chance to Critical Hit [IX / 35%] & Status Ailment Resistance Up [IX / 60% / Allies / 3 Turns]
 }}

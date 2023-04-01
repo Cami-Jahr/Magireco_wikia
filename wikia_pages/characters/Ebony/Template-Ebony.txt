@@ -111,24 +111,24 @@
 | Passive 8 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [II / 7.5%]
 
 | Passive 9 icon = Chance to Anti-Magia Seal
-| Passive 9 name = Anti-Magia Seal
+| Passive 9 name = Anti-Seal Magia
 | Passive 9 name JP = アンチ・シールマギア
-| Passive 9 effect = Chance to Anti-Magia Seal [100%]
+| Passive 9 effect = Anti-Magia Seal
 
 | Passive 10 icon = Regenerate HP
-| Passive 10 name = Mana SpringAura [XV]
+| Passive 10 name = Mana Spring Aura [XV]
 | Passive 10 name JP = マナスプリングオーラ[XV]
 | Passive 10 effect = Regenerate MP [XV / 50 MP] (Self / 2 Turns)
 
 | Passive 11 icon = Negate Status Ailments
-| Passive 11 name = ResistShield
+| Passive 11 name = Resist Shield
 | Passive 11 name JP = レジストシールド
-| Passive 11 effect = Negate Status Ailments [100%]
+| Passive 11 effect = Negate Status Ailments [1 Status Ailment]
 
 | Passive 12 icon = Dark Attribute Attack Up
-| Passive 12 name = ダークスラスト Adept [V]
+| Passive 12 name = Dark Thrust Adept [V]
 | Passive 12 name JP = ダークスラスト・アデプト[Ⅴ]
-| Passive 12 effect = Dark Attribute Attack Up [V / 15%] (All) & Accele MP Gain Up [III / 15%] (All)
+| Passive 12 effect = Dark Attribute Attack Up [V / 15%] & Accele MP Gain Up [III / 15%] (Allies)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Dark Attribute Attack Up
-| Active 1 name = DMagia Up Circle [III]
+| Active 1 name = D Magia Up Circle [III]
 | Active 1 name JP = Dマギアアップ・サークル[Ⅲ]
-| Active 1 effect = Dark Attribute Attack Up [III / 10%] (All / 1 Turn) & Magia Damage Up [II / 7.5%] (All / 1 Turn)
+| Active 1 effect = Dark Attribute Attack Up [III / 10%] & Magia Damage Up [II / 7.5%] (Allies / 1 Turn)
 | Active 1 cooldown = 9
 
 | Connect name JP = ベンヌの双翼
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = MP Restore
 | Connect 2 / 1 = V / 22.5 MP
 | Connect 2 / 2 = VII / 27.5 MP
-| Connect effect 3 = Chance to Dazzle on Attack
-| Connect 3 / 1 = V / 100%
-| Connect 3 / 2 = VII / 100%
+| Connect effect 3 = Dazzle on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = ホルスの眼差し　
 | Magia name EN = 
@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VIII / 960%
 | Magia effect 2 = Dark Defense Down
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = One / 2 Turns / VI / 4%
-| Magia 2 / 2 = One / 2 Turns / VIII / 4%
+| Magia 2 / 1 = Target / 2 Turns / VI / 4%
+| Magia 2 / 2 = Target / 2 Turns / VIII / 4%
 | Magia effect 3 = Dark Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / VI / 15%
-| Magia 3 / 2 = All / 3 Turns / VIII / 20%
+| Magia 3 / 1 = VI / 15%
+| Magia 3 / 2 = VIII / 20%
 | Magia effect 4 = Damage Increase
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = All / 3 Turns / VI / 20%
-| Magia 4 / 2 = All / 3 Turns / VIII / 25%
+| Magia 4 / 1 = Allies / 3 Turns / VI / 20%
+| Magia 4 / 2 = Allies / 3 Turns / VIII / 25%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ハゲワシ
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [X / 2340.8%] & Dark Defense Down [X / 8% / One / 3 Turns] & Attack Up [X / 35% / All / 5 Turns] & Dark Attribute Attack Up [X / 35% / All / 5 Turns] & Damage Increase [X / 40% / All / 5 Turns]
+| Doppel effect = Damage One Enemy [X / 2340.8%] & Dark Defense Down [X / 8% / Target / 3 Turns] & Attack Up [X / 35%] & Dark Attribute Attack Up [X / 35%] & Damage Increase [X / 40% / Allies / 5 Turns]
 }}

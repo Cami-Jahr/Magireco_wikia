@@ -118,7 +118,7 @@
 | Passive 10 icon = Blast MP Gain Up
 | Passive 10 name = Blast Salutation [VI]
 | Passive 10 name JP = ブラストサルテーション[Ⅵ]
-| Passive 10 effect = Blast MP Gain Up [VI / 6%]
+| Passive 10 effect = Blast MP Gain Up [VI / 6 MP]
 
 | Passive 11 icon = Blast Damage Up
 | Passive 11 name = Blast Up Aura [IX]
@@ -126,9 +126,9 @@
 | Passive 11 effect = Blast Damage Up [IX / 50%] (Self / 5 Turns)
 
 | Passive 12 icon = Flame Attribute Attack Up
-| Passive 12 name = フレイムライズ Aura [VII]
+| Passive 12 name = Flame Rise Aura [VII]
 | Passive 12 name JP = フレイムライズ・オーラ[Ⅶ]
-| Passive 12 effect = Flame Attribute Attack Up [VII / 20%] (All) & Attack Up [III / 10%] (All)
+| Passive 12 effect = Flame Attribute Attack Up [VII / 20%] & Attack Up [III / 10%] (Allies)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Monopolize Draw
-| Active 1 name = モノポライズドロー
+| Active 1 name = Monopolize Draw
 | Active 1 name JP = モノポライズドロー
-| Active 1 effect = Monopolize Draw [100%]
+| Active 1 effect = Monopolize Draw
 | Active 1 cooldown = 5
 
 | Connect name JP = これが泰党の合わせ技だ
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = I / 20%
 | Connect 2 / 2 = III / 25%
 | Connect effect 3 = Flame Attribute Attack Up
-| Connect 3 / 1 = I / 5%
-| Connect 3 / 2 = III / 10%
+| Connect 3 / 1 = Self / 1 Turn / I / 5%
+| Connect 3 / 2 = Self / 1 Turn / III / 10%
 
 | Magia name JP = 炎獄阿修羅
 | Magia name EN = 
@@ -163,14 +163,14 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 864%
 | Magia 1 / 2 = VII / 928%
-| Magia effect 2 = Chance to Burn
+| Magia effect 2 = Burn
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = One / 3 Turns / V / 100%
-| Magia 2 / 2 = One / 3 Turns / VII / 100%
+| Magia 2 / 1 = Target / 3 Turns / 
+| Magia 2 / 2 = Target / 3 Turns / 
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / V / 30%
-| Magia 3 / 2 = Self / 3 Turns / VII / 40%
+| Magia 3 / 1 = V / 30%
+| Magia 3 / 2 = VII / 40%
 | Magia effect 4 = Flame Attribute Attack Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Self / 3 Turns / V / 25%
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、虚無僧
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Chance to Burn [IX / 100% / One / 3 Turns] & Blast Damage Up [IX / 60% / Self / 5 Turns] & Flame Attribute Attack Up [IX / 45% / Self / 5 Turns] & Blast MP Gain Up [IX / 5% / Self / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Burn [Target / 3 Turns] & Blast Damage Up [IX / 60%] & Flame Attribute Attack Up [IX / 45% / Self / 5 Turns] & Blast MP Gain Up [IX / 5 MP / Self / 3 Turns]
 }}

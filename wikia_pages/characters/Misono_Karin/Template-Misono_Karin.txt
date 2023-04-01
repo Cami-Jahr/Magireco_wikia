@@ -76,7 +76,7 @@
 | Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
 | Passive 2 icon = Chance to Anti-Curse
-| Passive 2 name = Anti-Curse [VII]
+| Passive 2 name = Anti Curse [VII]
 | Passive 2 name JP = アンチ・カース[Ⅶ]
 | Passive 2 effect = Chance to Anti-Curse [VII / 55%]
 
@@ -111,14 +111,14 @@
 | Passive 8 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 9 icon = Chance to Skill Quicken
-| Passive 9 name = Skill Quicken [III]
+| Passive 9 name = Skill Quick [III]
 | Passive 9 name JP = スキルクイック[Ⅲ]
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
 
 | Passive 10 icon = Chance to Anti-Magia Seal
-| Passive 10 name = Anti-Magia Seal
+| Passive 10 name = Anti-Seal Magia
 | Passive 10 name JP = アンチ・シールマギア
-| Passive 10 effect = Chance to Anti-Magia Seal [100%]
+| Passive 10 effect = Anti-Magia Seal
 
 | Passive 11 icon = Doppel Damage Up
 | Passive 11 name = Doppel Adept [III]
@@ -138,7 +138,7 @@
 | Active 1 icon = MP Damage
 | Active 1 name = Ditsy [I]
 | Active 1 name JP = ディトゥシー[Ⅰ]
-| Active 1 effect = MP Damage [I / 30 MP] (One) & Defense Down [V / 25%] (One / 1 Turn)
+| Active 1 effect = MP Damage [I / 30 MP] (Target) & Defense Down [V / 25%] (Target / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = 一夜限りのお手伝いなのっ！
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = Chance to Magia Seal on Attack
 | Connect 2 / 1 = VII / 30%
 | Connect 2 / 2 = IX / 35%
-| Connect effect 3 = Chance to Dazzle on Attack
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect effect 3 = Dazzle on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = キャンディーデススコール
 | Magia name EN = 
@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Defense Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = One / 3 Turns / V / 30%
-| Magia 2 / 2 = One / 3 Turns / VII / 40%
+| Magia 2 / 1 = Target / 3 Turns / V / 30%
+| Magia 2 / 2 = Target / 3 Turns / VII / 40%
 | Magia effect 3 = Accele MP Gain Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 22.5%
-| Magia 3 / 2 = All / 3 Turns / VII / 27.5%
+| Magia 3 / 1 = Allies / 3 Turns / V / 22.5%
+| Magia 3 / 2 = VII / 27.5%
 | Magia effect 4 = Damage Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -
-| Magia 4 / 2 = All / 3 Turns / VII / 32.5%
+| Magia 4 / 2 = Allies / 3 Turns / VII / 32.5%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、モートセーフ
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Defense Down [IX / 60% / One / 3 Turns] & Accele MP Gain Up [IX / 42.5% / All / 3 Turns] & Damage Up [IX / 47.5% / All / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Defense Down [IX / 60% / Target / 3 Turns] & Accele MP Gain Up [IX / 42.5%] & Damage Up [IX / 47.5% / Allies / 3 Turns]
 }}

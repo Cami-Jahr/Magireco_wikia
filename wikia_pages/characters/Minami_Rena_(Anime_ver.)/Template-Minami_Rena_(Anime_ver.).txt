@@ -101,7 +101,7 @@
 | Passive 6 effect = Damage Cut [II / 10%]
 
 | Passive 7 icon = Flame Attribute Damage Cut
-| Passive 7 name = フレイムShield Adept [III]
+| Passive 7 name = Flame Shield Adept [III]
 | Passive 7 name JP = フレイムシールド・アデプト[Ⅲ]
 | Passive 7 effect = Flame Attribute Damage Cut [III / 15%]
 
@@ -116,17 +116,17 @@
 | Passive 9 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [II / 7.5%]
 
 | Passive 10 icon = Chance to Anti-Magia Seal
-| Passive 10 name = Anti-Magia Seal
+| Passive 10 name = Anti-Seal Magia
 | Passive 10 name JP = アンチ・シールマギア
-| Passive 10 effect = Chance to Anti-Magia Seal [100%]
+| Passive 10 effect = Anti-Magia Seal
 
 | Passive 11 icon = Doppel Damage Up
-| Passive 11 name = DoppelAura [VI]
+| Passive 11 name = Doppel Aura [VI]
 | Passive 11 name JP = ドッペルオーラ[Ⅵ]
-| Passive 11 effect = Doppel Damage Up [VI / 30%] (Self / 5 Turns) & Magia Damage Up [V / 15%] (Self / 5 Turns)
+| Passive 11 effect = Doppel Damage Up [VI / 30%] & Magia Damage Up [V / 15%] (Self / 5 Turns)
 
 | Passive 12 icon = Regenerate HP
-| Passive 12 name = Mana SpringAura [XV]
+| Passive 12 name = Mana Spring Aura [XV]
 | Passive 12 name JP = マナスプリングオーラ[XV]
 | Passive 12 effect = Regenerate MP [XV / 50 MP] (Self / 2 Turns)
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Magia Damage Up
-| Active 1 name = MoraleMagiaライズ [V]
+| Active 1 name = Morale Magia Rise [V]
 | Active 1 name JP = モラールマギアライズ[Ⅴ]
-| Active 1 effect = Magia Damage Up [V / 15%] (Self / 3 Turns) & MP Gain Up [V / 15%] (Self / 3 Turns)
+| Active 1 effect = Magia Damage Up [V / 15%] & MP Gain Up [V / 15%] (Self / 3 Turns)
 | Active 1 cooldown = 9
 
 | Connect name JP = 足は引っ張んないでよね
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VIII / 37.5%
 | Connect 1 / 2 = X / 42.5%
 | Connect effect 2 = Accele MP Gain Up
-| Connect 2 / 1 = VIII / 45%
-| Connect 2 / 2 = X / 55%
+| Connect 2 / 1 = Self / 1 Turn / VIII / 45%
+| Connect 2 / 2 = Self / 1 Turn / X / 55%
 
 | Magia name JP = レナ&かえで/ミックスポセイドン
 | Magia name EN = 
@@ -160,14 +160,14 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 896%
 | Magia 1 / 2 = VIII / 960%
-| Magia effect 2 = Chance to Dazzle
+| Magia effect 2 = Dazzle
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = One / 3 Turns / VI / 100%
-| Magia 2 / 2 = One / 3 Turns / VIII / 100%
+| Magia 2 / 1 = 
+| Magia 2 / 2 = 
 | Magia effect 3 = Defense Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = One / 3 Turns / VI / 30%
-| Magia 3 / 2 = One / 3 Turns / VIII / 40%
+| Magia 3 / 1 = Target / 3 Turns / VI / 30%
+| Magia 3 / 2 = Target / 3 Turns / VIII / 40%
 | Magia effect 4 = Magia Damage Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Self / 3 Turns / VI / 25%
@@ -183,5 +183,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage One Enemy [X / 2340.8%] & Chance to Dazzle [X / 100% / One / 3 Turns] & Defense Down [X / 60% / One / 3 Turns] & Magia Damage Up [X / 45% / Self / 5 Turns] & MP Restore [X / 44 MP]
+| Doppel effect = Damage One Enemy [X / 2340.8%] & Dazzle [] & Defense Down [X / 60% / Target / 3 Turns] & Magia Damage Up [X / 45% / Self / 5 Turns] & MP Restore [X / 44 MP]
 }}

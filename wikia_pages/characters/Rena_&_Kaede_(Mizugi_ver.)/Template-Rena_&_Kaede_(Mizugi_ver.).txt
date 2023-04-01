@@ -111,9 +111,9 @@
 | Passive 8 effect = Damage Up [II / 10%]
 
 | Passive 9 icon = Chance to Anti-Magia Seal
-| Passive 9 name = Anti-Magia Seal
+| Passive 9 name = Anti-Seal Magia
 | Passive 9 name JP = アンチ・シールマギア
-| Passive 9 effect = Chance to Anti-Magia Seal [100%]
+| Passive 9 effect = Anti-Magia Seal
 
 | Passive 10 icon = Chance to Evade
 | Passive 10 name = Parry Adept [II]
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Magia Damage Up
-| Active 1 name = BoostMagia [IV]
+| Active 1 name = Boost Magia [IV]
 | Active 1 name JP = ブーストマギア[Ⅳ]
-| Active 1 effect = Magia Damage Up [IV / 12.5%] (Self / 1 Turn) & Damage Up [II / 10%] (Self / 1 Turn)
+| Active 1 effect = Magia Damage Up [IV / 12.5%] & Damage Up [II / 10%] (Self / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = 夏は楽しんだ者勝ちよ！
@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
 | Connect effect 3 = Regenerate HP
-| Connect 3 / 1 = 3 Turns / V / 6%
-| Connect 3 / 2 = 3 Turns / VII / 8%
+| Connect 3 / 1 = Self / 3 Turns / V / 6%
+| Connect 3 / 2 = Self / 3 Turns / VII / 8%
 
 | Magia name JP = 水波レナの「百発百中連発魔球」
 | Magia name EN = 
@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VIII / 345%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / VI / 22.5%
-| Magia 2 / 2 = All / 3 Turns / VIII / 27.5%
+| Magia 2 / 1 = Allies / 3 Turns / VI / 22.5%
+| Magia 2 / 2 = Allies / 3 Turns / VIII / 27.5%
 | Magia effect 3 = MP Restore
 | Magia scaling 3 = 1%
 | Magia 3 / 1 = VI / 16 MP
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [X / 902%] & Attack Up [X / 42.5% / All / 3 Turns] & MP Restore [X / 20 MP / All] & Damage Cut [X / 40% / Self / 1 Turn]
+| Doppel effect = Damage All Enemies [X / 902%] & Attack Up [X / 42.5% / Allies / 3 Turns] & MP Restore [X / 20 MP / Allies] & Damage Cut [X / 40% / Self / 1 Turn]
 }}

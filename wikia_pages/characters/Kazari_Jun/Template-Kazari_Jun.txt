@@ -101,7 +101,7 @@
 | Passive 6 effect = Charge Disc Damage Up [II / 10%]
 
 | Passive 7 icon = Chance to Skill Quicken
-| Passive 7 name = Skill Quicken [II]
+| Passive 7 name = Skill Quick [II]
 | Passive 7 name JP = スキルクイック[Ⅱ]
 | Passive 7 effect = Chance to Skill Quicken [II / 10%]
 
@@ -141,9 +141,9 @@
 | Passive 14 effect = Damage Cut [II / 10%]
 
 | Active 1 icon = Defense Down
-| Active 1 name = Guardダウン [VIII]
+| Active 1 name = Guard Down [VIII]
 | Active 1 name JP = ガードダウン[Ⅷ]
-| Active 1 effect = Defense Down [VIII / 40%] (One / 1 Turn)
+| Active 1 effect = Defense Down [VIII / 40%] (Target / 1 Turn)
 | Active 1 cooldown = 4
 
 | Connect name JP = 一緒にハイになろうぜ…？
@@ -154,8 +154,8 @@
 | Connect 1 / 1 = IX / 40%
 | Connect 1 / 2 = XI / 45%
 | Connect effect 2 = Damage Up
-| Connect 2 / 1 = VII / 35%
-| Connect 2 / 2 = IX / 40%
+| Connect 2 / 1 = Self / 1 Turn / VII / 35%
+| Connect 2 / 2 = Self / 1 Turn / IX / 40%
 
 | Magia name JP = うまみ倍増・駄菓子ミサイル！
 | Magia name EN = 
@@ -167,12 +167,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Chance to Darkness
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 3 Turns / V / 40%
-| Magia 2 / 2 = All / 3 Turns / VII / 45%
+| Magia 2 / 1 = All Enemies / 3 Turns / V / 40%
+| Magia 2 / 2 = All Enemies / 3 Turns / VII / 45%
 | Magia effect 3 = Charged Attack Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 20%
-| Magia 3 / 2 = All / 3 Turns / VII / 25%
+| Magia 3 / 1 = Allies / 3 Turns / V / 20%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 25%
 | Magia effect 4 = Regenerate MP
 | Magia scaling 4 = 1%
 | Magia 4 / 1 = Self / 3 Turns / V / 7.5 MP
@@ -184,5 +184,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、残影
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Chance to Darkness [IX / 100% / All / 3 Turns] & Charged Attack Damage Up [IX / 40% / All / 3 Turns] & Regenerate MP [IX / 23.5 MP / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Darkness [All Enemies / 3 Turns] & Charged Attack Damage Up [IX / 40% / Allies / 3 Turns] & Regenerate MP [IX / 23.5 MP / Self / 3 Turns]
 }}

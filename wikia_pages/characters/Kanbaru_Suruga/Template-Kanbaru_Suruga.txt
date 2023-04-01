@@ -136,9 +136,9 @@
 | Passive 13 effect = Charge Disc Damage Up [II / 10%]
 
 | Active 1 icon = Attack Up
-| Active 1 name = PenetrateAttack [IV]
+| Active 1 name = Penetrate Attack [IV]
 | Active 1 name JP = ペネトレイトアタック[Ⅳ]
-| Active 1 effect = Attack Up [IV / 20%] (Self / 1 Turn) & Chance to Defense Pierce [VII / 40%] (Self / 1 Turn)
+| Active 1 effect = Attack Up [IV / 20%] & Chance to Defense Pierce [VII / 40%] (Self / 1 Turn)
 | Active 1 cooldown = 11
 
 | Connect name JP = 称賛は、チームのみんなで
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VI / 22.5%
 | Connect 2 / 2 = VIII / 27.5%
 | Connect effect 3 = Chance to Critical Hit
-| Connect 3 / 1 = IV / 45%
-| Connect 3 / 2 = VI / 55%
+| Connect 3 / 1 = Self / 1 Turn / IV / 45%
+| Connect 3 / 2 = Self / 1 Turn / VI / 55%
 
 | Magia name JP = ランナーズ・ダイ
 | Magia name EN = 
@@ -163,14 +163,14 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 864%
 | Magia 1 / 2 = VII / 928%
-| Magia effect 2 = Chance to Stun
+| Magia effect 2 = Stun
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = One / 1 Turn / V / 100%
-| Magia 2 / 2 = One / 1 Turn / VII / 100%
+| Magia 2 / 1 = Target / 1 Turn / 
+| Magia 2 / 2 = Target / 1 Turn / 
 | Magia effect 3 = Charged Attack Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 20%
-| Magia 3 / 2 = All / 3 Turns / VII / 25%
+| Magia 3 / 1 = Allies / 3 Turns / V / 20%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 25%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、猿の手
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Chance to Stun [IX / 100% / One / 1 Turn] & Charged Attack Damage Up [IX / 40% / All / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Stun [Target / 1 Turn] & Charged Attack Damage Up [IX / 40% / Allies / 3 Turns]
 }}

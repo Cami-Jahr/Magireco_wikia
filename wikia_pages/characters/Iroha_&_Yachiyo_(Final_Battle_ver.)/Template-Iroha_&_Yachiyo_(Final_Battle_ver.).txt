@@ -96,7 +96,7 @@
 | Passive 5 effect = Damage Cut [II / 10%]
 
 | Passive 6 icon = Damage Increase
-| Passive 6 name = ウェポン Adept [II]
+| Passive 6 name = Weapon Adept [II]
 | Passive 6 name JP = ウェポン・アデプト[Ⅱ]
 | Passive 6 effect = Damage Increase [II / 10%]
 
@@ -116,9 +116,9 @@
 | Passive 9 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]
 
 | Passive 10 icon = Chance to Anti-Bind
-| Passive 10 name = Anti-スネア
+| Passive 10 name = Anti Snare
 | Passive 10 name JP = アンチ・スネア
-| Passive 10 effect = Chance to Anti-Bind [100%] & Chance to Anti-Stun [100%]
+| Passive 10 effect = Anti-Bind & Anti-Stun
 
 | Passive 11 icon = Blast Damage Up
 | Passive 11 name = Blast Adept [II]
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Chance to Anti-Critical Hit
-| Active 1 name = 決戦の加護 [XII]
+| Active 1 name = Final Battle's Divine Protection [XII]
 | Active 1 name JP = 決戦の加護[XII]
-| Active 1 effect = Chance to Anti-Critical Hit [XII / 100%] (All / ∞ Turns) & Damage Cut [XII / 60%] (Self / 1 Turn)
+| Active 1 effect = Anti-Critical Hit (Allies / ∞ Turns) & Damage Cut [XII / 60%] (Self / 1 Turn)
 | Active 1 cooldown = 12
 
 | Connect name JP = 一緒に環になろう
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = HP Restore
 | Connect 2 / 1 = VI / 42.5%
 | Connect 2 / 2 = VIII / 47.5%
 | Connect effect 3 = Chance to Critical Hit
-| Connect 3 / 1 = VII / 60%
-| Connect 3 / 2 = IX / 70%
+| Connect 3 / 1 = Self / 1 Turn / VII / 60%
+| Connect 3 / 2 = Self / 1 Turn / IX / 70%
 
 | Magia name JP = デュエ・アニマ
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 25%
-| Magia 2 / 2 = All / 3 Turns / VII / 30%
+| Magia 2 / 1 = V / 25%
+| Magia 2 / 2 = VII / 30%
 | Magia effect 3 = Damage Up Versus Witches
 | Magia scaling 3 = 1.5%
-| Magia 3 / 1 = All / 3 Turns / V / 17.5%
-| Magia 3 / 2 = All / 3 Turns / VII / 20%
+| Magia 3 / 1 = Allies / 3 Turns / V / 17.5%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 20%
 | Magia effect 4 = Revive one Ally
 | Magia scaling 4 = 1%
 | Magia 4 / 1 = 20%
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ー
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 45% / All / 3 Turns] & Damage Up Versus Witches [IX / 31% / All / 3 Turns] & Revive one Ally [34%]
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 45%] & Damage Up Versus Witches [IX / 31% / Allies / 3 Turns] & Revive one Ally [34%]
 }}

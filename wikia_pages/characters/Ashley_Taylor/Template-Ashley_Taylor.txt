@@ -108,7 +108,7 @@
 | Passive 8 icon = Blast MP Gain Up
 | Passive 8 name = Blast Salutation [V]
 | Passive 8 name JP = ブラストサルテーション[Ⅴ]
-| Passive 8 effect = Blast MP Gain Up [V / 5%]
+| Passive 8 effect = Blast MP Gain Up [V / 5 MP]
 
 | Passive 9 icon = Anti-Debuff
 | Passive 9 name = Anti-Debuff
@@ -121,14 +121,14 @@
 | Passive 10 effect = Chance to Critical Hit [II / 15%]
 
 | Passive 11 icon = Blast Damage Up
-| Passive 11 name = BlastShieldAura [VII]
+| Passive 11 name = Blast Shield Aura [VII]
 | Passive 11 name JP = ブラストシールドオーラ[Ⅶ]
-| Passive 11 effect = Blast Damage Up [VII / 40%] (Self / 5 Turns) & Damage Cut [III / 15%] (Self / 5 Turns)
+| Passive 11 effect = Blast Damage Up [VII / 40%] & Damage Cut [III / 15%] (Self / 5 Turns)
 
 | Passive 12 icon = Chance to Anti-Bind
 | Passive 12 name = Anti-Bind
 | Passive 12 name JP = アンチ・バインド
-| Passive 12 effect = Chance to Anti-Bind [100%]
+| Passive 12 effect = Anti-Bind
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -138,7 +138,7 @@
 | Active 1 icon = Chance to Anti-Provoke
 | Active 1 name = Hawkeye
 | Active 1 name JP = ホークアイ
-| Active 1 effect = Chance to Anti-Provoke [100%] (Self / 1 Turn) & Chance to Anti-Evade [100%] (Self / 1 Turn)
+| Active 1 effect = Anti-Provoke & Anti-Evade (Self / 1 Turn)
 | Active 1 cooldown = 6
 
 | Connect name JP = ニコイチですネー！
@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VII / 70%
 | Connect 1 / 2 = IX / 80%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = VII / 35%
-| Connect 2 / 2 = IX / 40%
-| Connect effect 3 = Chance to Charm on Attack
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect 2 / 1 = Self / 1 Turn / VII / 35%
+| Connect 2 / 2 = Self / 1 Turn / IX / 40%
+| Connect effect 3 = Charm on Attack
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = オシャンティックヘドロ
 | Magia name EN = 
@@ -163,14 +163,14 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 350%
 | Magia 1 / 2 = VIII / 370%
-| Magia effect 2 = Chance to Charm
+| Magia effect 2 = Charm
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 1 Turn / VI / 100%
-| Magia 2 / 2 = All / 1 Turn / VIII / 100%
+| Magia 2 / 1 = All Enemies / 1 Turn / 
+| Magia 2 / 2 = All Enemies / 1 Turn / 
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / VI / 40%
-| Magia 3 / 2 = Self / 3 Turns / VIII / 50%
+| Magia 3 / 1 = VI / 40%
+| Magia 3 / 2 = VIII / 50%
 | Magia effect 4 = Ignore Damage Cut
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = Self / 3 Turns / VI / 100%
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、Kawaii
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [X / 924%] & Chance to Charm [X / 100% / All / 1 Turn] & Blast Damage Up [X / 65% / All / 5 Turns] & Ignore Damage Cut [X / 100% / Self / 5 Turns] & Blast MP Gain Up [X / 5% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [X / 924%] & Charm [All Enemies / 1 Turn] & Blast Damage Up [X / 65% / Allies / 5 Turns] & Ignore Damage Cut [X / 100% / Self / 5 Turns] & Blast MP Gain Up [X / 5 MP / Self / 3 Turns]
 }}

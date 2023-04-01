@@ -116,7 +116,7 @@
 | Passive 9 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 10 icon = Chance to Skill Quicken
-| Passive 10 name = Skill Quicken [II]
+| Passive 10 name = Skill Quick [II]
 | Passive 10 name JP = スキルクイック[Ⅱ]
 | Passive 10 effect = Chance to Skill Quicken [II / 10%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Chance to Evade
 | Active 1 name = Time Skip [V]
 | Active 1 name JP = タイムスキップ[Ⅴ]
-| Active 1 effect = Chance to Evade [V / 100%] (Self / 1 Turn) & Chance to Chase [V / 80%] (Self / 1 Turn)
+| Active 1 effect = Evade & Chance to Chase [V / 30%] (Self / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = あなたの獲物よ
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
 | Connect effect 3 = Chance to Stun on Attack
 | Connect 3 / 1 = VII / 35%
 | Connect 3 / 2 = IX / 50%
@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Chance to Stun
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 1 Turn / V / 47.5%
-| Magia 2 / 2 = All / 1 Turn / VII / 52.5%
+| Magia 2 / 1 = All Enemies / 1 Turn / V / 47.5%
+| Magia 2 / 2 = All Enemies / 1 Turn / VII / 52.5%
 | Magia effect 3 = Chance to Critical Hit
 | Magia scaling 3 = 0%
 | Magia 3 / 1 = Self / 2 Turns / V / 45%
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、此岸
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage 5 Random Enemies [VIII / 622.1999999999999%] & Chance to Stun [VIII / 55% / All / 1 Turn] & Chance to Critical Hit [VIII / 100% / Self / 2 Turns]
+| Doppel effect = Damage 5 Random Enemies [VIII / 622.1999999999999%] & Chance to Stun [VIII / 55% / All Enemies / 1 Turn] & Critical Hit [Self / 2 Turns]
 }}

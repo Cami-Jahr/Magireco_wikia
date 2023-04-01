@@ -93,7 +93,7 @@
 | Passive 5 icon = Blast MP Gain Up
 | Passive 5 name = Blast Salutation [III]
 | Passive 5 name JP = ブラストサルテーション[Ⅲ]
-| Passive 5 effect = Blast MP Gain Up [III / 3%]
+| Passive 5 effect = Blast MP Gain Up [III / 3 MP]
 
 | Passive 6 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
 | Passive 6 name = Charge Combo Plus [II]
@@ -136,9 +136,9 @@
 | Passive 13 effect = Charge Disc Damage Up [II / 10%]
 
 | Active 1 icon = Charged Attack Damage Up
-| Active 1 name = アンブレイカブルCharge [III]
+| Active 1 name = Unbreakable Charge [III]
 | Active 1 name JP = アンブレイカブルチャージ[Ⅲ]
-| Active 1 effect = Charged Attack Damage Up [III / 10%] (Self / 1 Turn) & Charge Conservation [III / 100%] (Self / 1 Turn)
+| Active 1 effect = Charged Attack Damage Up [III / 10%] & Charge Conservation [III / 100%] (Self / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = ふたりなら生命力も倍増さ
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
 | Connect effect 2 = Remove Debuffs
-| Connect 2 / 1 = %
-| Connect 2 / 2 = %
+| Connect 2 / 1 = Self / 
+| Connect 2 / 2 = Self / 
 | Connect effect 3 = Charge Conservation
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect 3 / 1 = Self / 1 Turn / VII / 100%
+| Connect 3 / 2 = Self / 1 Turn / IX / 100%
 
 | Magia name JP = オープン・エクソシズムバスター
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Dark Attribute Damage Cut
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 3 Turns / V / 25%
-| Magia 2 / 2 = All / 3 Turns / VII / 35%
+| Magia 2 / 1 = V / 25%
+| Magia 2 / 2 = VII / 35%
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 35%
-| Magia 3 / 2 = All / 3 Turns / VII / 45%
+| Magia 3 / 1 = Allies / 3 Turns / V / 35%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 45%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ネイル
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Dark Attribute Damage Cut [IX / 45% / All / 3 Turns] & Blast Damage Up [IX / 65% / All / 3 Turns] & Charge Conservation [IX / 100% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Dark Attribute Damage Cut [IX / 45%] & Blast Damage Up [IX / 65% / Allies / 3 Turns] & Charge Conservation [IX / 100% / Self / 3 Turns]
 }}

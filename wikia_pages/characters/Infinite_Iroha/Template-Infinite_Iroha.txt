@@ -96,7 +96,7 @@
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
 | Passive 6 icon = Regenerate HP
-| Passive 6 name = ニートネス Adept [III]
+| Passive 6 name = Neatness Adept [III]
 | Passive 6 name JP = ニートネス・アデプト[Ⅲ]
 | Passive 6 effect = Regenerate HP [III / 4%] & Status Ailment Resistance Up [II / 25%]
 
@@ -111,7 +111,7 @@
 | Passive 8 effect = Attack Up While At Max Health [VI / 30%]
 
 | Passive 9 icon = Attack Up When Ally Dies
-| Passive 9 name = フューリィ Adept [III]
+| Passive 9 name = Fury Adept [III]
 | Passive 9 name JP = フューリィ・アデプト[Ⅲ]
 | Passive 9 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]
 
@@ -126,7 +126,7 @@
 | Passive 11 effect = MP Gauge Increased On Battle Start [15% full]
 
 | Passive 12 icon = Regenerate HP
-| Passive 12 name = Mana SpringAura [XX]
+| Passive 12 name = Mana Spring Aura [XX]
 | Passive 12 name JP = マナスプリングオーラ[XX]
 | Passive 12 effect = Regenerate MP [XX / 100 MP] (Self / 2 Turns)
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Barrier
-| Active 1 name = Rバリア Aura [II]
+| Active 1 name = R Barrier Aura [II]
 | Active 1 name JP = Rバリア・オーラ[Ⅱ]
-| Active 1 effect = Barrier [II / 5000 damage] (All / 3 Turns) & Regenerate HP [II / 3%] (All / 3 Turns)
+| Active 1 effect = Barrier [II / 5000 damage] & Regenerate HP [II / 3%] (Allies / 3 Turns)
 | Active 1 cooldown = 8
 
 | Connect name JP = 私たちが思い描いた明日へ！
@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Regenerate HP
 | Connect effect 1 = Regenerate HP
-| Connect 1 / 1 = 3 Turns / VIII / 9%
-| Connect 1 / 2 = 3 Turns / X / 11%
+| Connect 1 / 1 = Self / 3 Turns / VIII / 9%
+| Connect 1 / 2 = Self / 3 Turns / X / 11%
 | Connect effect 2 = Attack Up
 | Connect 2 / 1 = VIII / 37.5%
 | Connect 2 / 2 = X / 42.5%
 | Connect effect 3 = Defense Up
-| Connect 3 / 1 = VIII / 97.5%
-| Connect 3 / 2 = X / 112.5%
+| Connect 3 / 1 = Self / 1 Turn / VIII / 97.5%
+| Connect 3 / 2 = Self / 1 Turn / X / 112.5%
 
 | Magia name JP = 集結の百夢
 | Magia name EN = 
@@ -169,20 +169,20 @@
 | Magia 2 / 2 = 50%
 | Magia effect 3 = Anti-Debuff
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / 3 Turns / 1 Debuff
-| Magia 3 / 2 = All / 3 Turns / 1 Debuff
+| Magia 3 / 1 = 1 Debuff
+| Magia 3 / 2 = 1 Debuff
 | Magia effect 4 = Negate Status Ailments
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / 3 Turns / V / 100%
-| Magia 4 / 2 = All / 3 Turns / VII / 100%
+| Magia 4 / 1 = 1 Status Ailment
+| Magia 4 / 2 = 1 Status Ailment
 | Magia effect 5 = Regenerate HP
 | Magia scaling 5 = 1%
-| Magia 5 / 1 = All / 3 Turns / V / 8%
-| Magia 5 / 2 = All / 3 Turns / VII / 10%
+| Magia 5 / 1 = Allies / 3 Turns / V / 8%
+| Magia 5 / 2 = Allies / 3 Turns / VII / 10%
 | Magia effect 6 = Remove Status Ailments
 | Magia scaling 6 = 0%
-| Magia 6 / 1 = All / %
-| Magia 6 / 2 = All / %
+| Magia 6 / 1 = Allies / 
+| Magia 6 / 2 = Allies / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -190,5 +190,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、感情
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 869%] & Revive one Ally [100%] & Anti-Debuff [2 Debuffs / All / 5 Turns] & Negate Status Ailments [IX / 100% / All / 5 Turns] & Regenerate HP [IX / 14% / All / 5 Turns] & Remove Status Ailments [% / All] & Imitate Attribute [IX / 100% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 869%] & Revive one Ally [100%] & Anti-Debuff [2 Debuffs] & Negate Status Ailments [2 Status Ailments] & Regenerate HP [IX / 14% / Allies / 5 Turns] & Remove Status Ailments [Allies] & Imitate Attribute [IX / 100% / Self / 3 Turns]
 }}

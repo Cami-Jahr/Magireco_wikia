@@ -96,7 +96,7 @@
 | Passive 5 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 6 icon = Regenerate HP
-| Passive 6 name = Regeneration Adept [III]
+| Passive 6 name = Regenerate Adept [III]
 | Passive 6 name JP = リジェネレイト・アデプト[Ⅲ]
 | Passive 6 effect = Regenerate HP [III / 4%]
 
@@ -108,12 +108,12 @@
 | Passive 8 icon = Chance to Anti-Bind
 | Passive 8 name = Anti-Bind
 | Passive 8 name JP = アンチ・バインド
-| Passive 8 effect = Chance to Anti-Bind [100%]
+| Passive 8 effect = Anti-Bind
 
 | Passive 9 icon = Chance to Anti-Magia Seal
-| Passive 9 name = Anti-Magia Seal
+| Passive 9 name = Anti-Seal Magia
 | Passive 9 name JP = アンチ・シールマギア
-| Passive 9 effect = Chance to Anti-Magia Seal [100%]
+| Passive 9 effect = Anti-Magia Seal
 
 | Passive 10 icon = Magia Damage Up
 | Passive 10 name = Magia Adept [II]
@@ -133,12 +133,12 @@
 | Passive 13 icon = Chance to Anti-Stun
 | Passive 13 name = Anti-Stun
 | Passive 13 name JP = アンチ・スタン
-| Passive 13 effect = Chance to Anti-Stun [100%]
+| Passive 13 effect = Anti-Stun
 
 | Active 1 icon = Chance to Skill Seal
 | Active 1 name = Peaceful Calm [V]
 | Active 1 name JP = ピースフルカーム[Ⅴ]
-| Active 1 effect = Chance to Skill Seal [V / 40%] (All / 1 Turn) & Status Ailment Resistance Up [II / 15%] (All / 3 Turns)
+| Active 1 effect = Chance to Skill Seal [V / 40%] (All Enemies / 1 Turn) & Status Ailment Resistance Up [II / 15%] (Allies / 3 Turns)
 | Active 1 cooldown = 7
 
 | Connect name JP = 涼夏共鳴(レゾナントサマー)
@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VI / 25 MP
 | Connect 1 / 2 = VIII / 30 MP
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
 | Connect effect 3 = Remove Status Ailments
-| Connect 3 / 1 = %
-| Connect 3 / 2 = %
+| Connect 3 / 1 = Self / 
+| Connect 3 / 2 = Self / 
 
 | Magia name JP = 三日月甘蕉船
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VI / 350%
 | Magia effect 2 = Regenerate HP
 | Magia scaling 2 = 1%
-| Magia 2 / 1 = All / 3 Turns / IV / 6%
-| Magia 2 / 2 = All / 3 Turns / VI / 8%
+| Magia 2 / 1 = IV / 6%
+| Magia 2 / 2 = VI / 8%
 | Magia effect 3 = Status Ailment Resistance Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / IV / 15%
-| Magia 3 / 2 = All / 3 Turns / VI / 20%
+| Magia 3 / 1 = Allies / 3 Turns / IV / 15%
+| Magia 3 / 2 = Allies / 3 Turns / VI / 20%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ハーバリウム
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [VIII / 902%] & Regenerate HP [VIII / 14% / All / 3 Turns] & Status Ailment Resistance Up [VIII / 40% / All / 3 Turns]
+| Doppel effect = Damage All Enemies [VIII / 902%] & Regenerate HP [VIII / 14%] & Status Ailment Resistance Up [VIII / 40% / Allies / 3 Turns]
 }}

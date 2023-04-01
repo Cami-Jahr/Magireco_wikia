@@ -111,7 +111,7 @@
 | Passive 8 effect = MP Gain Up [III / 10%]
 
 | Passive 9 icon = Light Attribute Attack Up
-| Passive 9 name = ライト Adept [II]
+| Passive 9 name = Light Adept [II]
 | Passive 9 name JP = ライト・アデプト[Ⅱ]
 | Passive 9 effect = Light Attribute Attack Up [II / 7.5%]
 
@@ -123,12 +123,12 @@
 | Passive 11 icon = Blast MP Gain Up
 | Passive 11 name = Blast Salutation [II]
 | Passive 11 name JP = ブラストサルテーション[Ⅱ]
-| Passive 11 effect = Blast MP Gain Up [II / 2%]
+| Passive 11 effect = Blast MP Gain Up [II / 2 MP]
 
 | Passive 12 icon = Blast MP Gain Up
 | Passive 12 name = Blast Salutation [III]
 | Passive 12 name JP = ブラストサルテーション[Ⅲ]
-| Passive 12 effect = Blast MP Gain Up [III / 3%]
+| Passive 12 effect = Blast MP Gain Up [III / 3 MP]
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Blast Damage Up
-| Active 1 name = ソルジャーハートライズ [V]
+| Active 1 name = Soldier Heart Rise [V]
 | Active 1 name JP = ソルジャーハートライズ[Ⅴ]
-| Active 1 effect = Blast Damage Up [V / 35%] (Self / 3 Turns) & Damage Cut [V / 25%] (Self / 3 Turns)
+| Active 1 effect = Blast Damage Up [V / 35%] & Damage Cut [V / 25%] (Self / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = もうっ！仕方ないわね
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Light Attribute Attack Up
-| Connect 2 / 1 = VII / 20%
-| Connect 2 / 2 = IX / 25%
+| Connect 2 / 1 = Self / 1 Turn / VII / 20%
+| Connect 2 / 2 = Self / 1 Turn / IX / 25%
 
 | Magia name JP = 想いの一閃、受け止めて！
 | Magia name EN = 
@@ -162,12 +162,12 @@
 | Magia 1 / 2 = VII / 500.9%
 | Magia effect 2 = Blast Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / V / 30%
-| Magia 2 / 2 = Self / 3 Turns / VII / 40%
+| Magia 2 / 1 = V / 30%
+| Magia 2 / 2 = VII / 40%
 | Magia effect 3 = Light Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / V / 10%
-| Magia 3 / 2 = Self / 3 Turns / VII / 15%
+| Magia 3 / 1 = V / 10%
+| Magia 3 / 2 = VII / 15%
 | Magia effect 4 = Defense Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Self / 3 Turns / V / 22.5%
@@ -179,5 +179,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、遊園
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage A Horizontal Line [IX / 1194.8%] & Blast Damage Up [IX / 60% / Self / 5 Turns] & Light Attribute Attack Up [IX / 30% / Self / 5 Turns] & Defense Up [IX / 47.5% / Self / 5 Turns]
+| Doppel effect = Damage A Horizontal Line [IX / 1194.8%] & Blast Damage Up [IX / 60%] & Light Attribute Attack Up [IX / 30%] & Defense Up [IX / 47.5% / Self / 5 Turns]
 }}

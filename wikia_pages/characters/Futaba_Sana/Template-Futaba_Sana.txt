@@ -98,7 +98,7 @@
 | Passive 6 icon = Endure
 | Passive 6 name = Fortitude Adept
 | Passive 6 name JP = フォティチュード・アデプト
-| Passive 6 effect = Endure [100%]
+| Passive 6 effect = Endure
 
 | Passive 7 icon = MP Gain Up When Over 100 MP
 | Passive 7 name = MP Boost [II]
@@ -113,7 +113,7 @@
 | Passive 9 icon = MP Gain Up
 | Passive 9 name = Clever Adept [II]
 | Passive 9 name JP = クレバー・アデプト[Ⅱ]
-| Passive 9 effect = MP Gain Up [II / 7.5%] & MP Up When Attacked By Weak Element [I / 2%]
+| Passive 9 effect = MP Gain Up [II / 7.5%] & MP Up When Attacked By Weak Element [I / 2 MP]
 
 | Passive 10 icon = Charge Disc Damage Up
 | Passive 10 name = Technical Adept [II]
@@ -131,12 +131,12 @@
 | Passive 12 effect = Damage Cut [II / 10%]
 
 | Passive 13 icon = Blast Damage Cut
-| Passive 13 name = BlastShield [III]
+| Passive 13 name = Blast Shield [III]
 | Passive 13 name JP = ブラストシールド[Ⅲ]
 | Passive 13 effect = Blast Damage Cut [III / 15%]
 
 | Active 1 icon = Anti-Debuff
-| Active 1 name = Anti-Debuff [III]
+| Active 1 name = Anti Debuff [III]
 | Active 1 name JP = アンチデバフ[Ⅲ]
 | Active 1 effect = Anti-Debuff [3 Debuffs] (Self / 3 Turns)
 | Active 1 cooldown = 6
@@ -146,15 +146,15 @@
 | Connect name NA = 
 | Connect icon = Damage Cut
 | Connect effect 1 = Damage Cut
-| Connect 1 / 1 = VII / 60%
-| Connect 1 / 2 = X / 75%
-| Connect 1 / 3 = XV / 100%
+| Connect 1 / 1 = Self / 1 Turn / VII / 60%
+| Connect 1 / 2 = Self / 1 Turn / X / 75%
+| Connect 1 / 3 = Self / 1 Turn / XV / 100%
 | Connect 1 / 4 = XV / 100%
 | Connect effect 2 = Attack Up
 | Connect 2 / 1 = -
 | Connect 2 / 2 = -
 | Connect 2 / 3 = -
-| Connect 2 / 4 = VI / 32.5%
+| Connect 2 / 4 = Self / 1 Turn / VI / 32.5%
 | Connect effect 3 = Defense Up
 | Connect 3 / 1 = -
 | Connect 3 / 2 = -
@@ -173,16 +173,16 @@
 | Magia 1 / 4 = VI / 350%
 | Magia effect 2 = Defense Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / I / 26.3%
-| Magia 2 / 2 = All / 3 Turns / III / 33.8%
-| Magia 2 / 3 = All / 3 Turns / V / 41.3%
-| Magia 2 / 4 = All / 3 Turns / VI / 48.8%
+| Magia 2 / 1 = Allies / 3 Turns / I / 26.3%
+| Magia 2 / 2 = Allies / 3 Turns / III / 33.8%
+| Magia 2 / 3 = V / 41.3%
+| Magia 2 / 4 = VI / 48.8%
 | Magia effect 3 = Damage Cut
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
-| Magia 3 / 3 = All / 3 Turns / V / 32.5%
-| Magia 3 / 4 = All / 3 Turns / VI / 37.5%
+| Magia 3 / 3 = Allies / 3 Turns / V / 32.5%
+| Magia 3 / 4 = Allies / 3 Turns / VI / 37.5%
 
 | Doppel Name = 
 | Doppel Title = 

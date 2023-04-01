@@ -116,14 +116,14 @@
 | Passive 9 effect = MP Gauge Increased On Battle Start [15% full]
 
 | Passive 10 icon = Chance to Skill Quicken
-| Passive 10 name = Skill Quicken [III]
+| Passive 10 name = Skill Quick [III]
 | Passive 10 name JP = スキルクイック[Ⅲ]
 | Passive 10 effect = Chance to Skill Quicken [III / 15%]
 
 | Passive 11 icon = Chance to Anti-Skill Seal
 | Passive 11 name = Anti-Jammer
 | Passive 11 name JP = アンチ・ジャマ―
-| Passive 11 effect = Chance to Anti-Skill Seal [100%]
+| Passive 11 effect = Anti-Skill Seal
 
 | Passive 12 icon = Chance to Defense Pierce
 | Passive 12 name = Penetrate Adept [II]
@@ -138,7 +138,7 @@
 | Active 1 icon = Anti-Debuff
 | Active 1 name = Cheer Up Tune [II]
 | Active 1 name JP = チアアップ・チューン[Ⅱ]
-| Active 1 effect = Anti-Debuff [2 Debuffs] (All / 1 Turn) & Remove Debuffs [%]
+| Active 1 effect = Anti-Debuff [2 Debuffs] (Allies / 1 Turn) & Remove Debuffs (Self)
 | Active 1 cooldown = 8
 
 | Connect name JP = いざ、討ち入りじゃ！
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = X / 42.5%
 | Connect effect 2 = Accele MP Gain Up
-| Connect 2 / 1 = VII / 40%
-| Connect 2 / 2 = IX / 50%
+| Connect 2 / 1 = Self / 1 Turn / VII / 40%
+| Connect 2 / 2 = Self / 1 Turn / IX / 50%
 
 | Magia name JP = 次はこの曲
 | Magia name EN = 
@@ -162,16 +162,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 5 Turns / V / 17.5%
-| Magia 2 / 2 = All / 5 Turns / VII / 20%
+| Magia 2 / 1 = V / 17.5%
+| Magia 2 / 2 = VII / 20%
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 5 Turns / V / 26.3%
-| Magia 3 / 2 = All / 5 Turns / VII / 30%
+| Magia 3 / 1 = Allies / 5 Turns / V / 26.3%
+| Magia 3 / 2 = VII / 30%
 | Magia effect 4 = Status Ailment Resistance Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -
-| Magia 4 / 2 = All / 5 Turns / VII / 20%
+| Magia 4 / 2 = Allies / 5 Turns / VII / 20%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -179,5 +179,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、短刀
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 42.5% / All / 5 Turns] & Defense Up [IX / 55% / All / 5 Turns] & Status Ailment Resistance Up [IX / 35% / All / 5 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 42.5%] & Defense Up [IX / 55%] & Status Ailment Resistance Up [IX / 35% / Allies / 5 Turns]
 }}

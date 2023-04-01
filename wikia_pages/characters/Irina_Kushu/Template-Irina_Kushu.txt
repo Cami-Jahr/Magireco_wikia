@@ -86,7 +86,7 @@
 | Passive 3 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 4 icon = Regenerate HP
-| Passive 4 name = Regeneration Adept [III]
+| Passive 4 name = Regenerate Adept [III]
 | Passive 4 name JP = リジェネレイト・アデプト[Ⅲ]
 | Passive 4 effect = Regenerate HP [III / 4%]
 
@@ -101,9 +101,9 @@
 | Passive 6 effect = Status Ailment Resistance Up [II / 25%]
 
 | Passive 7 icon = Chance to Anti-Magia Seal
-| Passive 7 name = Anti-Magia Seal
+| Passive 7 name = Anti-Seal Magia
 | Passive 7 name JP = アンチ・シールマギア
-| Passive 7 effect = Chance to Anti-Magia Seal [100%]
+| Passive 7 effect = Anti-Magia Seal
 
 | Passive 8 icon = Doppel Damage Up
 | Passive 8 name = Doppel Adept [I]
@@ -118,7 +118,7 @@
 | Passive 10 icon = MP Up When Attacked By Weak Element
 | Passive 10 name = Revenge Adept [IX]
 | Passive 10 name JP = リベンジ・アデプト[Ⅸ]
-| Passive 10 effect = MP Up When Attacked By Weak Element [IX / 10%]
+| Passive 10 effect = MP Up When Attacked By Weak Element [IX / 10 MP]
 
 | Passive 11 icon = Chance to Evade
 | Passive 11 name = Parry Adept [II]
@@ -126,9 +126,9 @@
 | Passive 11 effect = Chance to Evade [II / 15%]
 
 | Passive 12 icon = Doppel Damage Up
-| Passive 12 name = DoppelAura [VI]
+| Passive 12 name = Doppel Aura [VI]
 | Passive 12 name JP = ドッペルオーラ[Ⅵ]
-| Passive 12 effect = Doppel Damage Up [VI / 30%] (Self / 5 Turns) & Magia Damage Up [V / 15%] (Self / 5 Turns)
+| Passive 12 effect = Doppel Damage Up [VI / 30%] & Magia Damage Up [V / 15%] (Self / 5 Turns)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -138,7 +138,7 @@
 | Active 1 icon = MP Damage
 | Active 1 name = Mana Absorb [I]
 | Active 1 name JP = マナアブソーブ[Ⅰ]
-| Active 1 effect = MP Damage [I / 30 MP] (One) & MP Restore [II / 18 MP]
+| Active 1 effect = MP Damage [I / 30 MP] (Target) & MP Restore [II / 18 MP]
 | Active 1 cooldown = 8
 
 | Connect name JP = …私の手を取って
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Accele MP Gain Up
-| Connect 2 / 1 = VII / 40%
-| Connect 2 / 2 = IX / 50%
+| Connect 2 / 1 = Self / 1 Turn / VII / 40%
+| Connect 2 / 2 = Self / 1 Turn / IX / 50%
 
 | Magia name JP = 粛清天使
 | Magia name EN = 
@@ -162,12 +162,12 @@
 | Magia 1 / 2 = VIII / 345%
 | Magia effect 2 = Magia Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / VI / 20%
-| Magia 2 / 2 = All / 3 Turns / VIII / 24%
+| Magia 2 / 1 = VI / 20%
+| Magia 2 / 2 = VIII / 24%
 | Magia effect 3 = Dark Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / VI / 15%
-| Magia 3 / 2 = All / 3 Turns / VIII / 20%
+| Magia 3 / 1 = Allies / 3 Turns / VI / 15%
+| Magia 3 / 2 = Allies / 3 Turns / VIII / 20%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -175,5 +175,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、蛾
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [X / 902%] & Magia Damage Up [X / 40% / All / 5 Turns] & Dark Attribute Attack Up [X / 35% / All / 5 Turns] & MP Restore [X / 24 MP]
+| Doppel effect = Damage All Enemies [X / 902%] & Magia Damage Up [X / 40%] & Dark Attribute Attack Up [X / 35% / Allies / 5 Turns] & MP Restore [X / 24 MP]
 }}

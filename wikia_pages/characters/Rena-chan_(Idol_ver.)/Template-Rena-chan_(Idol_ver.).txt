@@ -123,7 +123,7 @@
 | Passive 11 icon = Accele MP Gain Up
 | Passive 11 name = Accele Force Adept [III]
 | Passive 11 name JP = アクセルフォースアデプト[Ⅲ]
-| Passive 11 effect = Accele MP Gain Up [III / 15%] (Self / 3 Turns) & Chance to Critical Hit [III / 20%] (Self / 3 Turns)
+| Passive 11 effect = Accele MP Gain Up [III / 15%] & Chance to Critical Hit [III / 20%] (Self / 3 Turns)
 
 | Passive 12 icon = Magia Damage Up
 | Passive 12 name = Magia Adept [III]
@@ -138,7 +138,7 @@
 | Active 1 icon = Attack Up
 | Active 1 name = Uplift [III]
 | Active 1 name JP = アップリフト[Ⅲ]
-| Active 1 effect = Attack Up [III / 15%] (Self / 3 Turns) & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
+| Active 1 effect = Attack Up [III / 15%] & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
 | Active 1 cooldown = 6
 
 | Connect name JP = LOVEきゅんエール
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 40%
 | Connect 2 / 2 = IX / 50%
 | Connect effect 3 = Chance to Critical Hit
-| Connect 3 / 1 = VII / 60%
-| Connect 3 / 2 = IX / 70%
+| Connect 3 / 1 = Self / 1 Turn / VII / 60%
+| Connect 3 / 2 = Self / 1 Turn / IX / 70%
 
 | Magia name JP = 最初の曲は「叶えちゃお」
 | Magia name EN = 
@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Magia Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 18%
-| Magia 2 / 2 = All / 3 Turns / VII / 22%
+| Magia 2 / 1 = Allies / 3 Turns / V / 18%
+| Magia 2 / 2 = Allies / 3 Turns / VII / 22%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -174,5 +174,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、飛び蹴り
 | Doppel Japanese Designer = 原案・監修：PAPA
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Magia Damage Up [IX / 36% / All / 3 Turns]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Magia Damage Up [IX / 36% / Allies / 3 Turns]
 }}

@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Chance to Bind
-| Active 1 name = BindManaCharge [XX]
+| Active 1 name = BindMana Charge [XX]
 | Active 1 name JP = バインドマナチャージ[XX]
-| Active 1 effect = Chance to Bind [XX / 77.5%] (One / 1 Turn) & MP Restore [III / 25 MP]
+| Active 1 effect = Chance to Bind [XX / 77.5%] (Target / 1 Turn) & MP Restore [III / 25 MP]
 | Active 1 cooldown = 10
 
 | Connect name JP = ふたりできっちり、半分こ！
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Damage Cut
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
 
 | Magia name JP = エクシードブレイカー
 | Magia name EN = 

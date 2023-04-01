@@ -145,12 +145,12 @@
 | Connect name EN = 
 | Connect name NA = 
 | Connect icon = Chance to Defense Pierce
-| Connect effect 1 = Chance to Defense Pierce
-| Connect 1 / 1 = VII / 100%
-| Connect 1 / 2 = IX / 100%
+| Connect effect 1 = Defense Pierce
+| Connect 1 / 1 = 
+| Connect 1 / 2 = 
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = VII / 60%
-| Connect 2 / 2 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 2 = Self / 1 Turn / IX / 70%
 
 | Magia name JP = ロンブル
 | Magia name EN = 
@@ -175,5 +175,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、黒影
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
-| Doppel effect = Damage All Enemies [IX / 869%] & MP Restore [IX / 41.5 MP] & Chance to Evade [IX / 100% / Self / 1 Turn]
+| Doppel effect = Damage All Enemies [IX / 869%] & MP Restore [IX / 41.5 MP] & Evade [Self / 1 Turn]
 }}

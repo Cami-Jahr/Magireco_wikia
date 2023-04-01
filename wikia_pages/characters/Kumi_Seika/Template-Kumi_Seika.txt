@@ -111,7 +111,7 @@
 | Passive 8 effect = Damage Cut [II / 10%]
 
 | Passive 9 icon = Chance to Skill Quicken
-| Passive 9 name = Skill Quicken [II]
+| Passive 9 name = Skill Quick [II]
 | Passive 9 name JP = スキルクイック[Ⅱ]
 | Passive 9 effect = Chance to Skill Quicken [II / 10%]
 
@@ -123,7 +123,7 @@
 | Passive 11 icon = Chance to Anti-Skill Seal
 | Passive 11 name = Anti-Jammer
 | Passive 11 name JP = アンチ・ジャマ―
-| Passive 11 effect = Chance to Anti-Skill Seal [100%]
+| Passive 11 effect = Anti-Skill Seal
 
 | Passive 12 icon = MP Gain Up
 | Passive 12 name = Morale Adept [III]
@@ -138,7 +138,7 @@
 | Active 1 icon = Chance to Fog
 | Active 1 name = Fog [IX]
 | Active 1 name JP = フォッグ[Ⅸ]
-| Active 1 effect = Chance to Fog [IX / 50%] (All / 1 Turn)
+| Active 1 effect = Chance to Fog [IX / 50%] (All Enemies / 1 Turn)
 | Active 1 cooldown = 7
 
 | Connect name JP = あの…その…私と…その…
@@ -150,13 +150,17 @@
 | Connect 1 / 2 = VI / 32.5%
 | Connect 1 / 3 = VIII / 37.5%
 | Connect effect 2 = Charged Attack Damage Up
-| Connect 2 / 1 = III / 15%
-| Connect 2 / 2 = V / 20%
-| Connect 2 / 3 = VII / 25%
-| Connect effect 3 = Chance to Fog on Attack
-| Connect 3 / 1 = III / 60%
-| Connect 3 / 2 = V / 100%
-| Connect 3 / 3 = VII / 100%
+| Connect 2 / 1 = Self / 1 Turn / III / 15%
+| Connect 2 / 2 = Self / 1 Turn / V / 20%
+| Connect 2 / 3 = Self / 1 Turn / VII / 25%
+| Connect effect 3 = Fog on Attack
+| Connect 3 / 1 = -
+| Connect 3 / 2 = 
+| Connect 3 / 3 = 
+| Connect effect 4 = Chance to Fog on Attack
+| Connect 4 / 1 = III / 60%
+| Connect 4 / 2 = -
+| Connect 4 / 3 = -
 
 | Magia name JP = サモン・ウェーブ
 | Magia name EN = 
@@ -167,16 +171,21 @@
 | Magia 1 / 1 = I / 300%
 | Magia 1 / 2 = III / 320%
 | Magia 1 / 3 = V / 340%
-| Magia effect 2 = Chance to Fog
+| Magia effect 2 = Fog
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 3 Turns / I / 47.5%
-| Magia 2 / 2 = All / 3 Turns / III / 100%
-| Magia 2 / 3 = All / 3 Turns / V / 100%
+| Magia 2 / 1 = -
+| Magia 2 / 2 = All Enemies / 3 Turns / 
+| Magia 2 / 3 = 
 | Magia effect 3 = Blast Damage Down
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
-| Magia 3 / 3 = All / 3 Turns / V / 25%
+| Magia 3 / 3 = All Enemies / 3 Turns / V / 25%
+| Magia effect 4 = Chance to Fog
+| Magia scaling 4 = 0%
+| Magia 4 / 1 = All Enemies / 3 Turns / I / 47.5%
+| Magia 4 / 2 = -
+| Magia 4 / 3 = -
 
 | Doppel Name = 
 | Doppel Title = 

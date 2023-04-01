@@ -91,9 +91,9 @@
 | Passive 4 effect = MP Gain Up When Over 100 MP [II / 20%]
 
 | Passive 5 icon = Chance to Anti-Magia Seal
-| Passive 5 name = Anti-Magia Seal
+| Passive 5 name = Anti-Seal Magia
 | Passive 5 name JP = アンチ・シールマギア
-| Passive 5 effect = Chance to Anti-Magia Seal [100%]
+| Passive 5 effect = Anti-Magia Seal
 
 | Passive 6 icon = Accele Damage Cut
 | Passive 6 name = Astral Shield [III]
@@ -106,7 +106,7 @@
 | Passive 7 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 8 icon = Chance to Skill Quicken
-| Passive 8 name = Skill Quicken [III]
+| Passive 8 name = Skill Quick [III]
 | Passive 8 name JP = スキルクイック[Ⅲ]
 | Passive 8 effect = Chance to Skill Quicken [III / 15%]
 
@@ -118,7 +118,7 @@
 | Passive 10 icon = Chance to Anti-Skill Seal
 | Passive 10 name = Anti-Jammer
 | Passive 10 name JP = アンチ・ジャマ―
-| Passive 10 effect = Chance to Anti-Skill Seal [100%]
+| Passive 10 effect = Anti-Skill Seal
 
 | Passive 11 icon = Accele MP Gain Up
 | Passive 11 name = Accele Adept [II]
@@ -138,7 +138,7 @@
 | Active 1 icon = Redraw Discs
 | Active 1 name = Disc Shuffle
 | Active 1 name JP = ディスクシャッフル
-| Active 1 effect = Redraw Discs [100%]
+| Active 1 effect = Redraw Discs
 | Active 1 cooldown = 4
 
 | Connect name JP = 高くついても知らないわよぉ♪
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 40%
 | Connect 2 / 2 = IX / 45%
 | Connect effect 3 = Defense Down
-| Connect 3 / 1 = V / 15%
-| Connect 3 / 2 = V / 15%
+| Connect 3 / 1 = Self / 1 Turn / V / 15%
+| Connect 3 / 2 = Self / 1 Turn / V / 15%
 
 | Magia name JP = 絶対自壊演舞
 | Magia name EN = 
@@ -161,24 +161,24 @@
 | Magia icon = Damage All Enemies
 | Magia effect 1 = Damage All Enemies
 | Magia scaling 1 = 0%
-| Magia 1 / 1 = %
-| Magia 1 / 2 = %
-| Magia effect 2 = Chance to Curse
+| Magia 1 / 1 = 
+| Magia 1 / 2 = 
+| Magia effect 2 = Curse
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = Self / 1 Turn / 100%
-| Magia 2 / 2 = Self / 1 Turn / 100%
-| Magia effect 3 = Chance to Poison
+| Magia 2 / 1 = Self / 1 Turn / 
+| Magia 2 / 2 = Self / 1 Turn / 
+| Magia effect 3 = Poison
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = All / 1 Turn / 100%
-| Magia 3 / 2 = All / 3 Turns / 100%
-| Magia effect 4 = Chance to Magia Seal
+| Magia 3 / 1 = 
+| Magia 3 / 2 = 
+| Magia effect 4 = Magia Seal
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / 1 Turn / 100%
-| Magia 4 / 2 = All / 3 Turns / 100%
+| Magia 4 / 1 = All Enemies / 1 Turn / 
+| Magia 4 / 2 = All Enemies / 3 Turns / 
 | Magia effect 5 = Attack Up
 | Magia scaling 5 = 2.5%
-| Magia 5 / 1 = All / 1 Turn / 30%
-| Magia 5 / 2 = All / 3 Turns / 35%
+| Magia 5 / 1 = Allies / 1 Turn / 30%
+| Magia 5 / 2 = Allies / 3 Turns / 35%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -186,5 +186,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、花弁
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [%] & Chance to Curse [100% / Self / 1 Turn] & Chance to Poison [100% / All / 3 Turns] & Chance to Magia Seal [100% / All / 3 Turns] & Attack Up [60% / All / 3 Turns]
+| Doppel effect = Damage All Enemies [] & Curse [Self / 1 Turn] & Poison [] & Magia Seal [All Enemies / 3 Turns] & Attack Up [60% / Allies / 3 Turns]
 }}

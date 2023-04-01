@@ -83,7 +83,7 @@
 | Passive 3 icon = Endure
 | Passive 3 name = Fortitude Adept
 | Passive 3 name JP = フォティチュード・アデプト
-| Passive 3 effect = Endure [100%]
+| Passive 3 effect = Endure
 
 | Passive 4 icon = Doppel Damage Up
 | Passive 4 name = Doppel Adept [I]
@@ -143,31 +143,31 @@
 | Active 1 icon = Chance to Counter
 | Active 1 name = Brave Counter [XIII]
 | Active 1 name JP = ブレイブ・カウンター[XIII]
-| Active 1 effect = Chance to Counter [XIII / 70%] (Self / 1 Turn) & Attack Up [II / 10%] (Self / 1 Turn)
+| Active 1 effect = Chance to Counter [XIII / 70%] & Attack Up [II / 10%] (Self / 1 Turn)
 | Active 1 cooldown = 6
 
 | Connect name JP = 助け合うのが組織の掟ヨ
 | Connect name EN = 
 | Connect name NA = 
 | Connect icon = Chance to Evade
-| Connect effect 1 = Chance to Evade
-| Connect 1 / 1 = V / 100%
-| Connect 1 / 2 = VII / 100%
-| Connect 1 / 3 = IX / 100%
+| Connect effect 1 = Evade
+| Connect 1 / 1 = 
+| Connect 1 / 2 = 
+| Connect 1 / 3 = 
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = V / 50%
-| Connect 2 / 2 = VII / 60%
-| Connect 2 / 3 = IX / 70%
+| Connect 2 / 1 = Self / 1 Turn / V / 50%
+| Connect 2 / 2 = Self / 1 Turn / VII / 60%
+| Connect 2 / 3 = Self / 1 Turn / IX / 70%
 
 | Magia name JP = 鷹影爪風斬
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage One Enemy
-| Magia effect 1 = Chance to Evade
+| Magia effect 1 = Evade
 | Magia scaling 1 = 0%
-| Magia 1 / 1 = Self / 1 Turn / III / 100%
-| Magia 1 / 2 = Self / 1 Turn / V / 100%
-| Magia 1 / 3 = Self / 1 Turn / VII / 100%
+| Magia 1 / 1 = Self / 1 Turn / 
+| Magia 1 / 2 = Self / 1 Turn / 
+| Magia 1 / 3 = Self / 1 Turn / 
 | Magia effect 2 = Damage 4 Random Enemies
 | Magia scaling 2 = 10%
 | Magia 2 / 1 = -
@@ -177,7 +177,7 @@
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
-| Magia 3 / 3 = All / 3 Turns / VII / 25%
+| Magia 3 / 3 = Allies / 3 Turns / VII / 25%
 | Magia effect 4 = Damage 3 Random Enemies
 | Magia scaling 4 = 10%
 | Magia 4 / 1 = -
@@ -195,5 +195,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、タオル
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage 5 Random Enemies [IX / 622.1999999999999%] & Charged Attack Damage Up [IX / 37.5% / All / 3 Turns] & Chance to Evade [IX / 100% / Self / 2 Turns]
+| Doppel effect = Damage 5 Random Enemies [IX / 622.1999999999999%] & Charged Attack Damage Up [IX / 37.5% / Allies / 3 Turns] & Evade [Self / 2 Turns]
 }}

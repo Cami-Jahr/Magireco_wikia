@@ -111,14 +111,14 @@
 | Passive 8 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
 
 | Passive 9 icon = Chance to Skill Quicken
-| Passive 9 name = Skill Quicken [III]
+| Passive 9 name = Skill Quick [III]
 | Passive 9 name JP = スキルクイック[Ⅲ]
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
 
 | Passive 10 icon = Chance to Anti-Magia Seal
-| Passive 10 name = Anti-Magia Seal
+| Passive 10 name = Anti-Seal Magia
 | Passive 10 name JP = アンチ・シールマギア
-| Passive 10 effect = Chance to Anti-Magia Seal [100%]
+| Passive 10 effect = Anti-Magia Seal
 
 | Passive 11 icon = Magia Damage Up
 | Passive 11 name = Magia Adept [II]
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Defense Down
-| Active 1 name = ピューリファイ [V]
+| Active 1 name = Purify [V]
 | Active 1 name JP = ピューリファイ[Ⅴ]
-| Active 1 effect = Defense Down [V / 30%] (One / 1 Turn) & Remove Debuffs [%] (All)
+| Active 1 effect = Defense Down [V / 30%] (Target / 1 Turn) & Remove Debuffs (Allies)
 | Active 1 cooldown = 10
 
 | Connect name JP = 大丈夫、見守っています
@@ -151,9 +151,9 @@
 | Connect effect 2 = Anti-Debuff
 | Connect 2 / 1 = 1 Debuff
 | Connect 2 / 2 = 1 Debuff
-| Connect effect 3 = Chance to Evade
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect effect 3 = Evade
+| Connect 3 / 1 = Self / 1 Turn / 
+| Connect 3 / 2 = Self / 1 Turn / 
 
 | Magia name JP = 燃ゆるは椿の紅
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 25%
-| Magia 2 / 2 = All / 3 Turns / VII / 30%
+| Magia 2 / 1 = V / 25%
+| Magia 2 / 2 = VII / 30%
 | Magia effect 3 = Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 25%
-| Magia 3 / 2 = All / 3 Turns / VII / 30%
+| Magia 3 / 1 = Allies / 3 Turns / V / 25%
+| Magia 3 / 2 = Allies / 3 Turns / VII / 30%
 | Magia effect 4 = Chance to Critical Hit
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = Self / 3 Turns / V / 30%
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、鳥居
 | Doppel Japanese Designer = 原案・監修：千里GAN
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 45% / All / 5 Turns] & Damage Up [IX / 45% / All / 5 Turns] & Flame Attribute Attack Up [IX / 35% / All / 5 Turns] & Chance to Critical Hit [IX / 100% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 45%] & Damage Up [IX / 45%] & Flame Attribute Attack Up [IX / 35% / Allies / 5 Turns] & Critical Hit [Self / 3 Turns]
 }}

@@ -86,9 +86,9 @@
 | Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 4 icon = Chance to Anti-Magia Seal
-| Passive 4 name = Anti-Magia Seal
+| Passive 4 name = Anti-Seal Magia
 | Passive 4 name JP = アンチ・シールマギア
-| Passive 4 effect = Chance to Anti-Magia Seal [100%]
+| Passive 4 effect = Anti-Magia Seal
 
 | Passive 5 icon = Magia Damage Up
 | Passive 5 name = Magia Adept [III]
@@ -111,7 +111,7 @@
 | Passive 8 effect = MP Gain Up [III / 10%]
 
 | Passive 9 icon = Forest Attribute Damage Cut
-| Passive 9 name = ティンバーShield Adept [III]
+| Passive 9 name = Timber Shield Adept [III]
 | Passive 9 name JP = ティンバーシールド・アデプト[Ⅲ]
 | Passive 9 effect = Forest Attribute Damage Cut [III / 15%]
 
@@ -121,7 +121,7 @@
 | Passive 10 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 11 icon = Flame Attribute Attack Up
-| Passive 11 name = フレイム Adept [II]
+| Passive 11 name = Flame Adept [II]
 | Passive 11 name JP = フレイム・アデプト[Ⅱ]
 | Passive 11 effect = Flame Attribute Attack Up [II / 7.5%]
 
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 20%
 | Connect 2 / 2 = IX / 25%
 | Connect effect 3 = Accele MP Gain Up
-| Connect 3 / 1 = VII / 40%
-| Connect 3 / 2 = IX / 50%
+| Connect 3 / 1 = Self / 1 Turn / VII / 40%
+| Connect 3 / 2 = Self / 1 Turn / IX / 50%
 
 | Magia name JP = スーパーカスタムモード始動！
 | Magia name EN = 
@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VIII / 370%
 | Magia effect 2 = Flame Attribute Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / VI / 17.5%
-| Magia 2 / 2 = All / 3 Turns / VIII / 20%
+| Magia 2 / 1 = Allies / 3 Turns / VI / 17.5%
+| Magia 2 / 2 = Allies / 3 Turns / VIII / 20%
 | Magia effect 3 = Attack Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Self / 3 Turns / VI / 30%
@@ -178,5 +178,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [X / 902%] & Defense Down [X / 35% / All / 5 Turns] & Flame Attribute Attack Up [X / 35% / All / 5 Turns] & Attack Up [X / 55% / Self / 5 Turns]
+| Doppel effect = Damage All Enemies [X / 902%] & Defense Down [X / 35% / All Enemies / 5 Turns] & Flame Attribute Attack Up [X / 35% / Allies / 5 Turns] & Attack Up [X / 55% / Self / 5 Turns]
 }}

@@ -116,7 +116,7 @@
 | Passive 9 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 10 icon = Blast Damage Cut
-| Passive 10 name = BlastShield [III]
+| Passive 10 name = Blast Shield [III]
 | Passive 10 name JP = ブラストシールド[Ⅲ]
 | Passive 10 effect = Blast Damage Cut [III / 15%]
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = Charge Disc Damage Up [II / 10%]
 
 | Active 1 icon = Endure
-| Active 1 name = イモータリティ [V]
+| Active 1 name = Immortality [V]
 | Active 1 name JP = イモータリティ[Ⅴ]
-| Active 1 effect = Endure [100%] (Self / 3 Turns) & Regenerate HP [V / 6%] (Self / 3 Turns)
+| Active 1 effect = Endure & Regenerate HP [V / 6%] (Self / 3 Turns)
 | Active 1 cooldown = 12
 
 | Connect name JP = ギブアンドテイクですよ
@@ -146,11 +146,11 @@
 | Connect name NA = 
 | Connect icon = Endure
 | Connect effect 1 = Endure
-| Connect 1 / 1 = 3 Turns / 100%
-| Connect 1 / 2 = 3 Turns / 100%
+| Connect 1 / 1 = Self / 3 Turns / 
+| Connect 1 / 2 = Self / 3 Turns / 
 | Connect effect 2 = Blast Damage Up
-| Connect 2 / 1 = VII / 70%
-| Connect 2 / 2 = IX / 80%
+| Connect 2 / 1 = Self / 1 Turn / VII / 70%
+| Connect 2 / 2 = Self / 1 Turn / IX / 80%
 
 | Magia name JP = メテオ・フィスト
 | Magia name EN = 
@@ -162,8 +162,8 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Survive
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = Self / 2 Turns / V / 22%
-| Magia 2 / 2 = Self / 2 Turns / VII / 25%
+| Magia 2 / 1 = V / 22%
+| Magia 2 / 2 = VII / 25%
 | Magia effect 3 = Regenerate HP
 | Magia scaling 3 = 1%
 | Magia 3 / 1 = Self / 2 Turns / V / 8%
@@ -175,5 +175,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、絆
 | Doppel Japanese Designer = 原案・監修：PAPA
-| Doppel effect = Damage All Enemies [IX / 902%] & Survive [IX / 25% / All / 2 Turns] & Regenerate HP [IX / 14% / All / 2 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Survive [IX / 25%] & Regenerate HP [IX / 14% / Allies / 2 Turns]
 }}

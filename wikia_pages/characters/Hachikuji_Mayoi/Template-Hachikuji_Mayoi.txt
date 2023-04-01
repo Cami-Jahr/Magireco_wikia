@@ -138,7 +138,7 @@
 | Active 1 icon = Endure
 | Active 1 name = Indomitable [IX]
 | Active 1 name JP = インドミタブル[Ⅸ]
-| Active 1 effect = Endure [100%] (Self / 1 Turn) & Regenerate HP [IX / 10%] (Self / 1 Turn)
+| Active 1 effect = Endure & Regenerate HP [IX / 10%] (Self / 1 Turn)
 | Active 1 cooldown = 9
 
 | Connect name JP = 失礼。噛みました
@@ -151,9 +151,12 @@
 | Connect effect 2 = Ignore Damage Cut
 | Connect 2 / 1 = VII / 100%
 | Connect 2 / 2 = IX / 100%
-| Connect effect 3 = Chance to Defense Pierce
-| Connect 3 / 1 = VII / 60%
-| Connect 3 / 2 = IX / 100%
+| Connect effect 3 = Defense Pierce
+| Connect 3 / 1 = -
+| Connect 3 / 2 = Self / 1 Turn / 
+| Connect effect 4 = Chance to Defense Pierce
+| Connect 4 / 1 = Self / 1 Turn / VII / 60%
+| Connect 4 / 2 = -
 
 | Magia name JP = 螺旋帰道
 | Magia name EN = 
@@ -165,8 +168,8 @@
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Defense Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / V / 30%
-| Magia 2 / 2 = All / 3 Turns / VII / 37.5%
+| Magia 2 / 1 = Allies / 3 Turns / V / 30%
+| Magia 2 / 2 = Allies / 3 Turns / VII / 37.5%
 | Magia effect 3 = Ignore Damage Cut
 | Magia scaling 3 = 0%
 | Magia 3 / 1 = Self / 3 Turns / V / 100%
@@ -182,5 +185,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、迷い牛
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2408%] & Defense Up [IX / 55% / All / 3 Turns] & Ignore Damage Cut [IX / 100% / Self / 3 Turns] & HP Restore [IX / 58%]
+| Doppel effect = Damage One Enemy [IX / 2408%] & Defense Up [IX / 55% / Allies / 3 Turns] & Ignore Damage Cut [IX / 100% / Self / 3 Turns] & HP Restore [IX / 58%]
 }}

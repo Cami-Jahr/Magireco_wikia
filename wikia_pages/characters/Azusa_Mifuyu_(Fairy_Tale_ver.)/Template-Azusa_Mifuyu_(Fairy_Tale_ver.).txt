@@ -96,7 +96,7 @@
 | Passive 5 effect = Damage Cut [II / 10%]
 
 | Passive 6 icon = Chance to Skill Quicken
-| Passive 6 name = Skill Quicken [III]
+| Passive 6 name = Skill Quick [III]
 | Passive 6 name JP = スキルクイック[Ⅲ]
 | Passive 6 effect = Chance to Skill Quicken [III / 15%]
 
@@ -111,9 +111,9 @@
 | Passive 8 effect = Chance to Burn on Attack [IV / 25%] (2 Turns)
 
 | Passive 9 icon = Chance to Anti-Magia Seal
-| Passive 9 name = Anti-Magia Seal
+| Passive 9 name = Anti-Seal Magia
 | Passive 9 name JP = アンチ・シールマギア
-| Passive 9 effect = Chance to Anti-Magia Seal [100%]
+| Passive 9 effect = Anti-Magia Seal
 
 | Passive 10 icon = MP Gain Up
 | Passive 10 name = Morale Adept [V]
@@ -126,9 +126,9 @@
 | Passive 11 effect = MP Up When Damaged [IV / 4%]
 
 | Passive 12 icon = Flame Attribute Attack Up
-| Passive 12 name = フレイム Full Swing Up [V]
+| Passive 12 name = Flame Full Swing Up [V]
 | Passive 12 name JP = フレイム・フルスウィング[Ⅴ]
-| Passive 12 effect = Flame Attribute Attack Up [V / 15%] (All / 5 Turns) & Blast Damage Up [I / 15%] (All / 5 Turns) & Charged Attack Damage Up [I / 10%] (All / 5 Turns)
+| Passive 12 effect = Flame Attribute Attack Up [V / 15%] & Blast Damage Up [I / 15%] & Charged Attack Damage Up [I / 10%] (Allies / 5 Turns)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Blast Disc Received Damage Up
-| Active 1 name = Burn Blastフォール [VI]
+| Active 1 name = Burn Blast Fall [VI]
 | Active 1 name JP = バーン・ブラストフォール[Ⅵ]
-| Active 1 effect = Blast Disc Received Damage Up [VI / 6%] (One / 3 Turns) & Chance to Burn [VI / 100%] (One / 1 Turn)
+| Active 1 effect = Blast Disc Received Damage Up [VI / 6%] (Target / 3 Turns) & Burn (Target / 1 Turn)
 | Active 1 cooldown = 9
 
 | Connect name JP = ワタシの火で温めます
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VIII / 37.5%
 | Connect 1 / 2 = X / 42.5%
 | Connect effect 2 = Flame Attribute Attack Up
-| Connect 2 / 1 = VIII / 22.5%
-| Connect 2 / 2 = X / 27.5%
+| Connect 2 / 1 = Self / 1 Turn / VIII / 22.5%
+| Connect 2 / 2 = Self / 1 Turn / X / 27.5%
 
 | Magia name JP = 炎上パラノイア
 | Magia name EN = 
@@ -160,22 +160,22 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
-| Magia effect 2 = Chance to Burn
+| Magia effect 2 = Burn
 | Magia scaling 2 = 0%
-| Magia 2 / 1 = All / 3 Turns / V / 100%
-| Magia 2 / 2 = All / 3 Turns / VII / 100%
+| Magia 2 / 1 = All Enemies / 3 Turns / 
+| Magia 2 / 2 = All Enemies / 3 Turns / 
 | Magia effect 3 = Flame Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All / 3 Turns / V / 15%
-| Magia 3 / 2 = All / 3 Turns / VII / 20%
+| Magia 3 / 1 = V / 15%
+| Magia 3 / 2 = VII / 20%
 | Magia effect 4 = Blast Damage Up
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = All / 3 Turns / V / 15%
-| Magia 4 / 2 = All / 3 Turns / VII / 20%
+| Magia 4 / 1 = Allies / 3 Turns / V / 15%
+| Magia 4 / 2 = Allies / 3 Turns / VII / 20%
 | Magia effect 5 = Charge Conservation
 | Magia scaling 5 = 0%
-| Magia 5 / 1 = All / 2 Turns / V / 100%
-| Magia 5 / 2 = All / 2 Turns / VII / 100%
+| Magia 5 / 1 = Allies / 2 Turns / V / 100%
+| Magia 5 / 2 = Allies / 2 Turns / VII / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -183,5 +183,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、鳥捕り
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Chance to Burn [IX / 100% / All / 3 Turns] & Flame Attribute Attack Up [IX / 35% / All / 5 Turns] & Blast Damage Up [IX / 35% / All / 5 Turns] & Charge Conservation [IX / 100% / All / 2 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Burn [All Enemies / 3 Turns] & Flame Attribute Attack Up [IX / 35%] & Blast Damage Up [IX / 35% / Allies / 5 Turns] & Charge Conservation [IX / 100% / Allies / 2 Turns]
 }}

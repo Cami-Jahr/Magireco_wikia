@@ -101,7 +101,7 @@
 | Passive 6 effect = Charged Attack Damage Up [II / 10%]
 
 | Passive 7 icon = Regenerate HP
-| Passive 7 name = Regeneration Adept [II]
+| Passive 7 name = Regenerate Adept [II]
 | Passive 7 name JP = リジェネレイト・アデプト[Ⅱ]
 | Passive 7 effect = Regenerate HP [II / 3%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = Attack Up
 | Active 1 name = Possesion [IV]
 | Active 1 name JP = ポゼッション[Ⅳ]
-| Active 1 effect = Attack Up [IV / 20%] (Self / 3 Turns) & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns) & Regenerate HP [III / 4%] (Self / 3 Turns)
+| Active 1 effect = Attack Up [IV / 20%] & Status Ailment Resistance Up [III / 30%] & Regenerate HP [III / 4%] (Self / 3 Turns)
 | Active 1 cooldown = 8
 
 | Connect name JP = 険しい道は私が案内します
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = V / 30%
 | Connect 1 / 2 = VII / 35%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = V / 50%
-| Connect 2 / 2 = VII / 60%
+| Connect 2 / 1 = Self / 1 Turn / V / 50%
+| Connect 2 / 2 = Self / 1 Turn / VII / 60%
 
 | Magia name JP = ネイチャー・リグレッション
 | Magia name EN = 
@@ -162,8 +162,8 @@
 | Magia 1 / 2 = V / 864%
 | Magia effect 2 = Status Ailment Resistance Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / III / 30%
-| Magia 2 / 2 = All / 3 Turns / V / 40%
+| Magia 2 / 1 = Allies / 3 Turns / III / 30%
+| Magia 2 / 2 = Allies / 3 Turns / V / 40%
 
 | Doppel Name = 
 | Doppel Title = 

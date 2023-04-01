@@ -83,7 +83,7 @@
 | Passive 3 icon = Endure
 | Passive 3 name = Fortitude Adept
 | Passive 3 name JP = フォティチュード・アデプト
-| Passive 3 effect = Endure [100%]
+| Passive 3 effect = Endure
 
 | Passive 4 icon = Charge Disc Damage Up
 | Passive 4 name = Technical Adept [II]
@@ -128,7 +128,7 @@
 | Passive 12 icon = Chance to Anti-Bind
 | Passive 12 name = Anti-Bind
 | Passive 12 name JP = アンチ・バインド
-| Passive 12 effect = Chance to Anti-Bind [100%]
+| Passive 12 effect = Anti-Bind
 
 | Passive 13 icon = Charged Attack Damage Up
 | Passive 13 name = Charge Expert [IV]
@@ -138,7 +138,7 @@
 | Active 1 icon = Attack Down
 | Active 1 name = Attack Down [VII]
 | Active 1 name JP = アタックダウン[Ⅶ]
-| Active 1 effect = Attack Down [VII / 35%] (One / 1 Turn)
+| Active 1 effect = Attack Down [VII / 35%] (Target / 1 Turn)
 | Active 1 cooldown = 4
 
 | Connect name JP = 相棒ってカッコイイよね！
@@ -146,14 +146,17 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = VII / 35%
-| Connect 1 / 2 = IX / 40%
-| Connect effect 2 = Chance to Bind on Attack
-| Connect 2 / 1 = VII / 100%
-| Connect 2 / 2 = IX / 100%
-| Connect effect 3 = Chance to Stun on Attack
-| Connect 3 / 1 = VII / 50%
-| Connect 3 / 2 = IX / 100%
+| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect effect 2 = Bind on Attack
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
+| Connect effect 3 = Stun on Attack
+| Connect 3 / 1 = -
+| Connect 3 / 2 = 
+| Connect effect 4 = Chance to Stun on Attack
+| Connect 4 / 1 = VII / 50%
+| Connect 4 / 2 = -
 
 | Magia name JP = 魔法同心・ちはる捕物帳
 | Magia name EN = 
@@ -165,16 +168,16 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Defense Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = One / 3 Turns / V / 15%
-| Magia 2 / 2 = One / 3 Turns / VII / 20%
+| Magia 2 / 1 = V / 15%
+| Magia 2 / 2 = VII / 20%
 | Magia effect 3 = Status Ailment Resistance Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = One / 3 Turns / V / 10%
-| Magia 3 / 2 = One / 3 Turns / VII / 15%
-| Magia effect 4 = Chance to Bind
+| Magia 3 / 1 = Target / 3 Turns / V / 10%
+| Magia 3 / 2 = Target / 3 Turns / VII / 15%
+| Magia effect 4 = Bind
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = One / 1 Turn / V / 100%
-| Magia 4 / 2 = One / 1 Turn / VII / 100%
+| Magia 4 / 1 = Target / 1 Turn / 
+| Magia 4 / 2 = Target / 1 Turn / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +185,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は袖搦
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Defense Down [IX / 40% / One / 3 Turns] & Status Ailment Resistance Down [IX / 30% / One / 3 Turns] & Chance to Bind [IX / 100% / One / 1 Turn]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & Defense Down [IX / 40%] & Status Ailment Resistance Down [IX / 30% / Target / 3 Turns] & Bind [Target / 1 Turn]
 }}

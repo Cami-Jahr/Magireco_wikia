@@ -138,7 +138,7 @@
 | Active 1 icon = MP Gain Down
 | Active 1 name = Howling Roar [VI]
 | Active 1 name JP = ハウリングロアー[Ⅵ]
-| Active 1 effect = MP Gain Down [VI / 35%] (All / 1 Turn) & Defense Down [III / 15%] (All / 1 Turn)
+| Active 1 effect = MP Gain Down [VI / 35%] & Defense Down [III / 15%] (All Enemies / 1 Turn)
 | Active 1 cooldown = 9
 
 | Connect name JP = だいたいわかったぞ！
@@ -150,13 +150,13 @@
 | Connect 1 / 2 = VIII / 27.5%
 | Connect 1 / 3 = X / 32.5%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = V / 30%
-| Connect 2 / 2 = VII / 35%
-| Connect 2 / 3 = IX / 40%
-| Connect effect 3 = Chance to Skill Seal
-| Connect 3 / 1 = Self / 2 Turns / V / 100%
-| Connect 3 / 2 = Self / 2 Turns / VII / 100%
-| Connect 3 / 3 = Self / 2 Turns / IX / 100%
+| Connect 2 / 1 = Self / 1 Turn / V / 30%
+| Connect 2 / 2 = Self / 1 Turn / VII / 35%
+| Connect 2 / 3 = Self / 1 Turn / IX / 40%
+| Connect effect 3 = Skill Seal
+| Connect 3 / 1 = Self / 2 Turns / 
+| Connect 3 / 2 = Self / 2 Turns / 
+| Connect 3 / 3 = Self / 2 Turns / 
 
 | Magia name JP = BITE! BITE! BITE! 
 | Magia name EN = 
@@ -169,14 +169,14 @@
 | Magia 1 / 3 = VII / 1152%
 | Magia effect 2 = MP Gain Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = One / 3 Turns / III / 20%
-| Magia 2 / 2 = One / 3 Turns / V / 30%
-| Magia 2 / 3 = One / 3 Turns / VII / 40%
+| Magia 2 / 1 = III / 20%
+| Magia 2 / 2 = V / 30%
+| Magia 2 / 3 = VII / 40%
 | Magia effect 3 = Defense Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = One / 3 Turns / III / 15%
-| Magia 3 / 2 = One / 3 Turns / V / 25%
-| Magia 3 / 3 = One / 3 Turns / VII / 35%
+| Magia 3 / 1 = Target / 3 Turns / III / 15%
+| Magia 3 / 2 = Target / 3 Turns / V / 25%
+| Magia 3 / 3 = Target / 3 Turns / VII / 35%
 | Magia effect 4 = HP Restore
 | Magia scaling 4 = 2%
 | Magia 4 / 1 = III / 32.5%
@@ -189,5 +189,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、牛酪
 | Doppel Japanese Designer = 原案・監修：PAPA
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & MP Gain Down [IX / 60% / One / 3 Turns] & Defense Down [IX / 55% / One / 3 Turns] & HP Restore [IX / 58%]
+| Doppel effect = Damage One Enemy [IX / 2763.2%] & MP Gain Down [IX / 60%] & Defense Down [IX / 55% / Target / 3 Turns] & HP Restore [IX / 58%]
 }}

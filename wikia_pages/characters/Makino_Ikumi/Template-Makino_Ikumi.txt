@@ -96,7 +96,7 @@
 | Passive 5 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
 
 | Passive 6 icon = Regenerate HP
-| Passive 6 name = Regeneration Adept [II]
+| Passive 6 name = Regenerate Adept [II]
 | Passive 6 name JP = リジェネレイト・アデプト[Ⅱ]
 | Passive 6 effect = Regenerate HP [II / 3%]
 
@@ -113,10 +113,10 @@
 | Passive 9 icon = Chance to Anti-Skill Seal
 | Passive 9 name = Anti-Jammer
 | Passive 9 name JP = アンチ・ジャマ―
-| Passive 9 effect = Chance to Anti-Skill Seal [100%]
+| Passive 9 effect = Anti-Skill Seal
 
 | Passive 10 icon = Magia Damage Cut
-| Passive 10 name = MagiaShield [V]
+| Passive 10 name = Magia Shield [V]
 | Passive 10 name JP = マギアシールド[Ⅴ]
 | Passive 10 effect = Magia Damage Cut [V / 25%]
 
@@ -138,7 +138,7 @@
 | Active 1 icon = HP Restore
 | Active 1 name = Cure Heal Circle [XII]
 | Active 1 name JP = キュアヒール・サークル[XII]
-| Active 1 effect = HP Restore [XII / 28.7%] (All)
+| Active 1 effect = HP Restore [XII / 28.7%] (Allies)
 | Active 1 cooldown = 10
 
 | Connect name JP = 一緒に魔法をかけますよぉ～っ？
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 45%
 | Connect 1 / 2 = IX / 50%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = V / 30%
-| Connect 2 / 2 = VII / 35%
+| Connect 2 / 1 = Self / 1 Turn / V / 30%
+| Connect 2 / 2 = Self / 1 Turn / VII / 35%
 | Connect effect 3 = Chance to Magia Seal on Attack
 | Connect 3 / 1 = V / 30%
 | Connect 3 / 2 = VII / 35%
@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VI / 1120%
 | Magia effect 2 = Defense Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All / 3 Turns / IV / 37.5%
-| Magia 2 / 2 = All / 3 Turns / VI / 45%
+| Magia 2 / 1 = Allies / 3 Turns / IV / 37.5%
+| Magia 2 / 2 = Allies / 3 Turns / VI / 45%
 | Magia effect 3 = HP Restore
 | Magia scaling 3 = 2%
-| Magia 3 / 1 = All / IV / 20%
-| Magia 3 / 2 = All / VI / 22.5%
+| Magia 3 / 1 = IV / 20%
+| Magia 3 / 2 = VI / 22.5%
 | Magia effect 4 = Remove Status Ailments
 | Magia scaling 4 = 0%
-| Magia 4 / 1 = All / %
-| Magia 4 / 2 = All / %
+| Magia 4 / 1 = Allies / 
+| Magia 4 / 2 = Allies / 
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ゼンマイ人形
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [VIII / 2200%] & Defense Up [VIII / 62.5% / All / 3 Turns] & HP Restore [VIII / 33% / All] & Remove Status Ailments [% / All]
+| Doppel effect = Damage One Enemy [VIII / 2200%] & Defense Up [VIII / 62.5% / Allies / 3 Turns] & HP Restore [VIII / 33%] & Remove Status Ailments [Allies]
 }}

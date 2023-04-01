@@ -106,19 +106,19 @@
 | Passive 7 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 8 icon = Aqua Attribute Attack Up
-| Passive 8 name = アクア Adept [II]
+| Passive 8 name = Aqua Adept [II]
 | Passive 8 name JP = アクア・アデプト[Ⅱ]
 | Passive 8 effect = Aqua Attribute Attack Up [II / 7.5%]
 
 | Passive 9 icon = Blast MP Gain Up
 | Passive 9 name = Blast Salutation [VII]
 | Passive 9 name JP = ブラストサルテーション[Ⅶ]
-| Passive 9 effect = Blast MP Gain Up [VII / 7%]
+| Passive 9 effect = Blast MP Gain Up [VII / 7 MP]
 
 | Passive 10 icon = Chance to Anti-Provoke
 | Passive 10 name = Hawkeye Aura
 | Passive 10 name JP = ホークアイ・オーラ
-| Passive 10 effect = Chance to Anti-Provoke [100%] (Self / 3 Turns) & Chance to Anti-Evade [100%] (Self / 3 Turns)
+| Passive 10 effect = Anti-Provoke & Anti-Evade (Self / 3 Turns)
 
 | Passive 11 icon = Attack Up When Ally Dies
 | Passive 11 name = Inherited Protection [III]
@@ -126,7 +126,7 @@
 | Passive 11 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]
 
 | Passive 12 icon = Imitate Attribute
-| Passive 12 name = ヴァリアブルAura
+| Passive 12 name = Variable Aura
 | Passive 12 name JP = ヴァリアブルオーラ
 | Passive 12 effect = Imitate Attribute [100%] (Self / 3 Turns)
 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Blast Damage Up
-| Active 1 name = ソルジャーハート [VI]
+| Active 1 name = Soldier Heart [VI]
 | Active 1 name JP = ソルジャーハート[Ⅵ]
-| Active 1 effect = Blast Damage Up [VI / 40%] (Self / 1 Turn) & Damage Cut [XIV / 70%] (Self / 1 Turn)
+| Active 1 effect = Blast Damage Up [VI / 40%] & Damage Cut [XIV / 70%] (Self / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = その想いも連れていくから
@@ -148,9 +148,9 @@
 | Connect effect 1 = Blast Damage Up
 | Connect 1 / 1 = VII / 70%
 | Connect 1 / 2 = IX / 80%
-| Connect effect 2 = Chance to Defense Pierce
-| Connect 2 / 1 = VII / 100%
-| Connect 2 / 2 = IX / 100%
+| Connect effect 2 = Defense Pierce
+| Connect 2 / 1 = Self / 1 Turn / 
+| Connect 2 / 2 = Self / 1 Turn / 
 
 | Magia name JP = アブソリュート・ラピッズ
 | Magia name EN = 
@@ -162,12 +162,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / V / 30%
-| Magia 2 / 2 = Self / 3 Turns / VII / 40%
+| Magia 2 / 1 = V / 30%
+| Magia 2 / 2 = VII / 40%
 | Magia effect 3 = Chance to Defense Pierce
 | Magia scaling 3 = 0%
-| Magia 3 / 1 = Self / 3 Turns / V / 50%
-| Magia 3 / 2 = Self / 3 Turns / VII / 60%
+| Magia 3 / 1 = V / 50%
+| Magia 3 / 2 = VII / 60%
 | Magia effect 4 = Imitate Attribute
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = Self / 3 Turns / V / 100%
@@ -179,5 +179,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、切符鋏
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 60% / Self / 5 Turns] & Chance to Defense Pierce [IX / 100% / Self / 3 Turns] & Imitate Attribute [IX / 100% / Self / 3 Turns]
+| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 60% / Self / 5 Turns] & Defense Pierce [] & Imitate Attribute [IX / 100% / Self / 3 Turns]
 }}

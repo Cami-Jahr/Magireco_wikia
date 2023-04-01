@@ -86,7 +86,7 @@
 | Passive 3 effect = Charged Attack Damage Up [II / 10%]
 
 | Passive 4 icon = Attack Up When Ally Dies
-| Passive 4 name = フューリィ Adept [II]
+| Passive 4 name = Fury Adept [II]
 | Passive 4 name JP = フューリィ・アデプト[Ⅱ]
 | Passive 4 effect = Attack Up When Ally Dies [II / 3.8%] & Defense Up When Ally Dies [II / 7.6%]
 
@@ -96,9 +96,9 @@
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
 | Passive 6 icon = Chance to Anti-Counter
-| Passive 6 name = イグノア Counter
+| Passive 6 name = Ignore Counter
 | Passive 6 name JP = イグノア・カウンター
-| Passive 6 effect = Chance to Anti-Counter [100%]
+| Passive 6 effect = Anti-Counter
 
 | Passive 7 icon = Accele MP Gain Up
 | Passive 7 name = Accele Adept [II]
@@ -126,9 +126,9 @@
 | Passive 11 effect = Chance to Anti-Evade [III / 35%]
 
 | Passive 12 icon = Blast Damage Up
-| Passive 12 name = ウェポンBlastAura [II]
+| Passive 12 name = Weapon Blast Aura [II]
 | Passive 12 name JP = ウェポンブラストオーラ[Ⅱ]
-| Passive 12 effect = Blast Damage Up [II / 20%] (All / 5 Turns) & Damage Increase [I / 15%] (All / 5 Turns)
+| Passive 12 effect = Blast Damage Up [II / 20%] & Damage Increase [I / 15%] (Allies / 5 Turns)
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = Attack Up When At Critical Health
-| Active 1 name = インテンショナル クライシス
+| Active 1 name = Intentional Crisis
 | Active 1 name JP = インテンショナル・クライシス
-| Active 1 effect = Attack Up When At Critical Health [XI / 60%] (Self / 3 Turns) & Defense Up When At Critical Health [IX / 100%] (Self / 3 Turns) & Barrier [IX / 10000 damage] (Self / 3 Turns) & {{Receive Damage [80.1%]
+| Active 1 effect = Attack Up When At Critical Health [XI / 60%] & Defense Up When At Critical Health [IX / 100%] & Barrier [IX / 10000 damage] (Self / 3 Turns) & {{Receive Damage [80.1%]
 | Active 1 cooldown = 8
 
 | Connect name JP = 共に恨みを晴らしましょう
@@ -148,12 +148,12 @@
 | Connect effect 1 = Attack Up
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
-| Connect effect 2 = Chance to Defense Pierce
-| Connect 2 / 1 = VII / 100%
-| Connect 2 / 2 = IX / 100%
-| Connect effect 3 = Chance to Anti-Evade
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect effect 2 = Defense Pierce
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
+| Connect effect 3 = Anti-Evade
+| Connect 3 / 1 = Self / 1 Turn / 
+| Connect 3 / 2 = Self / 1 Turn / 
 
 | Magia name JP = 雷霆の埋葬
 | Magia name EN = 
@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / V / 15%
-| Magia 2 / 2 = Self / 3 Turns / VII / 25%
+| Magia 2 / 1 = V / 15%
+| Magia 2 / 2 = VII / 25%
 | Magia effect 3 = Magia Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / V / 20%
-| Magia 3 / 2 = Self / 3 Turns / VII / 25%
+| Magia 3 / 1 = V / 20%
+| Magia 3 / 2 = VII / 25%
 | Magia effect 4 = Barrier
 | Magia scaling 4 = 0%
 | Magia 4 / 1 = Self / 3 Turns / V / 7000 damage
@@ -182,5 +182,5 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、獄卒
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2270.4%] & Attack Up [IX / 45% / Self / 5 Turns] & Magia Damage Up [IX / 45% / Self / 5 Turns] & Light Attribute Attack Up [IX / 20% / Self / 5 Turns] & Barrier [IX / 15000 damage / Self / 5 Turns]
+| Doppel effect = Damage One Enemy [IX / 2270.4%] & Attack Up [IX / 45%] & Magia Damage Up [IX / 45%] & Light Attribute Attack Up [IX / 20%] & Barrier [IX / 15000 damage / Self / 5 Turns]
 }}
