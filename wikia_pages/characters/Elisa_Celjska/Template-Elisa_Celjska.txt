@@ -146,11 +146,11 @@
 | Connect name NA = 
 | Connect icon = Chance to Defense Pierce
 | Connect effect 1 = Defense Pierce
-| Connect 1 / 1 = Self / 1 Turn / 
-| Connect 1 / 2 = Self / 1 Turn / 
+| Connect 1 / 1 = 
+| Connect 1 / 2 = 
 | Connect effect 2 = Remove Debuffs
-| Connect 2 / 1 = Self / 
-| Connect 2 / 2 = Self / 
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
 | Connect effect 3 = Burn on Attack
 | Connect 3 / 1 = -
 | Connect 3 / 2 = 
@@ -167,7 +167,7 @@
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Burn
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = Target / 3 Turns / 
 | Magia 2 / 2 = Target / 3 Turns / 
 | Magia effect 3 = Attack Up
@@ -179,7 +179,7 @@
 | Magia 4 / 1 = V / 15%
 | Magia 4 / 2 = Self / 3 Turns / VII / 15%
 | Magia effect 5 = Provoke
-| Magia scaling 5 = 0%
+| Magia scaling 5 = -
 | Magia 5 / 1 = Self / 1 Turn / 
 | Magia 5 / 2 = Self / 1 Turn / 
 

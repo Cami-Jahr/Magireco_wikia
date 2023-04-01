@@ -146,8 +146,8 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / VIII / 37.5%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = VIII / 37.5%
 | Connect effect 2 = Dazzle on Attack
 | Connect 2 / 1 = 
 | Connect 2 / 2 = 
@@ -171,7 +171,7 @@
 | Magia 2 / 1 = V / 25%
 | Magia 2 / 2 = VII / 35%
 | Magia effect 3 = Chance to Critical Hit
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Self / 2 Turns / V / 40%
 | Magia 3 / 2 = Self / 2 Turns / VII / 70%
 

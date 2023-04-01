@@ -146,8 +146,8 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Fog on Attack
 | Connect 2 / 1 = 
 | Connect 2 / 2 = 
@@ -167,7 +167,7 @@
 | Magia 1 / 1 = V / 315%
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = Burn
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = All Enemies / 3 Turns / 
 | Magia 2 / 2 = All Enemies / 3 Turns / 
 | Magia effect 3 = Magia Damage Up

@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = Self / 1 Turn / VII / 60%
-| Connect 2 / 2 = Self / 1 Turn / IX / 70%
+| Connect 2 / 1 = VII / 60%
+| Connect 2 / 2 = IX / 70%
 
 | Magia name JP = 受け継がれし炎
 | Magia name EN = 
@@ -161,11 +161,11 @@
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Burn
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = All Enemies / 3 Turns / 
 | Magia 2 / 2 = All Enemies / 3 Turns / 
 | Magia effect 3 = Chance to Critical Hit
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = -
 | Magia 3 / 2 = Self / 2 Turns / VII / 40%
 

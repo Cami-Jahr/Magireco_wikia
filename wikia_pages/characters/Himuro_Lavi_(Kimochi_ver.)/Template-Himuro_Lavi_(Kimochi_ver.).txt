@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VIII / 75%
 | Connect 1 / 2 = X / 85%
 | Connect effect 2 = Ignore Damage Cut
-| Connect 2 / 1 = Self / 1 Turn / VIII / 100%
-| Connect 2 / 2 = Self / 1 Turn / X / 100%
+| Connect 2 / 1 = VIII / 100%
+| Connect 2 / 2 = X / 100%
 
 | Magia name JP = タイム・ゼロ
 | Magia name EN = 
@@ -169,7 +169,7 @@
 | Magia 3 / 1 = V / 30%
 | Magia 3 / 2 = VII / 40%
 | Magia effect 4 = Barrier
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Self / 3 Turns / V / 10000 damage
 | Magia 4 / 2 = Self / 3 Turns / VII / 10000 damage
 | Magia effect 5 = Regenerate MP

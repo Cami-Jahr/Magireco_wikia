@@ -152,8 +152,8 @@
 | Connect 2 / 1 = V / 50%
 | Connect 2 / 2 = VII / 60%
 | Connect effect 3 = Defense Up
-| Connect 3 / 1 = Self / 1 Turn / IV / 67.5%
-| Connect 3 / 2 = Self / 1 Turn / VI / 82.5%
+| Connect 3 / 1 = IV / 67.5%
+| Connect 3 / 2 = VI / 82.5%
 
 | Magia name JP = 終末宣告紋章
 | Magia name EN = 
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = V / 315%
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = Chance to Stun
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = All Enemies / 1 Turn / V / 40%
 | Magia 2 / 2 = All Enemies / 1 Turn / VII / 45%
 | Magia effect 3 = Attack Up

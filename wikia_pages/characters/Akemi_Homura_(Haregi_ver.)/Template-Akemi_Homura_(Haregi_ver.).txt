@@ -152,8 +152,8 @@
 | Connect 2 / 1 = I / 20%
 | Connect 2 / 2 = III / 25%
 | Connect effect 3 = Dark Attribute Attack Up
-| Connect 3 / 1 = Self / 1 Turn / I / 5%
-| Connect 3 / 2 = Self / 1 Turn / III / 10%
+| Connect 3 / 1 = I / 5%
+| Connect 3 / 2 = III / 10%
 
 | Magia name JP = 魔力杵による打擲攻撃
 | Magia name EN = 

@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VIII / 75%
 | Connect 1 / 2 = X / 85%
 | Connect effect 2 = Dark Attribute Attack Up
-| Connect 2 / 1 = Self / 1 Turn / VIII / 22.5%
-| Connect 2 / 2 = Self / 1 Turn / X / 27.5%
+| Connect 2 / 1 = VIII / 22.5%
+| Connect 2 / 2 = X / 27.5%
 
 | Magia name JP = 冥暗の断罪
 | Magia name EN = 
@@ -169,15 +169,15 @@
 | Magia 3 / 1 = V / 30%
 | Magia 3 / 2 = VII / 40%
 | Magia effect 4 = Defense Pierce
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Self / 3 Turns / 
 | Magia 4 / 2 = Self / 3 Turns / 
 | Magia effect 5 = Defense Down
-| Magia scaling 5 = 0%
+| Magia scaling 5 = -
 | Magia 5 / 1 = V / 20%
 | Magia 5 / 2 = VII / 20%
 | Magia effect 6 = Provoke
-| Magia scaling 6 = 0%
+| Magia scaling 6 = -
 | Magia 6 / 1 = Self / 1 Turn / 
 | Magia 6 / 2 = Self / 1 Turn / 
 

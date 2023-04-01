@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
 | Connect effect 2 = HP Restore
 | Connect 2 / 1 = VII / 45%
 | Connect 2 / 2 = IX / 50%
 | Connect effect 3 = Evade
-| Connect 3 / 1 = Self / 1 Turn / 
-| Connect 3 / 2 = Self / 1 Turn / 
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = ブラッディー・ルーラー
 | Magia name EN = 
@@ -164,11 +164,11 @@
 | Magia 1 / 1 = VI / 350%
 | Magia 1 / 2 = VIII / 370%
 | Magia effect 2 = MP Damage
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = All Enemies / VI / 60 MP
 | Magia 2 / 2 = All Enemies / VIII / 70 MP
 | Magia effect 3 = Evade
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Self / 1 Turn / 
 | Magia 3 / 2 = Self / 1 Turn / 
 | Magia effect 4 = HP Restore

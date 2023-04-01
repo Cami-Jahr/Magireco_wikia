@@ -152,8 +152,8 @@
 | Connect 2 / 1 = 
 | Connect 2 / 2 = 
 | Connect effect 3 = Barrier
-| Connect 3 / 1 = Self / 1 Turn / 8000 damage
-| Connect 3 / 2 = Self / 1 Turn / 10000 damage
+| Connect 3 / 1 = 8000 damage
+| Connect 3 / 2 = 10000 damage
 
 | Magia name JP = 無望鏡界
 | Magia name EN = 
@@ -164,19 +164,19 @@
 | Magia 1 / 1 = I / 100%
 | Magia 1 / 2 = I / 110%
 | Magia effect 2 = Strengthened Counter
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = 
 | Magia 2 / 2 = 
 | Magia effect 3 = Barrier
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Allies / 3 Turns / I / 5000 damage
 | Magia 3 / 2 = Allies / 3 Turns / I / 5000 damage
 | Magia effect 4 = Reflect
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Self / 3 Turns / I / 0.1%
 | Magia 4 / 2 = Self / 3 Turns / I / 0.1%
 | Magia effect 5 = MP Up When Damaged
-| Magia scaling 5 = 0%
+| Magia scaling 5 = -
 | Magia 5 / 1 = Self / 1 Turn / I / 13%
 | Magia 5 / 2 = Self / 1 Turn / I / 15%
 

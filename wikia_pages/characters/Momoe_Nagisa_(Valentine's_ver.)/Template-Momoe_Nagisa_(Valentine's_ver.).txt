@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 100%
 | Connect 2 / 2 = IX / 100%
 | Connect effect 3 = Defense Up
-| Connect 3 / 1 = Self / 1 Turn / VII / 90%
-| Connect 3 / 2 = Self / 1 Turn / IX / 105%
+| Connect 3 / 1 = VII / 90%
+| Connect 3 / 2 = IX / 105%
 
 | Magia name JP = なぎさのショコラパーティー
 | Magia name EN = 
@@ -168,7 +168,7 @@
 | Magia 2 / 1 = V / 20%
 | Magia 2 / 2 = VII / 22.5%
 | Magia effect 3 = Remove Debuffs
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Allies / 
 | Magia 3 / 2 = Allies / 
 

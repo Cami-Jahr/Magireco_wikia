@@ -150,13 +150,13 @@
 | Connect 1 / 2 = VII / 70%
 | Connect 1 / 3 = VII / 70%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = Self / 1 Turn / V / 30%
-| Connect 2 / 2 = Self / 1 Turn / VII / 35%
+| Connect 2 / 1 = V / 30%
+| Connect 2 / 2 = VII / 35%
 | Connect 2 / 3 = VII / 35%
 | Connect effect 3 = Blast Damage Cut
 | Connect 3 / 1 = -
 | Connect 3 / 2 = -
-| Connect 3 / 3 = Self / 1 Turn / VII / 35%
+| Connect 3 / 3 = VII / 35%
 
 | Magia name JP = ラピヌ・オ・サンテュ
 | Magia name EN = 
@@ -173,7 +173,7 @@
 | Magia 2 / 2 = All Enemies / 3 Turns / V / 40%
 | Magia 2 / 3 = All Enemies / 3 Turns / VII / 40%
 | Magia effect 3 = MP Damage
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = All Enemies / III / 25 MP
 | Magia 3 / 2 = All Enemies / V / 30 MP
 | Magia 3 / 3 = All Enemies / VII / 30 MP

@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Damage Cut
-| Connect 2 / 1 = Self / 1 Turn / V / 50%
-| Connect 2 / 2 = Self / 1 Turn / VII / 60%
+| Connect 2 / 1 = V / 50%
+| Connect 2 / 2 = VII / 60%
 | Connect effect 3 = Chance to Magia Seal on Attack
 | Connect 3 / 1 = V / 30%
 | Connect 3 / 2 = VII / 40%
@@ -168,7 +168,7 @@
 | Magia 2 / 1 = Self / 3 Turns / V / 20%
 | Magia 2 / 2 = Self / 3 Turns / VII / 30%
 | Magia effect 3 = Barrier
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Self / 5 Turns / V / 3000 damage
 | Magia 3 / 2 = Self / 5 Turns / VII / 5000 damage
 
@@ -179,7 +179,7 @@
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
 | Magia2 effect 1 = Damage 5 Random Enemies
-| Magia2 1 = IX / 622.1999999999999%
+| Magia2 1 = IX / 622.2%
 | Magia2 effect 2 = Damage Up
 | Magia2 2 = Allies / 3 Turns / IX / 40%
 | Magia2 effect 3 = Barrier

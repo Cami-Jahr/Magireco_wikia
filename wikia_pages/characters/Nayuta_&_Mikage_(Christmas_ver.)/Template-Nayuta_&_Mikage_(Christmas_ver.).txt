@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
 | Connect effect 2 = MP Restore
 | Connect 2 / 1 = V / 22.5 MP
 | Connect 2 / 2 = VII / 27.5 MP
 | Connect effect 3 = Accele MP Gain Up
-| Connect 3 / 1 = Self / 1 Turn / V / 30%
-| Connect 3 / 2 = Self / 1 Turn / VII / 40%
+| Connect 3 / 1 = V / 30%
+| Connect 3 / 2 = VII / 40%
 
 | Magia name JP = ルーチェ・ディ・フェリチータ
 | Magia name EN = 
@@ -172,7 +172,7 @@
 | Magia 3 / 1 = Allies / 3 Turns / V / 20%
 | Magia 3 / 2 = Allies / 3 Turns / VII / 25%
 | Magia effect 4 = Chance to Skill Seal
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = All Enemies / 3 Turns / V / 30%
 | Magia 4 / 2 = All Enemies / 3 Turns / VII / 40%
 

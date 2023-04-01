@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = Self / 1 Turn / VII / 60%
+| Connect 2 / 1 = VII / 60%
 | Connect 2 / 2 = IX / 70%
 | Connect effect 3 = Chance to Evade
 | Connect 3 / 1 = -
-| Connect 3 / 2 = Self / 1 Turn / IX / 65%
+| Connect 3 / 2 = IX / 65%
 
 | Magia name JP = ｜刻み込む桜の物語｜
 | Magia name EN = 
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = V / 864%
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Skill Seal
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = Target / 2 Turns / 
 | Magia 2 / 2 = Target / 2 Turns / 
 | Magia effect 3 = Accele MP Gain Up
@@ -172,11 +172,11 @@
 | Magia 3 / 1 = Allies / 3 Turns / V / 15%
 | Magia 3 / 2 = VII / 20%
 | Magia effect 4 = Anti-Evade
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = -
 | Magia 4 / 2 = Allies / 3 Turns / 
 | Magia effect 5 = Chance to Anti-Evade
-| Magia scaling 5 = 0%
+| Magia scaling 5 = -
 | Magia 5 / 1 = Self / 3 Turns / V / 70%
 | Magia 5 / 2 = -
 

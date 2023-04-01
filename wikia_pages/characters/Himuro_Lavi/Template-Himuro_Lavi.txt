@@ -152,8 +152,8 @@
 | Connect 2 / 1 = V / 15%
 | Connect 2 / 2 = VII / 20%
 | Connect effect 3 = Accele MP Gain Up
-| Connect 3 / 1 = Self / 1 Turn / V / 30%
-| Connect 3 / 2 = Self / 1 Turn / VII / 40%
+| Connect 3 / 1 = V / 30%
+| Connect 3 / 2 = VII / 40%
 
 | Magia name JP = パンタ・レイ
 | Magia name EN = 
@@ -172,7 +172,7 @@
 | Magia 3 / 1 = VI / 25%
 | Magia 3 / 2 = VIII / 30%
 | Magia effect 4 = Negate Status Ailments
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Allies / 3 Turns / 1 Status Ailment
 | Magia 4 / 2 = Allies / 3 Turns / 1 Status Ailment
 

@@ -146,9 +146,9 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = Self / 1 Turn / V / 30%
-| Connect 1 / 2 = Self / 1 Turn / VII / 35%
-| Connect 1 / 3 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = V / 30%
+| Connect 1 / 2 = VII / 35%
+| Connect 1 / 3 = IX / 40%
 | Connect effect 2 = Charm on Attack
 | Connect 2 / 1 = 
 | Connect 2 / 2 = 
@@ -174,7 +174,7 @@
 | Magia 3 / 2 = Self / 3 Turns / V / 30%
 | Magia 3 / 3 = VII / 40%
 | Magia effect 4 = Provoke
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Self / 1 Turn / 
 | Magia 4 / 2 = Self / 1 Turn / 
 | Magia 4 / 3 = Self / 1 Turn / 

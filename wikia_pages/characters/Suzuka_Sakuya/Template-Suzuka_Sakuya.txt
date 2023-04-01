@@ -155,9 +155,9 @@
 | Connect 1 / 2 = V / 20%
 | Connect 1 / 3 = VII / 25%
 | Connect effect 2 = Evade
-| Connect 2 / 1 = Self / 1 Turn / 
-| Connect 2 / 2 = Self / 1 Turn / 
-| Connect 2 / 3 = Self / 1 Turn / 
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
+| Connect 2 / 3 = 
 
 | Magia name JP = スプレンディング・エッジ
 | Magia name EN = 

@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = X / 42.5%
 | Connect effect 2 = Accele MP Gain Up
-| Connect 2 / 1 = Self / 1 Turn / VII / 40%
-| Connect 2 / 2 = Self / 1 Turn / IX / 50%
+| Connect 2 / 1 = VII / 40%
+| Connect 2 / 2 = IX / 50%
 
 | Magia name JP = 次はこの曲
 | Magia name EN = 

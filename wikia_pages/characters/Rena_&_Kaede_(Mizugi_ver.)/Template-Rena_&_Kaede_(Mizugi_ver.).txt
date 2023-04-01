@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = Self / 1 Turn / VII / 60%
-| Connect 2 / 2 = Self / 1 Turn / IX / 70%
+| Connect 2 / 1 = VII / 60%
+| Connect 2 / 2 = IX / 70%
 | Connect effect 3 = Regenerate HP
-| Connect 3 / 1 = Self / 3 Turns / V / 6%
-| Connect 3 / 2 = Self / 3 Turns / VII / 8%
+| Connect 3 / 1 = 3 Turns / V / 6%
+| Connect 3 / 2 = 3 Turns / VII / 8%
 
 | Magia name JP = 水波レナの「百発百中連発魔球」
 | Magia name EN = 

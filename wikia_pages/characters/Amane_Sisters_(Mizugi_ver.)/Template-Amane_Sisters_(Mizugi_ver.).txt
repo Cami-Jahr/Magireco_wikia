@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VI / 25 MP
 | Connect 1 / 2 = VIII / 30 MP
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = Self / 1 Turn / VII / 60%
-| Connect 2 / 2 = Self / 1 Turn / IX / 70%
+| Connect 2 / 1 = VII / 60%
+| Connect 2 / 2 = IX / 70%
 | Connect effect 3 = Remove Status Ailments
-| Connect 3 / 1 = Self / 
-| Connect 3 / 2 = Self / 
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = 三日月甘蕉船
 | Magia name EN = 

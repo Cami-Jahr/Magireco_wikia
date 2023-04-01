@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Defense Pierce
-| Connect 2 / 1 = Self / 1 Turn / 
-| Connect 2 / 2 = Self / 1 Turn / 
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
 | Connect effect 3 = Dazzle on Attack
 | Connect 3 / 1 = 
 | Connect 3 / 2 = 
@@ -168,7 +168,7 @@
 | Magia 2 / 1 = V / 35%
 | Magia 2 / 2 = VII / 40%
 | Magia effect 3 = Chance to Defense Pierce
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Self / 3 Turns / V / 55%
 | Magia 3 / 2 = Self / 3 Turns / VII / 60%
 | Magia effect 4 = MP Restore

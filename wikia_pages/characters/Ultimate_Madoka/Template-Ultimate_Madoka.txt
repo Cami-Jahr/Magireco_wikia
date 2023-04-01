@@ -152,11 +152,11 @@
 | Connect 2 / 1 = VII / 100%
 | Connect 2 / 2 = IX / 100%
 | Connect effect 3 = Survive
-| Connect 3 / 1 = Self / 1 Turn / VII / 20%
-| Connect 3 / 2 = Self / 1 Turn / IX / 20%
+| Connect 3 / 1 = VII / 20%
+| Connect 3 / 2 = IX / 20%
 | Connect effect 4 = Remove Status Ailments
-| Connect 4 / 1 = Self / 
-| Connect 4 / 2 = Self / 
+| Connect 4 / 1 = 
+| Connect 4 / 2 = 
 
 | Magia name JP = もう絶望する必要なんてない！
 | Magia name EN = 

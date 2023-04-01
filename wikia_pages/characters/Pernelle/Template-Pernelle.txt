@@ -149,11 +149,11 @@
 | Connect 1 / 1 = XIII / 135%
 | Connect 1 / 2 = XV / 150%
 | Connect effect 2 = Damage Cut
-| Connect 2 / 1 = Self / 1 Turn / XIII / 90%
-| Connect 2 / 2 = Self / 1 Turn / XV / 100%
+| Connect 2 / 1 = XIII / 90%
+| Connect 2 / 2 = XV / 100%
 | Connect effect 3 = Regenerate HP
-| Connect 3 / 1 = Self / 3 Turns / V / 6%
-| Connect 3 / 2 = Self / 3 Turns / VII / 8%
+| Connect 3 / 1 = 3 Turns / V / 6%
+| Connect 3 / 2 = 3 Turns / VII / 8%
 
 | Magia name JP = エン・ト・パン
 | Magia name EN = 
@@ -172,7 +172,7 @@
 | Magia 3 / 1 = V / 35%
 | Magia 3 / 2 = VII / 40%
 | Magia effect 4 = Barrier
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Allies / 3 Turns / V / 8000 damage
 | Magia 4 / 2 = Allies / 3 Turns / VII / 8000 damage
 

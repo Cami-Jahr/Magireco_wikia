@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Defense Up
-| Connect 2 / 1 = Self / 1 Turn / VII / 90%
-| Connect 2 / 2 = Self / 1 Turn / IX / 105%
+| Connect 2 / 1 = VII / 90%
+| Connect 2 / 2 = IX / 105%
 
 | Magia name JP = ラ・リュミエール
 | Magia name EN = 
@@ -165,7 +165,7 @@
 | Magia 2 / 1 = Allies / V / 18.7%
 | Magia 2 / 2 = Allies / VII / 21.2%
 | Magia effect 3 = Chance to Curse
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Self / 1 Turn / V / 200%
 | Magia 3 / 2 = Self / 1 Turn / VII / 200%
 | Magia effect 4 = Attack Up

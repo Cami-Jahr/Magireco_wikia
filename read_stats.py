@@ -338,7 +338,7 @@ def make_magia_doppel_and_connect(dic, cards):
                 break
         magia_effects, magia_icon = translate(magia["shortDescription"], arts)
         for e in magia_effects:
-            magia_scalings[e] = magia_effects[e][2]
+            magia_scalings[e] = "-" if magia_effects[e][2].replace("%", "").strip() == "0" else magia_effects[e][2]
             all_megia_effects[e] += 1
         magias.append(magia_effects)
         if rank == 5:
@@ -370,10 +370,11 @@ def make_magia_doppel_and_connect(dic, cards):
         for j in range(1, len(connects) + 1):
             try:
                 word = connects[-j][all_connect_effects[i]]
-                if word[1] == "1 Turn" or not word[1]:
+                target = word[1].replace("Self / ", "").replace("Self", "").replace("1 Turn", "").strip()
+                if not target:
                     st = word[0]
                 else:
-                    st = f"{word[1]} / {word[0]}"
+                    st = f"{target} / {word[0]}"
             except KeyError:
                 st = "-"
             except IndexError:
@@ -428,8 +429,10 @@ def make_magia_doppel_and_connect(dic, cards):
             if scaling_value:
                 final_value = float(effect_value[0]) + 4 * float(scaling_value[0])
                 if final_value % 1 == 0:
-                    final_value = int(final_value)
-                final_effect = effect.replace(effect_value[0], str(final_value))
+                    final_value = str(int(final_value))
+                else:
+                    final_value = f"{final_value:.1f}"
+                final_effect = effect.replace(effect_value[0], final_value)
         final_effect = turns + (" / " if turns and final_effect else "") + final_effect
         doppel_string += doppel_effect_template.format(i, text, final_effect)
 

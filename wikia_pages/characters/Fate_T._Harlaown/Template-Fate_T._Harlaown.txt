@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 60%
 | Connect 2 / 2 = IX / 70%
 | Connect effect 3 = Chance to Anti-Evade
-| Connect 3 / 1 = Self / 1 Turn / VII / 40%
-| Connect 3 / 2 = Self / 1 Turn / IX / 55%
+| Connect 3 / 1 = VII / 40%
+| Connect 3 / 2 = IX / 55%
 
 | Magia name JP = ブリッツストライド
 | Magia name EN = 
@@ -168,7 +168,7 @@
 | Magia 2 / 1 = Self / 3 Turns / V / 35%
 | Magia 2 / 2 = Self / 3 Turns / VII / 45%
 | Magia effect 3 = Evade
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = -
 | Magia 3 / 2 = Self / 1 Turn / 
 

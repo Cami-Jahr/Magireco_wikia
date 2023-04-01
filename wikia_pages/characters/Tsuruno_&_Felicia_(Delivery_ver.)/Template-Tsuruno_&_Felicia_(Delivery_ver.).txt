@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 20%
 | Connect 2 / 2 = IX / 25%
 | Connect effect 3 = Accele MP Gain Up
-| Connect 3 / 1 = Self / 1 Turn / VII / 40%
-| Connect 3 / 2 = Self / 1 Turn / IX / 50%
+| Connect 3 / 1 = VII / 40%
+| Connect 3 / 2 = IX / 50%
 
 | Magia name JP = スーパーカスタムモード始動！
 | Magia name EN = 

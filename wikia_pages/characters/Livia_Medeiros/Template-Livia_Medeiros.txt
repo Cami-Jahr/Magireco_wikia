@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Damage Up Versus Enemies Affected With Status Ailments
-| Connect 2 / 1 = Self / 1 Turn / IV / 32.5%
-| Connect 2 / 2 = Self / 1 Turn / VI / 37.5%
+| Connect 2 / 1 = IV / 32.5%
+| Connect 2 / 2 = VI / 37.5%
 | Connect effect 3 = Curse on Attack
 | Connect 3 / 1 = 
 | Connect 3 / 2 = 

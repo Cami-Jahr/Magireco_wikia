@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = Self / 1 Turn / VII / 60%
-| Connect 2 / 2 = Self / 1 Turn / IX / 70%
+| Connect 2 / 1 = VII / 60%
+| Connect 2 / 2 = IX / 70%
 
 | Magia name JP = 巫流・祈祷通天ノ光
 | Magia name EN = 
@@ -169,7 +169,7 @@
 | Magia 3 / 1 = Allies / 3 Turns / V / 41.3%
 | Magia 3 / 2 = Allies / 3 Turns / VII / 48.8%
 | Magia effect 4 = Remove Buffs
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = All Enemies / 
 | Magia 4 / 2 = All Enemies / 
 

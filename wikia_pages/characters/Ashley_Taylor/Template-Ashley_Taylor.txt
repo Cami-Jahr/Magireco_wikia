@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 70%
 | Connect 1 / 2 = IX / 80%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = Self / 1 Turn / VII / 35%
-| Connect 2 / 2 = Self / 1 Turn / IX / 40%
+| Connect 2 / 1 = VII / 35%
+| Connect 2 / 2 = IX / 40%
 | Connect effect 3 = Charm on Attack
 | Connect 3 / 1 = 
 | Connect 3 / 2 = 
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = VI / 350%
 | Magia 1 / 2 = VIII / 370%
 | Magia effect 2 = Charm
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = All Enemies / 1 Turn / 
 | Magia 2 / 2 = All Enemies / 1 Turn / 
 | Magia effect 3 = Blast Damage Up
@@ -172,7 +172,7 @@
 | Magia 3 / 1 = VI / 40%
 | Magia 3 / 2 = VIII / 50%
 | Magia effect 4 = Ignore Damage Cut
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Self / 3 Turns / VI / 100%
 | Magia 4 / 2 = Self / 3 Turns / VIII / 100%
 

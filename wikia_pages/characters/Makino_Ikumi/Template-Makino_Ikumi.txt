@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 45%
 | Connect 1 / 2 = IX / 50%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = Self / 1 Turn / V / 30%
-| Connect 2 / 2 = Self / 1 Turn / VII / 35%
+| Connect 2 / 1 = V / 30%
+| Connect 2 / 2 = VII / 35%
 | Connect effect 3 = Chance to Magia Seal on Attack
 | Connect 3 / 1 = V / 30%
 | Connect 3 / 2 = VII / 35%
@@ -172,7 +172,7 @@
 | Magia 3 / 1 = IV / 20%
 | Magia 3 / 2 = VI / 22.5%
 | Magia effect 4 = Remove Status Ailments
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Allies / 
 | Magia 4 / 2 = Allies / 
 

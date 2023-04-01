@@ -146,7 +146,7 @@
 | Connect name NA = 
 | Connect icon = Accele MP Gain Up
 | Connect effect 1 = Accele MP Gain Up
-| Connect 1 / 1 = Self / 1 Turn / II / 15%
+| Connect 1 / 1 = II / 15%
 | Connect effect 2 = Attack Up
 | Connect 2 / 1 = II / 60%
 

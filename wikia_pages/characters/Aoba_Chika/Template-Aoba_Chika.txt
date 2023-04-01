@@ -149,8 +149,8 @@
 | Connect 1 / 1 = V / 30%
 | Connect 1 / 2 = VII / 35%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = Self / 1 Turn / V / 50%
-| Connect 2 / 2 = Self / 1 Turn / VII / 60%
+| Connect 2 / 1 = V / 50%
+| Connect 2 / 2 = VII / 60%
 
 | Magia name JP = ネイチャー・リグレッション
 | Magia name EN = 

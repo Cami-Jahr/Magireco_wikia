@@ -146,17 +146,17 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
 | Connect effect 2 = HP Restore
 | Connect 2 / 1 = VIII / 47.5%
 | Connect 2 / 2 = X / 52.5%
 | Connect effect 3 = Damage Cut
-| Connect 3 / 1 = Self / 1 Turn / VII / 60%
-| Connect 3 / 2 = Self / 1 Turn / IX / 70%
+| Connect 3 / 1 = VII / 60%
+| Connect 3 / 2 = IX / 70%
 | Connect effect 4 = Remove Status Ailments
-| Connect 4 / 1 = Self / 
-| Connect 4 / 2 = Self / 
+| Connect 4 / 1 = 
+| Connect 4 / 2 = 
 
 | Magia name JP = プリマ・ランチャーレ
 | Magia name EN = 
@@ -175,7 +175,7 @@
 | Magia 3 / 1 = V / 30%
 | Magia 3 / 2 = VII / 37.5%
 | Magia effect 4 = Negate Status Ailments
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Allies / 3 Turns / 1 Status Ailment
 | Magia 4 / 2 = Allies / 3 Turns / 1 Status Ailment
 | Magia effect 5 = HP Restore

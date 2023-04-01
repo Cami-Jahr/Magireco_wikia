@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VI / 35%
 | Connect 1 / 2 = VIII / 45%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = Self / 1 Turn / VI / 55%
-| Connect 2 / 2 = Self / 1 Turn / VIII / 65%
+| Connect 2 / 1 = VI / 55%
+| Connect 2 / 2 = VIII / 65%
 
 | Magia name JP = キラ盛りビーム
 | Magia name EN = 
@@ -161,7 +161,7 @@
 | Magia 1 / 1 = III / 305%
 | Magia 1 / 2 = V / 325%
 | Magia effect 2 = Chance to Charm
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = -
 | Magia 2 / 2 = All Enemies / 1 Turn / V / 40%
 

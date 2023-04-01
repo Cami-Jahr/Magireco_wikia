@@ -149,11 +149,11 @@
 | Connect 1 / 1 = 
 | Connect 1 / 2 = 
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = Self / 1 Turn / VII / 35%
+| Connect 2 / 1 = VII / 35%
 | Connect 2 / 2 = IX / 40%
 | Connect effect 3 = Evade
 | Connect 3 / 1 = -
-| Connect 3 / 2 = Self / 1 Turn / 
+| Connect 3 / 2 = 
 
 | Magia name JP = ソウル・サルベーション
 | Magia name EN = 
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = VI / 896%
 | Magia 1 / 2 = VIII / 960%
 | Magia effect 2 = Evade
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = Self / 1 Turn / 
 | Magia 2 / 2 = Self / 1 Turn / 
 | Magia effect 3 = Regenerate HP

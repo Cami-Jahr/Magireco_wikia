@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
 | Connect effect 2 = HP Restore
 | Connect 2 / 1 = VI / 42.5%
 | Connect 2 / 2 = VIII / 47.5%
 | Connect effect 3 = Chance to Critical Hit
-| Connect 3 / 1 = Self / 1 Turn / VII / 60%
-| Connect 3 / 2 = Self / 1 Turn / IX / 70%
+| Connect 3 / 1 = VII / 60%
+| Connect 3 / 2 = IX / 70%
 
 | Magia name JP = デュエ・アニマ
 | Magia name EN = 

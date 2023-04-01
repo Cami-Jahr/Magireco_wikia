@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = Self / 1 Turn / VII / 60%
-| Connect 2 / 2 = Self / 1 Turn / IX / 70%
+| Connect 2 / 1 = VII / 60%
+| Connect 2 / 2 = IX / 70%
 
 | Magia name JP = 巫流・迎春来光ノ儀
 | Magia name EN = 
@@ -173,7 +173,7 @@
 | Magia 4 / 1 = V / 20%
 | Magia 4 / 2 = VII / 30%
 | Magia effect 5 = Barrier
-| Magia scaling 5 = 0%
+| Magia scaling 5 = -
 | Magia 5 / 1 = Allies / 3 Turns / V / 5000 damage
 | Magia 5 / 2 = Allies / 3 Turns / VII / 5000 damage
 

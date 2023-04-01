@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Increase
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Remove Status Ailments
-| Connect 2 / 1 = Self / 
-| Connect 2 / 2 = Self / 
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
 | Connect effect 3 = Chase
-| Connect 3 / 1 = Self / 1 Turn / 
-| Connect 3 / 2 = Self / 1 Turn / 
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = 激昂星弾輪舞
 | Magia name EN = 
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Stun
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = Target / 1 Turn / 
 | Magia 2 / 2 = Target / 1 Turn / 
 | Magia effect 3 = Attack Up
@@ -172,7 +172,7 @@
 | Magia 3 / 1 = Self / 3 Turns / V / 15%
 | Magia 3 / 2 = Self / 3 Turns / VII / 25%
 | Magia effect 4 = Remove Debuffs
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Self / 
 | Magia 4 / 2 = Self / 
 

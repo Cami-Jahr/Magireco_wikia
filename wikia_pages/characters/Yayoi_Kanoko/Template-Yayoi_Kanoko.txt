@@ -146,10 +146,10 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = Self / 1 Turn / III / 25%
-| Connect 1 / 2 = Self / 1 Turn / V / 30%
-| Connect 1 / 3 = Self / 1 Turn / VII / 35%
-| Connect 1 / 4 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = III / 25%
+| Connect 1 / 2 = V / 30%
+| Connect 1 / 3 = VII / 35%
+| Connect 1 / 4 = IX / 40%
 | Connect effect 2 = Charm on Attack
 | Connect 2 / 1 = 
 | Connect 2 / 2 = 
@@ -161,7 +161,7 @@
 | Magia name NA = 
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Charm
-| Magia scaling 1 = 0%
+| Magia scaling 1 = -
 | Magia 1 / 1 = Target / 1 Turn / 
 | Magia 1 / 2 = Target / 1 Turn / 
 | Magia 1 / 3 = Target / 1 Turn / 

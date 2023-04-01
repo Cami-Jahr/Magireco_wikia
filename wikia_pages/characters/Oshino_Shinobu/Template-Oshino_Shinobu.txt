@@ -146,11 +146,11 @@
 | Connect name NA = 
 | Connect icon = Regenerate HP
 | Connect effect 1 = Regenerate HP
-| Connect 1 / 1 = Self / 3 Turns / VI / 7%
-| Connect 1 / 2 = Self / 3 Turns / VIII / 9%
+| Connect 1 / 1 = 3 Turns / VI / 7%
+| Connect 1 / 2 = 3 Turns / VIII / 9%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = Self / 1 Turn / VII / 35%
-| Connect 2 / 2 = Self / 1 Turn / IX / 40%
+| Connect 2 / 1 = VII / 35%
+| Connect 2 / 2 = IX / 40%
 | Connect effect 3 = Curse on Attack
 | Connect 3 / 1 = 
 | Connect 3 / 2 = 
@@ -168,7 +168,7 @@
 | Magia 2 / 1 = All Enemies / 2 Turns / VI / 15%
 | Magia 2 / 2 = All Enemies / 2 Turns / VIII / 20%
 | Magia effect 3 = MP Damage
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = All Enemies / VI / 35 MP
 | Magia 3 / 2 = All Enemies / VIII / 40 MP
 | Magia effect 4 = HP Restore

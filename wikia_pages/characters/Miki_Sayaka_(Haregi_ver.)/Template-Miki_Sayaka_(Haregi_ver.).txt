@@ -153,9 +153,9 @@
 | Connect 2 / 2 = IX / 20%
 | Connect effect 3 = Defense Pierce
 | Connect 3 / 1 = -
-| Connect 3 / 2 = Self / 1 Turn / 
+| Connect 3 / 2 = 
 | Connect effect 4 = Chance to Defense Pierce
-| Connect 4 / 1 = Self / 1 Turn / VII / 60%
+| Connect 4 / 1 = VII / 60%
 | Connect 4 / 2 = -
 
 | Magia name JP = ブォンアンノ・カリグラフィー
@@ -167,11 +167,11 @@
 | Magia 1 / 1 = V / 864%
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Survive
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = Self / 3 Turns / V / 30%
 | Magia 2 / 2 = Self / 3 Turns / VII / 35%
 | Magia effect 3 = Critical Hit
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Self / 2 Turns / 
 | Magia 3 / 2 = Self / 2 Turns / 
 

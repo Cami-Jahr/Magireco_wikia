@@ -152,8 +152,8 @@
 | Connect 2 / 1 = III / 15%
 | Connect 2 / 2 = IV / 17.5%
 | Connect effect 3 = Accele MP Gain Up
-| Connect 3 / 1 = Self / 1 Turn / III / 20%
-| Connect 3 / 2 = Self / 1 Turn / V / 30%
+| Connect 3 / 1 = III / 20%
+| Connect 3 / 2 = V / 30%
 
 | Magia name JP = デッドエンドオブザイヤー
 | Magia name EN = 

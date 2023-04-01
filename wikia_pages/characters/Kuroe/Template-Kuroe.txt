@@ -152,8 +152,8 @@
 | Connect 2 / 1 = V / 30%
 | Connect 2 / 2 = VII / 40%
 | Connect effect 3 = MP Gain Up
-| Connect 3 / 1 = Self / 1 Turn / V / 20%
-| Connect 3 / 2 = Self / 1 Turn / VII / 25%
+| Connect 3 / 1 = V / 20%
+| Connect 3 / 2 = VII / 25%
 | Connect effect 4 = MP Restore
 | Connect 4 / 1 = V / 30 MP
 | Connect 4 / 2 = VII / 30 MP
@@ -171,11 +171,11 @@
 | Magia 2 / 1 = Allies / 3 Turns / V / 25%
 | Magia 2 / 2 = Allies / 3 Turns / VII / 30%
 | Magia effect 3 = Remove Debuffs
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = 
 | Magia 3 / 2 = 
 | Magia effect 4 = Remove Status Ailments
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Allies / 
 | Magia 4 / 2 = Allies / 
 | Magia effect 5 = MP Restore

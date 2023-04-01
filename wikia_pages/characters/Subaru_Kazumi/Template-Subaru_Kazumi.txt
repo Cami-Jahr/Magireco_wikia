@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 30%
 | Connect 1 / 2 = IX / 35%
 | Connect effect 2 = Critical Hit
-| Connect 2 / 1 = Self / 1 Turn / 
-| Connect 2 / 2 = Self / 1 Turn / 
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
 
 | Magia name JP = メテオ―ラ・フィナーレ
 | Magia name EN = 

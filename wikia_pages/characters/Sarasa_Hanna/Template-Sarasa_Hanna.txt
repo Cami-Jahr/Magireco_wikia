@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VI / 30%
 | Connect 1 / 2 = VIII / 35%
 | Connect effect 2 = Damage Up Versus Enemies Affected With Status Ailments
-| Connect 2 / 1 = Self / 1 Turn / II / 27.5%
-| Connect 2 / 2 = Self / 1 Turn / IV / 32.5%
+| Connect 2 / 1 = II / 27.5%
+| Connect 2 / 2 = IV / 32.5%
 | Connect effect 3 = Charm on Attack
 | Connect 3 / 1 = -
 | Connect 3 / 2 = 
@@ -175,15 +175,15 @@
 | Magia 3 / 1 = Target / 3 Turns / V / 25%
 | Magia 3 / 2 = Target / 3 Turns / VII / 30%
 | Magia effect 4 = Bind
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = -
 | Magia 4 / 2 = Target / 1 Turn / 
 | Magia effect 5 = Evade
-| Magia scaling 5 = 0%
+| Magia scaling 5 = -
 | Magia 5 / 1 = -
 | Magia 5 / 2 = Self / 1 Turn / 
 | Magia effect 6 = Chance to Bind
-| Magia scaling 6 = 0%
+| Magia scaling 6 = -
 | Magia 6 / 1 = Target / 1 Turn / V / 45%
 | Magia 6 / 2 = -
 

@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Status Ailment Resistance Up
 | Connect effect 1 = Status Ailment Resistance Up
-| Connect 1 / 1 = Self / 3 Turns / VII / 35%
-| Connect 1 / 2 = Self / 3 Turns / IX / 40%
+| Connect 1 / 1 = 3 Turns / VII / 35%
+| Connect 1 / 2 = 3 Turns / IX / 40%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = Self / 1 Turn / VII / 35%
-| Connect 2 / 2 = Self / 1 Turn / IX / 40%
+| Connect 2 / 1 = VII / 35%
+| Connect 2 / 2 = IX / 40%
 | Connect effect 3 = Remove Debuffs
-| Connect 3 / 1 = Self / 
-| Connect 3 / 2 = Self / 
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = 無思考
 | Magia name EN = 
@@ -168,7 +168,7 @@
 | Magia 2 / 1 = Self / 3 Turns / V / 40%
 | Magia 2 / 2 = Allies / 3 Turns / VII / 40%
 | Magia effect 3 = Remove Debuffs
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Self / 
 | Magia 3 / 2 = Allies / 
 

@@ -149,8 +149,8 @@
 | Connect 1 / 1 = II / 20 MP
 | Connect 1 / 2 = III / 20 MP
 | Connect effect 2 = Accele MP Gain Up
-| Connect 2 / 1 = Self / 1 Turn / II / 15%
-| Connect 2 / 2 = Self / 1 Turn / III / 20%
+| Connect 2 / 1 = II / 15%
+| Connect 2 / 2 = III / 20%
 
 | Magia name JP = 私なりの全力です
 | Magia name EN = 

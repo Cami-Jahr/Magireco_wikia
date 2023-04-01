@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Remove Debuffs
-| Connect 2 / 1 = Self / 
-| Connect 2 / 2 = Self / 
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
 | Connect effect 3 = Charge Conservation
-| Connect 3 / 1 = Self / 1 Turn / VII / 100%
-| Connect 3 / 2 = Self / 1 Turn / IX / 100%
+| Connect 3 / 1 = VII / 100%
+| Connect 3 / 2 = IX / 100%
 
 | Magia name JP = オープン・エクソシズムバスター
 | Magia name EN = 
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Dark Attribute Damage Cut
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = V / 25%
 | Magia 2 / 2 = VII / 35%
 | Magia effect 3 = Blast Damage Up

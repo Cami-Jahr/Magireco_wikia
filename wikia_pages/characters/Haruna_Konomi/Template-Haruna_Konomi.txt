@@ -146,10 +146,10 @@
 | Connect name NA = 
 | Connect icon = Regenerate HP
 | Connect effect 1 = Regenerate HP
-| Connect 1 / 1 = Self / 3 Turns / III / 4%
-| Connect 1 / 2 = Self / 3 Turns / V / 6%
-| Connect 1 / 3 = Self / 3 Turns / VII / 8%
-| Connect 1 / 4 = Self / 3 Turns / IX / 10%
+| Connect 1 / 1 = 3 Turns / III / 4%
+| Connect 1 / 2 = 3 Turns / V / 6%
+| Connect 1 / 3 = 3 Turns / VII / 8%
+| Connect 1 / 4 = 3 Turns / IX / 10%
 | Connect effect 2 = Fog on Attack
 | Connect 2 / 1 = 
 | Connect 2 / 2 = 

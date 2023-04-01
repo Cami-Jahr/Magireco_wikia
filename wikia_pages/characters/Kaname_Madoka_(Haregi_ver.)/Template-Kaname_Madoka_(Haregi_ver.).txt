@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 45%
 | Connect 1 / 2 = IX / 50%
 | Connect effect 2 = Damage Up
-| Connect 2 / 1 = Self / 1 Turn / VII / 35%
-| Connect 2 / 2 = Self / 1 Turn / IX / 40%
+| Connect 2 / 1 = VII / 35%
+| Connect 2 / 2 = IX / 40%
 
 | Magia name JP = プルウィア☆ノイヤー
 | Magia name EN = 
@@ -169,7 +169,7 @@
 | Magia 3 / 1 = V / 32.5 MP
 | Magia 3 / 2 = VII / 37.5 MP
 | Magia effect 4 = Darkness
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = -
 | Magia 4 / 2 = All Enemies / 1 Turn / 
 

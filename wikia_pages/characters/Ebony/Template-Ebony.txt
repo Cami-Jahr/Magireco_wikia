@@ -146,8 +146,8 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
 | Connect effect 2 = MP Restore
 | Connect 2 / 1 = V / 22.5 MP
 | Connect 2 / 2 = VII / 27.5 MP
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = VI / 896%
 | Magia 1 / 2 = VIII / 960%
 | Magia effect 2 = Dark Defense Down
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = Target / 2 Turns / VI / 4%
 | Magia 2 / 2 = Target / 2 Turns / VIII / 4%
 | Magia effect 3 = Dark Attribute Attack Up

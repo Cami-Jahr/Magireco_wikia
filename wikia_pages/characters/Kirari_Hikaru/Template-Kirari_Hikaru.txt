@@ -152,8 +152,8 @@
 | Connect 2 / 1 = IV / 17.5%
 | Connect 2 / 2 = VI / 22.5%
 | Connect effect 3 = Accele MP Gain Up
-| Connect 3 / 1 = Self / 1 Turn / V / 30%
-| Connect 3 / 2 = Self / 1 Turn / VII / 40%
+| Connect 3 / 1 = V / 30%
+| Connect 3 / 2 = VII / 40%
 
 | Magia name JP = 行け！ひかる軍団！
 | Magia name EN = 
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Chance to Critical Hit
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = V / 20%
 | Magia 2 / 2 = VII / 30%
 | Magia effect 3 = Status Ailment Resistance Up

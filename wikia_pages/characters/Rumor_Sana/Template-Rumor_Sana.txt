@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Curse on Attack
 | Connect 2 / 1 = 
 | Connect 2 / 2 = 
 | Connect effect 3 = Evade
-| Connect 3 / 1 = Self / 1 Turn / 
-| Connect 3 / 2 = Self / 1 Turn / 
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = エレクトロン・シュヴェールト
 | Magia name EN = 
@@ -168,7 +168,7 @@
 | Magia 2 / 1 = All Enemies / 3 Turns / V / 17.5%
 | Magia 2 / 2 = All Enemies / 3 Turns / VII / 20%
 | Magia effect 3 = Stun
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = All Enemies / 1 Turn / 
 | Magia 3 / 2 = All Enemies / 1 Turn / 
 | Magia effect 4 = Aqua Attribute Attack Up

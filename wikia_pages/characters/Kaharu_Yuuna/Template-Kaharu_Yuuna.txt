@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 35%
 | Connect 2 / 2 = IX / 40%
 | Connect effect 3 = Status Ailment Resistance Up
-| Connect 3 / 1 = Self / 1 Turn / VII / 50%
-| Connect 3 / 2 = Self / 1 Turn / IX / 60%
+| Connect 3 / 1 = VII / 50%
+| Connect 3 / 2 = IX / 60%
 
 | Magia name JP = アルマ・デロ・ショッコ
 | Magia name EN = 
@@ -168,7 +168,7 @@
 | Magia 2 / 1 = Target / 2 Turns / VI / 25%
 | Magia 2 / 2 = Target / 2 Turns / VIII / 30%
 | Magia effect 3 = Evade
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Self / 1 Turn / 
 | Magia 3 / 2 = Self / 1 Turn / 
 

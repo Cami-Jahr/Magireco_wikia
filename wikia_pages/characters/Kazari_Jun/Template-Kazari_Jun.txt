@@ -154,8 +154,8 @@
 | Connect 1 / 1 = IX / 40%
 | Connect 1 / 2 = XI / 45%
 | Connect effect 2 = Damage Up
-| Connect 2 / 1 = Self / 1 Turn / VII / 35%
-| Connect 2 / 2 = Self / 1 Turn / IX / 40%
+| Connect 2 / 1 = VII / 35%
+| Connect 2 / 2 = IX / 40%
 
 | Magia name JP = うまみ倍増・駄菓子ミサイル！
 | Magia name EN = 
@@ -166,7 +166,7 @@
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Chance to Darkness
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = All Enemies / 3 Turns / V / 40%
 | Magia 2 / 2 = All Enemies / 3 Turns / VII / 45%
 | Magia effect 3 = Charged Attack Damage Up

@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 25%
 | Connect 2 / 2 = IX / 30%
 | Connect effect 3 = Charge Disc Damage Up
-| Connect 3 / 1 = Self / 1 Turn / VII / 35%
-| Connect 3 / 2 = Self / 1 Turn / IX / 40%
+| Connect 3 / 1 = VII / 35%
+| Connect 3 / 2 = IX / 40%
 
 | Magia name JP = ハイメガキャンサー
 | Magia name EN = 
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Charge Conservation
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = Allies / 2 Turns / V / 100%
 | Magia 2 / 2 = Allies / 2 Turns / VII / 100%
 | Magia effect 3 = Light Attribute Attack Up
@@ -172,7 +172,7 @@
 | Magia 3 / 1 = Allies / 3 Turns / V / 27.5%
 | Magia 3 / 2 = Allies / 3 Turns / VII / 30%
 | Magia effect 4 = Remove Debuffs
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Allies / 
 | Magia 4 / 2 = Allies / 
 

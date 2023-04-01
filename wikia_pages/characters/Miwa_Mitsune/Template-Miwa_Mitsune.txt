@@ -157,8 +157,8 @@
 | Connect 2 / 1 = V / 20%
 | Connect 2 / 2 = VII / 25%
 | Connect effect 3 = Charge Conservation
-| Connect 3 / 1 = Self / 1 Turn / V / 100%
-| Connect 3 / 2 = Self / 1 Turn / VII / 100%
+| Connect 3 / 1 = V / 100%
+| Connect 3 / 2 = VII / 100%
 
 | Magia name JP = ハッキング・ライオット
 | Magia name EN = 

@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VIII / 37.5%
 | Connect 1 / 2 = X / 42.5%
 | Connect effect 2 = Accele MP Gain Up
-| Connect 2 / 1 = Self / 1 Turn / VIII / 45%
-| Connect 2 / 2 = Self / 1 Turn / X / 55%
+| Connect 2 / 1 = VIII / 45%
+| Connect 2 / 2 = X / 55%
 
 | Magia name JP = レナ&かえで/ミックスポセイドン
 | Magia name EN = 
@@ -161,7 +161,7 @@
 | Magia 1 / 1 = VI / 896%
 | Magia 1 / 2 = VIII / 960%
 | Magia effect 2 = Dazzle
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = 
 | Magia 2 / 2 = 
 | Magia effect 3 = Defense Down

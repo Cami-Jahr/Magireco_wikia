@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 90%
 | Connect 2 / 2 = IX / 105%
 | Connect effect 3 = Chance to Critical Hit
-| Connect 3 / 1 = Self / 1 Turn / VII / 60%
-| Connect 3 / 2 = Self / 1 Turn / IX / 70%
+| Connect 3 / 1 = VII / 60%
+| Connect 3 / 2 = IX / 70%
 
 | Magia name JP = 完璧なるイレギュラー
 | Magia name EN = 
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = V / 315%
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = Blast MP Gain Up
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = Self / 2 Turns / V / 2 MP
 | Magia 2 / 2 = Self / 2 Turns / VII / 3 MP
 | Magia effect 3 = MP Restore

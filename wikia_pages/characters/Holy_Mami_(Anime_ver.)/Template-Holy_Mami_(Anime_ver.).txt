@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Damage Up Versus Enemies Affected With Status Ailments
-| Connect 2 / 1 = Self / 1 Turn / VIII / 42.5%
-| Connect 2 / 2 = Self / 1 Turn / X / 47.5%
+| Connect 2 / 1 = VIII / 42.5%
+| Connect 2 / 2 = X / 47.5%
 | Connect effect 3 = Fog on Attack
 | Connect 3 / 1 = 
 | Connect 3 / 2 = 
@@ -176,7 +176,7 @@
 | Magia 4 / 1 = Self / 1 Turn / V / 30 MP
 | Magia 4 / 2 = Self / 1 Turn / VII / 35 MP
 | Magia effect 5 = Remove Debuffs
-| Magia scaling 5 = 0%
+| Magia scaling 5 = -
 | Magia 5 / 1 = Self / 
 | Magia 5 / 2 = Self / 
 

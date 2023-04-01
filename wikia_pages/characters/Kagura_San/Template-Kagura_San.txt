@@ -146,11 +146,11 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 30%
-| Connect 1 / 2 = Self / 1 Turn / IX / 35%
+| Connect 1 / 1 = VII / 30%
+| Connect 1 / 2 = IX / 35%
 | Connect effect 2 = Remove Status Ailments
-| Connect 2 / 1 = Self / 
-| Connect 2 / 2 = Self / 
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
 | Connect effect 3 = HP Restore
 | Connect 3 / 1 = VII / 45%
 | Connect 3 / 2 = IX / 50%
@@ -172,7 +172,7 @@
 | Magia 3 / 1 = Allies / 3 Turns / V / 30%
 | Magia 3 / 2 = Allies / 3 Turns / VII / 40%
 | Magia effect 4 = Remove Status Ailments
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = 
 | Magia 4 / 2 = 
 | Magia effect 5 = HP Restore

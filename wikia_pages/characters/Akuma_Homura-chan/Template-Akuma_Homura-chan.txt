@@ -155,8 +155,8 @@
 | Connect 3 / 1 = 
 | Connect 3 / 2 = 
 | Connect effect 4 = Negate Status Ailments
-| Connect 4 / 1 = Self / 1 Turn / 1 Status Ailment
-| Connect 4 / 2 = Self / 1 Turn / 2 Status Ailments
+| Connect 4 / 1 = 1 Status Ailment
+| Connect 4 / 2 = 2 Status Ailments
 
 | Magia name JP = あの右上のボタンを押すわ
 | Magia name EN = 
@@ -175,19 +175,19 @@
 | Magia 3 / 1 = All Enemies / 3 Turns / V / 40%
 | Magia 3 / 2 = All Enemies / 3 Turns / VII / 50%
 | Magia effect 4 = Dazzle
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = 
 | Magia 4 / 2 = 
 | Magia effect 5 = Magia Seal
-| Magia scaling 5 = 0%
+| Magia scaling 5 = -
 | Magia 5 / 1 = All Enemies / 2 Turns / 
 | Magia 5 / 2 = All Enemies / 2 Turns / 
 | Magia effect 6 = MP Damage
-| Magia scaling 6 = 0%
+| Magia scaling 6 = -
 | Magia 6 / 1 = All Enemies / V / 35 MP
 | Magia 6 / 2 = All Enemies / VII / 40 MP
 | Magia effect 7 = Skill Quicken
-| Magia scaling 7 = 0%
+| Magia scaling 7 = -
 | Magia 7 / 1 = Self / 1 Turn / 
 | Magia 7 / 2 = Self / 1 Turn / 
 

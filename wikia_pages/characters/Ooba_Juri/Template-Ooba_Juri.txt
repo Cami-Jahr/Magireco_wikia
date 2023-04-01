@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Blast Damage Up
 | Connect effect 1 = Blast Damage Up
-| Connect 1 / 1 = Self / 1 Turn / VIII / 75%
-| Connect 1 / 2 = Self / 1 Turn / X / 85%
+| Connect 1 / 1 = VIII / 75%
+| Connect 1 / 2 = X / 85%
 | Connect effect 2 = Burn on Attack
 | Connect 2 / 1 = 
 | Connect 2 / 2 = 
 | Connect effect 3 = Anti-Evade
-| Connect 3 / 1 = Self / 1 Turn / 
-| Connect 3 / 2 = Self / 1 Turn / 
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = 無限灼熱火炎龍撃波
 | Magia name EN = 
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Burn
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = All Enemies / 3 Turns / 
 | Magia 2 / 2 = All Enemies / 3 Turns / 
 | Magia effect 3 = Flame Attribute Attack Up
@@ -172,7 +172,7 @@
 | Magia 3 / 1 = V / 15%
 | Magia 3 / 2 = VII / 20%
 | Magia effect 4 = Ignore Damage Cut
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Self / 3 Turns / V / 35%
 | Magia 4 / 2 = Self / 3 Turns / VII / 40%
 

@@ -157,8 +157,8 @@
 | Connect 2 / 1 = VII / 25%
 | Connect 2 / 2 = IX / 30%
 | Connect effect 3 = Defense Pierce
-| Connect 3 / 1 = Self / 1 Turn / 
-| Connect 3 / 2 = Self / 1 Turn / 
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = エッジオブユニヴァース
 | Magia name EN = 

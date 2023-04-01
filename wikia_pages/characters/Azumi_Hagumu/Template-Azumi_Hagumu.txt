@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VIII / 27.5%
 | Connect 2 / 2 = X / 32.5%
 | Connect effect 3 = Damage Up Versus Witches
-| Connect 3 / 1 = Self / 1 Turn / IV / 35%
-| Connect 3 / 2 = Self / 1 Turn / V / 40%
+| Connect 3 / 1 = IV / 35%
+| Connect 3 / 2 = V / 40%
 
 | Magia name JP = くるくる回ってさようなら
 | Magia name EN = 

@@ -150,9 +150,9 @@
 | Connect 1 / 2 = VI / 32.5%
 | Connect 1 / 3 = VIII / 37.5%
 | Connect effect 2 = Charged Attack Damage Up
-| Connect 2 / 1 = Self / 1 Turn / III / 15%
-| Connect 2 / 2 = Self / 1 Turn / V / 20%
-| Connect 2 / 3 = Self / 1 Turn / VII / 25%
+| Connect 2 / 1 = III / 15%
+| Connect 2 / 2 = V / 20%
+| Connect 2 / 3 = VII / 25%
 | Connect effect 3 = Fog on Attack
 | Connect 3 / 1 = -
 | Connect 3 / 2 = 
@@ -172,7 +172,7 @@
 | Magia 1 / 2 = III / 320%
 | Magia 1 / 3 = V / 340%
 | Magia effect 2 = Fog
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = -
 | Magia 2 / 2 = All Enemies / 3 Turns / 
 | Magia 2 / 3 = 
@@ -182,7 +182,7 @@
 | Magia 3 / 2 = -
 | Magia 3 / 3 = All Enemies / 3 Turns / V / 25%
 | Magia effect 4 = Chance to Fog
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = All Enemies / 3 Turns / I / 47.5%
 | Magia 4 / 2 = -
 | Magia 4 / 3 = -

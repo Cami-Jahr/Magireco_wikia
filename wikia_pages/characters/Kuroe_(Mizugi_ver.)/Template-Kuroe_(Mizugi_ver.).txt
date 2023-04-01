@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VIII / 37.5%
 | Connect 1 / 2 = X / 42.5%
 | Connect effect 2 = Dark Attribute Attack Up
-| Connect 2 / 1 = Self / 1 Turn / VIII / 22.5%
-| Connect 2 / 2 = Self / 1 Turn / X / 27.5%
+| Connect 2 / 1 = VIII / 22.5%
+| Connect 2 / 2 = X / 27.5%
 
 | Magia name JP = パドリング・オンラッシュ
 | Magia name EN = 

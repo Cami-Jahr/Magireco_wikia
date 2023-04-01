@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
 | Connect effect 2 = MP Restore
 | Connect 2 / 1 = IV / 20 MP
 | Connect 2 / 2 = VI / 25 MP
 | Connect effect 3 = Remove Debuffs
-| Connect 3 / 1 = Self / 
-| Connect 3 / 2 = Self / 
+| Connect 3 / 1 = 
+| Connect 3 / 2 = 
 
 | Magia name JP = 超必・ソニックエッジNo.Ⅵ
 | Magia name EN = 
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = VI / 1120%
 | Magia 1 / 2 = VIII / 1184%
 | Magia effect 2 = Remove Buffs
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = Target / 
 | Magia 2 / 2 = Target / 
 | Magia effect 3 = Damage Increase

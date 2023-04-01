@@ -152,8 +152,8 @@
 | Connect 2 / 1 = V / 50%
 | Connect 2 / 2 = VII / 60%
 | Connect effect 3 = Status Ailment Resistance Up
-| Connect 3 / 1 = Self / 1 Turn / VII / 50%
-| Connect 3 / 2 = Self / 1 Turn / IX / 60%
+| Connect 3 / 1 = VII / 50%
+| Connect 3 / 2 = IX / 60%
 
 | Magia name JP = メロディア・アパッショナータ
 | Magia name EN = 
@@ -172,7 +172,7 @@
 | Magia 3 / 1 = V / 15%
 | Magia 3 / 2 = VII / 30%
 | Magia effect 4 = Barrier
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Self / 3 Turns / V / 10000 damage
 | Magia 4 / 2 = Self / 3 Turns / VII / 15000 damage
 

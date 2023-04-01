@@ -150,9 +150,9 @@
 | Connect 1 / 2 = VII / 35%
 | Connect 1 / 3 = IX / 40%
 | Connect effect 2 = Defense Up
-| Connect 2 / 1 = Self / 1 Turn / V / 75%
-| Connect 2 / 2 = Self / 1 Turn / VII / 90%
-| Connect 2 / 3 = Self / 1 Turn / IX / 105%
+| Connect 2 / 1 = V / 75%
+| Connect 2 / 2 = VII / 90%
+| Connect 2 / 3 = IX / 105%
 
 | Magia name JP = フルブースト・コンバット
 | Magia name EN = 
@@ -174,7 +174,7 @@
 | Magia 3 / 2 = V / 37.5%
 | Magia 3 / 3 = VII / 52.5%
 | Magia effect 4 = Chance to Critical Hit
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = -
 | Magia 4 / 2 = Self / 2 Turns / V / 30%
 | Magia 4 / 3 = Self / 2 Turns / VII / 40%

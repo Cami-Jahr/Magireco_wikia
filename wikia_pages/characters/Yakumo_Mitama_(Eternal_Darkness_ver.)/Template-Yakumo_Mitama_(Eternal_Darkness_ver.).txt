@@ -149,15 +149,15 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Attack Up
-| Connect 2 / 1 = Self / 1 Turn / VII / 35%
-| Connect 2 / 2 = Self / 1 Turn / IX / 40%
+| Connect 2 / 1 = VII / 35%
+| Connect 2 / 2 = IX / 40%
 
 | Magia name JP = 葬々魂吸演舞
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage All Enemies
 | Magia effect 1 = Damage All Enemies
-| Magia scaling 1 = 0%
+| Magia scaling 1 = -
 | Magia 1 / 1 = 
 | Magia 1 / 2 = 
 | Magia effect 2 = Attack Down
@@ -169,19 +169,19 @@
 | Magia 3 / 1 = All Enemies / 3 Turns / 15%
 | Magia 3 / 2 = All Enemies / 3 Turns / 20%
 | Magia effect 4 = Curse
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Self / 1 Turn / 
 | Magia 4 / 2 = Self / 1 Turn / 
 | Magia effect 5 = Magia Seal
-| Magia scaling 5 = 0%
+| Magia scaling 5 = -
 | Magia 5 / 1 = 
 | Magia 5 / 2 = 
 | Magia effect 6 = Skill Seal
-| Magia scaling 6 = 0%
+| Magia scaling 6 = -
 | Magia 6 / 1 = All Enemies / 2 Turns / 
 | Magia 6 / 2 = All Enemies / 2 Turns / 
 | Magia effect 7 = Frailty
-| Magia scaling 7 = 0%
+| Magia scaling 7 = -
 | Magia 7 / 1 = Self / 1 Turn / 100%
 | Magia 7 / 2 = Self / 1 Turn / 100%
 

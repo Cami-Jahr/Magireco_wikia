@@ -154,8 +154,8 @@
 | Connect 1 / 1 = IX / 30%
 | Connect 1 / 2 = XI / 35%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = Self / 1 Turn / VII / 60%
-| Connect 2 / 2 = Self / 1 Turn / IX / 70%
+| Connect 2 / 1 = VII / 60%
+| Connect 2 / 2 = IX / 70%
 | Connect effect 3 = Attack Up
 | Connect 3 / 1 = VII / 25%
 | Connect 3 / 2 = IX / 30%

@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 60%
 | Connect 1 / 2 = IX / 70%
 | Connect effect 2 = Chance to Critical Hit
-| Connect 2 / 1 = Self / 1 Turn / VII / 60%
-| Connect 2 / 2 = Self / 1 Turn / IX / 70%
+| Connect 2 / 1 = VII / 60%
+| Connect 2 / 2 = IX / 70%
 | Connect effect 3 = Evade
 | Connect 3 / 1 = -
 | Connect 3 / 2 = 
@@ -167,7 +167,7 @@
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Provoke
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = 
 | Magia 2 / 2 = 
 | Magia effect 3 = Defense Up
@@ -175,11 +175,11 @@
 | Magia 3 / 1 = -
 | Magia 3 / 2 = Allies / 3 Turns / VII / 45%
 | Magia effect 4 = Evade
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = -
 | Magia 4 / 2 = Self / 1 Turn / 
 | Magia effect 5 = Chance to Evade
-| Magia scaling 5 = 0%
+| Magia scaling 5 = -
 | Magia 5 / 1 = Self / 1 Turn / V / 50%
 | Magia 5 / 2 = -
 

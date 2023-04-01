@@ -149,8 +149,8 @@
 | Connect 1 / 1 = XIII / 135%
 | Connect 1 / 2 = XV / 150%
 | Connect effect 2 = Barrier
-| Connect 2 / 1 = Self / 1 Turn / XIII / 8000 damage
-| Connect 2 / 2 = Self / 1 Turn / XV / 10000 damage
+| Connect 2 / 1 = XIII / 8000 damage
+| Connect 2 / 2 = XV / 10000 damage
 
 | Magia name JP = 驚天超光麗斗喜劇
 | Magia name EN = 
@@ -161,7 +161,7 @@
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Barrier
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = Allies / 3 Turns / V / 8000 damage
 | Magia 2 / 2 = Allies / 3 Turns / VII / 8000 damage
 | Magia effect 3 = HP Restore
@@ -169,11 +169,11 @@
 | Magia 3 / 1 = Allies / V / 17.5%
 | Magia 3 / 2 = Allies / VII / 20%
 | Magia effect 4 = Provoke
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = 
 | Magia 4 / 2 = 
 | Magia effect 5 = MP Up When Damaged
-| Magia scaling 5 = 0%
+| Magia scaling 5 = -
 | Magia 5 / 1 = Self / 1 Turn / V / 8%
 | Magia 5 / 2 = Self / 1 Turn / VII / 10%
 

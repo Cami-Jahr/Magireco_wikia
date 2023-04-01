@@ -146,13 +146,13 @@
 | Connect name NA = 
 | Connect icon = Accele MP Gain Up
 | Connect effect 1 = Accele MP Gain Up
-| Connect 1 / 1 = Self / 1 Turn / V / 30%
-| Connect 1 / 2 = Self / 1 Turn / VII / 40%
-| Connect 1 / 3 = Self / 1 Turn / IX / 50%
+| Connect 1 / 1 = V / 30%
+| Connect 1 / 2 = VII / 40%
+| Connect 1 / 3 = IX / 50%
 | Connect effect 2 = Remove Debuffs
-| Connect 2 / 1 = Self / 
-| Connect 2 / 2 = Self / 
-| Connect 2 / 3 = Self / 
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
+| Connect 2 / 3 = 
 
 | Magia name JP = デザンテグラシオン
 | Magia name EN = 

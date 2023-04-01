@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 40%
 | Connect 2 / 2 = IX / 50%
 | Connect effect 3 = Attack Up
-| Connect 3 / 1 = Self / 1 Turn / VII / 35%
-| Connect 3 / 2 = Self / 1 Turn / IX / 40%
+| Connect 3 / 1 = VII / 35%
+| Connect 3 / 2 = IX / 40%
 
 | Magia name JP = バタフライ・テンペスト
 | Magia name EN = 
@@ -168,7 +168,7 @@
 | Magia 2 / 1 = Allies / 3 Turns / IV / 6%
 | Magia 2 / 2 = VI / 8%
 | Magia effect 3 = Anti-Counter
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = -
 | Magia 3 / 2 = Allies / 3 Turns / 
 

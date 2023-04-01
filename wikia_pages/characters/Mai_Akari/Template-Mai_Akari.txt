@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Light Attribute Attack Up
-| Connect 2 / 1 = Self / 1 Turn / VII / 20%
-| Connect 2 / 2 = Self / 1 Turn / IX / 25%
+| Connect 2 / 1 = VII / 20%
+| Connect 2 / 2 = IX / 25%
 
 | Magia name JP = 想いの一閃、受け止めて！
 | Magia name EN = 

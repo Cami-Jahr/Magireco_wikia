@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Aqua Attribute Attack Up
-| Connect 2 / 1 = Self / 1 Turn / VII / 20%
-| Connect 2 / 2 = Self / 1 Turn / IX / 25%
+| Connect 2 / 1 = VII / 20%
+| Connect 2 / 2 = IX / 25%
 
 | Magia name JP = エモラブ★アクアボム
 | Magia name EN = 

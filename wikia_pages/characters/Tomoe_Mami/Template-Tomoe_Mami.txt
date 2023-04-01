@@ -146,8 +146,8 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Bind on Attack
 | Connect 2 / 1 = 
 | Connect 2 / 2 = 
@@ -164,15 +164,15 @@
 | Magia 1 / 1 = VI / 350%
 | Magia 1 / 2 = VIII / 370%
 | Magia effect 2 = Chance to Bind
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = All Enemies / 1 Turn / VI / 47.5%
 | Magia 2 / 2 = All Enemies / 1 Turn / VIII / 52.5%
 | Magia effect 3 = Defense Down
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Self / 1 Turn / VI / 50%
 | Magia 3 / 2 = Self / 1 Turn / VIII / 50%
 | Magia effect 4 = Chance to Burn
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = -
 | Magia 4 / 2 = All Enemies / 3 Turns / VIII / 52.5%
 

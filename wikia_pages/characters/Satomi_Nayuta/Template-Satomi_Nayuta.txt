@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Accele MP Gain Up
-| Connect 2 / 1 = Self / 1 Turn / VII / 40%
-| Connect 2 / 2 = Self / 1 Turn / IX / 50%
+| Connect 2 / 1 = VII / 40%
+| Connect 2 / 2 = IX / 50%
 | Connect effect 3 = HP Restore
 | Connect 3 / 1 = III / 35%
 | Connect 3 / 2 = V / 40%
@@ -168,11 +168,11 @@
 | Magia 2 / 1 = V / 15%
 | Magia 2 / 2 = VII / 20%
 | Magia effect 3 = Chance to Skill Seal
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = All Enemies / 3 Turns / V / 30%
 | Magia 3 / 2 = All Enemies / 3 Turns / VII / 40%
 | Magia effect 4 = Remove Buffs
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = All Enemies / 
 | Magia 4 / 2 = All Enemies / 
 

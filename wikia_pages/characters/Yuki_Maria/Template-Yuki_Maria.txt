@@ -165,7 +165,7 @@
 | Magia 2 / 1 = III / 17.5%
 | Magia 2 / 2 = V / 20%
 | Magia effect 3 = Remove Status Ailments
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Allies / 
 | Magia 3 / 2 = Allies / 
 

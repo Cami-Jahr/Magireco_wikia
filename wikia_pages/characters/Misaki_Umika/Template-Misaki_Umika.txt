@@ -150,13 +150,13 @@
 | Connect 1 / 2 = VII / 45%
 | Connect 1 / 3 = VIII / 47.5%
 | Connect effect 2 = Damage Cut
-| Connect 2 / 1 = Self / 1 Turn / V / 50%
-| Connect 2 / 2 = Self / 1 Turn / VII / 60%
+| Connect 2 / 1 = V / 50%
+| Connect 2 / 2 = VII / 60%
 | Connect 2 / 3 = VIII / 65%
 | Connect effect 3 = Defense Up
 | Connect 3 / 1 = -
 | Connect 3 / 2 = -
-| Connect 3 / 3 = Self / 1 Turn / VIII / 97.5%
+| Connect 3 / 3 = VIII / 97.5%
 
 | Magia name JP = イクス・フィーレ
 | Magia name EN = 
@@ -173,7 +173,7 @@
 | Magia 2 / 2 = IV / 20%
 | Magia 2 / 3 = VI / 22.5%
 | Magia effect 3 = Remove Status Ailments
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = -
 | Magia 3 / 2 = Allies / 
 | Magia 3 / 3 = Allies / 

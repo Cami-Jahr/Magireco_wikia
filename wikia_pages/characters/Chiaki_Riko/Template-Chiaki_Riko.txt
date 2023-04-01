@@ -154,8 +154,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Charged Attack Damage Up
-| Connect 2 / 1 = Self / 1 Turn / VIII / 27.5%
-| Connect 2 / 2 = Self / 1 Turn / X / 32.5%
+| Connect 2 / 1 = VIII / 27.5%
+| Connect 2 / 2 = X / 32.5%
 | Connect effect 3 = Skill Seal on Attack
 | Connect 3 / 1 = -
 | Connect 3 / 2 = 
@@ -176,7 +176,7 @@
 | Magia 2 / 1 = V / 25%
 | Magia 2 / 2 = VII / 30%
 | Magia effect 3 = Chance to Critical Hit
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Allies / 3 Turns / V / 25%
 | Magia 3 / 2 = Allies / 3 Turns / VII / 30%
 | Magia effect 4 = MP Restore

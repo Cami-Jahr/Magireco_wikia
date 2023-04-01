@@ -146,8 +146,8 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
 | Connect effect 2 = HP Restore
 | Connect 2 / 1 = IV / 37.5%
 | Connect 2 / 2 = VI / 42.5%
@@ -167,15 +167,15 @@
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Charm
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = 
 | Magia 2 / 2 = 
 | Magia effect 3 = Curse
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = 
 | Magia 3 / 2 = 
 | Magia effect 4 = Darkness
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = Target / 1 Turn / 
 | Magia 4 / 2 = Target / 1 Turn / 
 | Magia effect 5 = Attack Up
@@ -183,7 +183,7 @@
 | Magia 5 / 1 = Allies / 3 Turns / V / 20%
 | Magia 5 / 2 = Allies / 3 Turns / VII / 20%
 | Magia effect 6 = Remove Buffs
-| Magia scaling 6 = 0%
+| Magia scaling 6 = -
 | Magia 6 / 1 = -
 | Magia 6 / 2 = Target / 
 

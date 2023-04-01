@@ -146,16 +146,16 @@
 | Connect name NA = 
 | Connect icon = Attack Up
 | Connect effect 1 = Attack Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
+| Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Fog on Attack
 | Connect 2 / 1 = 
 | Connect 2 / 2 = 
 | Connect effect 3 = Anti-Evade
 | Connect 3 / 1 = -
-| Connect 3 / 2 = Self / 1 Turn / 
+| Connect 3 / 2 = 
 | Connect effect 4 = Chance to Anti-Evade
-| Connect 4 / 1 = Self / 1 Turn / VII / 80%
+| Connect 4 / 1 = VII / 80%
 | Connect 4 / 2 = -
 
 | Magia name JP = 魔法のシャボン
@@ -167,11 +167,11 @@
 | Magia 1 / 1 = VI / 288.7%
 | Magia 1 / 2 = VIII / 305.2%
 | Magia effect 2 = Fog
-| Magia scaling 2 = 0%
+| Magia scaling 2 = -
 | Magia 2 / 1 = All Enemies / 3 Turns / 
 | Magia 2 / 2 = All Enemies / 3 Turns / 
 | Magia effect 3 = Chance to Defense Pierce
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = Self / 2 Turns / VI / 55%
 | Magia 3 / 2 = Self / 2 Turns / VIII / 75%
 

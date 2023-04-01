@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Damage Up
 | Connect effect 1 = Damage Up
-| Connect 1 / 1 = Self / 1 Turn / VII / 35%
-| Connect 1 / 2 = Self / 1 Turn / IX / 40%
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
 | Connect effect 2 = MP Restore
 | Connect 2 / 1 = IV / 20 MP
 | Connect 2 / 2 = VI / 25 MP
 | Connect effect 3 = Accele MP Gain Up
-| Connect 3 / 1 = Self / 1 Turn / III / 20%
-| Connect 3 / 2 = Self / 1 Turn / V / 30%
+| Connect 3 / 1 = III / 20%
+| Connect 3 / 2 = V / 30%
 
 | Magia name JP = 水彩レイン
 | Magia name EN = 
@@ -168,11 +168,11 @@
 | Magia 2 / 1 = Allies / 3 Turns / VI / 8 MP
 | Magia 2 / 2 = Allies / 3 Turns / VIII / 10 MP
 | Magia effect 3 = Skill Seal
-| Magia scaling 3 = 0%
+| Magia scaling 3 = -
 | Magia 3 / 1 = -
 | Magia 3 / 2 = All Enemies / 1 Turn / 
 | Magia effect 4 = Chance to Skill Seal
-| Magia scaling 4 = 0%
+| Magia scaling 4 = -
 | Magia 4 / 1 = All Enemies / 1 Turn / VI / 40%
 | Magia 4 / 2 = -
 
