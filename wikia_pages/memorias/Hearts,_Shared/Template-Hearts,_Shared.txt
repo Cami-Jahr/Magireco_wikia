@@ -20,8 +20,8 @@
 | image = Defense Up
 | effect_name = Parry Adept 
 | effect_name_JP = コンフィダント・アデプト
-| effect1 = Defense Up [II / 15%] & MP Gain Up [I / 5%] & MP Up When Attacked By Weak Element [I / 2%]
-| effect2 = Defense Up [III / 22.5%] & MP Gain Up [II / 7.5%] & MP Up When Attacked By Weak Element [I / 2%]
+| effect1 = Defense Up [II / 15%] & MP Gain Up [I / 5%] & MP Up When Attacked By Weak Element [I / 2 MP]
+| effect2 = Defense Up [III / 22.5%] & MP Gain Up [II / 7.5%] & MP Up When Attacked By Weak Element [I / 2 MP]
 | Cooldown = 
 | Cooldown2 = 
 }}

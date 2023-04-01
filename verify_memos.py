@@ -8,6 +8,7 @@ keys_to_ignore = {
     "effect_name_JP",
 }
 
+
 def check_incorrect_memos():
     """
     A function which compares field of generated memorias with their counterpart on the wikia
@@ -17,14 +18,14 @@ def check_incorrect_memos():
         memos = json.load(f)
 
     keys = {
-        "image",
-        "effect_name",
-        "effect_name_JP",
-        "effect1",
-        "effect2",
-        "Cooldown",
-        "Cooldown2",
-    } - keys_to_ignore
+               "image",
+               "effect_name",
+               "effect_name_JP",
+               "effect1",
+               "effect2",
+               "Cooldown",
+               "Cooldown2",
+           } - keys_to_ignore
 
     x = 0
     with open("txts/memoria_url_id.txt", "r", encoding="utf-8") as f:
@@ -43,8 +44,15 @@ def check_incorrect_memos():
                     text = re.findall(rf"{key} *= *(.*)", file_text)
                     generated_text = text[0].strip()
                     wikia_text = memos[key][_id].strip()
+
                     if wikia_text != generated_text:
-                        print(f"Incorrect for {key} for {memo}: \n\twiki: {wikia_text}\n\tgen:  {generated_text}")
+                        diff_text = ""
+                        length = min(len(wikia_text), len(generated_text))
+                        for i in range(length):
+                            diff_text += " " if wikia_text[i] == generated_text[i] else generated_text[i]
+                        diff_text += wikia_text[length:] + generated_text[length:]
+                        print(f"Incorrect for {_id} {key} for {memo}: \n\twiki: {wikia_text}\n\tgen:  {generated_text}\n\tdiff: {diff_text}")
+
 
 
 check_incorrect_memos()

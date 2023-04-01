@@ -21,7 +21,7 @@
 | effect_name = A World with Just Me
 | effect_name_JP = 私しかいない世界
 | effect1 = 
-| effect2 = Guardian (1 Turn) & Damage Cut [VII / 35%] (Self / 1 Turn)
+| effect2 = Guardian & Damage Cut [VII / 35%] (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 5
 }}

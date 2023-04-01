@@ -20,8 +20,8 @@
 | image = Chance to Guardian
 | effect_name = Guardian
 | effect_name_JP = ガーディアン
-| effect1 = Guardian (1 Turn)
-| effect2 = Guardian (1 Turn) & Regenerate HP [IX / 10%] (Self / 1 Turn)
+| effect1 = Guardian on Allies with Critical Health (Self / 1 Turn)
+| effect2 = Guardian on Allies with Critical Health & Regenerate HP [IX / 10%] (Self / 1 Turn)
 | Cooldown = 7
 | Cooldown2 = 6
 }}

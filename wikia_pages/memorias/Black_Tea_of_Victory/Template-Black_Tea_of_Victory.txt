@@ -20,8 +20,8 @@
 | image = MP Up When Attacked By Weak Element
 | effect_name = Revenge Adept 
 | effect_name_JP = リベンジ・アデプト
-| effect1 = MP Up When Attacked By Weak Element [IV / 5%]
-| effect2 = MP Up When Attacked By Weak Element [V / 6%]
+| effect1 = MP Up When Attacked By Weak Element [IV / 5 MP]
+| effect2 = MP Up When Attacked By Weak Element [V / 6 MP]
 | Cooldown = 
 | Cooldown2 = 
 }}

@@ -21,7 +21,7 @@
 | effect_name = Regeneration Covering 
 | effect_name_JP = リジェネレイト・カバーリング
 | effect1 = 
-| effect2 = Guardian (1 Turn) & Regenerate HP [IX / 10%] (Self / 1 Turn)
+| effect2 = Guardian & Regenerate HP [IX / 10%] (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 8
 }}

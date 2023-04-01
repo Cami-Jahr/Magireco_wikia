@@ -449,6 +449,8 @@ target_tl = {
     "SELF": "Self",
     "ALL": "All",
     "ONE": "One Ally",
+    "DYING": "Self",
+    "CONNECT": "Self"
 }
 
 special = {
@@ -519,7 +521,7 @@ def translate(shortDescription, arts):
                     effect = pro
                 else:
                     effect = val
-            if effect == 100 and "Chance to " in text :
+            if effect == 100 and "Chance to " in text:
                 text = text.replace("Chance to ", "")
                 effect = ""
 
@@ -536,7 +538,7 @@ def translate(shortDescription, arts):
                 else:
                     effect = f"{effect}%"
 
-            if effect_code in ("MP", "MP_DAMAGE"):
+            if effect_code in ("MP", "MP_DAMAGE", "MP_PLUS_WEAKED", "MP_PLUS_BLAST"):
                 if verb_code == "INITIAL":
                     effect = effect.replace("%", "% full")
                 else:
@@ -552,12 +554,16 @@ def translate(shortDescription, arts):
             if effect_code in ("BARRIER",):
                 effect = effect.replace("%", "0 damage")
 
-            if effect_code in ("DEBUFF",) and verb_code in ("IGNORE",):
+            if verb_code in ("IGNORE",):
                 nr = art_ids.count(art_id)
-                effect = f"{nr} Debuff{'s' if nr > 1 else ''}"
+                if effect_code in ("DEBUFF",):
+                    effect = f"{nr} Debuff{'s' if nr > 1 else ''}"
+                elif effect_code in ("CONDITION_BAD",):
+                    effect = f"{nr} Status Ailment{'s' if nr > 1 else ''}"
 
             try:
-                target = target_tl[art["targetId"]]
+                target_id = art["targetId"]
+                target = target_tl[target_id]
                 # Differentiates between effects that target all allies or all enemies by whether they are beneficial
                 if target == 'All':
                     if verb_code in ("CONDITION_GOOD", "BUFF", "IGNORE", "LIMITED_ENEMY_TYPE", "TURN_ALLY"
@@ -566,7 +572,13 @@ def translate(shortDescription, arts):
                         target = "Allies"
                     else:
                         target = "All Enemies"
-            except KeyError:
+                elif effect_code == "PROTECT":
+                    target = "Self"
+                    no_states_target = False
+                    if target_id == "DYING":
+                        text = text.replace("Guardian", "Guardian on Allies with Critical Health")
+
+            except KeyError as e:
                 target = ""
             try:
                 turns = art["enableTurn"]

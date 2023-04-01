@@ -20,8 +20,8 @@
 | image = MP Gain Up
 | effect_name = Clever Adept 
 | effect_name_JP = クレバー・アデプト
-| effect1 = MP Gain Up [II / 7.5%] & MP Up When Attacked By Weak Element [I / 2%]
-| effect2 = MP Gain Up [III / 10%] & MP Up When Attacked By Weak Element [I / 2%]
+| effect1 = MP Gain Up [II / 7.5%] & MP Up When Attacked By Weak Element [I / 2 MP]
+| effect2 = MP Gain Up [III / 10%] & MP Up When Attacked By Weak Element [I / 2 MP]
 | Cooldown = 
 | Cooldown2 = 
 }}

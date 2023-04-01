@@ -21,7 +21,7 @@
 | effect_name = Covering
 | effect_name_JP = カバーリング
 | effect1 = 
-| effect2 = Guardian (1 Turn)
+| effect2 = Guardian (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 7
 }}

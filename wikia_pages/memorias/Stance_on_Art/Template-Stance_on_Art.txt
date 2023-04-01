@@ -20,8 +20,8 @@
 | image = Chance to Anti-Poison
 | effect_name = Venom Artisan 
 | effect_name_JP = ヴェノム・アーチザン
-| effect1 = Anti-Poison & Damage Up Versus Enemies Affected With Status Ailments [IV / 32.5%] (1 Turn)
-| effect2 = Anti-Poison & Damage Up Versus Enemies Affected With Status Ailments [V / 35%] (1 Turn)
+| effect1 = Anti-Poison & Damage Up Versus Enemies Affected With Status Ailments [IV / 32.5%] (Self / 1 Turn)
+| effect2 = Anti-Poison & Damage Up Versus Enemies Affected With Status Ailments [V / 35%] (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 
 }}

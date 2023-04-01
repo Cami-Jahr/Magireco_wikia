@@ -20,8 +20,8 @@
 | image = Chance to Guardian
 | effect_name = Hard Covering
 | effect_name_JP = ハード・カバーリング
-| effect1 = Guardian (1 Turn) & Defense Up [VIII / 60%] (Self / 1 Turn)
-| effect2 = Guardian (1 Turn) & Defense Up [IX / 67.5%] (Self / 1 Turn)
+| effect1 = Guardian & Defense Up [VIII / 60%] (Self / 1 Turn)
+| effect2 = Guardian & Defense Up [IX / 67.5%] (Self / 1 Turn)
 | Cooldown = 8
 | Cooldown2 = 7
 }}
