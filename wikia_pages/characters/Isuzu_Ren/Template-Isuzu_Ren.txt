@@ -170,7 +170,7 @@
 | Magia effect 3 = Regenerate HP
 | Magia scaling 3 = 1%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = Self / 3 Turns / VIII / 4%
+| Magia 3 / 2 = Self / 3 Turns / 4%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -183,5 +183,5 @@
 | Magia2 effect 2 = Evade
 | Magia2 2 = Self / 1 Turn
 | Magia2 effect 3 = Regenerate HP
-| Magia2 3 = Self / 3 Turns / X / 9%
+| Magia2 3 = Self / 3 Turns / 9%
 }}

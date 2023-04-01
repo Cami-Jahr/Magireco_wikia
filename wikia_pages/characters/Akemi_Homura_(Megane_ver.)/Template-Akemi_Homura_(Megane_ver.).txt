@@ -176,5 +176,5 @@
 | Magia2 effect 2 = Skill Quicken
 | Magia2 2 = Allies / 3 Turns
 | Magia2 effect 3 = MP Restore
-| Magia2 3 = Allies / IX / 16.5 MP
+| Magia2 3 = Allies / 16.5 MP
 }}

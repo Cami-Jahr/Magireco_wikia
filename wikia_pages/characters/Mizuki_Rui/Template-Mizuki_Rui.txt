@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = Chance to Stun
 | Magia scaling 2 = -
-| Magia 2 / 1 = All Enemies / 1 Turn / V / 40%
-| Magia 2 / 2 = All Enemies / 1 Turn / VII / 45%
+| Magia 2 / 1 = All Enemies / 1 Turn / 40%
+| Magia 2 / 2 = All Enemies / 1 Turn / 45%
 | Magia effect 3 = Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / V / 25%
-| Magia 3 / 2 = Self / 3 Turns / VII / 35%
+| Magia 3 / 1 = Self / 3 Turns / 25%
+| Magia 3 / 2 = Self / 3 Turns / 35%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -183,5 +183,5 @@
 | Magia2 effect 2 = Stun
 | Magia2 2 = All Enemies / 1 Turn
 | Magia2 effect 3 = Attack Up
-| Magia2 3 = Self / 5 Turns / IX / 45%
+| Magia2 3 = Self / 5 Turns / 45%
 }}

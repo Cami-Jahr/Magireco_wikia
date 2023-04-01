@@ -173,10 +173,10 @@
 | Magia 1 / 4 = VII / 360%
 | Magia effect 2 = Defense Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Allies / 3 Turns / I / 26.3%
-| Magia 2 / 2 = Allies / 3 Turns / III / 33.8%
-| Magia 2 / 3 = Allies / 3 Turns / V / 41.3%
-| Magia 2 / 4 = Allies / 3 Turns / VII / 48.8%
+| Magia 2 / 1 = Allies / 3 Turns / 26.3%
+| Magia 2 / 2 = Allies / 3 Turns / 33.8%
+| Magia 2 / 3 = Allies / 3 Turns / 41.3%
+| Magia 2 / 4 = Allies / 3 Turns / 48.8%
 | Magia effect 3 = Provoke
 | Magia scaling 3 = -
 | Magia 3 / 1 = Self / 1 Turn / 
@@ -194,7 +194,7 @@
 | Magia 5 / 1 = -
 | Magia 5 / 2 = -
 | Magia 5 / 3 = -
-| Magia 5 / 4 = VII / 60%
+| Magia 5 / 4 = 60%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -205,9 +205,9 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Defense Up
-| Magia2 2 = Allies / 3 Turns / IX / 66.3%
+| Magia2 2 = Allies / 3 Turns / 66.3%
 | Magia2 effect 3 = Damage Cut
-| Magia2 3 = IX / 80%
+| Magia2 3 = 80%
 | Magia2 effect 4 = Provoke
 | Magia2 4 = 
 | Magia2 effect 5 = Endure

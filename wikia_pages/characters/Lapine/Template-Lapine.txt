@@ -169,19 +169,19 @@
 | Magia 1 / 3 = VII / 360%
 | Magia effect 2 = MP Gain Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All Enemies / 3 Turns / III / 30%
-| Magia 2 / 2 = All Enemies / 3 Turns / V / 40%
-| Magia 2 / 3 = All Enemies / 3 Turns / VII / 40%
+| Magia 2 / 1 = All Enemies / 3 Turns / 30%
+| Magia 2 / 2 = All Enemies / 3 Turns / 40%
+| Magia 2 / 3 = All Enemies / 3 Turns / 40%
 | Magia effect 3 = MP Damage
 | Magia scaling 3 = -
-| Magia 3 / 1 = All Enemies / III / 25 MP
-| Magia 3 / 2 = All Enemies / V / 30 MP
-| Magia 3 / 3 = All Enemies / VII / 30 MP
+| Magia 3 / 1 = All Enemies / 25 MP
+| Magia 3 / 2 = All Enemies / 30 MP
+| Magia 3 / 3 = All Enemies / 30 MP
 | Magia effect 4 = MP Restore
 | Magia scaling 4 = 1%
-| Magia 4 / 1 = III / 25 MP
-| Magia 4 / 2 = V / 30 MP
-| Magia 4 / 3 = VII / 30 MP
+| Magia 4 / 1 = 25 MP
+| Magia 4 / 2 = 30 MP
+| Magia 4 / 3 = 30 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -192,9 +192,9 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = MP Gain Down
-| Magia2 2 = All Enemies / 3 Turns / IX / 60%
+| Magia2 2 = All Enemies / 3 Turns / 60%
 | Magia2 effect 3 = MP Damage
-| Magia2 3 = All Enemies / IX / 40 MP
+| Magia2 3 = All Enemies / 40 MP
 | Magia2 effect 4 = MP Restore
-| Magia2 4 = IX / 39 MP
+| Magia2 4 = 39 MP
 }}

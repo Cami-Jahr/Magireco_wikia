@@ -162,20 +162,20 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = V / 25%
-| Magia 2 / 2 = VII / 30%
+| Magia 2 / 1 = 25%
+| Magia 2 / 2 = 30%
 | Magia effect 3 = Defense Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All Enemies / 3 Turns / V / 15%
-| Magia 3 / 2 = All Enemies / 3 Turns / VII / 20%
+| Magia 3 / 1 = All Enemies / 3 Turns / 15%
+| Magia 3 / 2 = All Enemies / 3 Turns / 20%
 | Magia effect 4 = Attack Up
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = V / 20%
-| Magia 4 / 2 = VII / 30%
+| Magia 4 / 1 = 20%
+| Magia 4 / 2 = 30%
 | Magia effect 5 = Damage Up
 | Magia scaling 5 = 2.5%
-| Magia 5 / 1 = Self / 3 Turns / V / 15%
-| Magia 5 / 2 = Self / 3 Turns / VII / 20%
+| Magia 5 / 1 = Self / 3 Turns / 15%
+| Magia 5 / 2 = Self / 3 Turns / 20%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -186,13 +186,13 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Attack Down
-| Magia2 2 = IX / 45%
+| Magia2 2 = 45%
 | Magia2 effect 3 = Defense Down
-| Magia2 3 = All Enemies / 5 Turns / IX / 40%
+| Magia2 3 = All Enemies / 5 Turns / 40%
 | Magia2 effect 4 = Attack Up
-| Magia2 4 = IX / 50%
+| Magia2 4 = 50%
 | Magia2 effect 5 = Damage Up
-| Magia2 5 = Self / 5 Turns / IX / 40%
+| Magia2 5 = Self / 5 Turns / 40%
 | Magia2 effect 6 = HP Restore
-| Magia2 6 = IX / 43%
+| Magia2 6 = 43%
 }}

@@ -162,12 +162,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Survive
 | Magia scaling 2 = -
-| Magia 2 / 1 = V / 22%
-| Magia 2 / 2 = VII / 25%
+| Magia 2 / 1 = 22%
+| Magia 2 / 2 = 25%
 | Magia effect 3 = Regenerate HP
 | Magia scaling 3 = 1%
-| Magia 3 / 1 = Self / 2 Turns / V / 8%
-| Magia 3 / 2 = Self / 2 Turns / VII / 10%
+| Magia 3 / 1 = Self / 2 Turns / 8%
+| Magia 3 / 2 = Self / 2 Turns / 10%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,7 +178,7 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Survive
-| Magia2 2 = IX / 25%
+| Magia2 2 = 25%
 | Magia2 effect 3 = Regenerate HP
-| Magia2 3 = Allies / 2 Turns / IX / 14%
+| Magia2 3 = Allies / 2 Turns / 14%
 }}

@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = MP Restore
 | Magia scaling 2 = 1%
-| Magia 2 / 1 = V / 30 MP
-| Magia 2 / 2 = VII / 35 MP
+| Magia 2 / 1 = 30 MP
+| Magia 2 / 2 = 35 MP
 | Magia effect 3 = Accele MP Gain Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = Self / 3 Turns / VII / 25%
+| Magia 3 / 2 = Self / 3 Turns / 25%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -181,7 +181,7 @@
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = IX / 2763.2%
 | Magia2 effect 2 = MP Restore
-| Magia2 2 = IX / 44 MP
+| Magia2 2 = 44 MP
 | Magia2 effect 3 = Accele MP Gain Up
-| Magia2 3 = Self / 3 Turns / IX / 40%
+| Magia2 3 = Self / 3 Turns / 40%
 }}

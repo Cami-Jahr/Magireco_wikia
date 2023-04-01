@@ -176,7 +176,7 @@
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
-| Magia 3 / 3 = VII / 40%
+| Magia 3 / 3 = 40%
 | Magia effect 4 = Evade
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
@@ -185,7 +185,7 @@
 | Magia effect 5 = Chance to Evade
 | Magia scaling 5 = -
 | Magia 5 / 1 = -
-| Magia 5 / 2 = Self / 1 Turn / V / 30%
+| Magia 5 / 2 = Self / 1 Turn / 30%
 | Magia 5 / 3 = -
 
 | Doppel Name = 
@@ -199,7 +199,7 @@
 | Magia2 effect 2 = Chase
 | Magia2 2 = 
 | Magia2 effect 3 = Chance to Defense Pierce
-| Magia2 3 = Self / 2 Turns / IX / 50%
+| Magia2 3 = Self / 2 Turns / 50%
 | Magia2 effect 4 = Evade
 | Magia2 4 = Self / 1 Turn
 }}

@@ -162,16 +162,16 @@
 | Magia 1 / 2 = VIII / 299.7%
 | Magia effect 2 = Aqua Attribute Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = VI / 5%
-| Magia 2 / 2 = VIII / 10%
+| Magia 2 / 1 = 5%
+| Magia 2 / 2 = 10%
 | Magia effect 3 = Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / VI / 5%
-| Magia 3 / 2 = Self / 3 Turns / VIII / 10%
+| Magia 3 / 1 = Self / 3 Turns / 5%
+| Magia 3 / 2 = Self / 3 Turns / 10%
 | Magia effect 4 = MP Restore
 | Magia scaling 4 = 1%
-| Magia 4 / 1 = VI / 20 MP
-| Magia 4 / 2 = VIII / 20 MP
+| Magia 4 / 1 = 20 MP
+| Magia 4 / 2 = 20 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,9 +182,9 @@
 | Magia2 effect 1 = Attribute Strengthened Damage 5 Random Enemies
 | Magia2 1 = X / 676%
 | Magia2 effect 2 = Aqua Attribute Attack Up
-| Magia2 2 = Allies / 5 Turns / X / 25%
+| Magia2 2 = Allies / 5 Turns / 25%
 | Magia2 effect 3 = Attack Up
-| Magia2 3 = Self / 5 Turns / X / 25%
+| Magia2 3 = Self / 5 Turns / 25%
 | Magia2 effect 4 = MP Restore
-| Magia2 4 = Allies / X / 24 MP
+| Magia2 4 = Allies / 24 MP
 }}

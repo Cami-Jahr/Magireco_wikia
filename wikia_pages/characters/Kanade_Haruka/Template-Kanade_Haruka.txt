@@ -165,14 +165,14 @@
 | Magia 1 / 3 = VII / 1152%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Target / 3 Turns / III / 15%
-| Magia 2 / 2 = Target / 3 Turns / V / 25%
-| Magia 2 / 3 = Target / 3 Turns / VII / 35%
+| Magia 2 / 1 = Target / 3 Turns / 15%
+| Magia 2 / 2 = Target / 3 Turns / 25%
+| Magia 2 / 3 = Target / 3 Turns / 35%
 | Magia effect 3 = Damage Cut
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / III / 20%
-| Magia 3 / 2 = Self / 3 Turns / V / 30%
-| Magia 3 / 3 = VII / 40%
+| Magia 3 / 1 = Self / 3 Turns / 20%
+| Magia 3 / 2 = Self / 3 Turns / 30%
+| Magia 3 / 3 = 40%
 | Magia effect 4 = Provoke
 | Magia scaling 4 = -
 | Magia 4 / 1 = Self / 1 Turn / 
@@ -182,7 +182,7 @@
 | Magia scaling 5 = 1%
 | Magia 5 / 1 = -
 | Magia 5 / 2 = -
-| Magia 5 / 3 = Self / 3 Turns / VII / 5%
+| Magia 5 / 3 = Self / 3 Turns / 5%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -193,11 +193,11 @@
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = IX / 2763.2%
 | Magia2 effect 2 = Attack Down
-| Magia2 2 = Target / 5 Turns / IX / 55%
+| Magia2 2 = Target / 5 Turns / 55%
 | Magia2 effect 3 = Damage Cut
-| Magia2 3 = IX / 60%
+| Magia2 3 = 60%
 | Magia2 effect 4 = Regenerate HP
-| Magia2 4 = Self / 3 Turns / IX / 11%
+| Magia2 4 = Self / 3 Turns / 11%
 | Magia2 effect 5 = Provoke
 | Magia2 5 = Self / 2 Turns
 }}

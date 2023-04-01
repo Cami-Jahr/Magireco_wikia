@@ -9,7 +9,7 @@ def remove_words_to_ignore(string):
         .replace("  ", " ").strip()
 
 
-def check_differences(keys, file, path_template, wiki_items):
+def check_differences(keys, file, path_template, wiki_items, description):
     x = 0
     differences = 0
     for line in reversed(file.readlines()):
@@ -39,7 +39,7 @@ def check_differences(keys, file, path_template, wiki_items):
                     for i in range(length):
                         diff_text += " " if wikia_text[i] == generated_text[i] else generated_text[i]
                     diff_text += wikia_text[length:] + generated_text[length:]
-                    print(f"Incorrect for {_id} {key} for {item}: \n\twiki: {wikia_text}\n\tgen:  {generated_text}\n\tdiff: {diff_text}")
+                    print(f"Incorrect for {description} with id={_id} {key}, {item}: \n\twiki: {wikia_text}\n\tgen:  {generated_text}\n\tdiff: {diff_text}")
     print(f"\n\nFound {differences} differences")
 
 
@@ -70,7 +70,7 @@ def check_incorrect_memos():
     path_template = "wikia_pages/memorias/{0}/Template-{0}.txt"
 
     with open("txts/memoria_url_id.txt", "r", encoding="utf-8") as f:
-        check_differences(all_keys, f, path_template, memos)
+        check_differences(all_keys, f, path_template, memos, "memo")
 
 
 def check_incorrect_chars():
@@ -135,7 +135,7 @@ def check_incorrect_chars():
     path_template = "wikia_pages/characters/{0}/Template-{0}.txt"
 
     with open("txts/chars.txt", "r", encoding="utf-8") as f:
-        check_differences(all_keys, f, path_template, girls)
+        check_differences(all_keys, f, path_template, girls, "char")
 
 
 check_incorrect_memos()

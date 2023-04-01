@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Charge Conservation
 | Magia scaling 2 = -
-| Magia 2 / 1 = Allies / 2 Turns / V / 100%
-| Magia 2 / 2 = Allies / 2 Turns / VII / 100%
+| Magia 2 / 1 = Allies / 2 Turns / 100%
+| Magia 2 / 2 = Allies / 2 Turns / 100%
 | Magia effect 3 = Aqua Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = V / 15%
-| Magia 3 / 2 = VII / 20%
+| Magia 3 / 1 = 15%
+| Magia 3 / 2 = 20%
 | Magia effect 4 = Regenerate HP
 | Magia scaling 4 = 1%
-| Magia 4 / 1 = V / 6%
-| Magia 4 / 2 = VII / 8%
+| Magia 4 / 1 = 6%
+| Magia 4 / 2 = 8%
 | Magia effect 5 = Anti-Debuff
 | Magia scaling 5 = -
 | Magia 5 / 1 = Allies / 3 Turns / 1 Debuff
@@ -189,11 +189,11 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Charge Conservation
-| Magia2 2 = Allies / 2 Turns / IX / 100%
+| Magia2 2 = Allies / 2 Turns / 100%
 | Magia2 effect 3 = Aqua Attribute Attack Up
-| Magia2 3 = Allies / 5 Turns / IX / 35%
+| Magia2 3 = Allies / 5 Turns / 35%
 | Magia2 effect 4 = Regenerate HP
-| Magia2 4 = IX / 14%
+| Magia2 4 = 14%
 | Magia2 effect 5 = Anti-Debuff
 | Magia2 5 = Allies / 3 Turns / 2 Debuffs
 }}

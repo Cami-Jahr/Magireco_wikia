@@ -165,12 +165,12 @@
 | Magia 1 / 2 = V / 1088%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = III / 22.5%
-| Magia 2 / 2 = V / 27.5%
+| Magia 2 / 1 = 22.5%
+| Magia 2 / 2 = 27.5%
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Allies / 3 Turns / III / 33.8%
-| Magia 3 / 2 = Allies / 3 Turns / V / 41.3%
+| Magia 3 / 1 = Allies / 3 Turns / 33.8%
+| Magia 3 / 2 = Allies / 3 Turns / 41.3%
 
 | Doppel Name = 
 | Doppel Title = 

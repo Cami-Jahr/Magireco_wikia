@@ -162,12 +162,12 @@
 | Magia 1 / 2 = VI / 350%
 | Magia effect 2 = MP Restore
 | Magia scaling 2 = 1%
-| Magia 2 / 1 = Allies / IV / 22.5 MP
-| Magia 2 / 2 = Allies / VI / 27.5 MP
+| Magia 2 / 1 = Allies / 22.5 MP
+| Magia 2 / 2 = Allies / 27.5 MP
 | Magia effect 3 = Damage Cut
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = Allies / 3 Turns / VI / 35%
+| Magia 3 / 2 = Allies / 3 Turns / 35%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,7 +178,7 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = VIII / 902%
 | Magia2 effect 2 = Damage Cut
-| Magia2 2 = Allies / 3 Turns / VIII / 50%
+| Magia2 2 = Allies / 3 Turns / 50%
 | Magia2 effect 3 = MP Restore
-| Magia2 3 = Allies / VIII / 36.5 MP
+| Magia2 3 = Allies / 36.5 MP
 }}

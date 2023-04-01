@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Charge Conservation
 | Magia scaling 2 = -
-| Magia 2 / 1 = Allies / 2 Turns / V / 100%
-| Magia 2 / 2 = Allies / 2 Turns / VII / 100%
+| Magia 2 / 1 = Allies / 2 Turns / 100%
+| Magia 2 / 2 = Allies / 2 Turns / 100%
 | Magia effect 3 = Light Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Allies / 3 Turns / V / 27.5%
-| Magia 3 / 2 = Allies / 3 Turns / VII / 30%
+| Magia 3 / 1 = Allies / 3 Turns / 27.5%
+| Magia 3 / 2 = Allies / 3 Turns / 30%
 | Magia effect 4 = Remove Debuffs
 | Magia scaling 4 = -
 | Magia 4 / 1 = Allies / 
@@ -185,11 +185,11 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Charge Conservation
-| Magia2 2 = Allies / 2 Turns / IX / 100%
+| Magia2 2 = Allies / 2 Turns / 100%
 | Magia2 effect 3 = Attack Up
-| Magia2 3 = IX / 30%
+| Magia2 3 = 30%
 | Magia2 effect 4 = Light Attribute Attack Up
-| Magia2 4 = Allies / 5 Turns / IX / 45%
+| Magia2 4 = Allies / 5 Turns / 45%
 | Magia2 effect 5 = Remove Debuffs
 | Magia2 5 = Allies
 }}

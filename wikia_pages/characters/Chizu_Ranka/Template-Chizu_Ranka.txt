@@ -166,8 +166,8 @@
 | Magia 2 / 2 = Target / 3 Turns / 
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / III / 25%
-| Magia 3 / 2 = Self / 3 Turns / V / 35%
+| Magia 3 / 1 = Self / 3 Turns / 25%
+| Magia 3 / 2 = Self / 3 Turns / 35%
 
 | Doppel Name = 
 | Doppel Title = 

@@ -162,12 +162,12 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Chance to Counter
 | Magia scaling 2 = -
-| Magia 2 / 1 = Allies / 3 Turns / V / 15%
-| Magia 2 / 2 = VII / 20%
+| Magia 2 / 1 = Allies / 3 Turns / 15%
+| Magia 2 / 2 = 20%
 | Magia effect 3 = Damage Cut
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = Allies / 3 Turns / VII / 37.5%
+| Magia 3 / 2 = Allies / 3 Turns / 37.5%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -178,7 +178,7 @@
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = IX / 2763.2%
 | Magia2 effect 2 = Chance to Counter
-| Magia2 2 = IX / 25%
+| Magia2 2 = 25%
 | Magia2 effect 3 = Damage Cut
-| Magia2 3 = Allies / 3 Turns / IX / 52.5%
+| Magia2 3 = Allies / 3 Turns / 52.5%
 }}

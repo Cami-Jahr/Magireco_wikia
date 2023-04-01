@@ -168,12 +168,12 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Defense Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = V / 15%
-| Magia 2 / 2 = VII / 20%
+| Magia 2 / 1 = 15%
+| Magia 2 / 2 = 20%
 | Magia effect 3 = Status Ailment Resistance Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Target / 3 Turns / V / 10%
-| Magia 3 / 2 = Target / 3 Turns / VII / 15%
+| Magia 3 / 1 = Target / 3 Turns / 10%
+| Magia 3 / 2 = Target / 3 Turns / 15%
 | Magia effect 4 = Bind
 | Magia scaling 4 = -
 | Magia 4 / 1 = Target / 1 Turn / 
@@ -188,9 +188,9 @@
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = IX / 2763.2%
 | Magia2 effect 2 = Defense Down
-| Magia2 2 = IX / 40%
+| Magia2 2 = 40%
 | Magia2 effect 3 = Status Ailment Resistance Down
-| Magia2 3 = Target / 3 Turns / IX / 30%
+| Magia2 3 = Target / 3 Turns / 30%
 | Magia2 effect 4 = Bind
 | Magia2 4 = Target / 1 Turn
 }}

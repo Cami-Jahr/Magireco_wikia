@@ -168,16 +168,16 @@
 | Magia 1 / 4 = VIII / 370%
 | Magia effect 2 = Blast Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Allies / 3 Turns / II / 15%
-| Magia 2 / 2 = Allies / 3 Turns / IV / 25%
-| Magia 2 / 3 = VI / 35%
-| Magia 2 / 4 = VIII / 45%
+| Magia 2 / 1 = Allies / 3 Turns / 15%
+| Magia 2 / 2 = Allies / 3 Turns / 25%
+| Magia 2 / 3 = 35%
+| Magia 2 / 4 = 45%
 | Magia effect 3 = Accele MP Gain Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
-| Magia 3 / 3 = Allies / 3 Turns / VI / 20%
-| Magia 3 / 4 = Allies / 3 Turns / VIII / 25%
+| Magia 3 / 3 = Allies / 3 Turns / 20%
+| Magia 3 / 4 = Allies / 3 Turns / 25%
 | Magia effect 4 = Evade
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
@@ -194,9 +194,9 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = X / 898%
 | Magia2 effect 2 = Blast Damage Up
-| Magia2 2 = X / 65%
+| Magia2 2 = 65%
 | Magia2 effect 3 = Accele MP Gain Up
-| Magia2 3 = Allies / 3 Turns / X / 40%
+| Magia2 3 = Allies / 3 Turns / 40%
 | Magia2 effect 4 = Evade
 | Magia2 4 = Self / 1 Turn
 }}

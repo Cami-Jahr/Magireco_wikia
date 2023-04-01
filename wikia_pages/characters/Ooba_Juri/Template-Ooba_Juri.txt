@@ -169,12 +169,12 @@
 | Magia 2 / 2 = All Enemies / 3 Turns / 
 | Magia effect 3 = Flame Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = V / 15%
-| Magia 3 / 2 = VII / 20%
+| Magia 3 / 1 = 15%
+| Magia 3 / 2 = 20%
 | Magia effect 4 = Ignore Damage Cut
 | Magia scaling 4 = -
-| Magia 4 / 1 = Self / 3 Turns / V / 35%
-| Magia 4 / 2 = Self / 3 Turns / VII / 40%
+| Magia 4 / 1 = Self / 3 Turns / 35%
+| Magia 4 / 2 = Self / 3 Turns / 40%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -187,9 +187,9 @@
 | Magia2 effect 2 = Burn
 | Magia2 2 = All Enemies / 3 Turns
 | Magia2 effect 3 = Attack Up
-| Magia2 3 = IX / 45%
+| Magia2 3 = 45%
 | Magia2 effect 4 = Flame Attribute Attack Up
-| Magia2 4 = IX / 35%
+| Magia2 4 = 35%
 | Magia2 effect 5 = Ignore Damage Cut
-| Magia2 5 = Self / 5 Turns / IX / 80%
+| Magia2 5 = Self / 5 Turns / 80%
 }}

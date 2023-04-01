@@ -163,7 +163,7 @@
 | Magia effect 2 = Chance to Charm
 | Magia scaling 2 = -
 | Magia 2 / 1 = -
-| Magia 2 / 2 = All Enemies / 1 Turn / V / 40%
+| Magia 2 / 2 = All Enemies / 1 Turn / 40%
 
 | Doppel Name = 
 | Doppel Title = 

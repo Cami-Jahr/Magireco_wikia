@@ -136,7 +136,7 @@ def read(piece, chars):
             cooldown = ""
 
         description_jp = piece[f"pieceSkill{i}"]["shortDescription"]
-        description_eng, icon = translate(description_jp, arts)
+        description_eng, icon = translate(description_jp, arts, True)
         en_full_description = ""
         for en_skill in description_eng:
             if en_full_description:

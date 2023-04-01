@@ -165,15 +165,15 @@
 | Magia 1 / 2 = VIII / 345%
 | Magia effect 2 = Regenerate MP
 | Magia scaling 2 = 0.5%
-| Magia 2 / 1 = Allies / 3 Turns / VI / 8 MP
-| Magia 2 / 2 = Allies / 3 Turns / VIII / 10 MP
+| Magia 2 / 1 = Allies / 3 Turns / 8 MP
+| Magia 2 / 2 = Allies / 3 Turns / 10 MP
 | Magia effect 3 = Skill Seal
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
 | Magia 3 / 2 = All Enemies / 1 Turn / 
 | Magia effect 4 = Chance to Skill Seal
 | Magia scaling 4 = -
-| Magia 4 / 1 = All Enemies / 1 Turn / VI / 40%
+| Magia 4 / 1 = All Enemies / 1 Turn / 40%
 | Magia 4 / 2 = -
 
 | Doppel Name = 
@@ -187,5 +187,5 @@
 | Magia2 effect 2 = Charm
 | Magia2 2 = All Enemies / 1 Turn
 | Magia2 effect 3 = Regenerate MP
-| Magia2 3 = Allies / 3 Turns / X / 14 MP
+| Magia2 3 = Allies / 3 Turns / 14 MP
 }}

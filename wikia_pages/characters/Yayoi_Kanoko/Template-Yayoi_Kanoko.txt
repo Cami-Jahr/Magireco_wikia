@@ -177,13 +177,13 @@
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
 | Magia 3 / 3 = -
-| Magia 3 / 4 = VII / 20%
+| Magia 3 / 4 = 20%
 | Magia effect 4 = Charged Attack Damage Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
 | Magia 4 / 3 = -
-| Magia 4 / 4 = Self / 3 Turns / VII / 20%
+| Magia 4 / 4 = Self / 3 Turns / 20%
 | Magia effect 5 = Damage 2 Random Enemies
 | Magia scaling 5 = 10%
 | Magia 5 / 1 = -
@@ -208,7 +208,7 @@
 | Magia2 effect 2 = Charm
 | Magia2 2 = Target / 1 Turn
 | Magia2 effect 3 = Attack Up
-| Magia2 3 = IX / 40%
+| Magia2 3 = 40%
 | Magia2 effect 4 = Charged Attack Damage Up
-| Magia2 4 = Self / 3 Turns / IX / 35%
+| Magia2 4 = Self / 3 Turns / 35%
 }}

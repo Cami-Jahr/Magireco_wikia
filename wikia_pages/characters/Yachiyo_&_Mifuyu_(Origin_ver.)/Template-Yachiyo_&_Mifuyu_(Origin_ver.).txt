@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = V / 35%
-| Magia 2 / 2 = VII / 40%
+| Magia 2 / 1 = 35%
+| Magia 2 / 2 = 40%
 | Magia effect 3 = Chance to Defense Pierce
 | Magia scaling 3 = -
-| Magia 3 / 1 = Self / 3 Turns / V / 55%
-| Magia 3 / 2 = Self / 3 Turns / VII / 60%
+| Magia 3 / 1 = Self / 3 Turns / 55%
+| Magia 3 / 2 = Self / 3 Turns / 60%
 | Magia effect 4 = MP Restore
 | Magia scaling 4 = 1%
-| Magia 4 / 1 = V / 25 MP
-| Magia 4 / 2 = VII / 30 MP
+| Magia 4 / 1 = 25 MP
+| Magia 4 / 2 = 30 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -185,9 +185,9 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Attack Up
-| Magia2 2 = IX / 55%
+| Magia2 2 = 55%
 | Magia2 effect 3 = Defense Pierce
 | Magia2 3 = Self / 3 Turns
 | Magia2 effect 4 = MP Restore
-| Magia2 4 = IX / 49 MP
+| Magia2 4 = 49 MP
 }}

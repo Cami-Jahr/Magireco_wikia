@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = V / 25%
-| Magia 2 / 2 = VII / 30%
+| Magia 2 / 1 = 25%
+| Magia 2 / 2 = 30%
 | Magia effect 3 = Damage Up Versus Witches
 | Magia scaling 3 = 1.5%
-| Magia 3 / 1 = Allies / 3 Turns / V / 17.5%
-| Magia 3 / 2 = Allies / 3 Turns / VII / 20%
+| Magia 3 / 1 = Allies / 3 Turns / 17.5%
+| Magia 3 / 2 = Allies / 3 Turns / 20%
 | Magia effect 4 = Revive one Ally
 | Magia scaling 4 = 1%
 | Magia 4 / 1 = 20%
@@ -185,9 +185,9 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Attack Up
-| Magia2 2 = IX / 45%
+| Magia2 2 = 45%
 | Magia2 effect 3 = Damage Up Versus Witches
-| Magia2 3 = Allies / 3 Turns / IX / 31%
+| Magia2 3 = Allies / 3 Turns / 31%
 | Magia2 effect 4 = Revive one Ally
 | Magia2 4 = 34%
 }}

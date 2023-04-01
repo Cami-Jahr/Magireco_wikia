@@ -162,8 +162,8 @@
 | Magia 1 / 2 = IX / 355%
 | Magia effect 2 = Accele MP Gain Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / VII / 20%
-| Magia 2 / 2 = Self / 3 Turns / IX / 25%
+| Magia 2 / 1 = Self / 3 Turns / 20%
+| Magia 2 / 2 = Self / 3 Turns / 25%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -174,5 +174,5 @@
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = XI / 918.5%
 | Magia2 effect 2 = Accele MP Gain Up
-| Magia2 2 = Self / 3 Turns / XI / 40%
+| Magia2 2 = Self / 3 Turns / 40%
 }}

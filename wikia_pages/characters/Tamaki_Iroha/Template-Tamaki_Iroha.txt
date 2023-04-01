@@ -188,7 +188,7 @@
 | Magia 3 / 2 = -
 | Magia 3 / 3 = -
 | Magia 3 / 4 = -
-| Magia 3 / 5 = Allies / VI / 20%
+| Magia 3 / 5 = Allies / 20%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -199,7 +199,7 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = VIII / 880%
 | Magia2 effect 2 = HP Restore
-| Magia2 2 = VIII / 28%
+| Magia2 2 = 28%
 | Magia2 effect 3 = Remove Status Ailments
 | Magia2 3 = Allies
 | Magia2 effect 4 = Revive one Ally

@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VIII / 252.7%
 | Magia effect 2 = Magia Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = VI / 25%
-| Magia 2 / 2 = VIII / 30%
+| Magia 2 / 1 = 25%
+| Magia 2 / 2 = 30%
 | Magia effect 3 = Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = VI / 15%
-| Magia 3 / 2 = VIII / 20%
+| Magia 3 / 1 = 15%
+| Magia 3 / 2 = 20%
 | Magia effect 4 = Flame Attribute Attack Up
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = Self / 3 Turns / VI / 7.5%
-| Magia 4 / 2 = Self / 3 Turns / VIII / 10%
+| Magia 4 / 1 = Self / 3 Turns / 7.5%
+| Magia 4 / 2 = Self / 3 Turns / 10%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -185,9 +185,9 @@
 | Magia2 effect 1 = Attribute Strengthened Damage 5 Random Enemies
 | Magia2 1 = X / 676%
 | Magia2 effect 2 = Magia Damage Up
-| Magia2 2 = Allies / 5 Turns / X / 40%
+| Magia2 2 = Allies / 5 Turns / 40%
 | Magia2 effect 3 = Damage Up
-| Magia2 3 = X / 40%
+| Magia2 3 = 40%
 | Magia2 effect 4 = Flame Attribute Attack Up
-| Magia2 4 = Self / 5 Turns / X / 30%
+| Magia2 4 = Self / 5 Turns / 30%
 }}

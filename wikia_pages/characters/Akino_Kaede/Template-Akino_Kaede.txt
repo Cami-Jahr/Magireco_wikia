@@ -170,18 +170,18 @@
 | Magia effect 2 = Chance to Fog
 | Magia scaling 2 = -
 | Magia 2 / 1 = -
-| Magia 2 / 2 = All Enemies / 3 Turns / VI / 40%
-| Magia 2 / 3 = All Enemies / 3 Turns / VII / 50%
+| Magia 2 / 2 = All Enemies / 3 Turns / 40%
+| Magia 2 / 3 = All Enemies / 3 Turns / 50%
 | Magia effect 3 = Charged Attack Damage Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
-| Magia 3 / 3 = VII / 20%
+| Magia 3 / 3 = 20%
 | Magia effect 4 = Accele MP Gain Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
-| Magia 4 / 3 = Allies / 3 Turns / VII / 20%
+| Magia 4 / 3 = Allies / 3 Turns / 20%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -194,7 +194,7 @@
 | Magia2 effect 2 = Fog
 | Magia2 2 = All Enemies / 3 Turns
 | Magia2 effect 3 = Charged Attack Damage Up
-| Magia2 3 = IX / 35%
+| Magia2 3 = 35%
 | Magia2 effect 4 = Accele MP Gain Up
-| Magia2 4 = Allies / 3 Turns / IX / 35%
+| Magia2 4 = Allies / 3 Turns / 35%
 }}

@@ -172,8 +172,8 @@
 | Magia 2 / 2 = All Enemies / 3 Turns / 
 | Magia effect 3 = Magia Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 5 Turns / V / 15%
-| Magia 3 / 2 = Self / 5 Turns / VII / 20%
+| Magia 3 / 1 = Self / 5 Turns / 15%
+| Magia 3 / 2 = Self / 5 Turns / 20%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -186,5 +186,5 @@
 | Magia2 effect 2 = Burn
 | Magia2 2 = All Enemies / 3 Turns
 | Magia2 effect 3 = Magia Damage Up
-| Magia2 3 = Self / 5 Turns / IX / 35%
+| Magia2 3 = Self / 5 Turns / 35%
 }}

@@ -168,16 +168,16 @@
 | Magia 1 / 4 = VI / 569%
 | Magia effect 2 = HP Restore
 | Magia scaling 2 = 2%
-| Magia 2 / 1 = Allies / I / 15%
-| Magia 2 / 2 = Allies / II / 17.5%
-| Magia 2 / 3 = Allies / IV / 20%
-| Magia 2 / 4 = Allies / VI / 22.5%
+| Magia 2 / 1 = Allies / 15%
+| Magia 2 / 2 = Allies / 17.5%
+| Magia 2 / 3 = Allies / 20%
+| Magia 2 / 4 = Allies / 22.5%
 | Magia effect 3 = Attack Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
-| Magia 3 / 3 = Allies / 3 Turns / IV / 25%
-| Magia 3 / 4 = Allies / 3 Turns / VI / 30%
+| Magia 3 / 3 = Allies / 3 Turns / 25%
+| Magia 3 / 4 = Allies / 3 Turns / 30%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -188,7 +188,7 @@
 | Magia2 effect 1 = Damage A Vertical Line
 | Magia2 1 = VIII / 1296%
 | Magia2 effect 2 = HP Restore
-| Magia2 2 = Allies / VIII / 33%
+| Magia2 2 = Allies / 33%
 | Magia2 effect 3 = Attack Up
-| Magia2 3 = Allies / 3 Turns / VIII / 45%
+| Magia2 3 = Allies / 3 Turns / 45%
 }}

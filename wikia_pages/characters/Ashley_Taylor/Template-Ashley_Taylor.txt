@@ -169,12 +169,12 @@
 | Magia 2 / 2 = All Enemies / 1 Turn / 
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = VI / 40%
-| Magia 3 / 2 = VIII / 50%
+| Magia 3 / 1 = 40%
+| Magia 3 / 2 = 50%
 | Magia effect 4 = Ignore Damage Cut
 | Magia scaling 4 = -
-| Magia 4 / 1 = Self / 3 Turns / VI / 100%
-| Magia 4 / 2 = Self / 3 Turns / VIII / 100%
+| Magia 4 / 1 = Self / 3 Turns / 100%
+| Magia 4 / 2 = Self / 3 Turns / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -187,9 +187,9 @@
 | Magia2 effect 2 = Charm
 | Magia2 2 = All Enemies / 1 Turn
 | Magia2 effect 3 = Blast Damage Up
-| Magia2 3 = Allies / 5 Turns / X / 65%
+| Magia2 3 = Allies / 5 Turns / 65%
 | Magia2 effect 4 = Ignore Damage Cut
-| Magia2 4 = Self / 5 Turns / X / 100%
+| Magia2 4 = Self / 5 Turns / 100%
 | Magia2 effect 5 = Blast MP Gain Up
-| Magia2 5 = Self / 3 Turns / X / 5 MP
+| Magia2 5 = Self / 3 Turns / 5 MP
 }}

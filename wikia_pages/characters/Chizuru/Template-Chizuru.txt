@@ -169,12 +169,12 @@
 | Magia 2 / 2 = Target / 3 Turns / 
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = V / 30%
-| Magia 3 / 2 = VII / 40%
+| Magia 3 / 1 = 30%
+| Magia 3 / 2 = 40%
 | Magia effect 4 = Flame Attribute Attack Up
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = Self / 3 Turns / V / 25%
-| Magia 4 / 2 = Self / 3 Turns / VII / 30%
+| Magia 4 / 1 = Self / 3 Turns / 25%
+| Magia 4 / 2 = Self / 3 Turns / 30%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -187,9 +187,9 @@
 | Magia2 effect 2 = Burn
 | Magia2 2 = Target / 3 Turns
 | Magia2 effect 3 = Blast Damage Up
-| Magia2 3 = IX / 60%
+| Magia2 3 = 60%
 | Magia2 effect 4 = Flame Attribute Attack Up
-| Magia2 4 = Self / 5 Turns / IX / 45%
+| Magia2 4 = Self / 5 Turns / 45%
 | Magia2 effect 5 = Blast MP Gain Up
-| Magia2 5 = Self / 3 Turns / IX / 5 MP
+| Magia2 5 = Self / 3 Turns / 5 MP
 }}

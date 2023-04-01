@@ -173,7 +173,7 @@
 | Magia 3 / 2 = Self / 1 Turn / 
 | Magia effect 4 = Chance to Counter
 | Magia scaling 4 = -
-| Magia 4 / 1 = Self / 1 Turn / V / 35%
+| Magia 4 / 1 = Self / 1 Turn / 35%
 | Magia 4 / 2 = -
 
 | Doppel Name = 

@@ -169,14 +169,14 @@
 | Magia 1 / 3 = VIII / 1184%
 | Magia effect 2 = Magia Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / V / 35%
-| Magia 2 / 2 = Self / 5 Turns / VII / 35%
-| Magia 2 / 3 = Self / 5 Turns / VIII / 40%
+| Magia 2 / 1 = Self / 3 Turns / 35%
+| Magia 2 / 2 = Self / 5 Turns / 35%
+| Magia 2 / 3 = Self / 5 Turns / 40%
 | Magia effect 3 = MP Restore
 | Magia scaling 3 = 1%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = VII / 27.5 MP
-| Magia 3 / 3 = VIII / 30 MP
+| Magia 3 / 2 = 27.5 MP
+| Magia 3 / 3 = 30 MP
 | Magia effect 4 = Burn
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
@@ -194,7 +194,7 @@
 | Magia2 effect 2 = Burn
 | Magia2 2 = Target / 3 Turns
 | Magia2 effect 3 = Magia Damage Up
-| Magia2 3 = Self / 5 Turns / XI / 55%
+| Magia2 3 = Self / 5 Turns / 55%
 | Magia2 effect 4 = MP Restore
-| Magia2 4 = XI / 44 MP
+| Magia2 4 = 44 MP
 }}

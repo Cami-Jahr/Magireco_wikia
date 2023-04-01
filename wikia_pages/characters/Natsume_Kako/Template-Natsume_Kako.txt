@@ -168,10 +168,10 @@
 | Magia 1 / 4 = VI / 1120%
 | Magia effect 2 = Regenerate HP
 | Magia scaling 2 = 1%
-| Magia 2 / 1 = Allies / 3 Turns / I / 6%
-| Magia 2 / 2 = Allies / 3 Turns / II / 8%
-| Magia 2 / 3 = Allies / 3 Turns / IV / 10%
-| Magia 2 / 4 = Allies / 3 Turns / VI / 11%
+| Magia 2 / 1 = Allies / 3 Turns / 6%
+| Magia 2 / 2 = Allies / 3 Turns / 8%
+| Magia 2 / 3 = Allies / 3 Turns / 10%
+| Magia 2 / 4 = Allies / 3 Turns / 11%
 | Magia effect 3 = Remove Status Ailments
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
@@ -190,7 +190,7 @@
 | Magia2 effect 2 = Remove Buffs
 | Magia2 2 = Target
 | Magia2 effect 3 = Regenerate HP
-| Magia2 3 = Allies / 3 Turns / VIII / 16%
+| Magia2 3 = Allies / 3 Turns / 16%
 | Magia2 effect 4 = Remove Status Ailments
 | Magia2 4 = Allies
 }}

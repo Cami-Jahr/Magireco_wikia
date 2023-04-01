@@ -172,8 +172,8 @@
 | Magia 2 / 2 = All Enemies / 3 Turns / 
 | Magia effect 3 = Chance to Defense Pierce
 | Magia scaling 3 = -
-| Magia 3 / 1 = Self / 2 Turns / VI / 55%
-| Magia 3 / 2 = Self / 2 Turns / VIII / 75%
+| Magia 3 / 1 = Self / 2 Turns / 55%
+| Magia 3 / 2 = Self / 2 Turns / 75%
 
 | Doppel Name = 
 | Doppel Title = 

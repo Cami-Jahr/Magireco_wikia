@@ -162,12 +162,12 @@
 | Magia 1 / 2 = V / 1088%
 | Magia effect 2 = Chance to Darkness
 | Magia scaling 2 = -
-| Magia 2 / 1 = Target / 2 Turns / III / 45%
-| Magia 2 / 2 = Target / 2 Turns / V / 55%
+| Magia 2 / 1 = Target / 2 Turns / 45%
+| Magia 2 / 2 = Target / 2 Turns / 55%
 | Magia effect 3 = Accele MP Gain Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / III / 15%
-| Magia 3 / 2 = Self / 3 Turns / V / 20%
+| Magia 3 / 1 = Self / 3 Turns / 15%
+| Magia 3 / 2 = Self / 3 Turns / 20%
 
 | Doppel Name = 
 | Doppel Title = 

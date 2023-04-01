@@ -169,8 +169,8 @@
 | Magia 2 / 2 = 30%
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = V / 41.3%
-| Magia 3 / 2 = VII / 48.8%
+| Magia 3 / 1 = 41.3%
+| Magia 3 / 2 = 48.8%
 | Magia effect 4 = Anti-Debuff
 | Magia scaling 4 = -
 | Magia 4 / 1 = 1 Debuff
@@ -191,7 +191,7 @@
 | Magia2 effect 2 = Revive one Ally
 | Magia2 2 = 54%
 | Magia2 effect 3 = Defense Up
-| Magia2 3 = IX / 66.3%
+| Magia2 3 = 66.3%
 | Magia2 effect 4 = Anti-Debuff
 | Magia2 4 = 2 Debuffs
 | Magia2 effect 5 = Negate Status Ailments

@@ -177,8 +177,8 @@
 | Magia 4 / 2 = 1 Status Ailment
 | Magia effect 5 = Regenerate HP
 | Magia scaling 5 = 1%
-| Magia 5 / 1 = Allies / 3 Turns / V / 8%
-| Magia 5 / 2 = Allies / 3 Turns / VII / 10%
+| Magia 5 / 1 = Allies / 3 Turns / 8%
+| Magia 5 / 2 = Allies / 3 Turns / 10%
 | Magia effect 6 = Remove Status Ailments
 | Magia scaling 6 = -
 | Magia 6 / 1 = Allies / 
@@ -199,9 +199,9 @@
 | Magia2 effect 4 = Negate Status Ailments
 | Magia2 4 = 2 Status Ailments
 | Magia2 effect 5 = Regenerate HP
-| Magia2 5 = Allies / 5 Turns / IX / 14%
+| Magia2 5 = Allies / 5 Turns / 14%
 | Magia2 effect 6 = Remove Status Ailments
 | Magia2 6 = Allies
 | Magia2 effect 7 = Imitate Attribute
-| Magia2 7 = Self / 3 Turns / IX / 100%
+| Magia2 7 = Self / 3 Turns / 100%
 }}

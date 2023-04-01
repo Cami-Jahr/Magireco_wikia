@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VI / 1120%
 | Magia effect 2 = Defense Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Allies / 3 Turns / IV / 37.5%
-| Magia 2 / 2 = Allies / 3 Turns / VI / 45%
+| Magia 2 / 1 = Allies / 3 Turns / 37.5%
+| Magia 2 / 2 = Allies / 3 Turns / 45%
 | Magia effect 3 = HP Restore
 | Magia scaling 3 = 2%
-| Magia 3 / 1 = IV / 20%
-| Magia 3 / 2 = VI / 22.5%
+| Magia 3 / 1 = 20%
+| Magia 3 / 2 = 22.5%
 | Magia effect 4 = Remove Status Ailments
 | Magia scaling 4 = -
 | Magia 4 / 1 = Allies / 
@@ -185,9 +185,9 @@
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = VIII / 2200%
 | Magia2 effect 2 = Defense Up
-| Magia2 2 = Allies / 3 Turns / VIII / 62.5%
+| Magia2 2 = Allies / 3 Turns / 62.5%
 | Magia2 effect 3 = HP Restore
-| Magia2 3 = VIII / 33%
+| Magia2 3 = 33%
 | Magia2 effect 4 = Remove Status Ailments
 | Magia2 4 = Allies
 }}

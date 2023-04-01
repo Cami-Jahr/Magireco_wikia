@@ -169,8 +169,8 @@
 | Magia 2 / 2 = 40%
 | Magia effect 3 = Regenerate HP
 | Magia scaling 3 = 1%
-| Magia 3 / 1 = V / 6%
-| Magia 3 / 2 = VII / 8%
+| Magia 3 / 1 = 6%
+| Magia 3 / 2 = 8%
 | Magia effect 4 = Negate Status Ailments
 | Magia scaling 4 = -
 | Magia 4 / 1 = Allies / 3 Turns / 1 Status Ailment
@@ -181,8 +181,8 @@
 | Magia 5 / 2 = 
 | Magia effect 6 = HP Restore
 | Magia scaling 6 = 2%
-| Magia 6 / 1 = Allies / V / 22.5%
-| Magia 6 / 2 = Allies / VII / 25%
+| Magia 6 / 1 = Allies / 22.5%
+| Magia 6 / 2 = Allies / 25%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -195,11 +195,11 @@
 | Magia2 effect 2 = Revive one Ally
 | Magia2 2 = 54%
 | Magia2 effect 3 = Regenerate HP
-| Magia2 3 = IX / 17%
+| Magia2 3 = 17%
 | Magia2 effect 4 = Negate Status Ailments
 | Magia2 4 = Allies / 3 Turns / 3 Status Ailments
 | Magia2 effect 5 = Remove Status Ailments
 | Magia2 5 = 
 | Magia2 effect 6 = HP Restore
-| Magia2 6 = Allies / IX / 48%
+| Magia2 6 = Allies / 48%
 }}

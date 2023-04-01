@@ -167,16 +167,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Chance to Darkness
 | Magia scaling 2 = -
-| Magia 2 / 1 = All Enemies / 3 Turns / V / 40%
-| Magia 2 / 2 = All Enemies / 3 Turns / VII / 45%
+| Magia 2 / 1 = All Enemies / 3 Turns / 40%
+| Magia 2 / 2 = All Enemies / 3 Turns / 45%
 | Magia effect 3 = Charged Attack Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Allies / 3 Turns / V / 20%
-| Magia 3 / 2 = Allies / 3 Turns / VII / 25%
+| Magia 3 / 1 = Allies / 3 Turns / 20%
+| Magia 3 / 2 = Allies / 3 Turns / 25%
 | Magia effect 4 = Regenerate MP
 | Magia scaling 4 = 1%
-| Magia 4 / 1 = Self / 3 Turns / V / 7.5 MP
-| Magia 4 / 2 = Self / 3 Turns / VII / 7.5 MP
+| Magia 4 / 1 = Self / 3 Turns / 7.5 MP
+| Magia 4 / 2 = Self / 3 Turns / 7.5 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -189,7 +189,7 @@
 | Magia2 effect 2 = Darkness
 | Magia2 2 = All Enemies / 3 Turns
 | Magia2 effect 3 = Charged Attack Damage Up
-| Magia2 3 = Allies / 3 Turns / IX / 40%
+| Magia2 3 = Allies / 3 Turns / 40%
 | Magia2 effect 4 = Regenerate MP
-| Magia2 4 = Self / 3 Turns / IX / 23.5 MP
+| Magia2 4 = Self / 3 Turns / 23.5 MP
 }}

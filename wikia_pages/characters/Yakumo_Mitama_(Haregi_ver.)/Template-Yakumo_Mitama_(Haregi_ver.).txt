@@ -177,7 +177,7 @@
 | Magia 4 / 2 = All Enemies / 2 Turns / 
 | Magia effect 5 = Chance to Magia Seal
 | Magia scaling 5 = -
-| Magia 5 / 1 = All Enemies / 1 Turn / V / 52.5%
+| Magia 5 / 1 = All Enemies / 1 Turn / 52.5%
 | Magia 5 / 2 = -
 
 | Doppel Name = 

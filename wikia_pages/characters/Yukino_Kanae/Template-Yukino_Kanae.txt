@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Status Ailment Resistance Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Self / 3 Turns / V / 40%
-| Magia 2 / 2 = Allies / 3 Turns / VII / 40%
+| Magia 2 / 1 = Self / 3 Turns / 40%
+| Magia 2 / 2 = Allies / 3 Turns / 40%
 | Magia effect 3 = Remove Debuffs
 | Magia scaling 3 = -
 | Magia 3 / 1 = Self / 
@@ -181,7 +181,7 @@
 | Magia2 effect 1 = Attribute Strengthened Damage One Enemy
 | Magia2 1 = IX / 2270.4%
 | Magia2 effect 2 = Status Ailment Resistance Up
-| Magia2 2 = Allies / 3 Turns / IX / 70%
+| Magia2 2 = Allies / 3 Turns / 70%
 | Magia2 effect 3 = Remove Debuffs
 | Magia2 3 = Allies
 }}

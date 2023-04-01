@@ -169,8 +169,8 @@
 | Magia 2 / 2 = Target / 1 Turn / 
 | Magia effect 3 = Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Self / 3 Turns / V / 15%
-| Magia 3 / 2 = Self / 3 Turns / VII / 25%
+| Magia 3 / 1 = Self / 3 Turns / 15%
+| Magia 3 / 2 = Self / 3 Turns / 25%
 | Magia effect 4 = Remove Debuffs
 | Magia scaling 4 = -
 | Magia 4 / 1 = Self / 
@@ -187,7 +187,7 @@
 | Magia2 effect 2 = Stun
 | Magia2 2 = Target / 1 Turn
 | Magia2 effect 3 = Attack Up
-| Magia2 3 = Self / 3 Turns / IX / 45%
+| Magia2 3 = Self / 3 Turns / 45%
 | Magia2 effect 4 = Remove Debuffs
 | Magia2 4 = Self
 }}

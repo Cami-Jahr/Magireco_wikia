@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VIII / 518.4%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = All Enemies / 2 Turns / VI / 15%
-| Magia 2 / 2 = All Enemies / 2 Turns / VIII / 20%
+| Magia 2 / 1 = All Enemies / 2 Turns / 15%
+| Magia 2 / 2 = All Enemies / 2 Turns / 20%
 | Magia effect 3 = MP Damage
 | Magia scaling 3 = -
-| Magia 3 / 1 = All Enemies / VI / 35 MP
-| Magia 3 / 2 = All Enemies / VIII / 40 MP
+| Magia 3 / 1 = All Enemies / 35 MP
+| Magia 3 / 2 = All Enemies / 40 MP
 | Magia effect 4 = HP Restore
 | Magia scaling 4 = 2%
-| Magia 4 / 1 = VI / 35%
-| Magia 4 / 2 = VIII / 40%
+| Magia 4 / 1 = 35%
+| Magia 4 / 2 = 40%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -185,9 +185,9 @@
 | Magia2 effect 1 = Attribute Strengthened Damage A Vertical Line
 | Magia2 1 = X / 1194.8%
 | Magia2 effect 2 = Attack Down
-| Magia2 2 = All Enemies / 2 Turns / X / 40%
+| Magia2 2 = All Enemies / 2 Turns / 40%
 | Magia2 effect 3 = MP Damage
-| Magia2 3 = All Enemies / X / 65 MP
+| Magia2 3 = All Enemies / 65 MP
 | Magia2 effect 4 = HP Restore
-| Magia2 4 = X / 58%
+| Magia2 4 = 58%
 }}

@@ -323,7 +323,7 @@ def make_magia_doppel_and_connect(dic, cards):
                 arts.append(connect[f"art{i}"])
             except KeyError:
                 break
-        connect_effects, connect_icon = translate(connect["shortDescription"], arts)
+        connect_effects, connect_icon = translate(connect["shortDescription"], arts, True)
         for e in connect_effects:
             all_connect_effects[e] += 1
         connects.append(connect_effects)
@@ -336,7 +336,7 @@ def make_magia_doppel_and_connect(dic, cards):
                 arts.append(magia[f"art{i}"])
             except KeyError:
                 break
-        magia_effects, magia_icon = translate(magia["shortDescription"], arts)
+        magia_effects, magia_icon = translate(magia["shortDescription"], arts, False)
         for e in magia_effects:
             magia_scalings[e] = "-" if magia_effects[e][2].replace("%", "").strip() == "0" else magia_effects[e][2]
             all_megia_effects[e] += 1
@@ -352,7 +352,7 @@ def make_magia_doppel_and_connect(dic, cards):
                     arts.append(doppel_arts[f"art{i}"])
                 except KeyError:
                     break
-            all_doppel_effects = translate(doppel_arts["shortDescription"], arts)[0]
+            all_doppel_effects = translate(doppel_arts["shortDescription"], arts, False)[0]
 
     all_connect_effects = [e for e, i in sorted(all_connect_effects.items(), key=lambda x: x[1], reverse=True)]
     connect_effect_template = """| Connect effect {} = {}
@@ -477,7 +477,7 @@ def make_spirit_enchantment(cells):
                     arts.append(cell["emotionSkill"][f"art{i}"])
                 except KeyError:
                     break
-            eng_effect, icon = translate(cell["emotionSkill"]["shortDescription"], arts)
+            eng_effect, icon = translate(cell["emotionSkill"]["shortDescription"], arts, True)
             effect_output = ""
             for effect in eng_effect:
                 if effect_output:

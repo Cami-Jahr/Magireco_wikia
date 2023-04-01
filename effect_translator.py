@@ -463,7 +463,7 @@ special = {
 }
 
 
-def translate(shortDescription, arts):
+def translate(shortDescription, arts, include_roman):
     if shortDescription in special:
         return special[shortDescription]
 
@@ -473,6 +473,7 @@ def translate(shortDescription, arts):
     idx = 0
 
     art_ids = []
+    first_effect = True
     for art in arts:
         art_id = art["artId"]
         art_ids.append(art_id)
@@ -526,7 +527,7 @@ def translate(shortDescription, arts):
                 effect = ""
 
             if effect != "":
-                if uses_roman:
+                if (include_roman and uses_roman) or (not include_roman and uses_roman and first_effect):
                     try:
                         effect = f"{romans[idx]} / {effect}%"
                         idx += 1
@@ -616,6 +617,7 @@ def translate(shortDescription, arts):
         except IndexError as e:
             print("Missing roman in", shortDescription, romans, art)
             raise e
+        first_effect = False
 
     # Remove target if it's repeated multiple times
     prev_turn_counter = "TEMPLATE"

@@ -180,10 +180,10 @@
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
-| Magia 3 / 3 = All Enemies / 3 Turns / V / 25%
+| Magia 3 / 3 = All Enemies / 3 Turns / 25%
 | Magia effect 4 = Chance to Fog
 | Magia scaling 4 = -
-| Magia 4 / 1 = All Enemies / 3 Turns / I / 47.5%
+| Magia 4 / 1 = All Enemies / 3 Turns / 47.5%
 | Magia 4 / 2 = -
 | Magia 4 / 3 = -
 

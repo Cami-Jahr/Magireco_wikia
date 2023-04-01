@@ -168,12 +168,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Damage Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = V / 27.5%
-| Magia 2 / 2 = VII / 32.5%
+| Magia 2 / 1 = 27.5%
+| Magia 2 / 2 = 32.5%
 | Magia effect 3 = MP Gain Down
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = All Enemies / 3 Turns / V / 40%
-| Magia 3 / 2 = All Enemies / 3 Turns / VII / 50%
+| Magia 3 / 1 = All Enemies / 3 Turns / 40%
+| Magia 3 / 2 = All Enemies / 3 Turns / 50%
 | Magia effect 4 = Dazzle
 | Magia scaling 4 = -
 | Magia 4 / 1 = 
@@ -184,8 +184,8 @@
 | Magia 5 / 2 = All Enemies / 2 Turns / 
 | Magia effect 6 = MP Damage
 | Magia scaling 6 = -
-| Magia 6 / 1 = All Enemies / V / 35 MP
-| Magia 6 / 2 = All Enemies / VII / 40 MP
+| Magia 6 / 1 = All Enemies / 35 MP
+| Magia 6 / 2 = All Enemies / 40 MP
 | Magia effect 7 = Skill Quicken
 | Magia scaling 7 = -
 | Magia 7 / 1 = Self / 1 Turn / 
@@ -200,15 +200,15 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Damage Down
-| Magia2 2 = IX / 42.5%
+| Magia2 2 = 42.5%
 | Magia2 effect 3 = MP Gain Down
-| Magia2 3 = All Enemies / 5 Turns / IX / 60%
+| Magia2 3 = All Enemies / 5 Turns / 60%
 | Magia2 effect 4 = Dazzle
 | Magia2 4 = 
 | Magia2 effect 5 = Magia Seal
 | Magia2 5 = All Enemies / 3 Turns
 | Magia2 effect 6 = MP Damage
-| Magia2 6 = All Enemies / IX / 60 MP
+| Magia2 6 = All Enemies / 60 MP
 | Magia2 effect 7 = Skill Quicken
 | Magia2 7 = Allies / 1 Turn
 }}

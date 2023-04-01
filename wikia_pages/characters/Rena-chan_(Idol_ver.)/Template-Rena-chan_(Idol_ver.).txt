@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Magia Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Allies / 3 Turns / V / 18%
-| Magia 2 / 2 = Allies / 3 Turns / VII / 22%
+| Magia 2 / 1 = Allies / 3 Turns / 18%
+| Magia 2 / 2 = Allies / 3 Turns / 22%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -177,5 +177,5 @@
 | Magia2 effect 1 = Attribute Strengthened Damage One Enemy
 | Magia2 1 = IX / 2270.4%
 | Magia2 effect 2 = Magia Damage Up
-| Magia2 2 = Allies / 3 Turns / IX / 36%
+| Magia2 2 = Allies / 3 Turns / 36%
 }}

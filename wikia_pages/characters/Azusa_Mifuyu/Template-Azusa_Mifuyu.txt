@@ -162,8 +162,8 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Chance to Dazzle
 | Magia scaling 2 = -
-| Magia 2 / 1 = All Enemies / 1 Turn / V / 40%
-| Magia 2 / 2 = All Enemies / 1 Turn / VII / 55%
+| Magia 2 / 1 = All Enemies / 1 Turn / 40%
+| Magia 2 / 2 = All Enemies / 1 Turn / 55%
 | Magia effect 3 = Remove Buffs
 | Magia scaling 3 = -
 | Magia 3 / 1 = All Enemies / 

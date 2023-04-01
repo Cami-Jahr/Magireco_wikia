@@ -162,12 +162,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Damage Increase
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = V / 27.5%
-| Magia 2 / 2 = VII / 32.5%
+| Magia 2 / 1 = 27.5%
+| Magia 2 / 2 = 32.5%
 | Magia effect 3 = Charged Attack Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Allies / 3 Turns / V / 20%
-| Magia 3 / 2 = Allies / 3 Turns / VII / 25%
+| Magia 3 / 1 = Allies / 3 Turns / 20%
+| Magia 3 / 2 = Allies / 3 Turns / 25%
 | Magia effect 4 = Remove Status Ailments
 | Magia scaling 4 = -
 | Magia 4 / 1 = Allies / 
@@ -182,9 +182,9 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Damage Increase
-| Magia2 2 = IX / 47.5%
+| Magia2 2 = 47.5%
 | Magia2 effect 3 = Charged Attack Damage Up
-| Magia2 3 = Allies / 3 Turns / IX / 40%
+| Magia2 3 = Allies / 3 Turns / 40%
 | Magia2 effect 4 = Remove Status Ailments
 | Magia2 4 = Allies
 }}

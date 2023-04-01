@@ -162,16 +162,16 @@
 | Magia 1 / 2 = VII / 500.9%
 | Magia effect 2 = Blast Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = V / 30%
-| Magia 2 / 2 = VII / 40%
+| Magia 2 / 1 = 30%
+| Magia 2 / 2 = 40%
 | Magia effect 3 = Light Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = V / 10%
-| Magia 3 / 2 = VII / 15%
+| Magia 3 / 1 = 10%
+| Magia 3 / 2 = 15%
 | Magia effect 4 = Defense Up
 | Magia scaling 4 = 2.5%
-| Magia 4 / 1 = Self / 3 Turns / V / 22.5%
-| Magia 4 / 2 = Self / 3 Turns / VII / 30%
+| Magia 4 / 1 = Self / 3 Turns / 22.5%
+| Magia 4 / 2 = Self / 3 Turns / 30%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,9 +182,9 @@
 | Magia2 effect 1 = Attribute Strengthened Damage A Horizontal Line
 | Magia2 1 = IX / 1194.8%
 | Magia2 effect 2 = Blast Damage Up
-| Magia2 2 = IX / 60%
+| Magia2 2 = 60%
 | Magia2 effect 3 = Light Attribute Attack Up
-| Magia2 3 = IX / 30%
+| Magia2 3 = 30%
 | Magia2 effect 4 = Defense Up
-| Magia2 4 = Self / 5 Turns / IX / 47.5%
+| Magia2 4 = Self / 5 Turns / 47.5%
 }}

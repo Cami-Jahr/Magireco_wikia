@@ -178,22 +178,22 @@
 | Magia 1 / 4 = VII / 586.5%
 | Magia effect 2 = HP Restore
 | Magia scaling 2 = 2%
-| Magia 2 / 1 = Allies / I / 15%
-| Magia 2 / 2 = Allies / II / 17.5%
-| Magia 2 / 3 = Allies / IV / 20%
-| Magia 2 / 4 = Allies / VII / 22.5%
+| Magia 2 / 1 = Allies / 15%
+| Magia 2 / 2 = Allies / 17.5%
+| Magia 2 / 3 = Allies / 20%
+| Magia 2 / 4 = Allies / 22.5%
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
-| Magia 3 / 3 = Allies / 3 Turns / IV / 37.5%
-| Magia 3 / 4 = VII / 45%
+| Magia 3 / 3 = Allies / 3 Turns / 37.5%
+| Magia 3 / 4 = 45%
 | Magia effect 4 = Accele MP Gain Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
 | Magia 4 / 3 = -
-| Magia 4 / 4 = Allies / 3 Turns / VII / 15%
+| Magia 4 / 4 = Allies / 3 Turns / 15%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -204,11 +204,11 @@
 | Magia2 effect 1 = Damage A Horizontal Line
 | Magia2 1 = IX / 1331%
 | Magia2 effect 2 = HP Restore
-| Magia2 2 = Allies / IX / 33%
+| Magia2 2 = Allies / 33%
 | Magia2 effect 3 = Defense Up
-| Magia2 3 = IX / 62.5%
+| Magia2 3 = 62.5%
 | Magia2 effect 4 = Accele MP Gain Up
-| Magia2 4 = Allies / 5 Turns / IX / 30%
+| Magia2 4 = Allies / 5 Turns / 30%
 | Magia2 effect 5 = Regenerate MP
-| Magia2 5 = Self / 3 Turns / IX / 10 MP
+| Magia2 5 = Self / 3 Turns / 10 MP
 }}

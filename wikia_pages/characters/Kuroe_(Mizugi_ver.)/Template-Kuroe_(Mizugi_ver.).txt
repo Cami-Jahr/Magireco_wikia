@@ -162,16 +162,16 @@
 | Magia 1 / 2 = VII / 291%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = V / 20%
-| Magia 2 / 2 = VII / 30%
+| Magia 2 / 1 = 20%
+| Magia 2 / 2 = 30%
 | Magia effect 3 = Dark Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = V / 5%
-| Magia 3 / 2 = VII / 10%
+| Magia 3 / 1 = 5%
+| Magia 3 / 2 = 10%
 | Magia effect 4 = Regenerate MP
 | Magia scaling 4 = 1%
-| Magia 4 / 1 = Self / 3 Turns / V / 4.5 MP
-| Magia 4 / 2 = Self / 3 Turns / VII / 7.5 MP
+| Magia 4 / 1 = Self / 3 Turns / 4.5 MP
+| Magia 4 / 2 = Self / 3 Turns / 7.5 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,11 +182,11 @@
 | Magia2 effect 1 = Attribute Strengthened Damage 5 Random Enemies
 | Magia2 1 = IX / 638%
 | Magia2 effect 2 = Attack Up
-| Magia2 2 = IX / 50%
+| Magia2 2 = 50%
 | Magia2 effect 3 = Dark Attribute Attack Up
-| Magia2 3 = Self / 5 Turns / IX / 25%
+| Magia2 3 = Self / 5 Turns / 25%
 | Magia2 effect 4 = Regenerate MP
-| Magia2 4 = IX / 16 MP
+| Magia2 4 = 16 MP
 | Magia2 effect 5 = Blast MP Gain Up
-| Magia2 5 = Self / 3 Turns / IX / 5 MP
+| Magia2 5 = Self / 3 Turns / 5 MP
 }}

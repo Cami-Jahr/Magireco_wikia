@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VI / 350%
 | Magia effect 2 = Regenerate HP
 | Magia scaling 2 = 1%
-| Magia 2 / 1 = IV / 6%
-| Magia 2 / 2 = VI / 8%
+| Magia 2 / 1 = 6%
+| Magia 2 / 2 = 8%
 | Magia effect 3 = Status Ailment Resistance Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Allies / 3 Turns / IV / 15%
-| Magia 3 / 2 = Allies / 3 Turns / VI / 20%
+| Magia 3 / 1 = Allies / 3 Turns / 15%
+| Magia 3 / 2 = Allies / 3 Turns / 20%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -181,7 +181,7 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = VIII / 902%
 | Magia2 effect 2 = Regenerate HP
-| Magia2 2 = VIII / 14%
+| Magia2 2 = 14%
 | Magia2 effect 3 = Status Ailment Resistance Up
-| Magia2 3 = Allies / 3 Turns / VIII / 40%
+| Magia2 3 = Allies / 3 Turns / 40%
 }}

@@ -177,8 +177,8 @@
 | Magia 4 / 2 = All Enemies / 3 Turns / 
 | Magia effect 5 = Forest Attribute Attack Up
 | Magia scaling 5 = 2.5%
-| Magia 5 / 1 = Self / 3 Turns / VI / 15%
-| Magia 5 / 2 = Self / 3 Turns / VIII / 20%
+| Magia 5 / 1 = Self / 3 Turns / 15%
+| Magia 5 / 2 = Self / 3 Turns / 20%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -195,5 +195,5 @@
 | Magia2 effect 4 = Poison
 | Magia2 4 = All Enemies / 3 Turns
 | Magia2 effect 5 = Forest Attribute Attack Up
-| Magia2 5 = Self / 5 Turns / X / 35%
+| Magia2 5 = Self / 5 Turns / 35%
 }}

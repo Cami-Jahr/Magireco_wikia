@@ -162,8 +162,8 @@
 | Magia 1 / 2 = V / 864%
 | Magia effect 2 = Status Ailment Resistance Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Allies / 3 Turns / III / 30%
-| Magia 2 / 2 = Allies / 3 Turns / V / 40%
+| Magia 2 / 1 = Allies / 3 Turns / 30%
+| Magia 2 / 2 = Allies / 3 Turns / 40%
 
 | Doppel Name = 
 | Doppel Title = 

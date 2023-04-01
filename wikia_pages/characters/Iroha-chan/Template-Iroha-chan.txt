@@ -162,8 +162,8 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Chance to Dazzle
 | Magia scaling 2 = -
-| Magia 2 / 1 = All Enemies / 1 Turn / V / 37.5%
-| Magia 2 / 2 = All Enemies / 1 Turn / VII / 50%
+| Magia 2 / 1 = All Enemies / 1 Turn / 37.5%
+| Magia 2 / 2 = All Enemies / 1 Turn / 50%
 | Magia effect 3 = Remove Debuffs
 | Magia scaling 3 = -
 | Magia 3 / 1 = Allies / 

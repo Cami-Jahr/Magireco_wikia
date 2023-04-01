@@ -169,15 +169,15 @@
 | Magia 2 / 2 = Target / 2 Turns / 
 | Magia effect 3 = Accele MP Gain Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = Allies / 3 Turns / V / 15%
-| Magia 3 / 2 = VII / 20%
+| Magia 3 / 1 = Allies / 3 Turns / 15%
+| Magia 3 / 2 = 20%
 | Magia effect 4 = Anti-Evade
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
 | Magia 4 / 2 = Allies / 3 Turns / 
 | Magia effect 5 = Chance to Anti-Evade
 | Magia scaling 5 = -
-| Magia 5 / 1 = Self / 3 Turns / V / 70%
+| Magia 5 / 1 = Self / 3 Turns / 70%
 | Magia 5 / 2 = -
 
 | Doppel Name = 
@@ -191,7 +191,7 @@
 | Magia2 effect 2 = Skill Seal
 | Magia2 2 = Target / 2 Turns
 | Magia2 effect 3 = Accele MP Gain Up
-| Magia2 3 = IX / 35%
+| Magia2 3 = 35%
 | Magia2 effect 4 = Anti-Evade
 | Magia2 4 = Allies / 3 Turns
 }}

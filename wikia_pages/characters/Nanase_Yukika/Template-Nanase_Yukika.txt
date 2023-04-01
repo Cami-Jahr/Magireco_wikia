@@ -169,8 +169,8 @@
 | Magia 2 / 2 = Self / 2 Turns / 
 | Magia effect 3 = HP Restore
 | Magia scaling 3 = 2%
-| Magia 3 / 1 = V / 40%
-| Magia 3 / 2 = VII / 45%
+| Magia 3 / 1 = 40%
+| Magia 3 / 2 = 45%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -183,5 +183,5 @@
 | Magia2 effect 2 = Critical Hit
 | Magia2 2 = Self / 2 Turns
 | Magia2 effect 3 = HP Restore
-| Magia2 3 = IX / 58%
+| Magia2 3 = 58%
 }}

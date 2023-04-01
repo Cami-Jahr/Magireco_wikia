@@ -173,14 +173,14 @@
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = Allies / 3 Turns / VII / 45%
+| Magia 3 / 2 = Allies / 3 Turns / 45%
 | Magia effect 4 = Evade
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
 | Magia 4 / 2 = Self / 1 Turn / 
 | Magia effect 5 = Chance to Evade
 | Magia scaling 5 = -
-| Magia 5 / 1 = Self / 1 Turn / V / 50%
+| Magia 5 / 1 = Self / 1 Turn / 50%
 | Magia 5 / 2 = -
 
 | Doppel Name = 
@@ -192,7 +192,7 @@
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = IX / 2763.2%
 | Magia2 effect 2 = Defense Up
-| Magia2 2 = Allies / 3 Turns / IX / 62.5%
+| Magia2 2 = Allies / 3 Turns / 62.5%
 | Magia2 effect 3 = Provoke
 | Magia2 3 = 
 | Magia2 effect 4 = Evade

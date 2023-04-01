@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VIII / 370%
 | Magia effect 2 = Chance to Bind
 | Magia scaling 2 = -
-| Magia 2 / 1 = All Enemies / 1 Turn / VI / 47.5%
-| Magia 2 / 2 = All Enemies / 1 Turn / VIII / 52.5%
+| Magia 2 / 1 = All Enemies / 1 Turn / 47.5%
+| Magia 2 / 2 = All Enemies / 1 Turn / 52.5%
 | Magia effect 3 = Defense Down
 | Magia scaling 3 = -
-| Magia 3 / 1 = Self / 1 Turn / VI / 50%
-| Magia 3 / 2 = Self / 1 Turn / VIII / 50%
+| Magia 3 / 1 = Self / 1 Turn / 50%
+| Magia 3 / 2 = Self / 1 Turn / 50%
 | Magia effect 4 = Chance to Burn
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
-| Magia 4 / 2 = All Enemies / 3 Turns / VIII / 52.5%
+| Magia 4 / 2 = All Enemies / 3 Turns / 52.5%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -185,7 +185,7 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = X / 946%
 | Magia2 effect 2 = Chance to Bind
-| Magia2 2 = All Enemies / 1 Turn / X / 55%
+| Magia2 2 = All Enemies / 1 Turn / 55%
 | Magia2 effect 3 = Chance to Burn
-| Magia2 3 = All Enemies / 3 Turns / X / 55%
+| Magia2 3 = All Enemies / 3 Turns / 55%
 }}

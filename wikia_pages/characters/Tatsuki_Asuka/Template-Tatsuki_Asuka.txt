@@ -170,14 +170,14 @@
 | Magia 2 / 3 = Self / 1 Turn / 
 | Magia effect 3 = Regenerate HP
 | Magia scaling 3 = 1%
-| Magia 3 / 1 = Self / 1 Turn / III / 4%
-| Magia 3 / 2 = Self / 3 Turns / V / 6%
-| Magia 3 / 3 = VII / 8%
+| Magia 3 / 1 = Self / 1 Turn / 4%
+| Magia 3 / 2 = Self / 3 Turns / 6%
+| Magia 3 / 3 = 8%
 | Magia effect 4 = Damage Cut
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
-| Magia 4 / 3 = Self / 3 Turns / VII / 30%
+| Magia 4 / 3 = Self / 3 Turns / 30%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -188,9 +188,9 @@
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = IX / 2763.2%
 | Magia2 effect 2 = Damage Cut
-| Magia2 2 = Allies / 3 Turns / IX / 45%
+| Magia2 2 = Allies / 3 Turns / 45%
 | Magia2 effect 3 = Provoke
 | Magia2 3 = Self / 1 Turn
 | Magia2 effect 4 = Regenerate HP
-| Magia2 4 = Self / 3 Turns / IX / 14%
+| Magia2 4 = Self / 3 Turns / 14%
 }}

@@ -165,12 +165,12 @@
 | Magia 1 / 2 = V / 551.5%
 | Magia effect 2 = Charged Attack Damage Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Allies / 3 Turns / III / 20%
-| Magia 2 / 2 = Allies / 3 Turns / V / 25%
+| Magia 2 / 1 = Allies / 3 Turns / 20%
+| Magia 2 / 2 = Allies / 3 Turns / 25%
 | Magia effect 3 = Chance to Skill Quicken
 | Magia scaling 3 = -
-| Magia 3 / 1 = Allies / 1 Turn / III / 50%
-| Magia 3 / 2 = Allies / 1 Turn / V / 50%
+| Magia 3 / 1 = Allies / 1 Turn / 50%
+| Magia 3 / 2 = Allies / 1 Turn / 50%
 
 | Doppel Name = 
 | Doppel Title = 
