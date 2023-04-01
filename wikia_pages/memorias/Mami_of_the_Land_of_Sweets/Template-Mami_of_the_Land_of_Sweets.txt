@@ -20,8 +20,8 @@
 | image = Chance to Anti-Counter
 | effect_name = Neglect Counter 
 | effect_name_JP = ネグレクト・カウンター
-| effect1 = Anti-Counter & Attack Up [V / 25%] & Endure [100%] (Self / 1 Turn)
-| effect2 = Anti-Counter & Attack Up [VI / 30%] & Endure [100%] (Self / 1 Turn)
+| effect1 = Anti-Counter & Attack Up [V / 25%] & Endure (Self / 1 Turn)
+| effect2 = Anti-Counter & Attack Up [VI / 30%] & Endure (Self / 1 Turn)
 | Cooldown = 8
 | Cooldown2 = 7
 }}

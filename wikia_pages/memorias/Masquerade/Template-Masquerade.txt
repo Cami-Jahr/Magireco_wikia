@@ -20,8 +20,8 @@
 | image = Endure
 | effect_name = スケープゴート 
 | effect_name_JP = スケープゴート
-| effect1 = Endure [100%] & Chance to Evade [IV / 25%] (Self / 1 Turn)
-| effect2 = Endure [100%] & Chance to Evade [V / 30%] (Self / 1 Turn)
+| effect1 = Endure & Chance to Evade [IV / 25%] (Self / 1 Turn)
+| effect2 = Endure & Chance to Evade [V / 30%] (Self / 1 Turn)
 | Cooldown = 8
 | Cooldown2 = 7
 }}

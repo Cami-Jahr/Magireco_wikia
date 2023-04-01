@@ -513,7 +513,7 @@ def translate(shortDescription, arts):
                 if pro and (val >= 100 or val == 0):
                     if effect_code in ("BARRIER",):
                         effect = val
-                    elif verb_code in ("DRAW",):
+                    elif verb_code in ("DRAW",) or effect_code in ("GUTS", ):
                         effect = ""
                     else:
                         effect = pro
