@@ -178,5 +178,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、デアデビル
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
-| Doppel effect = Damage All Enemies [IX / 869%] & Critical Hit [Self / 2 Turns] & HP Restore [IX / 58%]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 869%
+| Magia2 effect 2 = Critical Hit
+| Magia2 2 = Self / 2 Turns
+| Magia2 effect 3 = HP Restore
+| Magia2 3 = IX / 58%
 }}

@@ -178,5 +178,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Attribute Strengthened Damage All Enemies [X / 902%] & Defense Down [X / 35% / All Enemies / 5 Turns] & Flame Attribute Attack Up [X / 35% / Allies / 5 Turns] & Attack Up [X / 55% / Self / 5 Turns]
+| Magia2 effect 1 = Attribute Strengthened Damage All Enemies
+| Magia2 1 = X / 902%
+| Magia2 effect 2 = Defense Down
+| Magia2 2 = All Enemies / 5 Turns / X / 35%
+| Magia2 effect 3 = Flame Attribute Attack Up
+| Magia2 3 = Allies / 5 Turns / X / 35%
+| Magia2 effect 4 = Attack Up
+| Magia2 4 = Self / 5 Turns / X / 55%
 }}

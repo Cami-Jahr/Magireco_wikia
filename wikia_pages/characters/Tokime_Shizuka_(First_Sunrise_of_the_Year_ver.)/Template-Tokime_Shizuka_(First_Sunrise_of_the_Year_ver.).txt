@@ -183,5 +183,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、千手
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Attribute Strengthened Damage All Enemies [IX / 869%] & Flame Attribute Attack Up [IX / 35%] & Defense Up [IX / 66.3%] & Status Ailment Resistance Up [IX / 50%] & Barrier [IX / 8000 damage / Allies / 5 Turns]
+| Magia2 effect 1 = Attribute Strengthened Damage All Enemies
+| Magia2 1 = IX / 869%
+| Magia2 effect 2 = Flame Attribute Attack Up
+| Magia2 2 = IX / 35%
+| Magia2 effect 3 = Defense Up
+| Magia2 3 = IX / 66.3%
+| Magia2 effect 4 = Status Ailment Resistance Up
+| Magia2 4 = IX / 50%
+| Magia2 effect 5 = Barrier
+| Magia2 5 = Allies / 5 Turns / IX / 8000 damage
 }}

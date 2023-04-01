@@ -173,5 +173,6 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、光輪
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 831%]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 831%
 }}

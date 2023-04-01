@@ -175,5 +175,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、絆
 | Doppel Japanese Designer = 原案・監修：PAPA
-| Doppel effect = Damage All Enemies [IX / 902%] & Survive [IX / 25%] & Regenerate HP [IX / 14% / Allies / 2 Turns]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Survive
+| Magia2 2 = IX / 25%
+| Magia2 effect 3 = Regenerate HP
+| Magia2 3 = Allies / 2 Turns / IX / 14%
 }}

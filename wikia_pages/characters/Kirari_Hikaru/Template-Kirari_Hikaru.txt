@@ -178,5 +178,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、戦車
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Chance to Critical Hit [IX / 35%] & Status Ailment Resistance Up [IX / 60% / Allies / 3 Turns]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Chance to Critical Hit
+| Magia2 2 = IX / 35%
+| Magia2 effect 3 = Status Ailment Resistance Up
+| Magia2 3 = Allies / 3 Turns / IX / 60%
 }}

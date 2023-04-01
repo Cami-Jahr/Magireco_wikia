@@ -189,5 +189,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、牛酪
 | Doppel Japanese Designer = 原案・監修：PAPA
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & MP Gain Down [IX / 60%] & Defense Down [IX / 55% / Target / 3 Turns] & HP Restore [IX / 58%]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = IX / 2763.2%
+| Magia2 effect 2 = MP Gain Down
+| Magia2 2 = IX / 60%
+| Magia2 effect 3 = Defense Down
+| Magia2 3 = Target / 3 Turns / IX / 55%
+| Magia2 effect 4 = HP Restore
+| Magia2 4 = IX / 58%
 }}

@@ -182,5 +182,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、おめかし
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [X / 946%] & Chance to Bind [X / 55% / All Enemies / 1 Turn] & Chance to Burn [X / 55% / All Enemies / 3 Turns]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = X / 946%
+| Magia2 effect 2 = Chance to Bind
+| Magia2 2 = All Enemies / 1 Turn / X / 55%
+| Magia2 effect 3 = Chance to Burn
+| Magia2 3 = All Enemies / 3 Turns / X / 55%
 }}

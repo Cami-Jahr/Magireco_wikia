@@ -186,5 +186,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、砦
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Attribute Strengthened Damage One Enemy [IX / 2270.4%] & Revive one Ally [54%] & Defense Up [IX / 66.3%] & Anti-Debuff [2 Debuffs] & Negate Status Ailments [2 Status Ailments / Allies / 5 Turns]
+| Magia2 effect 1 = Attribute Strengthened Damage One Enemy
+| Magia2 1 = IX / 2270.4%
+| Magia2 effect 2 = Revive one Ally
+| Magia2 2 = 54%
+| Magia2 effect 3 = Defense Up
+| Magia2 3 = IX / 66.3%
+| Magia2 effect 4 = Anti-Debuff
+| Magia2 4 = 2 Debuffs
+| Magia2 effect 5 = Negate Status Ailments
+| Magia2 5 = Allies / 5 Turns / 2 Status Ailments
 }}

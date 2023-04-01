@@ -182,5 +182,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ー
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 45%] & Damage Up Versus Witches [IX / 31% / Allies / 3 Turns] & Revive one Ally [34%]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Attack Up
+| Magia2 2 = IX / 45%
+| Magia2 effect 3 = Damage Up Versus Witches
+| Magia2 3 = Allies / 3 Turns / IX / 31%
+| Magia2 effect 4 = Revive one Ally
+| Magia2 4 = 34%
 }}

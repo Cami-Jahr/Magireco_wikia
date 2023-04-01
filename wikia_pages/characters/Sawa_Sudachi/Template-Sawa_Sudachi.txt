@@ -187,5 +187,16 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、クッキー
 | Doppel Japanese Designer = 原案・監修：渡辺明夫
-| Doppel effect = Damage All Enemies [I / 308%] & Attack Up [I / 35%] & Blast Damage Up [I / 45%] & Charged Attack Damage Up [I / 35%] & Accele MP Gain Up [I / 32.5% / Allies / 3 Turns] & Provoke [Self / 1 Turn]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = I / 308%
+| Magia2 effect 2 = Attack Up
+| Magia2 2 = I / 35%
+| Magia2 effect 3 = Blast Damage Up
+| Magia2 3 = I / 45%
+| Magia2 effect 4 = Charged Attack Damage Up
+| Magia2 4 = I / 35%
+| Magia2 effect 5 = Accele MP Gain Up
+| Magia2 5 = Allies / 3 Turns / I / 32.5%
+| Magia2 effect 6 = Provoke
+| Magia2 6 = Self / 1 Turn
 }}

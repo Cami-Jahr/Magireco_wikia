@@ -189,5 +189,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、泣きウサギ
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
-| Doppel effect = Damage All Enemies [IX / 902%] & MP Gain Down [IX / 60% / All Enemies / 3 Turns] & MP Damage [IX / 40 MP / All Enemies] & MP Restore [IX / 39 MP]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = MP Gain Down
+| Magia2 2 = All Enemies / 3 Turns / IX / 60%
+| Magia2 effect 3 = MP Damage
+| Magia2 3 = All Enemies / IX / 40 MP
+| Magia2 effect 4 = MP Restore
+| Magia2 4 = IX / 39 MP
 }}

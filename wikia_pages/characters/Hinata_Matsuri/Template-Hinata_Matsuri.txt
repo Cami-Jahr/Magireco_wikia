@@ -185,5 +185,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、カーテン
 | Doppel Japanese Designer = 原案・監修：GAN
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Stun [Target / 1 Turn] & Skill Seal [] & Magia Seal [Target / 2 Turns]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = IX / 2763.2%
+| Magia2 effect 2 = Stun
+| Magia2 2 = Target / 1 Turn
+| Magia2 effect 3 = Skill Seal
+| Magia2 3 = 
+| Magia2 effect 4 = Magia Seal
+| Magia2 4 = Target / 2 Turns
 }}

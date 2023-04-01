@@ -181,5 +181,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、お菓子
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage 4 Random Enemies [X / 795.7%] & Fog [All Enemies / 3 Turns] & Defense Pierce [Self / 2 Turns]
+| Magia2 effect 1 = Damage 4 Random Enemies
+| Magia2 1 = X / 795.7%
+| Magia2 effect 2 = Fog
+| Magia2 2 = All Enemies / 3 Turns
+| Magia2 effect 3 = Defense Pierce
+| Magia2 3 = Self / 2 Turns
 }}

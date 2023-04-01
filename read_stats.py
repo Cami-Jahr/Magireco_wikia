@@ -131,7 +131,7 @@ star5 = [0, .03, .06, .09, .12, .15, .18, .21, .24, .27, .3, .33, .36, .39, .42,
     2.54, 2.57, 2.6, 2.63, 2.66, 2.69, 2.72, 2.75, 2.78, 2.81, 2.84, 2.87, 2.9, 2.93, 2.96, 3]
 
 
-def A(rank, level):
+def get_multiplier(rank, level):
     if rank == "RANK_1":
         return star1[level - 1]
     elif rank == "RANK_2":
@@ -146,7 +146,7 @@ def A(rank, level):
         return 1
 
 
-def B(_type):
+def calculate_growth_curve(_type):
     hp_mod = 1
     def_mod = 1
     atk_mod = 1
@@ -178,14 +178,14 @@ def B(_type):
 
 
 def calculate_max(rank, _type, attack, defense, hp):
-    e = A("RANK_{}".format(rank), 0)
-    atk_mod, def_mod, hp_mod = B(_type)
+    e = get_multiplier("RANK_{}".format(rank), 0)
+    atk_mod, def_mod, hp_mod = calculate_growth_curve(_type)
     return int(attack + attack * e * atk_mod), int(defense + defense * e * def_mod), int(hp + hp * e * hp_mod)
 
 
 def calculate_min(rank, type, attack, defense, hp):
-    e = A("RANK_{}".format(rank), 0)
-    g, h, k = B(type)
+    e = get_multiplier("RANK_{}".format(rank), 0)
+    g, h, k = calculate_growth_curve(type)
     _a = attack / (1 + (e * g))
     _d = defense / (1 + (e * h))
     _h = hp / (1 + (e * k))
@@ -303,10 +303,11 @@ def format_info(_id):
 
 
 def make_magia_doppel_and_connect(dic, cards):
-    c_name = m_name = d_name = c_icon = m_icon = doppel_effect = d_titl = d_dess = ""
-    all_ceff = defaultdict(int)
-    all_meff = defaultdict(int)
-    mscalings = {}
+    connect_name = magia_name = doppel_name = connect_icon = magia_icon = doppel_title = doppel_designer = ""
+    all_connect_effects = defaultdict(int)
+    all_megia_effects = defaultdict(int)
+    all_doppel_effects = defaultdict(int)
+    magia_scalings = {}
     connects = []
     magias = []
     for card in cards[::-1]:
@@ -314,61 +315,61 @@ def make_magia_doppel_and_connect(dic, cards):
             rank = dic[card]["cardId"] % 10
         except KeyError:
             continue
-        conne = dic[card]["cardSkill"]
-        c_name = conne["name"]
+        connect = dic[card]["cardSkill"]
+        connect_name = connect["name"]
         arts = []
         for i in range(1, 10):
             try:
-                arts.append(conne[f"art{i}"])
+                arts.append(connect[f"art{i}"])
             except KeyError:
                 break
-        effects, c_icon = translate(conne["shortDescription"], arts)
-        for e in effects:
-            all_ceff[e] += 1
-        connects.append(effects)
+        connect_effects, connect_icon = translate(connect["shortDescription"], arts)
+        for e in connect_effects:
+            all_connect_effects[e] += 1
+        connects.append(connect_effects)
 
         magia = dic[card]["cardMagia"]
-        m_name = magia["name"]
+        magia_name = magia["name"]
         arts = []
         for i in range(1, 10):
             try:
                 arts.append(magia[f"art{i}"])
             except KeyError:
                 break
-        effects, m_icon = translate(magia["shortDescription"], arts)
-        for e in effects:
-            mscalings[e] = effects[e][2]
-            all_meff[e] += 1
-        magias.append(effects)
+        magia_effects, magia_icon = translate(magia["shortDescription"], arts)
+        for e in magia_effects:
+            magia_scalings[e] = magia_effects[e][2]
+            all_megia_effects[e] += 1
+        magias.append(magia_effects)
         if rank == 5:
-            dopel = dic[card]["doppelCardMagia"]
-            d_name = dic[card]["doppel"]["name"]
-            d_titl = dic[card]["doppel"]["title"]
-            d_dess = dic[card]["doppel"]["designer"]
+            doppel_arts = dic[card]["doppelCardMagia"]
+            doppel_name = dic[card]["doppel"]["name"]
+            doppel_title = dic[card]["doppel"]["title"]
+            doppel_designer = dic[card]["doppel"]["designer"]
             arts = []
             for i in range(1, 10):
                 try:
-                    arts.append(dopel[f"art{i}"])
+                    arts.append(doppel_arts[f"art{i}"])
                 except KeyError:
                     break
-            doppel_effect = translate(dopel["shortDescription"], arts)[0]
+            all_doppel_effects = translate(doppel_arts["shortDescription"], arts)[0]
 
-    all_ceff = [e for e, i in sorted(all_ceff.items(), key=lambda x: x[1], reverse=True)]
-    c_eff = """| Connect effect {} = {}
+    all_connect_effects = [e for e, i in sorted(all_connect_effects.items(), key=lambda x: x[1], reverse=True)]
+    connect_effect_template = """| Connect effect {} = {}
 """
-    c_nr = """| Connect {} / {} = {}
+    connect_item_template = """| Connect {} / {} = {}
 """
-    c_out = """
+    connect_string = """
 | Connect name JP = {}
 | Connect name EN = 
 | Connect name NA = 
 | Connect icon = {}
-""".format(c_name, c_icon)
-    for i in range(len(all_ceff)):
-        c_out += c_eff.format(i + 1, all_ceff[i])
+""".format(connect_name, connect_icon)
+    for i in range(len(all_connect_effects)):
+        connect_string += connect_effect_template.format(i + 1, all_connect_effects[i])
         for j in range(1, len(connects) + 1):
             try:
-                word = connects[-j][all_ceff[i]]
+                word = connects[-j][all_connect_effects[i]]
                 if word[1] == "1 Turn" or not word[1]:
                     st = word[0]
                 else:
@@ -377,25 +378,25 @@ def make_magia_doppel_and_connect(dic, cards):
                 st = "-"
             except IndexError:
                 break
-            c_out += c_nr.format(i + 1, j, st)
+            connect_string += connect_item_template.format(i + 1, j, st)
 
-    all_meff = [e for e, i in sorted(all_meff.items(), key=lambda x: x[1], reverse=True)]
-    m_eff = """| Magia effect {0} = {1}
+    all_megia_effects = [e for e, i in sorted(all_megia_effects.items(), key=lambda x: x[1], reverse=True)]
+    magia_effect_template = """| Magia effect {0} = {1}
 | Magia scaling {0} = {2}
 """
-    m_nr = """| Magia {} / {} = {}
+    magia_item_template = """| Magia {} / {} = {}
 """
-    m_out = """
+    magia_string = """
 | Magia name JP = {}
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = {}
-""".format(m_name, m_icon)
-    for i in range(len(all_meff)):
-        m_out += m_eff.format(i + 1, all_meff[i], mscalings[all_meff[i]])
+""".format(magia_name, magia_icon)
+    for i in range(len(all_megia_effects)):
+        magia_string += magia_effect_template.format(i + 1, all_megia_effects[i], magia_scalings[all_megia_effects[i]])
         for j in range(1, len(magias) + 1):
             try:
-                word = magias[-j][all_meff[i]]
+                word = magias[-j][all_megia_effects[i]]
                 if word[1] == "1 Turn" or not word[1]:
                     st = word[0]
                 else:
@@ -404,38 +405,35 @@ def make_magia_doppel_and_connect(dic, cards):
                 st = "-"
             except IndexError:
                 break
-            m_out += m_nr.format(i + 1, j, st)
+            magia_string += magia_item_template.format(i + 1, j, st)
 
-    out = ""
-    if d_titl:
-        for e in doppel_effect:
-            if out:
-                out += " & "
-            scal = nr = ""
-            desc = doppel_effect[e][0]
-            base = re.findall(r"[0-9.]+", desc)
-            if base:
-                scal = re.findall(r"[0-9.]+", doppel_effect[e][2])
-                if scal:
-                    nr = float(base[0]) + 4 * float(scal[0])
-                    if nr % 1 == 0:
-                        nr = int(nr)
-
-                    desc = desc.replace(base[0], str(nr))
-            desc = desc + (" / " if doppel_effect[e][1] and desc else "") + doppel_effect[e][1]
-            out += f"{e} [{desc}]"
-
-    d_out = """
+    doppel_effect_template = """| Magia2 effect {0} = {1}
+| Magia2 {0} = {2}
+"""
+    doppel_string = """
 | Doppel Name = 
 | Doppel Title = 
 | Doppel Japanese Title = {}
 | Doppel Shape = 
 | Doppel Japanese Shape = {}
 | Doppel Japanese Designer = {}
-| Doppel effect = {}
-""".format(d_name, d_titl, d_dess, out)
+""".format(doppel_name, doppel_title, doppel_designer)
+    i = 0
+    for text, [effect, turns, scaling] in all_doppel_effects.items():
+        i += 1
+        effect_value = re.findall(r"[0-9.]+", effect)
+        final_effect = effect
+        if effect_value:
+            scaling_value = re.findall(r"[0-9.]+", scaling)
+            if scaling_value:
+                final_value = float(effect_value[0]) + 4 * float(scaling_value[0])
+                if final_value % 1 == 0:
+                    final_value = int(final_value)
+                final_effect = effect.replace(effect_value[0], str(final_value))
+        final_effect = turns + (" / " if turns and final_effect else "") + final_effect
+        doppel_string += doppel_effect_template.format(i, text, final_effect)
 
-    return c_out + m_out + d_out
+    return connect_string + magia_string + doppel_string
 
 
 def make_spirit_enchantment(cells):

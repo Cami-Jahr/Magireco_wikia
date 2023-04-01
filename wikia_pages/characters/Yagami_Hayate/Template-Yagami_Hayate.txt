@@ -175,5 +175,8 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ー
-| Doppel effect = Damage All Enemies [X / 924%] & Defense Down [X / 40% / All Enemies / 3 Turns]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = X / 924%
+| Magia2 effect 2 = Defense Down
+| Magia2 2 = All Enemies / 3 Turns / X / 40%
 }}

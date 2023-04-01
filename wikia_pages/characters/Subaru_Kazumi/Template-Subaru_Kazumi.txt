@@ -183,5 +183,16 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、美食家
 | Doppel Japanese Designer = 原案：f4samurai、監修：平松/天杉
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Down [IX / 45%] & Defense Down [IX / 40% / All Enemies / 5 Turns] & Attack Up [IX / 50%] & Damage Up [IX / 40% / Self / 5 Turns] & HP Restore [IX / 43%]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Attack Down
+| Magia2 2 = IX / 45%
+| Magia2 effect 3 = Defense Down
+| Magia2 3 = All Enemies / 5 Turns / IX / 40%
+| Magia2 effect 4 = Attack Up
+| Magia2 4 = IX / 50%
+| Magia2 effect 5 = Damage Up
+| Magia2 5 = Self / 5 Turns / IX / 40%
+| Magia2 effect 6 = HP Restore
+| Magia2 6 = IX / 43%
 }}

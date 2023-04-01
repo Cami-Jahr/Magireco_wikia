@@ -182,5 +182,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Defense Down [IX / 35% / All Enemies / 3 Turns] & Damage Cut [IX / 50% / Allies / 3 Turns] & Imitate Attribute [IX / 100% / Self / 3 Turns]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Defense Down
+| Magia2 2 = All Enemies / 3 Turns / IX / 35%
+| Magia2 effect 3 = Damage Cut
+| Magia2 3 = Allies / 3 Turns / IX / 50%
+| Magia2 effect 4 = Imitate Attribute
+| Magia2 4 = Self / 3 Turns / IX / 100%
 }}

@@ -182,5 +182,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 50%] & Forest Attribute Attack Up [IX / 20%] & Damage Up [IX / 40% / Allies / 5 Turns] & Chance to Skill Seal [IX / 50% / All Enemies / 3 Turns]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Attack Up
+| Magia2 2 = IX / 50%
+| Magia2 effect 3 = Forest Attribute Attack Up
+| Magia2 3 = IX / 20%
+| Magia2 effect 4 = Damage Up
+| Magia2 4 = Allies / 5 Turns / IX / 40%
+| Magia2 effect 5 = Chance to Skill Seal
+| Magia2 5 = All Enemies / 3 Turns / IX / 50%
 }}

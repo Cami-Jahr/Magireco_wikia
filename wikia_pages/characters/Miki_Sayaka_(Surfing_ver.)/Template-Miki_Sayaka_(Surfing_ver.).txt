@@ -182,5 +182,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、人魚
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Up [IX / 30%] & Defense Up [IX / 32.5%] & Barrier [IX / 20000 damage / Self / 5 Turns]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = IX / 2763.2%
+| Magia2 effect 2 = Attack Up
+| Magia2 2 = IX / 30%
+| Magia2 effect 3 = Defense Up
+| Magia2 3 = IX / 32.5%
+| Magia2 effect 4 = Barrier
+| Magia2 4 = Self / 5 Turns / IX / 20000 damage
 }}

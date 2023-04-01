@@ -189,5 +189,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、滴
 | Doppel Japanese Designer = 原案・監修：ムラ黒江
-| Doppel effect = Damage One Enemy [VIII / 2200%] & HP Restore [VIII / 33% / Allies] & Status Ailment Resistance Up [VIII / 45%] & Blast Damage Cut [VIII / 45%] & Defense Up [VIII / 40% / Allies / 3 Turns]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = VIII / 2200%
+| Magia2 effect 2 = HP Restore
+| Magia2 2 = Allies / VIII / 33%
+| Magia2 effect 3 = Status Ailment Resistance Up
+| Magia2 3 = VIII / 45%
+| Magia2 effect 4 = Blast Damage Cut
+| Magia2 4 = VIII / 45%
+| Magia2 effect 5 = Defense Up
+| Magia2 5 = Allies / 3 Turns / VIII / 40%
 }}

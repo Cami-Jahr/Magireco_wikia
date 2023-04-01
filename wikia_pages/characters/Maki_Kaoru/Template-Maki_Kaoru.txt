@@ -184,5 +184,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ミノタウロス
 | Doppel Japanese Designer = 原案・監修：平松正樹・天杉貴志
-| Doppel effect = Damage One Enemy [X / 2833.6%] & Attack Up [X / 45%] & Charged Attack Damage Up [X / 40% / Allies / 5 Turns]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = X / 2833.6%
+| Magia2 effect 2 = Attack Up
+| Magia2 2 = X / 45%
+| Magia2 effect 3 = Charged Attack Damage Up
+| Magia2 3 = Allies / 5 Turns / X / 40%
 }}

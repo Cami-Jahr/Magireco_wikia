@@ -184,5 +184,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、本の虫
 | Doppel Japanese Designer = 原案・監修：平松正樹・天杉貴志
-| Doppel effect = Damage All Enemies [VIII / 880%] & HP Restore [VIII / 33%] & Remove Status Ailments [Allies]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = VIII / 880%
+| Magia2 effect 2 = HP Restore
+| Magia2 2 = VIII / 33%
+| Magia2 effect 3 = Remove Status Ailments
+| Magia2 3 = Allies
 }}

@@ -197,5 +197,18 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Damage Down [IX / 42.5%] & MP Gain Down [IX / 60% / All Enemies / 5 Turns] & Dazzle [] & Magia Seal [All Enemies / 3 Turns] & MP Damage [IX / 60 MP / All Enemies] & Skill Quicken [Allies / 1 Turn]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Damage Down
+| Magia2 2 = IX / 42.5%
+| Magia2 effect 3 = MP Gain Down
+| Magia2 3 = All Enemies / 5 Turns / IX / 60%
+| Magia2 effect 4 = Dazzle
+| Magia2 4 = 
+| Magia2 effect 5 = Magia Seal
+| Magia2 5 = All Enemies / 3 Turns
+| Magia2 effect 6 = MP Damage
+| Magia2 6 = All Enemies / IX / 60 MP
+| Magia2 effect 7 = Skill Quicken
+| Magia2 7 = Allies / 1 Turn
 }}

@@ -178,5 +178,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、此岸
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage 5 Random Enemies [VIII / 622.1999999999999%] & Chance to Stun [VIII / 55% / All Enemies / 1 Turn] & Critical Hit [Self / 2 Turns]
+| Magia2 effect 1 = Damage 5 Random Enemies
+| Magia2 1 = VIII / 622.1999999999999%
+| Magia2 effect 2 = Chance to Stun
+| Magia2 2 = All Enemies / 1 Turn / VIII / 55%
+| Magia2 effect 3 = Critical Hit
+| Magia2 3 = Self / 2 Turns
 }}

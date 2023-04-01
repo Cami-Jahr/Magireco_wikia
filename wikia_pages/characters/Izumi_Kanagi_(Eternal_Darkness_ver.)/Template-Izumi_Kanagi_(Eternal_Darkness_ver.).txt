@@ -187,5 +187,16 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、竈獅子
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Attribute Strengthened Damage One Enemy [IX / 2270.4%] & Blast Damage Up [IX / 70%] & Dark Attribute Attack Up [IX / 60%] & Defense Pierce [Self / 5 Turns] & Defense Down [IX / 30%] & Provoke [Self / 1 Turn]
+| Magia2 effect 1 = Attribute Strengthened Damage One Enemy
+| Magia2 1 = IX / 2270.4%
+| Magia2 effect 2 = Blast Damage Up
+| Magia2 2 = IX / 70%
+| Magia2 effect 3 = Dark Attribute Attack Up
+| Magia2 3 = IX / 60%
+| Magia2 effect 4 = Defense Pierce
+| Magia2 4 = Self / 5 Turns
+| Magia2 effect 5 = Defense Down
+| Magia2 5 = IX / 30%
+| Magia2 effect 6 = Provoke
+| Magia2 6 = Self / 1 Turn
 }}

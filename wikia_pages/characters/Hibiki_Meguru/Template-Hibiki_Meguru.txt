@@ -178,5 +178,4 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = 
 | Doppel Japanese Designer = 
-| Doppel effect = 
 }}

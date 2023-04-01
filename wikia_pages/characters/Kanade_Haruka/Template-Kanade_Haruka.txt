@@ -190,5 +190,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、瞳
 | Doppel Japanese Designer = 原案・監修：GAN
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Down [IX / 55% / Target / 5 Turns] & Damage Cut [IX / 60%] & Regenerate HP [IX / 11% / Self / 3 Turns] & Provoke [Self / 2 Turns]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = IX / 2763.2%
+| Magia2 effect 2 = Attack Down
+| Magia2 2 = Target / 5 Turns / IX / 55%
+| Magia2 effect 3 = Damage Cut
+| Magia2 3 = IX / 60%
+| Magia2 effect 4 = Regenerate HP
+| Magia2 4 = Self / 3 Turns / IX / 11%
+| Magia2 effect 5 = Provoke
+| Magia2 5 = Self / 2 Turns
 }}

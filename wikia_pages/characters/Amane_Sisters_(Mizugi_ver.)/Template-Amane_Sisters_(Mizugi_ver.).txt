@@ -178,5 +178,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ハーバリウム
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [VIII / 902%] & Regenerate HP [VIII / 14%] & Status Ailment Resistance Up [VIII / 40% / Allies / 3 Turns]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = VIII / 902%
+| Magia2 effect 2 = Regenerate HP
+| Magia2 2 = VIII / 14%
+| Magia2 effect 3 = Status Ailment Resistance Up
+| Magia2 3 = Allies / 3 Turns / VIII / 40%
 }}

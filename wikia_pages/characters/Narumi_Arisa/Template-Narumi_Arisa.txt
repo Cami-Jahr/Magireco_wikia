@@ -185,5 +185,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、豪腕
 | Doppel Japanese Designer = 原案・監修：GAN
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Attack Up [IX / 50%] & Defense Up [IX / 70% / Self / 3 Turns] & Chance to Critical Hit [IX / 50% / Self / 2 Turns]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = IX / 2763.2%
+| Magia2 effect 2 = Attack Up
+| Magia2 2 = IX / 50%
+| Magia2 effect 3 = Defense Up
+| Magia2 3 = Self / 3 Turns / IX / 70%
+| Magia2 effect 4 = Chance to Critical Hit
+| Magia2 4 = Self / 2 Turns / IX / 50%
 }}

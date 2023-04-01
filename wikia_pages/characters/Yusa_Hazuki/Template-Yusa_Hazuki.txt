@@ -190,5 +190,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、蔵
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Down [IX / 45%] & Defense Down [IX / 30% / All Enemies / 3 Turns] & Curse [All Enemies / 1 Turn] & MP Restore [IX / 29 MP]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Attack Down
+| Magia2 2 = IX / 45%
+| Magia2 effect 3 = Defense Down
+| Magia2 3 = All Enemies / 3 Turns / IX / 30%
+| Magia2 effect 4 = Curse
+| Magia2 4 = All Enemies / 1 Turn
+| Magia2 effect 5 = MP Restore
+| Magia2 5 = IX / 29 MP
 }}

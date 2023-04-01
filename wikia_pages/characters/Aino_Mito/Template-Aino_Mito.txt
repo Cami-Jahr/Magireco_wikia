@@ -189,5 +189,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、外套
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Defense Up [IX / 62.5% / Allies / 3 Turns] & Provoke [] & Evade [Self / 1 Turn]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = IX / 2763.2%
+| Magia2 effect 2 = Defense Up
+| Magia2 2 = Allies / 3 Turns / IX / 62.5%
+| Magia2 effect 3 = Provoke
+| Magia2 3 = 
+| Magia2 effect 4 = Evade
+| Magia2 4 = Self / 1 Turn
 }}

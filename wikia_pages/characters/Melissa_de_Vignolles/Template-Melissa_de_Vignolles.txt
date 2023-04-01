@@ -180,5 +180,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、震怒
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Defense Down [IX / 50% / Target / 3 Turns] & Accele MP Gain Up [IX / 37.5% / Allies / 3 Turns]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = IX / 2763.2%
+| Magia2 effect 2 = Defense Down
+| Magia2 2 = Target / 3 Turns / IX / 50%
+| Magia2 effect 3 = Accele MP Gain Up
+| Magia2 3 = Allies / 3 Turns / IX / 37.5%
 }}

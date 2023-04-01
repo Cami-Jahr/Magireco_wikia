@@ -179,5 +179,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、切符鋏
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Attribute Strengthened Damage 5 Random Enemies [X / 676%] & Aqua Attribute Attack Up [X / 25% / Allies / 5 Turns] & Attack Up [X / 25% / Self / 5 Turns] & MP Restore [X / 24 MP / Allies]
+| Magia2 effect 1 = Attribute Strengthened Damage 5 Random Enemies
+| Magia2 1 = X / 676%
+| Magia2 effect 2 = Aqua Attribute Attack Up
+| Magia2 2 = Allies / 5 Turns / X / 25%
+| Magia2 effect 3 = Attack Up
+| Magia2 3 = Self / 5 Turns / X / 25%
+| Magia2 effect 4 = MP Restore
+| Magia2 4 = Allies / X / 24 MP
 }}

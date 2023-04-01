@@ -183,5 +183,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、鳥捕り
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Burn [All Enemies / 3 Turns] & Flame Attribute Attack Up [IX / 35%] & Blast Damage Up [IX / 35% / Allies / 5 Turns] & Charge Conservation [IX / 100% / Allies / 2 Turns]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Burn
+| Magia2 2 = All Enemies / 3 Turns
+| Magia2 effect 3 = Flame Attribute Attack Up
+| Magia2 3 = IX / 35%
+| Magia2 effect 4 = Blast Damage Up
+| Magia2 4 = Allies / 5 Turns / IX / 35%
+| Magia2 effect 5 = Charge Conservation
+| Magia2 5 = Allies / 2 Turns / IX / 100%
 }}

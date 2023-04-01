@@ -182,5 +182,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、架子花臉
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Defense Down [IX / 35% / All Enemies / 5 Turns] & Chance to Skill Seal [IX / 80% / All Enemies / 3 Turns] & Remove Buffs [All Enemies]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Defense Down
+| Magia2 2 = All Enemies / 5 Turns / IX / 35%
+| Magia2 effect 3 = Chance to Skill Seal
+| Magia2 3 = All Enemies / 3 Turns / IX / 80%
+| Magia2 effect 4 = Remove Buffs
+| Magia2 4 = All Enemies
 }}

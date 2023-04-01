@@ -186,5 +186,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、救済
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Charge Conservation [IX / 100% / Allies / 2 Turns] & Aqua Attribute Attack Up [IX / 35% / Allies / 5 Turns] & Regenerate HP [IX / 14%] & Anti-Debuff [2 Debuffs / Allies / 3 Turns]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Charge Conservation
+| Magia2 2 = Allies / 2 Turns / IX / 100%
+| Magia2 effect 3 = Aqua Attribute Attack Up
+| Magia2 3 = Allies / 5 Turns / IX / 35%
+| Magia2 effect 4 = Regenerate HP
+| Magia2 4 = IX / 14%
+| Magia2 effect 5 = Anti-Debuff
+| Magia2 5 = Allies / 3 Turns / 2 Debuffs
 }}

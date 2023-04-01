@@ -186,5 +186,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、女王の黄昏
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
-| Doppel effect = Attribute Strengthened Damage All Enemies [X / 902%] & Curse [All Enemies / 3 Turns] & Magia Damage Up [X / 42.5%] & Dark Attribute Attack Up [X / 30% / Self / 5 Turns] & Survive [X / 40% / Self / 3 Turns]
+| Magia2 effect 1 = Attribute Strengthened Damage All Enemies
+| Magia2 1 = X / 902%
+| Magia2 effect 2 = Curse
+| Magia2 2 = All Enemies / 3 Turns
+| Magia2 effect 3 = Magia Damage Up
+| Magia2 3 = X / 42.5%
+| Magia2 effect 4 = Dark Attribute Attack Up
+| Magia2 4 = Self / 5 Turns / X / 30%
+| Magia2 effect 5 = Survive
+| Magia2 5 = Self / 3 Turns / X / 40%
 }}

@@ -178,5 +178,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage 5 Random Enemies [IX / 622.1999999999999%] & Damage Up [IX / 40% / Allies / 3 Turns] & Barrier [IX / 10000 damage / Self / 5 Turns]
+| Magia2 effect 1 = Damage 5 Random Enemies
+| Magia2 1 = IX / 622.1999999999999%
+| Magia2 effect 2 = Damage Up
+| Magia2 2 = Allies / 3 Turns / IX / 40%
+| Magia2 effect 3 = Barrier
+| Magia2 3 = Self / 5 Turns / IX / 10000 damage
 }}

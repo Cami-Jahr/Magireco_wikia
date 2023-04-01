@@ -184,5 +184,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、舞踏会
 | Doppel Japanese Designer = 原案・監修：ムラ黒江
-| Doppel effect = Damage All Enemies [X / 946%] & MP Restore [X / 39 MP] & Evade [Self / 1 Turn]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = X / 946%
+| Magia2 effect 2 = MP Restore
+| Magia2 2 = X / 39 MP
+| Magia2 effect 3 = Evade
+| Magia2 3 = Self / 1 Turn
 }}

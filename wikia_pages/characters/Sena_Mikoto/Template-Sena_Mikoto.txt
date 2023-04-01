@@ -186,5 +186,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、鏡
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [I / 308%] & Reflect [I / 0.1%] & Strengthened Counter [] & Barrier [I / 8000 damage / Allies / 3 Turns] & MP Up When Damaged [I / 15% / Allies / 1 Turn]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = I / 308%
+| Magia2 effect 2 = Reflect
+| Magia2 2 = I / 0.1%
+| Magia2 effect 3 = Strengthened Counter
+| Magia2 3 = 
+| Magia2 effect 4 = Barrier
+| Magia2 4 = Allies / 3 Turns / I / 8000 damage
+| Magia2 effect 5 = MP Up When Damaged
+| Magia2 5 = Allies / 1 Turn / I / 15%
 }}

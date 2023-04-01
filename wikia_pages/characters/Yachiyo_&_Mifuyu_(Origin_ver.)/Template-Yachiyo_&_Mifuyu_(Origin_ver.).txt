@@ -182,5 +182,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Attack Up [IX / 55%] & Defense Pierce [Self / 3 Turns] & MP Restore [IX / 49 MP]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Attack Up
+| Magia2 2 = IX / 55%
+| Magia2 effect 3 = Defense Pierce
+| Magia2 3 = Self / 3 Turns
+| Magia2 effect 4 = MP Restore
+| Magia2 4 = IX / 49 MP
 }}

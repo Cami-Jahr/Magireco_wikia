@@ -194,5 +194,18 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Attribute Strengthened Damage All Enemies [IX / 869%] & HP Restore [IX / 100%] & MP Restore [IX / 34 MP / Allies] & Blast Damage Up [IX / 50%] & Charged Attack Damage Up [IX / 50%] & Accele MP Gain Up [IX / 40%] & Anti-Debuff [3 Debuffs / Allies / 5 Turns]
+| Magia2 effect 1 = Attribute Strengthened Damage All Enemies
+| Magia2 1 = IX / 869%
+| Magia2 effect 2 = HP Restore
+| Magia2 2 = IX / 100%
+| Magia2 effect 3 = MP Restore
+| Magia2 3 = Allies / IX / 34 MP
+| Magia2 effect 4 = Blast Damage Up
+| Magia2 4 = IX / 50%
+| Magia2 effect 5 = Charged Attack Damage Up
+| Magia2 5 = IX / 50%
+| Magia2 effect 6 = Accele MP Gain Up
+| Magia2 6 = IX / 40%
+| Magia2 effect 7 = Anti-Debuff
+| Magia2 7 = Allies / 5 Turns / 3 Debuffs
 }}

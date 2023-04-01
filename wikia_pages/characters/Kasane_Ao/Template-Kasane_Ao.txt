@@ -178,5 +178,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、叢雲
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [X / 2833.6%] & Remove Buffs [Target] & Damage Increase [X / 47.5% / Allies / 3 Turns]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = X / 2833.6%
+| Magia2 effect 2 = Remove Buffs
+| Magia2 2 = Target
+| Magia2 effect 3 = Damage Increase
+| Magia2 3 = Allies / 3 Turns / X / 47.5%
 }}

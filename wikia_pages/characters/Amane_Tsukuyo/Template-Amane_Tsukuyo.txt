@@ -179,5 +179,8 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、テラリウム
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Attribute Strengthened Damage All Enemies [IX / 821%] & Charged Attack Damage Up [IX / 45% / Allies / 5 Turns]
+| Magia2 effect 1 = Attribute Strengthened Damage All Enemies
+| Magia2 1 = IX / 821%
+| Magia2 effect 2 = Charged Attack Damage Up
+| Magia2 2 = Allies / 5 Turns / IX / 45%
 }}

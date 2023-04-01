@@ -186,5 +186,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、天華
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Attribute Strengthened Damage All Enemies [IX / 869%] & Poison [All Enemies / 3 Turns] & Forest Attribute Attack Up [IX / 35% / Allies / 5 Turns] & Regenerate HP [IX / 12% / Allies / 3 Turns] & Remove Status Ailments [Allies]
+| Magia2 effect 1 = Attribute Strengthened Damage All Enemies
+| Magia2 1 = IX / 869%
+| Magia2 effect 2 = Poison
+| Magia2 2 = All Enemies / 3 Turns
+| Magia2 effect 3 = Forest Attribute Attack Up
+| Magia2 3 = Allies / 5 Turns / IX / 35%
+| Magia2 effect 4 = Regenerate HP
+| Magia2 4 = Allies / 3 Turns / IX / 12%
+| Magia2 effect 5 = Remove Status Ailments
+| Magia2 5 = Allies
 }}

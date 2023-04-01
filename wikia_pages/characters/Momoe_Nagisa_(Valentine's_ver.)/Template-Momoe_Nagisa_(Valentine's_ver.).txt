@@ -178,5 +178,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ショコラ
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & HP Restore [IX / 33%] & Remove Debuffs [Allies]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = HP Restore
+| Magia2 2 = IX / 33%
+| Magia2 effect 3 = Remove Debuffs
+| Magia2 3 = Allies
 }}

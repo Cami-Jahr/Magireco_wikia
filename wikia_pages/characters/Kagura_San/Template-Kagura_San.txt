@@ -186,5 +186,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、セキュリティシステム
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Accele MP Gain Up [IX / 37.5%] & Status Ailment Resistance Up [IX / 60% / Allies / 5 Turns] & Remove Status Ailments [] & HP Restore [IX / 38% / Allies]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Accele MP Gain Up
+| Magia2 2 = IX / 37.5%
+| Magia2 effect 3 = Status Ailment Resistance Up
+| Magia2 3 = Allies / 5 Turns / IX / 60%
+| Magia2 effect 4 = Remove Status Ailments
+| Magia2 4 = 
+| Magia2 effect 5 = HP Restore
+| Magia2 5 = Allies / IX / 38%
 }}

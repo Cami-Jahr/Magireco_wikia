@@ -183,5 +183,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、クッキー
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage All Enemies [IX / 902%] & Barrier [IX / 12000 damage / Allies / 5 Turns] & MP Up When Damaged [IX / 10% / Allies / 1 Turn] & HP Restore [IX / 38% / Allies] & Provoke [Self / 2 Turns]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Barrier
+| Magia2 2 = Allies / 5 Turns / IX / 12000 damage
+| Magia2 effect 3 = MP Up When Damaged
+| Magia2 3 = Allies / 1 Turn / IX / 10%
+| Magia2 effect 4 = HP Restore
+| Magia2 4 = Allies / IX / 38%
+| Magia2 effect 5 = Provoke
+| Magia2 5 = Self / 2 Turns
 }}

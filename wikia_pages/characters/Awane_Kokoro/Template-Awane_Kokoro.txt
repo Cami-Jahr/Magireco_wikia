@@ -175,5 +175,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、殻
 | Doppel Japanese Designer = 原案・監修：GAN
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Chance to Counter [IX / 25%] & Damage Cut [IX / 52.5% / Allies / 3 Turns]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = IX / 2763.2%
+| Magia2 effect 2 = Chance to Counter
+| Magia2 2 = IX / 25%
+| Magia2 effect 3 = Damage Cut
+| Magia2 3 = Allies / 3 Turns / IX / 52.5%
 }}

@@ -182,5 +182,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Charge Conservation [IX / 100% / Allies / 2 Turns] & Attack Up [IX / 30%] & Light Attribute Attack Up [IX / 45% / Allies / 5 Turns] & Remove Debuffs [Allies]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Charge Conservation
+| Magia2 2 = Allies / 2 Turns / IX / 100%
+| Magia2 effect 3 = Attack Up
+| Magia2 3 = IX / 30%
+| Magia2 effect 4 = Light Attribute Attack Up
+| Magia2 4 = Allies / 5 Turns / IX / 45%
+| Magia2 effect 5 = Remove Debuffs
+| Magia2 5 = Allies
 }}

@@ -185,5 +185,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、悪戯猫
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
-| Doppel effect = Attribute Strengthened Damage One Enemy [X / 2340.8%] & MP Gain Down [X / 60% / Target / 5 Turns] & MP Damage [X / 100 MP / Target] & Magia Damage Up [X / 36% / Allies / 5 Turns]
+| Magia2 effect 1 = Attribute Strengthened Damage One Enemy
+| Magia2 1 = X / 2340.8%
+| Magia2 effect 2 = MP Gain Down
+| Magia2 2 = Target / 5 Turns / X / 60%
+| Magia2 effect 3 = MP Damage
+| Magia2 3 = Target / X / 100 MP
+| Magia2 effect 4 = Magia Damage Up
+| Magia2 4 = Allies / 5 Turns / X / 36%
 }}

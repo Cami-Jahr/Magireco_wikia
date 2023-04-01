@@ -193,5 +193,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ペット
 | Doppel Japanese Designer = 原案・監修：ムラ黒江
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & Bind [Target / 1 Turn] & Attack Down [IX / 35%] & Defense Down [IX / 40% / Target / 3 Turns] & Evade [Self / 1 Turn]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = IX / 2763.2%
+| Magia2 effect 2 = Bind
+| Magia2 2 = Target / 1 Turn
+| Magia2 effect 3 = Attack Down
+| Magia2 3 = IX / 35%
+| Magia2 effect 4 = Defense Down
+| Magia2 4 = Target / 3 Turns / IX / 40%
+| Magia2 effect 5 = Evade
+| Magia2 5 = Self / 1 Turn
 }}

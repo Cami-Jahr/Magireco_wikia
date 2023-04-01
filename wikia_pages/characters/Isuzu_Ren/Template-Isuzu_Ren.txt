@@ -178,5 +178,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、心電図
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [X / 2488%] & Evade [Self / 1 Turn] & Regenerate HP [X / 9% / Self / 3 Turns]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = X / 2488%
+| Magia2 effect 2 = Evade
+| Magia2 2 = Self / 1 Turn
+| Magia2 effect 3 = Regenerate HP
+| Magia2 3 = Self / 3 Turns / X / 9%
 }}

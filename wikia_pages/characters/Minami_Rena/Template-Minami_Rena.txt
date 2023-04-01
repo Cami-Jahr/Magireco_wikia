@@ -178,5 +178,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、ガラス靴
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage One Enemy [IX / 2763.2%] & MP Restore [IX / 44 MP] & Accele MP Gain Up [IX / 40% / Self / 3 Turns]
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = IX / 2763.2%
+| Magia2 effect 2 = MP Restore
+| Magia2 2 = IX / 44 MP
+| Magia2 effect 3 = Accele MP Gain Up
+| Magia2 3 = Self / 3 Turns / IX / 40%
 }}

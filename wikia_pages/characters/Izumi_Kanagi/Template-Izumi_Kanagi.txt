@@ -179,5 +179,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、竈獅子
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Doppel effect = Damage 5 Random Enemies [VIII / 622.1999999999999%] & Anti-Evade [Allies / 1 Turn] & Damage Cut [VIII / 100% / Self / 1 Turn]
+| Magia2 effect 1 = Damage 5 Random Enemies
+| Magia2 1 = VIII / 622.1999999999999%
+| Magia2 effect 2 = Anti-Evade
+| Magia2 2 = Allies / 1 Turn
+| Magia2 effect 3 = Damage Cut
+| Magia2 3 = Self / 1 Turn / VIII / 100%
 }}

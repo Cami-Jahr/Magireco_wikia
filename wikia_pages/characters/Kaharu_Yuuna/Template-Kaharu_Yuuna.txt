@@ -178,5 +178,10 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、コンポート
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Attribute Strengthened Damage One Enemy [X / 2340.8%] & Status Ailment Resistance Down [X / 45% / Target / 2 Turns] & Evade [Self / 1 Turn]
+| Magia2 effect 1 = Attribute Strengthened Damage One Enemy
+| Magia2 1 = X / 2340.8%
+| Magia2 effect 2 = Status Ailment Resistance Down
+| Magia2 2 = Target / 2 Turns / X / 45%
+| Magia2 effect 3 = Evade
+| Magia2 3 = Self / 1 Turn
 }}

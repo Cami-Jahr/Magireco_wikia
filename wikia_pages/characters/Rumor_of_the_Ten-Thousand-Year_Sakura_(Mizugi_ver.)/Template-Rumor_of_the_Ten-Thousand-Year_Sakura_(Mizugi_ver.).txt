@@ -179,5 +179,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = ー
 | Doppel Japanese Designer = ………
-| Doppel effect = Damage All Enemies [IX / 902%] & Damage Increase [IX / 47.5%] & Charged Attack Damage Up [IX / 40% / Allies / 3 Turns] & Remove Status Ailments [Allies]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Damage Increase
+| Magia2 2 = IX / 47.5%
+| Magia2 effect 3 = Charged Attack Damage Up
+| Magia2 3 = Allies / 3 Turns / IX / 40%
+| Magia2 effect 4 = Remove Status Ailments
+| Magia2 4 = Allies
 }}

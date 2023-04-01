@@ -182,5 +182,14 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、合一神
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
-| Doppel effect = Damage All Enemies [IX / 902%] & Defense Up [IX / 73.8%] & Damage Cut [IX / 50%] & Barrier [IX / 12000 damage / Allies / 5 Turns] & Imitate Attribute [IX / 100% / Self / 3 Turns]
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Defense Up
+| Magia2 2 = IX / 73.8%
+| Magia2 effect 3 = Damage Cut
+| Magia2 3 = IX / 50%
+| Magia2 effect 4 = Barrier
+| Magia2 4 = Allies / 5 Turns / IX / 12000 damage
+| Magia2 effect 5 = Imitate Attribute
+| Magia2 5 = Self / 3 Turns / IX / 100%
 }}

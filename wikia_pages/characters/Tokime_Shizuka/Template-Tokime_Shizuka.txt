@@ -179,5 +179,12 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、千手
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
-| Doppel effect = Attribute Strengthened Damage All Enemies [IX / 869%] & Attack Up [IX / 45%] & Defense Up [IX / 66.3% / Allies / 3 Turns] & Remove Buffs [All Enemies]
+| Magia2 effect 1 = Attribute Strengthened Damage All Enemies
+| Magia2 1 = IX / 869%
+| Magia2 effect 2 = Attack Up
+| Magia2 2 = IX / 45%
+| Magia2 effect 3 = Defense Up
+| Magia2 3 = Allies / 3 Turns / IX / 66.3%
+| Magia2 effect 4 = Remove Buffs
+| Magia2 4 = All Enemies
 }}
