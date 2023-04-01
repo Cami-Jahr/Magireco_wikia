@@ -20,8 +20,8 @@
 | image = Remove Debuffs
 | effect_name = Counteract
 | effect_name_JP = カウンタラクト
-| effect1 = Remove Debuffs
-| effect2 = Remove Debuffs
+| effect1 = Remove Debuffs (Self)
+| effect2 = Remove Debuffs (Self)
 | Cooldown = 8
 | Cooldown2 = 6
 }}

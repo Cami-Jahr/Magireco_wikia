@@ -20,8 +20,8 @@
 | image = Remove Debuffs
 | effect_name = Refresh
 | effect_name_JP = リフレッシュ
-| effect1 = Remove Debuffs & Remove Status Ailments
-| effect2 = Remove Debuffs & Remove Status Ailments
+| effect1 = Remove Debuffs & Remove Status Ailments (Self)
+| effect2 = Remove Debuffs & Remove Status Ailments (Self)
 | Cooldown = 4
 | Cooldown2 = 2
 }}

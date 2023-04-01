@@ -6,6 +6,9 @@ keys_to_ignore = {
     "image",
     "effect_name",
     "effect_name_JP",
+    "effect1",
+    "Cooldown",
+    "Cooldown2",
 }
 
 

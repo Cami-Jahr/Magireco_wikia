@@ -20,8 +20,8 @@
 | image = Remove Debuffs
 | effect_name = Cure 
 | effect_name_JP = キュア
-| effect1 = Remove Debuffs & HP Restore [II / 32.5%]
-| effect2 = Remove Debuffs & HP Restore [III / 35%]
+| effect1 = Remove Debuffs (Self) & HP Restore [II / 32.5%]
+| effect2 = Remove Debuffs (Self) & HP Restore [III / 35%]
 | Cooldown = 9
 | Cooldown2 = 8
 }}

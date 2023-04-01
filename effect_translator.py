@@ -43,7 +43,7 @@ def translate_roman_to_ascii(string):
     return string
 
 
-# Format is (description, uses_roman, includes_turns, no_state_target)
+# Format is (description, uses_roman, does_not_state_target)
 
 good = {
     "AUTO_HEAL": ("Regenerate HP", True, False),
@@ -592,7 +592,7 @@ def translate(shortDescription, arts):
                 ta = f"{target} / {turns} Turn{'s' if turns != 1 else ''}"
             elif turns:
                 ta = f"{turns} Turn{'s' if turns != 1 else ''}"
-            elif target and target != "Self" and not no_states_target:
+            elif target and (target != "Self" and not no_states_target) or verb_code in ("REVOKE",):
                 ta = str(target)
             else:
                 ta = ""

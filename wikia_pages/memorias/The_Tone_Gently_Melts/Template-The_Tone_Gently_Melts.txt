@@ -20,8 +20,8 @@
 | image = Remove Debuffs
 | effect_name = Counteract Attack 
 | effect_name_JP = カウンタラクトアタック
-| effect1 = Remove Debuffs & Attack Up [II / 10%] (Self / 3 Turns)
-| effect2 = Remove Debuffs & Attack Up [III / 15%] (Self / 3 Turns)
+| effect1 = Remove Debuffs (Self) & Attack Up [II / 10%] (Self / 3 Turns)
+| effect2 = Remove Debuffs (Self) & Attack Up [III / 15%] (Self / 3 Turns)
 | Cooldown = 9
 | Cooldown2 = 8
 }}
