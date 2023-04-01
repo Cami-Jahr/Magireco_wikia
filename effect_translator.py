@@ -577,6 +577,8 @@ def translate(shortDescription, arts):
                     no_states_target = False
                     if target_id == "DYING":
                         text = text.replace("Guardian", "Guardian on Allies with Critical Health")
+                elif verb_code in ("HEAL",) and target_id == "ONE":
+                    target = "Lowest HP Ally"
 
             except KeyError as e:
                 target = ""

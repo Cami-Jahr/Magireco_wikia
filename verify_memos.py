@@ -11,8 +11,12 @@ keys_to_ignore = {
     "Cooldown2",
 }
 
+
 def remove_words_to_ignore(string):
-    return string.replace("turn", "Turn")
+    """Add words you want to ignore here"""
+    return string \
+        .replace("turn", "Turn") \
+        .replace("  ", " ").strip()
 
 
 def check_incorrect_memos():
