@@ -440,16 +440,16 @@ def make_magia_doppel_and_connect(dic, cards):
 
 
 def make_spirit_enchantment(cells):
-    a_output = p_output = ""
-    acel = blst = char = atkk = deff = hppp = 0
-    p_idx = a_idx = 1
-    p_temp = """
+    active_output = passive_output = ""
+    accele_bonus = blast_bonus = charge_bonus = attack_bonus = defence_bonus = hp_bonus = 0
+    passive_amount = active_amount = 1
+    passive_template = """
 | Passive {0} icon = {3}
 | Passive {0} name = {2}
 | Passive {0} name JP = {1}
 | Passive {0} effect = {4}
 """
-    a_temp = """
+    active_template = """
 | Active {0} icon = {3}
 | Active {0} name = {2}
 | Active {0} name JP = {1}
@@ -459,17 +459,17 @@ def make_spirit_enchantment(cells):
 
     for cell in cells:
         if cell["enhancementType"] == "ATTACK":
-            atkk += cell["effectValue"]
+            attack_bonus += cell["effectValue"]
         elif cell["enhancementType"] == "DEFENSE":
-            deff += cell["effectValue"]
+            defence_bonus += cell["effectValue"]
         elif cell["enhancementType"] == "HP":
-            hppp += cell["effectValue"]
+            hp_bonus += cell["effectValue"]
         elif cell["enhancementType"] == "DISK_ACCELE":
-            acel += cell["effectValue"]
+            accele_bonus += cell["effectValue"]
         elif cell["enhancementType"] == "DISK_BLAST":
-            blst += cell["effectValue"]
+            blast_bonus += cell["effectValue"]
         elif cell["enhancementType"] == "DISK_CHARGE":
-            char += cell["effectValue"]
+            charge_bonus += cell["effectValue"]
         elif cell["enhancementType"] == "SKILL":
             arts = []
             for i in range(1, 20):
@@ -477,16 +477,16 @@ def make_spirit_enchantment(cells):
                     arts.append(cell["emotionSkill"][f"art{i}"])
                 except KeyError:
                     break
-            eng, icon = translate(cell["emotionSkill"]["shortDescription"], arts)
-            st = ""
-            for e in eng:
-                if st:
-                    st += " & "
-                st += e
-                if eng[e][0]:
-                    st += f" [{eng[e][0]}]"
-                if eng[e][1]:
-                    st += f" ({eng[e][1]})"
+            eng_effect, icon = translate(cell["emotionSkill"]["shortDescription"], arts)
+            effect_output = ""
+            for effect in eng_effect:
+                if effect_output:
+                    effect_output += " & "
+                effect_output += effect
+                if eng_effect[effect][0]:
+                    effect_output += f" [{eng_effect[effect][0]}]"
+                if eng_effect[effect][1]:
+                    effect_output += f" ({eng_effect[effect][1]})"
 
             skill_name_jp = cell["emotionSkill"]["name"].strip()
             skill_name_en = skill_name_jp
@@ -500,38 +500,38 @@ def make_spirit_enchantment(cells):
                     print()
                     break
             if cell["emotionSkill"]["type"] == "ABILITY":
-                p_output += p_temp.format(p_idx, skill_name_jp, skill_name_en, icon, st)
-                p_idx += 1
+                passive_output += passive_template.format(passive_amount, skill_name_jp, skill_name_en, icon, effect_output)
+                passive_amount += 1
             else:  # SKILL
                 try:
                     duration = cell["emotionSkill"]["intervalTurn"]
                 except KeyError:
                     duration = "∞"
-                a_output += a_temp.format(a_idx, skill_name_jp, skill_name_en, icon, st, duration)
-                a_idx += 1
+                active_output += active_template.format(active_amount, skill_name_jp, skill_name_en, icon, effect_output, duration)
+                active_amount += 1
         elif cell["enhancementType"] == "START":
             pass
         else:
             print("\t\tUNKNOWN enhancementType:", cell["enhancementType"])
 
     # fill out so everyone has 13 passive and 1 active
-    for i in range(p_idx, 14):
-        p_output += p_temp.format(i, "", "", "", "")
-    for i in range(a_idx, 2):
-        a_output += a_temp.format(1, "", "", "", "", "")
+    for i in range(passive_amount, 14):
+        passive_output += passive_template.format(i, "", "", "", "")
+    for i in range(active_amount, 2):
+        active_output += active_template.format(1, "", "", "", "", "")
 
-    acel //= 10
-    blst //= 10
-    char //= 10
-    if hppp + atkk + deff + acel + blst + char == 0:
-        acel = blst = char = atkk = deff = hppp = ""
+    accele_bonus //= 10
+    blast_bonus //= 10
+    charge_bonus //= 10
+    if hp_bonus + attack_bonus + defence_bonus + accele_bonus + blast_bonus + charge_bonus == 0:
+        accele_bonus = blast_bonus = charge_bonus = attack_bonus = defence_bonus = hp_bonus = ""
     stats = f"""
-| se_hp_bonus = {hppp}
-| se_attack_bonus = {atkk}
-| se_defense_bonus = {deff}
+| se_hp_bonus = {hp_bonus}
+| se_attack_bonus = {attack_bonus}
+| se_defense_bonus = {defence_bonus}
 
-| se accele bonus = {acel}
-| se blast bonus = {blst}
-| se charge bonus = {char}
+| se accele bonus = {accele_bonus}
+| se blast bonus = {blast_bonus}
+| se charge bonus = {charge_bonus}
 """
-    return stats + p_output + a_output
+    return stats + passive_output + active_output
