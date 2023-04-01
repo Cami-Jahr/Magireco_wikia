@@ -21,7 +21,7 @@
 | effect_name = Guard Break 
 | effect_name_JP = ガードブレイク
 | effect1 = 
-| effect2 = Defense Down [III / 15%] (Target / 1 Turn)
+| effect2 = Defense Down [II / 10%] & Defense Down Further [III / 15%] (Target / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 8
 }}

@@ -21,7 +21,7 @@
 | effect_name = Luck Adept 
 | effect_name_JP = ラック・アデプト
 | effect1 = 
-| effect2 = Episode Experience Gain Increased [I / 15%] & CC Gain Up [I / 5%]
+| effect2 = Episode Experience Gain Increased [I / 15%] & CC Gain Up [I / 5%] (Does Not Work on Supports)
 | Cooldown = 
 | Cooldown2 = 
 }}

@@ -602,6 +602,8 @@ def translate(shortDescription, arts):
                 sc = 0
             if sc % 1 == 0:
                 sc = int(sc)
+            if text == "Defense Down" and text in effects:
+                text = "Defense Down Further"
             effects[text] = [effect, ta, f"{sc}%"]
         except KeyError as e:
             print("UNKNOWN effectCode =", art["effectCode"], shortDescription, art)
