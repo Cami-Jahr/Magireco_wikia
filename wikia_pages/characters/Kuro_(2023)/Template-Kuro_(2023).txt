@@ -146,11 +146,14 @@
 | Connect name NA = 
 | Connect icon = MP Restore
 | Connect effect 1 = MP Restore
-| Connect 1 / 1 = II / 20 MP
-| Connect 1 / 2 = III / 20 MP
+| Connect 1 / 1 = II / 15 MP
+| Connect 1 / 2 = III / 17.5 MP
 | Connect effect 2 = Accele MP Gain Up
 | Connect 2 / 1 = II / 15%
 | Connect 2 / 2 = III / 20%
+| Connect effect 3 = MP Restore to Kuroe
+| Connect 3 / 1 = 20 MP
+| Connect 3 / 2 = 20 MP
 
 | Magia name JP = 私なりの全力です
 | Magia name EN = 

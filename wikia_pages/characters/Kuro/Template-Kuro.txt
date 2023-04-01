@@ -147,8 +147,8 @@
 | Connect icon = Accele MP Gain Up
 | Connect effect 1 = Accele MP Gain Up
 | Connect 1 / 1 = II / 15%
-| Connect effect 2 = Attack Up
-| Connect 2 / 1 = II / 60%
+| Connect effect 2 = Attack Up to Akemi Homura (Megane ver.)
+| Connect 2 / 1 = 60%
 
 | Magia name JP = 黒の一閃
 | Magia name EN = 

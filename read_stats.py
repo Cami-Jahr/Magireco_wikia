@@ -366,7 +366,7 @@ def make_magia_doppel_and_connect(dic, cards):
 | Connect icon = {}
 """.format(connect_name, connect_icon)
     for i in range(len(all_connect_effects)):
-        connect_string += connect_effect_template.format(i + 1, all_connect_effects[i])
+        connect_string += connect_effect_template.format(i + 1, all_connect_effects[i][:-1])
         for j in range(1, len(connects) + 1):
             try:
                 word = connects[-j][all_connect_effects[i]]
@@ -394,7 +394,7 @@ def make_magia_doppel_and_connect(dic, cards):
 | Magia icon = {}
 """.format(magia_name, magia_icon)
     for i in range(len(all_megia_effects)):
-        magia_string += magia_effect_template.format(i + 1, all_megia_effects[i], magia_scalings[all_megia_effects[i]])
+        magia_string += magia_effect_template.format(i + 1, all_megia_effects[i][:-1], magia_scalings[all_megia_effects[i]])
         for j in range(1, len(magias) + 1):
             try:
                 word = magias[-j][all_megia_effects[i]]
@@ -434,7 +434,7 @@ def make_magia_doppel_and_connect(dic, cards):
                     final_value = f"{final_value:.1f}"
                 final_effect = effect.replace(effect_value[0], final_value)
         final_effect = turns + (" / " if turns and final_effect else "") + final_effect
-        doppel_string += doppel_effect_template.format(i, text, final_effect)
+        doppel_string += doppel_effect_template.format(i, text[:-1], final_effect)
 
     return connect_string + magia_string + doppel_string
 
@@ -482,7 +482,7 @@ def make_spirit_enchantment(cells):
             for effect in eng_effect:
                 if effect_output:
                     effect_output += " & "
-                effect_output += effect
+                effect_output += effect[:-1]
                 if eng_effect[effect][0]:
                     effect_output += f" [{eng_effect[effect][0]}]"
                 if eng_effect[effect][1]:

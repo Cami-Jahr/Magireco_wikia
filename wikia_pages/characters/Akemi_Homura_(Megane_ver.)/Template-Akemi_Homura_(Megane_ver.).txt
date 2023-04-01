@@ -150,7 +150,10 @@
 | Connect 1 / 2 = 
 | Connect effect 2 = Magia Damage Up
 | Connect 2 / 1 = -
-| Connect 2 / 2 = III / 7.5%
+| Connect 2 / 2 = III / 20%
+| Connect effect 3 = Magia Damage Up to Kaname Madoka, Miki Sayaka, Tomoe Mami and Sakura Kyouko
+| Connect 3 / 1 = -
+| Connect 3 / 2 = 7.5%
 
 | Magia name JP = 時間止めスペシャル
 | Magia name EN = 

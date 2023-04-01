@@ -187,7 +187,11 @@
 | Magia2 effect 2 = Attack Up
 | Magia2 2 = 30%
 | Magia2 effect 3 = Defense Up
-| Magia2 3 = 32.5%
-| Magia2 effect 4 = Barrier
-| Magia2 4 = Self / 5 Turns / 20000 damage
+| Magia2 3 = Allies / 5 Turns / 32.5%
+| Magia2 effect 4 = Attack Up
+| Magia2 4 = 30%
+| Magia2 effect 5 = Defense Up
+| Magia2 5 = 32.5%
+| Magia2 effect 6 = Barrier
+| Magia2 6 = Self / 5 Turns / 20000 damage
 }}

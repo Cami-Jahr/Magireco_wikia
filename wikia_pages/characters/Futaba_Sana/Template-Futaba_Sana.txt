@@ -155,11 +155,11 @@
 | Connect 2 / 2 = -
 | Connect 2 / 3 = -
 | Connect 2 / 4 = VI / 32.5%
-| Connect effect 3 = Defense Up
+| Connect effect 3 = Defense Up to Tamaki Iroha
 | Connect 3 / 1 = -
 | Connect 3 / 2 = -
 | Connect 3 / 3 = -
-| Connect 3 / 4 = VI / 40%
+| Connect 3 / 4 = 40%
 
 | Magia name JP = フォルターゲフェングニス
 | Magia name EN = 
@@ -190,6 +190,6 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、審問椅子
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Magia2 effect 1 = Random Damage Effect & Random Pattern<br/>'''Pattern 1:''' Damage All Enemies [880%] & Defense Up (Allies / 3 Turns / 73.8%) & Damage Cut (Allies / 3 Turns / 50%) & HP Restore (Allies / 28%) <br/>'''Pattern 2:''' Damage All Enemies [902%] & Chance to Burn (All Enemies / 3 Turns / 50%) & Chance to Darkness (All Enemies / 1 Turn / 47.5%) & Chance to Bind (All Enemies / 1 Turn / 50%)
+| Magia2 effect 1 = Random Damage Effect & Random Pattern<br/>'''Pattern 1:''' Damage All Enemies [880%] & Defense Up (Allies / 3 Turns / 73.8%) & Damage Cut (Allies / 3 Turns / 50%) & HP Restore (Allies / 28%) <br/>'''Pattern 2:''' Damage All Enemies [902%] & Chance to Burn (All Enemies / 3 Turns / 50%) & Chance to Darkness (All Enemies / 1 Turn / 47.5%) & Chance to Bind (All Enemies / 1 Turn / 50%
 | Magia2 1 = 
 }}

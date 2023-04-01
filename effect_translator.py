@@ -1,6 +1,10 @@
 import json
 import re
 
+from helpers import get_char_list
+
+girls = get_char_list()
+
 roman_to_full = {
     "Ⅰ": "I",
     "Ⅱ": "II",
@@ -475,6 +479,7 @@ def translate(shortDescription, arts, include_roman):
     art_ids = []
     first_effect = True
     for art in arts:
+        may_use_roman = True
         art_id = art["artId"]
         art_ids.append(art_id)
 
@@ -483,6 +488,8 @@ def translate(shortDescription, arts, include_roman):
         else:
             effect_code = None
         verb_code = art["verbCode"]
+        if effect_code == "DUMMY":
+            continue
 
         try:
             sub = master[verb_code]
@@ -508,13 +515,49 @@ def translate(shortDescription, arts, include_roman):
             if pro % 1 == 0:
                 pro = int(pro)
 
+            try:
+                target_id = art["targetId"]
+                target = target_tl[target_id]
+                # Differentiates between effects that target all allies or all enemies by whether they are beneficial
+                if target == 'All':
+                    if verb_code in ("CONDITION_GOOD", "BUFF", "IGNORE", "LIMITED_ENEMY_TYPE", "TURN_ALLY"
+                    ) or (verb_code == 'REVOKE' and effect_code in ("BAD", "DEBUFF")) or (
+                            verb_code == "HEAL" and effect_code in ("HP", "MP")):
+                        target = "Allies"
+                    else:
+                        target = "All Enemies"
+                elif effect_code == "PROTECT":
+                    target = "Self"
+                    no_states_target = False
+                    if target_id == "DYING":
+                        text = text.replace("Guardian", "Guardian on Allies with Critical Health")
+                elif verb_code in ("HEAL",) and target_id == "ONE":
+                    target = "Lowest HP Ally"
+
+            except KeyError as e:
+                target_id = "X"
+                target = ""
+
+            if "Defense Down" in text and (text + target_id[0]) in effects:
+                text = text.replace("Defense Down", "Defense Down Further")
+            if "limitedValue" in art:
+                limited_value = art["limitedValue"]
+                if limited_value != "0":
+                    target_chars = [girls[int(c)] for c in limited_value.split(",")]
+                    target_chars_string = ""
+                    if len(target_chars) > 1:
+                        target_chars_string = ", ".join(target_chars[:-1]) + " and "
+                    target_chars_string += target_chars[-1]
+                    text += " to " + target_chars_string
+                    may_use_roman = False
+
             if not val and not pro:
                 effect = ""
             else:
                 if pro and (val >= 100 or val == 0):
                     if effect_code in ("BARRIER",):
                         effect = val
-                    elif verb_code in ("DRAW",) or effect_code in ("GUTS", ):
+                    elif verb_code in ("DRAW",) or effect_code in ("GUTS",):
                         effect = ""
                     else:
                         effect = pro
@@ -527,7 +570,7 @@ def translate(shortDescription, arts, include_roman):
                 effect = ""
 
             if effect != "":
-                if (include_roman and uses_roman) or (not include_roman and uses_roman and first_effect):
+                if may_use_roman and ((include_roman and uses_roman) or (not include_roman and uses_roman and first_effect)):
                     try:
                         effect = f"{romans[idx]} / {effect}%"
                         idx += 1
@@ -566,27 +609,6 @@ def translate(shortDescription, arts, include_roman):
                 text = text.replace("Damage", "Attribute Strengthened Damage")
 
             try:
-                target_id = art["targetId"]
-                target = target_tl[target_id]
-                # Differentiates between effects that target all allies or all enemies by whether they are beneficial
-                if target == 'All':
-                    if verb_code in ("CONDITION_GOOD", "BUFF", "IGNORE", "LIMITED_ENEMY_TYPE", "TURN_ALLY"
-                    ) or (verb_code == 'REVOKE' and effect_code in ("BAD", "DEBUFF")) or (
-                            verb_code == "HEAL" and effect_code in ("HP", "MP")):
-                        target = "Allies"
-                    else:
-                        target = "All Enemies"
-                elif effect_code == "PROTECT":
-                    target = "Self"
-                    no_states_target = False
-                    if target_id == "DYING":
-                        text = text.replace("Guardian", "Guardian on Allies with Critical Health")
-                elif verb_code in ("HEAL",) and target_id == "ONE":
-                    target = "Lowest HP Ally"
-
-            except KeyError as e:
-                target = ""
-            try:
                 turns = art["enableTurn"]
                 if turns == 0:
                     turns = "∞"
@@ -595,22 +617,26 @@ def translate(shortDescription, arts, include_roman):
 
             # Move 1 down so thing w multiple effects only have 1 (target / X turns)?
             if turns and target and not no_states_target:  # enchant dont need target
-                ta = f"{target} / {turns} Turn{'s' if turns != 1 else ''}"
+                target_wording = f"{target} / {turns} Turn{'s' if turns != 1 else ''}"
             elif turns:
-                ta = f"{turns} Turn{'s' if turns != 1 else ''}"
+                target_wording = f"{turns} Turn{'s' if turns != 1 else ''}"
             elif target and (target != "Self" and not no_states_target) or verb_code in ("REVOKE",):
-                ta = str(target)
+                target_wording = str(target)
             else:
-                ta = ""
+                target_wording = ""
             try:
-                sc = round(art["growPoint"] / 10, 1)
+                percentage_growth = round(art["growPoint"] / 10, 1)
             except KeyError:
-                sc = 0
-            if sc % 1 == 0:
-                sc = int(sc)
-            if text == "Defense Down" and text in effects:
-                text = "Defense Down Further"
-            effects[text] = [effect, ta, f"{sc}%"]
+                percentage_growth = 0
+            if percentage_growth % 1 == 0:
+                percentage_growth = int(percentage_growth)
+
+            key = text + target_id[0]
+            if key in effects and text not in ("Negate Status Ailments", "Anti-Debuff"):
+                print(text, "\n\t", effects[key], "\n\t", [effect, target_wording, f"{percentage_growth}%"], "\n\t\t", arts)
+
+            # Should refactor this somehow to separate allied and enemy casts without using a target_id key
+            effects[key] = [effect, target_wording, f"{percentage_growth}%"]
         except KeyError as e:
             print("UNKNOWN effectCode =", art["effectCode"], shortDescription, art)
             raise e

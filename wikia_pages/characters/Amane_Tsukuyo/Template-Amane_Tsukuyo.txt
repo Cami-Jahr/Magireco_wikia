@@ -156,9 +156,9 @@
 | Connect effect 2 = Chance to Critical Hit
 | Connect 2 / 1 = VII / 60%
 | Connect 2 / 2 = IX / 70%
-| Connect effect 3 = Attack Up
-| Connect 3 / 1 = VII / 25%
-| Connect 3 / 2 = IX / 30%
+| Connect effect 3 = Attack Up to Amane Tsukasa
+| Connect 3 / 1 = 25%
+| Connect 3 / 2 = 30%
 
 | Magia name JP = 桜隠れ
 | Magia name EN = 

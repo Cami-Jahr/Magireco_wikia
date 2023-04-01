@@ -53,7 +53,10 @@ def check_incorrect_memos():
 
     # For easy filtering just input the keys you want to check
     keys = {
+        "effect1",
         "effect2",
+        "Cooldown",
+        "Cooldown2",
     }
 
     # use if you want to check all keys
@@ -83,7 +86,39 @@ def check_incorrect_chars():
 
     # For easy filtering just input the keys you want to check
     keys = {
-        "",
+        *["Passive NR effect".replace("NR", str(nr)) for nr in range(1, 20)],
+
+        "Active 1 effect",
+        "Active 1 cooldown",
+
+        *["EX effect NR".replace("NR", str(nr)) for nr in range(1, 5)],
+        *["EX NR min".replace("NR", str(nr)) for nr in range(1, 5)],
+        *["EX NR max".replace("NR", str(nr)) for nr in range(1, 5)],
+
+        *["Connect 1 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Connect 2 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Connect 3 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Connect 4 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Connect 5 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Connect 6 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Connect 7 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Connect 8 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Connect 9 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+
+        *["Magia effect NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Magia scaling NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Magia 1 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Magia 2 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Magia 3 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Magia 4 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Magia 5 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Magia 6 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Magia 7 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Magia 8 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Magia 9 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
+
+        *["Magia2 effect NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Magia2 NR".replace("NR", str(nr)) for nr in range(1, 6)],
     }
 
     # use if you want to check all keys

@@ -149,8 +149,11 @@
 | Connect 1 / 1 = VI / 42.5%
 | Connect 1 / 2 = VIII / 47.5%
 | Connect effect 2 = MP Restore
-| Connect 2 / 1 = VI / 5 MP
-| Connect 2 / 2 = VIII / 8 MP
+| Connect 2 / 1 = VI / 25 MP
+| Connect 2 / 2 = VIII / 30 MP
+| Connect effect 3 = MP Restore to Akemi Homura (Megane ver.)
+| Connect 3 / 1 = 5 MP
+| Connect 3 / 2 = 8 MP
 
 | Magia name JP = プルウィア☆マギカ
 | Magia name EN = 

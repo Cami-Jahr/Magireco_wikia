@@ -151,12 +151,12 @@
 | Connect 1 / 3 = V / 40%
 | Connect 1 / 4 = VII / 45%
 | Connect 1 / 5 = VIII / 47.5%
-| Connect effect 2 = MP Restore
+| Connect effect 2 = MP Restore to Nanami Yachiyo
 | Connect 2 / 1 = -
 | Connect 2 / 2 = -
 | Connect 2 / 3 = -
-| Connect 2 / 4 = VII / 30 MP
-| Connect 2 / 5 = VI / 30 MP
+| Connect 2 / 4 = 30 MP
+| Connect 2 / 5 = 30 MP
 | Connect effect 3 = Attack Up
 | Connect 3 / 1 = -
 | Connect 3 / 2 = -

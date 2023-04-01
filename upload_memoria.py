@@ -141,12 +141,12 @@ def read(piece, chars):
         for en_skill in description_eng:
             if en_full_description:
                 en_full_description += " & "
-            en_full_description += en_skill
+            en_full_description += en_skill[:-1]
             if description_eng[en_skill][0]:
                 en_full_description += f" [{description_eng[en_skill][0]}]"
             if description_eng[en_skill][1]:
                 en_full_description += f" ({description_eng[en_skill][1]})"
-            if en_skill == "CC Gain Up":
+            if en_skill[:-1] == "CC Gain Up":
                 en_full_description += " (Does Not Work on Supports)"
 
         skill_name_jp = piece[f"pieceSkill{i}"]["name"].strip()

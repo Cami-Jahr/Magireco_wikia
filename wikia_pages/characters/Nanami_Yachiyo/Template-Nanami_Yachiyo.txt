@@ -155,11 +155,11 @@
 | Connect 2 / 2 = V / 50%
 | Connect 2 / 3 = VII / 60%
 | Connect 2 / 4 = IX / 70%
-| Connect effect 3 = HP Restore
+| Connect effect 3 = HP Restore to Tamaki Iroha
 | Connect 3 / 1 = -
 | Connect 3 / 2 = -
 | Connect 3 / 3 = -
-| Connect 3 / 4 = IX / 25%
+| Connect 3 / 4 = 25%
 
 | Magia name JP = アブソリュート・レイン
 | Magia name EN = 
@@ -181,8 +181,14 @@
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
-| Magia 3 / 3 = Self / 3 Turns / 25%
+| Magia 3 / 3 = -
 | Magia 3 / 4 = Allies / 3 Turns / 30%
+| Magia effect 4 = Attack Up
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = -
+| Magia 4 / 2 = -
+| Magia 4 / 3 = Self / 3 Turns / 25%
+| Magia 4 / 4 = -
 
 | Doppel Name = 
 | Doppel Title = 

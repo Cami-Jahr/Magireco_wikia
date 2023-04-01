@@ -154,9 +154,9 @@
 | Connect effect 3 = MP Gain Up
 | Connect 3 / 1 = V / 20%
 | Connect 3 / 2 = VII / 25%
-| Connect effect 4 = MP Restore
-| Connect 4 / 1 = V / 30 MP
-| Connect 4 / 2 = VII / 30 MP
+| Connect effect 4 = MP Restore to Tamaki Iroha
+| Connect 4 / 1 = 30 MP
+| Connect 4 / 2 = 30 MP
 
 | Magia name JP = カラミタス・ガーラ
 | Magia name EN = 
@@ -196,7 +196,9 @@
 | Magia2 effect 3 = Remove Debuffs
 | Magia2 3 = 
 | Magia2 effect 4 = Remove Status Ailments
-| Magia2 4 = Allies
+| Magia2 4 = 
 | Magia2 effect 5 = MP Restore
-| Magia2 5 = 9 MP
+| Magia2 5 = Allies / 39 MP
+| Magia2 effect 6 = MP Restore
+| Magia2 6 = 9 MP
 }}
