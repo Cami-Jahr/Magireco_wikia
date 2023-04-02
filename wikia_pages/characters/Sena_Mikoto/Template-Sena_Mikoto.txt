@@ -177,8 +177,8 @@
 | Magia 4 / 2 = Self / 3 Turns / 0.1%
 | Magia effect 5 = MP Up When Damaged
 | Magia scaling 5 = -
-| Magia 5 / 1 = Self / 1 Turn / 13%
-| Magia 5 / 2 = Self / 1 Turn / 15%
+| Magia 5 / 1 = Self / 1 Turn / 13 MP
+| Magia 5 / 2 = Self / 1 Turn / 15 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -195,5 +195,5 @@
 | Magia2 effect 4 = Barrier
 | Magia2 4 = Allies / 3 Turns / 8000 damage
 | Magia2 effect 5 = MP Up When Damaged
-| Magia2 5 = Allies / 1 Turn / 15%
+| Magia2 5 = Allies / 1 Turn / 15 MP
 }}

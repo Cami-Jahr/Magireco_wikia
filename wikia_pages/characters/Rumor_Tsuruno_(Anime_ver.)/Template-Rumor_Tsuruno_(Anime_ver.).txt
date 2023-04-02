@@ -113,7 +113,7 @@
 | Passive 9 icon = MP Up When Damaged
 | Passive 9 name = Endor Adept [VI]
 | Passive 9 name JP = エンドア・アデプト[Ⅵ]
-| Passive 9 effect = MP Up When Damaged [VI / 6%]
+| Passive 9 effect = MP Up When Damaged [VI / 6 MP]
 
 | Passive 10 icon = Regenerate HP
 | Passive 10 name = Mana Spring Adept [V]

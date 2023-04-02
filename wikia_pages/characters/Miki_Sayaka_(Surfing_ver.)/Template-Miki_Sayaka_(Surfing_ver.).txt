@@ -108,7 +108,7 @@
 | Passive 8 icon = MP Up When Damaged
 | Passive 8 name = Endor Adept [V]
 | Passive 8 name JP = エンドア・アデプト[Ⅴ]
-| Passive 8 effect = MP Up When Damaged [V / 5%]
+| Passive 8 effect = MP Up When Damaged [V / 5 MP]
 
 | Passive 9 icon = Barrier
 | Passive 9 name = Barrier Aura
@@ -123,7 +123,7 @@
 | Passive 11 icon = MP Up When Damaged
 | Passive 11 name = Endor Adept [V]
 | Passive 11 name JP = エンドア・アデプト[Ⅴ]
-| Passive 11 effect = MP Up When Damaged [V / 5%]
+| Passive 11 effect = MP Up When Damaged [V / 5 MP]
 
 | Passive 12 icon = Charge Disc Damage Up
 | Passive 12 name = Technical Adept [II]

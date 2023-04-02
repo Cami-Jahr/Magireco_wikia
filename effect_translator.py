@@ -593,7 +593,7 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                 else:
                     effect = f"{effect}%"
 
-            if effect_code in ("MP", "MP_DAMAGE", "MP_PLUS_WEAKED", "MP_PLUS_BLAST"):
+            if effect_code in ("MP", "MP_DAMAGE", "MP_PLUS_WEAKED", "MP_PLUS_BLAST", "MP_PLUS_DAMAGED"):
                 if verb_code == "INITIAL":
                     effect = effect.replace("%", "% full")
                 else:

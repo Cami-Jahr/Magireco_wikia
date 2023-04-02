@@ -123,7 +123,7 @@
 | Passive 11 icon = MP Up When Damaged
 | Passive 11 name = Endor Adept [VI]
 | Passive 11 name JP = エンドア・アデプト[Ⅵ]
-| Passive 11 effect = MP Up When Damaged [VI / 6%]
+| Passive 11 effect = MP Up When Damaged [VI / 6 MP]
 
 | Passive 12 icon = Attack Up
 | Passive 12 name = Bloom Aura [V]

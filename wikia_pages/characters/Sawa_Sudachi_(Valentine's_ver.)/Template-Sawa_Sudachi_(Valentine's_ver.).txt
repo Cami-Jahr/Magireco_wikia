@@ -93,7 +93,7 @@
 | Passive 5 icon = MP Up When Damaged
 | Passive 5 name = Endor Adept [X]
 | Passive 5 name JP = エンドア・アデプト[Ⅹ]
-| Passive 5 effect = MP Up When Damaged [X / 10%]
+| Passive 5 effect = MP Up When Damaged [X / 10 MP]
 
 | Passive 6 icon = Light Attribute Damage Cut
 | Passive 6 name = Light Shield Adept [III]
@@ -174,8 +174,8 @@
 | Magia 4 / 2 = Self / 1 Turn / 100%
 | Magia effect 5 = MP Up When Damaged
 | Magia scaling 5 = -
-| Magia 5 / 1 = Self / 1 Turn / 8%
-| Magia 5 / 2 = Self / 1 Turn / 10%
+| Magia 5 / 1 = Self / 1 Turn / 8 MP
+| Magia 5 / 2 = Self / 1 Turn / 10 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -188,7 +188,7 @@
 | Magia2 effect 2 = Barrier
 | Magia2 2 = Allies / 5 Turns / 12000 damage
 | Magia2 effect 3 = MP Up When Damaged
-| Magia2 3 = Allies / 1 Turn / 10%
+| Magia2 3 = Allies / 1 Turn / 10 MP
 | Magia2 effect 4 = HP Restore
 | Magia2 4 = Allies / 38%
 | Magia2 effect 5 = Provoke

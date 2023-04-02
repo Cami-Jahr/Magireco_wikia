@@ -118,7 +118,7 @@
 | Passive 10 icon = MP Up When Damaged
 | Passive 10 name = Endor Adept [IV]
 | Passive 10 name JP = エンドア・アデプト[Ⅳ]
-| Passive 10 effect = MP Up When Damaged [IV / 4%]
+| Passive 10 effect = MP Up When Damaged [IV / 4 MP]
 
 | Passive 11 icon = Attack Up
 | Passive 11 name = Bloom Adept [II]

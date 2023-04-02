@@ -128,7 +128,7 @@
 | Passive 12 icon = MP Up When Damaged
 | Passive 12 name = Endor Adept [VII]
 | Passive 12 name JP = エンドア・アデプト[Ⅶ]
-| Passive 12 effect = MP Up When Damaged [VII / 7%]
+| Passive 12 effect = MP Up When Damaged [VII / 7 MP]
 
 | Passive 13 icon = 
 | Passive 13 name = 

@@ -98,7 +98,7 @@
 | Passive 6 icon = MP Up When Damaged
 | Passive 6 name = Endor Adept [V]
 | Passive 6 name JP = エンドア・アデプト[Ⅴ]
-| Passive 6 effect = MP Up When Damaged [V / 5%]
+| Passive 6 effect = MP Up When Damaged [V / 5 MP]
 
 | Passive 7 icon = Damage Cut
 | Passive 7 name = Shield Adept [II]

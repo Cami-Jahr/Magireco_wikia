@@ -98,7 +98,7 @@
 | Passive 6 icon = MP Up When Damaged
 | Passive 6 name = Endor Adept [IV]
 | Passive 6 name JP = エンドア・アデプト[Ⅳ]
-| Passive 6 effect = MP Up When Damaged [IV / 4%]
+| Passive 6 effect = MP Up When Damaged [IV / 4 MP]
 
 | Passive 7 icon = Curse on Attack
 | Passive 7 name = CurseEdge [III]
@@ -108,7 +108,7 @@
 | Passive 8 icon = MP Up When Damaged
 | Passive 8 name = Endor Adept [IV]
 | Passive 8 name JP = エンドア・アデプト[Ⅳ]
-| Passive 8 effect = MP Up When Damaged [IV / 4%]
+| Passive 8 effect = MP Up When Damaged [IV / 4 MP]
 
 | Passive 9 icon = Barrier
 | Passive 9 name = Barrier Aura

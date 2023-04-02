@@ -108,7 +108,7 @@
 | Passive 8 icon = MP Up When Damaged
 | Passive 8 name = Endor Adept [IV]
 | Passive 8 name JP = エンドア・アデプト[Ⅳ]
-| Passive 8 effect = MP Up When Damaged [IV / 4%]
+| Passive 8 effect = MP Up When Damaged [IV / 4 MP]
 
 | Passive 9 icon = MP Gauge Increased On Battle Start
 | Passive 9 name = Fast Mana Up
@@ -128,7 +128,7 @@
 | Passive 12 icon = MP Up When Damaged
 | Passive 12 name = Endor Adept [IV]
 | Passive 12 name JP = エンドア・アデプト[Ⅳ]
-| Passive 12 effect = MP Up When Damaged [IV / 4%]
+| Passive 12 effect = MP Up When Damaged [IV / 4 MP]
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -169,8 +169,8 @@
 | Magia 2 / 2 = Self / 1 Turn / 100%
 | Magia effect 3 = MP Up When Damaged
 | Magia scaling 3 = -
-| Magia 3 / 1 = Self / 1 Turn / 2%
-| Magia 3 / 2 = Self / 1 Turn / 3%
+| Magia 3 / 1 = Self / 1 Turn / 2 MP
+| Magia 3 / 2 = Self / 1 Turn / 3 MP
 | Magia effect 4 = Damage Cut
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Self / 1 Turn / 20%
@@ -189,7 +189,7 @@
 | Magia2 effect 3 = Provoke
 | Magia2 3 = Self / 1 Turn / 100%
 | Magia2 effect 4 = MP Up When Damaged
-| Magia2 4 = Self / 1 Turn / 7%
+| Magia2 4 = Self / 1 Turn / 7 MP
 | Magia2 effect 5 = Damage Cut
 | Magia2 5 = Self / 1 Turn / 50%
 }}
