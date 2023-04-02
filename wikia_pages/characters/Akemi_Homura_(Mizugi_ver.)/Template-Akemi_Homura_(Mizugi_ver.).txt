@@ -169,8 +169,8 @@
 | Magia 2 / 2 = Target / 1 Turn / 100%
 | Magia effect 3 = Endure
 | Magia scaling 3 = -
-| Magia 3 / 1 = Self / 1 Turn
-| Magia 3 / 2 = Self / 3 Turns
+| Magia 3 / 1 = Self / 1 Turn / 100%
+| Magia 3 / 2 = Self / 3 Turns / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -185,5 +185,5 @@
 | Magia2 effect 3 = Chance to Darkness
 | Magia2 3 = Target / 2 Turns / 100%
 | Magia2 effect 4 = Endure
-| Magia2 4 = Self / 3 Turns
+| Magia2 4 = Self / 3 Turns / 100%
 }}

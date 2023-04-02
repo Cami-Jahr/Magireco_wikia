@@ -323,7 +323,7 @@ def make_magia_doppel_and_connect(dic, cards):
                 arts.append(connect[f"art{i}"])
             except KeyError:
                 break
-        connect_effects, connect_icon = translate(connect["shortDescription"], arts, True, False)
+        connect_effects, connect_icon = translate(connect["shortDescription"], arts, True, True)
         for e in connect_effects:
             all_connect_effects[e] += 1
         connects.append(connect_effects)

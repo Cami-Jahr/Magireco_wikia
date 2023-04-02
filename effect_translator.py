@@ -567,21 +567,18 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                     effect = pro
                 else:
                     effect = val
-                if (verb_code == "IGNORE" and effect_code in ignore) or \
-                        (verb_code == "ENCHANT" and effect_code in enchant) or \
-                        (verb_code == "CONDITION_GOOD" and effect_code in CHANCE_SKILLS):
+                if verb_code in ("IGNORE", "ENCHANT") or (verb_code == "CONDITION_GOOD" and effect_code in CHANCE_SKILLS):
                     if pro < 100:
                         text = "Chance to " + text
                     else:
-                        if include_100_percent:
-                            effect = "100"
-                        else:
-                            effect = ""
+                        effect = ""
                         uses_roman = False
                 elif verb_code == "CONDITION_BAD" and effect_code in bad:
                     text = "Chance to " + text
                     if pro >= 100:
                         uses_roman = False
+            if include_100_percent and effect == "" and verb_code not in ("REVOKE",):
+                effect = "100"
 
             if effect != "":
                 if may_use_roman and ((include_roman and uses_roman) or (not include_roman and uses_roman and first_effect)):

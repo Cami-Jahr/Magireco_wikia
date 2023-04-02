@@ -187,8 +187,8 @@
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
-| Magia 4 / 3 = Self / 1 Turn
-| Magia 4 / 4 = Self / 1 Turn
+| Magia 4 / 3 = Self / 1 Turn / 100%
+| Magia 4 / 4 = Self / 1 Turn / 100%
 | Magia effect 5 = Damage Cut
 | Magia scaling 5 = 2.5%
 | Magia 5 / 1 = -
@@ -211,5 +211,5 @@
 | Magia2 effect 4 = Provoke
 | Magia2 4 = Self / 3 Turns / 100%
 | Magia2 effect 5 = Endure
-| Magia2 5 = Self / 3 Turns
+| Magia2 5 = Self / 3 Turns / 100%
 }}
