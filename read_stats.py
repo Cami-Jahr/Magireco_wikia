@@ -8,7 +8,9 @@ from effect_translator import (
     roman_to_full,
     translate,
     translate_jap_to_eng,
-    translate_roman_to_ascii)
+    translate_roman_to_ascii,
+    chance_to
+)
 from helpers import get_char_list
 
 textS = """{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
@@ -367,7 +369,14 @@ def make_magia_doppel_and_connect(dic, cards):
 | Connect icon = {}
 """.format(connect_name, connect_icon)
     for i in range(len(all_connect_effects)):
-        connect_string += connect_effect_template.format(i + 1, all_connect_effects[i][:-1])
+        effect_name = all_connect_effects[i][:-1]
+        effect_percent = connects[0][all_connect_effects[i]][0]
+        if not effect_percent:
+            effect_percent = '100%'
+            effect_name = chance_to(effect_name, 100, False)
+        elif i > 1:
+            effect_name = chance_to(effect_name, float(effect_percent.split('%')[0][:-1]), False)
+        connect_string += connect_effect_template.format(i + 1, effect_name)
         for j in range(1, len(connects) + 1):
             try:
                 word = connects[-j][all_connect_effects[i]]
@@ -399,7 +408,14 @@ def make_magia_doppel_and_connect(dic, cards):
 
     combine_similar_effects(all_megia_effects, magias, magia_scalings)
     for i in range(len(all_megia_effects)):
-        magia_string += magia_effect_template.format(i + 1, all_megia_effects[i][:-1], magia_scalings[all_megia_effects[i]])
+        effect_name = all_megia_effects[i][:-1]
+        effect_percent = magias[0][all_megia_effects[i]][0]
+        if not effect_percent:
+            effect_percent = '100%'
+            effect_name = chance_to(effect_name, 100, False)
+        elif i > 1:
+            effect_name = chance_to(effect_name, float(effect_percent.split('%')[0][:-1]), False)
+        magia_string += magia_effect_template.format(i + 1, effect_name, magia_scalings[all_megia_effects[i]])
         for j in range(1, len(magias) + 1):
             try:
                 word = magias[-j][all_megia_effects[i]]
@@ -413,6 +429,8 @@ def make_magia_doppel_and_connect(dic, cards):
                 st = "-"
             except IndexError:
                 break
+            if st[-2] == '/':
+                st += effect_percent
             magia_string += magia_item_template.format(i + 1, j, st)
 
     doppel_effect_template = """| Magia2 effect {0} = {1}
@@ -430,6 +448,13 @@ def make_magia_doppel_and_connect(dic, cards):
     for text, [effect, target_and_turns, scaling] in all_doppel_effects.items():
         i += 1
         effect_value = re.findall(r"[0-9.]+", effect)
+        if i > 1:
+            if effect_value:
+                text = chance_to(text, float(effect_value[0]))
+            else:
+                text = chance_to(text, 100)
+                if "Chance" in text:
+                    effect = "100%"
         final_effect = effect
         if effect_value:
             scaling_value = re.findall(r"[0-9.]+", scaling)
@@ -446,7 +471,7 @@ def make_magia_doppel_and_connect(dic, cards):
     return connect_string + magia_string + doppel_string
 
 
-def make_spirit_enchantment(cells):
+def make_spirit_enchantment(cells: list[dict]):
     active_output = passive_output = ""
     accele_bonus = blast_bonus = charge_bonus = attack_bonus = defence_bonus = hp_bonus = 0
     passive_amount = active_amount = 1

@@ -435,6 +435,10 @@ jp_to_en = {
     "ウェポン": "Weapon",
 }
 
+STATUS_AILMENTS = {"Poison", "Burn", "Curse", "Charm", "Stun", "Bind", "Fog", "Darkness", "Dazzle",
+                   "Skill Seal", "Magia Seal", "Frailty", "HP Restore Seal", "MP Restore Seal"}
+CHANCE_SKILLS = {"Evade", "Counter", "Critical Hit", "Ignore Damage Cut", "Defense Pierce"}
+
 with open("existing_translations.json", "r", encoding="utf-8") as f:
     existing_translations = [(w[0], w[1]) for w in json.load(f).items()]
     existing_translations.sort(reverse=True, key=lambda w: len(w[0]))
@@ -458,7 +462,7 @@ target_tl = {
 }
 
 
-def translate(shortDescription, arts, include_roman):
+def translate(shortDescription: str, arts: list[dict], include_roman: bool):
     romans = [roman_to_full[i] for i in re.findall(r"""\[(.*?)]""", shortDescription)]
     effects = {}
     icon = ""
@@ -556,7 +560,7 @@ def translate(shortDescription, arts, include_roman):
                     effect = pro
                 else:
                     effect = val
-            if effect == 100 and "Chance to " in text:
+            if effect == 100 and "Chance to " in text and verb_code not in bad and verb_code not in enchant:
                 text = text.replace("Chance to ", "")
                 effect = ""
 
@@ -585,6 +589,9 @@ def translate(shortDescription, arts, include_roman):
                 effect = effect.replace("%", "% HP")
             if text == "Damage Up" and "状態" in shortDescription:
                 text = "Damage Increase"
+
+            if effect_code == "SURVIVE":
+                effect = effect.replace("%", "% HP")
 
             if effect_code in ("COUNTER",) and val > 100:
                 text = "Strengthened Counter"
@@ -647,3 +654,11 @@ def remove_repeated_target(effects):
         if current_turn_counter == prev_turn_counter:
             effects[key][1] = ""
         prev_turn_counter = current_turn_counter
+
+
+def chance_to(effect: str, chance: int | float, target_id=True):
+    if target_id:
+        effect = effect[:-1]
+    if effect.split()[0] in STATUS_AILMENTS or (chance < 100 and ("Anti-" in effect or effect in CHANCE_SKILLS)):
+        return f"Chance to {effect}"
+    return effect
