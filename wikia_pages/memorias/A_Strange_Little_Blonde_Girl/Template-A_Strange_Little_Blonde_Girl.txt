@@ -17,7 +17,7 @@
 | max_ATK = 1820
 | max_DEF = 0
 
-| image = Chance to Curse on Attack
+| image = Curse on Attack
 | effect_name = Vampire Nail 
 | effect_name_JP = ヴァンパイア・ネイル
 | effect1 = Chance to Curse on Attack [II / 15%] (1 Turn) & Damage Increase [II / 10%] & Regenerate HP [II / 3%]

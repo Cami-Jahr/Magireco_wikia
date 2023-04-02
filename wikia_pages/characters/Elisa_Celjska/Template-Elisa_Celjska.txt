@@ -110,12 +110,12 @@
 | Passive 8 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 8 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 9 icon = Chance to Chase
+| Passive 9 icon = Chase
 | Passive 9 name = Chase Adept [VI]
 | Passive 9 name JP = チェイス・アデプト[Ⅵ]
 | Passive 9 effect = Chance to Chase [VI / 20%]
 
-| Passive 10 icon = Chance to Evade
+| Passive 10 icon = Evade
 | Passive 10 name = Parry Adept [II]
 | Passive 10 name JP = パリィ・アデプト[Ⅱ]
 | Passive 10 effect = Chance to Evade [II / 15%]
@@ -125,7 +125,7 @@
 | Passive 11 name JP = ファスト・マナアップ
 | Passive 11 effect = MP Gauge Increased On Battle Start [15% full]
 
-| Passive 12 icon = Chance to Burn on Attack
+| Passive 12 icon = Burn on Attack
 | Passive 12 name = Burn Edge [III]
 | Passive 12 name JP = バーン・エッジ[Ⅲ]
 | Passive 12 effect = Chance to Burn on Attack [III / 20%] (2 Turns)
@@ -144,7 +144,7 @@
 | Connect name JP = 主役を譲って差し上げますわ
 | Connect name EN = 
 | Connect name NA = 
-| Connect icon = Chance to Defense Pierce
+| Connect icon = Defense Pierce
 | Connect effect 1 = Defense Pierce
 | Connect 1 / 1 = 
 | Connect 1 / 2 = 
@@ -166,10 +166,10 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
-| Magia effect 2 = Burn
+| Magia effect 2 = Chance to Burn
 | Magia scaling 2 = -
-| Magia 2 / 1 = Target / 3 Turns
-| Magia 2 / 2 = Target / 3 Turns
+| Magia 2 / 1 = Target / 3 Turns / 100%
+| Magia 2 / 2 = Target / 3 Turns / 100%
 | Magia effect 3 = Attack Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Self / 1 Turn / 10%
@@ -191,8 +191,8 @@
 | Doppel Japanese Designer = 原案・監修：枡狐/蛙空
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = IX / 2763.2%
-| Magia2 effect 2 = Burn
-| Magia2 2 = Target / 3 Turns
+| Magia2 effect 2 = Chance to Burn
+| Magia2 2 = Target / 3 Turns / 100%
 | Magia2 effect 3 = Attack Up
 | Magia2 3 = Self / 3 Turns / 20%
 | Magia2 effect 4 = Defense Up

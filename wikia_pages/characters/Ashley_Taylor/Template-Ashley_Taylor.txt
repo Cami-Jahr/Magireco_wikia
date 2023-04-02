@@ -95,12 +95,12 @@
 | Passive 5 name JP = アンチ・デバフ
 | Passive 5 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
 
-| Passive 6 icon = Chance to Evade
+| Passive 6 icon = Evade
 | Passive 6 name = Parry Adept [II]
 | Passive 6 name JP = パリィ・アデプト[Ⅱ]
 | Passive 6 effect = Chance to Evade [II / 15%]
 
-| Passive 7 icon = Chance to Anti-Evade
+| Passive 7 icon = Anti-Evade
 | Passive 7 name = Aiming Adept [III]
 | Passive 7 name JP = エイミング・アデプト[Ⅲ]
 | Passive 7 effect = Chance to Anti-Evade [III / 35%]
@@ -115,7 +115,7 @@
 | Passive 9 name JP = アンチ・デバフ
 | Passive 9 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
 
-| Passive 10 icon = Chance to Critical Hit
+| Passive 10 icon = Critical Hit
 | Passive 10 name = Critical Adept [II]
 | Passive 10 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 10 effect = Chance to Critical Hit [II / 15%]
@@ -125,7 +125,7 @@
 | Passive 11 name JP = ブラストシールドオーラ[Ⅶ]
 | Passive 11 effect = Blast Damage Up [VII / 40%] & Damage Cut [III / 15%] (Self / 5 Turns)
 
-| Passive 12 icon = Chance to Anti-Bind
+| Passive 12 icon = Anti-Bind
 | Passive 12 name = Anti-Bind
 | Passive 12 name JP = アンチ・バインド
 | Passive 12 effect = Anti-Bind
@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Anti-Provoke
+| Active 1 icon = Anti-Provoke
 | Active 1 name = Hawkeye
 | Active 1 name JP = ホークアイ
 | Active 1 effect = Anti-Provoke & Anti-Evade (Self / 1 Turn)
@@ -163,18 +163,18 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 350%
 | Magia 1 / 2 = VIII / 370%
-| Magia effect 2 = Charm
+| Magia effect 2 = Chance to Charm
 | Magia scaling 2 = -
-| Magia 2 / 1 = All Enemies / 1 Turn
-| Magia 2 / 2 = All Enemies / 1 Turn
+| Magia 2 / 1 = All Enemies / 1 Turn / 100%
+| Magia 2 / 2 = All Enemies / 1 Turn / 100%
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Self / 3 Turns / 40%
 | Magia 3 / 2 = Self / 3 Turns / 50%
 | Magia effect 4 = Ignore Damage Cut
 | Magia scaling 4 = -
-| Magia 4 / 1 = Self / 3 Turns / 100%
-| Magia 4 / 2 = Self / 3 Turns / 100%
+| Magia 4 / 1 = Self / 3 Turns
+| Magia 4 / 2 = Self / 3 Turns
 
 | Doppel Name = 
 | Doppel Title = 
@@ -184,12 +184,12 @@
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = X / 924%
-| Magia2 effect 2 = Charm
-| Magia2 2 = All Enemies / 1 Turn
+| Magia2 effect 2 = Chance to Charm
+| Magia2 2 = All Enemies / 1 Turn / 100%
 | Magia2 effect 3 = Blast Damage Up
 | Magia2 3 = Allies / 5 Turns / 65%
 | Magia2 effect 4 = Ignore Damage Cut
-| Magia2 4 = Self / 5 Turns / 100%
+| Magia2 4 = Self / 5 Turns
 | Magia2 effect 5 = Blast MP Gain Up
 | Magia2 5 = Self / 3 Turns / 5 MP
 }}

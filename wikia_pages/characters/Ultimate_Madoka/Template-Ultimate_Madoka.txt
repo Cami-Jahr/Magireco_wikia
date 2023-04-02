@@ -100,7 +100,7 @@
 | Passive 6 name JP = マギア・アデプト[Ⅱ]
 | Passive 6 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 7 icon = Chance to Critical Hit
+| Passive 7 icon = Critical Hit
 | Passive 7 name = Critical Adept [II]
 | Passive 7 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 7 effect = Chance to Critical Hit [II / 15%]
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 100%
 | Connect 2 / 2 = IX / 100%
 | Connect effect 3 = Survive
-| Connect 3 / 1 = VII / 20%
-| Connect 3 / 2 = IX / 20%
+| Connect 3 / 1 = VII / 20% HP
+| Connect 3 / 2 = IX / 20% HP
 | Connect effect 4 = Remove Status Ailments
 | Connect 4 / 1 = 
 | Connect 4 / 2 = 

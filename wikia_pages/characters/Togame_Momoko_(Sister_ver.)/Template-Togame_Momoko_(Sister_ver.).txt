@@ -110,12 +110,12 @@
 | Passive 8 name JP = MPブースト[Ⅱ]
 | Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 9 icon = Chance to Anti-Evade
+| Passive 9 icon = Anti-Evade
 | Passive 9 name = Aiming Adept [III]
 | Passive 9 name JP = エイミング・アデプト[Ⅲ]
 | Passive 9 effect = Chance to Anti-Evade [III / 35%]
 
-| Passive 10 icon = Chance to Critical Hit
+| Passive 10 icon = Critical Hit
 | Passive 10 name = Critical Adept [II]
 | Passive 10 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 10 effect = Chance to Critical Hit [II / 15%]

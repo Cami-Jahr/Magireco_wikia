@@ -17,7 +17,7 @@
 | max_ATK = 1908
 | max_DEF = 0
 
-| image = Chance to Anti-Poison
+| image = Anti-Poison
 | effect_name = Venom Artisan 
 | effect_name_JP = ヴェノム・アーチザン
 | effect1 = Anti-Poison & Damage Up Versus Enemies Affected With Status Ailments [IV / 32.5%] (Self / 1 Turn)

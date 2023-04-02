@@ -125,7 +125,7 @@
 | Passive 11 name JP = レジスト・アデプト[Ⅰ]
 | Passive 11 effect = Status Ailment Resistance Up [I / 20%]
 
-| Passive 12 icon = Chance to Anti-Skill Seal
+| Passive 12 icon = Anti-Skill Seal
 | Passive 12 name = Anti-Jammer
 | Passive 12 name JP = アンチ・ジャマ―
 | Passive 12 effect = Anti-Skill Seal
@@ -176,7 +176,7 @@
 | Magia 1 / 4 = IV / 330%
 | Magia 1 / 5 = VI / 350%
 | Magia effect 2 = Revive one Ally
-| Magia scaling 2 = 1%
+| Magia scaling 2 = 1% HP
 | Magia 2 / 1 = Random Ally / 20% HP
 | Magia 2 / 2 = Random Ally / 20% HP
 | Magia 2 / 3 = Random Ally / 25% HP

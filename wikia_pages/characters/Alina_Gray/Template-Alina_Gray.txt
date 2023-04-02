@@ -95,12 +95,12 @@
 | Passive 5 name JP = アクセル・アデプト[Ⅲ]
 | Passive 5 effect = Accele MP Gain Up [III / 15%]
 
-| Passive 6 icon = Chance to Critical Hit
+| Passive 6 icon = Critical Hit
 | Passive 6 name = Critical Adept [II]
 | Passive 6 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 6 effect = Chance to Critical Hit [II / 15%]
 
-| Passive 7 icon = Chance to Evade
+| Passive 7 icon = Evade
 | Passive 7 name = Parry Adept [II]
 | Passive 7 name JP = パリィ・アデプト[Ⅱ]
 | Passive 7 effect = Chance to Evade [II / 15%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = マギア・アデプト[Ⅱ]
 | Passive 8 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 9 icon = Chance to Anti-Evade
+| Passive 9 icon = Anti-Evade
 | Passive 9 name = Aiming Adept [III]
 | Passive 9 name JP = エイミング・アデプト[Ⅲ]
 | Passive 9 effect = Chance to Anti-Evade [III / 35%]
@@ -120,7 +120,7 @@
 | Passive 10 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 10 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 11 icon = Chance to Poison on Attack
+| Passive 11 icon = Poison on Attack
 | Passive 11 name = Poison Edge [II]
 | Passive 11 name JP = ポイズン・エッジ[Ⅱ]
 | Passive 11 effect = Chance to Poison on Attack [II / 15%] (3 Turns)
@@ -135,10 +135,10 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Poison
+| Active 1 icon = Poison
 | Active 1 name = Venom
 | Active 1 name JP = ヴェノム
-| Active 1 effect = Poison (Target / 1 Turn)
+| Active 1 effect = Chance to Poison [100%] (Target / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = アリナの作品に溶けて
@@ -183,8 +183,8 @@
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
-| Magia2 effect 2 = Poison
-| Magia2 2 = All Enemies / 3 Turns
+| Magia2 effect 2 = Chance to Poison
+| Magia2 2 = All Enemies / 3 Turns / 100%
 | Magia2 effect 3 = Attack Up
 | Magia2 3 = Self / 2 Turns / 55%
 | Magia2 effect 4 = Critical Hit

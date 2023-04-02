@@ -75,7 +75,7 @@
 | Passive 1 name JP = MPブースト[Ⅱ]
 | Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 2 icon = Chance to Stun on Attack
+| Passive 2 icon = Stun on Attack
 | Passive 2 name = Stun Edge [IV]
 | Passive 2 name JP = スタン・エッジ[Ⅳ]
 | Passive 2 effect = Chance to Stun on Attack [IV / 25%] (1 Turn)
@@ -110,7 +110,7 @@
 | Passive 8 name JP = MPブースト[Ⅱ]
 | Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 9 icon = Chance to Anti-Skill Seal
+| Passive 9 icon = Anti-Skill Seal
 | Passive 9 name = Anti-Jammer
 | Passive 9 name JP = アンチ・ジャマ―
 | Passive 9 effect = Anti-Skill Seal

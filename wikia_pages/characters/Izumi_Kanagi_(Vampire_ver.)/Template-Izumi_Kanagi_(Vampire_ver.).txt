@@ -95,7 +95,7 @@
 | Passive 5 name JP = リジェネレイト・アデプト[Ⅴ]
 | Passive 5 effect = Regenerate HP [V / 6%]
 
-| Passive 6 icon = Chance to Anti-Counter
+| Passive 6 icon = Anti-Counter
 | Passive 6 name = Anti-Counter [V]
 | Passive 6 name JP = アンチ・カウンター[Ⅴ]
 | Passive 6 effect = Chance to Anti-Counter [V / 45%]
@@ -105,12 +105,12 @@
 | Passive 7 name JP = フルゲージドライブ[Ⅵ]
 | Passive 7 effect = Attack Up While At Max Health [VI / 30%]
 
-| Passive 8 icon = Chance to Evade
+| Passive 8 icon = Evade
 | Passive 8 name = Parry Adept [III]
 | Passive 8 name JP = パリィ・アデプト[Ⅲ]
 | Passive 8 effect = Chance to Evade [III / 20%]
 
-| Passive 9 icon = Chance to Evade
+| Passive 9 icon = Evade
 | Passive 9 name = Parry Aura [IX]
 | Passive 9 name JP = パリィオーラ[Ⅸ]
 | Passive 9 effect = Chance to Evade [IX / 50%] (Self / 5 Turns)
@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Evade
+| Active 1 icon = Evade
 | Active 1 name = Parry Mana Charge [II]
 | Active 1 name JP = パリィマナチャージ[Ⅱ]
 | Active 1 effect = Evade (Self / 1 Turn) & MP Restore [II / 18 MP]

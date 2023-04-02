@@ -105,7 +105,7 @@
 | Passive 7 name JP = アクセル・アデプト[Ⅲ]
 | Passive 7 effect = Accele MP Gain Up [III / 15%]
 
-| Passive 8 icon = Chance to Guardian
+| Passive 8 icon = Guardian
 | Passive 8 name = Covering Adept [II]
 | Passive 8 name JP = カバーリング・アデプト[Ⅱ]
 | Passive 8 effect = Chance to Guardian [II / 15%]
@@ -130,7 +130,7 @@
 | Passive 12 name JP = モラール・アデプト[Ⅲ]
 | Passive 12 effect = MP Gain Up [III / 10%]
 
-| Passive 13 icon = Chance to Defense Pierce
+| Passive 13 icon = Defense Pierce
 | Passive 13 name = Penetrate Adept [II]
 | Passive 13 name JP = ペネトレイト・アデプト[Ⅱ]
 | Passive 13 effect = Chance to Defense Pierce [II / 15%]
@@ -143,7 +143,7 @@
 | Active 1 icon = Ignore Damage Cut
 | Active 1 name = Estock
 | Active 1 name JP = エストック
-| Active 1 effect = Ignore Damage Cut [100%] (Self / 1 Turn)
+| Active 1 effect = Ignore Damage Cut (Self / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = おせっかいで何がわるい！

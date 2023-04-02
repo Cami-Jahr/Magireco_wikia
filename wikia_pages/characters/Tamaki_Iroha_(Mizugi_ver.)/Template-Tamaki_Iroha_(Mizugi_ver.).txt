@@ -90,7 +90,7 @@
 | Passive 4 name JP = ドッペル・アデプト[Ⅱ]
 | Passive 4 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = Chance to Fog on Attack
+| Passive 5 icon = Fog on Attack
 | Passive 5 name = Fog Edge [II]
 | Passive 5 name JP = フォッグ・エッジ[Ⅱ]
 | Passive 5 effect = Chance to Fog on Attack [II / 15%] (3 Turns)
@@ -105,7 +105,7 @@
 | Passive 7 name JP = アクセル・アデプト[Ⅱ]
 | Passive 7 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 8 icon = Chance to Skill Quicken
+| Passive 8 icon = Skill Quicken
 | Passive 8 name = Skill Quick [III]
 | Passive 8 name JP = スキルクイック[Ⅲ]
 | Passive 8 effect = Chance to Skill Quicken [III / 15%]

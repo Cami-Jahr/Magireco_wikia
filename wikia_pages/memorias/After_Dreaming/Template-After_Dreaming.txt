@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1150
 
-| image = Chance to Provoke
+| image = Provoke
 | effect_name = アピールRegeneration 
 | effect_name_JP = アピールリジェネレイト
 | effect1 = Provoke & Regenerate HP [VII / 8%] (Self / 1 Turn)

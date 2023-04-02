@@ -95,7 +95,7 @@
 | Passive 5 name JP = ブラストサルテーション[Ⅱ]
 | Passive 5 effect = Blast MP Gain Up [II / 2 MP]
 
-| Passive 6 icon = Chance to Anti-Evade
+| Passive 6 icon = Anti-Evade
 | Passive 6 name = Aiming Adept [III]
 | Passive 6 name JP = エイミング・アデプト[Ⅲ]
 | Passive 6 effect = Chance to Anti-Evade [III / 35%]
@@ -168,7 +168,7 @@
 | Magia 2 / 1 = Self / 2 Turns / 2 MP
 | Magia 2 / 2 = Self / 2 Turns / 3 MP
 | Magia effect 3 = MP Restore
-| Magia scaling 3 = 1%
+| Magia scaling 3 = 1 MP
 | Magia 3 / 1 = 18 MP
 | Magia 3 / 2 = 25 MP
 

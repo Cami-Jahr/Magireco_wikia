@@ -85,7 +85,7 @@
 | Passive 3 name JP = ドッペル・アデプト[Ⅳ]
 | Passive 3 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
 
-| Passive 4 icon = Chance to Anti-Evade
+| Passive 4 icon = Anti-Evade
 | Passive 4 name = Aiming Adept [III]
 | Passive 4 name JP = エイミング・アデプト[Ⅲ]
 | Passive 4 effect = Chance to Anti-Evade [III / 35%]
@@ -105,12 +105,12 @@
 | Passive 7 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 7 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 8 icon = Chance to Evade
+| Passive 8 icon = Evade
 | Passive 8 name = Parry Adept [II]
 | Passive 8 name JP = パリィ・アデプト[Ⅱ]
 | Passive 8 effect = Chance to Evade [II / 15%]
 
-| Passive 9 icon = Chance to Defense Pierce
+| Passive 9 icon = Defense Pierce
 | Passive 9 name = Penetrate Adept [II]
 | Passive 9 name JP = ペネトレイト・アデプト[Ⅱ]
 | Passive 9 effect = Chance to Defense Pierce [II / 15%]
@@ -120,7 +120,7 @@
 | Passive 10 name JP = チャージ・アデプト[Ⅱ]
 | Passive 10 effect = Charged Attack Damage Up [II / 10%]
 
-| Passive 11 icon = Chance to Critical Hit
+| Passive 11 icon = Critical Hit
 | Passive 11 name = Critical Adept [II]
 | Passive 11 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Critical Hit [II / 15%]
@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Critical Hit
+| Active 1 icon = Critical Hit
 | Active 1 name = Critical Force [VI]
 | Active 1 name JP = クリティカル・フォース[Ⅵ]
 | Active 1 effect = Chance to Critical Hit [VI / 35%] (Self / 3 Turns)
@@ -144,7 +144,7 @@
 | Connect name JP = もう終わらせようよ
 | Connect name EN = 
 | Connect name NA = 
-| Connect icon = Chance to Critical Hit
+| Connect icon = Critical Hit
 | Connect effect 1 = Chance to Critical Hit
 | Connect 1 / 1 = X / 75%
 | Connect 1 / 2 = XII / 85%

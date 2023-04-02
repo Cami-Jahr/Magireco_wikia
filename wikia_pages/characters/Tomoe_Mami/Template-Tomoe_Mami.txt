@@ -95,7 +95,7 @@
 | Passive 5 name JP = マギア・アデプト[Ⅱ]
 | Passive 5 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 6 icon = Chance to Evade
+| Passive 6 icon = Evade
 | Passive 6 name = Parry Adept [II]
 | Passive 6 name JP = パリィ・アデプト[Ⅱ]
 | Passive 6 effect = Chance to Evade [II / 15%]
@@ -115,12 +115,12 @@
 | Passive 9 name JP = テクニカル・アデプト[Ⅲ]
 | Passive 9 effect = Charge Disc Damage Up [III / 15%]
 
-| Passive 10 icon = Chance to Skill Seal on Attack
+| Passive 10 icon = Skill Seal on Attack
 | Passive 10 name = Jammer Edge [III]
 | Passive 10 name JP = ジャマ―・エッジ[Ⅲ]
 | Passive 10 effect = Chance to Skill Seal on Attack [III / 20%] (1 Turn)
 
-| Passive 11 icon = Chance to Anti-Skill Seal
+| Passive 11 icon = Anti-Skill Seal
 | Passive 11 name = Anti-Jammer [X]
 | Passive 11 name JP = アンチ・ジャマ―[Ⅹ]
 | Passive 11 effect = Chance to Anti-Skill Seal [X / 70%]
@@ -135,10 +135,10 @@
 | Passive 13 name JP = アクセル・アデプト[Ⅲ]
 | Passive 13 effect = Accele MP Gain Up [III / 15%]
 
-| Active 1 icon = Chance to Bind
+| Active 1 icon = Bind
 | Active 1 name = Bind [III]
 | Active 1 name JP = バインド[Ⅲ]
-| Active 1 effect = Bind (Target / 1 Turn)
+| Active 1 effect = Chance to Bind [100%] (Target / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = ティロ・デュエット！

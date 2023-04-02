@@ -90,7 +90,7 @@
 | Passive 4 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = Chance to Skill Quicken
+| Passive 5 icon = Skill Quicken
 | Passive 5 name = Skill Quick [III]
 | Passive 5 name JP = スキルクイック[Ⅲ]
 | Passive 5 effect = Chance to Skill Quicken [III / 15%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = バリアオーラ
 | Passive 8 effect = Barrier [5000 damage]
 
-| Passive 9 icon = Chance to Critical Hit
+| Passive 9 icon = Critical Hit
 | Passive 9 name = Critical Adept [II]
 | Passive 9 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 9 effect = Chance to Critical Hit [II / 15%]
@@ -120,7 +120,7 @@
 | Passive 10 name JP = マナスプリング・アデプト[Ⅴ]
 | Passive 10 effect = Regenerate MP [V / 9 MP]
 
-| Passive 11 icon = Chance to Anti-Curse
+| Passive 11 icon = Anti-Curse
 | Passive 11 name = Anti Curse
 | Passive 11 name JP = アンチ・カース
 | Passive 11 effect = Anti-Curse

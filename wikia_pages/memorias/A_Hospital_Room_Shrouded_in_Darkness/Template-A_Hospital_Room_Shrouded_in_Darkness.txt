@@ -17,7 +17,7 @@
 | max_ATK = 1070
 | max_DEF = 0
 
-| image = Chance to Anti-Bind
+| image = Anti-Bind
 | effect_name = Escape Artist
 | effect_name_JP = エスケープアーティスト
 | effect1 = Anti-Bind & Endure & Chance to Anti-Burn [VIII / 60%]

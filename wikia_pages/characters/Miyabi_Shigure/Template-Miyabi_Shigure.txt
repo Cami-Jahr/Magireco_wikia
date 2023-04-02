@@ -105,12 +105,12 @@
 | Passive 7 name JP = アクセル・アデプト[Ⅲ]
 | Passive 7 effect = Accele MP Gain Up [III / 15%]
 
-| Passive 8 icon = Chance to Darkness on Attack
+| Passive 8 icon = Darkness on Attack
 | Passive 8 name = Darkness Edge [II]
 | Passive 8 name JP = ダークネス・エッジ[Ⅱ]
 | Passive 8 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)
 
-| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 icon = Skill Quicken
 | Passive 9 name = Skill Quick [III]
 | Passive 9 name JP = スキルクイック[Ⅲ]
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
@@ -120,7 +120,7 @@
 | Passive 10 name JP = マギア・アデプト[Ⅲ]
 | Passive 10 effect = Magia Damage Up [III / 10%]
 
-| Passive 11 icon = Chance to Critical Hit
+| Passive 11 icon = Critical Hit
 | Passive 11 name = Critical Adept [II]
 | Passive 11 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Critical Hit [II / 15%]

@@ -80,7 +80,7 @@
 | Passive 2 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = Chance to Provoke
+| Passive 3 icon = Provoke
 | Passive 3 name = Provoke Adept [II]
 | Passive 3 name JP = プロヴォーク・アデプト[Ⅱ]
 | Passive 3 effect = Chance to Provoke [II / 15%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = フォティチュード・アデプト
 | Passive 8 effect = Endure
 
-| Passive 9 icon = Chance to Skill Seal on Attack
+| Passive 9 icon = Skill Seal on Attack
 | Passive 9 name = Jammer Edge [II]
 | Passive 9 name JP = ジャマ―・エッジ[Ⅱ]
 | Passive 9 effect = Chance to Skill Seal on Attack [II / 15%] (1 Turn)

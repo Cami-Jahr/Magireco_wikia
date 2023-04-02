@@ -17,7 +17,7 @@
 | max_ATK = 2105
 | max_DEF = 0
 
-| image = Chance to Anti-Poison
+| image = Anti-Poison
 | effect_name = Adamant Adept 
 | effect_name_JP = アダマント・アデプト
 | effect1 = Anti-Poison & Anti-Charm & Defense Up [IV / 30%]

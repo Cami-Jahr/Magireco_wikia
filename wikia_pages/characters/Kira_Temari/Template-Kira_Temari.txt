@@ -90,7 +90,7 @@
 | Passive 4 name JP = マギア・アデプト[Ⅱ]
 | Passive 4 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 5 icon = Chance to Darkness on Attack
+| Passive 5 icon = Darkness on Attack
 | Passive 5 name = Darkness Edge [II]
 | Passive 5 name JP = ダークネス・エッジ[Ⅱ]
 | Passive 5 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)
@@ -100,7 +100,7 @@
 | Passive 6 name JP = MPブースト[Ⅱ]
 | Passive 6 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 7 icon = Chance to Skill Quicken
+| Passive 7 icon = Skill Quicken
 | Passive 7 name = Skill Quick [III]
 | Passive 7 name JP = スキルクイック[Ⅲ]
 | Passive 7 effect = Chance to Skill Quicken [III / 15%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = シールド・アデプト[Ⅱ]
 | Passive 8 effect = Damage Cut [II / 10%]
 
-| Passive 9 icon = Chance to Evade
+| Passive 9 icon = Evade
 | Passive 9 name = Parry Adept [II]
 | Passive 9 name JP = パリィ・アデプト[Ⅱ]
 | Passive 9 effect = Chance to Evade [II / 15%]
@@ -135,10 +135,10 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Darkness
+| Active 1 icon = Darkness
 | Active 1 name = Shade Stroke [V]
 | Active 1 name JP = シェイド・ストローク[Ⅴ]
-| Active 1 effect = Darkness & Attack Down [V / 25%] (Target / 1 Turn)
+| Active 1 effect = Chance to Darkness [V / 100%] & Attack Down [V / 25%] (Target / 1 Turn)
 | Active 1 cooldown = 7
 
 | Connect name JP = ともに新章へ

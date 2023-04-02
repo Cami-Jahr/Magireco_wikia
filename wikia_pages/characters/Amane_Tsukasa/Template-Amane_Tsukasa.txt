@@ -125,7 +125,7 @@
 | Passive 11 name JP = ファスト・マナアップ
 | Passive 11 effect = MP Gauge Increased On Battle Start [15% full]
 
-| Passive 12 icon = Chance to Evade
+| Passive 12 icon = Evade
 | Passive 12 name = Parry Adept [II]
 | Passive 12 name JP = パリィ・アデプト[Ⅱ]
 | Passive 12 effect = Chance to Evade [II / 15%]

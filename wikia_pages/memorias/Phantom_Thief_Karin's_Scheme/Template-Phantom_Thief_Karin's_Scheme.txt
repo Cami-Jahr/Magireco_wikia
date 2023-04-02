@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1170
 
-| image = Chance to Anti-Evade
+| image = Anti-Evade
 | effect_name = Bullseye
 | effect_name_JP = ブルズアイ
 | effect1 = Anti-Evade (Self / 3 Turns)

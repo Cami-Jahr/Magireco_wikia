@@ -17,7 +17,7 @@
 | max_ATK = 2108
 | max_DEF = 0
 
-| image = Chance to Anti-Bind
+| image = Anti-Bind
 | effect_name = Anti-Bind
 | effect_name_JP = アンチ・バインド
 | effect1 = Chance to Anti-Bind [X / 70%] & Attack Up [IV / 20%]

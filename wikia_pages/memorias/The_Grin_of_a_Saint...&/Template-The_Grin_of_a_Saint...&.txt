@@ -20,8 +20,8 @@
 | image = Ignore Damage Cut
 | effect_name = Show Tell Adept 
 | effect_name_JP = ショーテル・アデプト
-| effect1 = Ignore Damage Cut [V / 50%] & Attack Up [IV / 20%]
-| effect2 = Ignore Damage Cut [VII / 60%] & Attack Up [V / 25%]
+| effect1 = Chance to Ignore Damage Cut [V / 50%] & Attack Up [IV / 20%]
+| effect2 = Chance to Ignore Damage Cut [VII / 60%] & Attack Up [V / 25%]
 | Cooldown = 
 | Cooldown2 = 
 }}

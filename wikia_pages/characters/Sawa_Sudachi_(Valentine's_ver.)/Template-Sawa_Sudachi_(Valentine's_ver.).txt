@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Provoke
+| Active 1 icon = Provoke
 | Active 1 name = Sweet Guardian
 | Active 1 name JP = スウィート・ガーディアン
 | Active 1 effect = Provoke & Barrier [I / 15000 damage] (Self / 1 Turn) & HP Restore [I / 30%]

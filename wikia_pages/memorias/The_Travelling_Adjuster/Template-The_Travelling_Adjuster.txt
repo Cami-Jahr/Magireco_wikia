@@ -17,7 +17,7 @@
 | max_ATK = 1925
 | max_DEF = 0
 
-| image = Chance to Critical Hit
+| image = Critical Hit
 | effect_name = Elpida Adept 
 | effect_name_JP = エルピーダ・アデプト
 | effect1 = Chance to Critical Hit [III / 20%] & Attack Up [I / 5%] & Anti-Charm

@@ -88,14 +88,14 @@
 | Passive 4 icon = Survive
 | Passive 4 name = Survive Adept [I]
 | Passive 4 name JP = サヴァイヴ・アデプト[Ⅰ]
-| Passive 4 effect = Survive [I / 20%]
+| Passive 4 effect = Survive [I / 20% HP]
 
 | Passive 5 icon = Doppel Damage Up
 | Passive 5 name = Doppel Adept [IV]
 | Passive 5 name JP = ドッペル・アデプト[Ⅳ]
 | Passive 5 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
 
-| Passive 6 icon = Chance to Provoke
+| Passive 6 icon = Provoke
 | Passive 6 name = Provoke Adept [II]
 | Passive 6 name JP = プロヴォーク・アデプト[Ⅱ]
 | Passive 6 effect = Chance to Provoke [II / 15%]
@@ -125,7 +125,7 @@
 | Passive 11 name JP = テクニカル・アデプト[Ⅲ]
 | Passive 11 effect = Charge Disc Damage Up [III / 15%]
 
-| Passive 12 icon = Chance to Critical Hit
+| Passive 12 icon = Critical Hit
 | Passive 12 name = Critical Adept [II]
 | Passive 12 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 12 effect = Chance to Critical Hit [II / 15%]
@@ -138,7 +138,7 @@
 | Active 1 icon = Survive
 | Active 1 name = Survive [I]
 | Active 1 name JP = サヴァイヴ[Ⅰ]
-| Active 1 effect = Survive [I / 10%] (Self / 1 Turn)
+| Active 1 effect = Survive [I / 10% HP] (Self / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = ここであたしの出番でしょ！
@@ -161,9 +161,9 @@
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Survive
-| Magia scaling 2 = -
-| Magia 2 / 1 = Self / 3 Turns / 30%
-| Magia 2 / 2 = Self / 3 Turns / 35%
+| Magia scaling 2 = 0% HP
+| Magia 2 / 1 = Self / 3 Turns / 30% HP
+| Magia 2 / 2 = Self / 3 Turns / 35% HP
 | Magia effect 3 = Critical Hit
 | Magia scaling 3 = -
 | Magia 3 / 1 = Self / 2 Turns
@@ -182,7 +182,7 @@
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = IX / 2763.2%
 | Magia2 effect 2 = Survive
-| Magia2 2 = Self / 3 Turns / 40%
+| Magia2 2 = Self / 3 Turns / 40% HP
 | Magia2 effect 3 = Critical Hit
 | Magia2 3 = Self / 2 Turns
 | Magia2 effect 4 = Counter

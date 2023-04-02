@@ -80,7 +80,7 @@
 | Passive 2 name JP = シールド・アデプト[Ⅱ]
 | Passive 2 effect = Damage Cut [II / 10%]
 
-| Passive 3 icon = Chance to Burn on Attack
+| Passive 3 icon = Burn on Attack
 | Passive 3 name = Burn Edge [II]
 | Passive 3 name JP = バーン・エッジ[Ⅱ]
 | Passive 3 effect = Chance to Burn on Attack [II / 15%] (2 Turns)
@@ -110,12 +110,12 @@
 | Passive 8 name JP = アンチ・デバフ
 | Passive 8 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
 
-| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 icon = Skill Quicken
 | Passive 9 name = Skill Quick [III]
 | Passive 9 name JP = スキルクイック[Ⅲ]
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
 
-| Passive 10 icon = Chance to Anti-Magia Seal
+| Passive 10 icon = Anti-Magia Seal
 | Passive 10 name = Anti-Seal Magia
 | Passive 10 name JP = アンチ・シールマギア
 | Passive 10 effect = Anti-Magia Seal

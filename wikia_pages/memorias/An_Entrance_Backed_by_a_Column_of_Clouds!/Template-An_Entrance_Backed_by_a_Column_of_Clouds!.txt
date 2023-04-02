@@ -17,7 +17,7 @@
 | max_ATK = 2048
 | max_DEF = 0
 
-| image = Chance to Anti-Burn
+| image = Anti-Burn
 | effect_name = Anti-Burn
 | effect_name_JP = アンチ・バーン
 | effect1 = 

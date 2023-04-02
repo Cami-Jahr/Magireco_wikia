@@ -95,7 +95,7 @@
 | Passive 5 name JP = ドッペル・アデプト[Ⅳ]
 | Passive 5 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
 
-| Passive 6 icon = Chance to Provoke
+| Passive 6 icon = Provoke
 | Passive 6 name = Provoke Adept [II]
 | Passive 6 name JP = プロヴォーク・アデプト[Ⅱ]
 | Passive 6 effect = Chance to Provoke [II / 15%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = マギア・アデプト[Ⅲ]
 | Passive 8 effect = Magia Damage Up [III / 10%]
 
-| Passive 9 icon = Chance to Critical Hit
+| Passive 9 icon = Critical Hit
 | Passive 9 name = Critical Adept [II]
 | Passive 9 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 9 effect = Chance to Critical Hit [II / 15%]

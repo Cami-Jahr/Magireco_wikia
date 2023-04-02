@@ -125,7 +125,7 @@
 | Passive 11 name JP = アクセル・アデプト[Ⅱ]
 | Passive 11 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 12 icon = Chance to Anti-Magia Seal
+| Passive 12 icon = Anti-Magia Seal
 | Passive 12 name = Anti-Seal Magia
 | Passive 12 name JP = アンチ・シールマギア
 | Passive 12 effect = Anti-Magia Seal

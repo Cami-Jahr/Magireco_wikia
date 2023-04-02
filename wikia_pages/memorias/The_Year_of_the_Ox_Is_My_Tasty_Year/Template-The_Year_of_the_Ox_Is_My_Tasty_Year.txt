@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 2100
 
-| image = Chance to Stun
+| image = Stun
 | effect_name = Stun Attack 
 | effect_name_JP = スタン・アタック
 | effect1 = Chance to Stun [IV / 37.5%] (Target / 1 Turn) & Attack Up [IV / 20%] (Self / 3 Turns)

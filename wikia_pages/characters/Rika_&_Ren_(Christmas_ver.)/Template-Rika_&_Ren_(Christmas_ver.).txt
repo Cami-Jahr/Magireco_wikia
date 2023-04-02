@@ -105,7 +105,7 @@
 | Passive 7 name JP = MPブースト[Ⅱ]
 | Passive 7 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 8 icon = Chance to Anti-Magia Seal
+| Passive 8 icon = Anti-Magia Seal
 | Passive 8 name = Anti-Seal Magia [VII]
 | Passive 8 name JP = アンチ・シールマギア[Ⅶ]
 | Passive 8 effect = Chance to Anti-Magia Seal [VII / 55%]
@@ -120,12 +120,12 @@
 | Passive 10 name JP = マギア・アデプト[Ⅱ]
 | Passive 10 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 11 icon = Chance to Chase
+| Passive 11 icon = Chase
 | Passive 11 name = Chase Adept [VI]
 | Passive 11 name JP = チェイス・アデプト[Ⅵ]
 | Passive 11 effect = Chance to Chase [VI / 20%]
 
-| Passive 12 icon = Chance to Evade
+| Passive 12 icon = Evade
 | Passive 12 name = Parry Adept [II]
 | Passive 12 name JP = パリィ・アデプト[Ⅱ]
 | Passive 12 effect = Chance to Evade [II / 15%]

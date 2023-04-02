@@ -120,12 +120,12 @@
 | Passive 10 name JP = MPブースト[Ⅱ]
 | Passive 10 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 11 icon = Chance to Evade
+| Passive 11 icon = Evade
 | Passive 11 name = Parry Adept [II]
 | Passive 11 name JP = パリィ・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Evade [II / 15%]
 
-| Passive 12 icon = Chance to Charm on Attack
+| Passive 12 icon = Charm on Attack
 | Passive 12 name = Charm Edge [II]
 | Passive 12 name JP = チャーム・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Skill Seal
+| Active 1 icon = Skill Seal
 | Active 1 name = Downer Jammer [XV]
 | Active 1 name JP = ダウナー・ジャマー[XV]
 | Active 1 effect = Chance to Skill Seal [XV / 65%] & MP Gain Down [XV / 80%] (Target / 1 Turn)
@@ -163,18 +163,14 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 325%
 | Magia 1 / 2 = VIII / 345%
-| Magia effect 2 = Regenerate MP
-| Magia scaling 2 = 0.5%
-| Magia 2 / 1 = Allies / 3 Turns / 8 MP
-| Magia 2 / 2 = Allies / 3 Turns / 10 MP
-| Magia effect 3 = Skill Seal
-| Magia scaling 3 = -
-| Magia 3 / 1 = -
-| Magia 3 / 2 = All Enemies / 1 Turn
-| Magia effect 4 = Chance to Skill Seal
-| Magia scaling 4 = -
-| Magia 4 / 1 = All Enemies / 1 Turn / 40%
-| Magia 4 / 2 = -
+| Magia effect 2 = Chance to Skill Seal
+| Magia scaling 2 = -
+| Magia 2 / 1 = All Enemies / 1 Turn / 40%
+| Magia 2 / 2 = All Enemies / 1 Turn / 100%
+| Magia effect 3 = Regenerate MP
+| Magia scaling 3 = 0.5 MP
+| Magia 3 / 1 = Allies / 3 Turns / 8 MP
+| Magia 3 / 2 = Allies / 3 Turns / 10 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -184,8 +180,8 @@
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = X / 902%
-| Magia2 effect 2 = Charm
-| Magia2 2 = All Enemies / 1 Turn
+| Magia2 effect 2 = Chance to Charm
+| Magia2 2 = All Enemies / 1 Turn / 100%
 | Magia2 effect 3 = Regenerate MP
 | Magia2 3 = Allies / 3 Turns / 14 MP
 }}

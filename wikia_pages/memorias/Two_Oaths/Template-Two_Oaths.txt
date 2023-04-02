@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1108
 
-| image = Chance to Anti-Evade
+| image = Anti-Evade
 | effect_name = Invisible Accele 
 | effect_name_JP = インビジブルアクセル
 | effect1 = Anti-Evade & Accele MP Gain Up [VIII / 27.5%] (Self / 1 Turn)

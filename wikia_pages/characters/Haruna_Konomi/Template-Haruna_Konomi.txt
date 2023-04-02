@@ -105,7 +105,7 @@
 | Passive 7 name JP = マギア・アデプト[Ⅲ]
 | Passive 7 effect = Magia Damage Up [III / 10%]
 
-| Passive 8 icon = Chance to Anti-Bind
+| Passive 8 icon = Anti-Bind
 | Passive 8 name = Anti-Bind
 | Passive 8 name JP = アンチ・バインド
 | Passive 8 effect = Anti-Bind
@@ -125,7 +125,7 @@
 | Passive 11 name JP = リジェネレイト・アデプト[Ⅳ]
 | Passive 11 effect = Regenerate HP [IV / 5%]
 
-| Passive 12 icon = Chance to Fog on Attack
+| Passive 12 icon = Fog on Attack
 | Passive 12 name = Fog Edge [II]
 | Passive 12 name JP = フォッグ・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Fog on Attack [II / 15%] (3 Turns)
@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Fog
+| Active 1 icon = Fog
 | Active 1 name = Fog [VII]
 | Active 1 name JP = フォッグ[Ⅶ]
 | Active 1 effect = Chance to Fog [VII / 45%] (All Enemies / 1 Turn)

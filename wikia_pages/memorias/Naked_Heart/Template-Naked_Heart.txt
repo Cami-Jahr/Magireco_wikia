@@ -17,11 +17,11 @@
 | max_ATK = 0
 | max_DEF = 2132
 
-| image = Chance to Burn
+| image = Burn
 | effect_name = Attrition Burn 
 | effect_name_JP = アトリションバーン
 | effect1 = 
-| effect2 = Burn (Target / 1 Turn) & Defense Down [VI / 30%] (Target / 3 Turns)
+| effect2 = Chance to Burn [VI / 100%] (Target / 1 Turn) & Defense Down [VI / 30%] (Target / 3 Turns)
 | Cooldown = 
 | Cooldown2 = 6
 }}

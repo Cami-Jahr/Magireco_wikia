@@ -17,7 +17,7 @@
 | max_ATK = 1110
 | max_DEF = 0
 
-| image = Chance to Defense Pierce
+| image = Defense Pierce
 | effect_name = Penetrate Adept 
 | effect_name_JP = ペネトレイト・アデプト
 | effect1 = Chance to Defense Pierce [II / 15%]

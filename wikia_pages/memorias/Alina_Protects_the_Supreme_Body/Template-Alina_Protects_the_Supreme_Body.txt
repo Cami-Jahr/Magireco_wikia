@@ -17,7 +17,7 @@
 | max_ATK = 2098
 | max_DEF = 0
 
-| image = Chance to Poison on Attack
+| image = Poison on Attack
 | effect_name = Poison Edge 
 | effect_name_JP = ポイズン・エッジ
 | effect1 = Chance to Poison on Attack [IV / 25%] (3 Turns)

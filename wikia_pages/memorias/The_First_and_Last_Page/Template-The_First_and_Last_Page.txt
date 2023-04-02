@@ -17,7 +17,7 @@
 | max_ATK = 1268
 | max_DEF = 0
 
-| image = Chance to Guardian
+| image = Guardian
 | effect_name = Covering Adept 
 | effect_name_JP = カバーリング・アデプト
 | effect1 = Chance to Guardian [I / 10%]

@@ -105,7 +105,7 @@
 | Passive 7 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 7 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 8 icon = Chance to Dazzle on Attack
+| Passive 8 icon = Dazzle on Attack
 | Passive 8 name = Mesmerize Edge [III]
 | Passive 8 name JP = メズマライズ・エッジ[Ⅲ]
 | Passive 8 effect = Chance to Dazzle on Attack [III / 20%] (1 Turn)
@@ -115,12 +115,12 @@
 | Passive 9 name JP = アクセル・アデプト[Ⅲ]
 | Passive 9 effect = Accele MP Gain Up [III / 15%]
 
-| Passive 10 icon = Chance to Skill Quicken
+| Passive 10 icon = Skill Quicken
 | Passive 10 name = Skill Quick [III]
 | Passive 10 name JP = スキルクイック[Ⅲ]
 | Passive 10 effect = Chance to Skill Quicken [III / 15%]
 
-| Passive 11 icon = Chance to Anti-Charm
+| Passive 11 icon = Anti-Charm
 | Passive 11 name = Anti-Charm
 | Passive 11 name JP = アンチ・チャーム
 | Passive 11 effect = Anti-Charm
@@ -135,10 +135,10 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Burn
+| Active 1 icon = Burn
 | Active 1 name = Irrlicht [IV]
 | Active 1 name JP = イルリヒト[Ⅳ]
-| Active 1 effect = Burn & Chance to Dazzle [IV / 37.5%] (Target / 1 Turn)
+| Active 1 effect = Chance to Burn [IV / 100%] & Chance to Dazzle [IV / 37.5%] (Target / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = あーしとドキドキしよ！
@@ -189,6 +189,6 @@
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Damage Down
 | Magia2 2 = All Enemies / 3 Turns / 40%
-| Magia2 effect 3 = Dazzle
-| Magia2 3 = All Enemies / 1 Turn
+| Magia2 effect 3 = Chance to Dazzle
+| Magia2 3 = All Enemies / 1 Turn / 100%
 }}

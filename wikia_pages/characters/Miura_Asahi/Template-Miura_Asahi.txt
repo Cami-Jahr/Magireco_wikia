@@ -80,7 +80,7 @@
 | Passive 2 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = Chance to Skill Quicken
+| Passive 3 icon = Skill Quicken
 | Passive 3 name = Skill Quick [II]
 | Passive 3 name JP = スキルクイック[Ⅱ]
 | Passive 3 effect = Chance to Skill Quicken [II / 10%]
@@ -115,12 +115,12 @@
 | Passive 9 name JP = フューリィ・アデプト[Ⅲ]
 | Passive 9 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]
 
-| Passive 10 icon = Chance to Curse on Attack
+| Passive 10 icon = Curse on Attack
 | Passive 10 name = Curse Edge [III]
 | Passive 10 name JP = カース・エッジ[Ⅲ]
 | Passive 10 effect = Chance to Curse on Attack [III / 20%] (1 Turn)
 
-| Passive 11 icon = Chance to Anti-Magia Seal
+| Passive 11 icon = Anti-Magia Seal
 | Passive 11 name = Anti-Seal Magia
 | Passive 11 name JP = アンチ・シールマギア
 | Passive 11 effect = Anti-Magia Seal
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Survive
-| Connect 2 / 1 = VII / 20%
-| Connect 2 / 2 = IX / 20%
+| Connect 2 / 1 = VII / 20% HP
+| Connect 2 / 2 = IX / 20% HP
 | Connect effect 3 = Guardian
 | Connect 3 / 1 = 
 | Connect 3 / 2 = 
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = V / 864%
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Revive one Ally
-| Magia scaling 2 = 1%
+| Magia scaling 2 = 1% HP
 | Magia 2 / 1 = Random Ally / 25% HP
 | Magia 2 / 2 = Random Ally / 30% HP
 | Magia effect 3 = Defense Up

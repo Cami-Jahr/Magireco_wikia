@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 2202
 
-| image = Chance to Provoke
+| image = Provoke
 | effect_name = Diversion 
 | effect_name_JP = ダイヴァージョン
 | effect1 = Provoke & Defense Up [VIII / 60%] (Self / 1 Turn)

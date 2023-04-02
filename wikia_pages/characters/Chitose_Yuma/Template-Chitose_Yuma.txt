@@ -95,7 +95,7 @@
 | Passive 5 name JP = ガード・アデプト[Ⅲ]
 | Passive 5 effect = Defense Up [III / 22.5%]
 
-| Passive 6 icon = Chance to Anti-Stun
+| Passive 6 icon = Anti-Stun
 | Passive 6 name = Anti-Stun
 | Passive 6 name JP = アンチ・スタン
 | Passive 6 effect = Anti-Stun
@@ -105,12 +105,12 @@
 | Passive 7 name JP = リジェネレイト・アデプト[Ⅳ]
 | Passive 7 effect = Regenerate HP [IV / 5%]
 
-| Passive 8 icon = Chance to Stun on Attack
+| Passive 8 icon = Stun on Attack
 | Passive 8 name = Stun Edge [II]
 | Passive 8 name JP = スタン・エッジ[Ⅱ]
 | Passive 8 effect = Chance to Stun on Attack [II / 15%] (1 Turn)
 
-| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 icon = Skill Quicken
 | Passive 9 name = Skill Quick [II]
 | Passive 9 name JP = スキルクイック[Ⅱ]
 | Passive 9 effect = Chance to Skill Quicken [II / 10%]

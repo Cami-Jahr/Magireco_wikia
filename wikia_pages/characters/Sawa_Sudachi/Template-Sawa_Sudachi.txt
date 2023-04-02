@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Provoke
+| Active 1 icon = Provoke
 | Active 1 name = Shield Appeal [VIII]
 | Active 1 name JP = シールドアピール[Ⅷ]
 | Active 1 effect = Provoke & Damage Cut [VIII / 40%] (Self / 1 Turn)

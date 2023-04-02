@@ -110,7 +110,7 @@
 | Passive 8 name JP = ガード・アデプト[Ⅲ]
 | Passive 8 effect = Defense Up [III / 22.5%]
 
-| Passive 9 icon = Chance to Anti-Bind
+| Passive 9 icon = Anti-Bind
 | Passive 9 name = Anti-Bind
 | Passive 9 name JP = アンチ・バインド
 | Passive 9 effect = Anti-Bind
@@ -120,7 +120,7 @@
 | Passive 10 name JP = マギア・アデプト[Ⅲ]
 | Passive 10 effect = Magia Damage Up [III / 10%]
 
-| Passive 11 icon = Chance to Bind on Attack
+| Passive 11 icon = Bind on Attack
 | Passive 11 name = Bind Edge [II]
 | Passive 11 name JP = バインド・エッジ[Ⅱ]
 | Passive 11 effect = Chance to Bind on Attack [II / 15%] (1 Turn)

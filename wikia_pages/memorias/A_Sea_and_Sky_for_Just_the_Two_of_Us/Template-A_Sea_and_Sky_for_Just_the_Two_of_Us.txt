@@ -17,7 +17,7 @@
 | max_ATK = 1352
 | max_DEF = 0
 
-| image = Chance to Anti-Darkness
+| image = Anti-Darkness
 | effect_name = Anti Darkness
 | effect_name_JP = アンチ・ダークネス
 | effect1 = Anti-Darkness & Status Ailment Resistance Up [I / 20%]

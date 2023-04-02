@@ -75,7 +75,7 @@
 | Passive 1 name JP = MPブースト[Ⅱ]
 | Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 2 icon = Chance to Provoke
+| Passive 2 icon = Provoke
 | Passive 2 name = Provoke Adept [II]
 | Passive 2 name JP = プロヴォーク・アデプト[Ⅱ]
 | Passive 2 effect = Chance to Provoke [II / 15%]

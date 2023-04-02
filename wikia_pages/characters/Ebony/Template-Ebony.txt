@@ -110,7 +110,7 @@
 | Passive 8 name JP = ドッペル・アデプト[Ⅱ]
 | Passive 8 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [II / 7.5%]
 
-| Passive 9 icon = Chance to Anti-Magia Seal
+| Passive 9 icon = Anti-Magia Seal
 | Passive 9 name = Anti-Seal Magia
 | Passive 9 name JP = アンチ・シールマギア
 | Passive 9 effect = Anti-Magia Seal

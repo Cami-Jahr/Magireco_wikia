@@ -95,7 +95,7 @@
 | Passive 5 name JP = ドッペル・アデプト[Ⅳ]
 | Passive 5 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
 
-| Passive 6 icon = Chance to Anti-Evade
+| Passive 6 icon = Anti-Evade
 | Passive 6 name = Battle Sense Adept [IV]
 | Passive 6 name JP = バトルセンス・アデプト[Ⅳ]
 | Passive 6 effect = Chance to Anti-Evade [IV / 40%] & Chance to Anti-Counter [IV / 40%]
@@ -105,7 +105,7 @@
 | Passive 7 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 7 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 8 icon = Chance to Stun on Attack
+| Passive 8 icon = Stun on Attack
 | Passive 8 name = Stun Strike [II]
 | Passive 8 name JP = スタン・ストライク[Ⅱ]
 | Passive 8 effect = Chance to Stun on Attack [II / 15%] (1 Turn) & Chance to Critical Hit [II / 15%]
@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Evade
+| Active 1 icon = Evade
 | Active 1 name = Parry Circle [II]
 | Active 1 name JP = パリィ・サークル[Ⅱ]
 | Active 1 effect = Chance to Evade [II / 15%] (Allies / 1 Turn)
@@ -166,18 +166,18 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
-| Magia effect 2 = Stun
+| Magia effect 2 = Chance to Stun
 | Magia scaling 2 = -
-| Magia 2 / 1 = Target / 1 Turn
-| Magia 2 / 2 = Target / 1 Turn
-| Magia effect 3 = Skill Seal
+| Magia 2 / 1 = Target / 1 Turn / 100%
+| Magia 2 / 2 = Target / 1 Turn / 100%
+| Magia effect 3 = Chance to Skill Seal
 | Magia scaling 3 = -
-| Magia 3 / 1 = Target / 2 Turns
-| Magia 3 / 2 = Target / 2 Turns
-| Magia effect 4 = Magia Seal
+| Magia 3 / 1 = Target / 2 Turns / 100%
+| Magia 3 / 2 = Target / 2 Turns / 100%
+| Magia effect 4 = Chance to Magia Seal
 | Magia scaling 4 = -
-| Magia 4 / 1 = Target / 2 Turns
-| Magia 4 / 2 = Target / 2 Turns
+| Magia 4 / 1 = Target / 2 Turns / 100%
+| Magia 4 / 2 = Target / 2 Turns / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -187,10 +187,10 @@
 | Doppel Japanese Designer = 原案・監修：GAN
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = IX / 2763.2%
-| Magia2 effect 2 = Stun
-| Magia2 2 = Target / 1 Turn
-| Magia2 effect 3 = Skill Seal
-| Magia2 3 = Target / 2 Turns
-| Magia2 effect 4 = Magia Seal
-| Magia2 4 = Target / 2 Turns
+| Magia2 effect 2 = Chance to Stun
+| Magia2 2 = Target / 1 Turn / 100%
+| Magia2 effect 3 = Chance to Skill Seal
+| Magia2 3 = Target / 2 Turns / 100%
+| Magia2 effect 4 = Chance to Magia Seal
+| Magia2 4 = Target / 2 Turns / 100%
 }}

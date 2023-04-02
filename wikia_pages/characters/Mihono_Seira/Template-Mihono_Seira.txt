@@ -130,12 +130,12 @@
 | Passive 12 name JP = シールド・アデプト[Ⅱ]
 | Passive 12 effect = Damage Cut [II / 10%]
 
-| Passive 13 icon = Chance to Anti-Bind
+| Passive 13 icon = Anti-Bind
 | Passive 13 name = Anti-Bind
 | Passive 13 name JP = アンチ・バインド
 | Passive 13 effect = Anti-Bind
 
-| Active 1 icon = Chance to Darkness
+| Active 1 icon = Darkness
 | Active 1 name = Flash [VI]
 | Active 1 name JP = フラッシュ[Ⅵ]
 | Active 1 effect = Chance to Darkness [VI / 42.5%] (All Enemies / 1 Turn)

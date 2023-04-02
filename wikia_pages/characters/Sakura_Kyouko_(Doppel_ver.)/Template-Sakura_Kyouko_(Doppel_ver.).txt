@@ -80,7 +80,7 @@
 | Passive 2 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = Chance to Evade
+| Passive 3 icon = Evade
 | Passive 3 name = Parry Adept [II]
 | Passive 3 name JP = パリィ・アデプト[Ⅱ]
 | Passive 3 effect = Chance to Evade [II / 15%]
@@ -95,7 +95,7 @@
 | Passive 5 name JP = MPブースト[Ⅱ]
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Chance to Anti-Evade
+| Passive 6 icon = Anti-Evade
 | Passive 6 name = Aiming Adept [III]
 | Passive 6 name JP = エイミング・アデプト[Ⅲ]
 | Passive 6 effect = Chance to Anti-Evade [III / 35%]
@@ -105,7 +105,7 @@
 | Passive 7 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 7 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 8 icon = Chance to Dazzle on Attack
+| Passive 8 icon = Dazzle on Attack
 | Passive 8 name = Mesmerize Edge [III]
 | Passive 8 name JP = メズマライズ・エッジ[Ⅲ]
 | Passive 8 effect = Chance to Dazzle on Attack [III / 20%] (1 Turn)

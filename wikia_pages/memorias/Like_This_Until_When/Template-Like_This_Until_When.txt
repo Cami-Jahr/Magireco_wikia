@@ -17,7 +17,7 @@
 | max_ATK = 2050
 | max_DEF = 0
 
-| image = Chance to Anti-Curse
+| image = Anti-Curse
 | effect_name = Phantom Spirit 
 | effect_name_JP = ファントム・スピリット
 | effect1 = 

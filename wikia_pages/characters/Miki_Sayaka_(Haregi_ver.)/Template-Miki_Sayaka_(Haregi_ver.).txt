@@ -75,7 +75,7 @@
 | Passive 1 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 1 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 2 icon = Chance to Provoke
+| Passive 2 icon = Provoke
 | Passive 2 name = Provoke Adept [II]
 | Passive 2 name JP = プロヴォーク・アデプト[Ⅱ]
 | Passive 2 effect = Chance to Provoke [II / 15%]
@@ -83,7 +83,7 @@
 | Passive 3 icon = Survive
 | Passive 3 name = Survive Adept [I]
 | Passive 3 name JP = サヴァイヴ・アデプト[Ⅰ]
-| Passive 3 effect = Survive [I / 20%]
+| Passive 3 effect = Survive [I / 20% HP]
 
 | Passive 4 icon = MP Gain Up When Over 100 MP
 | Passive 4 name = MP Boost [II]
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Survive
-| Connect 2 / 1 = VII / 20%
-| Connect 2 / 2 = IX / 20%
+| Connect 2 / 1 = VII / 20% HP
+| Connect 2 / 2 = IX / 20% HP
 | Connect effect 3 = Defense Pierce
 | Connect 3 / 1 = -
 | Connect 3 / 2 = 
@@ -167,9 +167,9 @@
 | Magia 1 / 1 = V / 864%
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Survive
-| Magia scaling 2 = -
-| Magia 2 / 1 = Self / 3 Turns / 30%
-| Magia 2 / 2 = Self / 3 Turns / 35%
+| Magia scaling 2 = 0% HP
+| Magia 2 / 1 = Self / 3 Turns / 30% HP
+| Magia 2 / 2 = Self / 3 Turns / 35% HP
 | Magia effect 3 = Critical Hit
 | Magia scaling 3 = -
 | Magia 3 / 1 = Self / 2 Turns
@@ -184,7 +184,7 @@
 | Magia2 effect 1 = Attribute Strengthened Damage One Enemy
 | Magia2 1 = IX / 2270.4%
 | Magia2 effect 2 = Survive
-| Magia2 2 = Self / 3 Turns / 40%
+| Magia2 2 = Self / 3 Turns / 40% HP
 | Magia2 effect 3 = Critical Hit
 | Magia2 3 = Self / 2 Turns
 }}

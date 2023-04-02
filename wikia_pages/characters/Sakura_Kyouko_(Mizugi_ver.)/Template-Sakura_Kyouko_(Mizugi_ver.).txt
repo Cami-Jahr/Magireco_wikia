@@ -90,7 +90,7 @@
 | Passive 4 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = Chance to Evade
+| Passive 5 icon = Evade
 | Passive 5 name = Parry Adept [III]
 | Passive 5 name JP = パリィ・アデプト[Ⅲ]
 | Passive 5 effect = Chance to Evade [III / 20%]
@@ -105,7 +105,7 @@
 | Passive 7 name JP = モラール・アデプト[Ⅲ]
 | Passive 7 effect = MP Gain Up [III / 10%]
 
-| Passive 8 icon = Chance to Burn on Attack
+| Passive 8 icon = Burn on Attack
 | Passive 8 name = Burn Edge [III]
 | Passive 8 name JP = バーン・エッジ[Ⅲ]
 | Passive 8 effect = Chance to Burn on Attack [III / 20%] (2 Turns)
@@ -115,17 +115,17 @@
 | Passive 9 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 9 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 10 icon = Chance to Anti-Evade
+| Passive 10 icon = Anti-Evade
 | Passive 10 name = Aiming Adept [III]
 | Passive 10 name JP = エイミング・アデプト[Ⅲ]
 | Passive 10 effect = Chance to Anti-Evade [III / 35%]
 
-| Passive 11 icon = Chance to Anti-Counter
+| Passive 11 icon = Anti-Counter
 | Passive 11 name = Anti-Counter [VIII]
 | Passive 11 name JP = アンチ・カウンター[Ⅷ]
 | Passive 11 effect = Chance to Anti-Counter [VIII / 60%]
 
-| Passive 12 icon = Chance to Critical Hit
+| Passive 12 icon = Critical Hit
 | Passive 12 name = Critical Adept [II]
 | Passive 12 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 12 effect = Chance to Critical Hit [II / 15%]

@@ -80,7 +80,7 @@
 | Passive 2 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = Chance to Evade
+| Passive 3 icon = Evade
 | Passive 3 name = Parry Adept [II]
 | Passive 3 name JP = パリィ・アデプト[Ⅱ]
 | Passive 3 effect = Chance to Evade [II / 15%]
@@ -115,7 +115,7 @@
 | Passive 9 name JP = ドッペル・アデプト[Ⅱ]
 | Passive 9 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [II / 7.5%]
 
-| Passive 10 icon = Chance to Anti-Magia Seal
+| Passive 10 icon = Anti-Magia Seal
 | Passive 10 name = Anti-Seal Magia
 | Passive 10 name JP = アンチ・シールマギア
 | Passive 10 effect = Anti-Magia Seal
@@ -160,10 +160,10 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 896%
 | Magia 1 / 2 = VIII / 960%
-| Magia effect 2 = Dazzle
+| Magia effect 2 = Chance to Dazzle
 | Magia scaling 2 = -
-| Magia 2 / 1 = Target / 3 Turns
-| Magia 2 / 2 = Target / 3 Turns
+| Magia 2 / 1 = Target / 3 Turns / 100%
+| Magia 2 / 2 = Target / 3 Turns / 100%
 | Magia effect 3 = Defense Down
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Target / 3 Turns / 30%
@@ -173,7 +173,7 @@
 | Magia 4 / 1 = Self / 3 Turns / 25%
 | Magia 4 / 2 = Self / 3 Turns / 30%
 | Magia effect 5 = MP Restore
-| Magia scaling 5 = 1%
+| Magia scaling 5 = 1 MP
 | Magia 5 / 1 = 30 MP
 | Magia 5 / 2 = 35 MP
 
@@ -185,8 +185,8 @@
 | Doppel Japanese Designer = ………
 | Magia2 effect 1 = Attribute Strengthened Damage One Enemy
 | Magia2 1 = X / 2340.8%
-| Magia2 effect 2 = Dazzle
-| Magia2 2 = Target / 3 Turns
+| Magia2 effect 2 = Chance to Dazzle
+| Magia2 2 = Target / 3 Turns / 100%
 | Magia2 effect 3 = Defense Down
 | Magia2 3 = Target / 3 Turns / 60%
 | Magia2 effect 4 = Magia Damage Up

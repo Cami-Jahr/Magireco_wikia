@@ -100,7 +100,7 @@
 | Passive 6 name JP = モラール・アデプト[Ⅱ]
 | Passive 6 effect = MP Gain Up [II / 7.5%]
 
-| Passive 7 icon = Chance to Skill Quicken
+| Passive 7 icon = Skill Quicken
 | Passive 7 name = Skill Quick [III]
 | Passive 7 name JP = スキルクイック[Ⅲ]
 | Passive 7 effect = Chance to Skill Quicken [III / 15%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = フレイムシールド・アデプト[Ⅲ]
 | Passive 8 effect = Flame Attribute Damage Cut [III / 15%]
 
-| Passive 9 icon = Chance to Anti-Charm
+| Passive 9 icon = Anti-Charm
 | Passive 9 name = Anti-Charm
 | Passive 9 name JP = アンチ・チャーム
 | Passive 9 effect = Anti-Charm
@@ -120,7 +120,7 @@
 | Passive 10 name JP = チャージコンボプラス[Ⅳ]
 | Passive 10 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
 
-| Passive 11 icon = Chance to Charm on Attack
+| Passive 11 icon = Charm on Attack
 | Passive 11 name = Charm Edge [II]
 | Passive 11 name JP = チャーム・エッジ[Ⅱ]
 | Passive 11 effect = Chance to Charm on Attack [II / 15%] (1 Turn)

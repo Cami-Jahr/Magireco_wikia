@@ -110,7 +110,7 @@
 | Passive 8 name JP = レジストシールドオーラ
 | Passive 8 effect = Negate Status Ailments [2 Status Ailments] (Self / 5 Turns)
 
-| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 icon = Skill Quicken
 | Passive 9 name = Skill Quick [II]
 | Passive 9 name JP = スキルクイック[Ⅱ]
 | Passive 9 effect = Chance to Skill Quicken [II / 10%]

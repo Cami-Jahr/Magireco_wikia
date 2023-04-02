@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 2102
 
-| image = Chance to Guardian
+| image = Guardian
 | effect_name = Hard Covering
 | effect_name_JP = ハード・カバーリング
 | effect1 = Guardian & Defense Up [VIII / 60%] (Self / 1 Turn)

@@ -17,7 +17,7 @@
 | max_ATK = 1945
 | max_DEF = 0
 
-| image = Chance to Anti-Evade
+| image = Anti-Evade
 | effect_name = Invisible Slash 
 | effect_name_JP = インビジブル・スラッシュ
 | effect1 = 

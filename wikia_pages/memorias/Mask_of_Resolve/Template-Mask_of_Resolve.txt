@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 2210
 
-| image = Chance to Dazzle
+| image = Dazzle
 | effect_name = Masquerade 
 | effect_name_JP = マスカレード
 | effect1 = 

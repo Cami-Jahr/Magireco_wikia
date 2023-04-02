@@ -110,7 +110,7 @@
 | Passive 8 name JP = マギア・アデプト[Ⅳ]
 | Passive 8 effect = Magia Damage Up [IV / 12.5%]
 
-| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 icon = Skill Quicken
 | Passive 9 name = Skill Quick [III]
 | Passive 9 name JP = スキルクイック[Ⅲ]
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
@@ -120,7 +120,7 @@
 | Passive 10 name JP = マナスプリング・アデプト[Ⅴ]
 | Passive 10 effect = Regenerate MP [V / 9 MP]
 
-| Passive 11 icon = Chance to Anti-Bind
+| Passive 11 icon = Anti-Bind
 | Passive 11 name = Anti-Bind
 | Passive 11 name JP = アンチ・バインド
 | Passive 11 effect = Anti-Bind
@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Evade
+| Active 1 icon = Evade
 | Active 1 name = Parry
 | Active 1 name JP = パリィ
 | Active 1 effect = Evade (Self / 1 Turn)
@@ -144,7 +144,7 @@
 | Connect name JP = ふたりなら倍だよね～！
 | Connect name EN = 
 | Connect name NA = 
-| Connect icon = Chance to Evade
+| Connect icon = Evade
 | Connect effect 1 = Chance to Provoke
 | Connect 1 / 1 = VII / 60%
 | Connect 1 / 2 = IX / 70%

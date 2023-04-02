@@ -110,7 +110,7 @@
 | Passive 8 name JP = ダーク・アデプト[Ⅱ]
 | Passive 8 effect = Dark Attribute Attack Up [II / 7.5%]
 
-| Passive 9 icon = Chance to Anti-Charm
+| Passive 9 icon = Anti-Charm
 | Passive 9 name = Anti-Charm
 | Passive 9 name JP = アンチ・チャーム
 | Passive 9 effect = Anti-Charm
@@ -176,7 +176,7 @@
 | Magia 4 / 1 = Self / 3 Turns / 5%
 | Magia 4 / 2 = Self / 3 Turns / 15%
 | Magia effect 5 = MP Restore
-| Magia scaling 5 = 1%
+| Magia scaling 5 = 1 MP
 | Magia 5 / 1 = 15 MP
 | Magia 5 / 2 = 15 MP
 

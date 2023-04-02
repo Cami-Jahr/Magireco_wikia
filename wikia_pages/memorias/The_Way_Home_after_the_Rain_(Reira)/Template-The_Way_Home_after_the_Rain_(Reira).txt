@@ -17,11 +17,11 @@
 | max_ATK = 0
 | max_DEF = 1655
 
-| image = Chance to Darkness
+| image = Darkness
 | effect_name = Shade Stroke 
 | effect_name_JP = シェイド・ストローク
-| effect1 = Darkness & Attack Down [VI / 30%] (Target / 1 Turn)
-| effect2 = Darkness & Attack Down [VII / 35%] (Target / 1 Turn)
+| effect1 = Chance to Darkness [VI / 100%] & Attack Down [VI / 30%] (Target / 1 Turn)
+| effect2 = Chance to Darkness [VII / 100%] & Attack Down [VII / 35%] (Target / 1 Turn)
 | Cooldown = 7
 | Cooldown2 = 6
 }}

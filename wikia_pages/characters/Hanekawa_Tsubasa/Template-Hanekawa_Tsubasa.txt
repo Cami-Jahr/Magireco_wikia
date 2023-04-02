@@ -90,12 +90,12 @@
 | Passive 4 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = Chance to Anti-Magia Seal
+| Passive 5 icon = Anti-Magia Seal
 | Passive 5 name = Anti-Seal Magia [VI]
 | Passive 5 name JP = アンチ・シールマギア[Ⅵ]
 | Passive 5 effect = Chance to Anti-Magia Seal [VI / 50%]
 
-| Passive 6 icon = Chance to Skill Quicken
+| Passive 6 icon = Skill Quicken
 | Passive 6 name = Skill Quick [II]
 | Passive 6 name JP = スキルクイック[Ⅱ]
 | Passive 6 effect = Chance to Skill Quicken [II / 10%]
@@ -125,7 +125,7 @@
 | Passive 11 name JP = マギア・アデプト[Ⅱ]
 | Passive 11 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 12 icon = Chance to Burn on Attack
+| Passive 12 icon = Burn on Attack
 | Passive 12 name = Burn Edge [III]
 | Passive 12 name JP = バーン・エッジ[Ⅲ]
 | Passive 12 effect = Chance to Burn on Attack [III / 20%] (2 Turns)
@@ -135,10 +135,10 @@
 | Passive 13 name JP = アクセル・アデプト[Ⅳ]
 | Passive 13 effect = Accele MP Gain Up [IV / 17.5%]
 
-| Active 1 icon = Chance to Burn
+| Active 1 icon = Burn
 | Active 1 name = Arjentoness [III]
 | Active 1 name JP = アーデントネス[Ⅲ]
-| Active 1 effect = Burn (Target / 1 Turn) & Attack Up [III / 15%] (Self / 1 Turn)
+| Active 1 effect = Chance to Burn [III / 100%] (Target / 1 Turn) & Attack Up [III / 15%] (Self / 1 Turn)
 | Active 1 cooldown = 7
 
 | Connect name JP = 友達、できちゃったね
@@ -176,7 +176,7 @@
 | Magia 4 / 1 = All Enemies
 | Magia 4 / 2 = All Enemies
 | Magia effect 5 = MP Restore
-| Magia scaling 5 = 1%
+| Magia scaling 5 = 1 MP
 | Magia 5 / 1 = -
 | Magia 5 / 2 = 25 MP
 

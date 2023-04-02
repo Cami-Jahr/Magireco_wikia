@@ -110,12 +110,12 @@
 | Passive 8 name JP = マギア・アデプト[Ⅱ]
 | Passive 8 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 icon = Skill Quicken
 | Passive 9 name = Skill Quick [III]
 | Passive 9 name JP = スキルクイック[Ⅲ]
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
 
-| Passive 10 icon = Chance to Skill Seal on Attack
+| Passive 10 icon = Skill Seal on Attack
 | Passive 10 name = Jammer Edge [II]
 | Passive 10 name JP = ジャマ―・エッジ[Ⅱ]
 | Passive 10 effect = Chance to Skill Seal on Attack [II / 15%] (1 Turn)
@@ -125,7 +125,7 @@
 | Passive 11 name JP = レジスト・アデプト[Ⅱ]
 | Passive 11 effect = Status Ailment Resistance Up [II / 25%]
 
-| Passive 12 icon = Chance to Anti-Bind
+| Passive 12 icon = Anti-Bind
 | Passive 12 name = Anti-Bind
 | Passive 12 name JP = アンチ・バインド
 | Passive 12 effect = Anti-Bind

@@ -128,7 +128,7 @@
 | Passive 12 icon = Ignore Damage Cut
 | Passive 12 name = Estock Adept [IV]
 | Passive 12 name JP = エストック・アデプト[Ⅳ]
-| Passive 12 effect = Ignore Damage Cut [IV / 45%]
+| Passive 12 effect = Chance to Ignore Damage Cut [IV / 45%]
 
 | Passive 13 icon = 
 | Passive 13 name = 
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = IV / 330%
 | Magia 1 / 2 = VI / 350%
 | Magia effect 2 = MP Restore
-| Magia scaling 2 = 1%
+| Magia scaling 2 = 1 MP
 | Magia 2 / 1 = Allies / 22.5 MP
 | Magia 2 / 2 = Allies / 27.5 MP
 | Magia effect 3 = Damage Cut

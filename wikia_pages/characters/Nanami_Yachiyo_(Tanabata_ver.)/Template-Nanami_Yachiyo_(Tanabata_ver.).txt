@@ -90,17 +90,17 @@
 | Passive 4 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = Chance to Anti-Bind
+| Passive 5 icon = Anti-Bind
 | Passive 5 name = Anti-Bind
 | Passive 5 name JP = アンチ・バインド
 | Passive 5 effect = Anti-Bind
 
-| Passive 6 icon = Chance to Critical Hit
+| Passive 6 icon = Critical Hit
 | Passive 6 name = Critical Adept [II]
 | Passive 6 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 6 effect = Chance to Critical Hit [II / 15%]
 
-| Passive 7 icon = Chance to Evade
+| Passive 7 icon = Evade
 | Passive 7 name = Parry Adept [II]
 | Passive 7 name JP = パリィ・アデプト[Ⅱ]
 | Passive 7 effect = Chance to Evade [II / 15%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = テクニカル・アデプト[Ⅳ]
 | Passive 8 effect = Charge Disc Damage Up [IV / 20%]
 
-| Passive 9 icon = Chance to Anti-Evade
+| Passive 9 icon = Anti-Evade
 | Passive 9 name = Aiming Adept [III]
 | Passive 9 name JP = エイミング・アデプト[Ⅲ]
 | Passive 9 effect = Chance to Anti-Evade [III / 35%]
@@ -120,7 +120,7 @@
 | Passive 10 name JP = チャージエキスパート[Ⅳ]
 | Passive 10 effect = Charged Attack Damage Up [IV / 15%] & Charge Disc Damage Up [IV / 20%]
 
-| Passive 11 icon = Chance to Anti-Charm
+| Passive 11 icon = Anti-Charm
 | Passive 11 name = Anti-Charm
 | Passive 11 name JP = アンチ・チャーム
 | Passive 11 effect = Anti-Charm
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Ignore Damage Cut
-| Connect 2 / 1 = VII / 100%
-| Connect 2 / 2 = IX / 100%
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
 | Connect effect 3 = Anti-Evade
 | Connect 3 / 1 = 
 | Connect 3 / 2 = 

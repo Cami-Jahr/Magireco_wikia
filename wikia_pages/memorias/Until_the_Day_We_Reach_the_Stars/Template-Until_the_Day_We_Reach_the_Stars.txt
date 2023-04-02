@@ -17,7 +17,7 @@
 | max_ATK = 1840
 | max_DEF = 0
 
-| image = Chance to Anti-Charm
+| image = Anti-Charm
 | effect_name = Everglow
 | effect_name_JP = エバーグロウ
 | effect1 = 

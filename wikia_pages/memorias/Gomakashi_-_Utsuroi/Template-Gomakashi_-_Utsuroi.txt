@@ -17,7 +17,7 @@
 | max_ATK = 1000
 | max_DEF = 0
 
-| image = Chance to Anti-Bind
+| image = Anti-Bind
 | effect_name = Gomakashi / Utsuroi
 | effect_name_JP = ごまかし／うつろい
 | effect1 = 

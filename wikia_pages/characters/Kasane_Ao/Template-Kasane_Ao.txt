@@ -95,7 +95,7 @@
 | Passive 5 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 5 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 6 icon = Chance to Critical Hit
+| Passive 6 icon = Critical Hit
 | Passive 6 name = Critical Adept [II]
 | Passive 6 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 6 effect = Chance to Critical Hit [II / 15%]
@@ -125,12 +125,12 @@
 | Passive 11 name JP = マギア・アデプト[Ⅱ]
 | Passive 11 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 12 icon = Chance to Anti-Magia Seal
+| Passive 12 icon = Anti-Magia Seal
 | Passive 12 name = Anti-Seal Magia
 | Passive 12 name JP = アンチ・シールマギア
 | Passive 12 effect = Anti-Magia Seal
 
-| Passive 13 icon = Chance to Skill Quicken
+| Passive 13 icon = Skill Quicken
 | Passive 13 name = Skill Quick [III]
 | Passive 13 name JP = スキルクイック[Ⅲ]
 | Passive 13 effect = Chance to Skill Quicken [III / 15%]

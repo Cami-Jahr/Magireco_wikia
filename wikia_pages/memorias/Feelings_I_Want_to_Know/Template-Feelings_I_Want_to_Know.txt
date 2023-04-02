@@ -17,7 +17,7 @@
 | max_ATK = 1465
 | max_DEF = 0
 
-| image = Chance to Evade
+| image = Evade
 | effect_name = Healing Step Adept 
 | effect_name_JP = ヒーリングステップ・アデプト
 | effect1 = Chance to Evade [II / 15%] & Regenerate HP [I / 2%]

@@ -115,7 +115,7 @@
 | Passive 9 name JP = チャージ・アデプト[Ⅱ]
 | Passive 9 effect = Charged Attack Damage Up [II / 10%]
 
-| Passive 10 icon = Chance to Anti-Bind
+| Passive 10 icon = Anti-Bind
 | Passive 10 name = Anti-Bind
 | Passive 10 name JP = アンチ・バインド
 | Passive 10 effect = Anti-Bind
@@ -125,7 +125,7 @@
 | Passive 11 name JP = レジスト・アデプト[Ⅱ]
 | Passive 11 effect = Status Ailment Resistance Up [II / 25%]
 
-| Passive 12 icon = Chance to Defense Pierce
+| Passive 12 icon = Defense Pierce
 | Passive 12 name = Penetrate Adept [II]
 | Passive 12 name JP = ペネトレイト・アデプト[Ⅱ]
 | Passive 12 effect = Chance to Defense Pierce [II / 15%]

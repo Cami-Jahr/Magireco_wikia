@@ -100,7 +100,7 @@
 | Passive 6 name JP = フレイム・アデプト[Ⅰ]
 | Passive 6 effect = Flame Attribute Attack Up [I / 5%]
 
-| Passive 7 icon = Chance to Evade
+| Passive 7 icon = Evade
 | Passive 7 name = Parry Adept [II]
 | Passive 7 name JP = パリィ・アデプト[Ⅱ]
 | Passive 7 effect = Chance to Evade [II / 15%]
@@ -110,12 +110,12 @@
 | Passive 8 name JP = アクセル・アデプト[Ⅱ]
 | Passive 8 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 9 icon = Chance to Magia Seal on Attack
+| Passive 9 icon = Magia Seal on Attack
 | Passive 9 name = Magia Seal Edge [II]
 | Passive 9 name JP = シールマギア・エッジ[Ⅱ]
 | Passive 9 effect = Chance to Magia Seal on Attack [II / 15%] (1 Turn)
 
-| Passive 10 icon = Chance to Anti-Evade
+| Passive 10 icon = Anti-Evade
 | Passive 10 name = Aiming Adept [III]
 | Passive 10 name JP = エイミング・アデプト[Ⅲ]
 | Passive 10 effect = Chance to Anti-Evade [III / 35%]
@@ -125,7 +125,7 @@
 | Passive 11 name JP = シールド・アデプト[Ⅲ]
 | Passive 11 effect = Damage Cut [III / 15%]
 
-| Passive 12 icon = Chance to Critical Hit
+| Passive 12 icon = Critical Hit
 | Passive 12 name = Critical Adept [II]
 | Passive 12 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 12 effect = Chance to Critical Hit [II / 15%]

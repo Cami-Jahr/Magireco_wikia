@@ -17,7 +17,7 @@
 | max_ATK = 1810
 | max_DEF = 0
 
-| image = Chance to Critical Hit
+| image = Critical Hit
 | effect_name = Starlight Power!
 | effect_name_JP = スターライトパワー！
 | effect1 = Chance to Critical Hit [III / 20%] & Charged Attack Damage Up [III / 10%]

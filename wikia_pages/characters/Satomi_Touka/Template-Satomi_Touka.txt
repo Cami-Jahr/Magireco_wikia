@@ -120,7 +120,7 @@
 | Passive 10 name JP = ブルーム・アデプト[Ⅲ]
 | Passive 10 effect = Attack Up [III / 15%] & Defense Up [III / 22.5%]
 
-| Passive 11 icon = Chance to Evade
+| Passive 11 icon = Evade
 | Passive 11 name = Parry Adept [II]
 | Passive 11 name JP = パリィ・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Evade [II / 15%]

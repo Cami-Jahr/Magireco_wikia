@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1450
 
-| image = Chance to Guardian
+| image = Guardian
 | effect_name = Guardian Soul 
 | effect_name_JP = ガーディアン・ソウル
 | effect1 = Chance to Guardian on Allies with Critical Health [VIII / 45%] (Self / 3 Turns)

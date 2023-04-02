@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1055
 
-| image = Chance to Charm
+| image = Charm
 | effect_name = Charm Eyes 
 | effect_name_JP = チャーム・アイズ
 | effect1 = Chance to Charm [IX / 50%] (All Enemies / 1 Turn)

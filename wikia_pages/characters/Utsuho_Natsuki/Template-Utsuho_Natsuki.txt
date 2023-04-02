@@ -95,7 +95,7 @@
 | Passive 5 name JP = フレイムシールド・アデプト[Ⅲ]
 | Passive 5 effect = Flame Attribute Damage Cut [III / 15%]
 
-| Passive 6 icon = Chance to Skill Quicken
+| Passive 6 icon = Skill Quicken
 | Passive 6 name = Skill Quick [III]
 | Passive 6 name JP = スキルクイック[Ⅲ]
 | Passive 6 effect = Chance to Skill Quicken [III / 15%]
@@ -120,7 +120,7 @@
 | Passive 10 name JP = MPブースト[Ⅱ]
 | Passive 10 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 11 icon = Chance to Darkness on Attack
+| Passive 11 icon = Darkness on Attack
 | Passive 11 name = Darkness Edge [II]
 | Passive 11 name JP = ダークネス・エッジ[Ⅱ]
 | Passive 11 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)
@@ -185,7 +185,7 @@
 | Magia 4 / 3 = Allies / 3 Turns / 20%
 | Magia 4 / 4 = Allies / 3 Turns / 22.5%
 | Magia effect 5 = MP Restore
-| Magia scaling 5 = 1%
+| Magia scaling 5 = 1 MP
 | Magia 5 / 1 = -
 | Magia 5 / 2 = -
 | Magia 5 / 3 = -

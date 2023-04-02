@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1460
 
-| image = Chance to Dazzle
+| image = Dazzle
 | effect_name = Mesmerize Mirage 
 | effect_name_JP = メズマライズ・ミラージュ
 | effect1 = 

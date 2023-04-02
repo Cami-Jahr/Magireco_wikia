@@ -95,7 +95,7 @@
 | Passive 5 name JP = MPブースト[Ⅱ]
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Chance to Anti-Evade
+| Passive 6 icon = Anti-Evade
 | Passive 6 name = Aiming Adept [III]
 | Passive 6 name JP = エイミング・アデプト[Ⅲ]
 | Passive 6 effect = Chance to Anti-Evade [III / 35%]
@@ -105,7 +105,7 @@
 | Passive 7 name JP = ブラストシールド[Ⅲ]
 | Passive 7 effect = Blast Damage Cut [III / 15%]
 
-| Passive 8 icon = Chance to Anti-Counter
+| Passive 8 icon = Anti-Counter
 | Passive 8 name = Anti-Counter [VIII]
 | Passive 8 name JP = アンチ・カウンター[Ⅷ]
 | Passive 8 effect = Chance to Anti-Counter [VIII / 60%]
@@ -115,7 +115,7 @@
 | Passive 9 name JP = マギア・アデプト[Ⅱ]
 | Passive 9 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 10 icon = Chance to Critical Hit
+| Passive 10 icon = Critical Hit
 | Passive 10 name = Critical Adept [II]
 | Passive 10 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 10 effect = Chance to Critical Hit [II / 15%]
@@ -125,7 +125,7 @@
 | Passive 11 name JP = ブラスト・アデプト[Ⅲ]
 | Passive 11 effect = Blast Damage Up [III / 20%]
 
-| Passive 12 icon = Chance to Evade
+| Passive 12 icon = Evade
 | Passive 12 name = Parry Adept [II]
 | Passive 12 name JP = パリィ・アデプト[Ⅱ]
 | Passive 12 effect = Chance to Evade [II / 15%]
@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Anti-Evade
+| Active 1 icon = Anti-Evade
 | Active 1 name = Absolute Blast [III]
 | Active 1 name JP = アブソリュート・ブラスト[Ⅲ]
 | Active 1 effect = Anti-Evade & Blast Damage Up [III / 25%] (Self / 3 Turns)

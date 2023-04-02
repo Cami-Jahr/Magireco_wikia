@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1070
 
-| image = Chance to Defense Pierce
+| image = Defense Pierce
 | effect_name = Penetrate
 | effect_name_JP = ペネトレイト
 | effect1 = Defense Pierce (Self / 1 Turn)

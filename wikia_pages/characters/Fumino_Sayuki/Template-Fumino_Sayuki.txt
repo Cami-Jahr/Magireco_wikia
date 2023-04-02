@@ -115,17 +115,17 @@
 | Passive 9 name JP = ファスト・マナアップ
 | Passive 9 effect = MP Gauge Increased On Battle Start [15% full]
 
-| Passive 10 icon = Chance to Skill Quicken
+| Passive 10 icon = Skill Quicken
 | Passive 10 name = Skill Quick [III]
 | Passive 10 name JP = スキルクイック[Ⅲ]
 | Passive 10 effect = Chance to Skill Quicken [III / 15%]
 
-| Passive 11 icon = Chance to Anti-Skill Seal
+| Passive 11 icon = Anti-Skill Seal
 | Passive 11 name = Anti-Jammer
 | Passive 11 name JP = アンチ・ジャマ―
 | Passive 11 effect = Anti-Skill Seal
 
-| Passive 12 icon = Chance to Defense Pierce
+| Passive 12 icon = Defense Pierce
 | Passive 12 name = Penetrate Adept [II]
 | Passive 12 name JP = ペネトレイト・アデプト[Ⅱ]
 | Passive 12 effect = Chance to Defense Pierce [II / 15%]

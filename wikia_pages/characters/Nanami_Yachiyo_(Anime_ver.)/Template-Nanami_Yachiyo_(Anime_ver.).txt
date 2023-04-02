@@ -115,7 +115,7 @@
 | Passive 9 name JP = ブラストサルテーション[Ⅶ]
 | Passive 9 effect = Blast MP Gain Up [VII / 7 MP]
 
-| Passive 10 icon = Chance to Anti-Provoke
+| Passive 10 icon = Anti-Provoke
 | Passive 10 name = Hawkeye Aura
 | Passive 10 name JP = ホークアイ・オーラ
 | Passive 10 effect = Anti-Provoke & Anti-Evade (Self / 3 Turns)

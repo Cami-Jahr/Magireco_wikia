@@ -100,7 +100,7 @@
 | Passive 6 name JP = シールド・アデプト[Ⅱ]
 | Passive 6 effect = Damage Cut [II / 10%]
 
-| Passive 7 icon = Chance to Anti-Magia Seal
+| Passive 7 icon = Anti-Magia Seal
 | Passive 7 name = Anti-Seal Magia
 | Passive 7 name JP = アンチ・シールマギア
 | Passive 7 effect = Anti-Magia Seal
@@ -113,7 +113,7 @@
 | Passive 9 icon = Survive
 | Passive 9 name = Survive Adept [I]
 | Passive 9 name JP = サヴァイヴ・アデプト[Ⅰ]
-| Passive 9 effect = Survive [I / 20%]
+| Passive 9 effect = Survive [I / 20% HP]
 
 | Passive 10 icon = Barrier
 | Passive 10 name = Barrier Aura

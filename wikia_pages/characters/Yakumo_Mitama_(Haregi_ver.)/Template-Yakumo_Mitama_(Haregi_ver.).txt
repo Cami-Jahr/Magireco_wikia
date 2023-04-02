@@ -105,7 +105,7 @@
 | Passive 7 name JP = アクセル・アデプト[Ⅱ]
 | Passive 7 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 8 icon = Chance to Darkness on Attack
+| Passive 8 icon = Darkness on Attack
 | Passive 8 name = Darkness Edge [II]
 | Passive 8 name JP = ダークネス・エッジ[Ⅱ]
 | Passive 8 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)
@@ -163,22 +163,18 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
-| Magia effect 2 = Curse
+| Magia effect 2 = Chance to Curse
 | Magia scaling 2 = -
-| Magia 2 / 1 = All Enemies / 1 Turn
-| Magia 2 / 2 = All Enemies / 1 Turn
-| Magia effect 3 = Poison
+| Magia 2 / 1 = All Enemies / 1 Turn / 100%
+| Magia 2 / 2 = All Enemies / 1 Turn / 100%
+| Magia effect 3 = Chance to Magia Seal
 | Magia scaling 3 = -
-| Magia 3 / 1 = -
-| Magia 3 / 2 = All Enemies / 2 Turns
-| Magia effect 4 = Magia Seal
+| Magia 3 / 1 = All Enemies / 1 Turn / 52.5%
+| Magia 3 / 2 = All Enemies / 2 Turns / 100%
+| Magia effect 4 = Chance to Poison
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
-| Magia 4 / 2 = All Enemies / 2 Turns
-| Magia effect 5 = Chance to Magia Seal
-| Magia scaling 5 = -
-| Magia 5 / 1 = All Enemies / 1 Turn / 52.5%
-| Magia 5 / 2 = -
+| Magia 4 / 2 = All Enemies / 2 Turns / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -188,10 +184,10 @@
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
-| Magia2 effect 2 = Curse
-| Magia2 2 = All Enemies / 1 Turn
-| Magia2 effect 3 = Poison
-| Magia2 3 = All Enemies / 3 Turns
-| Magia2 effect 4 = Magia Seal
-| Magia2 4 = All Enemies / 3 Turns
+| Magia2 effect 2 = Chance to Curse
+| Magia2 2 = All Enemies / 1 Turn / 100%
+| Magia2 effect 3 = Chance to Poison
+| Magia2 3 = All Enemies / 3 Turns / 100%
+| Magia2 effect 4 = Chance to Magia Seal
+| Magia2 4 = All Enemies / 3 Turns / 100%
 }}

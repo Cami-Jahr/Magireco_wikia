@@ -95,7 +95,7 @@
 | Passive 5 name JP = マギア・アデプト[Ⅱ]
 | Passive 5 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 6 icon = Chance to Evade
+| Passive 6 icon = Evade
 | Passive 6 name = Parry Adept [II]
 | Passive 6 name JP = パリィ・アデプト[Ⅱ]
 | Passive 6 effect = Chance to Evade [II / 15%]

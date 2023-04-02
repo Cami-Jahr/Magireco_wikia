@@ -110,12 +110,12 @@
 | Passive 8 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 8 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 9 icon = Chance to Curse on Attack
+| Passive 9 icon = Curse on Attack
 | Passive 9 name = Curse Edge [III]
 | Passive 9 name JP = カース・エッジ[Ⅲ]
 | Passive 9 effect = Chance to Curse on Attack [III / 20%] (1 Turn)
 
-| Passive 10 icon = Chance to Skill Quicken
+| Passive 10 icon = Skill Quicken
 | Passive 10 name = Skill Quick [II]
 | Passive 10 name JP = スキルクイック[Ⅱ]
 | Passive 10 effect = Chance to Skill Quicken [II / 10%]
@@ -168,18 +168,18 @@
 | Magia 2 / 1 = All Enemies / 3 Turns / 22.5%
 | Magia 2 / 2 = All Enemies / 3 Turns / 27.5%
 | Magia 2 / 3 = All Enemies / 3 Turns / 30%
-| Magia effect 3 = Curse
+| Magia effect 3 = Chance to Curse
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
-| Magia 3 / 2 = All Enemies / 1 Turn
-| Magia 3 / 3 = All Enemies / 1 Turn
+| Magia 3 / 2 = All Enemies / 1 Turn / 100%
+| Magia 3 / 3 = All Enemies / 1 Turn / 100%
 | Magia effect 4 = Defense Down
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
 | Magia 4 / 3 = All Enemies / 3 Turns / 15%
 | Magia effect 5 = MP Restore
-| Magia scaling 5 = 1%
+| Magia scaling 5 = 1 MP
 | Magia 5 / 1 = -
 | Magia 5 / 2 = -
 | Magia 5 / 3 = 18 MP
@@ -196,8 +196,8 @@
 | Magia2 2 = All Enemies / 3 Turns / 45%
 | Magia2 effect 3 = Defense Down
 | Magia2 3 = All Enemies / 3 Turns / 30%
-| Magia2 effect 4 = Curse
-| Magia2 4 = All Enemies / 1 Turn
+| Magia2 effect 4 = Chance to Curse
+| Magia2 4 = All Enemies / 1 Turn / 100%
 | Magia2 effect 5 = MP Restore
 | Magia2 5 = 29 MP
 }}

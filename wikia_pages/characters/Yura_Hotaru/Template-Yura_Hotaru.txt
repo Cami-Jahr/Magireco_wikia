@@ -165,7 +165,7 @@
 | Magia 2 / 1 = Allies / 3 Turns / 5%
 | Magia 2 / 2 = Allies / 3 Turns / 7%
 | Magia effect 3 = Regenerate MP
-| Magia scaling 3 = 0.5%
+| Magia scaling 3 = 0.5 MP
 | Magia 3 / 1 = Allies / 3 Turns / 5 MP
 | Magia 3 / 2 = Allies / 3 Turns / 7 MP
 

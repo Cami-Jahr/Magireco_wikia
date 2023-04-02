@@ -21,7 +21,7 @@
 | effect_name = Blur Haze 
 | effect_name_JP = ブラー・ヘイズ
 | effect1 = Blast Damage Down [VII / 20%] & Chance to Fog [XV / 65%] (Target / 3 Turns)
-| effect2 = Blast Damage Down [VIII / 22.5%] & Fog (Target / 3 Turns)
+| effect2 = Blast Damage Down [VIII / 22.5%] & Chance to Fog [VIII / 100%] (Target / 3 Turns)
 | Cooldown = 8
 | Cooldown2 = 7
 }}

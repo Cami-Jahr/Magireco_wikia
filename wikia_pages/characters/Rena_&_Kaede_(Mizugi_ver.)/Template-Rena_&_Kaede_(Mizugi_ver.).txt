@@ -110,12 +110,12 @@
 | Passive 8 name JP = スラッシュ・アデプト[Ⅱ]
 | Passive 8 effect = Damage Up [II / 10%]
 
-| Passive 9 icon = Chance to Anti-Magia Seal
+| Passive 9 icon = Anti-Magia Seal
 | Passive 9 name = Anti-Seal Magia
 | Passive 9 name JP = アンチ・シールマギア
 | Passive 9 effect = Anti-Magia Seal
 
-| Passive 10 icon = Chance to Evade
+| Passive 10 icon = Evade
 | Passive 10 name = Parry Adept [II]
 | Passive 10 name JP = パリィ・アデプト[Ⅱ]
 | Passive 10 effect = Chance to Evade [II / 15%]
@@ -168,7 +168,7 @@
 | Magia 2 / 1 = Allies / 3 Turns / 22.5%
 | Magia 2 / 2 = Allies / 3 Turns / 27.5%
 | Magia effect 3 = MP Restore
-| Magia scaling 3 = 1%
+| Magia scaling 3 = 1 MP
 | Magia 3 / 1 = 16 MP
 | Magia 3 / 2 = 16 MP
 | Magia effect 4 = Damage Cut

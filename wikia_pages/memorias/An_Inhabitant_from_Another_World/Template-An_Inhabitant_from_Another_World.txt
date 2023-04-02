@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1885
 
-| image = Chance to Charm
+| image = Charm
 | effect_name = Allure 
 | effect_name_JP = アルーア
 | effect1 = Chance to Charm [V / 40%] & Attack Down [V / 25%] (All Enemies / 1 Turn)

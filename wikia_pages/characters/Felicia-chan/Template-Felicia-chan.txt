@@ -110,7 +110,7 @@
 | Passive 8 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 8 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 9 icon = Chance to Critical Hit
+| Passive 9 icon = Critical Hit
 | Passive 9 name = Critical Adept [II]
 | Passive 9 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 9 effect = Chance to Critical Hit [II / 15%]
@@ -120,12 +120,12 @@
 | Passive 10 name JP = モラール・アデプト[Ⅲ]
 | Passive 10 effect = MP Gain Up [III / 10%]
 
-| Passive 11 icon = Chance to Evade
+| Passive 11 icon = Evade
 | Passive 11 name = Parry Adept [II]
 | Passive 11 name JP = パリィ・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Evade [II / 15%]
 
-| Passive 12 icon = Chance to Anti-Evade
+| Passive 12 icon = Anti-Evade
 | Passive 12 name = Aiming Adept [III]
 | Passive 12 name JP = エイミング・アデプト[Ⅲ]
 | Passive 12 effect = Chance to Anti-Evade [III / 35%]
@@ -153,10 +153,10 @@
 | Connect 2 / 1 = V / 30%
 | Connect 2 / 2 = VII / 35%
 | Connect 2 / 3 = IX / 40%
-| Connect effect 3 = Skill Seal
-| Connect 3 / 1 = 2 Turns
-| Connect 3 / 2 = 2 Turns
-| Connect 3 / 3 = 2 Turns
+| Connect effect 3 = Chance to Skill Seal
+| Connect 3 / 1 = 2 Turns / V / 100%
+| Connect 3 / 2 = 2 Turns / VII / 100%
+| Connect 3 / 3 = 2 Turns / IX / 100%
 
 | Magia name JP = BITE! BITE! BITE! 
 | Magia name EN = 

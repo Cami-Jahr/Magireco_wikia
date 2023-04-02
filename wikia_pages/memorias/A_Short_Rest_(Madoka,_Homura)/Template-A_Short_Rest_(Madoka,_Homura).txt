@@ -17,7 +17,7 @@
 | max_ATK = 1820
 | max_DEF = 0
 
-| image = Chance to Anti-Curse
+| image = Anti-Curse
 | effect_name = Heavenly Adept 
 | effect_name_JP = ヘブンリー・アデプト
 | effect1 = 

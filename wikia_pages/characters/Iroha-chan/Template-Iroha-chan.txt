@@ -105,7 +105,7 @@
 | Passive 7 name JP = リジェネレイト・アデプト[Ⅲ]
 | Passive 7 effect = Regenerate HP [III / 4%]
 
-| Passive 8 icon = Chance to Skill Quicken
+| Passive 8 icon = Skill Quicken
 | Passive 8 name = Skill Quick [III]
 | Passive 8 name JP = スキルクイック[Ⅲ]
 | Passive 8 effect = Chance to Skill Quicken [III / 15%]
@@ -144,7 +144,7 @@
 | Connect name JP = 次は引ける気がします！
 | Connect name EN = 
 | Connect name NA = 
-| Connect icon = Chance to Critical Hit
+| Connect icon = Critical Hit
 | Connect effect 1 = Chance to Critical Hit
 | Connect 1 / 1 = VIII / 65%
 | Connect 1 / 2 = X / 75%
@@ -177,8 +177,8 @@
 | Doppel Japanese Designer = ー
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
-| Magia2 effect 2 = Dazzle
-| Magia2 2 = All Enemies / 2 Turns
+| Magia2 effect 2 = Chance to Dazzle
+| Magia2 2 = All Enemies / 2 Turns / 100%
 | Magia2 effect 3 = Remove Debuffs
 | Magia2 3 = Allies
 }}

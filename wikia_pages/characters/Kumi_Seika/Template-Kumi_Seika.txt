@@ -90,7 +90,7 @@
 | Passive 4 name JP = マギア・アデプト[Ⅱ]
 | Passive 4 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 5 icon = Chance to Bind on Attack
+| Passive 5 icon = Bind on Attack
 | Passive 5 name = Bind Edge [III]
 | Passive 5 name JP = バインド・エッジ[Ⅲ]
 | Passive 5 effect = Chance to Bind on Attack [III / 20%] (1 Turn)
@@ -110,7 +110,7 @@
 | Passive 8 name JP = シールド・アデプト[Ⅱ]
 | Passive 8 effect = Damage Cut [II / 10%]
 
-| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 icon = Skill Quicken
 | Passive 9 name = Skill Quick [II]
 | Passive 9 name JP = スキルクイック[Ⅱ]
 | Passive 9 effect = Chance to Skill Quicken [II / 10%]
@@ -120,7 +120,7 @@
 | Passive 10 name JP = アクセル・アデプト[Ⅱ]
 | Passive 10 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 11 icon = Chance to Anti-Skill Seal
+| Passive 11 icon = Anti-Skill Seal
 | Passive 11 name = Anti-Jammer
 | Passive 11 name JP = アンチ・ジャマ―
 | Passive 11 effect = Anti-Skill Seal
@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Fog
+| Active 1 icon = Fog
 | Active 1 name = Fog [IX]
 | Active 1 name JP = フォッグ[Ⅸ]
 | Active 1 effect = Chance to Fog [IX / 50%] (All Enemies / 1 Turn)
@@ -171,21 +171,16 @@
 | Magia 1 / 1 = I / 300%
 | Magia 1 / 2 = III / 320%
 | Magia 1 / 3 = V / 340%
-| Magia effect 2 = Fog
+| Magia effect 2 = Chance to Fog
 | Magia scaling 2 = -
-| Magia 2 / 1 = -
-| Magia 2 / 2 = All Enemies / 3 Turns
-| Magia 2 / 3 = All Enemies / 3 Turns
+| Magia 2 / 1 = All Enemies / 3 Turns / 47.5%
+| Magia 2 / 2 = All Enemies / 3 Turns / 100%
+| Magia 2 / 3 = All Enemies / 3 Turns / 100%
 | Magia effect 3 = Blast Damage Down
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
 | Magia 3 / 3 = All Enemies / 3 Turns / 25%
-| Magia effect 4 = Chance to Fog
-| Magia scaling 4 = -
-| Magia 4 / 1 = All Enemies / 3 Turns / 47.5%
-| Magia 4 / 2 = -
-| Magia 4 / 3 = -
 
 | Doppel Name = 
 | Doppel Title = 

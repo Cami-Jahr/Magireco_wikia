@@ -80,7 +80,7 @@
 | Passive 2 name JP = MPブースト[Ⅱ]
 | Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 3 icon = Chance to Dazzle on Attack
+| Passive 3 icon = Dazzle on Attack
 | Passive 3 name = Mesmerize Edge [III]
 | Passive 3 name JP = メズマライズ・エッジ[Ⅲ]
 | Passive 3 effect = Chance to Dazzle on Attack [III / 20%] (1 Turn)
@@ -95,7 +95,7 @@
 | Passive 5 name JP = アクセル・アデプト[Ⅱ]
 | Passive 5 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 6 icon = Chance to Critical Hit
+| Passive 6 icon = Critical Hit
 | Passive 6 name = Critical Adept [II]
 | Passive 6 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 6 effect = Chance to Critical Hit [II / 15%]
@@ -125,20 +125,20 @@
 | Passive 11 name JP = マギア・アデプト[Ⅱ]
 | Passive 11 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 12 icon = Chance to Anti-Magia Seal
+| Passive 12 icon = Anti-Magia Seal
 | Passive 12 name = Anti-Seal Magia
 | Passive 12 name JP = アンチ・シールマギア
 | Passive 12 effect = Anti-Magia Seal
 
-| Passive 13 icon = Chance to Skill Quicken
+| Passive 13 icon = Skill Quicken
 | Passive 13 name = Skill Quick [III]
 | Passive 13 name JP = スキルクイック[Ⅲ]
 | Passive 13 effect = Chance to Skill Quicken [III / 15%]
 
-| Active 1 icon = Chance to Dazzle
+| Active 1 icon = Dazzle
 | Active 1 name = Mesmerize Accele [V]
 | Active 1 name JP = メズマライズアクセル[Ⅴ]
-| Active 1 effect = Dazzle (Target / 1 Turn) & Accele MP Gain Up [V / 20%] (Self / 1 Turn)
+| Active 1 effect = Chance to Dazzle [V / 100%] (Target / 1 Turn) & Accele MP Gain Up [V / 20%] (Self / 1 Turn)
 | Active 1 cooldown = 5
 
 | Connect name JP = 甘えたなんですから
@@ -177,8 +177,8 @@
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
-| Magia2 effect 2 = Dazzle
-| Magia2 2 = All Enemies / 2 Turns
+| Magia2 effect 2 = Chance to Dazzle
+| Magia2 2 = All Enemies / 2 Turns / 100%
 | Magia2 effect 3 = Remove Buffs
 | Magia2 3 = All Enemies
 }}

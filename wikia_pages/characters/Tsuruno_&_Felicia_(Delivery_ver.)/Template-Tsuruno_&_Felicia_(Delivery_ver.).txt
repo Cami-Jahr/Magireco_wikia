@@ -85,7 +85,7 @@
 | Passive 3 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 4 icon = Chance to Anti-Magia Seal
+| Passive 4 icon = Anti-Magia Seal
 | Passive 4 name = Anti-Seal Magia
 | Passive 4 name JP = アンチ・シールマギア
 | Passive 4 effect = Anti-Magia Seal
@@ -125,7 +125,7 @@
 | Passive 11 name JP = フレイム・アデプト[Ⅱ]
 | Passive 11 effect = Flame Attribute Attack Up [II / 7.5%]
 
-| Passive 12 icon = Chance to Evade
+| Passive 12 icon = Evade
 | Passive 12 name = Parry Adept [II]
 | Passive 12 name JP = パリィ・アデプト[Ⅱ]
 | Passive 12 effect = Chance to Evade [II / 15%]

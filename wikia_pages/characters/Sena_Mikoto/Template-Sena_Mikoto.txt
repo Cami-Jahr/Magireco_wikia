@@ -110,17 +110,17 @@
 | Passive 8 name JP = リジェネレイト・アデプト[Ⅲ]
 | Passive 8 effect = Regenerate HP [III / 4%]
 
-| Passive 9 icon = Chance to Anti-Magia Seal
+| Passive 9 icon = Anti-Magia Seal
 | Passive 9 name = Anti-Seal Magia
 | Passive 9 name JP = アンチ・シールマギア
 | Passive 9 effect = Anti-Magia Seal
 
-| Passive 10 icon = Chance to Counter
+| Passive 10 icon = Counter
 | Passive 10 name = Cross Counter Aura
 | Passive 10 name JP = クロスカウンター・オーラ
 | Passive 10 effect = Strengthened Counter (Self / 5 Turns)
 
-| Passive 11 icon = Chance to Skill Quicken
+| Passive 11 icon = Skill Quicken
 | Passive 11 name = Skill Quick [III]
 | Passive 11 name JP = スキルクイック[Ⅲ]
 | Passive 11 effect = Chance to Skill Quicken [III / 15%]
@@ -144,7 +144,7 @@
 | Connect name JP = 共同実験をはじめてみよっか？
 | Connect name EN = 
 | Connect name NA = 
-| Connect icon = Chance to Provoke
+| Connect icon = Provoke
 | Connect effect 1 = Provoke
 | Connect 1 / 1 = 
 | Connect 1 / 2 = 

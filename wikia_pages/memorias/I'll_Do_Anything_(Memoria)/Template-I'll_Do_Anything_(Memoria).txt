@@ -17,7 +17,7 @@
 | max_ATK = 2200
 | max_DEF = 0
 
-| image = Chance to Skill Seal on Attack
+| image = Skill Seal on Attack
 | effect_name = I'll Do Anything
 | effect_name_JP = なんだってしてやるよ
 | effect1 = 

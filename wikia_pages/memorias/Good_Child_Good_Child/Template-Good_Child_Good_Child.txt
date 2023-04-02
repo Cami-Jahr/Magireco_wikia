@@ -17,7 +17,7 @@
 | max_ATK = 1940
 | max_DEF = 0
 
-| image = Chance to Anti-Fog
+| image = Anti-Fog
 | effect_name = Anti-Haze
 | effect_name_JP = アンチ・ヘイズ
 | effect1 = 

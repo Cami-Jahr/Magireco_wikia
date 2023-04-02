@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1355
 
-| image = Chance to Critical Hit
+| image = Critical Hit
 | effect_name = Esperansa Force 
 | effect_name_JP = エスペランサ―・フォース
 | effect1 = Chance to Critical Hit [I / 10%] & Attack Up [II / 10%] (Self / 3 Turns)

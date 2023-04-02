@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 2002
 
-| image = Chance to Guardian
+| image = Guardian
 | effect_name = Guardian
 | effect_name_JP = ガーディアン
 | effect1 = Guardian on Allies with Critical Health (Self / 1 Turn)

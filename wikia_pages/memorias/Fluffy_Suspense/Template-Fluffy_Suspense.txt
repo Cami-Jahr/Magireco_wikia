@@ -17,7 +17,7 @@
 | max_ATK = 1595
 | max_DEF = 0
 
-| image = Chance to Critical Hit
+| image = Critical Hit
 | effect_name = Charge Strike Adept 
 | effect_name_JP = チャージストライクアデプト
 | effect1 = Chance to Critical Hit [II / 15%] & Charged Attack Damage Up [II / 7.5%]

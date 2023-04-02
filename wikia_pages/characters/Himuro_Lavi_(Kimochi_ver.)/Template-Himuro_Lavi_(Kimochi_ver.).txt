@@ -120,7 +120,7 @@
 | Passive 10 name JP = フルゲージ・ブルーム[Ⅹ]
 | Passive 10 effect = Attack Up While At Max Health [X / 50%] & Defense Up While At Max Health [V / 50%]
 
-| Passive 11 icon = Chance to Anti-Evade
+| Passive 11 icon = Anti-Evade
 | Passive 11 name = Bullseye Shield Aura
 | Passive 11 name JP = ブルズアイシールド・オーラ
 | Passive 11 effect = Anti-Evade (Self / 3 Turns) & Barrier [5000 damage]
@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VIII / 75%
 | Connect 1 / 2 = X / 85%
 | Connect effect 2 = Ignore Damage Cut
-| Connect 2 / 1 = VIII / 100%
-| Connect 2 / 2 = X / 100%
+| Connect 2 / 1 = 
+| Connect 2 / 2 = 
 
 | Magia name JP = タイム・ゼロ
 | Magia name EN = 
@@ -173,7 +173,7 @@
 | Magia 4 / 1 = Self / 3 Turns / 10000 damage
 | Magia 4 / 2 = Self / 3 Turns / 10000 damage
 | Magia effect 5 = Regenerate MP
-| Magia scaling 5 = 1%
+| Magia scaling 5 = 1 MP
 | Magia 5 / 1 = Self / 1 Turn / 25 MP
 | Magia 5 / 2 = Self / 1 Turn / 30 MP
 | Magia effect 6 = HP Restore

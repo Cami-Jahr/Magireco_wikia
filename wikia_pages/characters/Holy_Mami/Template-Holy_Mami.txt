@@ -90,12 +90,12 @@
 | Passive 4 name JP = モラール・アデプト[Ⅲ]
 | Passive 4 effect = MP Gain Up [III / 10%]
 
-| Passive 5 icon = Chance to Bind on Attack
+| Passive 5 icon = Bind on Attack
 | Passive 5 name = Bind Edge [II]
 | Passive 5 name JP = バインド・エッジ[Ⅱ]
 | Passive 5 effect = Chance to Bind on Attack [II / 15%] (1 Turn)
 
-| Passive 6 icon = Chance to Evade
+| Passive 6 icon = Evade
 | Passive 6 name = Parry Adept [II]
 | Passive 6 name JP = パリィ・アデプト[Ⅱ]
 | Passive 6 effect = Chance to Evade [II / 15%]
@@ -110,12 +110,12 @@
 | Passive 8 name JP = MPブースト[Ⅲ]
 | Passive 8 effect = MP Gain Up When Over 100 MP [III / 22%]
 
-| Passive 9 icon = Chance to Anti-Evade
+| Passive 9 icon = Anti-Evade
 | Passive 9 name = Aiming Adept [III]
 | Passive 9 name JP = エイミング・アデプト[Ⅲ]
 | Passive 9 effect = Chance to Anti-Evade [III / 35%]
 
-| Passive 10 icon = Chance to Critical Hit
+| Passive 10 icon = Critical Hit
 | Passive 10 name = Critical Adept [II]
 | Passive 10 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 10 effect = Chance to Critical Hit [II / 15%]
@@ -135,7 +135,7 @@
 | Passive 13 name JP = マナスプリング・アデプト[Ⅶ]
 | Passive 13 effect = Regenerate MP [VII / 12 MP]
 
-| Active 1 icon = Chance to Fog
+| Active 1 icon = Fog
 | Active 1 name = Deep Fog [V]
 | Active 1 name JP = ディープ・フォッグ[Ⅴ]
 | Active 1 effect = Chance to Fog [V / 40%] (All Enemies / 3 Turns) & Attack Down [V / 25%] (All Enemies / 1 Turn)

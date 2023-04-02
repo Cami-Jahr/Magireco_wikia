@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1230
 
-| image = Chance to Guardian
+| image = Guardian
 | effect_name = Covering
 | effect_name_JP = カバーリング
 | effect1 = Guardian (Self / 1 Turn)

@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1358
 
-| image = Chance to Critical Hit
+| image = Critical Hit
 | effect_name = Critical Strike 
 | effect_name_JP = クリティカル・ストライク
 | effect1 = Chance to Critical Hit [IV / 25%] (Self / 1 Turn)

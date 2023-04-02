@@ -105,7 +105,7 @@
 | Passive 7 name JP = リジェネレイト・アデプト[Ⅱ]
 | Passive 7 effect = Regenerate HP [II / 3%]
 
-| Passive 8 icon = Chance to Critical Hit
+| Passive 8 icon = Critical Hit
 | Passive 8 name = Critical Adept [II]
 | Passive 8 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 8 effect = Chance to Critical Hit [II / 15%]

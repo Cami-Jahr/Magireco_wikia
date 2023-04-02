@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Critical Hit
+| Active 1 icon = Critical Hit
 | Active 1 name = Whirlwind [X]
 | Active 1 name JP = ワールウィンド[Ⅹ]
 | Active 1 effect = Chance to Critical Hit [X / 55%] & Chance to Evade [X / 55%] (Self / 1 Turn)
@@ -144,7 +144,7 @@
 | Connect name JP = ダブルダウンですっ
 | Connect name EN = 
 | Connect name NA = 
-| Connect icon = Chance to Critical Hit
+| Connect icon = Critical Hit
 | Connect effect 1 = Chance to Critical Hit
 | Connect 1 / 1 = VII / 60%
 | Connect 1 / 2 = IX / 70%

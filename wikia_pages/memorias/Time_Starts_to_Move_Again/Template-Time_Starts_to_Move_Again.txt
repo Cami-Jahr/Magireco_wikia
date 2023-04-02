@@ -17,7 +17,7 @@
 | max_ATK = 1195
 | max_DEF = 0
 
-| image = Chance to Provoke
+| image = Provoke
 | effect_name = Guard Appeal 
 | effect_name_JP = ガードアピール
 | effect1 = Chance to Provoke [IV / 25%] & Defense Up [IV / 30%]

@@ -75,7 +75,7 @@
 | Passive 1 name JP = MPブースト[Ⅱ]
 | Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 2 icon = Chance to Anti-Charm
+| Passive 2 icon = Anti-Charm
 | Passive 2 name = Anti-Charm
 | Passive 2 name JP = アンチ・チャーム
 | Passive 2 effect = Anti-Charm
@@ -95,7 +95,7 @@
 | Passive 5 name JP = ティンバーシールド・アデプト[Ⅲ]
 | Passive 5 effect = Forest Attribute Damage Cut [III / 15%]
 
-| Passive 6 icon = Chance to Evade
+| Passive 6 icon = Evade
 | Passive 6 name = Parry Adept [II]
 | Passive 6 name JP = パリィ・アデプト[Ⅱ]
 | Passive 6 effect = Chance to Evade [II / 15%]
@@ -120,12 +120,12 @@
 | Passive 10 name JP = ファスト・マナアップ
 | Passive 10 effect = MP Gauge Increased On Battle Start [15% full]
 
-| Passive 11 icon = Chance to Anti-Magia Seal
+| Passive 11 icon = Anti-Magia Seal
 | Passive 11 name = Anti-Seal Magia
 | Passive 11 name JP = アンチ・シールマギア
 | Passive 11 effect = Anti-Magia Seal
 
-| Passive 12 icon = Chance to Dazzle on Attack
+| Passive 12 icon = Dazzle on Attack
 | Passive 12 name = Mesmerize Edge [III]
 | Passive 12 name JP = メズマライズ・エッジ[Ⅲ]
 | Passive 12 effect = Chance to Dazzle on Attack [III / 20%] (1 Turn)
@@ -135,10 +135,10 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Dazzle
+| Active 1 icon = Dazzle
 | Active 1 name = Mesmerize Frame [VII]
 | Active 1 name JP = メズマライズ・フレイム[Ⅶ]
-| Active 1 effect = Dazzle (Target / 1 Turn) & Flame Attribute Attack Up [VII / 20%] (Self / 3 Turns)
+| Active 1 effect = Chance to Dazzle [VII / 100%] (Target / 1 Turn) & Flame Attribute Attack Up [VII / 20%] (Self / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = 一緒にお菓子を配るの！

@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1432
 
-| image = Chance to Anti-Counter
+| image = Anti-Counter
 | effect_name = Reject Counter
 | effect_name_JP = リジェクト・カウンター
 | effect1 = Anti-Counter & Attack Up [V / 25%] (Self / 3 Turns)

@@ -17,7 +17,7 @@
 | max_ATK = 1840
 | max_DEF = 0
 
-| image = Chance to Guardian
+| image = Guardian
 | effect_name = Shield Bearer 
 | effect_name_JP = シールド・ベアラー
 | effect1 = 

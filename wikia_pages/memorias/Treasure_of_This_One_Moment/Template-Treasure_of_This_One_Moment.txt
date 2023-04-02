@@ -17,7 +17,7 @@
 | max_ATK = 2000
 | max_DEF = 0
 
-| image = Chance to Anti-Dazzle
+| image = Anti-Dazzle
 | effect_name = Sunset Glow
 | effect_name_JP = サンセット・グロウ
 | effect1 = Chance to Anti-Dazzle [IX / 65%] & Blast Damage Up [II / 20%]

@@ -100,7 +100,7 @@
 | Passive 6 name JP = チャージ・アデプト[Ⅱ]
 | Passive 6 effect = Charged Attack Damage Up [II / 10%]
 
-| Passive 7 icon = Chance to Evade
+| Passive 7 icon = Evade
 | Passive 7 name = Parry Adept [II]
 | Passive 7 name JP = パリィ・アデプト[Ⅱ]
 | Passive 7 effect = Chance to Evade [II / 15%]
@@ -115,17 +115,17 @@
 | Passive 9 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 9 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 10 icon = Chance to Anti-Evade
+| Passive 10 icon = Anti-Evade
 | Passive 10 name = Aiming Adept [III]
 | Passive 10 name JP = エイミング・アデプト[Ⅲ]
 | Passive 10 effect = Chance to Anti-Evade [III / 35%]
 
-| Passive 11 icon = Chance to Defense Pierce
+| Passive 11 icon = Defense Pierce
 | Passive 11 name = Penetrate Adept [III]
 | Passive 11 name JP = ペネトレイト・アデプト[Ⅲ]
 | Passive 11 effect = Chance to Defense Pierce [III / 20%]
 
-| Passive 12 icon = Chance to Critical Hit
+| Passive 12 icon = Critical Hit
 | Passive 12 name = Critical Adept [II]
 | Passive 12 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 12 effect = Chance to Critical Hit [II / 15%]
@@ -144,7 +144,7 @@
 | Connect name JP = それにしても危なっかしいわね
 | Connect name EN = 
 | Connect name NA = 
-| Connect icon = Chance to Defense Pierce
+| Connect icon = Defense Pierce
 | Connect effect 1 = Defense Pierce
 | Connect 1 / 1 = 
 | Connect 1 / 2 = 
@@ -161,7 +161,7 @@
 | Magia 1 / 1 = V / 315%
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = MP Restore
-| Magia scaling 2 = 1%
+| Magia scaling 2 = 1 MP
 | Magia 2 / 1 = 27.5 MP
 | Magia 2 / 2 = 32.5 MP
 | Magia effect 3 = Chance to Evade

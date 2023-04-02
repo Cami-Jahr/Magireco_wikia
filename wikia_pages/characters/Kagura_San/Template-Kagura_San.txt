@@ -125,7 +125,7 @@
 | Passive 11 name JP = レジスト・アデプト[Ⅱ]
 | Passive 11 effect = Status Ailment Resistance Up [II / 25%]
 
-| Passive 12 icon = Chance to Anti-Bind
+| Passive 12 icon = Anti-Bind
 | Passive 12 name = Anti-Bind
 | Passive 12 name JP = アンチ・バインド
 | Passive 12 effect = Anti-Bind
@@ -138,7 +138,7 @@
 | Active 1 icon = Survive
 | Active 1 name = Survive Resist [VII]
 | Active 1 name JP = サヴァイヴ・レジスト[Ⅶ]
-| Active 1 effect = Survive [I / 10%] & Status Ailment Resistance Up [VII / 50%] (Self / 1 Turn)
+| Active 1 effect = Survive [I / 10% HP] & Status Ailment Resistance Up [VII / 50%] (Self / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = 私の期待に応えなさい

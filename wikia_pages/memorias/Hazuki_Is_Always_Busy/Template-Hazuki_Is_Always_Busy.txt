@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1102
 
-| image = Chance to Skill Quicken
+| image = Skill Quicken
 | effect_name = Skill Quick
 | effect_name_JP = スキルクイック
 | effect1 = Skill Quicken (Self / 3 Turns)

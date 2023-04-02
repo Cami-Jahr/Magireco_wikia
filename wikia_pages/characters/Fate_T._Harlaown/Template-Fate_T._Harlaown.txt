@@ -90,7 +90,7 @@
 | Passive 4 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = Chance to Evade
+| Passive 5 icon = Evade
 | Passive 5 name = Parry Adept [II]
 | Passive 5 name JP = パリィ・アデプト[Ⅱ]
 | Passive 5 effect = Chance to Evade [II / 15%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 8 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 9 icon = Chance to Critical Hit
+| Passive 9 icon = Critical Hit
 | Passive 9 name = Critical Adept [II]
 | Passive 9 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 9 effect = Chance to Critical Hit [II / 15%]
@@ -125,7 +125,7 @@
 | Passive 11 name JP = アクセル・アデプト[Ⅴ]
 | Passive 11 effect = Accele MP Gain Up [V / 20%]
 
-| Passive 12 icon = Chance to Anti-Evade
+| Passive 12 icon = Anti-Evade
 | Passive 12 name = Aiming Adept [III]
 | Passive 12 name JP = エイミング・アデプト[Ⅲ]
 | Passive 12 effect = Chance to Anti-Evade [III / 35%]
@@ -133,9 +133,9 @@
 | Passive 13 icon = Ignore Damage Cut
 | Passive 13 name = Estock Adept [IV]
 | Passive 13 name JP = エストック・アデプト[Ⅳ]
-| Passive 13 effect = Ignore Damage Cut [IV / 45%]
+| Passive 13 effect = Chance to Ignore Damage Cut [IV / 45%]
 
-| Active 1 icon = Chance to Critical Hit
+| Active 1 icon = Critical Hit
 | Active 1 name = Whirlwind [X]
 | Active 1 name JP = ワールウィンド[Ⅹ]
 | Active 1 effect = Chance to Critical Hit [X / 55%] & Chance to Evade [X / 55%] (Self / 1 Turn)

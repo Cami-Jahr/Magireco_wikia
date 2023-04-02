@@ -80,7 +80,7 @@
 | Passive 2 name JP = シールド・アデプト[Ⅱ]
 | Passive 2 effect = Damage Cut [II / 10%]
 
-| Passive 3 icon = Chance to Fog on Attack
+| Passive 3 icon = Fog on Attack
 | Passive 3 name = Fog Edge [II]
 | Passive 3 name JP = フォッグ・エッジ[Ⅱ]
 | Passive 3 effect = Chance to Fog on Attack [II / 15%] (3 Turns)
@@ -105,17 +105,17 @@
 | Passive 7 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 7 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 8 icon = Chance to Anti-Skill Seal
+| Passive 8 icon = Anti-Skill Seal
 | Passive 8 name = Anti-Jammer
 | Passive 8 name JP = アンチ・ジャマ―
 | Passive 8 effect = Anti-Skill Seal
 
-| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 icon = Skill Quicken
 | Passive 9 name = Skill Quick [III]
 | Passive 9 name JP = スキルクイック[Ⅲ]
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
 
-| Passive 10 icon = Chance to Anti-Magia Seal
+| Passive 10 icon = Anti-Magia Seal
 | Passive 10 name = Anti-Seal Magia
 | Passive 10 name JP = アンチ・シールマギア
 | Passive 10 effect = Anti-Magia Seal

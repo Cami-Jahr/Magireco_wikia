@@ -95,7 +95,7 @@
 | Passive 5 name JP = MPブースト[Ⅱ]
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Chance to Anti-Magia Seal
+| Passive 6 icon = Anti-Magia Seal
 | Passive 6 name = Anti-Seal Magia
 | Passive 6 name JP = アンチ・シールマギア
 | Passive 6 effect = Anti-Magia Seal
@@ -115,17 +115,17 @@
 | Passive 9 name JP = マギア・アデプト[Ⅲ]
 | Passive 9 effect = Magia Damage Up [III / 10%]
 
-| Passive 10 icon = Chance to Curse on Attack
+| Passive 10 icon = Curse on Attack
 | Passive 10 name = Curse Edge [III]
 | Passive 10 name JP = カース・エッジ[Ⅲ]
 | Passive 10 effect = Chance to Curse on Attack [III / 20%] (1 Turn)
 
-| Passive 11 icon = Chance to Evade
+| Passive 11 icon = Evade
 | Passive 11 name = Parry Adept [II]
 | Passive 11 name JP = パリィ・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Evade [II / 15%]
 
-| Passive 12 icon = Chance to Poison on Attack
+| Passive 12 icon = Poison on Attack
 | Passive 12 name = Poison Edge [III]
 | Passive 12 name JP = ポイズン・エッジ[Ⅲ]
 | Passive 12 effect = Chance to Poison on Attack [III / 20%] (3 Turns)
@@ -163,18 +163,18 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 350%
 | Magia 1 / 2 = VIII / 370%
-| Magia effect 2 = Curse
+| Magia effect 2 = Chance to Curse
 | Magia scaling 2 = -
-| Magia 2 / 1 = All Enemies / 3 Turns
-| Magia 2 / 2 = All Enemies / 3 Turns
-| Magia effect 3 = Burn
+| Magia 2 / 1 = All Enemies / 3 Turns / 100%
+| Magia 2 / 2 = All Enemies / 3 Turns / 100%
+| Magia effect 3 = Chance to Burn
 | Magia scaling 3 = -
-| Magia 3 / 1 = All Enemies / 3 Turns
-| Magia 3 / 2 = All Enemies / 3 Turns
-| Magia effect 4 = Poison
+| Magia 3 / 1 = All Enemies / 3 Turns / 100%
+| Magia 3 / 2 = All Enemies / 3 Turns / 100%
+| Magia effect 4 = Chance to Poison
 | Magia scaling 4 = -
-| Magia 4 / 1 = All Enemies / 3 Turns
-| Magia 4 / 2 = All Enemies / 3 Turns
+| Magia 4 / 1 = All Enemies / 3 Turns / 100%
+| Magia 4 / 2 = All Enemies / 3 Turns / 100%
 | Magia effect 5 = Forest Attribute Attack Up
 | Magia scaling 5 = 2.5%
 | Magia 5 / 1 = Self / 3 Turns / 15%
@@ -188,12 +188,12 @@
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = X / 902%
-| Magia2 effect 2 = Curse
-| Magia2 2 = All Enemies / 3 Turns
-| Magia2 effect 3 = Burn
-| Magia2 3 = All Enemies / 3 Turns
-| Magia2 effect 4 = Poison
-| Magia2 4 = All Enemies / 3 Turns
+| Magia2 effect 2 = Chance to Curse
+| Magia2 2 = All Enemies / 3 Turns / 100%
+| Magia2 effect 3 = Chance to Burn
+| Magia2 3 = All Enemies / 3 Turns / 100%
+| Magia2 effect 4 = Chance to Poison
+| Magia2 4 = All Enemies / 3 Turns / 100%
 | Magia2 effect 5 = Forest Attribute Attack Up
 | Magia2 5 = Self / 5 Turns / 35%
 }}

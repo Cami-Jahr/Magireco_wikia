@@ -17,7 +17,7 @@
 | max_ATK = 958
 | max_DEF = 0
 
-| image = Chance to Anti-Stun
+| image = Anti-Stun
 | effect_name = Anti-Stun
 | effect_name_JP = アンチ・スタン
 | effect1 = 

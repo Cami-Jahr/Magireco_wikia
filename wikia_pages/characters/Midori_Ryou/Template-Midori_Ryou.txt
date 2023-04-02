@@ -75,7 +75,7 @@
 | Passive 1 name JP = ドッペル・アデプト[Ⅲ]
 | Passive 1 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
 
-| Passive 2 icon = Chance to Evade
+| Passive 2 icon = Evade
 | Passive 2 name = Parry Adept [II]
 | Passive 2 name JP = パリィ・アデプト[Ⅱ]
 | Passive 2 effect = Chance to Evade [II / 15%]
@@ -115,7 +115,7 @@
 | Passive 9 name JP = マギア・アデプト[Ⅴ]
 | Passive 9 effect = Magia Damage Up [V / 15%]
 
-| Passive 10 icon = Chance to Critical Hit
+| Passive 10 icon = Critical Hit
 | Passive 10 name = Critical Adept [II]
 | Passive 10 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 10 effect = Chance to Critical Hit [II / 15%]
@@ -130,12 +130,12 @@
 | Passive 12 name JP = ファスト・マナアップ
 | Passive 12 effect = MP Gauge Increased On Battle Start [15% full]
 
-| Passive 13 icon = Chance to Anti-Evade
+| Passive 13 icon = Anti-Evade
 | Passive 13 name = Aiming Adept [III]
 | Passive 13 name JP = エイミング・アデプト[Ⅲ]
 | Passive 13 effect = Chance to Anti-Evade [III / 35%]
 
-| Active 1 icon = Chance to Darkness
+| Active 1 icon = Darkness
 | Active 1 name = Flash [VI]
 | Active 1 name JP = フラッシュ[Ⅵ]
 | Active 1 effect = Chance to Darkness [VI / 42.5%] (All Enemies / 1 Turn)
@@ -173,15 +173,15 @@
 | Magia 2 / 2 = Self / 5 Turns / 35%
 | Magia 2 / 3 = Self / 5 Turns / 40%
 | Magia effect 3 = MP Restore
-| Magia scaling 3 = 1%
+| Magia scaling 3 = 1 MP
 | Magia 3 / 1 = -
 | Magia 3 / 2 = 27.5 MP
 | Magia 3 / 3 = 30 MP
-| Magia effect 4 = Burn
+| Magia effect 4 = Chance to Burn
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
-| Magia 4 / 3 = Target / 3 Turns
+| Magia 4 / 3 = Target / 3 Turns / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -191,8 +191,8 @@
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = XI / 2904%
-| Magia2 effect 2 = Burn
-| Magia2 2 = Target / 3 Turns
+| Magia2 effect 2 = Chance to Burn
+| Magia2 2 = Target / 3 Turns / 100%
 | Magia2 effect 3 = Magia Damage Up
 | Magia2 3 = Self / 5 Turns / 55%
 | Magia2 effect 4 = MP Restore

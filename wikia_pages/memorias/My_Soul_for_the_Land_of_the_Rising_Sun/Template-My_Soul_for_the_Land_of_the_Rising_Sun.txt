@@ -17,7 +17,7 @@
 | max_ATK = 1578
 | max_DEF = 0
 
-| image = Chance to Anti-Skill Seal
+| image = Anti-Skill Seal
 | effect_name = Anti-Jammer
 | effect_name_JP = アンチ・ジャマ―
 | effect1 = Chance to Anti-Skill Seal [VI / 50%]

@@ -100,7 +100,7 @@
 | Passive 6 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 6 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 7 icon = Chance to Evade
+| Passive 7 icon = Evade
 | Passive 7 name = Parry Adept [II]
 | Passive 7 name JP = パリィ・アデプト[Ⅱ]
 | Passive 7 effect = Chance to Evade [II / 15%]
@@ -120,12 +120,12 @@
 | Passive 10 name JP = アクセル・アデプト[Ⅱ]
 | Passive 10 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 11 icon = Chance to Critical Hit
+| Passive 11 icon = Critical Hit
 | Passive 11 name = Critical Adept [II]
 | Passive 11 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Critical Hit [II / 15%]
 
-| Passive 12 icon = Chance to Darkness on Attack
+| Passive 12 icon = Darkness on Attack
 | Passive 12 name = Darkness Edge [II]
 | Passive 12 name JP = ダークネス・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)
@@ -135,10 +135,10 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Darkness
+| Active 1 icon = Darkness
 | Active 1 name = Shade
 | Active 1 name JP = シェイド
-| Active 1 effect = Darkness (Target / 1 Turn)
+| Active 1 effect = Chance to Darkness [100%] (Target / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = 私の美しさを見て励みなさい！
@@ -167,26 +167,21 @@
 | Magia 1 / 1 = IV / 832%
 | Magia 1 / 2 = VI / 896%
 | Magia 1 / 3 = VII / 928%
-| Magia effect 2 = Defense Down
-| Magia scaling 2 = 2.5%
-| Magia 2 / 1 = Target / 3 Turns / 15%
-| Magia 2 / 2 = Target / 3 Turns / 25%
-| Magia 2 / 3 = Target / 3 Turns / 35%
-| Magia effect 3 = Charm
-| Magia scaling 3 = -
-| Magia 3 / 1 = -
-| Magia 3 / 2 = Target / 1 Turn
-| Magia 3 / 3 = Target / 1 Turn
+| Magia effect 2 = Chance to Charm
+| Magia scaling 2 = 2%
+| Magia 2 / 1 = Target / 1 Turn / 37.5%
+| Magia 2 / 2 = Target / 1 Turn / 100%
+| Magia 2 / 3 = Target / 1 Turn / 100%
+| Magia effect 3 = Defense Down
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Target / 3 Turns / 15%
+| Magia 3 / 2 = Target / 3 Turns / 25%
+| Magia 3 / 3 = Target / 3 Turns / 35%
 | Magia effect 4 = Remove Buffs
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
 | Magia 4 / 2 = Target
 | Magia 4 / 3 = Target
-| Magia effect 5 = Chance to Charm
-| Magia scaling 5 = 2%
-| Magia 5 / 1 = Target / 1 Turn / 37.5%
-| Magia 5 / 2 = -
-| Magia 5 / 3 = -
 
 | Doppel Name = 
 | Doppel Title = 
@@ -196,10 +191,10 @@
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
 | Magia2 effect 1 = Attribute Strengthened Damage One Enemy
 | Magia2 1 = IX / 2270.4%
-| Magia2 effect 2 = Dazzle
-| Magia2 2 = Target / 3 Turns
-| Magia2 effect 3 = Charm
-| Magia2 3 = Target / 1 Turn
+| Magia2 effect 2 = Chance to Dazzle
+| Magia2 2 = Target / 3 Turns / 100%
+| Magia2 effect 3 = Chance to Charm
+| Magia2 3 = Target / 1 Turn / 100%
 | Magia2 effect 4 = Defense Down
 | Magia2 4 = Target / 5 Turns / 50%
 | Magia2 effect 5 = Remove Buffs

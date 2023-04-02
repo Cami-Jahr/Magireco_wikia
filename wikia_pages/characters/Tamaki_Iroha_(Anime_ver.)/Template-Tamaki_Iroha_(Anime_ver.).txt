@@ -110,7 +110,7 @@
 | Passive 8 name JP = ダークシールド・アデプト[Ⅲ]
 | Passive 8 effect = Dark Attribute Damage Cut [III / 15%]
 
-| Passive 9 icon = Chance to Anti-Skill Seal
+| Passive 9 icon = Anti-Skill Seal
 | Passive 9 name = Anti-Jammer
 | Passive 9 name JP = アンチ・ジャマ―
 | Passive 9 effect = Anti-Skill Seal
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Revive one Ally
-| Magia scaling 2 = 1%
+| Magia scaling 2 = 1% HP
 | Magia 2 / 1 = Random Ally / 35% HP
 | Magia 2 / 2 = Random Ally / 40% HP
 | Magia effect 3 = Regenerate HP

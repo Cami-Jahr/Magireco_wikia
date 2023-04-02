@@ -95,7 +95,7 @@
 | Passive 5 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 5 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 6 icon = Chance to Anti-Evade
+| Passive 6 icon = Anti-Evade
 | Passive 6 name = Aiming Adept [III]
 | Passive 6 name JP = エイミング・アデプト[Ⅲ]
 | Passive 6 effect = Chance to Anti-Evade [III / 35%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 8 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 9 icon = Chance to Evade
+| Passive 9 icon = Evade
 | Passive 9 name = Parry Adept [II]
 | Passive 9 name JP = パリィ・アデプト[Ⅱ]
 | Passive 9 effect = Chance to Evade [II / 15%]
@@ -120,12 +120,12 @@
 | Passive 10 name JP = チャージ・アデプト[Ⅲ]
 | Passive 10 effect = Charged Attack Damage Up [III / 12.5%]
 
-| Passive 11 icon = Chance to Critical Hit
+| Passive 11 icon = Critical Hit
 | Passive 11 name = Critical Adept [II]
 | Passive 11 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Critical Hit [II / 15%]
 
-| Passive 12 icon = Chance to Charm on Attack
+| Passive 12 icon = Charm on Attack
 | Passive 12 name = Charm Edge [II]
 | Passive 12 name JP = チャーム・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
@@ -160,12 +160,12 @@
 | Magia name EN = 
 | Magia name NA = 
 | Magia icon = Damage One Enemy
-| Magia effect 1 = Charm
+| Magia effect 1 = Chance to Charm
 | Magia scaling 1 = -
-| Magia 1 / 1 = Target / 1 Turn
-| Magia 1 / 2 = Target / 1 Turn
-| Magia 1 / 3 = Target / 1 Turn
-| Magia 1 / 4 = Target / 1 Turn
+| Magia 1 / 1 = Target / 1 Turn / 100%
+| Magia 1 / 2 = Target / 1 Turn / 100%
+| Magia 1 / 3 = Target / 1 Turn / 100%
+| Magia 1 / 4 = Target / 1 Turn / 100%
 | Magia effect 2 = Damage 3 Random Enemies
 | Magia scaling 2 = 10%
 | Magia 2 / 1 = -
@@ -205,8 +205,8 @@
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
 | Magia2 effect 1 = Damage 4 Random Enemies
 | Magia2 1 = IX / 777.7%
-| Magia2 effect 2 = Charm
-| Magia2 2 = Target / 1 Turn
+| Magia2 effect 2 = Chance to Charm
+| Magia2 2 = Target / 1 Turn / 100%
 | Magia2 effect 3 = Attack Up
 | Magia2 3 = Self / 3 Turns / 40%
 | Magia2 effect 4 = Charged Attack Damage Up

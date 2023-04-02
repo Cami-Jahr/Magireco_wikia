@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1225
 
-| image = Chance to Evade
+| image = Evade
 | effect_name = Regenerate Dodge 
 | effect_name_JP = リジェネレイト・ドッジ
 | effect1 = Chance to Evade [III / 20%] & Regenerate HP [III / 4%] (Self / 3 Turns)

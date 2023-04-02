@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1528
 
-| image = Chance to Charm
+| image = Charm
 | effect_name = Fascinate 
 | effect_name_JP = ファサネイト
 | effect1 = Chance to Charm [I / 30%] & Chance to Dazzle [I / 30%] (All Enemies / 1 Turn)

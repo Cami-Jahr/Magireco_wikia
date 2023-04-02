@@ -17,7 +17,7 @@
 | max_ATK = 960
 | max_DEF = 0
 
-| image = Chance to Critical Hit
+| image = Critical Hit
 | effect_name = Critical Adept 
 | effect_name_JP = クリティカル・アデプト
 | effect1 = Chance to Critical Hit [II / 15%]

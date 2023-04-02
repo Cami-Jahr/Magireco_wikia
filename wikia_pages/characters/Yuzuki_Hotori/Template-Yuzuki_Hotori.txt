@@ -100,7 +100,7 @@
 | Passive 6 name JP = マギア・アデプト[Ⅱ]
 | Passive 6 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 7 icon = Chance to Evade
+| Passive 7 icon = Evade
 | Passive 7 name = Parry Adept [II]
 | Passive 7 name JP = パリィ・アデプト[Ⅱ]
 | Passive 7 effect = Chance to Evade [II / 15%]
@@ -110,12 +110,12 @@
 | Passive 8 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 8 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 9 icon = Chance to Critical Hit
+| Passive 9 icon = Critical Hit
 | Passive 9 name = Critical Adept [II]
 | Passive 9 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 9 effect = Chance to Critical Hit [II / 15%]
 
-| Passive 10 icon = Chance to Anti-Evade
+| Passive 10 icon = Anti-Evade
 | Passive 10 name = Aiming Adept [III]
 | Passive 10 name JP = エイミング・アデプト[Ⅲ]
 | Passive 10 effect = Chance to Anti-Evade [III / 35%]

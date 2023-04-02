@@ -17,7 +17,7 @@
 | max_ATK = 2240
 | max_DEF = 0
 
-| image = Chance to Critical Hit
+| image = Critical Hit
 | effect_name = Deadly Attack Adept 
 | effect_name_JP = デッドリーアタック・アデプト
 | effect1 = Chance to Critical Hit [IV / 25%] & Attack Up [III / 15%] & Charged Attack Damage Up [II / 7.5%]

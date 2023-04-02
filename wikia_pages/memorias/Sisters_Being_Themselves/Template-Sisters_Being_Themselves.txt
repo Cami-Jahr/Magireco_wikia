@@ -17,7 +17,7 @@
 | max_ATK = 1675
 | max_DEF = 0
 
-| image = Chance to Anti-Evade
+| image = Anti-Evade
 | effect_name = Battle Sense Adept 
 | effect_name_JP = バトルセンス・アデプト
 | effect1 = Chance to Anti-Evade [IV / 40%] & Chance to Anti-Counter [IV / 40%]

@@ -105,7 +105,7 @@
 | Passive 7 name JP = マギア・アデプト[Ⅱ]
 | Passive 7 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 8 icon = Chance to Skill Quicken
+| Passive 8 icon = Skill Quicken
 | Passive 8 name = Skill Quick [III]
 | Passive 8 name JP = スキルクイック[Ⅲ]
 | Passive 8 effect = Chance to Skill Quicken [III / 15%]
@@ -125,7 +125,7 @@
 | Passive 11 name JP = ライトリベンジ[Ⅲ]
 | Passive 11 effect = Light Attribute Damage Cut [III / 15%] & MP Up When Attacked By Weak Element [X / 11 MP]
 
-| Passive 12 icon = Chance to Anti-Magia Seal
+| Passive 12 icon = Anti-Magia Seal
 | Passive 12 name = Anti-Seal Magia
 | Passive 12 name JP = アンチ・シールマギア
 | Passive 12 effect = Anti-Magia Seal
@@ -179,7 +179,7 @@
 | Magia 4 / 1 = Allies
 | Magia 4 / 2 = Allies
 | Magia effect 5 = MP Restore
-| Magia scaling 5 = 1%
+| Magia scaling 5 = 1 MP
 | Magia 5 / 1 = 30 MP
 | Magia 5 / 2 = 35 MP
 

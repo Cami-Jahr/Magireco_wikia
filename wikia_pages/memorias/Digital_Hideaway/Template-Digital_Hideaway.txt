@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1065
 
-| image = Chance to Evade
+| image = Evade
 | effect_name = Parry
 | effect_name_JP = パリィ
 | effect1 = Evade (Self / 1 Turn)

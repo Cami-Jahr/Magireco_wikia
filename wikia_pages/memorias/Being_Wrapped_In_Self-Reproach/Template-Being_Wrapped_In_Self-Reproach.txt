@@ -17,7 +17,7 @@
 | max_ATK = 2102
 | max_DEF = 0
 
-| image = Chance to Anti-Skill Seal
+| image = Anti-Skill Seal
 | effect_name = Mediate Adept 
 | effect_name_JP = メディエイト・アデプト
 | effect1 = Anti-Skill Seal & Accele MP Gain Up [II / 12.5%]

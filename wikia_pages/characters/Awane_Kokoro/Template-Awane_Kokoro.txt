@@ -80,7 +80,7 @@
 | Passive 2 name JP = ドッペル・アデプト[Ⅳ]
 | Passive 2 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
 
-| Passive 3 icon = Chance to Provoke
+| Passive 3 icon = Provoke
 | Passive 3 name = Provoke Adept [II]
 | Passive 3 name JP = プロヴォーク・アデプト[Ⅱ]
 | Passive 3 effect = Chance to Provoke [II / 15%]
@@ -110,12 +110,12 @@
 | Passive 8 name JP = ブラストシールド[Ⅲ]
 | Passive 8 effect = Blast Damage Cut [III / 15%]
 
-| Passive 9 icon = Chance to Stun on Attack
+| Passive 9 icon = Stun on Attack
 | Passive 9 name = Stun Edge [II]
 | Passive 9 name JP = スタン・エッジ[Ⅱ]
 | Passive 9 effect = Chance to Stun on Attack [II / 15%] (1 Turn)
 
-| Passive 10 icon = Chance to Counter
+| Passive 10 icon = Counter
 | Passive 10 name = Cross Counter Adept [III]
 | Passive 10 name JP = クロスカウンター・アデプト[Ⅲ]
 | Passive 10 effect = Strengthened Counter [III / 20%]
@@ -144,7 +144,7 @@
 | Connect name JP = もうひとりで我慢しないよ
 | Connect name EN = 
 | Connect name NA = 
-| Connect icon = Chance to Counter
+| Connect icon = Counter
 | Connect effect 1 = Counter
 | Connect 1 / 1 = 
 | Connect 1 / 2 = 

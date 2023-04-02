@@ -95,7 +95,7 @@
 | Passive 5 name JP = MPブースト[Ⅱ]
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Chance to Anti-Counter
+| Passive 6 icon = Anti-Counter
 | Passive 6 name = Anti-Counter [VIII]
 | Passive 6 name JP = アンチ・カウンター[Ⅷ]
 | Passive 6 effect = Chance to Anti-Counter [VIII / 60%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = ブラストサルテーション[Ⅴ]
 | Passive 8 effect = Blast MP Gain Up [V / 5 MP]
 
-| Passive 9 icon = Chance to Anti-Bind
+| Passive 9 icon = Anti-Bind
 | Passive 9 name = Anti-Bind
 | Passive 9 name JP = アンチ・バインド
 | Passive 9 effect = Anti-Bind
@@ -120,7 +120,7 @@
 | Passive 10 name JP = クライシスブルーム[Ⅴ]
 | Passive 10 effect = Attack Up When At Critical Health [V / 30%] & Defense Up When At Critical Health [II / 30%]
 
-| Passive 11 icon = Chance to Anti-Evade
+| Passive 11 icon = Anti-Evade
 | Passive 11 name = Bullseye Aura
 | Passive 11 name JP = ブルズアイ・オーラ
 | Passive 11 effect = Anti-Evade (Self / 5 Turns)

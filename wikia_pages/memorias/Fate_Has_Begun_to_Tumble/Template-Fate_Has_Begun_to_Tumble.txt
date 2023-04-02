@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1165
 
-| image = Chance to Darkness
+| image = Darkness
 | effect_name = Flash 
 | effect_name_JP = フラッシュ
 | effect1 = Chance to Darkness [V / 40%] (All Enemies / 1 Turn)

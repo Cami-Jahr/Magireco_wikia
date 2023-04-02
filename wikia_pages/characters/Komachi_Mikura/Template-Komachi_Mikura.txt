@@ -100,7 +100,7 @@
 | Passive 6 name JP = ドッペル・アデプト[Ⅱ]
 | Passive 6 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [I / 5%]
 
-| Passive 7 icon = Chance to Evade
+| Passive 7 icon = Evade
 | Passive 7 name = Parry Adept [II]
 | Passive 7 name JP = パリィ・アデプト[Ⅱ]
 | Passive 7 effect = Chance to Evade [II / 15%]
@@ -115,7 +115,7 @@
 | Passive 9 name JP = マギア・アデプト[Ⅱ]
 | Passive 9 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 10 icon = Chance to Bind on Attack
+| Passive 10 icon = Bind on Attack
 | Passive 10 name = Bind Edge [II]
 | Passive 10 name JP = バインド・エッジ[Ⅱ]
 | Passive 10 effect = Chance to Bind on Attack [II / 15%] (1 Turn)
@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Bind
+| Active 1 icon = Bind
 | Active 1 name = Bind Analyze [XX]
 | Active 1 name JP = バインド・アナライズ[XX]
 | Active 1 effect = Chance to Bind [XX / 77.5%] (Target / 1 Turn) & Regenerate HP [III / 4%] (Self / 3 Turns)
@@ -170,10 +170,10 @@
 | Magia scaling 2 = -
 | Magia 2 / 1 = One Ally
 | Magia 2 / 2 = One Ally
-| Magia effect 3 = Bind
+| Magia effect 3 = Chance to Bind
 | Magia scaling 3 = -
-| Magia 3 / 1 = Target / 1 Turn
-| Magia 3 / 2 = Target / 1 Turn
+| Magia 3 / 1 = Target / 1 Turn / 100%
+| Magia 3 / 2 = Target / 1 Turn / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -185,6 +185,6 @@
 | Magia2 1 = IX / 2270.4%
 | Magia2 effect 2 = Remove Buffs
 | Magia2 2 = One Ally
-| Magia2 effect 3 = Bind
-| Magia2 3 = Target / 1 Turn
+| Magia2 effect 3 = Chance to Bind
+| Magia2 3 = Target / 1 Turn / 100%
 }}

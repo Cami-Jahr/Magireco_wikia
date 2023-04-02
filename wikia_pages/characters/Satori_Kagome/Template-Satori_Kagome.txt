@@ -100,7 +100,7 @@
 | Passive 6 name JP = モラール・アデプト[Ⅱ]
 | Passive 6 effect = MP Gain Up [II / 7.5%]
 
-| Passive 7 icon = Chance to Skill Quicken
+| Passive 7 icon = Skill Quicken
 | Passive 7 name = Skill Quick [III]
 | Passive 7 name JP = スキルクイック[Ⅲ]
 | Passive 7 effect = Chance to Skill Quicken [III / 15%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = シールド・アデプト[Ⅱ]
 | Passive 8 effect = Damage Cut [II / 10%]
 
-| Passive 9 icon = Chance to Anti-Magia Seal
+| Passive 9 icon = Anti-Magia Seal
 | Passive 9 name = Anti-Seal Magia
 | Passive 9 name JP = アンチ・シールマギア
 | Passive 9 effect = Anti-Magia Seal
@@ -120,7 +120,7 @@
 | Passive 10 name JP = アクアシールド・オーラ[Ⅲ]
 | Passive 10 effect = Aqua Attribute Damage Cut [III / 15%] (Allies / 5 Turns)
 
-| Passive 11 icon = Chance to Dazzle on Attack
+| Passive 11 icon = Dazzle on Attack
 | Passive 11 name = Mesmerize Edge [III]
 | Passive 11 name JP = メズマライズ・エッジ[Ⅲ]
 | Passive 11 effect = Chance to Dazzle on Attack [III / 20%] (1 Turn)
@@ -135,10 +135,10 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Fog
+| Active 1 icon = Fog
 | Active 1 name = Despair
 | Active 1 name JP = ディスペア
-| Active 1 effect = Fog & Darkness & Dazzle (Target / 5 Turns)
+| Active 1 effect = Chance to Fog [100%] & Chance to Darkness [100%] & Chance to Dazzle [100%] (Target / 5 Turns)
 | Active 1 cooldown = 12
 
 | Connect name JP = 今度は私が助ける番だよ！
@@ -163,10 +163,10 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
-| Magia effect 2 = Poison
+| Magia effect 2 = Chance to Poison
 | Magia scaling 2 = -
-| Magia 2 / 1 = All Enemies / 3 Turns
-| Magia 2 / 2 = All Enemies / 3 Turns
+| Magia 2 / 1 = All Enemies / 3 Turns / 100%
+| Magia 2 / 2 = All Enemies / 3 Turns / 100%
 | Magia effect 3 = Forest Attribute Attack Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Allies / 3 Turns / 15%
@@ -188,8 +188,8 @@
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = IX / 869%
-| Magia2 effect 2 = Poison
-| Magia2 2 = All Enemies / 3 Turns
+| Magia2 effect 2 = Chance to Poison
+| Magia2 2 = All Enemies / 3 Turns / 100%
 | Magia2 effect 3 = Forest Attribute Attack Up
 | Magia2 3 = Allies / 5 Turns / 35%
 | Magia2 effect 4 = Regenerate HP

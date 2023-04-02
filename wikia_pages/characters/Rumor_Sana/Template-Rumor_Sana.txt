@@ -100,7 +100,7 @@
 | Passive 6 name JP = マギア・アデプト[Ⅱ]
 | Passive 6 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 7 icon = Chance to Defense Pierce
+| Passive 7 icon = Defense Pierce
 | Passive 7 name = Penetrate Adept [III]
 | Passive 7 name JP = ペネトレイト・アデプト[Ⅲ]
 | Passive 7 effect = Chance to Defense Pierce [III / 20%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = シールド・アデプト[Ⅱ]
 | Passive 8 effect = Damage Cut [II / 10%]
 
-| Passive 9 icon = Chance to Curse on Attack
+| Passive 9 icon = Curse on Attack
 | Passive 9 name = CurseEdge [II]
 | Passive 9 name JP = カースエッジ[Ⅱ]
 | Passive 9 effect = Chance to Curse on Attack [II / 15%] (1 Turn)
@@ -167,10 +167,10 @@
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = All Enemies / 3 Turns / 17.5%
 | Magia 2 / 2 = All Enemies / 3 Turns / 20%
-| Magia effect 3 = Stun
+| Magia effect 3 = Chance to Stun
 | Magia scaling 3 = -
-| Magia 3 / 1 = All Enemies / 1 Turn
-| Magia 3 / 2 = All Enemies / 1 Turn
+| Magia 3 / 1 = All Enemies / 1 Turn / 100%
+| Magia 3 / 2 = All Enemies / 1 Turn / 100%
 | Magia effect 4 = Aqua Attribute Attack Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Self / 3 Turns / 15%
@@ -186,10 +186,10 @@
 | Magia2 1 = IX / 869%
 | Magia2 effect 2 = Attack Down
 | Magia2 2 = All Enemies / 3 Turns / 35%
-| Magia2 effect 3 = Stun
-| Magia2 3 = All Enemies / 1 Turn
+| Magia2 effect 3 = Chance to Stun
+| Magia2 3 = All Enemies / 1 Turn / 100%
 | Magia2 effect 4 = Aqua Attribute Attack Up
 | Magia2 4 = Self / 5 Turns / 35%
 | Magia2 effect 5 = Ignore Damage Cut
-| Magia2 5 = Self / 3 Turns / 100%
+| Magia2 5 = Self / 3 Turns
 }}

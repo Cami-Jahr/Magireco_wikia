@@ -95,7 +95,7 @@
 | Passive 5 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 5 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 6 icon = Chance to Skill Quicken
+| Passive 6 icon = Skill Quicken
 | Passive 6 name = Skill Quick [III]
 | Passive 6 name JP = スキルクイック[Ⅲ]
 | Passive 6 effect = Chance to Skill Quicken [III / 15%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 8 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 9 icon = Chance to Skill Seal on Attack
+| Passive 9 icon = Skill Seal on Attack
 | Passive 9 name = Jammer Edge [II]
 | Passive 9 name JP = ジャマ―・エッジ[Ⅱ]
 | Passive 9 effect = Chance to Skill Seal on Attack [II / 15%] (1 Turn)
@@ -125,7 +125,7 @@
 | Passive 11 name JP = モラール・アデプト[Ⅲ]
 | Passive 11 effect = MP Gain Up [III / 10%]
 
-| Passive 12 icon = Chance to Skill Quicken
+| Passive 12 icon = Skill Quicken
 | Passive 12 name = Skill Quick [III]
 | Passive 12 name JP = スキルクイック[Ⅲ]
 | Passive 12 effect = Chance to Skill Quicken [III / 15%]
@@ -135,7 +135,7 @@
 | Passive 13 name JP = チャージ・アデプト[Ⅱ]
 | Passive 13 effect = Charged Attack Damage Up [II / 10%]
 
-| Active 1 icon = Chance to Evade
+| Active 1 icon = Evade
 | Active 1 name = Parry
 | Active 1 name JP = パリィ
 | Active 1 effect = Evade (Self / 1 Turn)
@@ -144,7 +144,7 @@
 | Connect name JP = 一緒に頑張ろうね！
 | Connect name EN = 
 | Connect name NA = 
-| Connect icon = Chance to Evade
+| Connect icon = Evade
 | Connect effect 1 = Evade
 | Connect 1 / 1 = 
 | Connect 1 / 2 = 

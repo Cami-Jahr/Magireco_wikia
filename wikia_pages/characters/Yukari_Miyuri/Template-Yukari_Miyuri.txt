@@ -75,7 +75,7 @@
 | Passive 1 name JP = MPブースト[Ⅱ]
 | Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 2 icon = Chance to Evade
+| Passive 2 icon = Evade
 | Passive 2 name = Parry Adept [II]
 | Passive 2 name JP = パリィ・アデプト[Ⅱ]
 | Passive 2 effect = Chance to Evade [II / 15%]
@@ -90,7 +90,7 @@
 | Passive 4 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = Chance to Critical Hit
+| Passive 5 icon = Critical Hit
 | Passive 5 name = Critical Adept [II]
 | Passive 5 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 5 effect = Chance to Critical Hit [II / 15%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = テクニカル・アデプト[Ⅰ]
 | Passive 8 effect = Charge Disc Damage Up [I / 5%]
 
-| Passive 9 icon = Chance to Anti-Evade
+| Passive 9 icon = Anti-Evade
 | Passive 9 name = Aiming Adept [III]
 | Passive 9 name JP = エイミング・アデプト[Ⅲ]
 | Passive 9 effect = Chance to Anti-Evade [III / 35%]
@@ -135,7 +135,7 @@
 | Passive 13 name JP = アクア・アデプト[Ⅱ]
 | Passive 13 effect = Aqua Attribute Attack Up [II / 7.5%]
 
-| Passive 14 icon = Chance to Anti-Burn
+| Passive 14 icon = Anti-Burn
 | Passive 14 name = Anti-Burn
 | Passive 14 name JP = アンチ・バーン
 | Passive 14 effect = Anti-Burn

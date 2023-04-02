@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1795
 
-| image = Chance to Anti-Counter
+| image = Anti-Counter
 | effect_name = Neglect Counter 
 | effect_name_JP = ネグレクト・カウンター
 | effect1 = Anti-Counter & Attack Up [V / 25%] & Endure (Self / 1 Turn)

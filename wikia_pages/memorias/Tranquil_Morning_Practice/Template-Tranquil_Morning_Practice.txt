@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1575
 
-| image = Chance to Provoke
+| image = Provoke
 | effect_name = Provoke 
 | effect_name_JP = プロヴォーク
 | effect1 = Chance to Provoke [VII / 40%] (Self / 1 Turn)

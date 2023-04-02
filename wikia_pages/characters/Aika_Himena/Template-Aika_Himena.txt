@@ -105,7 +105,7 @@
 | Passive 7 name JP = シールド・アデプト[Ⅱ]
 | Passive 7 effect = Damage Cut [II / 10%]
 
-| Passive 8 icon = Chance to Skill Quicken
+| Passive 8 icon = Skill Quicken
 | Passive 8 name = Skill Quick [III]
 | Passive 8 name JP = スキルクイック[Ⅲ]
 | Passive 8 effect = Chance to Skill Quicken [III / 15%]
@@ -115,7 +115,7 @@
 | Passive 9 name JP = フレイムシールド・アデプト[Ⅲ]
 | Passive 9 effect = Flame Attribute Damage Cut [III / 15%]
 
-| Passive 10 icon = Chance to Anti-Charm
+| Passive 10 icon = Anti-Charm
 | Passive 10 name = Anti-Charm
 | Passive 10 name JP = アンチ・チャーム
 | Passive 10 effect = Anti-Charm

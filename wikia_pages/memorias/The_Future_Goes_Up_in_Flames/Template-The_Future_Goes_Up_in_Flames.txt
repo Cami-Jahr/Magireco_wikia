@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1455
 
-| image = Chance to Critical Hit
+| image = Critical Hit
 | effect_name = Inevitable 
 | effect_name_JP = イネヴィタブル
 | effect1 = Chance to Critical Hit [I / 10%] & Chance to Anti-Evade [XII / 80%] (Self / 3 Turns)

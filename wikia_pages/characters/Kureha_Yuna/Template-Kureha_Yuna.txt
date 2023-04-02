@@ -95,7 +95,7 @@
 | Passive 5 name JP = MPブースト[Ⅱ]
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Chance to Anti-Counter
+| Passive 6 icon = Anti-Counter
 | Passive 6 name = Ignore Counter
 | Passive 6 name JP = イグノア・カウンター
 | Passive 6 effect = Anti-Counter
@@ -110,7 +110,7 @@
 | Passive 8 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 8 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 9 icon = Chance to Critical Hit
+| Passive 9 icon = Critical Hit
 | Passive 9 name = Critical Adept [II]
 | Passive 9 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 9 effect = Chance to Critical Hit [II / 15%]
@@ -120,7 +120,7 @@
 | Passive 10 name JP = クライシスガード[Ⅱ]
 | Passive 10 effect = Defense Up When At Critical Health [II / 30%]
 
-| Passive 11 icon = Chance to Anti-Evade
+| Passive 11 icon = Anti-Evade
 | Passive 11 name = Aiming Adept [III]
 | Passive 11 name JP = エイミング・アデプト[Ⅲ]
 | Passive 11 effect = Chance to Anti-Evade [III / 35%]

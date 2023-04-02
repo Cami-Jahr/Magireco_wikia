@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1502
 
-| image = Chance to Critical Hit
+| image = Critical Hit
 | effect_name = Invisible Strike 
 | effect_name_JP = インビジブル・ストライク
 | effect1 = Chance to Critical Hit [IV / 25%] & Anti-Evade (Self / 1 Turn)

@@ -115,12 +115,12 @@
 | Passive 9 name JP = チャージコンボプラス[Ⅱ]
 | Passive 9 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
 
-| Passive 10 icon = Chance to Anti-Evade
+| Passive 10 icon = Anti-Evade
 | Passive 10 name = Aiming Adept [III]
 | Passive 10 name JP = エイミング・アデプト[Ⅲ]
 | Passive 10 effect = Chance to Anti-Evade [III / 35%]
 
-| Passive 11 icon = Chance to Critical Hit
+| Passive 11 icon = Critical Hit
 | Passive 11 name = Critical Adept [II]
 | Passive 11 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Critical Hit [II / 15%]
@@ -130,7 +130,7 @@
 | Passive 12 name JP = チャージエキスパート[Ⅳ]
 | Passive 12 effect = Charged Attack Damage Up [IV / 15%] & Charge Disc Damage Up [II / 10%]
 
-| Passive 13 icon = Chance to Evade
+| Passive 13 icon = Evade
 | Passive 13 name = Parry Adept [II]
 | Passive 13 name JP = パリィ・アデプト[Ⅱ]
 | Passive 13 effect = Chance to Evade [II / 15%]

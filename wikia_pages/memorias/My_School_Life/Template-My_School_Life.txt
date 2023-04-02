@@ -17,7 +17,7 @@
 | max_ATK = 1002
 | max_DEF = 0
 
-| image = Chance to Burn on Attack
+| image = Burn on Attack
 | effect_name = Burn Edge 
 | effect_name_JP = バーン・エッジ
 | effect1 = Chance to Burn on Attack [III / 20%] (2 Turns)

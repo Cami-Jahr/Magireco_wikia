@@ -17,7 +17,7 @@
 | max_ATK = 1572
 | max_DEF = 0
 
-| image = Chance to Anti-Poison
+| image = Anti-Poison
 | effect_name = Good Health
 | effect_name_JP = 無病息災
 | effect1 = Chance to Anti-Poison [X / 70%] & Chance to Anti-Burn [IV / 40%] & Chance to Anti-Curse [IV / 40%]

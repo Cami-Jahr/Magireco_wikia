@@ -17,7 +17,7 @@
 | max_ATK = 1488
 | max_DEF = 0
 
-| image = Chance to Anti-Charm
+| image = Anti-Charm
 | effect_name = Anti-Charm
 | effect_name_JP = アンチ・チャーム
 | effect1 = Chance to Anti-Charm [VI / 50%]

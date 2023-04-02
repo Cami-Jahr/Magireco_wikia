@@ -100,7 +100,7 @@
 | Passive 6 name JP = エンドア・アデプト[Ⅳ]
 | Passive 6 effect = MP Up When Damaged [IV / 4%]
 
-| Passive 7 icon = Chance to Curse on Attack
+| Passive 7 icon = Curse on Attack
 | Passive 7 name = CurseEdge [III]
 | Passive 7 name JP = カースエッジ[Ⅲ]
 | Passive 7 effect = Chance to Curse on Attack [III / 20%] (2 Turns)
@@ -115,7 +115,7 @@
 | Passive 9 name JP = バリアオーラ
 | Passive 9 effect = Barrier [5000 damage]
 
-| Passive 10 icon = Chance to Skill Quicken
+| Passive 10 icon = Skill Quicken
 | Passive 10 name = Skill Quicken Aura
 | Passive 10 name JP = スキルクイックオーラ
 | Passive 10 effect = Skill Quicken (Self / 1 Turn)
@@ -125,7 +125,7 @@
 | Passive 11 name JP = ファスト・マナアップ
 | Passive 11 effect = MP Gauge Increased On Battle Start [50% full]
 
-| Passive 12 icon = Chance to Anti-Magia Seal
+| Passive 12 icon = Anti-Magia Seal
 | Passive 12 name = Anti-Seal Magia
 | Passive 12 name JP = アンチ・シールマギア
 | Passive 12 effect = Anti-Magia Seal
@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Skill Seal
+| Active 1 icon = Skill Seal
 | Active 1 name = Silent Night [X]
 | Active 1 name JP = サイレント・ナイト[Ⅹ]
 | Active 1 effect = Chance to Skill Seal [X / 52.5%] & Attack Down [V / 25%] (All Enemies / 1 Turn) & Attack Down [III / 15%] (Self / 1 Turn)
@@ -155,7 +155,7 @@
 | Magia name JP = 葬々魂吸演舞
 | Magia name EN = 
 | Magia name NA = 
-| Magia icon = Attack Down
+| Magia icon = Damage All Enemies
 | Magia effect 1 = Attack Down
 | Magia scaling 1 = 2.5%
 | Magia 1 / 1 = All Enemies / 3 Turns / 25%
@@ -164,23 +164,23 @@
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = All Enemies / 3 Turns / 15%
 | Magia 2 / 2 = All Enemies / 3 Turns / 20%
-| Magia effect 3 = Curse
+| Magia effect 3 = Chance to Curse
 | Magia scaling 3 = -
-| Magia 3 / 1 = All Enemies / 2 Turns
-| Magia 3 / 2 = All Enemies / 2 Turns
-| Magia effect 4 = Magia Seal
+| Magia 3 / 1 = All Enemies / 2 Turns / 100%
+| Magia 3 / 2 = All Enemies / 2 Turns / 100%
+| Magia effect 4 = Chance to Magia Seal
 | Magia scaling 4 = -
-| Magia 4 / 1 = All Enemies / 2 Turns
-| Magia 4 / 2 = All Enemies / 2 Turns
-| Magia effect 5 = Skill Seal
+| Magia 4 / 1 = All Enemies / 2 Turns / 100%
+| Magia 4 / 2 = All Enemies / 2 Turns / 100%
+| Magia effect 5 = Chance to Skill Seal
 | Magia scaling 5 = -
-| Magia 5 / 1 = All Enemies / 2 Turns
-| Magia 5 / 2 = All Enemies / 2 Turns
-| Magia effect 6 = Curse
+| Magia 5 / 1 = All Enemies / 2 Turns / 100%
+| Magia 5 / 2 = All Enemies / 2 Turns / 100%
+| Magia effect 6 = Chance to Curse
 | Magia scaling 6 = -
-| Magia 6 / 1 = Self / 1 Turn
-| Magia 6 / 2 = Self / 1 Turn
-| Magia effect 7 = Frailty
+| Magia 6 / 1 = Self / 1 Turn / 100%
+| Magia 6 / 2 = Self / 1 Turn / 100%
+| Magia effect 7 = Chance to Frailty
 | Magia scaling 7 = -
 | Magia 7 / 1 = Self / 1 Turn / 100%
 | Magia 7 / 2 = Self / 1 Turn / 100%
@@ -195,14 +195,14 @@
 | Magia2 1 = All Enemies / 5 Turns / 45%
 | Magia2 effect 2 = Defense Down
 | Magia2 2 = All Enemies / 5 Turns / 35%
-| Magia2 effect 3 = Curse
-| Magia2 3 = All Enemies / 3 Turns
-| Magia2 effect 4 = Magia Seal
-| Magia2 4 = All Enemies / 3 Turns
-| Magia2 effect 5 = Skill Seal
-| Magia2 5 = All Enemies / 3 Turns
-| Magia2 effect 6 = Curse
-| Magia2 6 = Self / 1 Turn
-| Magia2 effect 7 = Frailty
+| Magia2 effect 3 = Chance to Curse
+| Magia2 3 = All Enemies / 3 Turns / 100%
+| Magia2 effect 4 = Chance to Magia Seal
+| Magia2 4 = All Enemies / 3 Turns / 100%
+| Magia2 effect 5 = Chance to Skill Seal
+| Magia2 5 = All Enemies / 3 Turns / 100%
+| Magia2 effect 6 = Chance to Curse
+| Magia2 6 = Self / 1 Turn / 100%
+| Magia2 effect 7 = Chance to Frailty
 | Magia2 7 = Self / 1 Turn / 100%
 }}

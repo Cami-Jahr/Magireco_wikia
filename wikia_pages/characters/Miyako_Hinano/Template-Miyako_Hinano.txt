@@ -90,12 +90,12 @@
 | Passive 4 name JP = アクセル・アデプト[Ⅱ]
 | Passive 4 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 5 icon = Chance to Skill Quicken
+| Passive 5 icon = Skill Quicken
 | Passive 5 name = Skill Quick [II]
 | Passive 5 name JP = スキルクイック[Ⅱ]
 | Passive 5 effect = Chance to Skill Quicken [II / 10%]
 
-| Passive 6 icon = Chance to Poison on Attack
+| Passive 6 icon = Poison on Attack
 | Passive 6 name = Poison Edge [II]
 | Passive 6 name JP = ポイズン・エッジ[Ⅱ]
 | Passive 6 effect = Chance to Poison on Attack [II / 15%] (3 Turns)
@@ -110,7 +110,7 @@
 | Passive 8 name JP = MPブースト[Ⅱ]
 | Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 9 icon = Chance to Anti-Poison
+| Passive 9 icon = Anti-Poison
 | Passive 9 name = Anti-Poison
 | Passive 9 name JP = アンチ・ポイズン
 | Passive 9 effect = Anti-Poison
@@ -130,15 +130,15 @@
 | Passive 12 name JP = MPブースト[Ⅱ]
 | Passive 12 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 13 icon = Chance to Stun on Attack
+| Passive 13 icon = Stun on Attack
 | Passive 13 name = Stun Edge [II]
 | Passive 13 name JP = スタン・エッジ[Ⅱ]
 | Passive 13 effect = Chance to Stun on Attack [II / 15%] (1 Turn)
 
-| Active 1 icon = Chance to Poison
+| Active 1 icon = Poison
 | Active 1 name = Poison
 | Active 1 name JP = ポイズン
-| Active 1 effect = Poison (Target / 1 Turn)
+| Active 1 effect = Chance to Poison [100%] (Target / 1 Turn)
 | Active 1 cooldown = 6
 
 | Connect name JP = 共同研究の成果発表だ！
@@ -171,19 +171,13 @@
 | Magia 2 / 1 = All Enemies / 3 Turns / 32.5%
 | Magia 2 / 2 = All Enemies / 3 Turns / 37.5%
 | Magia 2 / 3 = All Enemies / 3 Turns / 42.5%
-| Magia 2 / 4 = -
-| Magia effect 3 = Stun
+| Magia 2 / 4 = All Enemies / 3 Turns / 100%
+| Magia effect 3 = Chance to Stun
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
-| Magia 3 / 3 = All Enemies / 1 Turn
-| Magia 3 / 4 = All Enemies / 1 Turn
-| Magia effect 4 = Poison
-| Magia scaling 4 = -
-| Magia 4 / 1 = -
-| Magia 4 / 2 = -
-| Magia 4 / 3 = -
-| Magia 4 / 4 = All Enemies / 3 Turns
+| Magia 3 / 3 = All Enemies / 1 Turn / 100%
+| Magia 3 / 4 = All Enemies / 1 Turn / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -193,8 +187,8 @@
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
-| Magia2 effect 2 = Poison
-| Magia2 2 = All Enemies / 3 Turns
-| Magia2 effect 3 = Stun
-| Magia2 3 = All Enemies / 1 Turn
+| Magia2 effect 2 = Chance to Poison
+| Magia2 2 = All Enemies / 3 Turns / 100%
+| Magia2 effect 3 = Chance to Stun
+| Magia2 3 = All Enemies / 1 Turn / 100%
 }}

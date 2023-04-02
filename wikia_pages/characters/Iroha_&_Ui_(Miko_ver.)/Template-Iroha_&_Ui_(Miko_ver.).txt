@@ -70,7 +70,7 @@
 | se blast bonus = 3
 | se charge bonus = 4
 
-| Passive 1 icon = Chance to Evade
+| Passive 1 icon = Evade
 | Passive 1 name = Parry Adept [II]
 | Passive 1 name JP = パリィ・アデプト[Ⅱ]
 | Passive 1 effect = Chance to Evade [II / 15%]
@@ -100,7 +100,7 @@
 | Passive 6 name JP = マギア・アデプト[Ⅱ]
 | Passive 6 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 7 icon = Chance to Anti-Magia Seal
+| Passive 7 icon = Anti-Magia Seal
 | Passive 7 name = Anti-Seal Magia
 | Passive 7 name JP = アンチ・シールマギア
 | Passive 7 effect = Anti-Magia Seal
@@ -115,7 +115,7 @@
 | Passive 9 name JP = マギア・アデプト[Ⅱ]
 | Passive 9 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 10 icon = Chance to Anti-Curse
+| Passive 10 icon = Anti-Curse
 | Passive 10 name = Anti Curse
 | Passive 10 name JP = アンチ・カース
 | Passive 10 effect = Anti-Curse

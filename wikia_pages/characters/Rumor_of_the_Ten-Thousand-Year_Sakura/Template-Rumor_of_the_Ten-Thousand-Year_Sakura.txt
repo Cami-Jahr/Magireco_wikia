@@ -120,7 +120,7 @@
 | Passive 10 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 10 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 11 icon = Chance to Defense Pierce
+| Passive 11 icon = Defense Pierce
 | Passive 11 name = Penetrate Adept [II]
 | Passive 11 name JP = ペネトレイト・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Defense Pierce [II / 15%]
@@ -163,10 +163,10 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 864%
 | Magia 1 / 2 = VII / 928%
-| Magia effect 2 = Skill Seal
+| Magia effect 2 = Chance to Skill Seal
 | Magia scaling 2 = -
-| Magia 2 / 1 = Target / 2 Turns
-| Magia 2 / 2 = Target / 2 Turns
+| Magia 2 / 1 = Target / 2 Turns / 100%
+| Magia 2 / 2 = Target / 2 Turns / 100%
 | Magia effect 3 = Accele MP Gain Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Allies / 3 Turns / 15%
@@ -188,8 +188,8 @@
 | Doppel Japanese Designer = ー
 | Magia2 effect 1 = Attribute Strengthened Damage One Enemy
 | Magia2 1 = IX / 2270.4%
-| Magia2 effect 2 = Skill Seal
-| Magia2 2 = Target / 2 Turns
+| Magia2 effect 2 = Chance to Skill Seal
+| Magia2 2 = Target / 2 Turns / 100%
 | Magia2 effect 3 = Accele MP Gain Up
 | Magia2 3 = Allies / 3 Turns / 35%
 | Magia2 effect 4 = Anti-Evade

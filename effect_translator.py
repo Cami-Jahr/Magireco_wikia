@@ -51,18 +51,18 @@ def translate_roman_to_ascii(string):
 
 good = {
     "AUTO_HEAL": ("Regenerate HP", True, False),
-    "PURSUE": ("Chance to Chase", True, False),
-    "AVOID": ("Chance to Evade", True, False),
+    "PURSUE": ("Chase", True, False),
+    "AVOID": ("Evade", True, False),
     "DAMAGE_DOWN": ("Damage Cut", True, False),
-    "PROVOKE": ("Chance to Provoke", True, False),
+    "PROVOKE": ("Provoke", True, False),
     "GUTS": ("Endure", False, False),
     "MP_PLUS_WEAKED": ("MP Up When Attacked By Weak Element", True, False),
     "DAMAGE_DOWN_BLAST": ("Blast Damage Cut", True, False),
-    "CRITICAL": ("Chance to Critical Hit", True, False),
-    "PROTECT": ("Chance to Guardian", True, True),
-    "DEFENSE_IGNORED": ("Chance to Defense Pierce", True, False),
-    "SKILL_QUICK": ("Chance to Skill Quicken", True, False),
-    "COUNTER": ("Chance to Counter", True, False),
+    "CRITICAL": ("Critical Hit", True, False),
+    "PROTECT": ("Guardian", True, True),
+    "DEFENSE_IGNORED": ("Defense Pierce", True, False),
+    "SKILL_QUICK": ("Skill Quicken", True, False),
+    "COUNTER": ("Counter", True, False),
     "DAMAGE_DOWN_ACCEL": ("Accele Damage Cut", True, False),
     "DAMAGE_DOWN_NODISK": ("Magia Damage Cut", True, False),
     "DAMAGE_DOWN_FIRE": ("Flame Attribute Damage Cut", True, False),
@@ -85,32 +85,32 @@ good = {
 }
 
 bad = {
-    "CHARM": ("Chance to Charm", True, False),
-    "POISON": ("Chance to Poison", True, False),
-    "FOG": ("Chance to Fog", True, False),
-    "CURSE": ("Chance to Curse", True, False),
-    "BURN": ("Chance to Burn", True, False),
-    "STUN": ("Chance to Stun", True, False),
-    "BLINDNESS": ("Chance to Dazzle", True, False),
-    "DARKNESS": ("Chance to Darkness", True, False),
-    "BAN_SKILL": ("Chance to Skill Seal", True, False),
-    "BAN_MAGIA": ("Chance to Magia Seal", True, False),
-    "RESTRAINT": ("Chance to Bind", True, False),
+    "CHARM": ("Charm", True, False),
+    "POISON": ("Poison", True, False),
+    "FOG": ("Fog", True, False),
+    "CURSE": ("Curse", True, False),
+    "BURN": ("Burn", True, False),
+    "STUN": ("Stun", True, False),
+    "BLINDNESS": ("Dazzle", True, False),
+    "DARKNESS": ("Darkness", True, False),
+    "BAN_SKILL": ("Skill Seal", True, False),
+    "BAN_MAGIA": ("Magia Seal", True, False),
+    "RESTRAINT": ("Bind", True, False),
     "DAMAGE_UP_BAD_NUM": ("Frailty", True, False),
 }
 
 enchant = {
-    "CHARM": ("Chance to Charm on Attack", True, True),
-    "STUN": ("Chance to Stun on Attack", True, True),
-    "POISON": ("Chance to Poison on Attack", True, True),
-    "FOG": ("Chance to Fog on Attack", True, True),
-    "BLINDNESS": ("Chance to Dazzle on Attack", True, True),
-    "CURSE": ("Chance to Curse on Attack", True, True),
-    "BURN": ("Chance to Burn on Attack", True, True),
-    "DARKNESS": ("Chance to Darkness on Attack", True, True),
-    "RESTRAINT": ("Chance to Bind on Attack", True, True),
-    "BAN_SKILL": ("Chance to Skill Seal on Attack", True, True),
-    "BAN_MAGIA": ("Chance to Magia Seal on Attack", True, True),
+    "CHARM": ("Charm on Attack", True, True),
+    "STUN": ("Stun on Attack", True, True),
+    "POISON": ("Poison on Attack", True, True),
+    "FOG": ("Fog on Attack", True, True),
+    "BLINDNESS": ("Dazzle on Attack", True, True),
+    "CURSE": ("Curse on Attack", True, True),
+    "BURN": ("Burn on Attack", True, True),
+    "DARKNESS": ("Darkness on Attack", True, True),
+    "RESTRAINT": ("Bind on Attack", True, True),
+    "BAN_SKILL": ("Skill Seal on Attack", True, True),
+    "BAN_MAGIA": ("Magia Seal on Attack", True, True),
 }
 
 buff = {
@@ -134,23 +134,23 @@ buff = {
 }
 
 ignore = {
-    "BAN_SKILL": ("Chance to Anti-Skill Seal", True, False),
-    "BAN_MAGIA": ("Chance to Anti-Magia Seal", True, False),
-    "AVOID": ("Chance to Anti-Evade", True, False),
+    "BAN_SKILL": ("Anti-Skill Seal", True, False),
+    "BAN_MAGIA": ("Anti-Magia Seal", True, False),
+    "AVOID": ("Anti-Evade", True, False),
     "DEBUFF": ("Anti-Debuff", False, False),
-    "COUNTER": ("Chance to Anti-Counter", True, False),
+    "COUNTER": ("Anti-Counter", True, False),
     "DAMAGE_DOWN": ("Ignore Damage Cut", True, False),
-    "POISON": ("Chance to Anti-Poison", True, False),
-    "CURSE": ("Chance to Anti-Curse", True, False),
-    "CHARM": ("Chance to Anti-Charm", True, False),
-    "BURN": ("Chance to Anti-Burn", True, False),
-    "RESTRAINT": ("Chance to Anti-Bind", True, False),
-    "PROVOKE": ("Chance to Anti-Provoke", True, False),
-    "STUN": ("Chance to Anti-Stun", True, False),
-    "FOG": ("Chance to Anti-Fog", True, False),
-    "BLINDNESS": ("Chance to Anti-Dazzle", True, False),
-    "DARKNESS": ("Chance to Anti-Darkness", True, False),
-    "CRITICAL": ("Chance to Anti-Critical Hit", True, False),
+    "POISON": ("Anti-Poison", True, False),
+    "CURSE": ("Anti-Curse", True, False),
+    "CHARM": ("Anti-Charm", True, False),
+    "BURN": ("Anti-Burn", True, False),
+    "RESTRAINT": ("Anti-Bind", True, False),
+    "PROVOKE": ("Anti-Provoke", True, False),
+    "STUN": ("Anti-Stun", True, False),
+    "FOG": ("Anti-Fog", True, False),
+    "BLINDNESS": ("Anti-Dazzle", True, False),
+    "DARKNESS": ("Anti-Darkness", True, False),
+    "CRITICAL": ("Anti-Critical Hit", True, False),
     "CONDITION_BAD": ("Negate Status Ailments", True, False),
 }
 
@@ -435,9 +435,8 @@ jp_to_en = {
     "ウェポン": "Weapon",
 }
 
-STATUS_AILMENTS = {"Poison", "Burn", "Curse", "Charm", "Stun", "Bind", "Fog", "Darkness", "Dazzle",
-                   "Skill Seal", "Magia Seal", "Frailty", "HP Restore Seal", "MP Restore Seal"}
-CHANCE_SKILLS = {"Evade", "Counter", "Critical Hit", "Ignore Damage Cut", "Defense Pierce"}
+# Subset of good effect's that might be chance to happen
+CHANCE_SKILLS = {"PURSUE", "AVOID", "PROVOKE", "CRITICAL", "PROTECT", "DEFENSE_IGNORED", "SKILL_QUICK", "COUNTER"}
 
 with open("existing_translations.json", "r", encoding="utf-8") as f:
     existing_translations = [(w[0], w[1]) for w in json.load(f).items()]
@@ -568,9 +567,15 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool):
                     effect = pro
                 else:
                     effect = val
-            if effect == 100 and "Chance to " in text and verb_code not in bad and verb_code not in enchant:
-                text = text.replace("Chance to ", "")
-                effect = ""
+                if (verb_code == "IGNORE" and effect_code in ignore) or \
+                        (verb_code == "ENCHANT" and effect_code in enchant) or \
+                        (verb_code == "CONDITION_GOOD" and effect_code in CHANCE_SKILLS):
+                    if pro < 100:
+                        text = "Chance to " + text
+                    else:
+                        effect = ""
+                elif verb_code == "CONDITION_BAD" and effect_code in bad:
+                    text = "Chance to " + text
 
             if effect != "":
                 if may_use_roman and ((include_roman and uses_roman) or (not include_roman and uses_roman and first_effect)):
@@ -657,11 +662,3 @@ def remove_repeated_target(effects):
         if current_turn_counter == prev_turn_counter:
             effects[key][1] = ""
         prev_turn_counter = current_turn_counter
-
-
-def chance_to(effect: str, chance: int | float, target_id=True):
-    if target_id:
-        effect = effect[:-1]
-    if effect.split()[0] in STATUS_AILMENTS or (chance < 100 and ("Anti-" in effect or effect in CHANCE_SKILLS)):
-        return f"Chance to {effect}"
-    return effect

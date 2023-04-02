@@ -110,7 +110,7 @@
 | Passive 8 name JP = チャージコンボプラス[Ⅱ]
 | Passive 8 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
 
-| Passive 9 icon = Chance to Anti-Magia Seal
+| Passive 9 icon = Anti-Magia Seal
 | Passive 9 name = Anti-Seal Magia
 | Passive 9 name JP = アンチ・シールマギア
 | Passive 9 effect = Anti-Magia Seal

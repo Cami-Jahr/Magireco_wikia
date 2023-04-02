@@ -90,17 +90,17 @@
 | Passive 4 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = Chance to Critical Hit
+| Passive 5 icon = Critical Hit
 | Passive 5 name = Critical Adept [II]
 | Passive 5 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 5 effect = Chance to Critical Hit [II / 15%]
 
-| Passive 6 icon = Chance to Evade
+| Passive 6 icon = Evade
 | Passive 6 name = Parry Adept [II]
 | Passive 6 name JP = パリィ・アデプト[Ⅱ]
 | Passive 6 effect = Chance to Evade [II / 15%]
 
-| Passive 7 icon = Chance to Anti-Evade
+| Passive 7 icon = Anti-Evade
 | Passive 7 name = Aiming Adept [III]
 | Passive 7 name JP = エイミング・アデプト[Ⅲ]
 | Passive 7 effect = Chance to Anti-Evade [III / 35%]
@@ -110,7 +110,7 @@
 | Passive 8 name JP = ブラスト・アデプト[Ⅲ]
 | Passive 8 effect = Blast Damage Up [III / 20%]
 
-| Passive 9 icon = Chance to Poison on Attack
+| Passive 9 icon = Poison on Attack
 | Passive 9 name = Poison Edge [II]
 | Passive 9 name JP = ポイズン・エッジ[Ⅱ]
 | Passive 9 effect = Chance to Poison on Attack [II / 15%] (3 Turns)
@@ -125,7 +125,7 @@
 | Passive 11 name JP = アディクトキラー[Ⅱ]
 | Passive 11 effect = Damage Up Versus Enemies Affected With Status Ailments [II / 20%]
 
-| Passive 12 icon = Chance to Anti-Provoke
+| Passive 12 icon = Anti-Provoke
 | Passive 12 name = Blazen Adept [VII]
 | Passive 12 name JP = ブレイズン・アデプト[Ⅶ]
 | Passive 12 effect = Chance to Anti-Provoke [VII / 60%]
@@ -167,18 +167,14 @@
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = All Enemies / 3 Turns / 25%
 | Magia 2 / 2 = All Enemies / 3 Turns / 30%
-| Magia effect 3 = Defense Down
+| Magia effect 3 = Chance to Dazzle
 | Magia scaling 3 = -
-| Magia 3 / 1 = Self / 1 Turn / 50%
-| Magia 3 / 2 = Self / 1 Turn / 50%
-| Magia effect 4 = Dazzle
+| Magia 3 / 1 = All Enemies / 1 Turn / 47.5%
+| Magia 3 / 2 = All Enemies / 1 Turn / 100%
+| Magia effect 4 = Defense Down
 | Magia scaling 4 = -
-| Magia 4 / 1 = -
-| Magia 4 / 2 = All Enemies / 1 Turn
-| Magia effect 5 = Chance to Dazzle
-| Magia scaling 5 = -
-| Magia 5 / 1 = All Enemies / 1 Turn / 47.5%
-| Magia 5 / 2 = -
+| Magia 4 / 1 = Self / 1 Turn / 50%
+| Magia 4 / 2 = Self / 1 Turn / 50%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -190,8 +186,8 @@
 | Magia2 1 = X / 924%
 | Magia2 effect 2 = Status Ailment Resistance Down
 | Magia2 2 = All Enemies / 3 Turns / 50%
-| Magia2 effect 3 = Dazzle
-| Magia2 3 = All Enemies / 1 Turn
+| Magia2 effect 3 = Chance to Dazzle
+| Magia2 3 = All Enemies / 1 Turn / 100%
 | Magia2 effect 4 = Defense Down
 | Magia2 4 = Self / 1 Turn / 50%
 }}

@@ -17,7 +17,7 @@
 | max_ATK = 1445
 | max_DEF = 0
 
-| image = Chance to Bind on Attack
+| image = Bind on Attack
 | effect_name = A Light That Illuminates the Darkness 
 | effect_name_JP = 暗闇を照らす光
 | effect1 = Chance to Bind on Attack [II / 15%] (1 Turn) & Attack Up [I / 5%]

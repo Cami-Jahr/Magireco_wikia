@@ -17,7 +17,7 @@
 | max_ATK = 1050
 | max_DEF = 0
 
-| image = Chance to Anti-Charm
+| image = Anti-Charm
 | effect_name = Anti Fascinate
 | effect_name_JP = アンチ・ファサネイト
 | effect1 = Anti-Charm & Chance to Anti-Dazzle [VIII / 60%]

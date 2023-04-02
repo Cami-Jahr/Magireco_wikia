@@ -17,7 +17,7 @@
 | max_ATK = 1805
 | max_DEF = 0
 
-| image = Chance to Counter
+| image = Counter
 | effect_name = Counterattack Offensive 
 | effect_name_JP = 反撃攻勢
 | effect1 = Chance to Counter [IV / 25%] & Chance to Provoke [V / 30%]

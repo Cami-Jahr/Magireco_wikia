@@ -95,7 +95,7 @@
 | Passive 5 name JP = マギア・アデプト[Ⅱ]
 | Passive 5 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 6 icon = Chance to Anti-Magia Seal
+| Passive 6 icon = Anti-Magia Seal
 | Passive 6 name = Anti-Seal Magia
 | Passive 6 name JP = アンチ・シールマギア
 | Passive 6 effect = Anti-Magia Seal
@@ -105,12 +105,12 @@
 | Passive 7 name JP = シールド・アデプト[Ⅱ]
 | Passive 7 effect = Damage Cut [II / 10%]
 
-| Passive 8 icon = Chance to Charm on Attack
+| Passive 8 icon = Charm on Attack
 | Passive 8 name = Charm Edge [II]
 | Passive 8 name JP = チャーム・エッジ[Ⅱ]
 | Passive 8 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
 
-| Passive 9 icon = Chance to Skill Quicken
+| Passive 9 icon = Skill Quicken
 | Passive 9 name = Skill Quick [II]
 | Passive 9 name JP = スキルクイック[Ⅱ]
 | Passive 9 effect = Chance to Skill Quicken [II / 10%]
@@ -125,7 +125,7 @@
 | Passive 11 name JP = アクセル・アデプト[Ⅲ]
 | Passive 11 effect = Accele MP Gain Up [III / 15%]
 
-| Passive 12 icon = Chance to Anti-Skill Seal
+| Passive 12 icon = Anti-Skill Seal
 | Passive 12 name = Anti-Jammer
 | Passive 12 name JP = アンチ・ジャマ―
 | Passive 12 effect = Anti-Skill Seal
@@ -184,6 +184,6 @@
 | Magia2 2 = Allies / 5 Turns / 45%
 | Magia2 effect 3 = Damage Up
 | Magia2 3 = Allies / 5 Turns / 45%
-| Magia2 effect 4 = Burn
-| Magia2 4 = Target / 3 Turns
+| Magia2 effect 4 = Chance to Burn
+| Magia2 4 = Target / 3 Turns / 100%
 }}

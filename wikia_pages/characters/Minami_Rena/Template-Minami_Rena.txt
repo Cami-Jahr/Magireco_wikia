@@ -75,7 +75,7 @@
 | Passive 1 name JP = ドッペル・アデプト[Ⅲ]
 | Passive 1 effect = Doppel Damage Up [III / 15%] & Magia Damage Up [I / 5%]
 
-| Passive 2 icon = Chance to Anti-Magia Seal
+| Passive 2 icon = Anti-Magia Seal
 | Passive 2 name = Anti-Seal Magia [VII]
 | Passive 2 name JP = アンチ・シールマギア[Ⅶ]
 | Passive 2 effect = Chance to Anti-Magia Seal [VII / 55%]
@@ -105,12 +105,12 @@
 | Passive 7 name JP = ドッペル・アデプト[Ⅳ]
 | Passive 7 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
 
-| Passive 8 icon = Chance to Anti-Evade
+| Passive 8 icon = Anti-Evade
 | Passive 8 name = Aiming Adept [III]
 | Passive 8 name JP = エイミング・アデプト[Ⅲ]
 | Passive 8 effect = Chance to Anti-Evade [III / 35%]
 
-| Passive 9 icon = Chance to Evade
+| Passive 9 icon = Evade
 | Passive 9 name = Parry Adept [II]
 | Passive 9 name JP = パリィ・アデプト[Ⅱ]
 | Passive 9 effect = Chance to Evade [II / 15%]
@@ -125,7 +125,7 @@
 | Passive 11 name JP = マギア・アデプト[Ⅲ]
 | Passive 11 effect = Magia Damage Up [III / 10%]
 
-| Passive 12 icon = Chance to Critical Hit
+| Passive 12 icon = Critical Hit
 | Passive 12 name = Critical Adept [II]
 | Passive 12 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 12 effect = Chance to Critical Hit [II / 15%]
@@ -164,7 +164,7 @@
 | Magia 1 / 1 = V / 1088%
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = MP Restore
-| Magia scaling 2 = 1%
+| Magia scaling 2 = 1 MP
 | Magia 2 / 1 = 30 MP
 | Magia 2 / 2 = 35 MP
 | Magia effect 3 = Accele MP Gain Up

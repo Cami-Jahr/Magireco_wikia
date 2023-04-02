@@ -120,7 +120,7 @@
 | Passive 10 name JP = マナスプリング・アデプト[Ⅴ]
 | Passive 10 effect = Regenerate MP [V / 9 MP]
 
-| Passive 11 icon = Chance to Anti-Charm
+| Passive 11 icon = Anti-Charm
 | Passive 11 name = Anti-Charm
 | Passive 11 name JP = アンチ・チャーム
 | Passive 11 effect = Anti-Charm
@@ -179,14 +179,14 @@
 | Magia scaling 5 = 2.5%
 | Magia 5 / 1 = All Enemies / 3 Turns / 35%
 | Magia 5 / 2 = All Enemies / 3 Turns / 40%
-| Magia effect 6 = Charm
+| Magia effect 6 = Chance to Charm
 | Magia scaling 6 = -
-| Magia 6 / 1 = All Enemies / 1 Turn
-| Magia 6 / 2 = All Enemies / 1 Turn
+| Magia 6 / 1 = All Enemies / 1 Turn / 100%
+| Magia 6 / 2 = All Enemies / 1 Turn / 100%
 | Magia effect 7 = Survive
-| Magia scaling 7 = -
-| Magia 7 / 1 = Self / 3 Turns / 30%
-| Magia 7 / 2 = Self / 3 Turns / 35%
+| Magia scaling 7 = 0% HP
+| Magia 7 / 1 = Self / 3 Turns / 30% HP
+| Magia 7 / 2 = Self / 3 Turns / 35% HP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -204,8 +204,8 @@
 | Magia2 4 = All Enemies / 3 Turns / 60%
 | Magia2 effect 5 = Blast Damage Down
 | Magia2 5 = All Enemies / 3 Turns / 60%
-| Magia2 effect 6 = Charm
-| Magia2 6 = All Enemies / 1 Turn
+| Magia2 effect 6 = Chance to Charm
+| Magia2 6 = All Enemies / 1 Turn / 100%
 | Magia2 effect 7 = Survive
-| Magia2 7 = Self / 3 Turns / 40%
+| Magia2 7 = Self / 3 Turns / 40% HP
 }}

@@ -110,7 +110,7 @@
 | Passive 8 name JP = ダーク・アデプト[Ⅱ]
 | Passive 8 effect = Dark Attribute Attack Up [II / 7.5%]
 
-| Passive 9 icon = Chance to Anti-Magia Seal
+| Passive 9 icon = Anti-Magia Seal
 | Passive 9 name = Anti-Seal Magia
 | Passive 9 name JP = アンチ・シールマギア
 | Passive 9 effect = Anti-Magia Seal
@@ -125,7 +125,7 @@
 | Passive 11 name JP = ファスト・マナアップ
 | Passive 11 effect = MP Gauge Increased On Battle Start [20% full]
 
-| Passive 12 icon = Chance to Skill Quicken
+| Passive 12 icon = Skill Quicken
 | Passive 12 name = Skill Quicken Aura
 | Passive 12 name JP = スキルクイックオーラ
 | Passive 12 effect = Skill Quicken (Self / 1 Turn)
@@ -144,7 +144,7 @@
 | Connect name JP = ズルをしましょうか
 | Connect name EN = 
 | Connect name NA = 
-| Connect icon = Chance to Evade
+| Connect icon = Evade
 | Connect effect 1 = Evade
 | Connect 1 / 1 = 
 | Connect 1 / 2 = 
@@ -174,14 +174,14 @@
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = All Enemies / 3 Turns / 40%
 | Magia 3 / 2 = All Enemies / 3 Turns / 50%
-| Magia effect 4 = Dazzle
+| Magia effect 4 = Chance to Dazzle
 | Magia scaling 4 = -
-| Magia 4 / 1 = All Enemies / 2 Turns
-| Magia 4 / 2 = All Enemies / 2 Turns
-| Magia effect 5 = Magia Seal
+| Magia 4 / 1 = All Enemies / 2 Turns / 100%
+| Magia 4 / 2 = All Enemies / 2 Turns / 100%
+| Magia effect 5 = Chance to Magia Seal
 | Magia scaling 5 = -
-| Magia 5 / 1 = All Enemies / 2 Turns
-| Magia 5 / 2 = All Enemies / 2 Turns
+| Magia 5 / 1 = All Enemies / 2 Turns / 100%
+| Magia 5 / 2 = All Enemies / 2 Turns / 100%
 | Magia effect 6 = MP Damage
 | Magia scaling 6 = -
 | Magia 6 / 1 = All Enemies / 35 MP
@@ -203,10 +203,10 @@
 | Magia2 2 = All Enemies / 5 Turns / 42.5%
 | Magia2 effect 3 = MP Gain Down
 | Magia2 3 = All Enemies / 5 Turns / 60%
-| Magia2 effect 4 = Dazzle
-| Magia2 4 = All Enemies / 3 Turns
-| Magia2 effect 5 = Magia Seal
-| Magia2 5 = All Enemies / 3 Turns
+| Magia2 effect 4 = Chance to Dazzle
+| Magia2 4 = All Enemies / 3 Turns / 100%
+| Magia2 effect 5 = Chance to Magia Seal
+| Magia2 5 = All Enemies / 3 Turns / 100%
 | Magia2 effect 6 = MP Damage
 | Magia2 6 = All Enemies / 60 MP
 | Magia2 effect 7 = Skill Quicken

@@ -17,7 +17,7 @@
 | max_ATK = 2315
 | max_DEF = 0
 
-| image = Chance to Anti-Provoke
+| image = Anti-Provoke
 | effect_name = Will Adept 
 | effect_name_JP = ウィル・アデプト
 | effect1 = Chance to Anti-Provoke [VI / 55%] & Attack Up [IV / 20%]

@@ -115,7 +115,7 @@
 | Passive 9 name JP = 受け継ぎし加護[Ⅲ]
 | Passive 9 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]
 
-| Passive 10 icon = Chance to Anti-Bind
+| Passive 10 icon = Anti-Bind
 | Passive 10 name = Anti Snare
 | Passive 10 name JP = アンチ・スネア
 | Passive 10 effect = Anti-Bind & Anti-Stun
@@ -135,7 +135,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Chance to Anti-Critical Hit
+| Active 1 icon = Anti-Critical Hit
 | Active 1 name = Final Battle's Divine Protection [XII]
 | Active 1 name JP = 決戦の加護[XII]
 | Active 1 effect = Anti-Critical Hit (Allies / ∞ Turns) & Damage Cut [XII / 60%] (Self / 1 Turn)
@@ -172,7 +172,7 @@
 | Magia 3 / 1 = Allies / 3 Turns / 17.5%
 | Magia 3 / 2 = Allies / 3 Turns / 20%
 | Magia effect 4 = Revive one Ally
-| Magia scaling 4 = 1%
+| Magia scaling 4 = 1% HP
 | Magia 4 / 1 = Random Ally / 20% HP
 | Magia 4 / 2 = Random Ally / 25% HP
 

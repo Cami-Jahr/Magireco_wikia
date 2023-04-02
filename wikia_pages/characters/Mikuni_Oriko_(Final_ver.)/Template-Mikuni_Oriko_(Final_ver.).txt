@@ -105,7 +105,7 @@
 | Passive 7 name JP = マギア・アデプト[Ⅱ]
 | Passive 7 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 8 icon = Chance to Anti-Counter
+| Passive 8 icon = Anti-Counter
 | Passive 8 name = Anti-Counter [V]
 | Passive 8 name JP = アンチ・カウンター[Ⅴ]
 | Passive 8 effect = Chance to Anti-Counter [V / 45%]
@@ -125,7 +125,7 @@
 | Passive 11 name JP = レジストシールド
 | Passive 11 effect = Negate Status Ailments [2 Status Ailments]
 
-| Passive 12 icon = Chance to Evade
+| Passive 12 icon = Evade
 | Passive 12 name = Parry Aura
 | Passive 12 name JP = パリィオーラ
 | Passive 12 effect = Evade (Self / 1 Turn)
@@ -167,7 +167,7 @@
 | Magia scaling 2 = -
 | Magia 2 / 1 = Self / 1 Turn / 50%
 | Magia 2 / 2 = Self / 1 Turn / 60%
-| Magia effect 3 = Ignore Damage Cut
+| Magia effect 3 = Chance to Ignore Damage Cut
 | Magia scaling 3 = -
 | Magia 3 / 1 = Self / 1 Turn / 70%
 | Magia 3 / 2 = Self / 1 Turn / 80%
@@ -176,7 +176,7 @@
 | Magia 4 / 1 = Self / 1 Turn
 | Magia 4 / 2 = Self / 1 Turn
 | Magia effect 5 = MP Restore
-| Magia scaling 5 = 1%
+| Magia scaling 5 = 1 MP
 | Magia 5 / 1 = 30 MP
 | Magia 5 / 2 = 35 MP
 
@@ -191,7 +191,7 @@
 | Magia2 effect 2 = Defense Pierce
 | Magia2 2 = Self / 2 Turns
 | Magia2 effect 3 = Ignore Damage Cut
-| Magia2 3 = Self / 2 Turns / 100%
+| Magia2 3 = Self / 2 Turns
 | Magia2 effect 4 = Evade
 | Magia2 4 = Self / 2 Turns
 | Magia2 effect 5 = MP Restore
