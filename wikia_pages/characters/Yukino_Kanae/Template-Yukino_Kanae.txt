@@ -165,20 +165,12 @@
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Status Ailment Resistance Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = -
+| Magia 2 / 1 = Self / 3 Turns / 40%
 | Magia 2 / 2 = Allies / 3 Turns / 40%
 | Magia effect 3 = Remove Debuffs
 | Magia scaling 3 = -
-| Magia 3 / 1 = -
+| Magia 3 / 1 = Self
 | Magia 3 / 2 = Allies
-| Magia effect 4 = Status Ailment Resistance Up
-| Magia scaling 4 = 2.5%
-| Magia 4 / 1 = Self / 3 Turns / 40%
-| Magia 4 / 2 = -
-| Magia effect 5 = Remove Debuffs
-| Magia scaling 5 = -
-| Magia 5 / 1 = Self
-| Magia 5 / 2 = -
 
 | Doppel Name = 
 | Doppel Title = 

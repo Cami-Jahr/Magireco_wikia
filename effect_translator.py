@@ -625,8 +625,6 @@ def translate(shortDescription, arts, include_roman):
                 percentage_growth = int(percentage_growth)
 
             key = text + target_id[0]
-            if key in effects and text not in ("Negate Status Ailments", "Anti-Debuff"):
-                print(text, "\n\t", effects[key], "\n\t", [effect, target_wording, f"{percentage_growth}%"], "\n\t\t", arts)
 
             # Should refactor this somehow to separate allied and enemy casts without using a target_id key
             effects[key] = [effect, target_wording, f"{percentage_growth}%"]

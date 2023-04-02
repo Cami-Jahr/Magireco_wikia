@@ -396,6 +396,8 @@ def make_magia_doppel_and_connect(dic, cards):
 | Magia name NA = 
 | Magia icon = {}
 """.format(magia_name, magia_icon)
+
+    combine_similar_effects(all_megia_effects, magias, magia_scalings)
     for i in range(len(all_megia_effects)):
         magia_string += magia_effect_template.format(i + 1, all_megia_effects[i][:-1], magia_scalings[all_megia_effects[i]])
         for j in range(1, len(magias) + 1):
@@ -541,3 +543,39 @@ def make_spirit_enchantment(cells):
 | se charge bonus = {charge_bonus}
 """
     return stats + passive_output + active_output
+
+def combine_similar_effects(all_megia_effects, magias, magia_scalings):
+    """If e.g. Magia 1 / 3 has Def+ to Self while Magia 2/4 has Def+ to Allies this function combines them"""
+
+    occurances_of_type = defaultdict(int)
+    for eff in all_megia_effects:
+        occurances_of_type[eff[:-1]] += 1
+    to_combine = {}
+    for effect_type, amount in occurances_of_type.items():
+        if amount > 1:
+            to_combine[effect_type] = []
+            for rank_magia in magias:
+                on_level_amount = 0
+                for encoded_effect, atts in rank_magia.items():
+                    if encoded_effect[:-1] == effect_type:
+                        on_level_amount += 1
+                to_combine[effect_type].append(on_level_amount)
+
+    for effect_type, amount in to_combine.items():
+        if all(nr < 2 for nr in amount):
+            replacements = {}
+            for eff in all_megia_effects:
+                if eff[:-1] == effect_type:
+                    new_eff = eff[:-1] + "X"
+                    for rank_magia in magias:
+                        if eff in rank_magia:
+                            rank_magia[new_eff] = rank_magia[eff]
+                            del rank_magia[eff]
+                    replacements[eff] = new_eff
+            for old_eff, new_eff in replacements.items():
+                if new_eff not in all_megia_effects:
+                    all_megia_effects[all_megia_effects.index(old_eff)] = new_eff
+                else:
+                    all_megia_effects.remove(old_eff)
+                magia_scalings[new_eff] = magia_scalings[old_eff]
+                del magia_scalings[old_eff]
