@@ -178,8 +178,8 @@
 | Magia 5 / 2 = Allies / 3 Turns / 17.5%
 | Magia effect 6 = Provoke
 | Magia scaling 6 = -
-| Magia 6 / 1 = Self / 1 Turn
-| Magia 6 / 2 = Self / 1 Turn
+| Magia 6 / 1 = Self / 1 Turn / 100%
+| Magia 6 / 2 = Self / 1 Turn / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -198,5 +198,5 @@
 | Magia2 effect 5 = Accele MP Gain Up
 | Magia2 5 = Allies / 3 Turns / 32.5%
 | Magia2 effect 6 = Provoke
-| Magia2 6 = Self / 1 Turn
+| Magia2 6 = Self / 1 Turn / 100%
 }}

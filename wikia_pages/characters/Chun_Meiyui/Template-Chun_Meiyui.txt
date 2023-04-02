@@ -151,9 +151,9 @@
 | Connect name NA = 
 | Connect icon = Evade
 | Connect effect 1 = Evade
-| Connect 1 / 1 = 
-| Connect 1 / 2 = 
-| Connect 1 / 3 = 
+| Connect 1 / 1 = 100%
+| Connect 1 / 2 = 100%
+| Connect 1 / 3 = 100%
 | Connect effect 2 = Chance to Critical Hit
 | Connect 2 / 1 = V / 50%
 | Connect 2 / 2 = VII / 60%
@@ -165,9 +165,9 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Evade
 | Magia scaling 1 = -
-| Magia 1 / 1 = Self / 1 Turn
-| Magia 1 / 2 = Self / 1 Turn
-| Magia 1 / 3 = Self / 1 Turn
+| Magia 1 / 1 = Self / 1 Turn / 100%
+| Magia 1 / 2 = Self / 1 Turn / 100%
+| Magia 1 / 3 = Self / 1 Turn / 100%
 | Magia effect 2 = Damage 4 Random Enemies
 | Magia scaling 2 = 10%
 | Magia 2 / 1 = -
@@ -200,5 +200,5 @@
 | Magia2 effect 2 = Charged Attack Damage Up
 | Magia2 2 = Allies / 3 Turns / 37.5%
 | Magia2 effect 3 = Evade
-| Magia2 3 = Self / 2 Turns
+| Magia2 3 = Self / 2 Turns / 100%
 }}

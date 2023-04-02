@@ -183,7 +183,7 @@
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
 | Magia 4 / 3 = -
-| Magia 4 / 4 = Self / 1 Turn
+| Magia 4 / 4 = Self / 1 Turn / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -198,5 +198,5 @@
 | Magia2 effect 3 = Accele MP Gain Up
 | Magia2 3 = Allies / 3 Turns / 40%
 | Magia2 effect 4 = Evade
-| Magia2 4 = Self / 1 Turn
+| Magia2 4 = Self / 1 Turn / 100%
 }}

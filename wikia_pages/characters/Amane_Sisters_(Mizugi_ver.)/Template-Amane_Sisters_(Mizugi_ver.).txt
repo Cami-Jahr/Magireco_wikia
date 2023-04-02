@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 60%
 | Connect 2 / 2 = IX / 70%
 | Connect effect 3 = Remove Status Ailments
-| Connect 3 / 1 = 
-| Connect 3 / 2 = 
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = 三日月甘蕉船
 | Magia name EN = 

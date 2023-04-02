@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Curse on Attack
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
 | Connect effect 3 = Evade
-| Connect 3 / 1 = 
-| Connect 3 / 2 = 
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = エレクトロン・シュヴェールト
 | Magia name EN = 
@@ -191,5 +191,5 @@
 | Magia2 effect 4 = Aqua Attribute Attack Up
 | Magia2 4 = Self / 5 Turns / 35%
 | Magia2 effect 5 = Ignore Damage Cut
-| Magia2 5 = Self / 3 Turns
+| Magia2 5 = Self / 3 Turns / 100%
 }}

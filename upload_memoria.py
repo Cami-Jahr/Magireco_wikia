@@ -137,7 +137,7 @@ def read(piece, chars):
             cooldown = ""
 
         description_jp = piece[f"pieceSkill{i}"]["shortDescription"]
-        description_eng, icon = translate(description_jp, arts, True)
+        description_eng, icon = translate(description_jp, arts, True, False)
         remove_repeated_target(description_eng)
         en_full_description = ""
         for en_skill in description_eng:

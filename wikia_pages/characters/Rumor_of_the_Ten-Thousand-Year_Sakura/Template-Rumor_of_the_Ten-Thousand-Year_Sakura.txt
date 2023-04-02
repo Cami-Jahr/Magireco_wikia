@@ -171,14 +171,10 @@
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Allies / 3 Turns / 15%
 | Magia 3 / 2 = Allies / 3 Turns / 20%
-| Magia effect 4 = Anti-Evade
+| Magia effect 4 = Chance to Anti-Evade
 | Magia scaling 4 = -
-| Magia 4 / 1 = -
-| Magia 4 / 2 = Allies / 3 Turns
-| Magia effect 5 = Chance to Anti-Evade
-| Magia scaling 5 = -
-| Magia 5 / 1 = Self / 3 Turns / 70%
-| Magia 5 / 2 = -
+| Magia 4 / 1 = Self / 3 Turns / 70%
+| Magia 4 / 2 = Allies / 3 Turns / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -193,5 +189,5 @@
 | Magia2 effect 3 = Accele MP Gain Up
 | Magia2 3 = Allies / 3 Turns / 35%
 | Magia2 effect 4 = Anti-Evade
-| Magia2 4 = Allies / 3 Turns
+| Magia2 4 = Allies / 3 Turns / 100%
 }}

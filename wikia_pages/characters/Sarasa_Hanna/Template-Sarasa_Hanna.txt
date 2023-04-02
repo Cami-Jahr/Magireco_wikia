@@ -151,12 +151,9 @@
 | Connect effect 2 = Damage Up Versus Enemies Affected With Status Ailments
 | Connect 2 / 1 = II / 27.5%
 | Connect 2 / 2 = IV / 32.5%
-| Connect effect 3 = Charm on Attack
-| Connect 3 / 1 = -
-| Connect 3 / 2 = 
-| Connect effect 4 = Chance to Charm on Attack
-| Connect 4 / 1 = II / 65%
-| Connect 4 / 2 = -
+| Connect effect 3 = Chance to Charm on Attack
+| Connect 3 / 1 = II / 65%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = ナイトメア・キャッチャー
 | Magia name EN = 
@@ -181,7 +178,7 @@
 | Magia effect 5 = Evade
 | Magia scaling 5 = -
 | Magia 5 / 1 = -
-| Magia 5 / 2 = Self / 1 Turn
+| Magia 5 / 2 = Self / 1 Turn / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -198,5 +195,5 @@
 | Magia2 effect 4 = Defense Down
 | Magia2 4 = Target / 3 Turns / 40%
 | Magia2 effect 5 = Evade
-| Magia2 5 = Self / 1 Turn
+| Magia2 5 = Self / 1 Turn / 100%
 }}

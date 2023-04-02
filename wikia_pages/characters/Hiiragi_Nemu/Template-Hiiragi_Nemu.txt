@@ -138,7 +138,7 @@
 | Active 1 icon = Dazzle
 | Active 1 name = Mirage Charm [IX]
 | Active 1 name JP = ミラージュ・チャーム[Ⅸ]
-| Active 1 effect = Chance to Dazzle [IX / 100%] & Chance to Charm [IX / 50%] (Target / 1 Turn)
+| Active 1 effect = Chance to Dazzle [100%] & Chance to Charm [IX / 50%] (Target / 1 Turn)
 | Active 1 cooldown = 6
 
 | Connect name JP = 僕と連作を完成させよう
@@ -151,12 +151,9 @@
 | Connect effect 2 = HP Restore
 | Connect 2 / 1 = IV / 37.5%
 | Connect 2 / 2 = VI / 42.5%
-| Connect effect 3 = Dazzle on Attack
-| Connect 3 / 1 = -
-| Connect 3 / 2 = 
-| Connect effect 4 = Chance to Dazzle on Attack
-| Connect 4 / 1 = IV / 65%
-| Connect 4 / 2 = -
+| Connect effect 3 = Chance to Dazzle on Attack
+| Connect 3 / 1 = IV / 65%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = 創造の子どもたち
 | Magia name EN = 

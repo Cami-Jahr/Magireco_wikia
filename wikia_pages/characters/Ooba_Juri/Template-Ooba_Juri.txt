@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VIII / 75%
 | Connect 1 / 2 = X / 85%
 | Connect effect 2 = Burn on Attack
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
 | Connect effect 3 = Anti-Evade
-| Connect 3 / 1 = 
-| Connect 3 / 2 = 
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = 無限灼熱火炎龍撃波
 | Magia name EN = 

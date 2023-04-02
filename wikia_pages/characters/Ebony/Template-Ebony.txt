@@ -152,8 +152,8 @@
 | Connect 2 / 1 = V / 22.5 MP
 | Connect 2 / 2 = VII / 27.5 MP
 | Connect effect 3 = Dazzle on Attack
-| Connect 3 / 1 = 
-| Connect 3 / 2 = 
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = ホルスの眼差し　
 | Magia name EN = 

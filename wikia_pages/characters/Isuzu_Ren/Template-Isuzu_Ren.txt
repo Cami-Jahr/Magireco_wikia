@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Chase
 | Connect effect 1 = Chase
-| Connect 1 / 1 = 
-| Connect 1 / 2 = 
+| Connect 1 / 1 = 100%
+| Connect 1 / 2 = 100%
 | Connect effect 2 = Attack Up
 | Connect 2 / 1 = VII / 35%
 | Connect 2 / 2 = IX / 40%
 | Connect effect 3 = Evade
 | Connect 3 / 1 = -
-| Connect 3 / 2 = 
+| Connect 3 / 2 = 100%
 
 | Magia name JP = ソウル・サルベーション
 | Magia name EN = 
@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VIII / 960%
 | Magia effect 2 = Evade
 | Magia scaling 2 = -
-| Magia 2 / 1 = Self / 1 Turn
-| Magia 2 / 2 = Self / 1 Turn
+| Magia 2 / 1 = Self / 1 Turn / 100%
+| Magia 2 / 2 = Self / 1 Turn / 100%
 | Magia effect 3 = Regenerate HP
 | Magia scaling 3 = 1%
 | Magia 3 / 1 = -
@@ -181,7 +181,7 @@
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = X / 2488%
 | Magia2 effect 2 = Evade
-| Magia2 2 = Self / 1 Turn
+| Magia2 2 = Self / 1 Turn / 100%
 | Magia2 effect 3 = Regenerate HP
 | Magia2 3 = Self / 3 Turns / 9%
 }}

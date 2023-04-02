@@ -146,8 +146,8 @@
 | Connect name NA = 
 | Connect icon = Defense Pierce
 | Connect effect 1 = Defense Pierce
-| Connect 1 / 1 = 
-| Connect 1 / 2 = 
+| Connect 1 / 1 = 100%
+| Connect 1 / 2 = 100%
 | Connect effect 2 = Chance to Critical Hit
 | Connect 2 / 1 = VII / 60%
 | Connect 2 / 2 = IX / 70%
@@ -180,5 +180,5 @@
 | Magia2 effect 2 = MP Restore
 | Magia2 2 = 41.5 MP
 | Magia2 effect 3 = Evade
-| Magia2 3 = Self / 1 Turn
+| Magia2 3 = Self / 1 Turn / 100%
 }}

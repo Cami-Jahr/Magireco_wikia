@@ -323,7 +323,7 @@ def make_magia_doppel_and_connect(dic, cards):
                 arts.append(connect[f"art{i}"])
             except KeyError:
                 break
-        connect_effects, connect_icon = translate(connect["shortDescription"], arts, True)
+        connect_effects, connect_icon = translate(connect["shortDescription"], arts, True, False)
         for e in connect_effects:
             all_connect_effects[e] += 1
         connects.append(connect_effects)
@@ -336,7 +336,7 @@ def make_magia_doppel_and_connect(dic, cards):
                 arts.append(magia[f"art{i}"])
             except KeyError:
                 break
-        magia_effects, magia_icon = translate(magia["shortDescription"], arts, False)
+        magia_effects, magia_icon = translate(magia["shortDescription"], arts, False, True)
         for e in magia_effects:
             magia_scalings[e] = "-" if magia_effects[e][2].replace("%", "").strip() == "0" else magia_effects[e][2]
             all_megia_effects[e] += 1
@@ -352,7 +352,7 @@ def make_magia_doppel_and_connect(dic, cards):
                     arts.append(doppel_arts[f"art{i}"])
                 except KeyError:
                     break
-            all_doppel_effects = translate(doppel_arts["shortDescription"], arts, False)[0]
+            all_doppel_effects = translate(doppel_arts["shortDescription"], arts, False, True)[0]
 
     all_connect_effects = [e for e, i in sorted(all_connect_effects.items(), key=lambda x: x[1], reverse=True)]
     connect_effect_template = """| Connect effect {} = {}
@@ -365,6 +365,8 @@ def make_magia_doppel_and_connect(dic, cards):
 | Connect name NA = 
 | Connect icon = {}
 """.format(connect_name, connect_icon)
+
+    combine_similar_effects(all_connect_effects, connects)
     for i in range(len(all_connect_effects)):
         connect_string += connect_effect_template.format(i + 1, all_connect_effects[i][:-1])
         for j in range(1, len(connects) + 1):
@@ -381,7 +383,7 @@ def make_magia_doppel_and_connect(dic, cards):
                 st = "-"
             except IndexError:
                 break
-            connect_string += connect_item_template.format(i + 1, j, st)
+            connect_string += connect_item_template.format(i + 1, j, "100%" if st.strip() == "" else st)
 
     all_megia_effects = [e for e, i in sorted(all_megia_effects.items(), key=lambda x: x[1], reverse=True)]
     magia_effect_template = """| Magia effect {0} = {1}
@@ -483,7 +485,7 @@ def make_spirit_enchantment(cells: list[dict]):
                     arts.append(cell["emotionSkill"][f"art{i}"])
                 except KeyError:
                     break
-            eng_effect, icon = translate(cell["emotionSkill"]["shortDescription"], arts, True)
+            eng_effect, icon = translate(cell["emotionSkill"]["shortDescription"], arts, True, False)
             remove_repeated_target(eng_effect)
             effect_output = ""
             for effect in eng_effect:
@@ -540,38 +542,60 @@ def make_spirit_enchantment(cells: list[dict]):
 """
     return stats + passive_output + active_output
 
-def combine_similar_effects(all_megia_effects, magias, magia_scalings):
-    """If e.g. Magia 1 / 3 has Def+ to Self while Magia 2/4 has Def+ to Allies this function combines them"""
 
-    occurances_of_type = defaultdict(int)
+def combine_similar_effects(all_megia_effects, magias, magia_scalings = None):
+    """If e.g. Magia 1 / 3 has Def+ to Self while Magia 2/4 has Def+ to Allies this function combines them"""
+    occurrences_of_type = defaultdict(int)
     for eff in all_megia_effects:
-        occurances_of_type[eff[:-1]] += 1
+        occurrences_of_type[get_base_effect(eff)[1]] += 1
     to_combine = {}
-    for effect_type, amount in occurances_of_type.items():
+
+    for effect_type, amount in occurrences_of_type.items():
         if amount > 1:
             to_combine[effect_type] = []
             for rank_magia in magias:
                 on_level_amount = 0
                 for encoded_effect, atts in rank_magia.items():
-                    if encoded_effect[:-1] == effect_type:
+                    if get_base_effect(encoded_effect)[1] == effect_type:
                         on_level_amount += 1
                 to_combine[effect_type].append(on_level_amount)
 
     for effect_type, amount in to_combine.items():
         if all(nr < 2 for nr in amount):
             replacements = {}
+            use_chance = {}
+
             for eff in all_megia_effects:
-                if eff[:-1] == effect_type:
-                    new_eff = eff[:-1] + "X"
+                if get_base_effect(eff)[1] == effect_type:
+                    has_chance, effect = get_base_effect(eff)
+                    new_eff = effect + "X"
+                    replacements[eff] = new_eff
+                    use_chance[new_eff] = (new_eff in use_chance and use_chance[new_eff]) or has_chance
+
+            for eff in all_megia_effects:
+                if get_base_effect(eff)[1] == effect_type:
+                    effect = get_base_effect(eff)[1] + "X"
+                    if effect in use_chance and use_chance[effect]:
+                        effect = "Chance to " + effect
+                    new_eff = effect
                     for rank_magia in magias:
                         if eff in rank_magia:
                             rank_magia[new_eff] = rank_magia[eff]
                             del rank_magia[eff]
-                    replacements[eff] = new_eff
+
             for old_eff, new_eff in replacements.items():
+                if new_eff in use_chance and use_chance[new_eff]:
+                    new_eff = "Chance to " + new_eff
                 if new_eff not in all_megia_effects:
                     all_megia_effects[all_megia_effects.index(old_eff)] = new_eff
                 else:
                     all_megia_effects.remove(old_eff)
-                magia_scalings[new_eff] = magia_scalings[old_eff]
-                del magia_scalings[old_eff]
+                if magia_scalings:
+                    magia_scalings[new_eff] = magia_scalings[old_eff]
+                    del magia_scalings[old_eff]
+
+
+def get_base_effect(effect):
+    if "Chance to " in effect:
+        return True, effect[:-1].replace("Chance to ", "")
+    return False, effect[:-1]

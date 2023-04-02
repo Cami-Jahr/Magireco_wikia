@@ -170,8 +170,8 @@
 | Magia 3 / 2 = Allies / 20%
 | Magia effect 4 = Provoke
 | Magia scaling 4 = -
-| Magia 4 / 1 = Self / 1 Turn
-| Magia 4 / 2 = Self / 1 Turn
+| Magia 4 / 1 = Self / 1 Turn / 100%
+| Magia 4 / 2 = Self / 1 Turn / 100%
 | Magia effect 5 = MP Up When Damaged
 | Magia scaling 5 = -
 | Magia 5 / 1 = Self / 1 Turn / 8%
@@ -192,5 +192,5 @@
 | Magia2 effect 4 = HP Restore
 | Magia2 4 = Allies / 38%
 | Magia2 effect 5 = Provoke
-| Magia2 5 = Self / 2 Turns
+| Magia2 5 = Self / 2 Turns / 100%
 }}

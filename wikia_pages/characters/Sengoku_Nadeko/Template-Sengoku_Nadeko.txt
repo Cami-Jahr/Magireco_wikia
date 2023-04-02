@@ -149,14 +149,11 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Burn on Attack
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
-| Connect effect 3 = Charm on Attack
-| Connect 3 / 1 = -
-| Connect 3 / 2 = 
-| Connect effect 4 = Chance to Charm on Attack
-| Connect 4 / 1 = VII / 65%
-| Connect 4 / 2 = -
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
+| Connect effect 3 = Chance to Charm on Attack
+| Connect 3 / 1 = VII / 65%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = 這う這うの定理
 | Magia name EN = 

@@ -170,16 +170,16 @@
 | Magia 3 / 2 = Self / 3 Turns / 40%
 | Magia effect 4 = Defense Pierce
 | Magia scaling 4 = -
-| Magia 4 / 1 = Self / 3 Turns
-| Magia 4 / 2 = Self / 3 Turns
+| Magia 4 / 1 = Self / 3 Turns / 100%
+| Magia 4 / 2 = Self / 3 Turns / 100%
 | Magia effect 5 = Defense Down
 | Magia scaling 5 = -
 | Magia 5 / 1 = Self / 1 Turn / 20%
 | Magia 5 / 2 = Self / 1 Turn / 20%
 | Magia effect 6 = Provoke
 | Magia scaling 6 = -
-| Magia 6 / 1 = Self / 1 Turn
-| Magia 6 / 2 = Self / 1 Turn
+| Magia 6 / 1 = Self / 1 Turn / 100%
+| Magia 6 / 2 = Self / 1 Turn / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -194,9 +194,9 @@
 | Magia2 effect 3 = Dark Attribute Attack Up
 | Magia2 3 = Self / 5 Turns / 60%
 | Magia2 effect 4 = Defense Pierce
-| Magia2 4 = Self / 5 Turns
+| Magia2 4 = Self / 5 Turns / 100%
 | Magia2 effect 5 = Defense Down
 | Magia2 5 = Self / 1 Turn / 30%
 | Magia2 effect 6 = Provoke
-| Magia2 6 = Self / 1 Turn
+| Magia2 6 = Self / 1 Turn / 100%
 }}

@@ -152,19 +152,11 @@
 | Connect effect 2 = Chance to Anti-Evade
 | Connect 2 / 1 = V / 25%
 | Connect 2 / 2 = VII / 25%
-| Connect 2 / 3 = -
+| Connect 2 / 3 = 100%
 | Connect effect 3 = Chance to Anti-Counter
 | Connect 3 / 1 = V / 80%
 | Connect 3 / 2 = VII / 80%
-| Connect 3 / 3 = -
-| Connect effect 4 = Anti-Evade
-| Connect 4 / 1 = -
-| Connect 4 / 2 = -
-| Connect 4 / 3 = 
-| Connect effect 5 = Anti-Counter
-| Connect 5 / 1 = -
-| Connect 5 / 2 = -
-| Connect 5 / 3 = 
+| Connect 3 / 3 = 100%
 
 | Magia name JP = 漆黒のアルカナ
 | Magia name EN = 

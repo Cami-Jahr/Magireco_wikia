@@ -155,8 +155,8 @@
 | Connect 3 / 1 = VII / 20% HP
 | Connect 3 / 2 = IX / 20% HP
 | Connect effect 4 = Remove Status Ailments
-| Connect 4 / 1 = 
-| Connect 4 / 2 = 
+| Connect 4 / 1 = 100%
+| Connect 4 / 2 = 100%
 
 | Magia name JP = もう絶望する必要なんてない！
 | Magia name EN = 

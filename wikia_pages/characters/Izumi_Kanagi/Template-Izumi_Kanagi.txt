@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Anti-Evade
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
 
 | Magia name JP = 断罪の光芒
 | Magia name EN = 
@@ -164,14 +164,10 @@
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = Self / 1 Turn / 90%
 | Magia 2 / 2 = Self / 1 Turn / 90%
-| Magia effect 3 = Anti-Evade
+| Magia effect 3 = Chance to Anti-Evade
 | Magia scaling 3 = -
-| Magia 3 / 1 = -
-| Magia 3 / 2 = Allies / 1 Turn
-| Magia effect 4 = Chance to Anti-Evade
-| Magia scaling 4 = -
-| Magia 4 / 1 = Allies / 1 Turn / 70%
-| Magia 4 / 2 = -
+| Magia 3 / 1 = Allies / 1 Turn / 70%
+| Magia 3 / 2 = Allies / 1 Turn / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -182,7 +178,7 @@
 | Magia2 effect 1 = Damage 5 Random Enemies
 | Magia2 1 = VIII / 622.2%
 | Magia2 effect 2 = Anti-Evade
-| Magia2 2 = Allies / 1 Turn
+| Magia2 2 = Allies / 1 Turn / 100%
 | Magia2 effect 3 = Damage Cut
 | Magia2 3 = Self / 1 Turn / 100%
 }}

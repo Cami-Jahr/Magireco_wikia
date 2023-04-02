@@ -461,7 +461,7 @@ target_tl = {
 }
 
 
-def translate(shortDescription: str, arts: list[dict], include_roman: bool):
+def translate(shortDescription: str, arts: list[dict], include_roman: bool, include_100_percent: bool):
     romans = [roman_to_full[i] for i in re.findall(r"""\[(.*?)]""", shortDescription)]
     effects = {}
     icon = ""
@@ -573,9 +573,15 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool):
                     if pro < 100:
                         text = "Chance to " + text
                     else:
-                        effect = ""
+                        if include_100_percent:
+                            effect = "100"
+                        else:
+                            effect = ""
+                        uses_roman = False
                 elif verb_code == "CONDITION_BAD" and effect_code in bad:
                     text = "Chance to " + text
+                    if pro >= 100:
+                        uses_roman = False
 
             if effect != "":
                 if may_use_roman and ((include_roman and uses_roman) or (not include_roman and uses_roman and first_effect)):

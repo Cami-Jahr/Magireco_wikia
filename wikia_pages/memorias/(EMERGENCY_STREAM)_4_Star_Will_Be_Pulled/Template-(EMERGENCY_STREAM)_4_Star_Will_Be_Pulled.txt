@@ -21,7 +21,7 @@
 | effect_name = (EMERGENCY STREAM) 4 Star Will Be Pulled
 | effect_name_JP = 【緊急配信】星４出します
 | effect1 = 
-| effect2 = Damage Increase [V / 25%] & Attack Up [V / 25%] & Chance to Burn [V / 100%] (Self / 1 Turn)
+| effect2 = Damage Increase [V / 25%] & Attack Up [V / 25%] & Chance to Burn [100%] (Self / 1 Turn)
 | Cooldown = 
 | Cooldown2 = 8
 }}

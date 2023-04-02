@@ -150,13 +150,13 @@
 | Connect 1 / 2 = VII / 35%
 | Connect 1 / 3 = IX / 40%
 | Connect effect 2 = Darkness on Attack
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
 | Connect 2 / 3 = -
 | Connect effect 3 = Dazzle on Attack
 | Connect 3 / 1 = -
 | Connect 3 / 2 = -
-| Connect 3 / 3 = 
+| Connect 3 / 3 = 100%
 
 | Magia name JP = ベラ・スピーナ
 | Magia name EN = 

@@ -169,8 +169,8 @@
 | Magia 2 / 2 = Target / 2 Turns / 30%
 | Magia effect 3 = Evade
 | Magia scaling 3 = -
-| Magia 3 / 1 = Self / 1 Turn
-| Magia 3 / 2 = Self / 1 Turn
+| Magia 3 / 1 = Self / 1 Turn / 100%
+| Magia 3 / 2 = Self / 1 Turn / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -183,5 +183,5 @@
 | Magia2 effect 2 = Status Ailment Resistance Down
 | Magia2 2 = Target / 2 Turns / 45%
 | Magia2 effect 3 = Evade
-| Magia2 3 = Self / 1 Turn
+| Magia2 3 = Self / 1 Turn / 100%
 }}

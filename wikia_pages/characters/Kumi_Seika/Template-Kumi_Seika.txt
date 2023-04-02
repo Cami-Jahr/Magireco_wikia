@@ -153,14 +153,10 @@
 | Connect 2 / 1 = III / 15%
 | Connect 2 / 2 = V / 20%
 | Connect 2 / 3 = VII / 25%
-| Connect effect 3 = Fog on Attack
-| Connect 3 / 1 = -
-| Connect 3 / 2 = 
-| Connect 3 / 3 = 
-| Connect effect 4 = Chance to Fog on Attack
-| Connect 4 / 1 = III / 60%
-| Connect 4 / 2 = -
-| Connect 4 / 3 = -
+| Connect effect 3 = Chance to Fog on Attack
+| Connect 3 / 1 = III / 60%
+| Connect 3 / 2 = 100%
+| Connect 3 / 3 = 100%
 
 | Magia name JP = サモン・ウェーブ
 | Magia name EN = 

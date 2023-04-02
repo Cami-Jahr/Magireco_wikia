@@ -170,8 +170,8 @@
 | Magia 3 / 2 = Self / 3 Turns / 25%
 | Magia effect 4 = Critical Hit
 | Magia scaling 4 = -
-| Magia 4 / 1 = Self / 2 Turns
-| Magia 4 / 2 = Self / 2 Turns
+| Magia 4 / 1 = Self / 2 Turns / 100%
+| Magia 4 / 2 = Self / 2 Turns / 100%
 
 | Doppel Name = 
 | Doppel Title = 

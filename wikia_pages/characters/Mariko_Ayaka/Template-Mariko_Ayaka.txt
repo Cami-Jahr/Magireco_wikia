@@ -146,8 +146,8 @@
 | Connect name NA = 
 | Connect icon = Endure
 | Connect effect 1 = Endure
-| Connect 1 / 1 = 
-| Connect 1 / 2 = 
+| Connect 1 / 1 = 100%
+| Connect 1 / 2 = 100%
 | Connect effect 2 = Chance to Critical Hit
 | Connect 2 / 1 = V / 50%
 | Connect 2 / 2 = VII / 60%

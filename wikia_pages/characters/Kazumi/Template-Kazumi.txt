@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 70%
 | Connect 1 / 2 = IX / 80%
 | Connect effect 2 = Defense Pierce
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
 
 | Magia name JP = リーミティ・エステールニ
 | Magia name EN = 

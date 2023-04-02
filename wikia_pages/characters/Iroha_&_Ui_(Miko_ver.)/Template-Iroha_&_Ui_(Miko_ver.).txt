@@ -155,8 +155,8 @@
 | Connect 3 / 1 = VII / 60%
 | Connect 3 / 2 = IX / 70%
 | Connect effect 4 = Remove Status Ailments
-| Connect 4 / 1 = 
-| Connect 4 / 2 = 
+| Connect 4 / 1 = 100%
+| Connect 4 / 2 = 100%
 
 | Magia name JP = プリマ・ランチャーレ
 | Magia name EN = 

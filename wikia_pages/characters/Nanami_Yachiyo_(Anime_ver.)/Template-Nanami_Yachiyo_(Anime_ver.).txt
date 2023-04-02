@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 70%
 | Connect 1 / 2 = IX / 80%
 | Connect effect 2 = Defense Pierce
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
 
 | Magia name JP = アブソリュート・ラピッズ
 | Magia name EN = 
@@ -184,7 +184,7 @@
 | Magia2 effect 2 = Attack Up
 | Magia2 2 = Self / 5 Turns / 60%
 | Magia2 effect 3 = Defense Pierce
-| Magia2 3 = Self / 3 Turns
+| Magia2 3 = Self / 3 Turns / 100%
 | Magia2 effect 4 = Imitate Attribute
 | Magia2 4 = Self / 3 Turns / 100%
 }}

@@ -156,10 +156,10 @@
 | Connect 1 / 3 = VII / 25%
 | Connect 1 / 4 = VII / 25%
 | Connect effect 2 = Burn on Attack
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
-| Connect 2 / 3 = 
-| Connect 2 / 4 = 
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
+| Connect 2 / 3 = 100%
+| Connect 2 / 4 = 100%
 | Connect effect 3 = Charge Disc Damage Up
 | Connect 3 / 1 = -
 | Connect 3 / 2 = -
@@ -208,5 +208,5 @@
 | Magia2 effect 3 = Attack Up
 | Magia2 3 = Allies / 3 Turns / 45%
 | Magia2 effect 4 = Defense Pierce
-| Magia2 4 = Self / 2 Turns
+| Magia2 4 = Self / 2 Turns / 100%
 }}

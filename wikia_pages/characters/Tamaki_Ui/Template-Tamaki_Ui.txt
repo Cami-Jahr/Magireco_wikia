@@ -138,7 +138,7 @@
 | Active 1 icon = Curse
 | Active 1 name = Curse Enchant [III]
 | Active 1 name JP = カースエンチャント[Ⅲ]
-| Active 1 effect = Chance to Curse [III / 100%] (Target / 1 Turn) & Status Ailment Resistance Up [III / 30%] (Allies / 1 Turn)
+| Active 1 effect = Chance to Curse [100%] (Target / 1 Turn) & Status Ailment Resistance Up [III / 30%] (Allies / 1 Turn)
 | Active 1 cooldown = 7
 
 | Connect name JP = ひよっこでもいいですか!?
@@ -149,14 +149,11 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Ignore Damage Cut
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
-| Connect effect 3 = Curse on Attack
-| Connect 3 / 1 = -
-| Connect 3 / 2 = 
-| Connect effect 4 = Chance to Curse on Attack
-| Connect 4 / 1 = VII / 65%
-| Connect 4 / 2 = -
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
+| Connect effect 3 = Chance to Curse on Attack
+| Connect 3 / 1 = VII / 65%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = ルーチェ・スペランツァー
 | Magia name EN = 

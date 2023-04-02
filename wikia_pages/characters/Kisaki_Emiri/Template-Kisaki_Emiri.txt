@@ -138,7 +138,7 @@
 | Active 1 icon = Burn
 | Active 1 name = Irrlicht [IV]
 | Active 1 name JP = イルリヒト[Ⅳ]
-| Active 1 effect = Chance to Burn [IV / 100%] & Chance to Dazzle [IV / 37.5%] (Target / 1 Turn)
+| Active 1 effect = Chance to Burn [100%] & Chance to Dazzle [IV / 37.5%] (Target / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = あーしとドキドキしよ！
@@ -151,10 +151,10 @@
 | Connect 1 / 3 = VIII / 37.5%
 | Connect 1 / 4 = IX / 40%
 | Connect effect 2 = Dazzle on Attack
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
-| Connect 2 / 3 = 
-| Connect 2 / 4 = 
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
+| Connect 2 / 3 = 100%
+| Connect 2 / 4 = 100%
 
 | Magia name JP = あーしのヤバめなハート
 | Magia name EN = 

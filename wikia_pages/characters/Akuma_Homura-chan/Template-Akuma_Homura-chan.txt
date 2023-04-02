@@ -146,14 +146,14 @@
 | Connect name NA = 
 | Connect icon = Evade
 | Connect effect 1 = Evade
-| Connect 1 / 1 = 
-| Connect 1 / 2 = 
+| Connect 1 / 1 = 100%
+| Connect 1 / 2 = 100%
 | Connect effect 2 = Provoke
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
 | Connect effect 3 = Endure
-| Connect 3 / 1 = 
-| Connect 3 / 2 = 
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
 | Connect effect 4 = Negate Status Ailments
 | Connect 4 / 1 = 1 Status Ailment
 | Connect 4 / 2 = 2 Status Ailments
@@ -188,8 +188,8 @@
 | Magia 6 / 2 = All Enemies / 40 MP
 | Magia effect 7 = Skill Quicken
 | Magia scaling 7 = -
-| Magia 7 / 1 = Self / 1 Turn
-| Magia 7 / 2 = Self / 1 Turn
+| Magia 7 / 1 = Self / 1 Turn / 100%
+| Magia 7 / 2 = Self / 1 Turn / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -210,5 +210,5 @@
 | Magia2 effect 6 = MP Damage
 | Magia2 6 = All Enemies / 60 MP
 | Magia2 effect 7 = Skill Quicken
-| Magia2 7 = Allies / 1 Turn
+| Magia2 7 = Allies / 1 Turn / 100%
 }}

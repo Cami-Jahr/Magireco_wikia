@@ -21,7 +21,7 @@
 | effect_name = Mesmerize Gaze 
 | effect_name_JP = メズマライズ・ゲイズ
 | effect1 = Chance to Dazzle [XXI / 80%] (Target / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [VI / 40%] (Self / 1 Turn)
-| effect2 = Chance to Dazzle [VII / 100%] (Target / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [VII / 45%] (Self / 1 Turn)
+| effect2 = Chance to Dazzle [100%] (Target / 1 Turn) & Damage Up Versus Enemies Affected With Status Ailments [VII / 45%] (Self / 1 Turn)
 | Cooldown = 8
 | Cooldown2 = 7
 }}

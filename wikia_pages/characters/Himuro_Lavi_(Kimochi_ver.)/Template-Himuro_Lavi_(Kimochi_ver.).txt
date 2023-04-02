@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VIII / 75%
 | Connect 1 / 2 = X / 85%
 | Connect effect 2 = Ignore Damage Cut
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
 
 | Magia name JP = タイム・ゼロ
 | Magia name EN = 

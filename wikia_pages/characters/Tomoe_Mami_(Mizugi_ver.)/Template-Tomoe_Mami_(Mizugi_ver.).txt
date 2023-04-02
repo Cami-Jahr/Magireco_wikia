@@ -138,7 +138,7 @@
 | Active 1 icon = Burn
 | Active 1 name = Arjentoness [IV]
 | Active 1 name JP = アーデントネス[Ⅳ]
-| Active 1 effect = Chance to Burn [IV / 100%] (Target / 1 Turn) & Attack Up [IV / 20%] (Self / 1 Turn)
+| Active 1 effect = Chance to Burn [100%] (Target / 1 Turn) & Attack Up [IV / 20%] (Self / 1 Turn)
 | Active 1 cooldown = 7
 
 | Connect name JP = 一緒に輝きましょ？
@@ -149,11 +149,11 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Fog on Attack
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
 | Connect effect 3 = Skill Seal on Attack
-| Connect 3 / 1 = 
-| Connect 3 / 2 = 
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
 | Connect effect 4 = Chance to Bind on Attack
 | Connect 4 / 1 = VII / 60%
 | Connect 4 / 2 = IX / 60%

@@ -146,11 +146,11 @@
 | Connect name NA = 
 | Connect icon = Provoke
 | Connect effect 1 = Provoke
-| Connect 1 / 1 = 
-| Connect 1 / 2 = 
+| Connect 1 / 1 = 100%
+| Connect 1 / 2 = 100%
 | Connect effect 2 = Strengthened Counter
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
 | Connect effect 3 = Barrier
 | Connect 3 / 1 = 8000 damage
 | Connect 3 / 2 = 10000 damage
@@ -165,8 +165,8 @@
 | Magia 1 / 2 = I / 110%
 | Magia effect 2 = Strengthened Counter
 | Magia scaling 2 = -
-| Magia 2 / 1 = Allies / 3 Turns
-| Magia 2 / 2 = Allies / 3 Turns
+| Magia 2 / 1 = Allies / 3 Turns / 100%
+| Magia 2 / 2 = Allies / 3 Turns / 100%
 | Magia effect 3 = Barrier
 | Magia scaling 3 = -
 | Magia 3 / 1 = Allies / 3 Turns / 5000 damage
@@ -191,7 +191,7 @@
 | Magia2 effect 2 = Reflect
 | Magia2 2 = Allies / 3 Turns / 0.1%
 | Magia2 effect 3 = Strengthened Counter
-| Magia2 3 = Allies / 3 Turns
+| Magia2 3 = Allies / 3 Turns / 100%
 | Magia2 effect 4 = Barrier
 | Magia2 4 = Allies / 3 Turns / 8000 damage
 | Magia2 effect 5 = MP Up When Damaged

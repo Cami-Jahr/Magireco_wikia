@@ -138,7 +138,7 @@
 | Active 1 icon = Dazzle
 | Active 1 name = Mesmerize Frame [VII]
 | Active 1 name JP = メズマライズ・フレイム[Ⅶ]
-| Active 1 effect = Chance to Dazzle [VII / 100%] (Target / 1 Turn) & Flame Attribute Attack Up [VII / 20%] (Self / 3 Turns)
+| Active 1 effect = Chance to Dazzle [100%] (Target / 1 Turn) & Flame Attribute Attack Up [VII / 20%] (Self / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = 一緒にお菓子を配るの！
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 40%
 | Connect 2 / 2 = IX / 45%
 | Connect effect 3 = Dazzle on Attack
-| Connect 3 / 1 = 
-| Connect 3 / 2 = 
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = かぼちゃ爆弾をお届けなの！
 | Magia name EN = 

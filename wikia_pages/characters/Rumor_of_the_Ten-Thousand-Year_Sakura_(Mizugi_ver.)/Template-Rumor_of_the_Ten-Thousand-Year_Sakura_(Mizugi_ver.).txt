@@ -149,8 +149,8 @@
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Remove Status Ailments
-| Connect 2 / 1 = 
-| Connect 2 / 2 = 
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
 
 | Magia name JP = ｜海まとう思い出のひとひら｜
 | Magia name EN = 

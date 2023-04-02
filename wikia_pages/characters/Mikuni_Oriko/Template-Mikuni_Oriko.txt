@@ -176,7 +176,7 @@
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
-| Magia 3 / 3 = Self / 1 Turn
+| Magia 3 / 3 = Self / 1 Turn / 100%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -189,5 +189,5 @@
 | Magia2 effect 2 = MP Restore
 | Magia2 2 = 39 MP
 | Magia2 effect 3 = Evade
-| Magia2 3 = Self / 1 Turn
+| Magia2 3 = Self / 1 Turn / 100%
 }}

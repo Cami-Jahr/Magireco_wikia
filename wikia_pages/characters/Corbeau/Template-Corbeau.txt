@@ -156,11 +156,7 @@
 | Connect effect 3 = Chance to Curse on Attack
 | Connect 3 / 1 = VII / 65%
 | Connect 3 / 2 = IX / 65%
-| Connect 3 / 3 = -
-| Connect effect 4 = Curse on Attack
-| Connect 4 / 1 = -
-| Connect 4 / 2 = -
-| Connect 4 / 3 = 
+| Connect 3 / 3 = 100%
 
 | Magia name JP = ラ・ダンス・マカブル
 | Magia name EN = 

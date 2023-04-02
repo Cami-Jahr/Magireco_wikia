@@ -138,7 +138,7 @@
 | Active 1 icon = Curse
 | Active 1 name = Curse Mana Charge [II]
 | Active 1 name JP = カースマナチャージ[Ⅱ]
-| Active 1 effect = Chance to Curse [II / 100%] (Target / 1 Turn) & MP Restore [II / 18 MP]
+| Active 1 effect = Chance to Curse [100%] (Target / 1 Turn) & MP Restore [II / 18 MP]
 | Active 1 cooldown = 10
 
 | Connect name JP = 女王が与える…
@@ -152,8 +152,8 @@
 | Connect 2 / 1 = VII / 20%
 | Connect 2 / 2 = IX / 25%
 | Connect effect 3 = Curse on Attack
-| Connect 3 / 1 = 
-| Connect 3 / 2 = 
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = 女王の処断
 | Magia name EN = 

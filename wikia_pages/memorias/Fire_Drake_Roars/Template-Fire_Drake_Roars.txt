@@ -21,7 +21,7 @@
 | effect_name = Dragon Roar
 | effect_name_JP = ドラゴンロア―
 | effect1 = Chance to Burn [XV / 65%] & Defense Down [VIII / 40%] (Target / 1 Turn)
-| effect2 = Chance to Burn [IX / 100%] & Defense Down [IX / 45%] (Target / 1 Turn)
+| effect2 = Chance to Burn [100%] & Defense Down [IX / 45%] (Target / 1 Turn)
 | Cooldown = 5
 | Cooldown2 = 4
 }}

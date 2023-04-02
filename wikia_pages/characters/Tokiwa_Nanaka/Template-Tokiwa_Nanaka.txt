@@ -156,7 +156,7 @@
 | Connect effect 3 = Remove Debuffs
 | Connect 3 / 1 = -
 | Connect 3 / 2 = -
-| Connect 3 / 3 = 
+| Connect 3 / 3 = 100%
 
 | Magia name JP = 白椿
 | Magia name EN = 

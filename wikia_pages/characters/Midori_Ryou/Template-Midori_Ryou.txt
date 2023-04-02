@@ -152,11 +152,7 @@
 | Connect effect 2 = Chance to Anti-Evade
 | Connect 2 / 1 = IV / 80%
 | Connect 2 / 2 = VI / 80%
-| Connect 2 / 3 = -
-| Connect effect 3 = Anti-Evade
-| Connect 3 / 1 = -
-| Connect 3 / 2 = -
-| Connect 3 / 3 = 
+| Connect 2 / 3 = 100%
 
 | Magia name JP = 絶対炎上観鳥砲!!
 | Magia name EN = 

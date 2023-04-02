@@ -146,8 +146,8 @@
 | Connect name NA = 
 | Connect icon = Counter
 | Connect effect 1 = Counter
-| Connect 1 / 1 = 
-| Connect 1 / 2 = 
+| Connect 1 / 1 = 100%
+| Connect 1 / 2 = 100%
 | Connect effect 2 = Damage Cut
 | Connect 2 / 1 = VII / 60%
 | Connect 2 / 2 = IX / 70%

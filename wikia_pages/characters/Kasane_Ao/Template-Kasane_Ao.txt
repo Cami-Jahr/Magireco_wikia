@@ -152,8 +152,8 @@
 | Connect 2 / 1 = IV / 20 MP
 | Connect 2 / 2 = VI / 25 MP
 | Connect effect 3 = Remove Debuffs
-| Connect 3 / 1 = 
-| Connect 3 / 2 = 
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = 超必・ソニックエッジNo.Ⅵ
 | Magia name EN = 
