@@ -3,9 +3,7 @@ from collections import defaultdict
 from json import loads
 
 from effect_translator import (
-    jp_to_en,
     remove_repeated_target,
-    roman_to_full,
     translate,
     translate_jap_to_eng,
     translate_roman_to_ascii,
@@ -528,9 +526,6 @@ def make_spirit_enchantment(cells: list[dict]):
             for c in skill_name_en:
                 if ord(c) > 200:
                     print("missing translation?", repr(skill_name_en))
-                    for c in skill_name_en:
-                        print(ord(c), end=" ")
-                    print()
                     break
             if cell["emotionSkill"]["type"] == "ABILITY":
                 passive_output += passive_template.format(passive_amount, skill_name_jp, skill_name_en, icon, effect_output)

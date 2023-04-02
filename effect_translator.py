@@ -480,8 +480,6 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool):
         else:
             effect_code = None
         verb_code = art["verbCode"]
-        if effect_code == "DUMMY":
-            continue
 
         try:
             sub = master[verb_code]
@@ -495,6 +493,16 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool):
                 text, uses_roman, no_states_target = sub[art["targetId"]]
             if not icon:
                 icon = text
+            if effect_code == "DUMMY":
+                continue
+            try:
+                percentage_growth = round(art["growPoint"] / 10, 1)
+            except KeyError:
+                percentage_growth = 0
+            if percentage_growth % 1 == 0:
+                percentage_growth = int(percentage_growth)
+            percentage_growth = f"{percentage_growth}%"
+
             val = 0
             if "effectValue" in art:
                 val = round(art["effectValue"] / 10, 1)
@@ -582,16 +590,17 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool):
                     effect = effect.replace("%", "% full")
                 else:
                     effect = effect.replace("%", " MP")
+                    if percentage_growth != "0%":
+                        percentage_growth = percentage_growth.replace("%", " MP")
             elif effect_code in ("AUTO_HEAL",) and "genericValue" in art and art["genericValue"] == "MP":
                 text = text.replace("HP", "MP")
                 effect = effect.replace("%", " MP")
-            elif verb_code in ("RESURRECT",):
+                percentage_growth = percentage_growth.replace("%", " MP")
+            elif verb_code in ("RESURRECT",) or effect_code in ("SURVIVE",):
                 effect = effect.replace("%", "% HP")
+                percentage_growth = percentage_growth.replace("%", "% HP")
             if text == "Damage Up" and "状態" in shortDescription:
                 text = "Damage Increase"
-
-            if effect_code == "SURVIVE":
-                effect = effect.replace("%", "% HP")
 
             if effect_code in ("COUNTER",) and val > 100:
                 text = "Strengthened Counter"
@@ -624,17 +633,11 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool):
                 target_wording = str(target)
             else:
                 target_wording = ""
-            try:
-                percentage_growth = round(art["growPoint"] / 10, 1)
-            except KeyError:
-                percentage_growth = 0
-            if percentage_growth % 1 == 0:
-                percentage_growth = int(percentage_growth)
 
             key = text + target_id[0]
 
             # Should refactor this somehow to separate allied and enemy casts without using a target_id key
-            effects[key] = [effect, target_wording, f"{percentage_growth}%"]
+            effects[key] = [effect, target_wording, percentage_growth]
         except KeyError as e:
             print("UNKNOWN effectCode =", art["effectCode"], shortDescription, art)
             raise e
