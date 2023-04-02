@@ -612,6 +612,10 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
 
             if effect_code in ("COUNTER",) and val > 100:
                 text = "Strengthened Counter"
+            if effect_code in ("POISON",) and val >= 30:
+                text = text.replace("Poison", "Strengthened Poison")
+            if effect_code in ("CURSE",) and val >= 30:
+                text = text.replace("Curse", "Strengthened Curse")
             if effect_code in ("BARRIER",):
                 effect = effect.replace("%", "0 damage")
 

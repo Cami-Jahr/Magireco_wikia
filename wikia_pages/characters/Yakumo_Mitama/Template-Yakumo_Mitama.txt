@@ -186,9 +186,9 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、花弁
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Magia2 effect 1 = Chance to Curse
+| Magia2 effect 1 = Chance to Strengthened Curse
 | Magia2 1 = All Enemies / 3 Turns / 100%
-| Magia2 effect 2 = Chance to Poison
+| Magia2 effect 2 = Chance to Strengthened Poison
 | Magia2 2 = All Enemies / 3 Turns / 100%
 | Magia2 effect 3 = Chance to Magia Seal
 | Magia2 3 = All Enemies / 3 Turns / 100%
