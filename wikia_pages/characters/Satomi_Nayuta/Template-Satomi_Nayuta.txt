@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Defense Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = 15%
-| Magia 2 / 2 = 20%
+| Magia 2 / 1 = All Enemies / 3 Turns / 15%
+| Magia 2 / 2 = All Enemies / 3 Turns / 20%
 | Magia effect 3 = Chance to Skill Seal
 | Magia scaling 3 = -
 | Magia 3 / 1 = All Enemies / 3 Turns / 30%
 | Magia 3 / 2 = All Enemies / 3 Turns / 40%
 | Magia effect 4 = Remove Buffs
 | Magia scaling 4 = -
-| Magia 4 / 1 = All Enemies / 
-| Magia 4 / 2 = All Enemies / 
+| Magia 4 / 1 = All Enemies
+| Magia 4 / 2 = All Enemies
 
 | Doppel Name = 
 | Doppel Title = 

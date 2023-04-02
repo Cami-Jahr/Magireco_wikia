@@ -176,7 +176,7 @@
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
-| Magia 3 / 3 = All Enemies / 
+| Magia 3 / 3 = All Enemies
 
 | Doppel Name = 
 | Doppel Title = 

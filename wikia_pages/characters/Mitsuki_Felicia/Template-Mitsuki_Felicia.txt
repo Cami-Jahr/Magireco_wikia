@@ -170,8 +170,8 @@
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = Target / 3 Turns / 5%
 | Magia 2 / 2 = Target / 3 Turns / 15%
-| Magia 2 / 3 = 25%
-| Magia 2 / 4 = 25%
+| Magia 2 / 3 = Target / 3 Turns / 25%
+| Magia 2 / 4 = Target / 3 Turns / 25%
 | Magia effect 3 = Defense Down Further
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
@@ -194,7 +194,7 @@
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = IX / 2763.2%
 | Magia2 effect 2 = Defense Down
-| Magia2 2 = 35%
+| Magia2 2 = Target / 3 Turns / 35%
 | Magia2 effect 3 = Defense Down Further
 | Magia2 3 = Target / 3 Turns / 35%
 | Magia2 effect 4 = Bind

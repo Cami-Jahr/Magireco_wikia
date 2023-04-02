@@ -176,7 +176,7 @@
 | Magia 2 / 1 = Allies / 3 Turns / 15%
 | Magia 2 / 2 = Allies / 3 Turns / 25%
 | Magia 2 / 3 = Allies / 3 Turns / 35%
-| Magia 2 / 4 = 45%
+| Magia 2 / 4 = Allies / 3 Turns / 45%
 | Magia effect 3 = Attack Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
@@ -199,7 +199,7 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 924%
 | Magia2 effect 2 = Blast Damage Up
-| Magia2 2 = 65%
+| Magia2 2 = Allies / 3 Turns / 65%
 | Magia2 effect 3 = Attack Up
 | Magia2 3 = Allies / 3 Turns / 45%
 }}

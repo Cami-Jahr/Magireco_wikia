@@ -173,8 +173,8 @@
 | Magia 3 / 2 = Allies / 3 Turns / 30%
 | Magia effect 4 = Remove Debuffs
 | Magia scaling 4 = -
-| Magia 4 / 1 = Allies / 
-| Magia 4 / 2 = Allies / 
+| Magia 4 / 1 = Allies
+| Magia 4 / 2 = Allies
 
 | Doppel Name = 
 | Doppel Title = 
@@ -187,7 +187,7 @@
 | Magia2 effect 2 = Charge Conservation
 | Magia2 2 = Allies / 2 Turns / 100%
 | Magia2 effect 3 = Attack Up
-| Magia2 3 = 30%
+| Magia2 3 = Allies / 5 Turns / 30%
 | Magia2 effect 4 = Light Attribute Attack Up
 | Magia2 4 = Allies / 5 Turns / 45%
 | Magia2 effect 5 = Remove Debuffs

@@ -21,25 +21,28 @@ def check_differences(keys, file, path_template, wiki_items, description):
             continue
         path = path_template.format(item).replace(" ", "_")
 
-        with open(path, "r", encoding="utf-8") as f:
-            file_text = f.read()
-            for key in keys:
-                text = re.findall(rf"{key.replace('_', ' ')} *= *(.*)", file_text.replace("_", " "))
-                if len(text) < 1:
-                    continue
-                generated_text = remove_words_to_ignore(text[0].strip())
-                if _id not in wiki_items[key]:
-                    continue
-                wikia_text = remove_words_to_ignore(wiki_items[key][_id].strip())
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                file_text = f.read()
+                for key in keys:
+                    text = re.findall(rf"{key.replace('_', ' ')} *= *(.*)", file_text.replace("_", " "))
+                    if len(text) < 1:
+                        continue
+                    generated_text = remove_words_to_ignore(text[0].strip())
+                    if _id not in wiki_items[key]:
+                        continue
+                    wikia_text = remove_words_to_ignore(wiki_items[key][_id].strip())
 
-                if wikia_text != generated_text:
-                    differences += 1
-                    diff_text = ""
-                    length = min(len(wikia_text), len(generated_text))
-                    for i in range(length):
-                        diff_text += " " if wikia_text[i] == generated_text[i] else generated_text[i]
-                    diff_text += wikia_text[length:] + generated_text[length:]
-                    print(f"Incorrect for {description} with id={_id} {key}, {item}: \n\twiki: {wikia_text}\n\tgen:  {generated_text}\n\tdiff: {diff_text}")
+                    if wikia_text != generated_text:
+                        differences += 1
+                        diff_text = ""
+                        length = min(len(wikia_text), len(generated_text))
+                        for i in range(length):
+                            diff_text += " " if wikia_text[i] == generated_text[i] else generated_text[i]
+                        diff_text += wikia_text[length:] + generated_text[length:]
+                        print(f"Incorrect for {description} with id={_id} {key}, {item}: \n\twiki: {wikia_text}\n\tgen:  {generated_text}\n\tdiff: {diff_text}")
+        except FileNotFoundError:
+            pass
     print(f"\n\nFound {differences} differences")
 
 
@@ -73,7 +76,7 @@ def check_incorrect_memos():
     path_template = "wikia_pages/memorias/{0}/Template-{0}.txt"
 
     with open("txts/memoria_url_id.txt", "r", encoding="utf-8") as f:
-        check_differences(all_keys, f, path_template, memos, "memo")
+        check_differences(keys, f, path_template, memos, "memo")
 
 
 def check_incorrect_chars():
@@ -170,7 +173,7 @@ def check_incorrect_chars():
     path_template = "wikia_pages/characters/{0}/Template-{0}.txt"
 
     with open("txts/chars.txt", "r", encoding="utf-8") as f:
-        check_differences(all_keys, f, path_template, girls, "char")
+        check_differences(keys, f, path_template, girls, "char")
 
 
 check_incorrect_memos()

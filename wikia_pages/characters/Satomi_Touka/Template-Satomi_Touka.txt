@@ -173,7 +173,7 @@
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Self / 3 Turns / 22.5%
-| Magia 3 / 2 = 37.5%
+| Magia 3 / 2 = Self / 3 Turns / 37.5%
 | Magia effect 4 = Magia Damage Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -

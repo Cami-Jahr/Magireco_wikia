@@ -174,8 +174,8 @@
 | Magia effect 2 = Fog
 | Magia scaling 2 = -
 | Magia 2 / 1 = -
-| Magia 2 / 2 = All Enemies / 3 Turns / 
-| Magia 2 / 3 = 
+| Magia 2 / 2 = All Enemies / 3 Turns
+| Magia 2 / 3 = All Enemies / 3 Turns
 | Magia effect 3 = Blast Damage Down
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -

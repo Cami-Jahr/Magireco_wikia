@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Dark Attribute Damage Cut
 | Magia scaling 2 = -
-| Magia 2 / 1 = 25%
-| Magia 2 / 2 = 35%
+| Magia 2 / 1 = Allies / 3 Turns / 25%
+| Magia 2 / 2 = Allies / 3 Turns / 35%
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Allies / 3 Turns / 35%
@@ -181,7 +181,7 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Dark Attribute Damage Cut
-| Magia2 2 = 45%
+| Magia2 2 = Allies / 3 Turns / 45%
 | Magia2 effect 3 = Blast Damage Up
 | Magia2 3 = Allies / 3 Turns / 65%
 | Magia2 effect 4 = Charge Conservation

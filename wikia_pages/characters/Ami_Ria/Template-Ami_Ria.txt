@@ -175,13 +175,13 @@
 | Magia effect 3 = Charm
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
-| Magia 3 / 2 = Target / 1 Turn / 
-| Magia 3 / 3 = Target / 1 Turn / 
+| Magia 3 / 2 = Target / 1 Turn
+| Magia 3 / 3 = Target / 1 Turn
 | Magia effect 4 = Remove Buffs
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
-| Magia 4 / 2 = Target / 
-| Magia 4 / 3 = Target / 
+| Magia 4 / 2 = Target
+| Magia 4 / 3 = Target
 | Magia effect 5 = Chance to Charm
 | Magia scaling 5 = 2%
 | Magia 5 / 1 = Target / 1 Turn / 37.5%

@@ -167,7 +167,7 @@
 | Magia effect 3 = Anti-Evade
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
-| Magia 3 / 2 = Allies / 1 Turn / 
+| Magia 3 / 2 = Allies / 1 Turn
 | Magia effect 4 = Chance to Anti-Evade
 | Magia scaling 4 = -
 | Magia 4 / 1 = Allies / 1 Turn / 70%

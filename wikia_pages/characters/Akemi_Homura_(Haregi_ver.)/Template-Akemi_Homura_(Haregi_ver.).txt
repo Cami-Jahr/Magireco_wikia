@@ -169,8 +169,8 @@
 | Magia 2 / 2 = All Enemies / 3 Turns / 20%
 | Magia effect 3 = Dark Attribute Attack Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = 10%
-| Magia 3 / 2 = 15%
+| Magia 3 / 1 = Self / 3 Turns / 10%
+| Magia 3 / 2 = Self / 3 Turns / 15%
 | Magia effect 4 = Damage Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Self / 3 Turns / 5%

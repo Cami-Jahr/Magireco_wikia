@@ -162,8 +162,8 @@
 | Magia 1 / 2 = VIII / 960%
 | Magia effect 2 = Dazzle
 | Magia scaling 2 = -
-| Magia 2 / 1 = 
-| Magia 2 / 2 = 
+| Magia 2 / 1 = Target / 3 Turns
+| Magia 2 / 2 = Target / 3 Turns
 | Magia effect 3 = Defense Down
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Target / 3 Turns / 30%
@@ -186,7 +186,7 @@
 | Magia2 effect 1 = Attribute Strengthened Damage One Enemy
 | Magia2 1 = X / 2340.8%
 | Magia2 effect 2 = Dazzle
-| Magia2 2 = 
+| Magia2 2 = Target / 3 Turns
 | Magia2 effect 3 = Defense Down
 | Magia2 3 = Target / 3 Turns / 60%
 | Magia2 effect 4 = Magia Damage Up

@@ -162,12 +162,12 @@
 | Magia 1 / 2 = V / 864%
 | Magia effect 2 = HP Restore
 | Magia scaling 2 = 2%
-| Magia 2 / 1 = 17.5%
-| Magia 2 / 2 = 20%
+| Magia 2 / 1 = Allies / 17.5%
+| Magia 2 / 2 = Allies / 20%
 | Magia effect 3 = Remove Status Ailments
 | Magia scaling 3 = -
-| Magia 3 / 1 = Allies / 
-| Magia 3 / 2 = Allies / 
+| Magia 3 / 1 = Allies
+| Magia 3 / 2 = Allies
 
 | Doppel Name = 
 | Doppel Title = 

@@ -166,8 +166,8 @@
 | Magia 2 / 2 = All Enemies / 1 Turn / 50%
 | Magia effect 3 = Remove Debuffs
 | Magia scaling 3 = -
-| Magia 3 / 1 = Allies / 
-| Magia 3 / 2 = Allies / 
+| Magia 3 / 1 = Allies
+| Magia 3 / 2 = Allies
 
 | Doppel Name = 
 | Doppel Title = 

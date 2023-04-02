@@ -185,7 +185,7 @@
 | Magia2 effect 2 = Charged Attack Received Damage Up
 | Magia2 2 = All Enemies / 3 Turns / 11%
 | Magia2 effect 3 = Damage Up
-| Magia2 3 = 30%
+| Magia2 3 = Allies / 3 Turns / 30%
 | Magia2 effect 4 = Charged Attack Damage Up
 | Magia2 4 = Allies / 3 Turns / 45%
 }}

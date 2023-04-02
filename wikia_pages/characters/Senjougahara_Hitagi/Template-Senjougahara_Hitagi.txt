@@ -175,7 +175,7 @@
 | Magia effect 3 = Attack Down
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
-| Magia 3 / 2 = 25%
+| Magia 3 / 2 = All Enemies / 1 Turn / 25%
 | Magia 3 / 3 = All Enemies / 2 Turns / 25%
 
 | Doppel Name = 

@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VII / 335%
 | Magia effect 2 = Critical Hit
 | Magia scaling 2 = -
-| Magia 2 / 1 = Self / 2 Turns / 
-| Magia 2 / 2 = Self / 2 Turns / 
+| Magia 2 / 1 = Self / 2 Turns
+| Magia 2 / 2 = Self / 2 Turns
 | Magia effect 3 = HP Restore
 | Magia scaling 3 = 2%
 | Magia 3 / 1 = 40%

@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Provoke
 | Magia scaling 2 = -
-| Magia 2 / 1 = 
-| Magia 2 / 2 = 
+| Magia 2 / 1 = Self / 1 Turn
+| Magia 2 / 2 = Self / 1 Turn
 | Magia effect 3 = Counter
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
-| Magia 3 / 2 = Self / 1 Turn / 
+| Magia 3 / 2 = Self / 1 Turn
 | Magia effect 4 = Chance to Counter
 | Magia scaling 4 = -
 | Magia 4 / 1 = Self / 1 Turn / 35%
@@ -185,7 +185,7 @@
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = IX / 2763.2%
 | Magia2 effect 2 = Provoke
-| Magia2 2 = 
+| Magia2 2 = Self / 1 Turn
 | Magia2 effect 3 = Counter
 | Magia2 3 = Self / 1 Turn
 }}

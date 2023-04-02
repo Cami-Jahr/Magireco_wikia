@@ -177,11 +177,11 @@
 | Magia 1 / 5 = VI / 350%
 | Magia effect 2 = Revive one Ally
 | Magia scaling 2 = 1%
-| Magia 2 / 1 = 20%
-| Magia 2 / 2 = 20%
-| Magia 2 / 3 = 25%
-| Magia 2 / 4 = 30%
-| Magia 2 / 5 = 50%
+| Magia 2 / 1 = Random Ally / 20% HP
+| Magia 2 / 2 = Random Ally / 20% HP
+| Magia 2 / 3 = Random Ally / 25% HP
+| Magia 2 / 4 = Random Ally / 30% HP
+| Magia 2 / 5 = Random Ally / 50% HP
 | Magia effect 3 = HP Restore
 | Magia scaling 3 = 2%
 | Magia 3 / 1 = -
@@ -199,9 +199,9 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = VIII / 880%
 | Magia2 effect 2 = HP Restore
-| Magia2 2 = 28%
+| Magia2 2 = Allies / 28%
 | Magia2 effect 3 = Remove Status Ailments
 | Magia2 3 = Allies
 | Magia2 effect 4 = Revive one Ally
-| Magia2 4 = 54%
+| Magia2 4 = Random Ally / 54% HP
 }}

@@ -169,8 +169,8 @@
 | Magia 2 / 2 = All Enemies / 70 MP
 | Magia effect 3 = Evade
 | Magia scaling 3 = -
-| Magia 3 / 1 = Self / 1 Turn / 
-| Magia 3 / 2 = Self / 1 Turn / 
+| Magia 3 / 1 = Self / 1 Turn
+| Magia 3 / 2 = Self / 1 Turn
 | Magia effect 4 = HP Restore
 | Magia scaling 4 = 2%
 | Magia 4 / 1 = 42.5%

@@ -166,12 +166,12 @@
 | Magia 2 / 2 = Self / 3 Turns / 35%
 | Magia effect 3 = Critical Hit
 | Magia scaling 3 = -
-| Magia 3 / 1 = Self / 2 Turns / 
-| Magia 3 / 2 = 
+| Magia 3 / 1 = Self / 2 Turns
+| Magia 3 / 2 = Self / 2 Turns
 | Magia effect 4 = Counter
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
-| Magia 4 / 2 = Self / 2 Turns / 
+| Magia 4 / 2 = Self / 2 Turns
 
 | Doppel Name = 
 | Doppel Title = 
@@ -184,7 +184,7 @@
 | Magia2 effect 2 = Survive
 | Magia2 2 = Self / 3 Turns / 40%
 | Magia2 effect 3 = Critical Hit
-| Magia2 3 = 
+| Magia2 3 = Self / 2 Turns
 | Magia2 effect 4 = Counter
 | Magia2 4 = Self / 2 Turns
 }}

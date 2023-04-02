@@ -165,9 +165,9 @@
 | Magia 1 / 3 = VII / 360%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = 10%
-| Magia 2 / 2 = 15%
-| Magia 2 / 3 = 20%
+| Magia 2 / 1 = All Enemies / 2 Turns / 10%
+| Magia 2 / 2 = All Enemies / 2 Turns / 15%
+| Magia 2 / 3 = All Enemies / 2 Turns / 20%
 | Magia effect 3 = Accele MP Gain Down
 | Magia scaling 3 = -
 | Magia 3 / 1 = All Enemies / 2 Turns / 30%
@@ -177,7 +177,7 @@
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
 | Magia 4 / 2 = -
-| Magia 4 / 3 = Self / 1 Turn / 
+| Magia 4 / 3 = Self / 1 Turn
 
 | Doppel Name = 
 | Doppel Title = 
@@ -188,7 +188,7 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Attack Down
-| Magia2 2 = 40%
+| Magia2 2 = All Enemies / 2 Turns / 40%
 | Magia2 effect 3 = MP Gain Down
 | Magia2 3 = All Enemies / 2 Turns / 80%
 | Magia2 effect 4 = Evade

@@ -165,9 +165,9 @@
 | Magia icon = Damage One Enemy
 | Magia effect 1 = Evade
 | Magia scaling 1 = -
-| Magia 1 / 1 = Self / 1 Turn / 
-| Magia 1 / 2 = Self / 1 Turn / 
-| Magia 1 / 3 = Self / 1 Turn / 
+| Magia 1 / 1 = Self / 1 Turn
+| Magia 1 / 2 = Self / 1 Turn
+| Magia 1 / 3 = Self / 1 Turn
 | Magia effect 2 = Damage 4 Random Enemies
 | Magia scaling 2 = 10%
 | Magia 2 / 1 = -

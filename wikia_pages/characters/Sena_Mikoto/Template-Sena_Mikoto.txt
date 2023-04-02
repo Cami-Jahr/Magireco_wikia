@@ -165,8 +165,8 @@
 | Magia 1 / 2 = I / 110%
 | Magia effect 2 = Strengthened Counter
 | Magia scaling 2 = -
-| Magia 2 / 1 = 
-| Magia 2 / 2 = 
+| Magia 2 / 1 = Allies / 3 Turns
+| Magia 2 / 2 = Allies / 3 Turns
 | Magia effect 3 = Barrier
 | Magia scaling 3 = -
 | Magia 3 / 1 = Allies / 3 Turns / 5000 damage
@@ -189,9 +189,9 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = I / 308%
 | Magia2 effect 2 = Reflect
-| Magia2 2 = 0.1%
+| Magia2 2 = Allies / 3 Turns / 0.1%
 | Magia2 effect 3 = Strengthened Counter
-| Magia2 3 = 
+| Magia2 3 = Allies / 3 Turns
 | Magia2 effect 4 = Barrier
 | Magia2 4 = Allies / 3 Turns / 8000 damage
 | Magia2 effect 5 = MP Up When Damaged

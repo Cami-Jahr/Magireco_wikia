@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 237.6%
 | Magia effect 2 = Provoke
 | Magia scaling 2 = -
-| Magia 2 / 1 = 
-| Magia 2 / 2 = 
+| Magia 2 / 1 = Self / 1 Turn
+| Magia 2 / 2 = Self / 1 Turn
 | Magia effect 3 = MP Up When Damaged
 | Magia scaling 3 = -
-| Magia 3 / 1 = 2%
-| Magia 3 / 2 = 3%
+| Magia 3 / 1 = Self / 1 Turn / 2%
+| Magia 3 / 2 = Self / 1 Turn / 3%
 | Magia effect 4 = Damage Cut
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Self / 1 Turn / 20%
@@ -187,9 +187,9 @@
 | Magia2 effect 2 = Attack Up
 | Magia2 2 = Self / 3 Turns / 35%
 | Magia2 effect 3 = Provoke
-| Magia2 3 = 
+| Magia2 3 = Self / 1 Turn
 | Magia2 effect 4 = MP Up When Damaged
-| Magia2 4 = 7%
+| Magia2 4 = Self / 1 Turn / 7%
 | Magia2 effect 5 = Damage Cut
 | Magia2 5 = Self / 1 Turn / 50%
 }}

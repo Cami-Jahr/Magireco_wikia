@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = 10%
-| Magia 2 / 2 = 20%
+| Magia 2 / 1 = Self / 3 Turns / 10%
+| Magia 2 / 2 = Self / 3 Turns / 20%
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = 15%
-| Magia 3 / 2 = 30%
+| Magia 3 / 1 = Self / 3 Turns / 15%
+| Magia 3 / 2 = Self / 3 Turns / 30%
 | Magia effect 4 = Barrier
 | Magia scaling 4 = -
 | Magia 4 / 1 = Self / 3 Turns / 10000 damage
@@ -185,13 +185,13 @@
 | Magia2 effect 1 = Damage One Enemy
 | Magia2 1 = IX / 2763.2%
 | Magia2 effect 2 = Attack Up
-| Magia2 2 = 30%
+| Magia2 2 = Allies / 5 Turns / 30%
 | Magia2 effect 3 = Defense Up
 | Magia2 3 = Allies / 5 Turns / 32.5%
 | Magia2 effect 4 = Attack Up
-| Magia2 4 = 30%
+| Magia2 4 = Self / 5 Turns / 30%
 | Magia2 effect 5 = Defense Up
-| Magia2 5 = 32.5%
+| Magia2 5 = Self / 5 Turns / 32.5%
 | Magia2 effect 6 = Barrier
 | Magia2 6 = Self / 5 Turns / 20000 damage
 }}

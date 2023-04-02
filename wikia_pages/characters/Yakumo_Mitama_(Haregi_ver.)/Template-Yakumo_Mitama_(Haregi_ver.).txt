@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Curse
 | Magia scaling 2 = -
-| Magia 2 / 1 = 
-| Magia 2 / 2 = All Enemies / 1 Turn / 
+| Magia 2 / 1 = All Enemies / 1 Turn
+| Magia 2 / 2 = All Enemies / 1 Turn
 | Magia effect 3 = Poison
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
-| Magia 3 / 2 = 
+| Magia 3 / 2 = All Enemies / 2 Turns
 | Magia effect 4 = Magia Seal
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
-| Magia 4 / 2 = All Enemies / 2 Turns / 
+| Magia 4 / 2 = All Enemies / 2 Turns
 | Magia effect 5 = Chance to Magia Seal
 | Magia scaling 5 = -
 | Magia 5 / 1 = All Enemies / 1 Turn / 52.5%
@@ -191,7 +191,7 @@
 | Magia2 effect 2 = Curse
 | Magia2 2 = All Enemies / 1 Turn
 | Magia2 effect 3 = Poison
-| Magia2 3 = 
+| Magia2 3 = All Enemies / 3 Turns
 | Magia2 effect 4 = Magia Seal
 | Magia2 4 = All Enemies / 3 Turns
 }}

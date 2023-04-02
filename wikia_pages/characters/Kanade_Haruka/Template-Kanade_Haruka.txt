@@ -172,12 +172,12 @@
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Self / 3 Turns / 20%
 | Magia 3 / 2 = Self / 3 Turns / 30%
-| Magia 3 / 3 = 40%
+| Magia 3 / 3 = Self / 3 Turns / 40%
 | Magia effect 4 = Provoke
 | Magia scaling 4 = -
-| Magia 4 / 1 = Self / 1 Turn / 
-| Magia 4 / 2 = Self / 1 Turn / 
-| Magia 4 / 3 = Self / 1 Turn / 
+| Magia 4 / 1 = Self / 1 Turn
+| Magia 4 / 2 = Self / 1 Turn
+| Magia 4 / 3 = Self / 1 Turn
 | Magia effect 5 = Regenerate HP
 | Magia scaling 5 = 1%
 | Magia 5 / 1 = -
@@ -195,7 +195,7 @@
 | Magia2 effect 2 = Attack Down
 | Magia2 2 = Target / 5 Turns / 55%
 | Magia2 effect 3 = Damage Cut
-| Magia2 3 = 60%
+| Magia2 3 = Self / 3 Turns / 60%
 | Magia2 effect 4 = Regenerate HP
 | Magia2 4 = Self / 3 Turns / 11%
 | Magia2 effect 5 = Provoke

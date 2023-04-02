@@ -169,12 +169,12 @@
 | Magia 2 / 2 = All Enemies / 2 Turns / 20%
 | Magia effect 3 = MP Damage
 | Magia scaling 3 = -
-| Magia 3 / 1 = 30 MP
-| Magia 3 / 2 = 35 MP
+| Magia 3 / 1 = All Enemies / 30 MP
+| Magia 3 / 2 = All Enemies / 35 MP
 | Magia effect 4 = Remove Buffs
 | Magia scaling 4 = -
-| Magia 4 / 1 = All Enemies / 
-| Magia 4 / 2 = All Enemies / 
+| Magia 4 / 1 = All Enemies
+| Magia 4 / 2 = All Enemies
 | Magia effect 5 = MP Restore
 | Magia scaling 5 = 1%
 | Magia 5 / 1 = -
@@ -191,7 +191,7 @@
 | Magia2 effect 2 = Attack Down
 | Magia2 2 = All Enemies / 2 Turns / 40%
 | Magia2 effect 3 = MP Damage
-| Magia2 3 = 60 MP
+| Magia2 3 = All Enemies / 60 MP
 | Magia2 effect 4 = Remove Buffs
 | Magia2 4 = All Enemies
 | Magia2 effect 5 = MP Restore

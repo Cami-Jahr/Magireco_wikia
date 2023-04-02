@@ -187,7 +187,7 @@
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
 | Magia 3 / 3 = Allies / 3 Turns / 37.5%
-| Magia 3 / 4 = 45%
+| Magia 3 / 4 = Allies / 3 Turns / 45%
 | Magia effect 4 = Accele MP Gain Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -
@@ -206,7 +206,7 @@
 | Magia2 effect 2 = HP Restore
 | Magia2 2 = Allies / 33%
 | Magia2 effect 3 = Defense Up
-| Magia2 3 = 62.5%
+| Magia2 3 = Allies / 5 Turns / 62.5%
 | Magia2 effect 4 = Accele MP Gain Up
 | Magia2 4 = Allies / 5 Turns / 30%
 | Magia2 effect 5 = Regenerate MP

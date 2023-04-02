@@ -168,12 +168,12 @@
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Remove Buffs
 | Magia scaling 2 = -
-| Magia 2 / 1 = One Ally / 
-| Magia 2 / 2 = One Ally / 
+| Magia 2 / 1 = One Ally
+| Magia 2 / 2 = One Ally
 | Magia effect 3 = Bind
 | Magia scaling 3 = -
-| Magia 3 / 1 = Target / 1 Turn / 
-| Magia 3 / 2 = Target / 1 Turn / 
+| Magia 3 / 1 = Target / 1 Turn
+| Magia 3 / 2 = Target / 1 Turn
 
 | Doppel Name = 
 | Doppel Title = 

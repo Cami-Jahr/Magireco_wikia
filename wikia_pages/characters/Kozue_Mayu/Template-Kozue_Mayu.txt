@@ -170,7 +170,7 @@
 | Magia effect 3 = Skill Seal
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
-| Magia 3 / 2 = All Enemies / 1 Turn / 
+| Magia 3 / 2 = All Enemies / 1 Turn
 | Magia effect 4 = Chance to Skill Seal
 | Magia scaling 4 = -
 | Magia 4 / 1 = All Enemies / 1 Turn / 40%

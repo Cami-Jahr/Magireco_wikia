@@ -4,6 +4,7 @@ from json import loads
 
 from effect_translator import (
     jp_to_en,
+    remove_repeated_target,
     roman_to_full,
     translate,
     translate_jap_to_eng,
@@ -373,6 +374,8 @@ def make_magia_doppel_and_connect(dic, cards):
                 target = word[1].replace("Self / ", "").replace("Self", "").replace("1 Turn", "").strip()
                 if not target:
                     st = word[0]
+                elif word[0].replace("%", "").replace("0", "").strip() == "":
+                    st = target
                 else:
                     st = f"{target} / {word[0]}"
             except KeyError:
@@ -400,6 +403,8 @@ def make_magia_doppel_and_connect(dic, cards):
                 word = magias[-j][all_megia_effects[i]]
                 if word[1] == "1 Turn" or not word[1]:
                     st = word[0]
+                elif word[0].replace("%", "").replace("0", "").strip() == "":
+                    st = word[1]
                 else:
                     st = f"{word[1]} / {word[0]}"
             except KeyError:
@@ -420,7 +425,7 @@ def make_magia_doppel_and_connect(dic, cards):
 | Doppel Japanese Designer = {}
 """.format(doppel_name, doppel_title, doppel_designer)
     i = 0
-    for text, [effect, turns, scaling] in all_doppel_effects.items():
+    for text, [effect, target_and_turns, scaling] in all_doppel_effects.items():
         i += 1
         effect_value = re.findall(r"[0-9.]+", effect)
         final_effect = effect
@@ -433,7 +438,7 @@ def make_magia_doppel_and_connect(dic, cards):
                 else:
                     final_value = f"{final_value:.1f}"
                 final_effect = effect.replace(effect_value[0], final_value)
-        final_effect = turns + (" / " if turns and final_effect else "") + final_effect
+        final_effect = target_and_turns + (" / " if target_and_turns and final_effect else "") + final_effect
         doppel_string += doppel_effect_template.format(i, text[:-1], final_effect)
 
     return connect_string + magia_string + doppel_string
@@ -478,6 +483,7 @@ def make_spirit_enchantment(cells):
                 except KeyError:
                     break
             eng_effect, icon = translate(cell["emotionSkill"]["shortDescription"], arts, True)
+            remove_repeated_target(eng_effect)
             effect_output = ""
             for effect in eng_effect:
                 if effect_output:

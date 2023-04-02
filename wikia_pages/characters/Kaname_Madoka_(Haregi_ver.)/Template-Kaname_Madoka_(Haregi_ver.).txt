@@ -171,7 +171,7 @@
 | Magia effect 4 = Darkness
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
-| Magia 4 / 2 = All Enemies / 1 Turn / 
+| Magia 4 / 2 = All Enemies / 1 Turn
 
 | Doppel Name = 
 | Doppel Title = 

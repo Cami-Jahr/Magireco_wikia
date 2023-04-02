@@ -5,6 +5,7 @@ from pathlib import Path
 
 from effect_translator import (
     jp_to_en,
+    remove_repeated_target,
     roman_to_full,
     translate,
     translate_jap_to_eng,
@@ -137,6 +138,7 @@ def read(piece, chars):
 
         description_jp = piece[f"pieceSkill{i}"]["shortDescription"]
         description_eng, icon = translate(description_jp, arts, True)
+        remove_repeated_target(description_eng)
         en_full_description = ""
         for en_skill in description_eng:
             if en_full_description:

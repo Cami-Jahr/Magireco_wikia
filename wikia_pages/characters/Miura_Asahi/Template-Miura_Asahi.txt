@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Revive one Ally
 | Magia scaling 2 = 1%
-| Magia 2 / 1 = 25%
-| Magia 2 / 2 = 30%
+| Magia 2 / 1 = Random Ally / 25% HP
+| Magia 2 / 2 = Random Ally / 30% HP
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = 41.3%
-| Magia 3 / 2 = 48.8%
+| Magia 3 / 1 = Allies / 3 Turns / 41.3%
+| Magia 3 / 2 = Allies / 3 Turns / 48.8%
 | Magia effect 4 = Anti-Debuff
 | Magia scaling 4 = -
-| Magia 4 / 1 = 1 Debuff
-| Magia 4 / 2 = 1 Debuff
+| Magia 4 / 1 = Allies / 3 Turns / 1 Debuff
+| Magia 4 / 2 = Allies / 3 Turns / 1 Debuff
 | Magia effect 5 = Negate Status Ailments
 | Magia scaling 5 = -
 | Magia 5 / 1 = Allies / 3 Turns / 1 Status Ailment
@@ -189,11 +189,11 @@
 | Magia2 effect 1 = Attribute Strengthened Damage One Enemy
 | Magia2 1 = IX / 2270.4%
 | Magia2 effect 2 = Revive one Ally
-| Magia2 2 = 54%
+| Magia2 2 = Random Ally / 54% HP
 | Magia2 effect 3 = Defense Up
-| Magia2 3 = 66.3%
+| Magia2 3 = Allies / 5 Turns / 66.3%
 | Magia2 effect 4 = Anti-Debuff
-| Magia2 4 = 2 Debuffs
+| Magia2 4 = Allies / 5 Turns / 2 Debuffs
 | Magia2 effect 5 = Negate Status Ailments
 | Magia2 5 = Allies / 5 Turns / 2 Status Ailments
 }}

@@ -168,8 +168,8 @@
 | Magia 1 / 2 = VII / 1152%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = 10%
-| Magia 2 / 2 = 15%
+| Magia 2 / 1 = Target / 3 Turns / 10%
+| Magia 2 / 2 = Target / 3 Turns / 15%
 | Magia effect 3 = Defense Down
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Target / 3 Turns / 25%
@@ -177,11 +177,11 @@
 | Magia effect 4 = Bind
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
-| Magia 4 / 2 = Target / 1 Turn / 
+| Magia 4 / 2 = Target / 1 Turn
 | Magia effect 5 = Evade
 | Magia scaling 5 = -
 | Magia 5 / 1 = -
-| Magia 5 / 2 = Self / 1 Turn / 
+| Magia 5 / 2 = Self / 1 Turn
 | Magia effect 6 = Chance to Bind
 | Magia scaling 6 = -
 | Magia 6 / 1 = Target / 1 Turn / 45%
@@ -198,7 +198,7 @@
 | Magia2 effect 2 = Bind
 | Magia2 2 = Target / 1 Turn
 | Magia2 effect 3 = Attack Down
-| Magia2 3 = 35%
+| Magia2 3 = Target / 3 Turns / 35%
 | Magia2 effect 4 = Defense Down
 | Magia2 4 = Target / 3 Turns / 40%
 | Magia2 effect 5 = Evade

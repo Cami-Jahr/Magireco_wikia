@@ -165,8 +165,8 @@
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Attack Down
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = 15%
-| Magia 2 / 2 = 20%
+| Magia 2 / 1 = Target / 3 Turns / 15%
+| Magia 2 / 2 = Target / 3 Turns / 20%
 | Magia effect 3 = Magia Damage Down
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Target / 3 Turns / 20%
@@ -181,7 +181,7 @@
 | Magia2 effect 1 = Attribute Strengthened Damage One Enemy
 | Magia2 1 = IX / 2270.4%
 | Magia2 effect 2 = Attack Down
-| Magia2 2 = 40%
+| Magia2 2 = Target / 3 Turns / 40%
 | Magia2 effect 3 = Magia Damage Down
 | Magia2 3 = Target / 3 Turns / 50%
 }}

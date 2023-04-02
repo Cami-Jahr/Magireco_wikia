@@ -167,12 +167,12 @@
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = All Enemies / 3 Turns / 22.5%
 | Magia 2 / 2 = All Enemies / 3 Turns / 27.5%
-| Magia 2 / 3 = 30%
+| Magia 2 / 3 = All Enemies / 3 Turns / 30%
 | Magia effect 3 = Curse
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
-| Magia 3 / 2 = All Enemies / 1 Turn / 
-| Magia 3 / 3 = All Enemies / 1 Turn / 
+| Magia 3 / 2 = All Enemies / 1 Turn
+| Magia 3 / 3 = All Enemies / 1 Turn
 | Magia effect 4 = Defense Down
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = -
@@ -193,7 +193,7 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Attack Down
-| Magia2 2 = 45%
+| Magia2 2 = All Enemies / 3 Turns / 45%
 | Magia2 effect 3 = Defense Down
 | Magia2 3 = All Enemies / 3 Turns / 30%
 | Magia2 effect 4 = Curse

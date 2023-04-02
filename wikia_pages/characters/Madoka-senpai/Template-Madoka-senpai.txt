@@ -182,9 +182,9 @@
 | Magia 2 / 3 = Target / 1 Turn / 40%
 | Magia effect 3 = Provoke
 | Magia scaling 3 = -
-| Magia 3 / 1 = Self / 1 Turn / 
-| Magia 3 / 2 = Self / 1 Turn / 
-| Magia 3 / 3 = Self / 1 Turn / 
+| Magia 3 / 1 = Self / 1 Turn
+| Magia 3 / 2 = Self / 1 Turn
+| Magia 3 / 3 = Self / 1 Turn
 
 | Doppel Name = 
 | Doppel Title = 

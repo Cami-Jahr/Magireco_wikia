@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = HP Restore
 | Magia scaling 2 = 2%
-| Magia 2 / 1 = 20%
-| Magia 2 / 2 = 22.5%
+| Magia 2 / 1 = Allies / 20%
+| Magia 2 / 2 = Allies / 22.5%
 | Magia effect 3 = Remove Debuffs
 | Magia scaling 3 = -
-| Magia 3 / 1 = Allies / 
-| Magia 3 / 2 = Allies / 
+| Magia 3 / 1 = Allies
+| Magia 3 / 2 = Allies
 
 | Doppel Name = 
 | Doppel Title = 
@@ -181,7 +181,7 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = HP Restore
-| Magia2 2 = 33%
+| Magia2 2 = Allies / 33%
 | Magia2 effect 3 = Remove Debuffs
 | Magia2 3 = Allies
 }}

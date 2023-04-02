@@ -175,8 +175,8 @@
 | Magia effect 3 = Remove Buffs
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
-| Magia 3 / 2 = All Enemies / 
-| Magia 3 / 3 = All Enemies / 
+| Magia 3 / 2 = All Enemies
+| Magia 3 / 3 = All Enemies
 
 | Doppel Name = 
 | Doppel Title = 
@@ -187,7 +187,7 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Attack Down
-| Magia2 2 = 32.5%
+| Magia2 2 = All Enemies / 3 Turns / 32.5%
 | Magia2 effect 3 = Defense Down
 | Magia2 3 = All Enemies / 3 Turns / 37.5%
 | Magia2 effect 4 = Remove Buffs

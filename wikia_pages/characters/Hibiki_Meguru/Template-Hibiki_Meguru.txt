@@ -165,8 +165,8 @@
 | Magia 1 / 2 = V / 1088%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = 22.5%
-| Magia 2 / 2 = 27.5%
+| Magia 2 / 1 = Allies / 3 Turns / 22.5%
+| Magia 2 / 2 = Allies / 3 Turns / 27.5%
 | Magia effect 3 = Defense Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Allies / 3 Turns / 33.8%

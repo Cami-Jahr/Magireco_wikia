@@ -165,12 +165,12 @@
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Burn
 | Magia scaling 2 = -
-| Magia 2 / 1 = Target / 3 Turns / 
-| Magia 2 / 2 = Target / 3 Turns / 
+| Magia 2 / 1 = Target / 3 Turns
+| Magia 2 / 2 = Target / 3 Turns
 | Magia effect 3 = Blast Damage Up
 | Magia scaling 3 = 2.5%
-| Magia 3 / 1 = 30%
-| Magia 3 / 2 = 40%
+| Magia 3 / 1 = Self / 3 Turns / 30%
+| Magia 3 / 2 = Self / 3 Turns / 40%
 | Magia effect 4 = Flame Attribute Attack Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Self / 3 Turns / 25%
@@ -187,7 +187,7 @@
 | Magia2 effect 2 = Burn
 | Magia2 2 = Target / 3 Turns
 | Magia2 effect 3 = Blast Damage Up
-| Magia2 3 = 60%
+| Magia2 3 = Self / 5 Turns / 60%
 | Magia2 effect 4 = Flame Attribute Attack Up
 | Magia2 4 = Self / 5 Turns / 45%
 | Magia2 effect 5 = Blast MP Gain Up

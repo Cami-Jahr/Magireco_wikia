@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Accele MP Gain Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = 17.5%
-| Magia 2 / 2 = 22.5%
+| Magia 2 / 1 = Allies / 3 Turns / 17.5%
+| Magia 2 / 2 = Allies / 3 Turns / 22.5%
 | Magia effect 3 = Status Ailment Resistance Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Allies / 3 Turns / 30%
 | Magia 3 / 2 = Allies / 3 Turns / 40%
 | Magia effect 4 = Remove Status Ailments
 | Magia scaling 4 = -
-| Magia 4 / 1 = 
-| Magia 4 / 2 = 
+| Magia 4 / 1 = Allies
+| Magia 4 / 2 = Allies
 | Magia effect 5 = HP Restore
 | Magia scaling 5 = 2%
 | Magia 5 / 1 = Allies / 25%
@@ -189,11 +189,11 @@
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Accele MP Gain Up
-| Magia2 2 = 37.5%
+| Magia2 2 = Allies / 5 Turns / 37.5%
 | Magia2 effect 3 = Status Ailment Resistance Up
 | Magia2 3 = Allies / 5 Turns / 60%
 | Magia2 effect 4 = Remove Status Ailments
-| Magia2 4 = 
+| Magia2 4 = Allies
 | Magia2 effect 5 = HP Restore
 | Magia2 5 = Allies / 38%
 }}

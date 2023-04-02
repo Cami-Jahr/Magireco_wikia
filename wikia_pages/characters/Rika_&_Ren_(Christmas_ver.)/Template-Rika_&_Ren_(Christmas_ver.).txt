@@ -165,16 +165,16 @@
 | Magia 1 / 2 = VIII / 345%
 | Magia effect 2 = Attack Up
 | Magia scaling 2 = 2.5%
-| Magia 2 / 1 = 25%
-| Magia 2 / 2 = 30%
+| Magia 2 / 1 = Allies / 3 Turns / 25%
+| Magia 2 / 2 = Allies / 3 Turns / 30%
 | Magia effect 3 = Regenerate HP
 | Magia scaling 3 = 1%
 | Magia 3 / 1 = Allies / 3 Turns / 6%
 | Magia 3 / 2 = Allies / 3 Turns / 8%
 | Magia effect 4 = Remove Debuffs
 | Magia scaling 4 = -
-| Magia 4 / 1 = Allies / 
-| Magia 4 / 2 = Allies / 
+| Magia 4 / 1 = Allies
+| Magia 4 / 2 = Allies
 
 | Doppel Name = 
 | Doppel Title = 
@@ -185,7 +185,7 @@
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = X / 902%
 | Magia2 effect 2 = Attack Up
-| Magia2 2 = 45%
+| Magia2 2 = Allies / 3 Turns / 45%
 | Magia2 effect 3 = Regenerate HP
 | Magia2 3 = Allies / 3 Turns / 14%
 | Magia2 effect 4 = Remove Debuffs

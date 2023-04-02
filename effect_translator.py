@@ -231,7 +231,7 @@ attack = {
 }
 
 resurrect = {
-    "ONE": ("Revive one Ally", False, True),
+    "ONE": ("Revive one Ally", False, False),
 }
 
 buff_die = {
@@ -457,20 +457,8 @@ target_tl = {
     "CONNECT": "Self"
 }
 
-special = {
-    "敵全体にダメージ & ２パターンの効果がランダムで発動": ({
-        "Random Damage Effect & Random Pattern<br/>'''Pattern 1:''' Damage All Enemies [880%] & Defense Up (Allies / 3 Turns / 73.8%) & Damage Cut (Allies / "
-        "3 Turns / 50%) & HP Restore (Allies / 28%) <br/>'''Pattern 2:''' Damage All Enemies [902%] & Chance to Burn (All Enemies / 3 Turns / 50%) & Chance "
-        "to Darkness (All Enemies / 1 Turn / 47.5%) & Chance to Bind (All Enemies / 1 Turn / 50%)": (
-            "", "", ""),
-    }, ""),
-}
-
 
 def translate(shortDescription, arts, include_roman):
-    if shortDescription in special:
-        return special[shortDescription]
-
     romans = [roman_to_full[i] for i in re.findall(r"""\[(.*?)]""", shortDescription)]
     effects = {}
     icon = ""
@@ -531,8 +519,11 @@ def translate(shortDescription, arts, include_roman):
                     no_states_target = False
                     if target_id == "DYING":
                         text = text.replace("Guardian", "Guardian on Allies with Critical Health")
-                elif verb_code in ("HEAL",) and target_id == "ONE":
-                    target = "Lowest HP Ally"
+                elif target_id == "ONE":
+                    if verb_code in ("HEAL",):
+                        target = "Lowest HP Ally"
+                    elif verb_code in ("RESURRECT",):
+                        target = "Random Ally"
 
             except KeyError as e:
                 target_id = "X"
@@ -587,9 +578,11 @@ def translate(shortDescription, arts, include_roman):
                     effect = effect.replace("%", "% full")
                 else:
                     effect = effect.replace("%", " MP")
-            if effect_code in ("AUTO_HEAL",) and "genericValue" in art and art["genericValue"] == "MP":
+            elif effect_code in ("AUTO_HEAL",) and "genericValue" in art and art["genericValue"] == "MP":
                 text = text.replace("HP", "MP")
                 effect = effect.replace("%", " MP")
+            elif verb_code in ("RESURRECT",):
+                effect = effect.replace("%", "% HP")
             if text == "Damage Up" and "状態" in shortDescription:
                 text = "Damage Increase"
 
@@ -645,12 +638,14 @@ def translate(shortDescription, arts, include_roman):
             raise e
         first_effect = False
 
-    # Remove target if it's repeated multiple times
+    return effects, icon
+
+
+def remove_repeated_target(effects):
+    """Remove target if it's repeated multiple times"""
     prev_turn_counter = "TEMPLATE"
     for key in reversed(list(effects.keys())):
         current_turn_counter = effects[key][1]
         if current_turn_counter == prev_turn_counter:
             effects[key][1] = ""
         prev_turn_counter = current_turn_counter
-
-    return effects, icon
