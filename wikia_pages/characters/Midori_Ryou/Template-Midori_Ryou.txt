@@ -171,8 +171,8 @@
 | Magia effect 3 = MP Restore
 | Magia scaling 3 = 1 MP
 | Magia 3 / 1 = -
-| Magia 3 / 2 = 27.5 MP
-| Magia 3 / 3 = 30 MP
+| Magia 3 / 2 = Self / 27.5 MP
+| Magia 3 / 3 = Self / 30 MP
 | Magia effect 4 = Chance to Burn
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
@@ -192,5 +192,5 @@
 | Magia2 effect 3 = Magia Damage Up
 | Magia2 3 = Self / 5 Turns / 55%
 | Magia2 effect 4 = MP Restore
-| Magia2 4 = 44 MP
+| Magia2 4 = Self / 44 MP
 }}

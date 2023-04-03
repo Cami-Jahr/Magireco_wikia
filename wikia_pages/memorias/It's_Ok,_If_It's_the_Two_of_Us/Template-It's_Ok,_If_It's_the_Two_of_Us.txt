@@ -21,7 +21,7 @@
 | effect_name = It's Ok, If It's the Two of Us
 | effect_name_JP = ふたりでいれば、大丈夫です
 | effect1 = 
-| effect2 = Attack Up [V / 25%] (Self / 3 Turns) & HP Restore [II / 32.5%] & MP Restore [II / 18 MP]
+| effect2 = Attack Up [V / 25%] (Self / 3 Turns) & HP Restore [II / 32.5%] & MP Restore [II / 18 MP] (Self)
 | Cooldown = 
 | Cooldown2 = 7
 }}

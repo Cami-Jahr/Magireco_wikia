@@ -148,7 +148,7 @@
 | Connect effect 1 = Accele MP Gain Up
 | Connect 1 / 1 = VII / 40%
 | Connect 1 / 2 = IX / 50%
-| Connect effect 2 = Dazzle on Attack
+| Connect effect 2 = Chance to Dazzle on Attack
 | Connect 2 / 1 = 100%
 | Connect 2 / 2 = 100%
 

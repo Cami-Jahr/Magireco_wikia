@@ -180,8 +180,8 @@
 | Magia 4 / 2 = Allies
 | Magia effect 5 = MP Restore
 | Magia scaling 5 = 1 MP
-| Magia 5 / 1 = 30 MP
-| Magia 5 / 2 = 35 MP
+| Magia 5 / 1 = Self / 30 MP
+| Magia 5 / 2 = Self / 35 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -200,5 +200,5 @@
 | Magia2 effect 5 = MP Restore
 | Magia2 5 = Allies / 39 MP
 | Magia2 effect 6 = MP Restore
-| Magia2 6 = 9 MP
+| Magia2 6 = Self / 9 MP
 }}

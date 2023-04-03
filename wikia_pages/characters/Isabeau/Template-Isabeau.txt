@@ -138,7 +138,7 @@
 | Active 1 icon = Curse
 | Active 1 name = Curse Mana Charge [II]
 | Active 1 name JP = カースマナチャージ[Ⅱ]
-| Active 1 effect = Chance to Curse [100%] (Target / 1 Turn) & MP Restore [II / 18 MP]
+| Active 1 effect = Chance to Curse [100%] (Target / 1 Turn) & MP Restore [II / 18 MP] (Self)
 | Active 1 cooldown = 10
 
 | Connect name JP = 女王が与える…
@@ -151,7 +151,7 @@
 | Connect effect 2 = Dark Attribute Attack Up
 | Connect 2 / 1 = VII / 20%
 | Connect 2 / 2 = IX / 25%
-| Connect effect 3 = Curse on Attack
+| Connect effect 3 = Chance to Curse on Attack
 | Connect 3 / 1 = 100%
 | Connect 3 / 2 = 100%
 
@@ -176,7 +176,7 @@
 | Magia 4 / 1 = Self / 3 Turns / 10%
 | Magia 4 / 2 = Self / 3 Turns / 15%
 | Magia effect 5 = Survive
-| Magia scaling 5 = 0% HP
+| Magia scaling 5 = -
 | Magia 5 / 1 = Self / 3 Turns / 30% HP
 | Magia 5 / 2 = Self / 3 Turns / 35% HP
 

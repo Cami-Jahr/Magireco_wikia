@@ -135,10 +135,10 @@
 | Passive 13 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 13 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 14 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
+| Passive 14 icon = Charge Combo Charge Count Up
 | Passive 14 name = Charge Combo Plus [I]
 | Passive 14 name JP = チャージコンボプラス[Ⅰ]
-| Passive 14 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
+| Passive 14 effect = Charge Combo Charge Count Up [+1]
 
 | Active 1 icon = Counter
 | Active 1 name = Brave Counter [XIII]

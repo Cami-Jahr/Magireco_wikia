@@ -148,7 +148,7 @@
 | Connect effect 1 = Attack Up
 | Connect 1 / 1 = VIII / 37.5%
 | Connect 1 / 2 = X / 42.5%
-| Connect effect 2 = Dazzle on Attack
+| Connect effect 2 = Chance to Dazzle on Attack
 | Connect 2 / 1 = 100%
 | Connect 2 / 2 = 100%
 | Connect effect 3 = Chance to Charm on Attack

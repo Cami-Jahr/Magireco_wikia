@@ -148,7 +148,7 @@
 | Connect effect 1 = Attack Up
 | Connect 1 / 1 = V / 30%
 | Connect 1 / 2 = VII / 35%
-| Connect effect 2 = Bind on Attack
+| Connect effect 2 = Chance to Bind on Attack
 | Connect 2 / 1 = 100%
 | Connect 2 / 2 = 100%
 

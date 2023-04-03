@@ -20,8 +20,8 @@
 | image = HP Restore
 | effect_name = Nursing Care 
 | effect_name_JP = ナーシングケア
-| effect1 = HP Restore [III / 35%] & MP Restore [I / 10 MP]
-| effect2 = HP Restore [IV / 37.5%] & MP Restore [I / 10 MP]
+| effect1 = HP Restore [III / 35%] & MP Restore [I / 10 MP] (Self)
+| effect2 = HP Restore [IV / 37.5%] & MP Restore [I / 10 MP] (Self)
 | Cooldown = 9
 | Cooldown2 = 8
 }}

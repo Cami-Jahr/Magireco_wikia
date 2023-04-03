@@ -174,7 +174,7 @@
 | Magia effect 4 = HP Restore
 | Magia scaling 4 = 2%
 | Magia 4 / 1 = -
-| Magia 4 / 2 = 45%
+| Magia 4 / 2 = Self / 45%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -189,5 +189,5 @@
 | Magia2 effect 3 = Ignore Damage Cut
 | Magia2 3 = Self / 3 Turns / 100%
 | Magia2 effect 4 = HP Restore
-| Magia2 4 = 58%
+| Magia2 4 = Self / 58%
 }}

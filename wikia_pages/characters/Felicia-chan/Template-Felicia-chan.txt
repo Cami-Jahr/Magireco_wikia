@@ -179,9 +179,9 @@
 | Magia 3 / 3 = Target / 3 Turns / 35%
 | Magia effect 4 = HP Restore
 | Magia scaling 4 = 2%
-| Magia 4 / 1 = 32.5%
-| Magia 4 / 2 = 37.5%
-| Magia 4 / 3 = 42.5%
+| Magia 4 / 1 = Self / 32.5%
+| Magia 4 / 2 = Self / 37.5%
+| Magia 4 / 3 = Self / 42.5%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -196,5 +196,5 @@
 | Magia2 effect 3 = Defense Down
 | Magia2 3 = Target / 3 Turns / 55%
 | Magia2 effect 4 = HP Restore
-| Magia2 4 = 58%
+| Magia2 4 = Self / 58%
 }}

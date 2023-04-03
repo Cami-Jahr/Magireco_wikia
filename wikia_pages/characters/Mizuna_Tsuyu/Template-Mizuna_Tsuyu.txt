@@ -191,5 +191,5 @@
 | Magia2 effect 4 = Aqua Attribute Attack Up
 | Magia2 4 = Allies / 5 Turns / 25%
 | Magia2 effect 5 = HP Restore
-| Magia2 5 = 18%
+| Magia2 5 = Self / 18%
 }}

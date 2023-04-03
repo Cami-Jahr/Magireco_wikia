@@ -151,7 +151,7 @@
 | Connect effect 2 = Defense Up
 | Connect 2 / 1 = VII / 90%
 | Connect 2 / 2 = IX / 105%
-| Connect effect 3 = Fog on Attack
+| Connect effect 3 = Chance to Fog on Attack
 | Connect 3 / 1 = 100%
 | Connect 3 / 2 = 100%
 

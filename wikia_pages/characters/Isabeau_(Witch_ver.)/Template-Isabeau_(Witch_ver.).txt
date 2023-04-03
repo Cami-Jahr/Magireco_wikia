@@ -172,7 +172,7 @@
 | Magia 3 / 1 = Self / 3 Turns / 35%
 | Magia 3 / 2 = Self / 3 Turns / 45%
 | Magia effect 4 = Survive
-| Magia scaling 4 = 0% HP
+| Magia scaling 4 = -
 | Magia 4 / 1 = Self / 3 Turns / 30% HP
 | Magia 4 / 2 = Self / 3 Turns / 35% HP
 

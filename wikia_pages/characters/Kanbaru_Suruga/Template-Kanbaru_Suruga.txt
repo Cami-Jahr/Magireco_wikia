@@ -95,10 +95,10 @@
 | Passive 5 name JP = パリィ・アデプト[Ⅱ]
 | Passive 5 effect = Chance to Evade [II / 15%]
 
-| Passive 6 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
+| Passive 6 icon = Charge Combo Charge Count Up
 | Passive 6 name = Charge Combo Plus [II]
 | Passive 6 name JP = チャージコンボプラス[Ⅱ]
-| Passive 6 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
+| Passive 6 effect = Charge Combo Charge Count Up [+2]
 
 | Passive 7 icon = Regenerate HP
 | Passive 7 name = Mana Spring Adept [V]

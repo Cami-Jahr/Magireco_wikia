@@ -138,7 +138,7 @@
 | Active 1 icon = Provoke
 | Active 1 name = Sweet Guardian
 | Active 1 name JP = スウィート・ガーディアン
-| Active 1 effect = Provoke & Barrier [I / 15000 damage] (Self / 1 Turn) & HP Restore [I / 30%]
+| Active 1 effect = Provoke & Barrier [I / 15000 damage] (Self / 1 Turn) & HP Restore [I / 30%] (Self)
 | Active 1 cooldown = 7
 
 | Connect name JP = ふむむむふむむんふむむふ！

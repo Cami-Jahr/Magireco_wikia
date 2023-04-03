@@ -164,7 +164,7 @@
 | Magia 1 / 1 = V / 864%
 | Magia 1 / 2 = VII / 928%
 | Magia effect 2 = Survive
-| Magia scaling 2 = 0% HP
+| Magia scaling 2 = -
 | Magia 2 / 1 = Self / 3 Turns / 30% HP
 | Magia 2 / 2 = Self / 3 Turns / 35% HP
 | Magia effect 3 = Critical Hit

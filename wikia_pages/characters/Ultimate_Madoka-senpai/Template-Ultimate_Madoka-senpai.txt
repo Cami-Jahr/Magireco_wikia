@@ -105,10 +105,10 @@
 | Passive 7 name JP = レジスト・アデプト[Ⅱ]
 | Passive 7 effect = Status Ailment Resistance Up [II / 25%]
 
-| Passive 8 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
+| Passive 8 icon = Charge Combo Charge Count Up
 | Passive 8 name = Charge Combo Plus [II]
 | Passive 8 name JP = チャージコンボプラス[Ⅱ]
-| Passive 8 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
+| Passive 8 effect = Charge Combo Charge Count Up [+2]
 
 | Passive 9 icon = Anti-Magia Seal
 | Passive 9 name = Anti-Seal Magia

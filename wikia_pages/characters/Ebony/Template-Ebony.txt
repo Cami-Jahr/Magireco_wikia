@@ -151,7 +151,7 @@
 | Connect effect 2 = MP Restore
 | Connect 2 / 1 = V / 22.5 MP
 | Connect 2 / 2 = VII / 27.5 MP
-| Connect effect 3 = Dazzle on Attack
+| Connect effect 3 = Chance to Dazzle on Attack
 | Connect 3 / 1 = 100%
 | Connect 3 / 2 = 100%
 

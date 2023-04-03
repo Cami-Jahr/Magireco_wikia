@@ -125,10 +125,10 @@
 | Passive 11 name JP = アンチ・チャーム
 | Passive 11 effect = Anti-Charm
 
-| Passive 12 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
+| Passive 12 icon = Charge Combo Charge Count Up
 | Passive 12 name = Charge Combo Plus [IV]
 | Passive 12 name JP = チャージコンボプラス[Ⅳ]
-| Passive 12 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
+| Passive 12 effect = Charge Combo Charge Count Up [+4]
 
 | Passive 13 icon = Damage Cut
 | Passive 13 name = Shield Aura [III]
@@ -173,8 +173,8 @@
 | Magia 3 / 2 = Self / 3 Turns / 25%
 | Magia effect 4 = HP Restore
 | Magia scaling 4 = 2%
-| Magia 4 / 1 = 20%
-| Magia 4 / 2 = 25%
+| Magia 4 / 1 = Self / 20%
+| Magia 4 / 2 = Self / 25%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -191,5 +191,5 @@
 | Magia2 effect 4 = Charge Conservation
 | Magia2 4 = Self / 2 Turns / 100%
 | Magia2 effect 5 = HP Restore
-| Magia2 5 = 38%
+| Magia2 5 = Self / 38%
 }}

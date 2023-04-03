@@ -151,7 +151,7 @@
 | Connect effect 2 = Damage Up Versus Enemies Affected With Status Ailments
 | Connect 2 / 1 = VII / 40%
 | Connect 2 / 2 = IX / 45%
-| Connect effect 3 = Charm on Attack
+| Connect effect 3 = Chance to Charm on Attack
 | Connect 3 / 1 = 100%
 | Connect 3 / 2 = 100%
 
@@ -184,7 +184,7 @@
 | Magia 6 / 1 = All Enemies / 1 Turn / 100%
 | Magia 6 / 2 = All Enemies / 1 Turn / 100%
 | Magia effect 7 = Survive
-| Magia scaling 7 = 0% HP
+| Magia scaling 7 = -
 | Magia 7 / 1 = Self / 3 Turns / 30% HP
 | Magia 7 / 2 = Self / 3 Turns / 35% HP
 

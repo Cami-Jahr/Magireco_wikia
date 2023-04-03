@@ -148,10 +148,10 @@
 | Connect effect 1 = Attack Up
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = VIII / 37.5%
-| Connect effect 2 = Dazzle on Attack
+| Connect effect 2 = Chance to Dazzle on Attack
 | Connect 2 / 1 = 100%
 | Connect 2 / 2 = 100%
-| Connect effect 3 = Poison on Attack
+| Connect effect 3 = Chance to Poison on Attack
 | Connect 3 / 1 = 100%
 | Connect 3 / 2 = 100%
 | Connect effect 4 = Chance to Stun on Attack

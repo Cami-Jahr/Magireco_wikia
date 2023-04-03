@@ -189,7 +189,7 @@
 | Magia 5 / 1 = -
 | Magia 5 / 2 = -
 | Magia 5 / 3 = -
-| Magia 5 / 4 = 10 MP
+| Magia 5 / 4 = Self / 10 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -206,5 +206,5 @@
 | Magia2 effect 4 = Damage Cut
 | Magia2 4 = Allies / 3 Turns / 37.5%
 | Magia2 effect 5 = MP Restore
-| Magia2 5 = 29 MP
+| Magia2 5 = Self / 29 MP
 }}

@@ -136,9 +136,9 @@
 | Passive 13 effect = 
 
 | Active 1 icon = HP Restore
-| Active 1 name = ファーストエイド
+| Active 1 name = First Aid
 | Active 1 name JP = ファーストエイド
-| Active 1 effect = HP Restore [III / 100%] & Attack Down [III / 15%] (Self / 1 Turn)
+| Active 1 effect = HP Restore [III / 100%] (Self) & Attack Down [III / 15%] (Self / 1 Turn)
 | Active 1 cooldown = 9
 
 | Connect name JP = え～…一緒に寝てよーよ…

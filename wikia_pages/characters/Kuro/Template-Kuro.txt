@@ -138,7 +138,7 @@
 | Active 1 icon = MP Restore
 | Active 1 name = Mana Recovery [I]
 | Active 1 name JP = マナリカバリー[Ⅰ]
-| Active 1 effect = MP Restore [I / 10 MP] & Regenerate MP [I / 3 MP] (Self / 3 Turns)
+| Active 1 effect = MP Restore [I / 10 MP] (Self) & Regenerate MP [I / 3 MP] (Self / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = …………

@@ -20,8 +20,8 @@
 | image = MP Damage
 | effect_name = Mana Absorb 
 | effect_name_JP = マナアブソーブ
-| effect1 = MP Damage [I / 30 MP] (Target) & MP Restore [I / 10 MP]
-| effect2 = MP Damage [I / 30 MP] (Target) & MP Restore [I / 10 MP]
+| effect1 = MP Damage [I / 30 MP] (Target) & MP Restore [I / 10 MP] (Self)
+| effect2 = MP Damage [I / 30 MP] (Target) & MP Restore [I / 10 MP] (Self)
 | Cooldown = 10
 | Cooldown2 = 8
 }}

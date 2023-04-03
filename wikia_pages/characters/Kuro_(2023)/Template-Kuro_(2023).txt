@@ -138,7 +138,7 @@
 | Active 1 icon = MP Restore
 | Active 1 name = Mana Charge [II]
 | Active 1 name JP = マナチャージ[Ⅱ]
-| Active 1 effect = MP Restore [II / 18 MP]
+| Active 1 effect = MP Restore [II / 18 MP] (Self)
 | Active 1 cooldown = 7
 
 | Connect name JP = お互い頑張りましょう

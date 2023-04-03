@@ -138,7 +138,7 @@
 | Active 1 icon = Blast Damage Up
 | Active 1 name = Variable Boost [VI]
 | Active 1 name JP = ヴァリアブルブースト[Ⅵ]
-| Active 1 effect = Blast Damage Up [VI / 35%] & Imitate Attribute [VI / 100%] (Self / 1 Turn)
+| Active 1 effect = Blast Damage Up [VI / 35%] & Variable (Self / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = モッキュ、モキューイ！
@@ -171,10 +171,10 @@
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Allies / 3 Turns / 30%
 | Magia 3 / 2 = Allies / 3 Turns / 35%
-| Magia effect 4 = Imitate Attribute
+| Magia effect 4 = Variable
 | Magia scaling 4 = -
-| Magia 4 / 1 = Self / 3 Turns / 100%
-| Magia 4 / 2 = Self / 3 Turns / 100%
+| Magia 4 / 1 = Self / 3 Turns
+| Magia 4 / 2 = Self / 3 Turns
 
 | Doppel Name = 
 | Doppel Title = 
@@ -188,6 +188,6 @@
 | Magia2 2 = All Enemies / 3 Turns / 35%
 | Magia2 effect 3 = Damage Cut
 | Magia2 3 = Allies / 3 Turns / 50%
-| Magia2 effect 4 = Imitate Attribute
-| Magia2 4 = Self / 3 Turns / 100%
+| Magia2 effect 4 = Variable
+| Magia2 4 = Self / 3 Turns
 }}

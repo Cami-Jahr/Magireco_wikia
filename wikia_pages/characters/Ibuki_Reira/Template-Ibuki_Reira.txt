@@ -115,10 +115,10 @@
 | Passive 9 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 9 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 10 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
+| Passive 10 icon = Charge Combo Charge Count Up
 | Passive 10 name = Charge Combo Plus [I]
 | Passive 10 name JP = チャージコンボプラス[Ⅰ]
-| Passive 10 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
+| Passive 10 effect = Charge Combo Charge Count Up [+1]
 
 | Passive 11 icon = Accele MP Gain Up
 | Passive 11 name = Accele Adept [II]

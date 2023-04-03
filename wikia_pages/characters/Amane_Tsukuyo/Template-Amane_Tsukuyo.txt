@@ -115,10 +115,10 @@
 | Passive 9 name JP = アクセル・アデプト[Ⅲ]
 | Passive 9 effect = Accele MP Gain Up [III / 15%]
 
-| Passive 10 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
+| Passive 10 icon = Charge Combo Charge Count Up
 | Passive 10 name = Charge Combo Plus [III]
 | Passive 10 name JP = チャージコンボプラス[Ⅲ]
-| Passive 10 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
+| Passive 10 effect = Charge Combo Charge Count Up [+3]
 
 | Passive 11 icon = MP Gain Up
 | Passive 11 name = Morale Adept [II]

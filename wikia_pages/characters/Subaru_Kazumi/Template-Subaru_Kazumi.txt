@@ -194,5 +194,5 @@
 | Magia2 effect 5 = Damage Up
 | Magia2 5 = Self / 5 Turns / 40%
 | Magia2 effect 6 = HP Restore
-| Magia2 6 = 43%
+| Magia2 6 = Self / 43%
 }}

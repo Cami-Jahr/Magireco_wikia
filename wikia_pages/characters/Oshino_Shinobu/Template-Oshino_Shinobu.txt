@@ -151,7 +151,7 @@
 | Connect effect 2 = Attack Up
 | Connect 2 / 1 = VII / 35%
 | Connect 2 / 2 = IX / 40%
-| Connect effect 3 = Curse on Attack
+| Connect effect 3 = Chance to Curse on Attack
 | Connect 3 / 1 = 100%
 | Connect 3 / 2 = 100%
 
@@ -173,8 +173,8 @@
 | Magia 3 / 2 = All Enemies / 40 MP
 | Magia effect 4 = HP Restore
 | Magia scaling 4 = 2%
-| Magia 4 / 1 = 35%
-| Magia 4 / 2 = 40%
+| Magia 4 / 1 = Self / 35%
+| Magia 4 / 2 = Self / 40%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -189,5 +189,5 @@
 | Magia2 effect 3 = MP Damage
 | Magia2 3 = All Enemies / 65 MP
 | Magia2 effect 4 = HP Restore
-| Magia2 4 = 58%
+| Magia2 4 = Self / 58%
 }}

@@ -148,7 +148,7 @@
 | Connect effect 1 = HP Restore
 | Connect 1 / 1 = V / 40%
 | Connect 1 / 2 = VII / 45%
-| Connect effect 2 = Bind on Attack
+| Connect effect 2 = Chance to Bind on Attack
 | Connect 2 / 1 = 100%
 | Connect 2 / 2 = 100%
 

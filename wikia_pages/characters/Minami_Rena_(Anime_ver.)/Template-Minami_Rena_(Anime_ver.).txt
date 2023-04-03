@@ -174,8 +174,8 @@
 | Magia 4 / 2 = Self / 3 Turns / 30%
 | Magia effect 5 = MP Restore
 | Magia scaling 5 = 1 MP
-| Magia 5 / 1 = 30 MP
-| Magia 5 / 2 = 35 MP
+| Magia 5 / 1 = Self / 30 MP
+| Magia 5 / 2 = Self / 35 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -192,5 +192,5 @@
 | Magia2 effect 4 = Magia Damage Up
 | Magia2 4 = Self / 5 Turns / 45%
 | Magia2 effect 5 = MP Restore
-| Magia2 5 = 44 MP
+| Magia2 5 = Self / 44 MP
 }}

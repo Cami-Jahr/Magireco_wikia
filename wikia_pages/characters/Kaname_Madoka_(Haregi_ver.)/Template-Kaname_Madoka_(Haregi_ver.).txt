@@ -166,8 +166,8 @@
 | Magia 2 / 2 = Allies / 1 Turn / 50%
 | Magia effect 3 = MP Restore
 | Magia scaling 3 = 1 MP
-| Magia 3 / 1 = 32.5 MP
-| Magia 3 / 2 = 37.5 MP
+| Magia 3 / 1 = Self / 32.5 MP
+| Magia 3 / 2 = Self / 37.5 MP
 | Magia effect 4 = Chance to Darkness
 | Magia scaling 4 = -
 | Magia 4 / 1 = -
@@ -186,5 +186,5 @@
 | Magia2 effect 3 = Status Ailment Resistance Up
 | Magia2 3 = Allies / 1 Turn / 70%
 | Magia2 effect 4 = MP Restore
-| Magia2 4 = 46.5 MP
+| Magia2 4 = Self / 46.5 MP
 }}

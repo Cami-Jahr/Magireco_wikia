@@ -179,9 +179,9 @@
 | Magia 3 / 3 = All Enemies / 30 MP
 | Magia effect 4 = MP Restore
 | Magia scaling 4 = 1 MP
-| Magia 4 / 1 = 25 MP
-| Magia 4 / 2 = 30 MP
-| Magia 4 / 3 = 30 MP
+| Magia 4 / 1 = Self / 25 MP
+| Magia 4 / 2 = Self / 30 MP
+| Magia 4 / 3 = Self / 30 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -196,5 +196,5 @@
 | Magia2 effect 3 = MP Damage
 | Magia2 3 = All Enemies / 40 MP
 | Magia2 effect 4 = MP Restore
-| Magia2 4 = 39 MP
+| Magia2 4 = Self / 39 MP
 }}

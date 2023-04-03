@@ -151,7 +151,7 @@
 | Connect effect 2 = Attack Up
 | Connect 2 / 1 = VII / 35%
 | Connect 2 / 2 = IX / 40%
-| Connect effect 3 = Burn on Attack
+| Connect effect 3 = Chance to Burn on Attack
 | Connect 3 / 1 = 100%
 | Connect 3 / 2 = 100%
 
@@ -178,7 +178,7 @@
 | Magia effect 5 = MP Restore
 | Magia scaling 5 = 1 MP
 | Magia 5 / 1 = -
-| Magia 5 / 2 = 25 MP
+| Magia 5 / 2 = Self / 25 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -195,5 +195,5 @@
 | Magia2 effect 4 = Remove Buffs
 | Magia2 4 = All Enemies
 | Magia2 effect 5 = MP Restore
-| Magia2 5 = 34 MP
+| Magia2 5 = Self / 34 MP
 }}

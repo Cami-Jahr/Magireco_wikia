@@ -21,7 +21,7 @@
 | effect_name = Pure White Futures 
 | effect_name_JP = まっしろな未来
 | effect1 = 
-| effect2 = MP Restore [II / 18 MP]
+| effect2 = MP Restore [II / 18 MP] (Self)
 | Cooldown = 
 | Cooldown2 = 5
 }}

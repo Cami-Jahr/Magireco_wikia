@@ -17,11 +17,11 @@
 | max_ATK = 1150
 | max_DEF = 0
 
-| image = Charge Combo Charge Count Up (+1 / cannot be repeated)
+| image = Charge Combo Charge Count Up
 | effect_name = C Combo Plus Guard 
 | effect_name_JP = Cコンボプラス・ガード
-| effect1 = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%] & Defense Up [II / 15%]
-| effect2 = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%] & Defense Up [III / 22.5%]
+| effect1 = Charge Combo Charge Count Up [+1] & Defense Up [II / 15%]
+| effect2 = Charge Combo Charge Count Up [+2] & Defense Up [III / 22.5%]
 | Cooldown = 
 | Cooldown2 = 
 }}

@@ -161,7 +161,7 @@
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Survive
-| Magia scaling 2 = 0% HP
+| Magia scaling 2 = -
 | Magia 2 / 1 = Self / 2 Turns / 22% HP
 | Magia 2 / 2 = Self / 2 Turns / 25% HP
 | Magia effect 3 = Regenerate HP

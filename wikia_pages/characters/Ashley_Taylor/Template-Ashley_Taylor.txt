@@ -151,7 +151,7 @@
 | Connect effect 2 = Attack Up
 | Connect 2 / 1 = VII / 35%
 | Connect 2 / 2 = IX / 40%
-| Connect effect 3 = Charm on Attack
+| Connect effect 3 = Chance to Charm on Attack
 | Connect 3 / 1 = 100%
 | Connect 3 / 2 = 100%
 

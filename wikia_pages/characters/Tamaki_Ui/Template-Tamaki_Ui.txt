@@ -174,7 +174,7 @@
 | Magia effect 4 = MP Restore
 | Magia scaling 4 = 1 MP
 | Magia 4 / 1 = -
-| Magia 4 / 2 = 25 MP
+| Magia 4 / 2 = Self / 25 MP
 
 | Doppel Name = 
 | Doppel Title = 
@@ -189,5 +189,5 @@
 | Magia2 effect 3 = Chance to Curse
 | Magia2 3 = All Enemies / 1 Turn / 100%
 | Magia2 effect 4 = MP Restore
-| Magia2 4 = 34 MP
+| Magia2 4 = Self / 34 MP
 }}

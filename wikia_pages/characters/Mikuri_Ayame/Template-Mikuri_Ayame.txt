@@ -115,10 +115,10 @@
 | Passive 9 name JP = テクニカル・アデプト[Ⅳ]
 | Passive 9 effect = Charge Disc Damage Up [IV / 20%]
 
-| Passive 10 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
+| Passive 10 icon = Charge Combo Charge Count Up
 | Passive 10 name = Charge Combo Plus [I]
 | Passive 10 name JP = チャージコンボプラス[Ⅰ]
-| Passive 10 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
+| Passive 10 effect = Charge Combo Charge Count Up [+1]
 
 | Passive 11 icon = Anti-Evade
 | Passive 11 name = Aiming Adept [III]
@@ -155,7 +155,7 @@
 | Connect 1 / 2 = V / 20%
 | Connect 1 / 3 = VII / 25%
 | Connect 1 / 4 = VII / 25%
-| Connect effect 2 = Burn on Attack
+| Connect effect 2 = Chance to Burn on Attack
 | Connect 2 / 1 = 100%
 | Connect 2 / 2 = 100%
 | Connect 2 / 3 = 100%

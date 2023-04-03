@@ -138,7 +138,7 @@
 | Active 1 icon = Evade
 | Active 1 name = Parry Mana Charge [II]
 | Active 1 name JP = パリィマナチャージ[Ⅱ]
-| Active 1 effect = Evade (Self / 1 Turn) & MP Restore [II / 18 MP]
+| Active 1 effect = Evade (Self / 1 Turn) & MP Restore [II / 18 MP] (Self)
 | Active 1 cooldown = 10
 
 | Connect name JP = お前も命を食む者か
@@ -173,8 +173,8 @@
 | Magia 3 / 2 = Self / 1 Turn / 100%
 | Magia effect 4 = HP Restore
 | Magia scaling 4 = 2%
-| Magia 4 / 1 = 42.5%
-| Magia 4 / 2 = 47.5%
+| Magia 4 / 1 = Self / 42.5%
+| Magia 4 / 2 = Self / 47.5%
 
 | Doppel Name = 
 | Doppel Title = 
@@ -189,5 +189,5 @@
 | Magia2 effect 3 = Evade
 | Magia2 3 = Self / 2 Turns / 100%
 | Magia2 effect 4 = HP Restore
-| Magia2 4 = 60.5%
+| Magia2 4 = Self / 60.5%
 }}

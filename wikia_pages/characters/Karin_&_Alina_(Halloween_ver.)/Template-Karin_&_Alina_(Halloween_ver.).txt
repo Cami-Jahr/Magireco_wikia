@@ -151,7 +151,7 @@
 | Connect effect 2 = Damage Up Versus Enemies Affected With Status Ailments
 | Connect 2 / 1 = VII / 40%
 | Connect 2 / 2 = IX / 45%
-| Connect effect 3 = Dazzle on Attack
+| Connect effect 3 = Chance to Dazzle on Attack
 | Connect 3 / 1 = 100%
 | Connect 3 / 2 = 100%
 

@@ -130,10 +130,10 @@
 | Passive 12 name JP = チャージエキスパート[Ⅳ]
 | Passive 12 effect = Charged Attack Damage Up [IV / 15%] & Charge Disc Damage Up [II / 10%]
 
-| Passive 13 icon = Charge Combo Charge Count Up (+1 / cannot be repeated)
+| Passive 13 icon = Charge Combo Charge Count Up
 | Passive 13 name = Charge Combo Plus [III]
 | Passive 13 name JP = チャージコンボプラス[Ⅲ]
-| Passive 13 effect = Charge Combo Charge Count Up (+1 / cannot be repeated) [100%]
+| Passive 13 effect = Charge Combo Charge Count Up [+3]
 
 | Passive 14 icon = Damage Cut
 | Passive 14 name = Shield Adept [II]

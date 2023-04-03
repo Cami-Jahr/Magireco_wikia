@@ -191,5 +191,5 @@
 | Magia2 effect 3 = Remove Buffs
 | Magia2 3 = All Enemies
 | Magia2 effect 4 = MP Restore
-| Magia2 4 = 34 MP
+| Magia2 4 = Self / 34 MP
 }}
