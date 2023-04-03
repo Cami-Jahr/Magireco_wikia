@@ -59,6 +59,7 @@ def load_girls():
         *["EX NR max".replace("NR", str(nr)) for nr in range(1, 5)],
 
         "Connect icon",
+        *["Connect effect NR".replace("NR", str(nr)) for nr in range(1, 10)],
         *["Connect 1 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
         *["Connect 2 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
         *["Connect 3 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
@@ -70,8 +71,8 @@ def load_girls():
         *["Connect 9 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
 
         "Magia icon",
-        *["Magia effect NR".replace("NR", str(nr)) for nr in range(1, 6)],
-        *["Magia scaling NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Magia effect NR".replace("NR", str(nr)) for nr in range(1, 10)],
+        *["Magia scaling NR".replace("NR", str(nr)) for nr in range(1, 10)],
         *["Magia 1 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
         *["Magia 2 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
         *["Magia 3 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
@@ -82,8 +83,8 @@ def load_girls():
         *["Magia 8 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
         *["Magia 9 / NR".replace("NR", str(nr)) for nr in range(1, 6)],
 
-        *["Magia2 effect NR".replace("NR", str(nr)) for nr in range(1, 6)],
-        *["Magia2 NR".replace("NR", str(nr)) for nr in range(1, 6)],
+        *["Magia2 effect NR".replace("NR", str(nr)) for nr in range(1, 10)],
+        *["Magia2 NR".replace("NR", str(nr)) for nr in range(1, 10)],
     ]
 
     with open("txts/chars.txt", "r", encoding="utf-8") as f:
