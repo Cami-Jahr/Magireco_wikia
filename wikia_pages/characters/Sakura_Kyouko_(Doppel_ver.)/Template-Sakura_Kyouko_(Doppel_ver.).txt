@@ -128,7 +128,7 @@
 | Passive 12 icon = Regenerate HP
 | Passive 12 name = Mana Spring Aura [XV]
 | Passive 12 name JP = マナスプリングオーラ[XV]
-| Passive 12 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn)
+| Passive 12 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

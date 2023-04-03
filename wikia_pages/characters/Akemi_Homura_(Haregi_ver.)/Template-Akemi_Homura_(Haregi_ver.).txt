@@ -98,7 +98,7 @@
 | Passive 6 icon = Anti-Debuff
 | Passive 6 name = Anti-Debuff
 | Passive 6 name JP = アンチ・デバフ
-| Passive 6 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
+| Passive 6 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns from start of battle)
 
 | Passive 7 icon = Negate Status Ailments
 | Passive 7 name = Resist Shield

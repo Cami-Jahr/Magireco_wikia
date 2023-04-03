@@ -128,7 +128,7 @@
 | Passive 12 icon = Damage Increase
 | Passive 12 name = Armament Aura [II]
 | Passive 12 name JP = アーマメントオーラ[Ⅱ]
-| Passive 12 effect = Damage Increase [II / 17.5%] & Damage Cut [II / 22.5%] (Allies / 5 Turns)
+| Passive 12 effect = Damage Increase [II / 17.5%] & Damage Cut [II / 22.5%] (Allies / 5 Turns from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

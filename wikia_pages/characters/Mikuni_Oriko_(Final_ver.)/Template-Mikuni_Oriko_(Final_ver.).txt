@@ -128,7 +128,7 @@
 | Passive 12 icon = Evade
 | Passive 12 name = Parry Aura
 | Passive 12 name JP = パリィオーラ
-| Passive 12 effect = Evade (Self / 1 Turn)
+| Passive 12 effect = Evade (Self / 1 Turn from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

@@ -113,7 +113,7 @@
 | Passive 9 icon = Anti-Debuff
 | Passive 9 name = Anti-Debuff
 | Passive 9 name JP = アンチ・デバフ
-| Passive 9 effect = Anti-Debuff [2 Debuffs] (Self / ∞ Turns)
+| Passive 9 effect = Anti-Debuff [2 Debuffs] (Self / ∞ Turns from start of battle)
 
 | Passive 10 icon = Blast MP Gain Up
 | Passive 10 name = Blast Salutation [VI]
@@ -123,7 +123,7 @@
 | Passive 11 icon = Blast Damage Up
 | Passive 11 name = Blast Up Aura [IX]
 | Passive 11 name JP = ブラストアップ・オーラ[Ⅸ]
-| Passive 11 effect = Blast Damage Up [IX / 50%] (Self / 5 Turns)
+| Passive 11 effect = Blast Damage Up [IX / 50%] (Self / 5 Turns from start of battle)
 
 | Passive 12 icon = Flame Attribute Attack Up
 | Passive 12 name = Flame Rise Aura [VII]

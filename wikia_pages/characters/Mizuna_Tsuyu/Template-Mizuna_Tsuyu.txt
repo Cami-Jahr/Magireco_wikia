@@ -128,7 +128,7 @@
 | Passive 12 icon = Aqua Attribute Attack Up
 | Passive 12 name = Aqua Bloom Aura [V]
 | Passive 12 name JP = アクアブルーム・オーラ[Ⅴ]
-| Passive 12 effect = Aqua Attribute Attack Up [V / 15%] (Allies) & Defense Up [I / 30%] (Allies / ∞ Turns)
+| Passive 12 effect = Aqua Attribute Attack Up [V / 15%] (Allies) & Defense Up [I / 30%] (Allies / ∞ Turns from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

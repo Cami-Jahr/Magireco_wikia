@@ -128,7 +128,7 @@
 | Passive 12 icon = Skill Quicken
 | Passive 12 name = Skill Quicken Aura
 | Passive 12 name JP = スキルクイックオーラ
-| Passive 12 effect = Skill Quicken (Self / 1 Turn)
+| Passive 12 effect = Skill Quicken (Self / 1 Turn from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

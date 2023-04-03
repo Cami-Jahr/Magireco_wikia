@@ -506,6 +506,9 @@ def make_spirit_enchantment(cells: list[dict]):
                     print("missing translation?", repr(skill_name_en))
                     break
             if cell["emotionSkill"]["type"] == "ABILITY":
+                if "on Attack" not in effect_output:
+                    effect_output = effect_output.replace("Turns)", "Turns on Battle Start)")
+                    effect_output = effect_output.replace("Turn)", "Turn on Battle Start)")
                 passive_output += passive_template.format(passive_amount, skill_name_jp, skill_name_en, icon, effect_output)
                 passive_amount += 1
             else:  # SKILL

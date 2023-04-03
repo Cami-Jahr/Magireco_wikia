@@ -118,7 +118,7 @@
 | Passive 10 icon = Regenerate HP
 | Passive 10 name = Mana Spring Aura [XV]
 | Passive 10 name JP = マナスプリングオーラ[XV]
-| Passive 10 effect = Regenerate MP [XV / 50 MP] (Self / 2 Turns)
+| Passive 10 effect = Regenerate MP [XV / 50 MP] (Self / 2 Turns from start of battle)
 
 | Passive 11 icon = Negate Status Ailments
 | Passive 11 name = Resist Shield

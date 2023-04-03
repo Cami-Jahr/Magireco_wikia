@@ -113,7 +113,7 @@
 | Passive 9 icon = Regenerate HP
 | Passive 9 name = Mana Spring Aura [XV]
 | Passive 9 name JP = マナスプリングオーラ[XV]
-| Passive 9 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn)
+| Passive 9 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn from start of battle)
 
 | Passive 10 icon = Doppel Damage Up
 | Passive 10 name = Doppel Adept [IV]

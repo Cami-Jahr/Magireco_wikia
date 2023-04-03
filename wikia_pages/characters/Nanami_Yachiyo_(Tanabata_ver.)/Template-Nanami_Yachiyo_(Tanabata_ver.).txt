@@ -133,7 +133,7 @@
 | Passive 13 icon = Damage Cut
 | Passive 13 name = Shield Aura [III]
 | Passive 13 name JP = シールドオーラ[Ⅲ]
-| Passive 13 effect = Damage Cut [III / 15%] (Self / 3 Turns)
+| Passive 13 effect = Damage Cut [III / 15%] (Self / 3 Turns from start of battle)
 
 | Active 1 icon = Charge Draw
 | Active 1 name = Charge Draw

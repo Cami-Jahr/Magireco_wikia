@@ -118,7 +118,7 @@
 | Passive 10 icon = Forest Attribute Attack Up
 | Passive 10 name = Timber Aura [V]
 | Passive 10 name JP = ティンバーオーラ[Ⅴ]
-| Passive 10 effect = Forest Attribute Attack Up [V / 15%] (Allies / 5 Turns)
+| Passive 10 effect = Forest Attribute Attack Up [V / 15%] (Allies / 5 Turns from start of battle)
 
 | Passive 11 icon = Anti-Magia Seal
 | Passive 11 name = Anti-Seal Magia

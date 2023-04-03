@@ -128,7 +128,7 @@
 | Passive 12 icon = Regenerate HP
 | Passive 12 name = Neatness Aura [V]
 | Passive 12 name JP = ニートネス・オーラ[Ⅴ]
-| Passive 12 effect = Regenerate HP [V / 6%] & Status Ailment Resistance Up [II / 15%] (Allies / 5 Turns)
+| Passive 12 effect = Regenerate HP [V / 6%] & Status Ailment Resistance Up [II / 15%] (Allies / 5 Turns from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

@@ -108,7 +108,7 @@
 | Passive 8 icon = Anti-Debuff
 | Passive 8 name = Anti-Debuff
 | Passive 8 name JP = アンチ・デバフ
-| Passive 8 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
+| Passive 8 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns from start of battle)
 
 | Passive 9 icon = Skill Quicken
 | Passive 9 name = Skill Quick [III]

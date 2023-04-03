@@ -123,7 +123,7 @@
 | Passive 11 icon = Accele MP Gain Up
 | Passive 11 name = Accele Force Adept [III]
 | Passive 11 name JP = アクセルフォースアデプト[Ⅲ]
-| Passive 11 effect = Accele MP Gain Up [III / 15%] & Chance to Critical Hit [III / 20%] (Self / 3 Turns)
+| Passive 11 effect = Accele MP Gain Up [III / 15%] & Chance to Critical Hit [III / 20%] (Self / 3 Turns from start of battle)
 
 | Passive 12 icon = Magia Damage Up
 | Passive 12 name = Magia Adept [III]

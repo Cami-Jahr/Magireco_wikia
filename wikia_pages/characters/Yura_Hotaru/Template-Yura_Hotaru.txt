@@ -118,7 +118,7 @@
 | Passive 10 icon = Anti-Debuff
 | Passive 10 name = Anti-Debuff
 | Passive 10 name JP = アンチ・デバフ
-| Passive 10 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
+| Passive 10 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns from start of battle)
 
 | Passive 11 icon = Doppel Damage Up
 | Passive 11 name = Doppel Adept [I]

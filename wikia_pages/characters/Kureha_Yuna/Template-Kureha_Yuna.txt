@@ -128,7 +128,7 @@
 | Passive 12 icon = Blast Damage Up
 | Passive 12 name = Weapon Blast Aura [II]
 | Passive 12 name JP = ウェポンブラストオーラ[Ⅱ]
-| Passive 12 effect = Blast Damage Up [II / 20%] & Damage Increase [I / 15%] (Allies / 5 Turns)
+| Passive 12 effect = Blast Damage Up [II / 20%] & Damage Increase [I / 15%] (Allies / 5 Turns from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

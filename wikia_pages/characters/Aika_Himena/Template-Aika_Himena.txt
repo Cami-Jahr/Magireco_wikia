@@ -123,12 +123,12 @@
 | Passive 11 icon = Regenerate HP
 | Passive 11 name = Mana Spring Aura [V]
 | Passive 11 name JP = マナスプリングオーラ[Ⅴ]
-| Passive 11 effect = Regenerate MP [V / 9 MP] (Self / 3 Turns)
+| Passive 11 effect = Regenerate MP [V / 9 MP] (Self / 3 Turns from start of battle)
 
 | Passive 12 icon = Aqua Attribute Attack Up
 | Passive 12 name = Aqua Aura [V]
 | Passive 12 name JP = アクアオーラ[Ⅴ]
-| Passive 12 effect = Aqua Attribute Attack Up [V / 15%] (Allies / 5 Turns)
+| Passive 12 effect = Aqua Attribute Attack Up [V / 15%] (Allies / 5 Turns from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

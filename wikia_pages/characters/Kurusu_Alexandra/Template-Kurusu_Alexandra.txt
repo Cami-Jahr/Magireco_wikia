@@ -113,7 +113,7 @@
 | Passive 9 icon = Anti-Debuff
 | Passive 9 name = Anti-Debuff
 | Passive 9 name JP = アンチ・デバフ
-| Passive 9 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns)
+| Passive 9 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns from start of battle)
 
 | Passive 10 icon = Skill Quicken
 | Passive 10 name = Skill Quick [II]
@@ -128,7 +128,7 @@
 | Passive 12 icon = Status Ailment Resistance Up
 | Passive 12 name = Gram ImmunityAura [II]
 | Passive 12 name JP = グラムイミュニティオーラ[Ⅱ]
-| Passive 12 effect = Status Ailment Resistance Up [II / 15%] & Accele MP Gain Up [I / 10%] (Allies / 5 Turns)
+| Passive 12 effect = Status Ailment Resistance Up [II / 15%] & Accele MP Gain Up [I / 10%] (Allies / 5 Turns from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

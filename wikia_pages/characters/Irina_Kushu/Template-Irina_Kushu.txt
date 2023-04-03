@@ -128,7 +128,7 @@
 | Passive 12 icon = Doppel Damage Up
 | Passive 12 name = Doppel Aura [VI]
 | Passive 12 name JP = ドッペルオーラ[Ⅵ]
-| Passive 12 effect = Doppel Damage Up [VI / 30%] & Magia Damage Up [V / 15%] (Self / 5 Turns)
+| Passive 12 effect = Doppel Damage Up [VI / 30%] & Magia Damage Up [V / 15%] (Self / 5 Turns from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

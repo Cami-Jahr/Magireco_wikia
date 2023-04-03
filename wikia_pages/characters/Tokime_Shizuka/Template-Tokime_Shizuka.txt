@@ -128,7 +128,7 @@
 | Passive 12 icon = Attack Up
 | Passive 12 name = Bloom Aura [V]
 | Passive 12 name JP = ブルームオーラ[Ⅴ]
-| Passive 12 effect = Attack Up [V / 15%] & Defense Up [V / 15%] (Allies / 5 Turns)
+| Passive 12 effect = Attack Up [V / 15%] & Defense Up [V / 15%] (Allies / 5 Turns from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

@@ -113,12 +113,12 @@
 | Passive 9 icon = Accele MP Gain Up
 | Passive 9 name = All Disc Aura [III]
 | Passive 9 name JP = オールディスクオーラ[Ⅲ]
-| Passive 9 effect = Accele MP Gain Up [III / 15%] & Charged Attack Damage Up [III / 15%] & Blast Damage Up [III / 25%] (Allies / 5 Turns)
+| Passive 9 effect = Accele MP Gain Up [III / 15%] & Charged Attack Damage Up [III / 15%] & Blast Damage Up [III / 25%] (Allies / 5 Turns from start of battle)
 
 | Passive 10 icon = Negate Status Ailments
 | Passive 10 name = Anti-Magic Aura
 | Passive 10 name JP = アンチマジックオーラ
-| Passive 10 effect = Negate Status Ailments [2 Status Ailments] & Anti-Debuff [2 Debuffs] (Allies / 5 Turns)
+| Passive 10 effect = Negate Status Ailments [2 Status Ailments] & Anti-Debuff [2 Debuffs] (Allies / 5 Turns from start of battle)
 
 | Passive 11 icon = Status Ailment Resistance Up
 | Passive 11 name = Resist Adept [II]

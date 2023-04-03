@@ -118,7 +118,7 @@
 | Passive 10 icon = Skill Quicken
 | Passive 10 name = Skill Quicken Aura
 | Passive 10 name JP = スキルクイックオーラ
-| Passive 10 effect = Skill Quicken (Self / 1 Turn)
+| Passive 10 effect = Skill Quicken (Self / 1 Turn from start of battle)
 
 | Passive 11 icon = MP Gauge Increased On Battle Start
 | Passive 11 name = Fast Mana Up

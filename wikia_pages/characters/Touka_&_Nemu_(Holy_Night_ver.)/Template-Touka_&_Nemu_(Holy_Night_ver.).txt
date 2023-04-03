@@ -108,7 +108,7 @@
 | Passive 8 icon = Negate Status Ailments
 | Passive 8 name = Resist Shield Aura
 | Passive 8 name JP = レジストシールドオーラ
-| Passive 8 effect = Negate Status Ailments [2 Status Ailments] (Self / 5 Turns)
+| Passive 8 effect = Negate Status Ailments [2 Status Ailments] (Self / 5 Turns from start of battle)
 
 | Passive 9 icon = Skill Quicken
 | Passive 9 name = Skill Quick [II]
@@ -128,7 +128,7 @@
 | Passive 12 icon = Damage Cut
 | Passive 12 name = Light Shield Aura [III]
 | Passive 12 name JP = ライトシールドオーラ[Ⅲ]
-| Passive 12 effect = Damage Cut [III / 15%] & Light Attribute Damage Cut [III / 15%] (Self / 5 Turns)
+| Passive 12 effect = Damage Cut [III / 15%] & Light Attribute Damage Cut [III / 15%] (Self / 5 Turns from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

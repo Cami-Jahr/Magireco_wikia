@@ -128,7 +128,7 @@
 | Passive 12 icon = Flame Attribute Attack Up
 | Passive 12 name = Flame Full Swing Up [V]
 | Passive 12 name JP = フレイム・フルスウィング[Ⅴ]
-| Passive 12 effect = Flame Attribute Attack Up [V / 15%] & Blast Damage Up [I / 15%] & Charged Attack Damage Up [I / 10%] (Allies / 5 Turns)
+| Passive 12 effect = Flame Attribute Attack Up [V / 15%] & Blast Damage Up [I / 15%] & Charged Attack Damage Up [I / 10%] (Allies / 5 Turns from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

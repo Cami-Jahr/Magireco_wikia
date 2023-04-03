@@ -123,12 +123,12 @@
 | Passive 11 icon = Doppel Damage Up
 | Passive 11 name = Doppel Aura [VI]
 | Passive 11 name JP = ドッペルオーラ[Ⅵ]
-| Passive 11 effect = Doppel Damage Up [VI / 30%] & Magia Damage Up [V / 15%] (Self / 5 Turns)
+| Passive 11 effect = Doppel Damage Up [VI / 30%] & Magia Damage Up [V / 15%] (Self / 5 Turns from start of battle)
 
 | Passive 12 icon = Regenerate HP
 | Passive 12 name = Mana Spring Aura [XV]
 | Passive 12 name JP = マナスプリングオーラ[XV]
-| Passive 12 effect = Regenerate MP [XV / 50 MP] (Self / 2 Turns)
+| Passive 12 effect = Regenerate MP [XV / 50 MP] (Self / 2 Turns from start of battle)
 
 | Passive 13 icon = 
 | Passive 13 name = 

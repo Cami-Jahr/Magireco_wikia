@@ -113,7 +113,7 @@
 | Passive 9 icon = Evade
 | Passive 9 name = Parry Aura [IX]
 | Passive 9 name JP = パリィオーラ[Ⅸ]
-| Passive 9 effect = Chance to Evade [IX / 50%] (Self / 5 Turns)
+| Passive 9 effect = Chance to Evade [IX / 50%] (Self / 5 Turns from start of battle)
 
 | Passive 10 icon = Accele MP Gain Up
 | Passive 10 name = Accele Adept [V]

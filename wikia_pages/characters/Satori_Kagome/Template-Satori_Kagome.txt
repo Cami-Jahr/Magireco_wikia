@@ -118,7 +118,7 @@
 | Passive 10 icon = Aqua Attribute Damage Cut
 | Passive 10 name = Aqua Shield Aura [III]
 | Passive 10 name JP = アクアシールド・オーラ[Ⅲ]
-| Passive 10 effect = Aqua Attribute Damage Cut [III / 15%] (Allies / 5 Turns)
+| Passive 10 effect = Aqua Attribute Damage Cut [III / 15%] (Allies / 5 Turns from start of battle)
 
 | Passive 11 icon = Dazzle on Attack
 | Passive 11 name = Mesmerize Edge [III]

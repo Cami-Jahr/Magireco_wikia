@@ -113,7 +113,7 @@
 | Passive 9 icon = Regenerate HP
 | Passive 9 name = Mana Spring Aura [V]
 | Passive 9 name JP = マナスプリングオーラ[Ⅴ]
-| Passive 9 effect = Regenerate MP [V / 9 MP] (Self / 3 Turns)
+| Passive 9 effect = Regenerate MP [V / 9 MP] (Self / 3 Turns from start of battle)
 
 | Passive 10 icon = MP Gauge Increased On Battle Start
 | Passive 10 name = Fast Mana Up
