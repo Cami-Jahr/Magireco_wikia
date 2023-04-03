@@ -214,7 +214,7 @@ def print_max(rank, type, hp, attack, defense):
     return h, a, d
 
 
-def format_info(_id):
+def format_info(_id: int):
     characters = get_char_list()
     with open("jsons/charaCard.json", "r", encoding="utf-8-sig") as f:
         info_dict = loads(f.read())
@@ -302,7 +302,7 @@ def format_info(_id):
     return textS + t2 + t3 + t4 + t1 + t5 + textE
 
 
-def make_magia_doppel_and_connect(dic, cards):
+def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
     connect_name = magia_name = doppel_name = connect_icon = magia_icon = doppel_title = doppel_designer = ""
     all_connect_effects = defaultdict(int)
     all_megia_effects = defaultdict(int)
@@ -543,7 +543,7 @@ def make_spirit_enchantment(cells: list[dict]):
     return stats + passive_output + active_output
 
 
-def combine_similar_effects(all_megia_effects, magias, magia_scalings = None):
+def combine_similar_effects(all_megia_effects: list[str], magias: list[dict], magia_scalings: dict = None):
     """If e.g. Magia 1 / 3 has Def+ to Self while Magia 2/4 has Def+ to Allies this function combines them"""
     occurrences_of_type = defaultdict(int)
     for eff in all_megia_effects:

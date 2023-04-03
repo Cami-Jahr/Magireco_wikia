@@ -71,14 +71,14 @@ good = {
     "DAMAGE_DOWN_LIGHT": ("Light Attribute Damage Cut", True, False),
     "DAMAGE_DOWN_WATER": ("Aqua Attribute Damage Cut", True, False),
     "DAMAGE_DOWN_VOID": ("Void Attribute Damage Cut", True, False),
-    "C_COMBO_PLUS": ("Charge Combo Charge Count Up (+1 / cannot be repeated)", False, False),
+    "C_COMBO_PLUS": ("Charge Combo Charge Count Up", False, False),
     "MP_PLUS_DAMAGED": ("MP Up When Damaged", True, False),
     "DAMAGE_UP_BAD": ("Damage Up Versus Enemies Affected With Status Ailments", True, False),
     "SURVIVE": ("Survive", True, False),
     "MP_PLUS_BLAST": ("Blast MP Gain Up", True, False),
     "DAMAGE_UP": ("Damage Increase", True, False),
     "ATTACK_UP": ("Attack Up", True, False),
-    "IMITATE_ATTRIBUTE": ("Imitate Attribute", True, False),
+    "IMITATE_ATTRIBUTE": ("Variable", True, False),
     "NO_COST_CHARGE": ("Charge Conservation", True, False),
     "BARRIER": ("Barrier", True, False),
     "REFLECT_DEBUFF": ("Reflect", True, False),
@@ -561,23 +561,26 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                         effect = val
                     elif verb_code in ("DRAW",) or effect_code in ("GUTS",):
                         effect = ""
+                    elif effect_code in ("C_COMBO_PLUS",):
+                        effect = int(val/100)
                     else:
                         effect = pro
                 elif verb_code in ("ENCHANT", "CONDITION_BAD", "IGNORE") or effect_code in ("COUNTER", "PURSUE"):
                     effect = pro
                 else:
                     effect = val
-                if verb_code in ("IGNORE", "ENCHANT") or (verb_code == "CONDITION_GOOD" and effect_code in CHANCE_SKILLS):
+                if verb_code == "IGNORE" or (verb_code == "CONDITION_GOOD" and (
+                        effect_code in CHANCE_SKILLS or effect_code == "IMITATE_ATTRIBUTE")):
                     if pro < 100:
                         text = "Chance to " + text
                     else:
                         effect = ""
                         uses_roman = False
-                elif verb_code == "CONDITION_BAD" and effect_code in bad:
+                elif (verb_code == "CONDITION_BAD" and effect_code in bad) or verb_code == "ENCHANT":
                     text = "Chance to " + text
                     if pro >= 100:
                         uses_roman = False
-            if include_100_percent and effect == "" and verb_code not in ("REVOKE",):
+            if include_100_percent and effect == "" and verb_code not in ("REVOKE",) and effect_code not in ("IMITATE_ATTRIBUTE",):
                 effect = "100"
 
             if effect != "":
@@ -590,6 +593,8 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                             effect = f"{romans[idx - 1]} / {effect}%"
                         else:
                             effect = f"{effect}%"
+                elif effect_code == "C_COMBO_PLUS":
+                    effect = f"+{effect}"
                 else:
                     effect = f"{effect}%"
 
@@ -606,20 +611,20 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                 percentage_growth = percentage_growth.replace("%", " MP")
             elif verb_code in ("RESURRECT",) or effect_code in ("SURVIVE",):
                 effect = effect.replace("%", "% HP")
-                percentage_growth = percentage_growth.replace("%", "% HP")
+                if percentage_growth != "0%":
+                    percentage_growth = percentage_growth.replace("%", "% HP")
             if text == "Damage Up" and "状態" in shortDescription:
                 text = "Damage Increase"
-
-            if effect_code in ("COUNTER",) and val > 100:
+            elif effect_code in ("COUNTER",) and val > 100:
                 text = "Strengthened Counter"
-            if effect_code in ("POISON",) and val >= 30:
+            elif effect_code in ("POISON",) and val >= 30:
                 text = text.replace("Poison", "Strengthened Poison")
-            if effect_code in ("CURSE",) and val >= 30:
+            elif effect_code in ("CURSE",) and val >= 30:
                 text = text.replace("Curse", "Strengthened Curse")
-            if effect_code in ("BARRIER",):
+            elif effect_code in ("BARRIER",):
                 effect = effect.replace("%", "0 damage")
 
-            if verb_code in ("IGNORE",):
+            elif verb_code in ("IGNORE",):
                 nr = art_ids.count(art_id)
                 if effect_code in ("DEBUFF",):
                     effect = f"{nr} Debuff{'s' if nr > 1 else ''}"
@@ -641,7 +646,8 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                 target_wording = f"{target} / {turns} Turn{'s' if turns != 1 else ''}"
             elif turns:
                 target_wording = f"{turns} Turn{'s' if turns != 1 else ''}"
-            elif target and (target != "Self" and not no_states_target) or verb_code in ("REVOKE",):
+            elif target and ((target != "Self" and not no_states_target) or verb_code in ("REVOKE",) or (
+                    effect_code == "MP" and verb_code == "HEAL")):
                 target_wording = str(target)
             else:
                 target_wording = ""
@@ -657,11 +663,10 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
             print("Missing roman in", shortDescription, romans, art)
             raise e
         first_effect = False
-
     return effects, icon
 
 
-def remove_repeated_target(effects):
+def remove_repeated_target(effects: dict):
     """Remove target if it's repeated multiple times"""
     prev_turn_counter = "TEMPLATE"
     for key in reversed(list(effects.keys())):
