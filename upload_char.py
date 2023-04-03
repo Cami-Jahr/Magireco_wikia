@@ -25,7 +25,8 @@ Magical Girl =
 
 trivia_base = """==[[Magia Archive]] Profile==
 ''Not yet featured in Magia Archive.''
-<!--*Hometown:*Age: 
+<!--*Hometown:
+*Age: 
 *Height:
 *Weapon:
 *Ability:

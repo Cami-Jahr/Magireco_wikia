@@ -336,6 +336,8 @@ jp_to_en = {
     "リーンホース": "Reinforce",
     "ハウリングロアー": "Howling Roar",
     "リムーブスペル": "Remove Spell",
+    "ダークフォール": "Dark Fall",
+    "ファーストエイド": "First Aid",
     "アンチ・": "Anti-",
     "・": " ",
     "[": " [",

@@ -183,7 +183,7 @@ def calculate_max(rank: int, _type: str, attack: int, defense: int, hp: int):
     return int(attack + attack * e * atk_mod), int(defense + defense * e * def_mod), int(hp + hp * e * hp_mod)
 
 
-def calculate_min(rank, _type, attack, defense, hp):
+def calculate_min(rank: int, _type: str, attack: int, defense: int, hp: int):
     e = get_multiplier("RANK_{}".format(rank), 0)
     g, h, k = calculate_growth_curve(_type)
     _a = attack / (1 + (e * g))
