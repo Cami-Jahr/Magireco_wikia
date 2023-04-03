@@ -131,7 +131,7 @@ star5 = [0, .03, .06, .09, .12, .15, .18, .21, .24, .27, .3, .33, .36, .39, .42,
     2.54, 2.57, 2.6, 2.63, 2.66, 2.69, 2.72, 2.75, 2.78, 2.81, 2.84, 2.87, 2.9, 2.93, 2.96, 3]
 
 
-def get_multiplier(rank, level):
+def get_multiplier(rank: str, level: int):
     if rank == "RANK_1":
         return star1[level - 1]
     elif rank == "RANK_2":
@@ -146,7 +146,7 @@ def get_multiplier(rank, level):
         return 1
 
 
-def calculate_growth_curve(_type):
+def calculate_growth_curve(_type: str):
     hp_mod = 1
     def_mod = 1
     atk_mod = 1
@@ -177,15 +177,15 @@ def calculate_growth_curve(_type):
     return atk_mod, def_mod, hp_mod
 
 
-def calculate_max(rank, _type, attack, defense, hp):
+def calculate_max(rank: int, _type: str, attack: int, defense: int, hp: int):
     e = get_multiplier("RANK_{}".format(rank), 0)
     atk_mod, def_mod, hp_mod = calculate_growth_curve(_type)
     return int(attack + attack * e * atk_mod), int(defense + defense * e * def_mod), int(hp + hp * e * hp_mod)
 
 
-def calculate_min(rank, type, attack, defense, hp):
+def calculate_min(rank, _type, attack, defense, hp):
     e = get_multiplier("RANK_{}".format(rank), 0)
-    g, h, k = calculate_growth_curve(type)
+    g, h, k = calculate_growth_curve(_type)
     _a = attack / (1 + (e * g))
     _d = defense / (1 + (e * h))
     _h = hp / (1 + (e * k))
@@ -204,13 +204,13 @@ def calculate_min(rank, type, attack, defense, hp):
     return _a, _d, _h
 
 
-def print_min(rank, type, hp, attack, defense):
-    a, d, h = calculate_min(rank, type, attack, defense, hp)
+def print_min(rank, _type, hp, attack, defense):
+    a, d, h = calculate_min(rank, _type, attack, defense, hp)
     return h, a, d
 
 
-def print_max(rank, type, hp, attack, defense):
-    a, d, h = calculate_max(rank, type, attack, defense, hp)
+def print_max(rank: int, _type: str, hp: int, attack: int, defense: int):
+    a, d, h = calculate_max(rank, _type, attack, defense, hp)
     return h, a, d
 
 
@@ -305,7 +305,7 @@ def format_info(_id: int):
 def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
     connect_name = magia_name = doppel_name = connect_icon = magia_icon = doppel_title = doppel_designer = ""
     all_connect_effects = defaultdict(int)
-    all_megia_effects = defaultdict(int)
+    all_magia_effects = defaultdict(int)
     all_doppel_effects = defaultdict(int)
     magia_scalings = {}
     connects = []
@@ -339,7 +339,7 @@ def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
         magia_effects, magia_icon = translate(magia["shortDescription"], arts, False, True)
         for e in magia_effects:
             magia_scalings[e] = "-" if magia_effects[e][2].replace("%", "").strip() == "0" else magia_effects[e][2]
-            all_megia_effects[e] += 1
+            all_magia_effects[e] += 1
         magias.append(magia_effects)
         if rank == 5:
             doppel_arts = dic[card]["doppelCardMagia"]
@@ -385,7 +385,7 @@ def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
                 break
             connect_string += connect_item_template.format(i + 1, j, "100%" if st.strip() == "" else st)
 
-    all_megia_effects = [e for e, i in sorted(all_megia_effects.items(), key=lambda x: x[1], reverse=True)]
+    all_magia_effects = [e for e, i in sorted(all_magia_effects.items(), key=lambda x: x[1], reverse=True)]
     magia_effect_template = """| Magia effect {0} = {1}
 | Magia scaling {0} = {2}
 """
@@ -398,12 +398,12 @@ def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
 | Magia icon = {}
 """.format(magia_name, magia_icon)
 
-    combine_similar_effects(all_megia_effects, magias, magia_scalings)
-    for i in range(len(all_megia_effects)):
-        magia_string += magia_effect_template.format(i + 1, all_megia_effects[i][:-1], magia_scalings[all_megia_effects[i]])
+    combine_similar_effects(all_magia_effects, magias, magia_scalings)
+    for i in range(len(all_magia_effects)):
+        magia_string += magia_effect_template.format(i + 1, all_magia_effects[i][:-1], magia_scalings[all_magia_effects[i]])
         for j in range(1, len(magias) + 1):
             try:
-                word = magias[-j][all_megia_effects[i]]
+                word = magias[-j][all_magia_effects[i]]
                 if word[1] == "1 Turn" or not word[1]:
                     st = word[0]
                 elif word[0].replace("%", "").replace("0", "").strip() == "":
@@ -543,10 +543,10 @@ def make_spirit_enchantment(cells: list[dict]):
     return stats + passive_output + active_output
 
 
-def combine_similar_effects(all_megia_effects: list[str], magias: list[dict], magia_scalings: dict = None):
+def combine_similar_effects(all_magia_effects: list[str], magias: list[dict], magia_scalings: dict = None):
     """If e.g. Magia 1 / 3 has Def+ to Self while Magia 2/4 has Def+ to Allies this function combines them"""
     occurrences_of_type = defaultdict(int)
-    for eff in all_megia_effects:
+    for eff in all_magia_effects:
         occurrences_of_type[get_base_effect(eff)[1]] += 1
     to_combine = {}
 
@@ -565,14 +565,14 @@ def combine_similar_effects(all_megia_effects: list[str], magias: list[dict], ma
             replacements = {}
             use_chance = {}
 
-            for eff in all_megia_effects:
+            for eff in all_magia_effects:
                 if get_base_effect(eff)[1] == effect_type:
                     has_chance, effect = get_base_effect(eff)
                     new_eff = effect + "X"
                     replacements[eff] = new_eff
                     use_chance[new_eff] = (new_eff in use_chance and use_chance[new_eff]) or has_chance
 
-            for eff in all_megia_effects:
+            for eff in all_magia_effects:
                 if get_base_effect(eff)[1] == effect_type:
                     effect = get_base_effect(eff)[1] + "X"
                     if effect in use_chance and use_chance[effect]:
@@ -586,16 +586,16 @@ def combine_similar_effects(all_megia_effects: list[str], magias: list[dict], ma
             for old_eff, new_eff in replacements.items():
                 if new_eff in use_chance and use_chance[new_eff]:
                     new_eff = "Chance to " + new_eff
-                if new_eff not in all_megia_effects:
-                    all_megia_effects[all_megia_effects.index(old_eff)] = new_eff
+                if new_eff not in all_magia_effects:
+                    all_magia_effects[all_magia_effects.index(old_eff)] = new_eff
                 else:
-                    all_megia_effects.remove(old_eff)
+                    all_magia_effects.remove(old_eff)
                 if magia_scalings:
                     magia_scalings[new_eff] = magia_scalings[old_eff]
                     del magia_scalings[old_eff]
 
 
-def get_base_effect(effect):
+def get_base_effect(effect: str):
     if "Chance to " in effect:
         return True, effect[:-1].replace("Chance to ", "")
     return False, effect[:-1]

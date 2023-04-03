@@ -647,7 +647,7 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
             elif turns:
                 target_wording = f"{turns} Turn{'s' if turns != 1 else ''}"
             elif target and ((target != "Self" and not no_states_target) or verb_code in ("REVOKE",) or (
-                    effect_code == "MP" and verb_code == "HEAL")):
+                    effect_code in ("HP", "MP") and verb_code == "HEAL")):
                 target_wording = str(target)
             else:
                 target_wording = ""

@@ -23,29 +23,31 @@ Magical Girl =
 </tabber>
 """
 
+trivia_base = """==[[Magia Archive]] Profile==
+''Not yet featured in Magia Archive.''
+<!--*Hometown:*Age: 
+*Height:
+*Weapon:
+*Ability:
+*Soul Gem Location:-->
+{{SideStory
+|Side Story Translation Link = 
+|Side Story = 
+}}"""
 
-def trivia_section(char):
-    text = "==[[Magia Archive]] Profile==\n''Not yet featured in Magia Archive.''\n<!--*Hometown:\n*Age: \n*Height:\n*Weapon:\n*Ability:\n*Soul Gem " \
-           "Location:-->\n{{SideStory\n|Side Story Translation Link = \n|Side Story = \n}}"
-    return text
 
-
-def voice_section(char, text):
-    return text
-
-
-def upgrades_section(char, text):
-    stats = "{{" + """{} Items|Items""".format(char.replace("_", " ")) + "}}"
+def upgrades_section(char_name: str, text: str):
+    stats = "{{" + """{} Items|Items""".format(char_name.replace("_", " ")) + "}}"
     return text, stats
 
 
-def main_section(char, stats, text):
-    text = "{{" + char + "}}" + "\n\n{{Description\n| en = \n| na = \n| jp = " + text + "\n}}\n\n{{Tabs}}"
+def main_section(char_name: str, stats: str, text: str):
+    text = "{{" + char_name + "}}" + "\n\n{{Description\n| en = \n| na = \n| jp = " + text + "\n}}\n\n{{Tabs}}"
     return stats, text
 
 
-def abilities_section(char, doppel_story):
-    text = "{{" + char + "|Abilities}}"
+def abilities_section(char_name: str, doppel_story: str):
+    text = "{{" + char_name + "|Abilities}}"
     if doppel_story:
         text += "\n\n{{Description\n| en = \n| na = \n| jp = " + doppel_story + "\n}}"
     return text
@@ -75,8 +77,8 @@ if __name__ == '__main__':
         main_temp_text, main_page_text = main_section(ch, read_stats.format_info(i), formatted_trivia[i][0])
         ability_page_text = abilities_section(ch, formatted_trivia[i][1])
         upgrade_temp_text, upgrade_page_text = upgrades_section(ch, formatted_mats[i])
-        trivia_text = trivia_section(ch)
-        voice_page_text = voice_section(ch, formatted_voice[i])
+        # Trivia text template defined above
+        voice_page_text = formatted_voice[i]
 
         for page, text in (
                 (f"Template-{ch}", main_temp_text),
@@ -84,7 +86,7 @@ if __name__ == '__main__':
                 (f"{ch}", main_page_text),
                 (f"{ch}-Abilities", ability_page_text),
                 (f"{ch}-Upgrades", upgrade_page_text),
-                (f"{ch}-Trivia", trivia_text),
+                (f"{ch}-Trivia", trivia_base),
                 (f"{ch}-Costumes", costume_base),
                 (f"{ch}-Gallery", galley_base),
                 (f"{ch}-Quotes", voice_page_text)):
