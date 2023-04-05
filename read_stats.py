@@ -98,9 +98,9 @@ types = {
     "BALANCE": "Balance",
     "ATTACK": "Attack",
     "DEFENSE": "Defense",
-    "ULTIMATE": '"Ultimate"',
+    "ULTIMATE": "Ultimate",
     "EXCEED": "Exceed",
-    "ARUTEMETTO": "Ultimate",
+    "ARUTEMETTO": '"Ultimate"',
     "AKUMA": "Akuma",
     "INFINITE": "Infinite",
     "MUGENDAI": '"Infinite"'
