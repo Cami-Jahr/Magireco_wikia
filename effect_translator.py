@@ -198,6 +198,7 @@ debuff = {
     "MAGIA": ("Magia Damage Down", True, False),
     "ACCEL": ("Accele MP Gain Down", True, False),
     "BLAST": ("Blast Damage Down", True, False),
+    "CHARGE": ("Charged Attack Damage Down", True, False)
 }
 
 buff_hpmax = {
@@ -338,6 +339,8 @@ jp_to_en = {
     "リムーブスペル": "Remove Spell",
     "ダークフォール": "Dark Fall",
     "ファーストエイド": "First Aid",
+    "テンペスト": "Tempest",
+    "無限大の可能性": "Infinite Possibilities",
     "アンチ・": "Anti-",
     "・": " ",
     "[": " [",
@@ -435,6 +438,7 @@ jp_to_en = {
     "インデュア": "Endure",
     "エピソード": "Episode",
     "ウェポン": "Weapon",
+    "リーサル": "Lethal",
 }
 
 # Subset of good effect's that might be chance to happen

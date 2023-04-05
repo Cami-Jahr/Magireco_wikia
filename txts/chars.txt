@@ -80,6 +80,7 @@
 1402;Nanami Yachiyo (Fairy Tale ver.)
 1501;Tamaki Iroha (Anime ver.)
 1601;Infinite Iroha
+1701;Infinity Iroha-chan
 2001;Kaname Madoka
 2002;Akemi Homura
 2003;Akemi Homura (Megane ver.)

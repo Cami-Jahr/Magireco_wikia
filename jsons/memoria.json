@@ -67523,5 +67523,273 @@
     "description": "人生がもしも１冊の本だったなら、私の物語はどんなだろう？＠いったい今は何ページ目で、どんな結末が待っているんだろう？＠きっと、これからたくさんのことが起きるだろうけれど＠どんな形になっても、それは私「環いろは」にとって愛しい物語になる",
     "illustrator": "谷口淳一郎",
     "openDate": "2023/03/24 00:00:00"
+  },
+  "1882": {
+    "pieceId": 1882,
+    "rank": "RANK_4",
+    "__update__": "2023-04-05T07:14:37.897Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "直列コネクト",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 860,
+    "hp": 940,
+    "skillId": 188200,
+    "pieceSkill": {
+      "id": 188200,
+      "groupId": 1119,
+      "name": "テンペスト[Ⅸ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "ダメージアップ状態[Ⅸ] & ドッペルダメージUP[Ⅱ](自/1T)",
+      "messageId": 70,
+      "artId1": 610206109,
+      "art1": {
+        "artId": 610206109,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 450,
+        "enableTurn": 1,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 310218302,
+      "art2": {
+        "artId": 310218302,
+        "verbCode": "BUFF",
+        "effectCode": "DOPPEL",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 1,
+        "growPoint": 0
+      },
+      "eventId": 1189,
+      "eventArtId1": 1189003,
+      "eventArt1": {
+        "artId": 1189003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1189_KEY"
+      },
+      "eventDescription": "＆「from外宇宙」追加獲得数＋5",
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 188201,
+    "pieceSkill2": {
+      "id": 188201,
+      "groupId": 1119,
+      "name": "テンペスト[Ⅹ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "ダメージアップ状態[Ⅹ] & ドッペルダメージUP[Ⅲ](自/1T)",
+      "messageId": 70,
+      "artId1": 610206110,
+      "art1": {
+        "artId": 610206110,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 500,
+        "enableTurn": 1,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 310218303,
+      "art2": {
+        "artId": 310218303,
+        "verbCode": "BUFF",
+        "effectCode": "DOPPEL",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 0
+      },
+      "eventId": 1189,
+      "eventArtId1": 1189004,
+      "eventArt1": {
+        "artId": 1189004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1189_KEY"
+      },
+      "eventDescription": "＆「from外宇宙」追加獲得数＋15",
+      "skillEffectRange": "ALL"
+    },
+    "description": "「まずは私がいて、その次に私がいて、そしてまた私がいて…＠気がついたらぐるりと一周コネクトして無限大な私が完成！＠直列でつながれば並列よりも強烈！＠間違いありません…私たちならどんなレアリティも引けるはず！」",
+    "illustrator": "PAPA",
+    "openDate": "2023/04/05 15:10:00"
+  },
+  "1883": {
+    "pieceId": 1883,
+    "rank": "RANK_3",
+    "__update__": "2023-04-05T07:14:37.896Z",
+    "pieceType": "ABILITY",
+    "pieceName": "戻した時間は戻らない",
+    "attributeId": "ALL",
+    "attack": 680,
+    "defense": 0,
+    "hp": 650,
+    "skillId": 188300,
+    "pieceSkill": {
+      "id": 188300,
+      "groupId": 1085,
+      "name": "フルゲージ・ブルーム[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "HP最大時攻撃力UP[Ⅲ] & HP最大時防御力UP[Ⅲ]",
+      "artId1": 390203103,
+      "art1": {
+        "artId": 390203103,
+        "verbCode": "BUFF_HPMAX",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId2": 390203203,
+      "art2": {
+        "artId": 390203203,
+        "verbCode": "BUFF_HPMAX",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 188301,
+    "pieceSkill2": {
+      "id": 188301,
+      "groupId": 1085,
+      "name": "フルゲージ・ブルーム[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "HP最大時攻撃力UP[Ⅳ] & HP最大時防御力UP[Ⅳ]",
+      "artId1": 390203104,
+      "art1": {
+        "artId": 390203104,
+        "verbCode": "BUFF_HPMAX",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId2": 390203204,
+      "art2": {
+        "artId": 390203204,
+        "verbCode": "BUFF_HPMAX",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "「取り返しのつかないことって、ありますよね…例えばこの時の私＠楽しみにしていた豆腐ハンバーグを焦がしてしまって＠『巻き戻し』の能力を使って焦がす手前まで戻そうとしたのですが＠勢い余ってしまいまして…お皿の上には大豆が転がっていました…」",
+    "illustrator": "PAPA",
+    "openDate": "2023/04/05 15:10:00"
+  },
+  "1884": {
+    "pieceId": 1884,
+    "rank": "RANK_3",
+    "__update__": "2023-04-05T07:08:25.201Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "私の可能性",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 644,
+    "hp": 584,
+    "skillId": 188400,
+    "pieceSkill": {
+      "id": 188400,
+      "groupId": 1088,
+      "name": "ウィズダムアップ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "マギアダメージUP[Ⅴ] & スキルクイック(自/1T)",
+      "messageId": 70,
+      "artId1": 310201405,
+      "art1": {
+        "artId": 310201405,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 610207800,
+      "art2": {
+        "artId": 610207800,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "SKILL_QUICK",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "eventId": 1189,
+      "eventArtId1": 1189001,
+      "eventArt1": {
+        "artId": 1189001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1189_KEY"
+      },
+      "eventDescription": "＆「from外宇宙」追加獲得数＋1",
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 188401,
+    "pieceSkill2": {
+      "id": 188401,
+      "groupId": 1088,
+      "name": "ウィズダムアップ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "マギアダメージUP[Ⅴ] & スキルクイック(自/1T)",
+      "messageId": 70,
+      "artId1": 310201405,
+      "art1": {
+        "artId": 310201405,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 610207800,
+      "art2": {
+        "artId": 610207800,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "SKILL_QUICK",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "eventId": 1189,
+      "eventArtId1": 1189002,
+      "eventArt1": {
+        "artId": 1189002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1189_KEY"
+      },
+      "eventDescription": "＆「from外宇宙」追加獲得数＋5",
+      "skillEffectRange": "ALL"
+    },
+    "description": "「未来に向かって進化していく原初の姿…それが私『未完成いろは』！＠この道を歩いていけば、私も新たなステージに到達できるはず…＠おや？…随分とカクカクした人が前を歩いていますが…＠も、もしかして、あれが次世代の私…『３DCGいろは』ですか!?」",
+    "illustrator": "PAPA",
+    "openDate": "2023/04/05 15:10:00"
   }
 }

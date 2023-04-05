@@ -98,11 +98,12 @@ types = {
     "BALANCE": "Balance",
     "ATTACK": "Attack",
     "DEFENSE": "Defense",
-    "ULTIMATE": "Ultimate",
+    "ULTIMATE": '"Ultimate"',
     "EXCEED": "Exceed",
     "ARUTEMETTO": "Ultimate",
     "AKUMA": "Akuma",
     "INFINITE": "Infinite",
+    "MUGENDAI": '"Infinite"'
 }
 
 star1 = [0, .05, .1, .15, .2, .25, .3, .35, .41, .46, .51, .56, .61, .66, .71, .76, .82, .87, .92, .97, 1.02, 1.07,
