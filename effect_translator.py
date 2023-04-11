@@ -441,7 +441,7 @@ jp_to_en = {
     "リーサル": "Lethal",
 }
 
-# Subset of good effect's that might be chance to happen
+# Subset of good effects that might be chance to happen
 CHANCE_SKILLS = {"PURSUE", "AVOID", "PROVOKE", "CRITICAL", "PROTECT", "DEFENSE_IGNORED", "SKILL_QUICK", "COUNTER"}
 
 with open("existing_translations.json", "r", encoding="utf-8") as f:
@@ -498,6 +498,10 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                 text, uses_roman, no_states_target = sub[art["targetId"]]
             if not icon:
                 icon = text
+                if verb_code in ("BUFF_HPMAX", "BUFF_PARTY_DIE", "BUFF_DIE"):
+                    icon = str(icon.split()[0]) + " Up"
+                elif effect_code in ("AUTO_HEAL",) and "genericValue" in art and art["genericValue"] == "MP":
+                    icon = icon.replace("HP", "MP")
             if effect_code == "DUMMY":
                 continue
             try:
@@ -510,7 +514,11 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
 
             val = 0
             if "effectValue" in art:
-                val = round(art["effectValue"] / 10, 1)
+                if verb_code in ("TURN_ENEMY", "TURN_ALLY"):
+                    art["enableTurn"] = art["effectValue"]  # Extend buffs/debuffs lists its duration under effectValue
+                    del art["effectValue"]
+                else:
+                    val = round(art["effectValue"] / 10, 1)
             pro = 0
             if "probability" in art:
                 pro = round(art["probability"] / 10, 1)
@@ -525,8 +533,8 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                 target = target_tl[target_id]
                 # Differentiates between effects that target all allies or all enemies by whether they are beneficial
                 if target == 'All':
-                    if verb_code in ("CONDITION_GOOD", "BUFF", "IGNORE", "LIMITED_ENEMY_TYPE", "TURN_ALLY"
-                    ) or (verb_code == 'REVOKE' and effect_code in ("BAD", "DEBUFF")) or (
+                    if verb_code in ("CONDITION_GOOD", "BUFF", "IGNORE", "LIMITED_ENEMY_TYPE", "TURN_ALLY") or (
+                            verb_code == 'REVOKE' and effect_code in ("BAD", "DEBUFF")) or (
                             verb_code == "HEAL" and effect_code in ("HP", "MP")):
                         target = "Allies"
                     else:

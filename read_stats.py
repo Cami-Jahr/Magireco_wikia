@@ -494,22 +494,31 @@ def make_spirit_enchantment(cells: list[dict]):
                     effect_output += " & "
                 effect_output += effect[:-1]
                 if eng_effect[effect][0]:
+                    if cell["emotionSkill"]["skillEffectRange"] == "QUEST":
+                        eng_effect[effect][0] += " / Quest only"
                     effect_output += f" [{eng_effect[effect][0]}]"
+                elif cell["emotionSkill"]["skillEffectRange"] == "QUEST":
+                    effect_output += " [Quest only]"
                 if eng_effect[effect][1]:
+                    if effect == "Anti-DebuffS" and "∞" in eng_effect[effect][1]:  # target ID is still present here
+                        eng_effect[effect][1] = "∞ Turns"
                     effect_output += f" ({eng_effect[effect][1]})"
 
             skill_name_jp = cell["emotionSkill"]["name"].strip()
-            skill_name_en = skill_name_jp
-            skill_name_en = translate_jap_to_eng(skill_name_en)
+            skill_name_en = translate_jap_to_eng(skill_name_jp)
             skill_name_en = translate_roman_to_ascii(skill_name_en)
             for c in skill_name_en:
                 if ord(c) > 200:
                     print("missing translation?", repr(skill_name_en))
                     break
-            if cell["emotionSkill"]["type"] == "ABILITY":
+            if cell["emotionSkill"]["type"] in ("ABILITY", "STARTUP"):
                 if "on Attack" not in effect_output:
                     effect_output = effect_output.replace("Turns)", "Turns on Battle Start)")
                     effect_output = effect_output.replace("Turn)", "Turn on Battle Start)")
+                    if "Aura" in skill_name_en and '(' not in effect_output:
+                        effect_output += " (Self / ∞ Turns on Battle Start)"
+                    elif skill_name_en == "Resist Shield" and '(' not in effect_output:
+                        effect_output += " (∞ Turns on Battle Start)"
                 passive_output += passive_template.format(passive_amount, skill_name_jp, skill_name_en, icon, effect_output)
                 passive_amount += 1
             else:  # SKILL
