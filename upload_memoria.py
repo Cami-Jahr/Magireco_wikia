@@ -4,9 +4,7 @@ from json import loads
 from pathlib import Path
 
 from effect_translator import (
-    jp_to_en,
     remove_repeated_target,
-    roman_to_full,
     translate,
     translate_jap_to_eng,
     translate_roman_to_ascii)
@@ -22,13 +20,13 @@ memoria_header = """{{ {{PAGENAME}} |Stats}}
 memoria_body = """
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
-</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
 """
+
+event_memoria_body = """* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+{0}** Max Limit Break: Gain {1} Bonus (Item Name)
+"""
+
+memoria_footer = "</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->"
 
 template_header = """{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}"""
 template_body = """
@@ -61,11 +59,17 @@ template_body = """
 template_footer = """}}"""
 
 
-def format_text(desc=""):
-    return f"{memoria_header}| jp = {desc}\n| en = \n| na = {memoria_body}"
+def format_text(desc="", event_bonus: tuple = None):
+    if event_bonus:
+        if len(event_bonus) > 1:  # index 0 is MLB, index 1 (if it exists) is base
+            return f"{memoria_header}| jp = {desc}\n| en = " + memoria_body + event_memoria_body.format(f'** Normal: Gain {event_bonus[1]} Bonus (Item Name)'+"\n", event_bonus[0]) + memoria_footer
+        else:
+            return f"{memoria_header}| jp = {desc}\n| en = {memoria_body}{event_memoria_body.format('', event_bonus[0])}{memoria_footer}"
+    else:
+        return f"{memoria_header}| jp = {desc}\n| en = {memoria_body}{memoria_footer}"
 
 
-def template_format(_id, Ename, stats=""):
+def template_format(_id: int, Ename: str, stats=""):
     if stats:
         rank, piece_name_jp, illustrator, owner, hp, attack, defence, icon, skill_name_en, skill_name_jp, only_max_level, en_full_description1, cooldown1, \
             en_full_description2, cooldown2 = stats
@@ -97,7 +101,7 @@ def template_format(_id, Ename, stats=""):
         template_footer
 
 
-def read(piece, chars):
+def read(piece: dict, chars: dict):
     try:
         attack = piece["attack"]
     except Exception as e:
@@ -172,7 +176,16 @@ def read(piece, chars):
 
         skills.append((en_full_description, cooldown))
 
-    return [desc, [rank, piece_name_jp, illustrator, owner, hp, attack, defence, icon, skill_name_en, skill_name_jp, only_max_level, *skills[0], *skills[1]]]
+        if 'pieceKind' in piece and piece['pieceKind'] == 'EVENT' and "eventArt1" in piece["pieceSkill"]:
+            if not only_max_level:
+                event_bonus = ((int(piece['pieceSkill2']["eventArt1"]["effectValue"] / 1000)),
+                               int(piece['pieceSkill']["eventArt1"]["effectValue"] / 1000))
+            else:
+                event_bonus = (int(piece['pieceSkill2']["eventArt1"]["effectValue"] / 1000),)
+        else:
+            event_bonus = None
+
+    return [desc, [rank, piece_name_jp, illustrator, owner, hp, attack, defence, icon, skill_name_en, skill_name_jp, only_max_level, *skills[0], *skills[1]], event_bonus]
 
 
 def get_json():
@@ -222,7 +235,7 @@ if __name__ == '__main__':
         parent = os.path.join(main_parent, Fname)
         Path(parent).mkdir(parents=True, exist_ok=True)
         for page, text in (
-                (f"{Fname}", format_text(coll[_id][0].replace("＠", "<br />").replace("@", "<br />"))),
+                (f"{Fname}", format_text(coll[_id][0].replace("＠", "<br />").replace("@", "<br />"), coll[_id][2])),
                 (f"Template-{Fname}", template_format(_id, Ename, coll[_id][1]))
         ):
             with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
