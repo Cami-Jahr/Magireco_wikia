@@ -869,5 +869,15 @@
 1882;Serial Connect
 1883;Reverted Time Cannot be Reverted
 1884;My Possibilities
+1885;Spear of Determination
+1886;The Route to Chase the Dream
+1887;Swearing an Oath to the Sunlight
+1888;Passionate Twin Ax
+1889;The World my Big Sister Can See
+1890;Thoughts Sunken to the Darkness
+1891;
+1892;The Sisters' Night is getting late
+1893;Desert Walker
+1894;The Gallopping Pegasus
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

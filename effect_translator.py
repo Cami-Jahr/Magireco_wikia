@@ -341,6 +341,7 @@ jp_to_en = {
     "ファーストエイド": "First Aid",
     "テンペスト": "Tempest",
     "無限大の可能性": "Infinite Possibilities",
+    "アクアアサルト": "Aqua Assault",
     "アンチ・": "Anti-",
     "・": " ",
     "[": " [",
@@ -439,6 +440,7 @@ jp_to_en = {
     "エピソード": "Episode",
     "ウェポン": "Weapon",
     "リーサル": "Lethal",
+    "フレイム": "Flame",
 }
 
 # Subset of good effects that might be chance to happen

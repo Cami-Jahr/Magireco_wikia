@@ -72,7 +72,6 @@ def format_text(desc="", event_bonus: tuple = None):
     return f"{memoria_header}| jp = {desc}\n| en = {memoria_body}{event_memoria_body_full.format(event_bonus[1], event_bonus[0])}{memoria_footer}"
 
 
-
 def template_format(_id: int, Ename: str, stats=""):
     if stats:
         rank, piece_name_jp, illustrator, owner, hp, attack, defence, icon, skill_name_en, skill_name_jp, only_max_level, en_full_description1, cooldown1, \
@@ -117,7 +116,7 @@ def read(piece: dict, chars: dict):
     piece_name_jp = piece["pieceName"]
     rank = piece["rank"][-1]
     if "―" == illustrator or not illustrator:
-        illustrator = "None Listed"
+        illustrator = "-"
     owner = ""
     if "charaList" in piece:
         for character_obj in piece["charaList"]:

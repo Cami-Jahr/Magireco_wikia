@@ -46,6 +46,8 @@
 1046;Chizuru
 1047;Kuro (2023)
 1048;Ebony
+1049;Olga
+1050;Gunhild
 1101;Tamaki Iroha (Mizugi ver.)
 1102;Yachiyo & Mifuyu (Origin ver.)
 1103;Rumor Tsuruno
