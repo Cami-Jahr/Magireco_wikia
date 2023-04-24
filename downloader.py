@@ -18,7 +18,7 @@ online_path_en = "https://android.magica-us.com/magica/resource/download/asset/m
 temp_path = "D:/MagirecoTemps/"
 
 
-def download_files(json, old_files, file_name, savepoint, online_path, local_path):
+def download_files(json, old_files, file_name, savepoint, online_path, local_path, complete_json):
     old_path = ""
     done = []
     length = len(json)
@@ -90,7 +90,7 @@ def download_files(json, old_files, file_name, savepoint, online_path, local_pat
             show = 0
             print("{:.2f}% done with {}".format(nr / length * 100, file_name))
             with open("download_tracking/" + file_name + ".json", "w") as f:
-                f.write(dumps(done + old_files))
+                f.write(dumps(complete_json + done))
     with open("download_tracking/" + file_name + ".json", "w") as f:
         f.write(dumps(done))
     with open("download_tracking/" + file_name + "_full.json", "w") as f:
@@ -108,14 +108,14 @@ def run(file_name, path, nr, online_path, local_path):
             full_json = loads(f.read())
     except:
         full_json = []
-
+    complete_json = full_json + ongoing_json
     old_files = {}
-    for _item in full_json + ongoing_json:
+    for _item in complete_json:
         old_files[_item["path"]] = _item["md5"]
 
     _request = ur.Request(path)
     online_json = loads(ur.urlopen(_request).read().decode("utf-8"))
-    download_files(online_json, old_files, file_name, nr, online_path, local_path)
+    download_files(online_json, old_files, file_name, nr, online_path, local_path, complete_json)
     print("\nJSON_IS_DONE: " + file_name + "\n")
 
 
