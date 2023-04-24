@@ -22,8 +22,13 @@ memoria_body = """
 {{MemoriaTrivia|}}
 """
 
-event_memoria_body = """* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
-{0}** Max Limit Break: Gain {1} Bonus (Item Name)
+event_memoria_body_mlb = """* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain {0} Bonus (Item Name)
+"""
+
+event_memoria_body_full = """* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain {0} Bonus (Item Name)
+** Max Limit Break: Gain {1} Bonus (Item Name)
 """
 
 memoria_footer = "</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->"
@@ -60,13 +65,12 @@ template_footer = """}}"""
 
 
 def format_text(desc="", event_bonus: tuple = None):
-    if event_bonus:
-        if len(event_bonus) > 1:  # index 0 is MLB, index 1 (if it exists) is base
-            return f"{memoria_header}| jp = {desc}\n| en = " + memoria_body + event_memoria_body.format(f'** Normal: Gain {event_bonus[1]} Bonus (Item Name)'+"\n", event_bonus[0]) + memoria_footer
-        else:
-            return f"{memoria_header}| jp = {desc}\n| en = {memoria_body}{event_memoria_body.format('', event_bonus[0])}{memoria_footer}"
-    else:
+    if not event_bonus:
         return f"{memoria_header}| jp = {desc}\n| en = {memoria_body}{memoria_footer}"
+    if len(event_bonus) == 1:  # index 0 is MLB, index 1 (if it exists) is base
+        return f"{memoria_header}| jp = {desc}\n| en = {memoria_body}{event_memoria_body_mlb.format(event_bonus[0])}{memoria_footer}"
+    return f"{memoria_header}| jp = {desc}\n| en = {memoria_body}{event_memoria_body_full.format(event_bonus[1], event_bonus[0])}{memoria_footer}"
+
 
 
 def template_format(_id: int, Ename: str, stats=""):
