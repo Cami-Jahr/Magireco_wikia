@@ -10,8 +10,8 @@ from effect_translator import (
 )
 from helpers import get_char_list
 
-textS = """{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}"""
+textS = "{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|" \
+        "{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}"
 textM1 = """
 | name = {0}
 | name_jp = {1}
@@ -515,8 +515,11 @@ def make_spirit_enchantment(cells: list[dict]):
                 if "on Attack" not in effect_output:
                     effect_output = effect_output.replace("Turns)", "Turns on Battle Start)")
                     effect_output = effect_output.replace("Turn)", "Turn on Battle Start)")
-                    if "Aura" in skill_name_en and '(' not in effect_output:
-                        effect_output += " (Self / ∞ Turns on Battle Start)"
+                    if "Aura" in skill_name_en:
+                        if '(' not in effect_output:
+                            effect_output += " (Self / ∞ Turns on Battle Start)"
+                        elif 'Turn' not in effect_output:
+                            effect_output = effect_output.replace(")", " / ∞ Turns on Battle Start)")
                     elif skill_name_en == "Resist Shield" and '(' not in effect_output:
                         effect_output += " (∞ Turns on Battle Start)"
                 passive_output += passive_template.format(passive_amount, skill_name_jp, skill_name_en, icon, effect_output)

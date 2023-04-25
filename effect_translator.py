@@ -342,6 +342,8 @@ jp_to_en = {
     "テンペスト": "Tempest",
     "無限大の可能性": "Infinite Possibilities",
     "アクアアサルト": "Aqua Assault",
+    "フレイムグリッター": "Flame Glitter",
+    "ウェポンブラスト": "Weapon Blast",
     "アンチ・": "Anti-",
     "・": " ",
     "[": " [",

@@ -1,7 +1,7 @@
 from json import loads
 
 
-def read_awaken(entry):
+def read_awaken(entry: dict):
     awakening_mats = []
     max_rank = 0
     cards = ["defaultCard", *[f"evolutionCard{i}" for i in range(1, 5)]]
@@ -24,7 +24,7 @@ def read_awaken(entry):
     return max_rank, awakening_mats
 
 
-def read_magia(entry):
+def read_magia(entry: dict):
     a = []
     b = []
     for line in entry:
@@ -59,13 +59,14 @@ def read_mats_json():
     return overview
 
 
-def mats_formater(mat_list, file_names, char_list):
+def mats_formater(mat_list: list, file_names: dict, char_list: dict):
     overview = {}
     for entry in mat_list:
         _id, max_rank, magia_mats, awaken_mats = entry
-        magia_string = """{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{
-        13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{
-        {28|}}}|{{{29|}}}|{{{30|}}}"""
+        magia_string = "{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|" \
+                       "{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|" \
+                       "{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|" \
+                       "{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}"
         try:
             magia_string += """\n|name = {}""".format(char_list[_id])
         except KeyError:

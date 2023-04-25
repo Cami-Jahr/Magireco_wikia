@@ -62,7 +62,7 @@
 555;Pendulum Bob
 556;Nanny's Grip
 557;Ikigami's Water Jug
-558;558
+558;Rubber Flag
 559;Wanderer's Straw
 601;Three Colored Marbles
 602;Umika's Awakening Book

@@ -37,20 +37,18 @@ trivia_base = """==[[Magia Archive]] Profile==
 }}"""
 
 
-def upgrades_section(char_name: str, text: str):
-    stats = "{{" + """{} Items|Items""".format(char_name.replace("_", " ")) + "}}"
-    return text, stats
+def upgrades_section(char_name: str):
+    return "{{" + f"{char_name.replace('_', ' ')} Items|Items" + "}}"
 
 
-def main_section(char_name: str, stats: str, text: str):
-    text = "{{" + char_name + "}}" + "\n\n{{Description\n| en = \n| na = \n| jp = " + text + "\n}}\n\n{{Tabs}}"
-    return stats, text
+def main_section(char_name: str, text: str):
+    return "{{" + char_name + "}}" + "\n\n{{Description\n| en = \n| jp = " + text + "\n}}\n\n{{Tabs}}"
 
 
 def abilities_section(char_name: str, doppel_story: str):
     text = "{{" + char_name + "|Abilities}}"
     if doppel_story:
-        text += "\n\n{{Description\n| en = \n| na = \n| jp = " + doppel_story + "\n}}"
+        text += "\n\n{{Description\n| en = \n| jp = " + doppel_story + "\n}}"
     return text
 
 
@@ -75,9 +73,9 @@ if __name__ == '__main__':
         Path(parent).mkdir(parents=True, exist_ok=True)
         # print(i, chars[i], f"https://magireco.fandom.com/wiki/Template:{ch}?action=edit")
 
-        main_temp_text, main_page_text = main_section(ch, read_stats.format_info(i), formatted_trivia[i][0])
+        main_temp_text, main_page_text = read_stats.format_info(i), main_section(ch, formatted_trivia[i][0])
         ability_page_text = abilities_section(ch, formatted_trivia[i][1])
-        upgrade_temp_text, upgrade_page_text = upgrades_section(ch, formatted_mats[i])
+        upgrade_temp_text, upgrade_page_text = upgrades_section(ch), formatted_mats[i]
         # Trivia text template defined above
         voice_page_text = formatted_voice[i]
 

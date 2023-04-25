@@ -167,15 +167,19 @@ def read(piece: dict, chars: dict):
             old_description = description_jp
 
         skill_name_en = skill_name_jp
-        skill_name_en = translate_jap_to_eng(skill_name_en)
+        if 65 <= ord(skill_name_en[0]) <= 90:  # First char is uppercase English letter
+            skill_name_en = skill_name_en[0] + " " + translate_jap_to_eng(skill_name_en[1:])
+        else:
+            skill_name_en = translate_jap_to_eng(skill_name_en)
         skill_name_en = translate_roman_to_ascii(skill_name_en)
-        for c in skill_name_en:
-            if ord(c) > 200:  # means that skill_name_en text contains special non-ascii characters
-                # print("missing translation for", piece["pieceId"], "?", repr(skill_name_en))
-                # for c in skill_name_en:
-                # print(ord(c), end=" ")
-                # print()
-                break
+
+        # for c in skill_name_en: Everything between ord and break was commented out already, so I commented the rest
+        #     if ord(c) > 200:  # means that skill_name_en text contains special non-ascii characters
+        #         print("missing translation for", piece["pieceId"], "?", repr(skill_name_en))
+        #         for c in skill_name_en:
+        #             print(ord(c), end=" ")
+        #         print()
+        #         break
 
         skills.append((en_full_description, cooldown))
 
