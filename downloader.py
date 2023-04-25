@@ -134,10 +134,10 @@ def run_en(file_name, source, nr):
 
 if __name__ == '__main__':
     run_jp("files_prologue_voice", "asset_prologue_voice", 40)
-    run_jp("files_prologue_main", "asset_prologue_main", 200)
-    run_jp("files_movie_high", "asset_movieall_high", 20)
-    run_jp("files_char_list", "asset_char_list", 200)
-    run_jp("files_main", "asset_main", 25)
-    # run_jp("files_voice", "asset_voice", 100)
-    # run_jp("files_fullvoice", "asset_fullvoice", 100)
+    run_jp("files_prologue_main", "asset_prologue_main", 100)
+    run_jp("files_movie_high", "asset_movieall_high", 25)
+    run_jp("files_char_list", "asset_char_list", 30)
+    run_jp("files_main", "asset_main", 500)
+    run_jp("files_voice", "asset_voice", 600)
+    run_jp("files_fullvoice", "asset_fullvoice", 600)
     # run_en("files_movie_high_en", "asset_movie_high", 50)
