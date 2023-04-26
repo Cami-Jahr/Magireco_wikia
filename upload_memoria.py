@@ -1,5 +1,4 @@
 import os
-import shutil
 from json import loads
 from pathlib import Path
 
@@ -11,6 +10,7 @@ from effect_translator import (
 from helpers import (
     get_char_list,
     get_memo_list)
+from uploader import uploader
 
 memoria_header = """{{ {{PAGENAME}} |Stats}}
 
@@ -207,35 +207,24 @@ def get_json():
     return coll
 
 
+upload_new_files = False
+refresh_local_files = True
+
 if __name__ == '__main__':
     chars = get_char_list()
     memos = get_memo_list()
-
-    make_basic = {
-        1533: "いちばんちっちゃな家族の証",
-        1535: "きみの眼を見れば",
-        1538: "今日という一生の思い出",
-    }
 
     coll = get_json()
     m_list = sorted(list(coll))
 
     main_parent = os.path.join("wikia_pages", "memorias")
-    try:
-        shutil.rmtree(main_parent)
-    except FileNotFoundError:
-        pass
 
     for _id in m_list:
-        try:
-            del make_basic[_id]
-        except KeyError:
-            pass
         try:
             Ename = memos[_id]
         except KeyError:
             Ename = str(_id)
-        print(_id, Ename)
+        print(Ename)
         Fname = Ename.replace(" ", "_").replace("?", "%3F").replace(":", "..").replace("/", "-")
         if Fname[-1] == ".":
             Fname += "&"
@@ -243,22 +232,15 @@ if __name__ == '__main__':
         Path(parent).mkdir(parents=True, exist_ok=True)
         for page, text in (
                 (f"{Fname}", format_text(coll[_id][0].replace("＠", "<br />").replace("@", "<br />"), coll[_id][2])),
-                (f"Template-{Fname}", template_format(_id, Ename, coll[_id][1]))
-        ):
-            with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
-                f.write(text)
+                (f"Template:{Fname}", template_format(_id, Ename, coll[_id][1]))):
 
-    for _id, jname in make_basic.items():
-        Ename = memos[_id]
-        print(_id, Ename)
-        Fname = Ename.replace(" ", "_").replace("?", "%3F").replace(":", "..").replace("/", "-")
-        if Fname[-1] == ".":
-            Fname += "&"
-        parent = os.path.join(main_parent, Fname)
-        Path(parent).mkdir(parents=True, exist_ok=True)
-        for page, text in (
-                (f"{Fname}", format_text()),
-                (f"Template-{Fname}", template_format(_id, Ename))
-        ):
-            with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
-                f.write(text)
+            if refresh_local_files:
+                local_file = page.replace(":", "-")
+                with open(os.path.join(parent, local_file + ".txt"), "w", encoding="utf-8-sig") as f:
+                    f.write(text)
+
+            if upload_new_files:
+                online_text = uploader.download_text(page)
+                if len(online_text) < 5:  # Only upload new files, aka replace files without length
+                    uploader.upload(page, text)
+

@@ -1,10 +1,14 @@
+from uploader import uploader
+import re
+
+
 def get_char_list():
-    di = get_list("txts/chars.txt")
+    di = get_online_list("User:Thefrozenfish/Sandbox/CharacterListing")
     return di
 
 
 def get_memo_list():
-    return get_list("txts/memoria_url_id.txt")
+    return get_online_list("User:Thefrozenfish/Sandbox/MemoriaListing")
 
 
 def get_filenames():
@@ -18,4 +22,14 @@ def get_list(li):
             if line.strip():
                 _id, name = line.strip().split(";")
                 names[int(_id)] = name
+    return names
+
+
+def get_online_list(li):
+    names = {}
+    text = uploader.download_parsed_page(li)
+    for line in re.search(r".*?<p>(.*?)</p>.*?", text, re.DOTALL).group(1).split("¤"):
+        if line.strip():
+            _id, name = line.strip().replace("&amp;", "&").split(";")
+            names[int(_id)] = name
     return names

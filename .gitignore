@@ -9,3 +9,8 @@ picture_downloader.py
 youtube to wikia uploads
 /VGM/
 /venv/
+user-password.py
+pywikibot-TFF-Bot.lwp
+/apicache-py3/
+/logs/commands.log
+throttle.ctrl

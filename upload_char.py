@@ -1,5 +1,4 @@
 import os
-import shutil
 from pathlib import Path
 
 import read_awaken_mats as awaken
@@ -9,6 +8,7 @@ import read_voice_text as voice
 from helpers import (
     get_char_list,
     get_filenames)
+from uploader import uploader
 
 galley_base = """<tabber>
 Memoria=
@@ -52,6 +52,9 @@ def abilities_section(char_name: str, doppel_story: str):
     return text
 
 
+upload_new_files = False
+refresh_local_files = True
+
 if __name__ == '__main__':
     files = get_filenames()
     chars = get_char_list()
@@ -64,30 +67,37 @@ if __name__ == '__main__':
     trivia = story.read_trivia_json()
     formatted_trivia = story.story_formater(trivia)
     main_parent = os.path.join("wikia_pages", "characters")
-    shutil.rmtree(main_parent)
 
     for i in reversed(c_list):
         ch = chars[i].replace(" ", "_")
         print(ch)
         parent = os.path.join(main_parent, ch)
         Path(parent).mkdir(parents=True, exist_ok=True)
-        # print(i, chars[i], f"https://magireco.fandom.com/wiki/Template:{ch}?action=edit")
 
         main_temp_text, main_page_text = read_stats.format_info(i), main_section(ch, formatted_trivia[i][0])
         ability_page_text = abilities_section(ch, formatted_trivia[i][1])
-        upgrade_temp_text, upgrade_page_text = upgrades_section(ch), formatted_mats[i]
-        # Trivia text template defined above
+        upgrade_temp_text = formatted_mats[i]
+        upgrade_page_text = upgrades_section(ch)
         voice_page_text = formatted_voice[i]
 
         for page, text in (
-                (f"Template-{ch}", main_temp_text),
-                (f"Template-{ch}_Items", upgrade_temp_text),
+                (f"Template:{ch}", main_temp_text),
+                (f"Template:{ch}_Items", upgrade_temp_text),
                 (f"{ch}", main_page_text),
-                (f"{ch}-Abilities", ability_page_text),
-                (f"{ch}-Upgrades", upgrade_page_text),
-                (f"{ch}-Trivia", trivia_base),
-                (f"{ch}-Costumes", costume_base),
-                (f"{ch}-Gallery", galley_base),
-                (f"{ch}-Quotes", voice_page_text)):
-            with open(os.path.join(parent, page + ".txt"), "w", encoding="utf-8-sig") as f:
-                f.write(text)
+                (f"{ch}/Abilities", ability_page_text),
+                (f"{ch}/Upgrades", upgrade_page_text),
+                (f"{ch}/Trivia", trivia_base),
+                (f"{ch}/Costumes", costume_base),
+                (f"{ch}/Gallery", galley_base),
+                (f"{ch}/Quotes", voice_page_text)):
+
+            if refresh_local_files:
+                local_file = page.replace(":", "-").replace("/", "-")
+                with open(os.path.join(parent, local_file + ".txt"), "w", encoding="utf-8-sig") as f:
+                    f.write(text)
+
+            if upload_new_files:
+                online_text = uploader.download_text(page)
+                if len(online_text) < 5:  # Only upload new files, aka replace files without length
+                    uploader.upload(page, text)
+

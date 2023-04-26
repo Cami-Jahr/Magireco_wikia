@@ -1,0 +1,2 @@
+# This is an example of how the user-password.py file should look. Request a BotPassword setup from Thefrozenfish
+('TFF-Bot', BotPassword('YYthebotinstancenamegoeshereYY', 'XXXXXthepasswordgoeshereXXXX'))
