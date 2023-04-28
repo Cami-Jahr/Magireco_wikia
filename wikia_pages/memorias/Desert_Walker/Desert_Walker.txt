@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = その者は自らの運命を自ら選ぶことあたわず<br />一族の宿業が吹き起こす嵐の中に巻き込まれ、王の僕となる<br />しかして茫漠たる生を営むも、時を越えて現れし同志の声が心中に響き<br />やがて己の魂を取り戻して後、遥かなる砂の旅路へと向かう
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

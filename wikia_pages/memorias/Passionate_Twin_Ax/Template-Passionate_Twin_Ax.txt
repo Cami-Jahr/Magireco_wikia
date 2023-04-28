@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Passionate Twin Ax
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 激情の双斧
+| Rarity = 3
+| ID = 1888
+| Illust = 都筑禰己
+| Owner = Gunhild
+
+| min_HP = 461
+| min_ATK = 0
+| min_DEF = 501
+| max_HP = 1152
+| max_ATK = 0
+| max_DEF = 1252
+
+| image = Accele Draw
+| effect_name = Accele Draw
+| effect_name_JP = アクセルドロー
+| effect1 = Accele Draw
+| effect2 = Accele Draw
+| Cooldown = 5
+| Cooldown2 = 4
+}}

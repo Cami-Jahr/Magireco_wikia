@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 問わず語りを終えた姉は、妹の肩で寝息を立てる<br />まるで、懸命に陽気さを振り絞って、疲れ果てたように<br />妹の心は幸せに溢れ、自然と笑みがこぼれる<br />ふたりにとって、今が何よりも満ち足りた時間
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

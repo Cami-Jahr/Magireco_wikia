@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Route to Chase the Dream
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 夢追いの航路
+| Rarity = 4
+| ID = 1886
+| Illust = 枡狐/蛙空
+| Owner = 
+
+| min_HP = 820
+| min_ATK = 940
+| min_DEF = 0
+| max_HP = 2050
+| max_ATK = 2350
+| max_DEF = 0
+
+| image = Blast Damage Up
+| effect_name = A Weapon Blast Adept 
+| effect_name_JP = Aウェポンブラスト・アデプト
+| effect1 = Blast Damage Up [III / 25%] & Damage Increase [III / 15%] & Aqua Attribute Attack Up [IV / 12.5%]
+| effect2 = Blast Damage Up [IV / 30%] & Damage Increase [IV / 20%] & Aqua Attribute Attack Up [V / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

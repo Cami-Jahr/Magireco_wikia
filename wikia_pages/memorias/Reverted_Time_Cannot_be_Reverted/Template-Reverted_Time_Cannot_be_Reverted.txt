@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Reverted Time Cannot be Reverted
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 戻した時間は戻らない
+| Rarity = 3
+| ID = 1883
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 650
+| min_ATK = 680
+| min_DEF = 0
+| max_HP = 1625
+| max_ATK = 1700
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Full Gauge Bloom 
+| effect_name_JP = フルゲージ・ブルーム
+| effect1 = Attack Up While At Max Health [III / 15%] & Defense Up While At Max Health [III / 30%]
+| effect2 = Attack Up While At Max Health [IV / 20%] & Defense Up While At Max Health [IV / 40%]
+| Cooldown = 
+| Cooldown2 = 
+}}

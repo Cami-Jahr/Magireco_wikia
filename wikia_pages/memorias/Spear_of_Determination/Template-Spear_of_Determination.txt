@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Spear of Determination
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 決断の槍　
+| Rarity = 3
+| ID = 1885
+| Illust = 都筑禰己
+| Owner = Olga
+
+| min_HP = 441
+| min_ATK = 521
+| min_DEF = 0
+| max_HP = 1102
+| max_ATK = 1302
+| max_DEF = 0
+
+| image = Blast Damage Up
+| effect_name = A Morale Blast Adept 
+| effect_name_JP = Aモラールブラスト・アデプト
+| effect1 = Blast Damage Up [II / 20%] & Aqua Attribute Attack Up [II / 7.5%] & Blast MP Gain Up [II / 2 MP]
+| effect2 = Blast Damage Up [III / 25%] & Aqua Attribute Attack Up [III / 10%] & Blast MP Gain Up [III / 3 MP]
+| Cooldown = 
+| Cooldown2 = 
+}}

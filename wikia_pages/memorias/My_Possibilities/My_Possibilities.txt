@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「未来に向かって進化していく原初の姿…それが私『未完成いろは』！<br />この道を歩いていけば、私も新たなステージに到達できるはず…<br />おや？…随分とカクカクした人が前を歩いていますが…<br />も、もしかして、あれが次世代の私…『３DCGいろは』ですか!?」
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

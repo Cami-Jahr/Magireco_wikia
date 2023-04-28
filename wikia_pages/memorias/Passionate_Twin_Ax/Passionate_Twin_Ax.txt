@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = その斧があるのは、夢へと繋がる願いを掲げた先<br />その斧を持つ者は、戦場の表も裏もなくひたすらに戦う戦士<br />その斧が斬るのは、覚悟の道行きに立ち塞がる敵<br />その斧が示すのは、かつて語り合った姉妹の未来
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

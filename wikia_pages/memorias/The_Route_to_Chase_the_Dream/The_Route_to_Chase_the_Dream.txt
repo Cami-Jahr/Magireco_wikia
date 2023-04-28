@@ -1,0 +1,11 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 大海を駆け巡るのは夢を乗せた姉妹の船<br />神秘の国があると聞けば東へ、豊穣なる文化があると聞けば西へ向かう<br />北の広大な未開の土地に心躍らせ、南の朗らかな陽気に笑顔を弾ませる<br />ふたりでなら、この世の果てでも行けるはず
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 5 Bonus (Item Name)
+** Max Limit Break: Gain 15 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
