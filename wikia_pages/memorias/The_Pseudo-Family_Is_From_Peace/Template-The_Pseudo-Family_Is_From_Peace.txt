@@ -7,7 +7,7 @@
 | Jname = 疑似家族は平和から
 | Rarity = 3
 | ID = 1684
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 687

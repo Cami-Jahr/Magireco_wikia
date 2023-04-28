@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「放課後に小説を読み始めたらつい夢中になって、<br />翌朝の予鈴で目を覚ましたりとか、<br />１冊だけのつもりが、全集読み終えちゃったとか…<br />普通、ありません？…そうですか、ありませんか」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

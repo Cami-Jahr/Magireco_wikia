@@ -7,7 +7,7 @@
 | Jname = あてがわれたみかづき荘
 | Rarity = 3
 | ID = 1720
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 678

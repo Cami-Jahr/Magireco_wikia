@@ -7,7 +7,7 @@
 | Jname = 切り開けキュゥべえナイト
 | Rarity = 4
 | ID = 1267
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 810

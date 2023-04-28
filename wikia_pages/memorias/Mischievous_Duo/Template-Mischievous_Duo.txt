@@ -7,7 +7,7 @@
 | Jname = 悪戯なふたり
 | Rarity = 4
 | ID = 1559
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 
@@ -18,7 +18,7 @@
 | max_DEF = 1932
 
 | image = HP Restore
-| effect_name = HCure Heal 
+| effect_name = H Cure Heal 
 | effect_name_JP = Hキュアヒール
 | effect1 = 
 | effect2 = HP Restore [I / 30%] (Lowest HP Ally) & Defense Up [IV / 30%] (Self / 3 Turns)

@@ -7,7 +7,7 @@
 | Jname = 一族に新たな門出を
 | Rarity = 4
 | ID = 1714
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

@@ -7,7 +7,7 @@
 | Jname = オーバーリミッター
 | Rarity = 3
 | ID = 1297
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

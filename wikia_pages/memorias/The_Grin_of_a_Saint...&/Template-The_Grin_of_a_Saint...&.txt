@@ -7,7 +7,7 @@
 | Jname = 聖女の微笑みは…
 | Rarity = 4
 | ID = 1702
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 854

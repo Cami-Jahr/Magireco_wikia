@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「ちゃぷん…」<br />妹たちが立てる水音が、長女の心を優しく癒す<br />戦場では外さぬ仮面も、このときだけは脇に置く<br />それは誓いで結ばれた３人の、決して変わらぬ絆のあかし
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

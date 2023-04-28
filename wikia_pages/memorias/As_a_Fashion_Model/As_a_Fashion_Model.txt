@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「なんでモデルなんて続けてるんだろう…？って考えるとね、<br />私の魔法少女としての人生が、ここから始まったからだと思うの。<br />辞めてしまえば、惨めだったことも、悲しんだことも、<br />幸せだったことも、全部無くなってしまう気がするのよね」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = この鏡は私によく似た誰かを映している<br />その鏡にもあの鏡にも映るのは私みたいな誰か…<br />どれが本当の私なんだろう？どれも違う気がする<br />「…見つけて」今、ここにいる私も違う気がするから
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 5 Bonus (Item Name)
+** Max Limit Break: Gain 15 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

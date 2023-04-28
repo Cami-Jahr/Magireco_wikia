@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = いつも明るくて元気いっぱいな最強の魔法少女<br />それは仲間を想う少女が選んだ耐える生き方<br />鶴のごとく大きく広げた虚勢の翼も限界を迎え<br />さらなる巨大な翼に包まれると、黒い１枚の羽根になった
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

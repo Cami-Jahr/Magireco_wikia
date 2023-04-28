@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 著名なグルメ評論家、有名レストランのシェフ…。<br />彼らの舌を、巻いて、唸らせ、満足させる―<br />そんな恐るべき料理を創り出すのは、まだまだ無邪気な少女である。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Kuroe
 | name_jp = 黒江
 | name_na = 
@@ -110,10 +109,10 @@
 | Passive 8 name JP = スキルクイック[Ⅲ]
 | Passive 8 effect = Chance to Skill Quicken [III / 15%]
 
-| Passive 9 icon = Regenerate HP
+| Passive 9 icon = Regenerate MP
 | Passive 9 name = Mana Spring Aura [V]
 | Passive 9 name JP = マナスプリングオーラ[Ⅴ]
-| Passive 9 effect = Regenerate MP [V / 9 MP] (Self / 3 Turns from start of battle)
+| Passive 9 effect = Regenerate MP [V / 9 MP] (Self / 3 Turns on Battle Start)
 
 | Passive 10 icon = MP Gauge Increased On Battle Start
 | Passive 10 name = Fast Mana Up

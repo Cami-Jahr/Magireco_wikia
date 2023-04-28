@@ -7,7 +7,7 @@
 | Jname = ゆらめく憧憬
 | Rarity = 4
 | ID = 1692
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 843

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「アリナ先輩、ハロウィンフェスタの準備お疲れ様なの！<br />じゃじゃーん！頑張ってる先輩にご褒美なの！」<br />「…言っとくケド、イチゴ牛乳が好きなわけじゃないカラ」<br />「えっ!?じゃあ、イチゴ牛乳を奪ってたのはどうして…？」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

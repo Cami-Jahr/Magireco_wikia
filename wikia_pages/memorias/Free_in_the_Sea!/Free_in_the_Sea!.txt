@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = 「この姿にさせられたからって悪い事ばっかじゃないな<br />こうやって自由に泳げるなら…よっと！<br />魚だって取り放題ってことだ！<br />これで今夜の食卓が豪華になるな！」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 2 Bonus (Item Name)
+** Max Limit Break: Gain 5 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

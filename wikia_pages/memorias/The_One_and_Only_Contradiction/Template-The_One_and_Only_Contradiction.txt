@@ -7,7 +7,7 @@
 | Jname = 唯一無二の矛盾
 | Rarity = 4
 | ID = 1409
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 843

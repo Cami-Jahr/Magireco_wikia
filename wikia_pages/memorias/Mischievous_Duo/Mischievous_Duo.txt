@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 元気を届けるあの少女、本に囲まれ微笑むあの少女<br />怖くて可愛い仮装を着こなし、宵の町を練り歩く<br />「トリックオアトリート！お菓子をくれなきゃイタズラしちゃうぞ！」<br />いつもは甘いふたりでも、今日のイタズラは甘くない
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

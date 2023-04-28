@@ -7,7 +7,7 @@
 | Jname = お外でばったりこんにちは
 | Rarity = 4
 | ID = 1659
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 893

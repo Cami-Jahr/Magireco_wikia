@@ -7,7 +7,7 @@
 | Jname = 掌中のぬくもり
 | Rarity = 4
 | ID = 1249
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

@@ -7,7 +7,7 @@
 | Jname = 重なる謀略
 | Rarity = 3
 | ID = 1412
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 660

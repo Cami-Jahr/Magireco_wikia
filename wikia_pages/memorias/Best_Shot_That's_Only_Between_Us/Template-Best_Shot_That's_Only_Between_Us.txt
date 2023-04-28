@@ -7,7 +7,7 @@
 | Jname = 私たちだけのベストショット
 | Rarity = 4
 | ID = 1390
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 807

@@ -7,7 +7,7 @@
 | Jname = 魔法少女VSシリーズ？第２弾
 | Rarity = 3
 | ID = 1287
-| Illust = None Listed
+| Illust = -
 | Owner = Holy Alina
 
 | min_HP = 511

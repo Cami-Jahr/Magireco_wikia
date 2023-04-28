@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Felicia-chan
 | name_jp = フェリシアちゃん
 | name_na = 
@@ -130,7 +129,7 @@
 | Passive 12 name JP = エイミング・アデプト[Ⅲ]
 | Passive 12 effect = Chance to Anti-Evade [III / 35%]
 
-| Passive 13 icon = Attack Up While At Max Health
+| Passive 13 icon = Attack Up
 | Passive 13 name = Full Gauge Drive [IV]
 | Passive 13 name JP = フルゲージドライブ[Ⅳ]
 | Passive 13 effect = Attack Up While At Max Health [IV / 20%]

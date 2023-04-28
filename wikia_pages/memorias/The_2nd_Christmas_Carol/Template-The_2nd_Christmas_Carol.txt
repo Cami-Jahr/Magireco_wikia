@@ -7,7 +7,7 @@
 | Jname = 二度目のクリスマス・キャロル
 | Rarity = 4
 | ID = 1577
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

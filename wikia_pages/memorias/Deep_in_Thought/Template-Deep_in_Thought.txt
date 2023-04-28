@@ -7,7 +7,7 @@
 | Jname = 思い悩んで上の空
 | Rarity = 4
 | ID = 1634
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 763

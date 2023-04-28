@@ -7,7 +7,7 @@
 | Jname = 日常にあふれる誇り
 | Rarity = 4
 | ID = 1541
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 838

@@ -7,7 +7,7 @@
 | Jname = 再会を信じて「チャオ！」
 | Rarity = 3
 | ID = 1682
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 675

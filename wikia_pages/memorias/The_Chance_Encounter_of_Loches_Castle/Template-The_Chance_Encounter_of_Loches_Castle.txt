@@ -7,7 +7,7 @@
 | Jname = ロッシュ城の邂逅
 | Rarity = 4
 | ID = 1738
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

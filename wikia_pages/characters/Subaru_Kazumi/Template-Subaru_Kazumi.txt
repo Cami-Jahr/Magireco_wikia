@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Subaru Kazumi
 | name_jp = 昴 かずみ
 | name_na = 
@@ -108,14 +107,14 @@
 | Passive 8 icon = Barrier
 | Passive 8 name = Barrier Aura
 | Passive 8 name JP = バリアオーラ
-| Passive 8 effect = Barrier [5000 damage]
+| Passive 8 effect = Barrier [5000 damage] (Self / ∞ Turns on Battle Start)
 
 | Passive 9 icon = Critical Hit
 | Passive 9 name = Critical Adept [II]
 | Passive 9 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 9 effect = Chance to Critical Hit [II / 15%]
 
-| Passive 10 icon = Regenerate HP
+| Passive 10 icon = Regenerate MP
 | Passive 10 name = Mana Spring Adept [V]
 | Passive 10 name JP = マナスプリング・アデプト[Ⅴ]
 | Passive 10 effect = Regenerate MP [V / 9 MP]
@@ -125,7 +124,7 @@
 | Passive 11 name JP = アンチ・カース
 | Passive 11 effect = Anti-Curse
 
-| Passive 12 icon = Attack Up While At Max Health
+| Passive 12 icon = Attack Up
 | Passive 12 name = Full Gauge Overdrive [IV]
 | Passive 12 name JP = フルゲージオーバードライブ[Ⅳ]
 | Passive 12 effect = Attack Up While At Max Health [IV / 20%] & Attack Up [II / 10%]

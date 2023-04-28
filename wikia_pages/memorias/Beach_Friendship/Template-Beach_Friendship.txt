@@ -7,7 +7,7 @@
 | Jname = 渚のフレンドシップ
 | Rarity = 4
 | ID = 1521
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 801

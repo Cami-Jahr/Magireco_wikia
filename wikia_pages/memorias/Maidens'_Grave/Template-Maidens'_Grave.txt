@@ -7,7 +7,7 @@
 | Jname = 巫の墓
 | Rarity = 4
 | ID = 1387
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 760

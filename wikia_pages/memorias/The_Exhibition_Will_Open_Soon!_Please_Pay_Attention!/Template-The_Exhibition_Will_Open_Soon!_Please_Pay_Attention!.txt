@@ -7,7 +7,7 @@
 | Jname = まもなく開催！ご注目あれ！
 | Rarity = 4
 | ID = 1474
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 850

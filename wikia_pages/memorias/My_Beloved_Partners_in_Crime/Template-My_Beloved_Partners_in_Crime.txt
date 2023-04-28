@@ -7,7 +7,7 @@
 | Jname = 愛しの悪友たち
 | Rarity = 4
 | ID = 1656
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

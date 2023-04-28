@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = アタシはシスター、だから祈る<br />祈りは愛、愛は命を救う<br />アタシは魔法少女、だから戦う<br />戦いは使命、使命は命を救う
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

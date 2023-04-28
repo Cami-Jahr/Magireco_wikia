@@ -7,7 +7,7 @@
 | Jname = 旅する調整屋
 | Rarity = 4
 | ID = 1449
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 850

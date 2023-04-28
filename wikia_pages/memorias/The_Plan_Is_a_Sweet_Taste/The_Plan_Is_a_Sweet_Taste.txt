@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「チョコレートを渡す時、一気にムードを高めてくれるようなスポット<br />が神浜には沢山ある。その中でも定番なのは中央区にある電波塔。下に<br />あるショッピングモールで楽しんだあとの展望台は、締めくくりには最<br />高で、特に夜まで出歩けない小学生には最初のチャレンジにオススメだ」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

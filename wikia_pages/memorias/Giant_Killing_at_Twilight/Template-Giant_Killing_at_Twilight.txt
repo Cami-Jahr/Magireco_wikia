@@ -7,7 +7,7 @@
 | Jname = 黄昏のジャイアントキリング
 | Rarity = 4
 | ID = 1693
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

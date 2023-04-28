@@ -7,7 +7,7 @@
 | Jname = ふたりの未来に至る決着を
 | Rarity = 4
 | ID = 1763
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

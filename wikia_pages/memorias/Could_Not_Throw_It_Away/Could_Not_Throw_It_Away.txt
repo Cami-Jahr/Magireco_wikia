@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 過去のすべてを捨てて、別の自分になろうとしたんだ<br />そうしないと明日を生き抜くことができなかったから<br />…だけど、捨てられなかった<br />過去の自分をなかったことになんて、できやしなかった
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

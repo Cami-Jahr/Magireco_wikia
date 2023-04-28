@@ -7,7 +7,7 @@
 | Jname = いつでも心にあるもの
 | Rarity = 4
 | ID = 1761
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 819
@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Doppel Damage Up
-| effect_name = リーサル Adept 
+| effect_name = Lethal Adept 
 | effect_name_JP = リーサル・アデプト
 | effect1 = Doppel Damage Up [V / 25%] & Damage Increase [II / 10%]
 | effect2 = Doppel Damage Up [VI / 30%] & Damage Increase [III / 15%]

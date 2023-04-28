@@ -7,7 +7,7 @@
 | Jname = 第3の魔法少女
 | Rarity = 4
 | ID = 1176
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 763

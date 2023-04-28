@@ -7,7 +7,7 @@
 | Jname = お里帰りは夢の中で
 | Rarity = 4
 | ID = 1847
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

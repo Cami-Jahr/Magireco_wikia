@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「わぁ…すごいです…！」「魚が桜と泳いでるぞ！」<br />「キレイだね、お姉ちゃん！」「うん…とっても素敵…」<br />「｜私のウワサアクアリウム・竜宮城へ、来てくれてありがとう<br />この桜は感謝のしるし、今日が楽しかった証｜」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「毎度！トナカイサンタでーす！笑顔のお届けに来たよー！」<br />「届けた笑顔のおこぼれが、オレたちの報酬だぞ！」<br />純白のピクセルに彩られた、久遠のホワイト・クリスマス<br />天使が見守る小さな世界を、ふたりのサンタは今日もゆく
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「うおー!!お年玉っ！」「私…感動しています…」<br />「さっすがやちよししょー！太っ腹だよね！」<br />「うん…！ありがとうございます…やちよさん！」<br />（ふふ…お年玉って、渡す方もこんなに嬉しいものなのね）
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

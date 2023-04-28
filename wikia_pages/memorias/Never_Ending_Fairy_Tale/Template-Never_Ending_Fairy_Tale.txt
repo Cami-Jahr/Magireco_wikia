@@ -7,7 +7,7 @@
 | Jname = 終わらないで、おとぎ話
 | Rarity = 4
 | ID = 1834
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 820

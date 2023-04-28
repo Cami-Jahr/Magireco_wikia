@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 時を越え、国を越えて対面するふたりの少女<br />彼女たちの背中には、一族の業が重くのしかかる<br />だからこそ惹かれ合ったのか、それとも因果のもつれなのか<br />いずれにせよ、この出会いは激しく鮮烈な光彩を放ち、周囲を照らす
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -7,7 +7,7 @@
 | Jname = おひとりさま300円まで
 | Rarity = 4
 | ID = 1694
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

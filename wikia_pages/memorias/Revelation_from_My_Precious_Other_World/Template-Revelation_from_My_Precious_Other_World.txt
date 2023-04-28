@@ -7,7 +7,7 @@
 | Jname = 愛しき異界からの天啓
 | Rarity = 4
 | ID = 1490
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 801

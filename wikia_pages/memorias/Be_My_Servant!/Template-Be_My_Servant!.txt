@@ -7,7 +7,7 @@
 | Jname = 下僕でいなさいっ！
 | Rarity = 3
 | ID = 1771
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 709

@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Kanbaru Suruga
 | name_jp = 神原 駿河
 | name_na = 
@@ -100,7 +99,7 @@
 | Passive 6 name JP = チャージコンボプラス[Ⅱ]
 | Passive 6 effect = Charge Combo Charge Count Up [+2]
 
-| Passive 7 icon = Regenerate HP
+| Passive 7 icon = Regenerate MP
 | Passive 7 name = Mana Spring Adept [V]
 | Passive 7 name JP = マナスプリング・アデプト[Ⅴ]
 | Passive 7 effect = Regenerate MP [V / 9 MP]

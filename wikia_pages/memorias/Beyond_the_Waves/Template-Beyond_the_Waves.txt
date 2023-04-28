@@ -7,7 +7,7 @@
 | Jname = 波の彼方をめざして
 | Rarity = 4
 | ID = 1650
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 847

@@ -7,7 +7,7 @@
 | Jname = 時女の底力
 | Rarity = 4
 | ID = 1423
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 854

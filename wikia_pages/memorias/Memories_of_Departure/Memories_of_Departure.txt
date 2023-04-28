@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「えー、やっぱりおかしーだろ？この地図間違ってんじゃねーか？」<br />「それはないでしょ？ナビ端末が間違ってたら何も信用できないよ？」<br />旅立ちの日に取り決めた、ナビと運転の役割分担<br />繰り返した迷走も、すべては今につながる糧
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

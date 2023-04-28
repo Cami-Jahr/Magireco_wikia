@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Satomi Nayuta
 | name_jp = 里見 那由他
 | name_na = 
@@ -113,7 +112,7 @@
 | Passive 9 icon = Light Attribute Damage Cut
 | Passive 9 name = Light Shield Aura [III]
 | Passive 9 name JP = ライトシールドオーラ[Ⅲ]
-| Passive 9 effect = Light Attribute Damage Cut [III / 15%] (Self / 5 Turns from start of battle)
+| Passive 9 effect = Light Attribute Damage Cut [III / 15%] (Self / 5 Turns on Battle Start)
 
 | Passive 10 icon = Skill Quicken
 | Passive 10 name = Skill Quick [II]
@@ -128,7 +127,7 @@
 | Passive 12 icon = Status Ailment Resistance Up
 | Passive 12 name = Resist Secure Aura [II]
 | Passive 12 name JP = レジストサークルオーラ[Ⅱ]
-| Passive 12 effect = Status Ailment Resistance Up [II / 15%] (Allies / 5 Turns from start of battle)
+| Passive 12 effect = Status Ailment Resistance Up [II / 15%] (Allies / 5 Turns on Battle Start)
 
 | Passive 13 icon = 
 | Passive 13 name = 

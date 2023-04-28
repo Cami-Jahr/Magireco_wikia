@@ -7,7 +7,7 @@
 | Jname = もしもの、ある日
 | Rarity = 4
 | ID = 1801
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

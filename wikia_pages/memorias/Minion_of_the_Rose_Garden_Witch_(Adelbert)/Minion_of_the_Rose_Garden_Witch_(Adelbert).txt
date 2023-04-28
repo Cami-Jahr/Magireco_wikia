@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 薔薇園の魔女の手下。その役割は警戒。<br />人間を見つけると、ベルのような警戒音を鳴らし、容赦ない頭突きを食らわせる。<br />視力は2.5。小さなタイプは侵入者を阻む薔薇の蔓に変身可能。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

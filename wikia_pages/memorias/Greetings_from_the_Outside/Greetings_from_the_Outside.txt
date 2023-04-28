@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 何気ない偶然の中で、大切な人たちが仲良くなるのは嬉しい<br />でも、こそばゆいのは、なんてことのない会話の中から<br />家族といるときのわたしと、友だちといるときのわたしが顔を出すから<br />ちょっと恥ずかしいけど、こんな日常がとっても大切
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

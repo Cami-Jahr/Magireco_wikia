@@ -7,7 +7,7 @@
 | Jname = 物語（ウワサ）も知っている
 | Rarity = 4
 | ID = 1328
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 880

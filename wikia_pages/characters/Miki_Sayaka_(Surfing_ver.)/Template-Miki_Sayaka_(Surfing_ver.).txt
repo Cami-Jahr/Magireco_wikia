@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Miki Sayaka (Surfing ver.)
 | name_jp = 美樹 さやか (波乗りver.)
 | name_na = 
@@ -113,9 +112,9 @@
 | Passive 9 icon = Barrier
 | Passive 9 name = Barrier Aura
 | Passive 9 name JP = バリアオーラ
-| Passive 9 effect = Barrier [5000 damage]
+| Passive 9 effect = Barrier [5000 damage] (Self / ∞ Turns on Battle Start)
 
-| Passive 10 icon = Defense Up While At Max Health
+| Passive 10 icon = Defense Up
 | Passive 10 name = Full Gauge Shield [IV]
 | Passive 10 name JP = フルゲージ・シールド[Ⅳ]
 | Passive 10 effect = Defense Up While At Max Health [IV / 40%] & Damage Cut [II / 10%]

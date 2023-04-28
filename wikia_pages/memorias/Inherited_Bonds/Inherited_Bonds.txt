@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = がんばれた時に一緒に喜んだり、寂しい時に一緒に居たり<br />わたしがお姉さんにしてもらったことを、この子にもしてあげたい<br />いつかわたしを、自慢のお姉さんだって<br />思ってくれたら嬉しいな…
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

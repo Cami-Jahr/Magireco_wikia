@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Kazumi
 | name_jp = かずみ
 | name_na = 
@@ -125,7 +124,7 @@
 | Passive 11 name JP = エイミング・アデプト[Ⅲ]
 | Passive 11 effect = Chance to Anti-Evade [III / 35%]
 
-| Passive 12 icon = Regenerate HP
+| Passive 12 icon = Regenerate MP
 | Passive 12 name = Mana Spring Adept [V]
 | Passive 12 name JP = マナスプリング・アデプト[Ⅴ]
 | Passive 12 effect = Regenerate MP [V / 9 MP]

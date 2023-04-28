@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「取り返しのつかないことって、ありますよね…例えばこの時の私<br />楽しみにしていた豆腐ハンバーグを焦がしてしまって<br />『巻き戻し』の能力を使って焦がす手前まで戻そうとしたのですが<br />勢い余ってしまいまして…お皿の上には大豆が転がっていました…」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

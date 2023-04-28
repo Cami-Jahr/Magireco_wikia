@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Swearing an Oath to the Sunlight
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 陽光に誓う
+| Rarity = 3
+| ID = 1887
+| Illust = -
+| Owner = 
+
+| min_HP = 680
+| min_ATK = 0
+| min_DEF = 680
+| max_HP = 1700
+| max_ATK = 0
+| max_DEF = 1700
+
+| image = Blast Damage Up
+| effect_name = Brandish 
+| effect_name_JP = ブランディッシュ
+| effect1 = Blast Damage Up [II / 20%] & Damage Up [II / 10%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [III / 25%] & Damage Up [III / 15%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

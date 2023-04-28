@@ -7,7 +7,7 @@
 | Jname = 計画はスイートテイスト
 | Rarity = 4
 | ID = 1597
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 728

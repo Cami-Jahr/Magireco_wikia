@@ -7,7 +7,7 @@
 | Jname = 小さな初夢を見守りながら
 | Rarity = 4
 | ID = 1846
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 900

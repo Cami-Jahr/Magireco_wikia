@@ -7,7 +7,7 @@
 | Jname = ひとくちにのせて
 | Rarity = 3
 | ID = 1646
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 728

@@ -7,7 +7,7 @@
 | Jname = 女王の歩む道
 | Rarity = 4
 | ID = 1735
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 898

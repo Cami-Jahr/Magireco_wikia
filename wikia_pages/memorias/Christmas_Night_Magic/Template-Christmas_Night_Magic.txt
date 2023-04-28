@@ -7,7 +7,7 @@
 | Jname = クリスマス・ナイト・マジック
 | Rarity = 4
 | ID = 1288
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 805

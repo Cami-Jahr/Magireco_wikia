@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Tokime Shizuka
 | name_jp = 時女 静香
 | name_na = 
@@ -128,7 +127,7 @@
 | Passive 12 icon = Attack Up
 | Passive 12 name = Bloom Aura [V]
 | Passive 12 name JP = ブルームオーラ[Ⅴ]
-| Passive 12 effect = Attack Up [V / 15%] & Defense Up [V / 15%] (Allies / 5 Turns from start of battle)
+| Passive 12 effect = Attack Up [V / 15%] & Defense Up [V / 15%] (Allies / 5 Turns on Battle Start)
 
 | Passive 13 icon = 
 | Passive 13 name = 

@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = 真新しいメイド服に身を包むのは駆けだしメイド十七夜<br />クールな横顔、悠々とした動作、不遜ともとれる口調<br />おおよそメイドさんらしからぬその態度<br />しかし、その独特な雰囲気こそが人々を引き付ける
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 1 Bonus (Item Name)
+** Max Limit Break: Gain 3 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

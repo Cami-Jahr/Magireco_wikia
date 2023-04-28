@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Sena Mikoto
 | name_jp = 瀬奈 みこと
 | name_na = 
@@ -118,17 +117,17 @@
 | Passive 10 icon = Counter
 | Passive 10 name = Cross Counter Aura
 | Passive 10 name JP = クロスカウンター・オーラ
-| Passive 10 effect = Strengthened Counter (Self / 5 Turns from start of battle)
+| Passive 10 effect = Strengthened Counter (Self / 5 Turns on Battle Start)
 
 | Passive 11 icon = Skill Quicken
 | Passive 11 name = Skill Quick [III]
 | Passive 11 name JP = スキルクイック[Ⅲ]
 | Passive 11 effect = Chance to Skill Quicken [III / 15%]
 
-| Passive 12 icon = Regenerate HP
+| Passive 12 icon = Regenerate MP
 | Passive 12 name = Mana Spring Circle [III]
 | Passive 12 name JP = マナスプリング・サークル[Ⅲ]
-| Passive 12 effect = Regenerate MP [III / 5 MP] (Allies / 3 Turns from start of battle)
+| Passive 12 effect = Regenerate MP [III / 5 MP] (Allies / 3 Turns on Battle Start)
 
 | Passive 13 icon = 
 | Passive 13 name = 

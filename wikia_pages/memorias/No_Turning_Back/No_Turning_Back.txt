@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = いつだってあの子は、大切なものを奪っていく<br />いつだってあの子は、肝心なところで邪魔をする<br />いつだってあの人は、私を選んでくれない…！<br />一度生まれた憎悪は少女の心を蝕み、狂気へと走らせる
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

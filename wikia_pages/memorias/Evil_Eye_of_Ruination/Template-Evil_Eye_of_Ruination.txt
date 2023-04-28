@@ -7,7 +7,7 @@
 | Jname = 破滅を呼ぶ魔性の眼光
 | Rarity = 3
 | ID = 1491
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 571

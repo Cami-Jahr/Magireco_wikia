@@ -7,7 +7,7 @@
 | Jname = ３人のサマーバケーション
 | Rarity = 4
 | ID = 1520
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 882

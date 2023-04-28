@@ -7,7 +7,7 @@
 | Jname = 求める光、救われる未来
 | Rarity = 4
 | ID = 1802
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

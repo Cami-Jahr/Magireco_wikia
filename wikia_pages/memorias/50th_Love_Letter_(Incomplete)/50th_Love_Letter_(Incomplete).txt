@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = スマホのメッセージじゃ彼女の熱い想いは伝わらない<br />直接告白しようと思っても、顔を直視することだってできない<br />だからこの1枚の紙に自分の字で自分の想いをギュッと詰める<br />寝る前に覚悟を決めた彼女は、スズメの声を聞きながら悩んでいる
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

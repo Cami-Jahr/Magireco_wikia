@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Iroha & Ui (Miko ver.)
 | name_jp = いろは・うい (巫女ver.)
 | name_na = 
@@ -133,7 +132,7 @@
 | Passive 13 icon = Dark Attribute Damage Cut
 | Passive 13 name = Dark Shield Aura [II]
 | Passive 13 name JP = ダークシールドオーラ[Ⅱ]
-| Passive 13 effect = Dark Attribute Damage Cut [II / 10%] (Allies / 5 Turns from start of battle)
+| Passive 13 effect = Dark Attribute Damage Cut [II / 10%] (Allies / 5 Turns on Battle Start)
 
 | Active 1 icon = Light Attribute Attack Up
 | Active 1 name = Light Regeneration [V]

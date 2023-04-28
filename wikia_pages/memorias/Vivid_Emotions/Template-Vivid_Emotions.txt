@@ -7,7 +7,7 @@
 | Jname = 想い鮮明
 | Rarity = 4
 | ID = 1800
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 980

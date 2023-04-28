@@ -1,0 +1,27 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Serial Connect
+| ImageSrc = 
+| Event = 
+
+| Naname = 
+| Jname = 直列コネクト
+| Rarity = 4
+| ID = 1882
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 940
+| min_ATK = 0
+| min_DEF = 860
+| max_HP = 2350
+| max_ATK = 0
+| max_DEF = 2150
+
+| image = Damage Increase
+| effect_name = Tempest 
+| effect_name_JP = テンペスト
+| effect1 = Damage Increase [IX / 45%] & Doppel Damage Up [II / 10%] (Self / 1 Turn)
+| effect2 = Damage Increase [X / 50%] & Doppel Damage Up [III / 15%] (Self / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 8
+}}

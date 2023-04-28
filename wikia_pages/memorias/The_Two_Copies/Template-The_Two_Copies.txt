@@ -7,7 +7,7 @@
 | Jname = コピーのふたり
 | Rarity = 3
 | ID = 1253
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 631

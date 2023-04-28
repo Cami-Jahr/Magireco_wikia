@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = その槍があるのは、過酷なる運命の扉を開いた先<br />その槍を持つ者は、天を駆け巡りて争乱に終止符を打つ戦士<br />その槍が貫くのは、業に翻弄された迷える魂<br />その槍で示すのは、うつし世に顕現した戦乙女の決意
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

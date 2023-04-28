@@ -7,7 +7,7 @@
 | Jname = 戦う少女に御利益を
 | Rarity = 4
 | ID = 1536
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 843

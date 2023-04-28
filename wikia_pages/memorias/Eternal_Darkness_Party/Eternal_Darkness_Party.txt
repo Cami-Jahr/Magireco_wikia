@@ -3,12 +3,8 @@
 {{MemoriaLore
 | jp = 「誰もが何者でもなくなる、常闇の世界へようこそ」<br />「恐れることはない…ここはどんな苦痛でも解かしてくれる」<br />「あらゆる不平等を覆い隠し、皆が等しい仲間になれる」<br />「さぁ、顔を隠して…永遠の闇の中で楽しみましょう？」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -7,7 +7,7 @@
 | Jname = 参上！恋する小さな乙女
 | Rarity = 4
 | ID = 1776
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

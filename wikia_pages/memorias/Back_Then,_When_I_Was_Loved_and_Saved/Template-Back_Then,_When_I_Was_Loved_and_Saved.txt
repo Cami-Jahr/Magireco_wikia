@@ -7,7 +7,7 @@
 | Jname = 愛され、救われていたあの頃
 | Rarity = 3
 | ID = 1783
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 709

@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Azusa Mifuyu (Fairy Tale ver.)
 | name_jp = 梓 みふゆ (おとぎ話ver.)
 | name_na = 
@@ -128,7 +127,7 @@
 | Passive 12 icon = Flame Attribute Attack Up
 | Passive 12 name = Flame Full Swing Up [V]
 | Passive 12 name JP = フレイム・フルスウィング[Ⅴ]
-| Passive 12 effect = Flame Attribute Attack Up [V / 15%] & Blast Damage Up [I / 15%] & Charged Attack Damage Up [I / 10%] (Allies / 5 Turns from start of battle)
+| Passive 12 effect = Flame Attribute Attack Up [V / 15%] & Blast Damage Up [I / 15%] & Charged Attack Damage Up [I / 10%] (Allies / 5 Turns on Battle Start)
 
 | Passive 13 icon = 
 | Passive 13 name = 

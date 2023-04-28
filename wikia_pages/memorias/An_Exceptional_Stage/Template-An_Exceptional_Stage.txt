@@ -7,7 +7,7 @@
 | Jname = とびっきりの舞台
 | Rarity = 4
 | ID = 1414
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 400

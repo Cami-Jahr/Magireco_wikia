@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 幼い頃からたくさんの植物や、動物と触れ合ってきた彼女。<br />動物とは大の仲良しで、動物達もそれを理解している。<br />自然や動物に囲まれた彼女の家は、彼女にとってまさに楽園である。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「“あけみまして”おめでとう～いい正月過ごしてる？」<br />「暁美さん、まどか先輩の寒いギャグなんて気にしちゃいけません」<br />「そうなのです！獅子舞のなぎさがバクッと食べてしまうのです！」<br />「その必要はないわ。せっかくまどかが名前を使ってくれたんだもの」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

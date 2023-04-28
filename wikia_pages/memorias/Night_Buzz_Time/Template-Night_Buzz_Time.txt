@@ -7,7 +7,7 @@
 | Jname = ナイトバズタイム
 | Rarity = 4
 | ID = 1609
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 886

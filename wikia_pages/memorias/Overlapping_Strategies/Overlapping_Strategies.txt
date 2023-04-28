@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = 争いの果てに残ったのは争いだった<br />謀の上に重ねられたのは謀だった<br />見飽きた光景、上塗りの結末、人が変わって同じ光景が刻まれる<br />願うばかり、ただ願うばかり、終われ終われと願うばかり
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 2 Bonus (Item Name)
+** Max Limit Break: Gain 5 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

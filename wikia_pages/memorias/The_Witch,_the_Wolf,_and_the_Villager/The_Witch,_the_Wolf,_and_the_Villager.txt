@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = ある村を人に化けた狼が襲った時、心の優しい魔女が現れた<br />魔女は村の窮地を救うが、村人たちは保身からこの魔女を追放する<br />善意が悪意を駆逐するが、新たな悪意によって善意が駆逐された<br />この魔女はいずこかで同じことをするのか、それとも…
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

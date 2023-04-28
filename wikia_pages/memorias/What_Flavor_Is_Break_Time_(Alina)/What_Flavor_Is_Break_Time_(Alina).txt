@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 集め集まる色んな気持ち。穢れの卵のすぐ傍で口にするのはどんな味？<br />広がってくのは愉悦の甘味<br />口から広がりハートに落ちて、うっとり静かに満たされる<br />もう少しだけ欲張って、口の中に入れようか
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

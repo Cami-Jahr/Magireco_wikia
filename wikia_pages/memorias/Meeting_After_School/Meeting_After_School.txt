@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = ひとつは、化粧道具と雑誌を詰めて…<br />ひとつは、何冊もの楽譜を詰めて…<br />放課後も大忙しのふたりが落ち着けるのは<br />習い事が終わってからの、みかづき荘でのひととき
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

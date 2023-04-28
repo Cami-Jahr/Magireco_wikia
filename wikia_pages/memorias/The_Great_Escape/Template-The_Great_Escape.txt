@@ -7,7 +7,7 @@
 | Jname = ザ・グレート・エスケープ
 | Rarity = 4
 | ID = 1548
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 762

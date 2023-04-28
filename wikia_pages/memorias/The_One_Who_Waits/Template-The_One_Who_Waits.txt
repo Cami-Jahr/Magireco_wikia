@@ -7,7 +7,7 @@
 | Jname = 待ち人
 | Rarity = 3
 | ID = 1346
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 668

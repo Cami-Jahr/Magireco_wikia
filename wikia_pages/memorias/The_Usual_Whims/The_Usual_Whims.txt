@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 筆記用具が変わっても、紡がれる言葉は変わらない？<br />私はそうは思わない<br />その仮説を検証したくて、ペンでの創作に凝り始めた<br />…親友に言わせると、いつものきまぐれ
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

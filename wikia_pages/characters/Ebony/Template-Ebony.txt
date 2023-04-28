@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Ebony
 | name_jp = エボニー
 | name_na = 
@@ -95,7 +94,7 @@
 | Passive 5 name JP = MPブースト[Ⅱ]
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Regenerate HP
+| Passive 6 icon = Regenerate MP
 | Passive 6 name = Mana Spring Adept [III]
 | Passive 6 name JP = マナスプリング・アデプト[Ⅲ]
 | Passive 6 effect = Regenerate MP [III / 6 MP]
@@ -115,15 +114,15 @@
 | Passive 9 name JP = アンチ・シールマギア
 | Passive 9 effect = Anti-Magia Seal
 
-| Passive 10 icon = Regenerate HP
+| Passive 10 icon = Regenerate MP
 | Passive 10 name = Mana Spring Aura [XV]
 | Passive 10 name JP = マナスプリングオーラ[XV]
-| Passive 10 effect = Regenerate MP [XV / 50 MP] (Self / 2 Turns from start of battle)
+| Passive 10 effect = Regenerate MP [XV / 50 MP] (Self / 2 Turns on Battle Start)
 
 | Passive 11 icon = Negate Status Ailments
 | Passive 11 name = Resist Shield
 | Passive 11 name JP = レジストシールド
-| Passive 11 effect = Negate Status Ailments [1 Status Ailment]
+| Passive 11 effect = Negate Status Ailments [1 Status Ailment] (∞ Turns on Battle Start)
 
 | Passive 12 icon = Dark Attribute Attack Up
 | Passive 12 name = Dark Thrust Adept [V]

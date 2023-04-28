@@ -7,7 +7,7 @@
 | Jname = 安らげる居場所
 | Rarity = 3
 | ID = 1268
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 580

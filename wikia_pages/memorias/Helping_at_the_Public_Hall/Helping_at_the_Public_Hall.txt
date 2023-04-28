@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 全ては気持ちに従った結果だから、心配する必要はどこにもない<br />楽しそうだなって思った時も、大丈夫かなって思った時も<br />自然と体が前に出て、彼女はお手伝いのために動いてしまう<br />今日だってそう。お婆ちゃんたちと団子を作るのが楽しみで仕方がない
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

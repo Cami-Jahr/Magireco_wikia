@@ -7,7 +7,7 @@
 | Jname = 夢で悲しみは許される
 | Rarity = 3
 | ID = 1450
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 580

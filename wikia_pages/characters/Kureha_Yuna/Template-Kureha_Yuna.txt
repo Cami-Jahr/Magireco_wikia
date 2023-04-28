@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Kureha Yuna
 | name_jp = 紅晴 結菜
 | name_na = 
@@ -85,7 +84,7 @@
 | Passive 3 name JP = チャージ・アデプト[Ⅱ]
 | Passive 3 effect = Charged Attack Damage Up [II / 10%]
 
-| Passive 4 icon = Attack Up When Ally Dies
+| Passive 4 icon = Attack Up
 | Passive 4 name = Fury Adept [II]
 | Passive 4 name JP = フューリィ・アデプト[Ⅱ]
 | Passive 4 effect = Attack Up When Ally Dies [II / 3.8%] & Defense Up When Ally Dies [II / 7.6%]
@@ -128,7 +127,7 @@
 | Passive 12 icon = Blast Damage Up
 | Passive 12 name = Weapon Blast Aura [II]
 | Passive 12 name JP = ウェポンブラストオーラ[Ⅱ]
-| Passive 12 effect = Blast Damage Up [II / 20%] & Damage Increase [I / 15%] (Allies / 5 Turns from start of battle)
+| Passive 12 effect = Blast Damage Up [II / 20%] & Damage Increase [I / 15%] (Allies / 5 Turns on Battle Start)
 
 | Passive 13 icon = 
 | Passive 13 name = 

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 教室もクラスメイトも、みんなのっぺりとして真っ白だった<br />あるのは授業を進める声と、鉛筆を走らせる無機質な音だけ<br />だけど今は夕日に照らされて、赤潮に満ちた景色が焼き付いている<br />たった一言が巨大な筆を走らせたから
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

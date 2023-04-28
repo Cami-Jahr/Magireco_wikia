@@ -7,7 +7,7 @@
 | Jname = ショータイムなんよ！
 | Rarity = 3
 | ID = 1759
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

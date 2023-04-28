@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 届かない…どうしても届かない！<br />どんなに努力を重ねても一番に届かなかった少女はもういない<br />叩き割られた鏡に映るのは、絶世の美少女…<br />砕けた鏡の中でさえ褪せない美しさを持った少女だ
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

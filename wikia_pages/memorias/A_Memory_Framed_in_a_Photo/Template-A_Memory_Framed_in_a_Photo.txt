@@ -7,7 +7,7 @@
 | Jname = 思い出は写真の中に…
 | Rarity = 4
 | ID = 1496
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 761

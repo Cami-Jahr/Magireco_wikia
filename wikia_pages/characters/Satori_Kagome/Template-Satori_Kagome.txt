@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Satori Kagome
 | name_jp = 佐鳥 かごめ
 | name_na = 
@@ -118,7 +117,7 @@
 | Passive 10 icon = Aqua Attribute Damage Cut
 | Passive 10 name = Aqua Shield Aura [III]
 | Passive 10 name JP = アクアシールド・オーラ[Ⅲ]
-| Passive 10 effect = Aqua Attribute Damage Cut [III / 15%] (Allies / 5 Turns from start of battle)
+| Passive 10 effect = Aqua Attribute Damage Cut [III / 15%] (Allies / 5 Turns on Battle Start)
 
 | Passive 11 icon = Dazzle on Attack
 | Passive 11 name = Mesmerize Edge [III]
@@ -128,7 +127,7 @@
 | Passive 12 icon = MP Gauge Increased On Battle Start
 | Passive 12 name = Fast Mana Up
 | Passive 12 name JP = ファスト・マナアップ
-| Passive 12 effect = MP Gauge Increased On Battle Start [30% full]
+| Passive 12 effect = MP Gauge Increased On Battle Start [30% full / Quest only]
 
 | Passive 13 icon = 
 | Passive 13 name = 

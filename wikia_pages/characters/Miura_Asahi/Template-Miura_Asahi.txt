@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Miura Asahi
 | name_jp = 三浦 旭
 | name_na = 
@@ -98,7 +97,7 @@
 | Passive 6 icon = Endure
 | Passive 6 name = Fortitude Adept
 | Passive 6 name JP = フォティチュード・アデプト
-| Passive 6 effect = Endure
+| Passive 6 effect = Endure [Quest only]
 
 | Passive 7 icon = Damage Cut
 | Passive 7 name = Shield Adept [II]
@@ -110,7 +109,7 @@
 | Passive 8 name JP = アクセル・アデプト[Ⅱ]
 | Passive 8 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 9 icon = Attack Up When Ally Dies
+| Passive 9 icon = Attack Up
 | Passive 9 name = Fury Adept [III]
 | Passive 9 name JP = フューリィ・アデプト[Ⅲ]
 | Passive 9 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]

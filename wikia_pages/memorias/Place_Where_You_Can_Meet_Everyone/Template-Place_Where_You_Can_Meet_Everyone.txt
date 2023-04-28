@@ -7,7 +7,7 @@
 | Jname = 皆さんに会える場所
 | Rarity = 4
 | ID = 1355
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 800

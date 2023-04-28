@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 雨の日の帰り道、こういう時は決まって…<br />ほら、みとが水たまりに飛び込んだ！そこを予想してガード！<br />ふふ～！もう慣れっこだもんね！次は私もやってみようかな…!?<br />それにしても、こういう時、自然に避けてるよね～、せいかは…！
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

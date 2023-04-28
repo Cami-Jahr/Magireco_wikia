@@ -7,7 +7,7 @@
 | Jname = お菓子の国のマミ
 | Rarity = 4
 | ID = 1462
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 881

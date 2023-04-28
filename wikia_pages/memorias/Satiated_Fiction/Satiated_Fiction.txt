@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 私が生きる世界は何かがおかしい…本当はどこかで気付いてた<br />それでも見えないふりをしてたのは、ここに私の幸福があったから<br />グリーフシードに困らなくて、みかづき荘のみんながいて、ういもいる<br />目を覚ませばもう簡単にはつかめない理想は、私が望む全てだった
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

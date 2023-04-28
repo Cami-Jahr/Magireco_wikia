@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 震える小さな手で渡されたのはマンドラゴラのぬいぐるみ <br />サプライズな贈り物に、胸がドキン！と音を立てる<br />「あの時、ひばりちゃんは知ってたんだよね<br />私が一番好きな本のことを」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -7,7 +7,7 @@
 | Jname = 休憩はおいしく
 | Rarity = 4
 | ID = 1515
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 908
@@ -17,7 +17,7 @@
 | max_ATK = 1870
 | max_DEF = 0
 
-| image = Defense Up While At Max Health
+| image = Defense Up
 | effect_name = Full Gauge Shield 
 | effect_name_JP = フルゲージ・シールド
 | effect1 = Defense Up While At Max Health [VII / 70%] & Damage Cut [III / 15%]

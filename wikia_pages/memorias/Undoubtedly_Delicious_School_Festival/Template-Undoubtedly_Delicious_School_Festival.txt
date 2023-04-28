@@ -7,7 +7,7 @@
 | Jname = きっとおいしい学園祭
 | Rarity = 3
 | ID = 1495
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 640

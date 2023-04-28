@@ -7,7 +7,7 @@
 | Jname = やさしいは作れる
 | Rarity = 4
 | ID = 1472
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 853

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 未だ恋を知らぬふたりの少女<br />愛を伝えるチョコレートは、ふたりに恋の行方を指し示す<br />願いと共に奇跡を得て、うたかたとなった彼女たちの命に<br />どうか春一番の訪れを
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

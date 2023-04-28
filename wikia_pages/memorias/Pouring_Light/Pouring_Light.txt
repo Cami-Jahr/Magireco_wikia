@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = あんなに大嫌いだったクリスマス<br />あんなに理解できなかったクリスマス<br />光の粒子が降り注いだ夜<br />固く閉ざされた心は少しずつ開いていった
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 1 Bonus (Item Name)
+** Max Limit Break: Gain 3 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 戦いの中で知った女の子、揺られた先にあるもうひとつの町<br />争い、助け、起こるひとつひとつの出来事が<br />互いに知らなかった星々をまとめると、一筋の糸になって結ばれる<br />これはそんな運命の連なり…（アニメ公式ガイドブック発売記念）
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

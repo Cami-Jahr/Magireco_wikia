@@ -7,7 +7,7 @@
 | Jname = 蒼い夜空と架空の夜会
 | Rarity = 4
 | ID = 1431
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 852

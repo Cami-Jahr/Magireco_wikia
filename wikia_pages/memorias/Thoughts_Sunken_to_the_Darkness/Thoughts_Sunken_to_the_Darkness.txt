@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 夢を追うため、自由を得るために支払った代償<br />魔法少女の契約は私が選んだ運命であり、後悔などはない<br />しかし、それは決して姉にさせてはならない<br />犠牲も、辛苦も、懊悩も、何もかもすべて私が引き受ける
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

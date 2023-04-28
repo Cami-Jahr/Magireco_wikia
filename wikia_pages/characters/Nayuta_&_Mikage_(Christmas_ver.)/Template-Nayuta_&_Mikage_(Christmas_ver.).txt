@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Nayuta & Mikage (Christmas ver.)
 | name_jp = 那由他・みかげ (クリスマスver.)
 | name_na = 
@@ -118,7 +117,7 @@
 | Passive 10 icon = Forest Attribute Attack Up
 | Passive 10 name = Timber Aura [V]
 | Passive 10 name JP = ティンバーオーラ[Ⅴ]
-| Passive 10 effect = Forest Attribute Attack Up [V / 15%] (Allies / 5 Turns from start of battle)
+| Passive 10 effect = Forest Attribute Attack Up [V / 15%] (Allies / 5 Turns on Battle Start)
 
 | Passive 11 icon = Anti-Magia Seal
 | Passive 11 name = Anti-Seal Magia

@@ -7,7 +7,7 @@
 | Jname = フューーージョン!!
 | Rarity = 4
 | ID = 1218
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 886

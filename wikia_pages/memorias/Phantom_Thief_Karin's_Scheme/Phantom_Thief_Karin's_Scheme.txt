@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = わたしに流れてる血、人を困らせるおばあちゃんの血<br />簡単には消せないんだって分かったけど<br />困らせた分だけ、わたしは幸せを分ける方法を見つけた<br />それが「怪盗かりん」…弱い人に幸せを配るただひとりの魔法少女
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

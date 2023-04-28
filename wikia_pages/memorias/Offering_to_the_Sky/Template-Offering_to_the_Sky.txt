@@ -7,7 +7,7 @@
 | Jname = 空に手向けて
 | Rarity = 4
 | ID = 1477
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 801

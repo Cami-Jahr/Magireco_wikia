@@ -7,7 +7,7 @@
 | Jname = 序幕での対峙
 | Rarity = 3
 | ID = 1806
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

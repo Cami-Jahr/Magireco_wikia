@@ -7,7 +7,7 @@
 | Jname = 入道雲を背に登場！
 | Rarity = 4
 | ID = 1652
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

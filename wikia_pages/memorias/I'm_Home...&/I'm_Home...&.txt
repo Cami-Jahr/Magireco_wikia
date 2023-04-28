@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = ふわふわの泡は嫌なことを洗い流してくれる<br />温かなお湯は身体だけではなく心も温めてくれる<br />外の世界で忘れてしまった些細な幸福がここにはある<br />だから、ここはわたしがわたしに戻れる場所
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

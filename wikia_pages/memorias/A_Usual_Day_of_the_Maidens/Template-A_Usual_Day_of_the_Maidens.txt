@@ -7,7 +7,7 @@
 | Jname = 乙女たちの日常
 | Rarity = 3
 | ID = 1627
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

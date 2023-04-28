@@ -7,7 +7,7 @@
 | Jname = 誠意のハート
 | Rarity = 3
 | ID = 1556
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 720

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「ほむらちゃん、このシャツかわいいね」「うん！おそろいだしね！」<br />「でも、この服でカレーは食べない方がいいかな」「な、なんで？」<br />「だってもしカレーが飛んだら、白地で目立っちゃうし…」「そ、そしたら、<br />私もつけちゃおうかな！だから大丈夫だよ！」（ココイチコラボ記念）
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 象徴の魔女の手下、その役割は繁殖。<br />人間から奪った生命力に応じ成長する姿を変えると言われる<br />象徴の魔女の手下達の中で、イス憑きと呼ばれる種類。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

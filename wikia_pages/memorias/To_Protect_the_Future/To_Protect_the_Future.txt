@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 学校じゃ教えてくれない魔法少女の歴史<br />教授の言葉が沁み込んで、頭の中に過去の世界が広がっていく<br />難しい用語も多くて大変だけど、みんなのためなら頑張れる<br />この時間が、いつか魔法少女たちへの恩返しになると信じているから
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

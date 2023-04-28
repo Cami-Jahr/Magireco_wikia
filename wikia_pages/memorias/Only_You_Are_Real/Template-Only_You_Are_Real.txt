@@ -7,7 +7,7 @@
 | Jname = 君だけが真実
 | Rarity = 4
 | ID = 1400
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 800

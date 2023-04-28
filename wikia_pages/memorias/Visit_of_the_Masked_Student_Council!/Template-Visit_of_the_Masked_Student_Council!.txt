@@ -7,7 +7,7 @@
 | Jname = 仮面生徒会参上！
 | Rarity = 4
 | ID = 1625
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

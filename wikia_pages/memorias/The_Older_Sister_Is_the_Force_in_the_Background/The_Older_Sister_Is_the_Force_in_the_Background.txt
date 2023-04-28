@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 家計簿をつけるようになったのはいつからだったか<br />タイムセールに走り、アルバイトをはしごし、慌ただしい日々の中<br />いつしか、かつての記憶に浸る余裕なんてどこかへ消えていた<br />唯一確かなのは、家族を守るためひたすらに赤い字を追っていたこと
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

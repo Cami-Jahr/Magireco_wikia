@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 希望は夜に預けた。不安はお互いに預けた<br />明かりが見せてくれる町の輪郭。偽りを真実にするための舞台<br />あなたが隣にいて掌から伝わる熱だけが現実を感じさせる<br />飛び下りずに飛び上がろう。自分たちの道を作りに
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

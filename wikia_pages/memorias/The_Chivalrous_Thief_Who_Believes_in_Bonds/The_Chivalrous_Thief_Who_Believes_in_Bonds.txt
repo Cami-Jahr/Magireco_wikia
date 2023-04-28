@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 命を受け、燃えて、尽きて、灰になって…眠る…<br />心を寄せる仲間と共に、その流転に身を預けたかったから<br />遙か古に生きた祖先は契りを交して、闇を駆ける賊となった<br />国であえぐ者と己のために、今宵も富をかすめる炎となる
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

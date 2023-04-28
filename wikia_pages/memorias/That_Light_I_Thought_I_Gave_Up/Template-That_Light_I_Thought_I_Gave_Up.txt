@@ -7,7 +7,7 @@
 | Jname = 諦めたはずの光
 | Rarity = 4
 | ID = 1723
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 816

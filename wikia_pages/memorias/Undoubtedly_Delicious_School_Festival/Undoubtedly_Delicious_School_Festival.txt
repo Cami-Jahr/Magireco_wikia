@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「きっと今年の学園祭も、屋台のいい匂いがた～くさんっ溢れてて<br />元気に呼びかけられたらアレもコレも買わないわけにはいかないから<br />あっという間に両手はいっぱいに…ああ、想像しただけでよだれが…<br />はぁ～、学園祭のことを考えただけでお腹が空いちゃうよぉ～…」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

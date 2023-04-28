@@ -7,7 +7,7 @@
 | Jname = いなくなったりはしませんよ
 | Rarity = 4
 | ID = 1283
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 841

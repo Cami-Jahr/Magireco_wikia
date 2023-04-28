@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 今年もまた、冬がやってきた<br />冷たい風が吹き始め、人々は肩をすくめて街を行き交う<br />だけど、この季節は寒さも忘れるくらいの楽しみだっていっぱいある<br />その期待が膨らんでいくほどに、暖かな気持ちが広がっていく
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

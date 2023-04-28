@@ -7,7 +7,7 @@
 | Jname = 常闇のパーティー
 | Rarity = 3
 | ID = 1822
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

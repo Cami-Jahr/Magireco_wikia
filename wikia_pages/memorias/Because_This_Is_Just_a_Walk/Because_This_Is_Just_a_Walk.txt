@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = 「このは～、あやめの後をつけるのはやめようよ…」<br />「…偶然そう見えてるだけよ。私の目的は写真撮影だから…」<br />（あやめに何かあったら困るし…見守るだけならいいわよね…）<br />（このは…きっと“見守るだけなら”って考えてるな、こりゃ…）
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 5 Bonus (Item Name)
+** Max Limit Break: Gain 15 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

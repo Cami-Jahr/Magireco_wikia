@@ -7,7 +7,7 @@
 | Jname = 甘いおすそわけ
 | Rarity = 4
 | ID = 1303
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 892

@@ -7,7 +7,7 @@
 | Jname = どうかここで終わらせて
 | Rarity = 3
 | ID = 1553
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

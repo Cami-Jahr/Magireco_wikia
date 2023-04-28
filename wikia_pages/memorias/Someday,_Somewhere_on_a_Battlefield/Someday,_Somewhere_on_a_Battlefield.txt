@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = フランス王権と領土の回復へ向けて、趨勢が大きく傾いた15世紀半ば<br />ふたりの友がもたらした“光”を絶やさぬため<br />遺されたものたちは、ヨーロッパの戦場を今日も駆ける<br />願いは届く、その日を信じて
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

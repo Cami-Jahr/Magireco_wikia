@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = あたしの願いなんてちっぽけなもんだよ。良かれと思ったのに、<br />結局は失敗しちまったんだ…。だからこそ、あたしは心に決めた。<br />今度は失敗しない、自分のためだけに生きるって。<br />これがあたしのさ、曲げられない信念なんだよ。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

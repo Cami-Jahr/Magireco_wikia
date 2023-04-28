@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = いわれなき異端の罪に、理不尽な最期を迎えながら<br />聖女が発したのは、祈りと信仰の言葉だった<br />“乙女”の命が尽きる瞬間<br />人々は、飛び立つ純白のハトを見たという
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

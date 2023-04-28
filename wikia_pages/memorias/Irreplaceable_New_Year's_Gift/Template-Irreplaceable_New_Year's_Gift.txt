@@ -7,7 +7,7 @@
 | Jname = かけがえのないお年玉
 | Rarity = 4
 | ID = 1848
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

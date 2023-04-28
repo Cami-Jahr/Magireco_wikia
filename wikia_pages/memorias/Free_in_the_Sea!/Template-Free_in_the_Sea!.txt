@@ -7,7 +7,7 @@
 | Jname = 海の中でも自由自在！
 | Rarity = 3
 | ID = 1384
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 630

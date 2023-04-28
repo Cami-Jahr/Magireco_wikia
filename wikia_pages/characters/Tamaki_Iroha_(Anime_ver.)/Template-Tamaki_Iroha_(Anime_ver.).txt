@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Tamaki Iroha (Anime ver.)
 | name_jp = 環 いろは (アニメver.)
 | name_na = 
@@ -118,7 +117,7 @@
 | Passive 10 icon = Negate Status Ailments
 | Passive 10 name = Resist Shield
 | Passive 10 name JP = レジストシールド
-| Passive 10 effect = Negate Status Ailments [2 Status Ailments]
+| Passive 10 effect = Negate Status Ailments [2 Status Ailments] (∞ Turns on Battle Start)
 
 | Passive 11 icon = Regenerate HP
 | Passive 11 name = Nursing Care [III]
@@ -128,7 +127,7 @@
 | Passive 12 icon = Regenerate HP
 | Passive 12 name = Neatness Aura [V]
 | Passive 12 name JP = ニートネス・オーラ[Ⅴ]
-| Passive 12 effect = Regenerate HP [V / 6%] & Status Ailment Resistance Up [II / 15%] (Allies / 5 Turns from start of battle)
+| Passive 12 effect = Regenerate HP [V / 6%] & Status Ailment Resistance Up [II / 15%] (Allies / 5 Turns on Battle Start)
 
 | Passive 13 icon = 
 | Passive 13 name = 

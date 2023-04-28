@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Iroha & Yachiyo (Final Battle ver.)
 | name_jp = いろは・やちよ (決戦ver.)
 | name_na = 
@@ -110,7 +109,7 @@
 | Passive 8 name JP = モラール・アデプト[Ⅲ]
 | Passive 8 effect = MP Gain Up [III / 10%]
 
-| Passive 9 icon = Attack Up When Ally Dies
+| Passive 9 icon = Attack Up
 | Passive 9 name = Inherited Protection [III]
 | Passive 9 name JP = 受け継ぎし加護[Ⅲ]
 | Passive 9 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]

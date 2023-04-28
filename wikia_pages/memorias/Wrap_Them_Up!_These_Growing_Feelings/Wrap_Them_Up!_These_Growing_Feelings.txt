@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 楽しい気持ち、嬉しい気持ち、喜んでほしい気持ち…<br />たくさんの気持ちをぎゅっと込めたチョコレート<br />素敵に包んで、大切なあなたにお届け！<br />包みを開けた瞬間、どんな風に喜んでくれるかな？
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

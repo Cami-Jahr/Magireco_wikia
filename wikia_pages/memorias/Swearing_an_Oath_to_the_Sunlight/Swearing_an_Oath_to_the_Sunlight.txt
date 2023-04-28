@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 海辺にひとり静かに佇み、目の前の景色を見つめていると<br />戦場で聞いた戦士たちの咆哮が胸を突き抜けていく<br />水平線に沈む陽は、強く輝きながら空を茜色に染める<br />そしてそれは何度も繰り返す…明日も、明後日も、その先も
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -7,7 +7,7 @@
 | Jname = 筆を走らす恋ごころ
 | Rarity = 4
 | ID = 1445
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 760

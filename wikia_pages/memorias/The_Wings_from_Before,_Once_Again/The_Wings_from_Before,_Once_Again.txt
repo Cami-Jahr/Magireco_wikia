@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「あの時はふたりが天使になったのかと思ってビックリしちゃったわぁ」<br />「む、自分は驚きはしたが、意外と自然なことかと思ってしまったぞ」<br />「いやいや、あんなのは現代の科学でも証明できるもんじゃないぞ…」<br />「観鳥さんの写真にも、羽は写ってなかったからねぇ」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -7,7 +7,7 @@
 | Jname = アレもコレもと欲張りたい
 | Rarity = 4
 | ID = 1529
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 844

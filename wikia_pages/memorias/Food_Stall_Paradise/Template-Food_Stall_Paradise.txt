@@ -7,7 +7,7 @@
 | Jname = 屋台パラダイス
 | Rarity = 4
 | ID = 1293
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 808

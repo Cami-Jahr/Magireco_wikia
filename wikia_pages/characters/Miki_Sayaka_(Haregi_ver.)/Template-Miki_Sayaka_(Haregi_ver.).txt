@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Miki Sayaka (Haregi ver.)
 | name_jp = 美樹 さやか (晴着ver.)
 | name_na = 
@@ -83,7 +82,7 @@
 | Passive 3 icon = Survive
 | Passive 3 name = Survive Adept [I]
 | Passive 3 name JP = サヴァイヴ・アデプト[Ⅰ]
-| Passive 3 effect = Survive [I / 20% HP]
+| Passive 3 effect = Survive [I / 20% HP / Quest only]
 
 | Passive 4 icon = MP Gain Up When Over 100 MP
 | Passive 4 name = MP Boost [II]

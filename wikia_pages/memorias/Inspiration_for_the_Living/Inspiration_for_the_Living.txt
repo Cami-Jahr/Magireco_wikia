@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 刀身が鞘に収まる刹那、鯉口と鍔が乾いた音を鳴らすと<br />弓を引き絞っているかのように張り詰めていた心がゆるんで<br />口から静かに吐息がもれる<br />それは「これで領民が救われた」という戦神子が安堵した瞬間
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -7,7 +7,7 @@
 | Jname = 指を結んだあの日
 | Rarity = 3
 | ID = 1576
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 660

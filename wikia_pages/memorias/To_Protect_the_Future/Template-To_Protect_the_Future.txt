@@ -7,7 +7,7 @@
 | Jname = 守るべき未来のために
 | Rarity = 3
 | ID = 1830
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 740
@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Cut
-| effect_name = HShield Adept 
+| effect_name = H Shield Adept 
 | effect_name_JP = Hシールド・アデプト
 | effect1 = Damage Cut [I / 5%] & Defense Up [II / 15%]
 | effect2 = Damage Cut [II / 10%] & Defense Up [III / 22.5%]

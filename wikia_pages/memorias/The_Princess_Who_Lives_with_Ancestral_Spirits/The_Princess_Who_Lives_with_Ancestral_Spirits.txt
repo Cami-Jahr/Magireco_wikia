@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 父祖の地を追いやられて幾星霜<br />舞い戻る意志は胸に抱けど、燻る復讐の炎には水をかぶせる<br />成すべきは、ただ北養の山に立って民を潤すせせらぎを刻むだけ<br />望郷の念が萌芽しても、水名は欲に溺れない
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

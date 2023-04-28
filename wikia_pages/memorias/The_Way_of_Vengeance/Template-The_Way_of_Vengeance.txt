@@ -7,7 +7,7 @@
 | Jname = 仇討ちはその手で
 | Rarity = 4
 | ID = 1593
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

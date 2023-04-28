@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「困っている人に手を差し伸べることこそ武の存在意義」<br />幼い頃から、そう教わってきた彼女は、<br />それを成し遂げるだけの力をつけてきた。<br />若くして黒帯を締めていることこそが、その証明である。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

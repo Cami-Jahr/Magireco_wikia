@@ -7,7 +7,7 @@
 | Jname = 笑顔が本当の贈りもの
 | Rarity = 4
 | ID = 1575
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 800

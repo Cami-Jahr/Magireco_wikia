@@ -18,7 +18,7 @@
 | max_DEF = 1075
 
 | image = Charge Combo Charge Count Up
-| effect_name = C Combo Plus Shield 
+| effect_name = C コンボプラス Shield 
 | effect_name_JP = Cコンボプラス・シールド
 | effect1 = Charge Combo Charge Count Up [+2] & Damage Cut [IV / 20%] (Self / 3 Turns)
 | effect2 = Charge Combo Charge Count Up [+2] & Damage Cut [IV / 20%] (Self / 3 Turns)

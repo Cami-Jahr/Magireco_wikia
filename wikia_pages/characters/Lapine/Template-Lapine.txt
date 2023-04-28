@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Lapine
 | name_jp = ラピヌ
 | name_na = 
@@ -88,7 +87,7 @@
 | Passive 4 icon = Endure
 | Passive 4 name = Fortitude Adept
 | Passive 4 name JP = フォティチュード・アデプト
-| Passive 4 effect = Endure
+| Passive 4 effect = Endure [Quest only]
 
 | Passive 5 icon = Doppel Damage Up
 | Passive 5 name = Doppel Adept [I]

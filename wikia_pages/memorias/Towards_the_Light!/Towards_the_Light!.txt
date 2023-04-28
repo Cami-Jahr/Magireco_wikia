@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「一家の命運は私の両肩にズシーンとのしかかっている…。<br />プレッシャー？もちろんあるよ！…でも私はやるんだから！<br />きっとチャンスをモノにしてみせるんだから！<br />気合はいつだって十分！この由比鶴乃に任せてっての！」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

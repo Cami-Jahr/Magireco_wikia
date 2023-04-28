@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 仲間からの容赦ない一言は、彼女の脳天を撃ち抜いた<br />今まで、当たり前に好きだったそれを否定されて自覚する<br />自分の趣味が特殊なものだと知り、彼女は決意した<br />「ミユは…ミユは、足に打ち勝つために修行するんです！」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

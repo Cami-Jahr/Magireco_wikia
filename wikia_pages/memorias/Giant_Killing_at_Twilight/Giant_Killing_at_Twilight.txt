@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 譲れない目的があるから、伝えたい想いがあるから<br />少女たちは本気でぶつかりあう<br />「…ふふっ、面白い…勝負はこうでなくちゃね…！」<br />「次は…外さないよ…教官…！」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

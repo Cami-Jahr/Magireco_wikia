@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「諦めていた普通の女の子として生きる夢<br />だけど一瞬でも見てしまった、普通の女性として生きたい未来<br />それだけで崩れてしまった、積み重ねた覚悟は、容易く崩れてしまった<br />脆いワタシが重ねた罪は、どうやって購うべきでしょうか…」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

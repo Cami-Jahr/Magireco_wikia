@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = いつか父にもらったこの子とは、もう長い付き合いになる<br />だけど、エサを食べる姿や部屋を飛ぶ姿を見ても、考えはわからない<br />逃げもせず、止まり木であなたは何を考えているの…？<br />もしかしてこの子は、遠くを見て待っているだけなのかもしれない
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

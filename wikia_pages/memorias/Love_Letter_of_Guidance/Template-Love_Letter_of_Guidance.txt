@@ -7,7 +7,7 @@
 | Jname = 導きのラブレター
 | Rarity = 4
 | ID = 1662
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

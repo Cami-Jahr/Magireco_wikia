@@ -7,7 +7,7 @@
 | Jname = ゆっくりと、でも着実に
 | Rarity = 4
 | ID = 1774
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 979

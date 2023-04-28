@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = 「ハロー、私が来たからにはもう安心して<br />宝崎を悪い魔女から守る正義のヒーローだから！<br />別に秘密にしているわけじゃないから、写真も動画も問題なし！<br />動画配信サイトやSNSにアップするのは全然オッケーだからねｗ」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 5 Bonus (Item Name)
+** Max Limit Break: Gain 15 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「いや～、ひとりになると、どうしてもダメなんすよね…<br />気がついたら楽な方に流れて行くんすよ…<br />どうしてかって聞かれて答えられるぐらいなら苦労はしないっす<br />好きで無気力になりたいなんて思ってないんすから」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

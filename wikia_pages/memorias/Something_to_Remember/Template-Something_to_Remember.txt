@@ -7,7 +7,7 @@
 | Jname = いつか思い出とするために
 | Rarity = 3
 | ID = 1532
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 631

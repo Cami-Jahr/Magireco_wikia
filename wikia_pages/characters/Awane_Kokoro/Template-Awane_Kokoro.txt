@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Awane Kokoro
 | name_jp = 粟根 こころ
 | name_na = 
@@ -103,7 +102,7 @@
 | Passive 7 icon = Endure
 | Passive 7 name = Fortitude Adept
 | Passive 7 name JP = フォティチュード・アデプト
-| Passive 7 effect = Endure
+| Passive 7 effect = Endure [Quest only]
 
 | Passive 8 icon = Blast Damage Cut
 | Passive 8 name = Blast Shield [III]

@@ -7,7 +7,7 @@
 | Jname = 全ての視線は私のもの
 | Rarity = 3
 | ID = 1202
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 543

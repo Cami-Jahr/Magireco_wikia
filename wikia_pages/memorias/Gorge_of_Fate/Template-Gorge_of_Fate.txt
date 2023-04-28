@@ -7,7 +7,7 @@
 | Jname = 宿業の峡谷
 | Rarity = 3
 | ID = 1872
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 620

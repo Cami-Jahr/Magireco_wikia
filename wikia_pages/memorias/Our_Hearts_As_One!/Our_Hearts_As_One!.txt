@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = みんなと一緒に野球をすることが彼女の幸せだ。<br />夏は男子に混じって汗だくになりながら、<br />冬は両手からたくさんの血を流しながら、<br />それでも彼女は、みんながいるから幸せだった。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

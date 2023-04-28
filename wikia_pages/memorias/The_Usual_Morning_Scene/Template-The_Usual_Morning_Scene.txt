@@ -7,7 +7,7 @@
 | Jname = いつもの朝の光景
 | Rarity = 3
 | ID = 1592
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

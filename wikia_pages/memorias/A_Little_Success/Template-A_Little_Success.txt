@@ -7,7 +7,7 @@
 | Jname = ちょっとの成功
 | Rarity = 4
 | ID = 1467
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

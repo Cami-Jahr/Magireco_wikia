@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「行くのです！もっとスピードを上げるのです！」<br />「わかった、最短距離になるようにコースを取ってみる」<br />「操縦は任せるのです。障害物はなぎさが蹴散らすのです！」<br />「ウォータースライダーに障害物はないと思う…」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

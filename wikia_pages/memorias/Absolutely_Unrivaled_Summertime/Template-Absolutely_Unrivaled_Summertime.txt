@@ -7,7 +7,7 @@
 | Jname = 絶対無敵サマータイム
 | Rarity = 4
 | ID = 1525
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 841

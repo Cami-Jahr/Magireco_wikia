@@ -7,7 +7,7 @@
 | Jname = 若く可憐なる王妃
 | Rarity = 4
 | ID = 1624
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 893

@@ -7,7 +7,7 @@
 | Jname = 星合に浮かぶ
 | Rarity = 3
 | ID = 1640
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 728

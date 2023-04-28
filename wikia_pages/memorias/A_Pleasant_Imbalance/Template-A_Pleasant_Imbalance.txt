@@ -7,7 +7,7 @@
 | Jname = 心地よいアンバランス
 | Rarity = 4
 | ID = 1138
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 841
@@ -17,7 +17,7 @@
 | max_ATK = 1902
 | max_DEF = 0
 
-| image = Attack Up While At Max Health
+| image = Attack Up
 | effect_name = Full Gauge Drive 
 | effect_name_JP = フルゲージドライブ
 | effect1 = Attack Up While At Max Health [IV / 20%]

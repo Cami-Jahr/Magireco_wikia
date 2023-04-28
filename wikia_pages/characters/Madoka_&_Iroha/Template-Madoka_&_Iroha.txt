@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Madoka & Iroha
 | name_jp = まどか・いろは
 | name_na = 
@@ -95,7 +94,7 @@
 | Passive 5 name JP = シールド・アデプト[Ⅱ]
 | Passive 5 effect = Damage Cut [II / 10%]
 
-| Passive 6 icon = Regenerate HP
+| Passive 6 icon = Regenerate MP
 | Passive 6 name = Mana Spring Adept [VII]
 | Passive 6 name JP = マナスプリング・アデプト[Ⅶ]
 | Passive 6 effect = Regenerate MP [VII / 12 MP]
@@ -113,12 +112,12 @@
 | Passive 9 icon = Accele MP Gain Up
 | Passive 9 name = All Disc Aura [III]
 | Passive 9 name JP = オールディスクオーラ[Ⅲ]
-| Passive 9 effect = Accele MP Gain Up [III / 15%] & Charged Attack Damage Up [III / 15%] & Blast Damage Up [III / 25%] (Allies / 5 Turns from start of battle)
+| Passive 9 effect = Accele MP Gain Up [III / 15%] & Charged Attack Damage Up [III / 15%] & Blast Damage Up [III / 25%] (Allies / 5 Turns on Battle Start)
 
 | Passive 10 icon = Negate Status Ailments
 | Passive 10 name = Anti-Magic Aura
 | Passive 10 name JP = アンチマジックオーラ
-| Passive 10 effect = Negate Status Ailments [2 Status Ailments] & Anti-Debuff [2 Debuffs] (Allies / 5 Turns from start of battle)
+| Passive 10 effect = Negate Status Ailments [2 Status Ailments] & Anti-Debuff [2 Debuffs] (Allies / 5 Turns on Battle Start)
 
 | Passive 11 icon = Status Ailment Resistance Up
 | Passive 11 name = Resist Adept [II]

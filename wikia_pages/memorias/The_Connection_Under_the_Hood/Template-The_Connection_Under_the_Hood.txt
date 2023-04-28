@@ -7,7 +7,7 @@
 | Jname = フードの中の繋がり
 | Rarity = 4
 | ID = 1434
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 734

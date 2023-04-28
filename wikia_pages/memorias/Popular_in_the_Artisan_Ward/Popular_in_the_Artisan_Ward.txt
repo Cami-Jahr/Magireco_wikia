@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = いつもニコニコ笑顔で、お店をテキパキお手伝いして<br />会うと元気がもらえるって評判の子は<br />工匠区のお弁当屋さんにいる看板娘<br />「お待たせしました！当店自慢の唐揚げ弁当ですっ！」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

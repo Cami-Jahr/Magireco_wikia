@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 天真爛漫な妹と、心配性の姉に挟まれて<br />気を揉むことはしょっちゅうあるけどさ<br />アタシはいつも幸せで、毎日が満ち足りてるよ<br />だからありがとう、院長先生。あの日ネックレスをくれて…
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

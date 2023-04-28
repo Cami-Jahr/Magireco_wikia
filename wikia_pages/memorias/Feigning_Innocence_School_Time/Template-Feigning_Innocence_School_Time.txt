@@ -7,7 +7,7 @@
 | Jname = 猫かぶりスクールタイム
 | Rarity = 4
 | ID = 1587
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 846

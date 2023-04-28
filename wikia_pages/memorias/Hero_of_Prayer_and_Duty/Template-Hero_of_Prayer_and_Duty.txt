@@ -7,7 +7,7 @@
 | Jname = 祈りと使命のヒーロー
 | Rarity = 3
 | ID = 1562
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 601

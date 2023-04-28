@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 消え去りたいと願ったこと。独りで仇を探し続けること。喪われた誇りを追い求めたこと。守るために孤独を選んだこと。そして…忘れ去られた大切な人のこと。何かをなくした私たちは、不思議な因果で結ばれ、この場所に集った。いまはもう新しい物語が動き始めている
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

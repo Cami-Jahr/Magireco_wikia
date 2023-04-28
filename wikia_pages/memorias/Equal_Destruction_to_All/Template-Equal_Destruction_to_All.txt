@@ -7,7 +7,7 @@
 | Jname = 等しき滅びをすべてに
 | Rarity = 4
 | ID = 1815
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 940

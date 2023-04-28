@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = うつむいて、いつまでも下を向くのはやめようよ<br />そうしていても、自分の足元しか見えないよ…？<br />顔を上げて、前を見て、恐れずに進んで行こうよ<br />きっといつか、素敵な景色に出会えるから…！
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 3 Bonus (Item Name)
+** Max Limit Break: Gain 7 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 祈りは彼方　悲しみと苦しみから放たれた　私たちの未来へ<br />道のりはあと幾何か　そう遠くない未来に辿り付く<br />だからみんなも祈りましょう　全ての魔法少女のために祈りましょう<br />悲願を成せた喜びを　救われた喜びを　一緒に分かち合うために
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -7,7 +7,7 @@
 | Jname = 何気ない１日のシメ
 | Rarity = 4
 | ID = 1877
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 940

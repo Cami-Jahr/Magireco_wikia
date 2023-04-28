@@ -7,7 +7,7 @@
 | Jname = 夜天の書の主
 | Rarity = 3
 | ID = 1363
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 611

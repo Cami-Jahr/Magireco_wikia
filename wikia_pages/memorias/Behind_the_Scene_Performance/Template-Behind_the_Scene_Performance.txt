@@ -7,7 +7,7 @@
 | Jname = 裏方独演会
 | Rarity = 4
 | ID = 1465
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 849

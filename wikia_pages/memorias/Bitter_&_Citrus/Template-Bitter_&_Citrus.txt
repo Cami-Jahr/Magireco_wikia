@@ -7,7 +7,7 @@
 | Jname = ビター＆シトラス
 | Rarity = 4
 | ID = 1863
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 
@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Damage Cut
-| effect_name = HShield Adept 
+| effect_name = H Shield Adept 
 | effect_name_JP = Hシールド・アデプト
 | effect1 = 
 | effect2 = Damage Cut [III / 15%] & Defense Up [II / 15%]

@@ -7,7 +7,7 @@
 | Jname = ミコト・イン・ミラーズ
 | Rarity = 4
 | ID = 1808
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 940
