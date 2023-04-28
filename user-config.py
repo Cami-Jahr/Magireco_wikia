@@ -131,7 +131,7 @@ maxthrottle = 60
 
 # Slow down the robot such that it never makes a second page edit within
 # 'put_throttle' seconds.
-put_throttle: Union[int, float] = 10
+put_throttle: Union[int, float] = 1
 
 # Sometimes you want to know when a delay is inserted. If a delay is larger
 # than 'noisysleep' seconds, it is logged on the screen.
