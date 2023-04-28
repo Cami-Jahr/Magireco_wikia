@@ -1,4 +1,4 @@
-from uploader import uploader
+import requests
 import re
 
 
@@ -27,8 +27,8 @@ def get_list(li):
 
 def get_online_list(li):
     names = {}
-    text = uploader.download_parsed_page(li)
-    for line in re.search(r".*?<p>(.*?)</p>.*?", text, re.DOTALL).group(1).split("¤"):
+    text = requests.get('https://magireco.fandom.com/wiki/' + li).text
+    for line in re.search(r'.*?<div class="mw-parser-output"><p>(.*?)</p>.*?', text, re.DOTALL).group(1).split("¤"):
         if line.strip():
             _id, name = line.strip().replace("&amp;", "&").split(";")
             names[int(_id)] = name
