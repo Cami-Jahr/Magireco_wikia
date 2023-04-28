@@ -7,7 +7,7 @@
 | Jname = いざ、宝探し！
 | Rarity = 4
 | ID = 1381
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 780

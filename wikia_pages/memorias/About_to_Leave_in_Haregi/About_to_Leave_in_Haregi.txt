@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = 「鹿目さんと一緒に初詣をして、お団子を買って…<br />入院していた頃は考えられなかったなぁ…<br />…うんっ！せっかくのお正月だもん<br />今日は、目一杯楽しまなきゃ…！」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 1 Bonus (Item Name)
+** Max Limit Break: Gain 5 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

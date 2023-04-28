@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 生け花はまるで鏡のよう。<br />いけながら見つめているのは花ではなく、己の心。<br />見せかけだけの華やかさは、ただ虚ろなだけ。<br />研ぎ澄まし、洗練し、突き詰めた先に美は存在する。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

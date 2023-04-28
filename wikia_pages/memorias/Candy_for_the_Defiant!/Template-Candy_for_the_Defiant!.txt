@@ -7,7 +7,7 @@
 | Jname = 逆らう者にはキャンディを！
 | Rarity = 4
 | ID = 1817
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 860

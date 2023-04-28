@@ -7,7 +7,7 @@
 | Jname = メモリアサーキット・コア
 | Rarity = 4
 | ID = 1148
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

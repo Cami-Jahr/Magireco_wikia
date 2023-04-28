@@ -3,12 +3,8 @@
 {{MemoriaLore
 | jp = 「あー…楽しいんですケド…エンジョイしてるワケ…」<br />「あの…アリナさん…口元が引きつってます…」<br />気が滅入るようなナイトメアハロウィン…<br />あっちもこっちもクレイジーで、楽しむフリも無理なワケ
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

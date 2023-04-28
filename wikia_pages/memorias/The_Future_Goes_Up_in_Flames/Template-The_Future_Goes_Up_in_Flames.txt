@@ -7,7 +7,7 @@
 | Jname = 未来は炎に消えて
 | Rarity = 3
 | ID = 1691
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 702

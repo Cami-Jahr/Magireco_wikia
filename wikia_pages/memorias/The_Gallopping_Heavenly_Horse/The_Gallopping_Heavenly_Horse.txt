@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = いななきが空より響き渡ると、戦乙女の天馬が姿を現す<br />風を力強く踏みしめて疾駆し、たちまち厚い雲を突き抜ける<br />その威容を仰ぎ見れば、誰もが畏敬と畏怖を心に抱く<br />虹の橋を目指して、いざ行かん、ユグドラシルまで
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

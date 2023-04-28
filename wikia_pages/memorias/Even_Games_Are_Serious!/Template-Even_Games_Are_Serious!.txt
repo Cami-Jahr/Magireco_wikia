@@ -7,7 +7,7 @@
 | Jname = 遊びだって真剣勝負！
 | Rarity = 4
 | ID = 1794
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 819

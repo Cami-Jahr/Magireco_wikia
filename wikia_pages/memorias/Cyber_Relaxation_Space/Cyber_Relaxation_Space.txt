@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 触れることもできない、０と１だけで表現された世界。<br />けれど、その世界は確かにある。私の居場所を作っている。<br />自分を見失いそうになっても、ここに居れば取り戻せる。<br />だからここは安らぎの空間。自分だけの居場所。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

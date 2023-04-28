@@ -7,7 +7,7 @@
 | Jname = 休憩時間は何味？＜ねむ＞
 | Rarity = 3
 | ID = 1318
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 633

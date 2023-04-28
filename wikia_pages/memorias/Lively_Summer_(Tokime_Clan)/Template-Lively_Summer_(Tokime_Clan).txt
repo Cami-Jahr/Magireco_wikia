@@ -7,7 +7,7 @@
 | Jname = 弾むサマー＜時女一族＞
 | Rarity = 3
 | ID = 1648
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

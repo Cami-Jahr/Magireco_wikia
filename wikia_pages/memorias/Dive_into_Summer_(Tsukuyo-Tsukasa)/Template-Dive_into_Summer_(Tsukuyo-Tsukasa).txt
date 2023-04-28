@@ -7,7 +7,7 @@
 | Jname = 夏へダイブ＜月夜・月咲＞
 | Rarity = 4
 | ID = 1367
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 731

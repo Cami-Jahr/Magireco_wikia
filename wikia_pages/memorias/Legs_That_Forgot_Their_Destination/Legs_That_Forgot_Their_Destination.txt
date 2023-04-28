@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 等速移動が生む快適な風<br />機械的な上下運動が誘う心地よい眠り<br />このままのんびり身を任せて夢見た光景を目指そう<br />すべてを諦めここに来た…それを思い出すのはまだ早い
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

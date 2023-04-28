@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Yuzuki Hotori
 | name_jp = 柚希 ほとり
 | name_na = 
@@ -135,7 +134,7 @@
 | Passive 13 name JP = 
 | Passive 13 effect = 
 
-| Active 1 icon = Regenerate HP
+| Active 1 icon = Regenerate MP
 | Active 1 name = Mana Spring [V]
 | Active 1 name JP = マナスプリング[Ⅴ]
 | Active 1 effect = Regenerate MP [V / 9 MP] (Self / 3 Turns)

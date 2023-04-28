@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 男っぽい性格から、女の子同士の会話に入れてもらえないことも。<br />だがその中身は誰よりも女の子らしく、可愛いものが大好き。<br />似合わないと決めつけ卑下してしまう彼女が<br />カミングアウトできるのは、いつになるのだろうか。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

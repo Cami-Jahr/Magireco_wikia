@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = ひとりの少女とひとりの少年が出会い、絆を育んだ<br />まだ変わり始めたばかりのこの町では<br />“好き”という感情を守ることさえ難しいけれど…<br />くじけないだけの勇気と強さを持って、ふたりは歩んでいく
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

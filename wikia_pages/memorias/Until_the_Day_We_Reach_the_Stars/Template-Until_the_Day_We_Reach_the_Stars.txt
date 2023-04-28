@@ -7,7 +7,7 @@
 | Jname = 星に届く日まで
 | Rarity = 4
 | ID = 1743
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

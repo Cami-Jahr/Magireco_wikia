@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = ただ、想いたかった。ただ、想われたかった<br />叶わぬ夢に焦がれて消えた淡い淡い恋心<br />灘の底から浮かび上がって波間に消えゆく呼び声を<br />悲しいだけでは終わらせない
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 5 Bonus (Item Name)
+** Max Limit Break: Gain 15 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

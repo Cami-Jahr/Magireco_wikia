@@ -7,7 +7,7 @@
 | Jname = 泰党の得意技
 | Rarity = 3
 | ID = 1857
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 680

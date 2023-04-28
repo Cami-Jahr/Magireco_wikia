@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 家族のことや友だちのこと、時にはときめく恋だって<br />悩める少女たちが駆け込む、優しい場所の名前はみかづき荘<br />今日もみかづき荘は、少女たちの想いでひしめきあっている<br />…そんな、もしもの物語
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

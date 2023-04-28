@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 積み上げてきた大切な過去は、もう捨てることにした…<br />想いを馳せてきた幸福な未来は、すでに心の奥に隠した…<br />ただ見ないふりをして、自分の本音から耳を閉ざしていただけだから<br />思い出が色あせていくのに耐えられず、自分が色あせていった　
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

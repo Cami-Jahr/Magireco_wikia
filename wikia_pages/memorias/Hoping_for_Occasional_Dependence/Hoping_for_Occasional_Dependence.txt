@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = いつものお礼には、きっと全然足りないけれど<br />今日くらいは、幼い日に過ごしたクリスマスのように<br />めいいっぱい楽しんで、めいいっぱい甘えてほしい<br />だから、ケーキのイチゴもサンタさんも、とっておきは全部あなたへ！
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

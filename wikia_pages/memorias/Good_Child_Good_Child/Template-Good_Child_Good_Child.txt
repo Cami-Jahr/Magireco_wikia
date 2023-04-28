@@ -7,7 +7,7 @@
 | Jname = いい子いい子
 | Rarity = 4
 | ID = 1606
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「黒い制服も、メイドの絶対服従も、生徒会だけに許された特権ですわ」<br />「校則で決まってるんだから、誰も文句は言えないよなァ？」<br />「ちなみに仮面は校則で禁止されているので、実は校則違反ですわ」<br />「そーそー！…って、ええっ!?」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

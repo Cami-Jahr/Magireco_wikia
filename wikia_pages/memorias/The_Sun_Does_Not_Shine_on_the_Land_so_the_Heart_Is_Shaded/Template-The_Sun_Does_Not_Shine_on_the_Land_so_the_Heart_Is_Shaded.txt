@@ -7,7 +7,7 @@
 | Jname = 陽は地を照らさず心は陰り
 | Rarity = 4
 | ID = 1715
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

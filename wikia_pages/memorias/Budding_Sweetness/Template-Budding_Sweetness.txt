@@ -7,7 +7,7 @@
 | Jname = 甘やかな芽生え
 | Rarity = 4
 | ID = 1741
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 938

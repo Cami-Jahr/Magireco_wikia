@@ -7,7 +7,7 @@
 | Jname = ただいま敵情視察中
 | Rarity = 3
 | ID = 1777
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

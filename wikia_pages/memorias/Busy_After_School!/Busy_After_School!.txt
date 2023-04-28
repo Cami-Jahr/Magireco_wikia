@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = バドミントン部の練習が終わったら生徒会の仕事！<br />…でも、その前にちょっと一休み。<br />美凪ささらの放課後はまだまだこれから。<br />だって、魔法少女としての使命もあるのだから。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

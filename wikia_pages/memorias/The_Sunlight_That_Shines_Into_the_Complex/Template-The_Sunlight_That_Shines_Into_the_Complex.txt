@@ -7,7 +7,7 @@
 | Jname = 団地に差し込む陽差し
 | Rarity = 4
 | ID = 1190
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 842

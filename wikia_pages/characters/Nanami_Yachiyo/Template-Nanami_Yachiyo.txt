@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Nanami Yachiyo
 | name_jp = 七海 やちよ
 | name_na = 
@@ -75,7 +74,7 @@
 | Passive 1 name JP = MPブースト[Ⅲ]
 | Passive 1 effect = MP Gain Up When Over 100 MP [III / 22%]
 
-| Passive 2 icon = Attack Up When Ally Dies
+| Passive 2 icon = Attack Up
 | Passive 2 name = Inherited Protection [III]
 | Passive 2 name JP = 受け継ぎし加護[Ⅲ]
 | Passive 2 effect = Attack Up When Ally Dies [II / 5%] & Defense Up When Ally Dies [II / 7.6%]

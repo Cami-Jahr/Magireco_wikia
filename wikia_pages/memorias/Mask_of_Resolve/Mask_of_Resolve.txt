@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 仔猫（ミヌゥ）の仮面を選んだあの日<br />“すべて”をあの方に捧げると決意した<br />あの方のご意志に沿うためならば、何を失っても構わない<br />心も、血で結ばれた家族も、あの方が望むなら、この命すらも
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

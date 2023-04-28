@@ -3,12 +3,8 @@
 {{MemoriaLore
 | jp = 好きになんてなりたくなかったと思う日もあったけど<br />でも、このあふれる大好きの気持ちと出会えないのはもっと嫌<br />きっときっと好きでいられることって、とっても幸せなことだから<br />「今日も燦様のおみ足が見られるだなんて、ミユはなんて幸せ者…！」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

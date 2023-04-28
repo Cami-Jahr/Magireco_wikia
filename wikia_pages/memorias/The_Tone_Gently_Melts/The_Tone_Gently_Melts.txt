@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 素知らぬ顔で通り過ぎる風も、ときどきざわめく木々も<br />たったひとつの音の揺らめきだけで手を取り合って<br />ひとりの少女の演奏を引き立たせる演出家になっていく<br />人も集って生まれる絶対の調和…ここにあるのは平穏だけ
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

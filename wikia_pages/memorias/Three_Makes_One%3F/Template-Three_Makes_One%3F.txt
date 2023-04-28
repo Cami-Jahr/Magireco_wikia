@@ -7,7 +7,7 @@
 | Jname = ミコイチ？
 | Rarity = 4
 | ID = 1379
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

@@ -7,7 +7,7 @@
 | Jname = いつまでもこのまま
 | Rarity = 4
 | ID = 1584
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

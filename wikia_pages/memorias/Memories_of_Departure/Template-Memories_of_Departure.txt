@@ -7,7 +7,7 @@
 | Jname = 旅立ちの記憶
 | Rarity = 4
 | ID = 1569
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 880

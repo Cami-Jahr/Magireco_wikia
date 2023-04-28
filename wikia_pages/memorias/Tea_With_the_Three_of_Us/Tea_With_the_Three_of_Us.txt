@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 日差しは暖かいけど、感じる温度は少し寒い<br />こういう時ほど、熱いお茶が体に染みる<br />ということで、お気に入りのカップでティータイムを<br />料理はあまり得意じゃない私でも、お茶くらいは…うん…ね？
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -7,7 +7,7 @@
 | Jname = 知りたい気持ち
 | Rarity = 3
 | ID = 1724
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 736

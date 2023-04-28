@@ -7,7 +7,7 @@
 | Jname = 想いを継ぐものたち
 | Rarity = 4
 | ID = 1737
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「別に魔法少女になどならずとも、<br />全盛期の儂なら世界を滅ぼすことすらできたじゃろうな<br />かかっ、この世にドーナツがある限り、そんなことはせんよ<br />…で、いつになれば儂は死ねるんかのう？」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

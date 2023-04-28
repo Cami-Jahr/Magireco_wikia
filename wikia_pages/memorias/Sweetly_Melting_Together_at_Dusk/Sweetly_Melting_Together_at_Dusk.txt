@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = チョコレートを渡したら、あの子は少し驚いていたけれど<br />しっかり受け取って、ありがとうと笑った<br />あの子の笑顔は、夕暮れよりも眩しく見えた<br />そんなはずはないのに、不思議ね…
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

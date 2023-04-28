@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = あとちょっとの勇気が足りない時に<br />お気に入りのKAWAIIをぎゅっとすれば最後の一歩が踏み出せる<br />そんなKAWAIIが誰にだってあるハズ…！<br />「もちろん、私のKAWAIIは熊乃介デスヨー！」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 1 Bonus (Item Name)
+** Max Limit Break: Gain 5 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

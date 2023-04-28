@@ -7,7 +7,7 @@
 | Jname = 歓喜は刹那か永遠か…？
 | Rarity = 4
 | ID = 1392
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 882

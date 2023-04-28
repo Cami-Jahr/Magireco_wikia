@@ -7,7 +7,7 @@
 | Jname = 彼女たちの日常風景
 | Rarity = 4
 | ID = 1418
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 813

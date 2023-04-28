@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 愛情、友情、信頼、平和、楽観…。<br />憎悪、敵意、疑心、混乱、悲嘆…。<br />花には1本1本、言葉が与えられている。<br />それ故に、花は魅力的で美しいのだ。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

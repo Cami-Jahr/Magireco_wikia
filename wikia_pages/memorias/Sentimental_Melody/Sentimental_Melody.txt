@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 同じメロディーを分かち合いながら静かに過ぎゆく時間の中で、<br />淡い色をした感情が、彼女の胸を高鳴らせる<br />「ありがとう、さやか」と、言ってくれるその言葉だけで十分だから、<br />嬉しくて恥ずかしくて、これ以上何もできない自分がもどかしい
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

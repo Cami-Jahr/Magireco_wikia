@@ -7,7 +7,7 @@
 | Jname = 憧れに背伸びして
 | Rarity = 4
 | ID = 1756
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 898

@@ -7,7 +7,7 @@
 | Jname = 草の根のバレンタイン
 | Rarity = 3
 | ID = 1864
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

@@ -7,7 +7,7 @@
 | Jname = 無心になりたくて
 | Rarity = 4
 | ID = 1869
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 800

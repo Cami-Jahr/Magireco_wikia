@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 辛い記憶、自分の偽者、使い魔、そして魔女…<br />怖い夢から目が覚めた今は、すべてが遠く彼方<br />ここにいるのは強くて優しいお姉さんたち<br />魔法少女になって知った、心安らげる大切な居場所
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

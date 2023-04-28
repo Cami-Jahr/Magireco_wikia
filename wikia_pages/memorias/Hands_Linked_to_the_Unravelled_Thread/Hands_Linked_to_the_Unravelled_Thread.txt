@@ -3,12 +3,8 @@
 {{MemoriaLore
 | jp = 何も知らない、心の距離だって近くない<br />それなのに必要以上に一所懸命で、どんどん距離を縮めてくる<br />傷付いた心に諦めを敷き詰めて不退転のかさぶたで固めたはずなのに<br />手の温もりと伸びた影が、固めた決意を溶かそうとする
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

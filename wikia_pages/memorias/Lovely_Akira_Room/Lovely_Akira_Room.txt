@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「困っている人たちを助けたり、空手の稽古や魔女との戦いetc…<br />結構ハードな毎日だけど、部屋に戻ってきたら…ボクの時間！<br />可愛いぬいぐるみや人形に囲まれて、少女漫画や恋愛小説を読むんだ。<br />録画したドラマも観なきゃ！あのふたり、付き合っちゃうのかなぁ～!?」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

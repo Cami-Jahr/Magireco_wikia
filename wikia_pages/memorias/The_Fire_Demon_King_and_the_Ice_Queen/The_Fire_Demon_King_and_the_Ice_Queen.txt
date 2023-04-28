@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 泣き虫で臆病で、私が支えてあげなくちゃと思っていたはずのあなたは<br />いつの間にか暗闇から私を連れ出してくれるような強い人になっていた<br />光の中から現れた姿は、いつか見た変身ヒロインかヒーローみたいで<br />不覚にも「かっこいい」なんて、思ってしまったの
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

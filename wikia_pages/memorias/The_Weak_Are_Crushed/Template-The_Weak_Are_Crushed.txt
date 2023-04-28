@@ -7,7 +7,7 @@
 | Jname = 弱き者は挫かれて
 | Rarity = 3
 | ID = 1435
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 672

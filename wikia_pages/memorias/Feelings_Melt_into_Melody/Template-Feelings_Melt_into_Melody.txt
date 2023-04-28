@@ -17,7 +17,7 @@
 | max_ATK = 2000
 | max_DEF = 0
 
-| image = Regenerate HP
+| image = Regenerate MP
 | effect_name = Feelings Melt into Melody
 | effect_name_JP = キモチは旋律に溶けて
 | effect1 = 

@@ -7,7 +7,7 @@
 | Jname = 契りを信ずる義賊
 | Rarity = 4
 | ID = 1876
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

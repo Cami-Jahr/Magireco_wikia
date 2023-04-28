@@ -7,7 +7,7 @@
 | Jname = 架空の雪原にて
 | Rarity = 3
 | ID = 1570
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 690

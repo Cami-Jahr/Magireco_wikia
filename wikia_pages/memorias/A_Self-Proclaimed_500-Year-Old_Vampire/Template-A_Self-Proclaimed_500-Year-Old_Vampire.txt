@@ -7,7 +7,7 @@
 | Jname = 自称500歳の吸血鬼
 | Rarity = 4
 | ID = 1311
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 800

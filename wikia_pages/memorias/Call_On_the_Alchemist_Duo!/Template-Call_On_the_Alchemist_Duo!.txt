@@ -7,7 +7,7 @@
 | Jname = 錬金術士コンビ参上！
 | Rarity = 4
 | ID = 1736
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 978
@@ -18,7 +18,7 @@
 | max_DEF = 2045
 
 | image = Damage Cut
-| effect_name = H Shield Rise 
+| effect_name = H Shield ライズ 
 | effect_name_JP = Hシールド・ライズ
 | effect1 = Damage Cut [III / 15%] & Defense Up [III / 22.5%] (Self / 3 Turns)
 | effect2 = Damage Cut [IV / 20%] & Defense Up [IV / 30%] (Self / 3 Turns)

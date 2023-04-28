@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = 「不思議な舞で、動物を呼び出したと思ったら、<br />それが神秘を叶えてくれる久兵衛様だっていうからビックリだよぅ！<br />なんで、そんな事ができるのか全然わからないけど、すごいのは確か！<br />何があったとしても、わたしに誇りを与えてくれたもんね！」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 2 Bonus (Item Name)
+** Max Limit Break: Gain 5 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

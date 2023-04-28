@@ -7,7 +7,7 @@
 | Jname = ジャンクハウスへようこそ
 | Rarity = 4
 | ID = 1568
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 841
@@ -17,7 +17,7 @@
 | max_ATK = 2202
 | max_DEF = 0
 
-| image = Attack Up While At Max Health
+| image = Attack Up
 | effect_name = Full Gauge Bloom Heal 
 | effect_name_JP = フルゲージ・ブルームヒール
 | effect1 = Attack Up While At Max Health [V / 25%] & Defense Up While At Max Health [VII / 70%] & Regenerate HP [II / 3%]

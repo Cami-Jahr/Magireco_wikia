@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Hiiragi Nemu
 | name_jp = 柊 ねむ
 | name_na = 
@@ -128,7 +127,7 @@
 | Passive 12 icon = Negate Status Ailments
 | Passive 12 name = Resist Shield
 | Passive 12 name JP = レジストシールド
-| Passive 12 effect = Negate Status Ailments [1 Status Ailment]
+| Passive 12 effect = Negate Status Ailments [1 Status Ailment] (∞ Turns on Battle Start)
 
 | Passive 13 icon = Anti-Skill Seal
 | Passive 13 name = Anti-Jammer

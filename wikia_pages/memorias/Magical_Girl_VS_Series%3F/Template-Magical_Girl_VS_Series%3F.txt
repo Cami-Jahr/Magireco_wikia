@@ -7,7 +7,7 @@
 | Jname = 魔法少女VSシリーズ？
 | Rarity = 3
 | ID = 1153
-| Illust = None Listed
+| Illust = -
 | Owner = Holy Mami
 
 | min_HP = 448

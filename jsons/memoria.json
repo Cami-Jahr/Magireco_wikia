@@ -67791,5 +67791,757 @@
     "description": "「未来に向かって進化していく原初の姿…それが私『未完成いろは』！＠この道を歩いていけば、私も新たなステージに到達できるはず…＠おや？…随分とカクカクした人が前を歩いていますが…＠も、もしかして、あれが次世代の私…『３DCGいろは』ですか!?」",
     "illustrator": "PAPA",
     "openDate": "2023/04/05 15:10:00"
+  },
+  "1885": {
+    "pieceId": 1885,
+    "rank": "RANK_3",
+    "__update__": "2023-04-24T07:24:17.427Z",
+    "pieceType": "ABILITY",
+    "pieceName": "決断の槍　",
+    "attributeId": "ALL",
+    "charaIds": "1049",
+    "charaList": [
+      {
+        "charaId": 1049,
+        "name": "オルガ"
+      }
+    ],
+    "attack": 521,
+    "defense": 0,
+    "hp": 441,
+    "skillId": 188500,
+    "pieceSkill": {
+      "id": 188500,
+      "groupId": 1092,
+      "name": "Aモラールブラスト・アデプト[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅱ] & 水属性攻撃力UP[Ⅱ] & Blast攻撃時MP獲得[Ⅱ]",
+      "artId1": 390201802,
+      "art1": {
+        "artId": 390201802,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390221402,
+      "art2": {
+        "artId": 390221402,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_WATER",
+        "targetId": "SELF",
+        "effectValue": 75,
+        "growPoint": 25
+      },
+      "artId3": 690220002,
+      "art3": {
+        "artId": 690220002,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "MP_PLUS_BLAST",
+        "targetId": "SELF",
+        "effectValue": 20,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 188501,
+    "pieceSkill2": {
+      "id": 188501,
+      "groupId": 1092,
+      "name": "Aモラールブラスト・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅲ] & 水属性攻撃力UP[Ⅲ] & Blast攻撃時MP獲得[Ⅲ]",
+      "artId1": 390201803,
+      "art1": {
+        "artId": 390201803,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390221403,
+      "art2": {
+        "artId": 390221403,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_WATER",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25
+      },
+      "artId3": 690220003,
+      "art3": {
+        "artId": 690220003,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "MP_PLUS_BLAST",
+        "targetId": "SELF",
+        "effectValue": 30,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "その槍があるのは、過酷なる運命の扉を開いた先＠その槍を持つ者は、天を駆け巡りて争乱に終止符を打つ戦士＠その槍が貫くのは、業に翻弄された迷える魂＠その槍で示すのは、うつし世に顕現した戦乙女の決意",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/04/24 15:10:00"
+  },
+  "1886": {
+    "pieceId": 1886,
+    "rank": "RANK_4",
+    "__update__": "2023-04-24T07:12:01.907Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "夢追いの航路",
+    "attributeId": "ALL",
+    "attack": 940,
+    "defense": 0,
+    "hp": 820,
+    "skillId": 188600,
+    "pieceSkill": {
+      "id": 188600,
+      "groupId": 1092,
+      "name": "Aウェポンブラスト・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅲ] & ダメージアップ状態[Ⅲ] & 水属性攻撃力UP[Ⅳ]",
+      "artId1": 390201803,
+      "art1": {
+        "artId": 390201803,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690206103,
+      "art2": {
+        "artId": 690206103,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390221404,
+      "art3": {
+        "artId": 390221404,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_WATER",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25
+      },
+      "eventId": 1190,
+      "eventArtId1": 1190003,
+      "eventArt1": {
+        "artId": 1190003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1190_KEY"
+      },
+      "eventDescription": "＆「ルーン“太陽”」追加獲得数＋5",
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 188601,
+    "pieceSkill2": {
+      "id": 188601,
+      "groupId": 1092,
+      "name": "Aウェポンブラスト・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅳ] & ダメージアップ状態[Ⅳ] & 水属性攻撃力UP[Ⅴ]",
+      "artId1": 390201804,
+      "art1": {
+        "artId": 390201804,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690206104,
+      "art2": {
+        "artId": 690206104,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390221405,
+      "art3": {
+        "artId": 390221405,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_WATER",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25
+      },
+      "eventId": 1190,
+      "eventArtId1": 1190004,
+      "eventArt1": {
+        "artId": 1190004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1190_KEY"
+      },
+      "eventDescription": "＆「ルーン“太陽”」追加獲得数＋15",
+      "skillEffectRange": "ALL"
+    },
+    "description": "大海を駆け巡るのは夢を乗せた姉妹の船＠神秘の国があると聞けば東へ、豊穣なる文化があると聞けば西へ向かう＠北の広大な未開の土地に心躍らせ、南の朗らかな陽気に笑顔を弾ませる＠ふたりでなら、この世の果てでも行けるはず",
+    "illustrator": "枡狐/蛙空",
+    "openDate": "2023/04/24 15:10:00"
+  },
+  "1887": {
+    "pieceId": 1887,
+    "rank": "RANK_3",
+    "__update__": "2023-04-24T07:19:18.811Z",
+    "pieceName": "陽光に誓う",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 680,
+    "hp": 680,
+    "skillId": 188700,
+    "pieceSkill": {
+      "id": 188700,
+      "groupId": 1092,
+      "name": "ブランディッシュ[Ⅱ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "Blast ダメージUP[Ⅱ] & 与えるダメージUP[Ⅱ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201802,
+      "art1": {
+        "artId": 310201802,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310201302,
+      "art2": {
+        "artId": 310201302,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 188701,
+    "pieceSkill2": {
+      "id": 188701,
+      "groupId": 1092,
+      "name": "ブランディッシュ[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "Blast ダメージUP[Ⅲ] & 与えるダメージUP[Ⅲ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201803,
+      "art1": {
+        "artId": 310201803,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310201303,
+      "art2": {
+        "artId": 310201303,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "海辺にひとり静かに佇み、目の前の景色を見つめていると＠戦場で聞いた戦士たちの咆哮が胸を突き抜けていく＠水平線に沈む陽は、強く輝きながら空を茜色に染める＠そしてそれは何度も繰り返す…明日も、明後日も、その先も",
+    "illustrator": "―",
+    "openDate": "2023/04/24 15:10:00"
+  },
+  "1888": {
+    "pieceId": 1888,
+    "rank": "RANK_3",
+    "__update__": "2023-04-24T07:24:17.428Z",
+    "pieceType": "SKILL",
+    "pieceName": "激情の双斧",
+    "attributeId": "ALL",
+    "charaIds": "1050",
+    "charaList": [
+      {
+        "charaId": 1050,
+        "name": "ガンヒルト"
+      }
+    ],
+    "attack": 0,
+    "defense": 501,
+    "hp": 461,
+    "skillId": 188800,
+    "pieceSkill": {
+      "id": 188800,
+      "groupId": 1166,
+      "name": "アクセルドロー",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "Acceleドロー",
+      "messageId": 70,
+      "artId1": 700211800,
+      "art1": {
+        "artId": 700211800,
+        "verbCode": "DRAW",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 188801,
+    "pieceSkill2": {
+      "id": 188801,
+      "groupId": 1166,
+      "name": "アクセルドロー",
+      "type": "SKILL",
+      "intervalTurn": 4,
+      "shortDescription": "Acceleドロー",
+      "messageId": 70,
+      "artId1": 700211800,
+      "art1": {
+        "artId": 700211800,
+        "verbCode": "DRAW",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "その斧があるのは、夢へと繋がる願いを掲げた先＠その斧を持つ者は、戦場の表も裏もなくひたすらに戦う戦士＠その斧が斬るのは、覚悟の道行きに立ち塞がる敵＠その斧が示すのは、かつて語り合った姉妹の未来",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/04/24 15:10:00"
+  },
+  "1889": {
+    "pieceId": 1889,
+    "rank": "RANK_4",
+    "__update__": "2023-04-24T07:12:01.907Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "姉には見える世界",
+    "attributeId": "ALL",
+    "attack": 940,
+    "defense": 0,
+    "hp": 820,
+    "skillId": 188900,
+    "pieceSkill": {
+      "id": 188900,
+      "groupId": 1088,
+      "name": "フレイムグリッター・アデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "マギアダメージUP[Ⅴ] & MP獲得量UP[Ⅲ] & 火属性攻撃力UP[Ⅳ]",
+      "artId1": 390201405,
+      "art1": {
+        "artId": 390201405,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201903,
+      "art2": {
+        "artId": 390201903,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390221104,
+      "art3": {
+        "artId": 390221104,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25
+      },
+      "eventId": 1190,
+      "eventArtId1": 1190003,
+      "eventArt1": {
+        "artId": 1190003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1190_KEY"
+      },
+      "eventDescription": "＆「ルーン“太陽”」追加獲得数＋5",
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 188901,
+    "pieceSkill2": {
+      "id": 188901,
+      "groupId": 1088,
+      "name": "フレイムグリッター・アデプト[Ⅵ]",
+      "type": "ABILITY",
+      "shortDescription": "マギアダメージUP[Ⅵ] & MP獲得量UP[Ⅳ] & 火属性攻撃力UP[Ⅴ]",
+      "artId1": 390201406,
+      "art1": {
+        "artId": 390201406,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201904,
+      "art2": {
+        "artId": 390201904,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390221105,
+      "art3": {
+        "artId": 390221105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25
+      },
+      "eventId": 1190,
+      "eventArtId1": 1190004,
+      "eventArt1": {
+        "artId": 1190004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1190_KEY"
+      },
+      "eventDescription": "＆「ルーン“太陽”」追加獲得数＋15",
+      "skillEffectRange": "ALL"
+    },
+    "description": "「あたしとガンヒルトの世界…名前は“オルガンヘイム”！＠そこにある日化け物が攻め込んで来るけど…えっと…＠なんか、強い神が現れて、あっという間にが蹴散らしちゃうの！」＠「…あ…私たちが戦うんじゃないんだ…」",
+    "illustrator": "枡狐/蛙空",
+    "openDate": "2023/04/24 15:10:00"
+  },
+  "1890": {
+    "pieceId": 1890,
+    "rank": "RANK_3",
+    "__update__": "2023-04-24T10:31:04.530Z",
+    "pieceName": "闇に沈む思考",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 650,
+    "hp": 710,
+    "skillId": 189000,
+    "pieceSkill": {
+      "id": 189000,
+      "groupId": 1085,
+      "name": "グリッターライズ[Ⅱ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "攻撃力UP[Ⅱ] & MP獲得量UP[Ⅱ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201102,
+      "art1": {
+        "artId": 330201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201902,
+      "art2": {
+        "artId": 330201902,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 75,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 189001,
+    "pieceSkill2": {
+      "id": 189001,
+      "groupId": 1085,
+      "name": "グリッターライズ[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "攻撃力UP[Ⅲ] & MP獲得量UP[Ⅲ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201103,
+      "art1": {
+        "artId": 330201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201903,
+      "art2": {
+        "artId": 330201903,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "夢を追うため、自由を得るために支払った代償＠魔法少女の契約は私が選んだ運命であり、後悔などはない＠しかし、それは決して姉にさせてはならない＠犠牲も、辛苦も、懊悩も、何もかもすべて私が引き受ける",
+    "illustrator": "―",
+    "openDate": "2023/04/24 15:10:00"
+  },
+  "1891": {
+    "pieceId": 1891,
+    "rank": "RANK_4",
+    "__update__": "2023-04-24T07:10:10.774Z"
+  },
+  "1892": {
+    "pieceId": 1892,
+    "rank": "RANK_3",
+    "__update__": "2023-04-24T07:12:01.907Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "姉妹の夜は更けて",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 554,
+    "hp": 674,
+    "skillId": 189200,
+    "pieceSkill": {
+      "id": 189200,
+      "groupId": 1084,
+      "name": "レストア・ヘルス",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "状態異常解除(自)",
+      "messageId": 70,
+      "artId1": 200201000,
+      "art1": {
+        "artId": 200201000,
+        "verbCode": "REVOKE",
+        "effectCode": "BAD",
+        "targetId": "SELF",
+        "growPoint": 0
+      },
+      "eventId": 1190,
+      "eventArtId1": 1190001,
+      "eventArt1": {
+        "artId": 1190001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1190_KEY"
+      },
+      "eventDescription": "＆「ルーン“太陽”」追加獲得数＋1",
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 189201,
+    "pieceSkill2": {
+      "id": 189201,
+      "groupId": 1084,
+      "name": "レストア・ヘルス",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "状態異常解除(自)",
+      "messageId": 70,
+      "artId1": 200201000,
+      "art1": {
+        "artId": 200201000,
+        "verbCode": "REVOKE",
+        "effectCode": "BAD",
+        "targetId": "SELF",
+        "growPoint": 0
+      },
+      "eventId": 1190,
+      "eventArtId1": 1190002,
+      "eventArt1": {
+        "artId": 1190002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1190_KEY"
+      },
+      "eventDescription": "＆「ルーン“太陽”」追加獲得数＋5",
+      "skillEffectRange": "ALL"
+    },
+    "description": "問わず語りを終えた姉は、妹の肩で寝息を立てる＠まるで、懸命に陽気さを振り絞って、疲れ果てたように＠妹の心は幸せに溢れ、自然と笑みがこぼれる＠ふたりにとって、今が何よりも満ち足りた時間",
+    "illustrator": "―",
+    "openDate": "2023/04/24 15:10:00"
+  },
+  "1893": {
+    "pieceId": 1893,
+    "rank": "RANK_4",
+    "__update__": "2023-04-24T07:11:26.671Z",
+    "pieceType": "ABILITY",
+    "pieceName": "砂漠を歩む者",
+    "attributeId": "ALL",
+    "attack": 778,
+    "defense": 0,
+    "hp": 858,
+    "skillId": 189300,
+    "pieceSkill": {
+      "id": 189300,
+      "groupId": 1234,
+      "name": "ダークスラスト・アデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "闇属性攻撃力UP[Ⅴ] & Accele MPUP[Ⅳ]",
+      "artId1": 390221205,
+      "art1": {
+        "artId": 390221205,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_DARK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25
+      },
+      "artId2": 390201604,
+      "art2": {
+        "artId": 390201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 189301,
+    "pieceSkill2": {
+      "id": 189301,
+      "groupId": 1234,
+      "name": "ダークスラスト・アデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "闇属性攻撃力UP[Ⅴ] & Accele MPUP[Ⅳ]",
+      "artId1": 390221205,
+      "art1": {
+        "artId": 390221205,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_DARK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25
+      },
+      "artId2": 390201604,
+      "art2": {
+        "artId": 390201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "その者は自らの運命を自ら選ぶことあたわず＠一族の宿業が吹き起こす嵐の中に巻き込まれ、王の僕となる＠しかして茫漠たる生を営むも、時を越えて現れし同志の声が心中に響き＠やがて己の魂を取り戻して後、遥かなる砂の旅路へと向かう",
+    "illustrator": "―",
+    "openDate": "2023/04/24 15:10:00"
+  },
+  "1894": {
+    "pieceId": 1894,
+    "rank": "RANK_4",
+    "__update__": "2023-04-24T07:12:01.906Z",
+    "pieceType": "ABILITY",
+    "pieceName": "天馬駆ける",
+    "attributeId": "ALL",
+    "attack": 858,
+    "defense": 0,
+    "hp": 778,
+    "skillId": 189400,
+    "pieceSkill": {
+      "id": 189400,
+      "groupId": 1087,
+      "name": "チェイス・ブレイド[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "与えるダメージUP[Ⅲ] & 確率で追撃[Ⅳ]",
+      "artId1": 390201303,
+      "art1": {
+        "artId": 390201303,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690207204,
+      "art2": {
+        "artId": 690207204,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PURSUE",
+        "targetId": "SELF",
+        "effectValue": 800,
+        "growPoint": 0,
+        "probability": 140
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 189401,
+    "pieceSkill2": {
+      "id": 189401,
+      "groupId": 1087,
+      "name": "チェイス・ブレイド[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "与えるダメージUP[Ⅲ] & 確率で追撃[Ⅳ]",
+      "artId1": 390201303,
+      "art1": {
+        "artId": 390201303,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690207204,
+      "art2": {
+        "artId": 690207204,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PURSUE",
+        "targetId": "SELF",
+        "effectValue": 800,
+        "growPoint": 0,
+        "probability": 140
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "いななきが空より響き渡ると、戦乙女の天馬が姿を現す＠風を力強く踏みしめて疾駆し、たちまち厚い雲を突き抜ける＠その威容を仰ぎ見れば、誰もが畏敬と畏怖を心に抱く＠虹の橋を目指して、いざ行かん、ユグドラシルまで",
+    "illustrator": "―",
+    "openDate": "2023/04/24 15:10:00"
   }
 }

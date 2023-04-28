@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = パラレルなワールド、パラレルなルート<br />怪異の存在する世界、奇跡も魔法もある世界<br />重なりあうはずのないふたつの世界が交差するとき…<br />新たな物語が走り出す
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

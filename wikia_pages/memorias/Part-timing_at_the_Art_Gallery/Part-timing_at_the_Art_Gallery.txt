@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「…といった由来がある貴重な作品です。…ふぅ、噛まずに言えました」<br />美術品に関わりたくて始めた美術館のアルバイト<br />慣れないことも失敗してしまうこともあるけれど<br />夢に近づくため、少女は与えられた仕事を今日も頑張る！
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

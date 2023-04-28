@@ -7,7 +7,7 @@
 | Jname = あたしはあたし！
 | Rarity = 4
 | ID = 1730
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

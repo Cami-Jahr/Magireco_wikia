@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Mizuna Tsuyu
 | name_jp = 水名 露
 | name_na = 
@@ -110,7 +109,7 @@
 | Passive 8 name JP = モラール・アデプト[Ⅲ]
 | Passive 8 effect = MP Gain Up [III / 10%]
 
-| Passive 9 icon = Regenerate HP
+| Passive 9 icon = Regenerate MP
 | Passive 9 name = Mana Spring Adept [V]
 | Passive 9 name JP = マナスプリング・アデプト[Ⅴ]
 | Passive 9 effect = Regenerate MP [V / 9 MP]
@@ -128,7 +127,7 @@
 | Passive 12 icon = Aqua Attribute Attack Up
 | Passive 12 name = Aqua Bloom Aura [V]
 | Passive 12 name JP = アクアブルーム・オーラ[Ⅴ]
-| Passive 12 effect = Aqua Attribute Attack Up [V / 15%] (Allies) & Defense Up [I / 30%] (Allies / ∞ Turns from start of battle)
+| Passive 12 effect = Aqua Attribute Attack Up [V / 15%] (Allies) & Defense Up [I / 30%] (Allies / ∞ Turns on Battle Start)
 
 | Passive 13 icon = 
 | Passive 13 name = 

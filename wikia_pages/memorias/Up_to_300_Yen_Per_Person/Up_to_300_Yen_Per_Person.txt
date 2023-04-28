@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「またみんなで買い食いしに来ようよ。次も教官のおごりで★」<br />「それはいいけど、おごりたくなる動機がないとね」<br />「私チャンたちの成長を見せて、また教官を感動させるってのは？」<br />「…いいわ。ただし、次もひとり300円までだからね…」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

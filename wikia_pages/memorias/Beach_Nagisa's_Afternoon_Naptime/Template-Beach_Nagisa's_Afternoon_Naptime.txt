@@ -7,7 +7,7 @@
 | Jname = 渚のなぎさはお昼寝タイム
 | Rarity = 3
 | ID = 1653
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

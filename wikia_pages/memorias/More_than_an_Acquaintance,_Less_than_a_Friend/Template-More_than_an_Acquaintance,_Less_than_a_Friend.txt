@@ -7,7 +7,7 @@
 | Jname = 知り合い以上、友だち未満
 | Rarity = 4
 | ID = 1550
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 924

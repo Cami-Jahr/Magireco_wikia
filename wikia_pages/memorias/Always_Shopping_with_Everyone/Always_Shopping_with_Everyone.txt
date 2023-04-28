@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = フェリシアさんと鶴乃さんがはしゃいで、やちよさんが注意して、<br />いろはさんがなだめてって、みんなでの買い物はいつもにぎやか<br />こういう楽しくてあたたかい時間を過ごして私たちは家族になっていく<br />【エムアイカードコラボ③さな・フェリシア・鶴乃】
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

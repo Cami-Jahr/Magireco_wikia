@@ -7,7 +7,7 @@
 | Jname = メモリアサーキット
 | Rarity = 2
 | ID = 1147
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

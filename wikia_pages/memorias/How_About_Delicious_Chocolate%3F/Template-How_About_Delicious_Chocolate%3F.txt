@@ -7,7 +7,7 @@
 | Jname = 美味しいチョコはいかが？
 | Rarity = 4
 | ID = 1457
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 895

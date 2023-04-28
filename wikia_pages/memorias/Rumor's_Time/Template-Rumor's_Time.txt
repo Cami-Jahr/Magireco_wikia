@@ -7,7 +7,7 @@
 | Jname = ウワサの時間
 | Rarity = 3
 | ID = 1479
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 601

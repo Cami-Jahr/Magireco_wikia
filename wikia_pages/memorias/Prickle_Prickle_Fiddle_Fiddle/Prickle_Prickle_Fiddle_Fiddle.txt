@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = ただの布、ただの糸、ただの毛糸…<br />でも、ひと針ひと針、ひと目ひと目、と進めれば<br />素敵で可愛い作品に大変身<br />マフラーの次は何を作ろうかしら？
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

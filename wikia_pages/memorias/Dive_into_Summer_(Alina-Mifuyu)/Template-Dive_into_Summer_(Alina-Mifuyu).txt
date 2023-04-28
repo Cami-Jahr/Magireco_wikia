@@ -7,7 +7,7 @@
 | Jname = 夏へダイブ＜アリナ・みふゆ＞
 | Rarity = 3
 | ID = 1368
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 613

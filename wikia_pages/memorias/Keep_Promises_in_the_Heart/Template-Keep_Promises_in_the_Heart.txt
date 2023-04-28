@@ -7,7 +7,7 @@
 | Jname = 約束を胸に刻んで
 | Rarity = 3
 | ID = 1600
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 721

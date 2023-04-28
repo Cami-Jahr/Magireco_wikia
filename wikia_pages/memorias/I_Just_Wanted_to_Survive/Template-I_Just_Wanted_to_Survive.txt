@@ -7,7 +7,7 @@
 | Jname = 生き残りたいと願ったのは
 | Rarity = 4
 | ID = 1719
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 818

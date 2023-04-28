@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 幾夜眠りを重ねても瞼の裏から離れないあの光景<br />天から舞い降りた神々しい姿、慈しみが感じられる佇まい<br />名前もわからない、あのお方をなんとお呼びすればよろしいのかしら<br />凡百の呼び名は似合わないけれど…強いて言えば、そう「聖女様」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

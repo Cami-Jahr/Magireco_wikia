@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Wakana Tsumugi
 | name_jp = 若菜 つむぎ
 | name_na = 
@@ -108,7 +107,7 @@
 | Passive 8 icon = Endure
 | Passive 8 name = Fortitude Adept
 | Passive 8 name JP = フォティチュード・アデプト
-| Passive 8 effect = Endure
+| Passive 8 effect = Endure [Quest only]
 
 | Passive 9 icon = Skill Seal on Attack
 | Passive 9 name = Jammer Edge [II]

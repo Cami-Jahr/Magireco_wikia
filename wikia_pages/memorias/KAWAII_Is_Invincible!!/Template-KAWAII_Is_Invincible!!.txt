@@ -7,7 +7,7 @@
 | Jname = KAWAIIは無敵!!
 | Rarity = 3
 | ID = 1607
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 615

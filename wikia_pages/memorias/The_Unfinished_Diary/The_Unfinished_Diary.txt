@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = この日記に記されるのは<br />希望に満ちた魔法少女が絶望に塗りつぶされるまでの日々<br />この日記に残る黒へのグラデーションは<br />同じ魂を持つ者たちの新たな希望となりうるか
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

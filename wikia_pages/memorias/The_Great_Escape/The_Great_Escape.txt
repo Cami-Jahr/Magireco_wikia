@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = （加速はできるんだけど…減速がよくわかんねェんだよァ…）<br />「…ねぇ、潤…もしかして…止め方、わからない…とか…？」<br />「…………」<br />「…ど…どうして黙ったの…!?」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = KAWAIIポーズでカメラの前にセットして、声色を変えれば…<br />「コンニチハ、ボク熊乃介！アシュちゃんのお友だちなんだ<br />今日は、彼女の代わりにボクが神浜のKAWAIIを紹介するヨ」<br />とってもKAWAII熊乃介の神浜紹介動画のはじまりはじまり～
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

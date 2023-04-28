@@ -7,7 +7,7 @@
 | Jname = 至高のボディはアリナが守る
 | Rarity = 4
 | ID = 1290
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 759

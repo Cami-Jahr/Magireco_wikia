@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 町の明かりなんて全てなくなれば良いのにって思う<br />夜の帳が町を包み込んで全てが黒になれば画面の向こうが正だから<br />たった二十何インチかの本当の世界<br />これから偽物の世界が幅を利かせるまでの数時間だけが生きている時間
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

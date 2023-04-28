@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Kaname Madoka (Mizugi ver.)
 | name_jp = 鹿目 まどか (水着ver.)
 | name_na = 
@@ -128,7 +127,7 @@
 | Passive 12 icon = Regenerate HP
 | Passive 12 name = R Shield Aura [IV]
 | Passive 12 name JP = Rシールド・オーラ[Ⅳ]
-| Passive 12 effect = Regenerate HP [IV / 5%] & Damage Cut [II / 22.5%] (Allies / 5 Turns from start of battle)
+| Passive 12 effect = Regenerate HP [IV / 5%] & Damage Cut [II / 22.5%] (Allies / 5 Turns on Battle Start)
 
 | Passive 13 icon = 
 | Passive 13 name = 

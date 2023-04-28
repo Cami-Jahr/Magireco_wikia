@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Infinite Iroha
 | name_jp = ∞いろは
 | name_na = 
@@ -100,22 +99,22 @@
 | Passive 6 name JP = ニートネス・アデプト[Ⅲ]
 | Passive 6 effect = Regenerate HP [III / 4%] & Status Ailment Resistance Up [II / 25%]
 
-| Passive 7 icon = Defense Up While At Max Health
+| Passive 7 icon = Defense Up
 | Passive 7 name = Full Gauge Guard [V]
 | Passive 7 name JP = フルゲージ・ガード[Ⅴ]
 | Passive 7 effect = Defense Up While At Max Health [V / 50%]
 
-| Passive 8 icon = Attack Up While At Max Health
+| Passive 8 icon = Attack Up
 | Passive 8 name = Full Gauge Drive [VI]
 | Passive 8 name JP = フルゲージドライブ[Ⅵ]
 | Passive 8 effect = Attack Up While At Max Health [VI / 30%]
 
-| Passive 9 icon = Attack Up When Ally Dies
+| Passive 9 icon = Attack Up
 | Passive 9 name = Fury Adept [III]
 | Passive 9 name JP = フューリィ・アデプト[Ⅲ]
 | Passive 9 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]
 
-| Passive 10 icon = Regenerate HP
+| Passive 10 icon = Regenerate MP
 | Passive 10 name = Mana Spring Adept [V]
 | Passive 10 name JP = マナスプリング・アデプト[Ⅴ]
 | Passive 10 effect = Regenerate MP [V / 9 MP]
@@ -125,10 +124,10 @@
 | Passive 11 name JP = ファスト・マナアップ
 | Passive 11 effect = MP Gauge Increased On Battle Start [15% full]
 
-| Passive 12 icon = Regenerate HP
+| Passive 12 icon = Regenerate MP
 | Passive 12 name = Mana Spring Aura [XX]
 | Passive 12 name JP = マナスプリングオーラ[XX]
-| Passive 12 effect = Regenerate MP [XX / 100 MP] (Self / 2 Turns from start of battle)
+| Passive 12 effect = Regenerate MP [XX / 100 MP / Quest only] (Self / 2 Turns on Battle Start)
 
 | Passive 13 icon = 
 | Passive 13 name = 

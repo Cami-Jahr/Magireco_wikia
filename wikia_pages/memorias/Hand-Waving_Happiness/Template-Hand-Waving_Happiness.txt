@@ -7,7 +7,7 @@
 | Jname = 手を振れる幸せ
 | Rarity = 4
 | ID = 1616
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 845

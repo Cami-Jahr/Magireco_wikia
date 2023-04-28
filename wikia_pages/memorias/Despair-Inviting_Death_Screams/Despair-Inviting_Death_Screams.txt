@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 命が経験する最後の刹那。己の生き死にの判別もつかぬまま、<br />生死の境を飛び越えて、喉の奧から絶叫がひねり出される<br />それは魂の叫びとなって、聞く人の鼓膜から脳幹を揺さぶると<br />死の瞬間を幾重にも被せて経験させる
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

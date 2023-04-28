@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 部屋の隅に飾ってある、青い髪飾り<br />心が沈んだとき、あたしは密かにそれを眺める<br />そのたびに思い出すのは、大切な記憶<br />晴着をまとって髪飾りを身に着けた、特別な自分
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

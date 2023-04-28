@@ -7,7 +7,7 @@
 | Jname = 祖霊と生きる姫君
 | Rarity = 4
 | ID = 1875
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

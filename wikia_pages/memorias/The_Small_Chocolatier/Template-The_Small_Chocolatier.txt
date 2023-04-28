@@ -7,7 +7,7 @@
 | Jname = ちいさなショコラティエ
 | Rarity = 4
 | ID = 1460
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 854

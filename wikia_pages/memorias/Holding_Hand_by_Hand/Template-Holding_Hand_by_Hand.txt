@@ -7,7 +7,7 @@
 | Jname = 手に手を添えて
 | Rarity = 3
 | ID = 1512
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 631

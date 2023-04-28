@@ -7,7 +7,7 @@
 | Jname = マジカルハロウィンシアター
 | Rarity = 4
 | ID = 1134
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 841

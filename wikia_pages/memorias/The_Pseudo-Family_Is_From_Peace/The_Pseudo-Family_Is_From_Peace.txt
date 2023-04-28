@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = 今日も行く。彼女はひとりで消えてゆく…<br />希望に満ちた24時間を、ともに享受してゆくはずだったのに<br />言い知れぬ不安を抱えながら、ふたりはそれを抑え込んだ<br />「信じて待ちましょう。あの子の決断を」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 1 Bonus (Item Name)
+** Max Limit Break: Gain 5 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

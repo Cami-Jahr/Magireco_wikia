@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 空にある星を掴む。そして自分が誰をも凌駕する輝く一等星になる<br />バカが計算しても手が届かない以上は、目の前にある炎を掴め<br />自分の闘志と感情を頼りに、己の敵を幾度となく粉砕していけば<br />望まなくても、いつか熱く燃え続ける太陽になれるはずだ
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

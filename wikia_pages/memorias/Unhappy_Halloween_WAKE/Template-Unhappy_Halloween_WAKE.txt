@@ -7,7 +7,7 @@
 | Jname = アンハッピーハロウィンなワケ
 | Rarity = 3
 | ID = 1689
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

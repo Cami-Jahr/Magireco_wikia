@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = たくさん遊んで満足したら<br />楽しい思い出を抱えてベッドへダイブ！<br />「もう寝た…？」「まだ…」なんて内緒話をして<br />知らず知らず、いつの間にか夢の中へ…
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

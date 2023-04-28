@@ -7,7 +7,7 @@
 | Jname = 心優しき革命家
 | Rarity = 4
 | ID = 1655
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 766

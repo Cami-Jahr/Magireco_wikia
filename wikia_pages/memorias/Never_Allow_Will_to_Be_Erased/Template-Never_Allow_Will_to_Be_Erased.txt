@@ -7,7 +7,7 @@
 | Jname = 意志は決して消させない
 | Rarity = 3
 | ID = 1739
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

@@ -7,7 +7,7 @@
 | Jname = 継承される絆
 | Rarity = 2
 | ID = 1266
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 446

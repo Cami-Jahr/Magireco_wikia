@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 素潜りで捕まえた魚、磯で拾い集めた様々な貝<br />お店では目にしない不揃いな食材だけど<br />どれもこれも新鮮で、今しか食べられない海の幸<br />無人島ならではの贅沢を味わい尽くしたい！
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

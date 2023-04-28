@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「これが、ミィ…」<br />まぶたを開けたら、自分が自分じゃないみたいだった<br />ほっぺやくちびるにほんのり色がついただけなのに<br />ちょっぴり大人になれちゃう、姉ちゃの不思議な不思議な魔法
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

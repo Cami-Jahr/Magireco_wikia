@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 神浜随一の感性と、純粋な厚意と、無垢な想像力<br />それらが奇跡的に合わさって生み出された<br />とてつもなく斬新でハイセンスなデザイン案<br />「へぇ…これが今どきのおしゃれなのね」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -7,7 +7,7 @@
 | Jname = 戦争を、しましょう
 | Rarity = 4
 | ID = 1259
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 763

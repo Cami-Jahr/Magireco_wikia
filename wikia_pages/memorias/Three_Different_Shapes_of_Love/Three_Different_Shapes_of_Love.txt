@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 出会ったとき、絶望の中で俯いていた…それだけの３人<br />見た目、年齢、性格、そして用意したチョコ、すべてがバラバラ<br />それでもしっかりと込められた愛情を感じながら<br />この出会いがいかに奇跡だったかを実感する
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

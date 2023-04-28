@@ -7,7 +7,7 @@
 | Jname = 終わらない稽古
 | Rarity = 4
 | ID = 1151
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 721

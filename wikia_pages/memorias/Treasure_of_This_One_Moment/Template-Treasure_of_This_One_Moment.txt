@@ -7,7 +7,7 @@
 | Jname = 今この時だけの宝物
 | Rarity = 4
 | ID = 1383
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 802

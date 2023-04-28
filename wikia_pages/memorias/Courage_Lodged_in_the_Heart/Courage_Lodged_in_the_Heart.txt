@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = ホントのボクは弱虫だけど、時々心だけスーパーヒーローになる<br />ぴかぴかに磨いた、ボク専用の変身グッズを身に着けて<br />ビシッとカッコよくポーズを決めれば<br />それだけでボクはもう世界一のヒーローなんだ！
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

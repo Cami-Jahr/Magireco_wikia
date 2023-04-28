@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Aika Himena
 | name_jp = 藍家 ひめな
 | name_na = 
@@ -120,15 +119,15 @@
 | Passive 10 name JP = アンチ・チャーム
 | Passive 10 effect = Anti-Charm
 
-| Passive 11 icon = Regenerate HP
+| Passive 11 icon = Regenerate MP
 | Passive 11 name = Mana Spring Aura [V]
 | Passive 11 name JP = マナスプリングオーラ[Ⅴ]
-| Passive 11 effect = Regenerate MP [V / 9 MP] (Self / 3 Turns from start of battle)
+| Passive 11 effect = Regenerate MP [V / 9 MP] (Self / 3 Turns on Battle Start)
 
 | Passive 12 icon = Aqua Attribute Attack Up
 | Passive 12 name = Aqua Aura [V]
 | Passive 12 name JP = アクアオーラ[Ⅴ]
-| Passive 12 effect = Aqua Attribute Attack Up [V / 15%] (Allies / 5 Turns from start of battle)
+| Passive 12 effect = Aqua Attribute Attack Up [V / 15%] (Allies / 5 Turns on Battle Start)
 
 | Passive 13 icon = 
 | Passive 13 name = 

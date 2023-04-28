@@ -7,7 +7,7 @@
 | Jname = 朝は運命の瞬間
 | Rarity = 4
 | ID = 1214
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 721

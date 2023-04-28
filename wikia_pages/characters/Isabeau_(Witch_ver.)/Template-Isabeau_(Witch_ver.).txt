@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Isabeau (Witch ver.)
 | name_jp = イザボー (魔女ver.)
 | name_na = 
@@ -100,7 +99,7 @@
 | Passive 6 name JP = エイミング・アデプト[Ⅲ]
 | Passive 6 effect = Chance to Anti-Evade [III / 35%]
 
-| Passive 7 icon = Regenerate HP
+| Passive 7 icon = Regenerate MP
 | Passive 7 name = Mana Spring Adept [V]
 | Passive 7 name JP = マナスプリング・アデプト[Ⅴ]
 | Passive 7 effect = Regenerate MP [V / 9 MP]

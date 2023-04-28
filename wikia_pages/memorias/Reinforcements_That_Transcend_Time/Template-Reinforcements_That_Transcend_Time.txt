@@ -7,7 +7,7 @@
 | Jname = 時を超えた援軍
 | Rarity = 4
 | ID = 1177
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 803

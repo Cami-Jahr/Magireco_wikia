@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 袋からこぼれんばかりの、駄菓子や果物といった食べ物…<br />普通の日常を送る人たちにとって、ありふれたもの。<br />しかし彼女にとっては、自らの経験によって、<br />それを粗末に扱われるのを心から嫌い、生きるうえで、最も大切なものとしている。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -7,7 +7,7 @@
 | Jname = スーパー使用人にお任せ
 | Rarity = 4
 | ID = 1782
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 899

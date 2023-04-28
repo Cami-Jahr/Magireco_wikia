@@ -7,7 +7,7 @@
 | Jname = 束の間の安らぎ
 | Rarity = 4
 | ID = 1856
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 900
@@ -18,7 +18,7 @@
 | max_DEF = 2250
 
 | image = Charged Attack Damage Up
-| effect_name = FFull Swing Up Rise 
+| effect_name = F Full Swing Rise 
 | effect_name_JP = Fフルスウィングライズ
 | effect1 = Charged Attack Damage Up [V / 15%] & Blast Damage Up [V / 35%] & Flame Attribute Attack Up [VI / 17.5%] (Self / 3 Turns)
 | effect2 = Charged Attack Damage Up [VI / 17.5%] & Blast Damage Up [VI / 40%] & Flame Attribute Attack Up [VII / 20%] (Self / 3 Turns)

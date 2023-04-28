@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「シメのスイーツはいかがかしらぁ？」<br />「相変わらず突然だな八雲。自分はもう寝るところなのだが」<br />「最高のケーキのアイデアが浮かんだの。だからすぐに試したくって」<br />「冷静に考えるとめちゃくちゃだが…その笑顔は無碍にできんな…」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

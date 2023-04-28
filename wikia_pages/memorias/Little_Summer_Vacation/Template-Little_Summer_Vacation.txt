@@ -7,7 +7,7 @@
 | Jname = リトル・サマー・バケーション
 | Rarity = 4
 | ID = 1791
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

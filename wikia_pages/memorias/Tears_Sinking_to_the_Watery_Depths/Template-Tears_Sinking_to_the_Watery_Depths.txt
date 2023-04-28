@@ -7,7 +7,7 @@
 | Jname = 水底に沈む涙
 | Rarity = 3
 | ID = 1757
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 738

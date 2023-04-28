@@ -7,7 +7,7 @@
 | Jname = ふたりだけの海と空
 | Rarity = 3
 | ID = 1236
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 662

@@ -7,7 +7,7 @@
 | Jname = 響け終焉の笛
 | Rarity = 4
 | ID = 1361
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 786

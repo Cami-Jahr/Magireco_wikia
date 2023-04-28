@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「何で友達、作らないの？<br />ふうん…じゃ、携帯持ってる？貸して？<br />…私の番号とメルアド、登録しといたから<br />ざーんねん、友達、できちゃったね」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

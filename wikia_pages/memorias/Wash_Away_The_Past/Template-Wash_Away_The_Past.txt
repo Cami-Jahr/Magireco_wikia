@@ -7,7 +7,7 @@
 | Jname = 過去を洗い流して
 | Rarity = 3
 | ID = 1820
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 710

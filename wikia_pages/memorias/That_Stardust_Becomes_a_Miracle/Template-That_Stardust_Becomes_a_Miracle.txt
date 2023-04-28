@@ -7,7 +7,7 @@
 | Jname = その星屑は奇跡になって
 | Rarity = 3
 | ID = 1572
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 643

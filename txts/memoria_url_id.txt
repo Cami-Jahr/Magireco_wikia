@@ -1,0 +1,883 @@
+1001;Minion of the Rose Garden Witch (Anthony)
+1002;Minion of the Rose Garden Witch (Adelbert)
+1003;Minion of the Darkness Witch
+1004;Minion of the Sweets Witch
+1005;Minions of the Box Witch
+1006;Minion of the Scribbling Witch
+1007;Minion of the Silver Witch
+1008;Minions of the Shadow Witch
+1009;Minions of the Dog Witch
+1010;Minion of the Artist Witch
+1011;Minion of the Rooftop Witch
+1013;Minion of the Sandbox Witch
+1014;Minion of the Symbol Witch
+1015;Minion of the Sheep Witch
+1016;Girl's Boundary
+1017;Gentle Sunlight
+1018;Closely Watched Heart
+1019;Time Traveler
+1020;That's Not a Doll, Right?
+1021;Reliable Mami-senpai!
+1022;Just a Small Bite!
+1023;Searching for a Ray of Hope
+1024;I'll Never Regret It
+1025;Different Story: Rookies
+1026;Different Story: Mami and Kyouko
+1027;Runway to the World
+1028;By Your Side!
+1029;Science Drunkard
+1030;Busy After School!
+1031;Flowers and Hearts
+1032;These Shoes Are Mine!
+1033;His Place Is Far Away...
+1034;Lovely Akira Room
+1035;Future Three-Star Chef
+1037;Blissful World
+1038;Heart-Melting Pillow
+1039;Max Effort One-Shot Gag
+1041;A World Once Empty
+1042;The Feelings Behind the Bouquet
+1043;This Is the Fragrance of Love
+1044;Putting Sugar in Bitter Black Tea
+1045;Unlimited Happiness to You
+1046;A Brusque Savior
+1047;Hope in Despair
+1048;Towards the End
+1049;She'll Definitely Be Happy
+1050;As a Fashion Model
+1051;The Strongest, Even at Basketball
+1052;It's Not Like I Was Waiting
+1053;PPPH! Perfect Callout!
+1054;Surrounded by White Wings
+1055;Tranquil Morning Practice
+1056;First Meeting Combination!
+1057;Let's Eat Together
+1059;Coordinated Combination
+1061;Begin a Hunt
+1062;Keep This a Secret From Everyone!
+1063;Girls With Glasses on a Date
+1064;The Magical Girls Who Entwine Fates With Madoka
+1065;Splash Party!
+1066;Embrace Your Hopes and Dreams!
+1067;I Won't Stray From This Path
+1068;Past and Future
+1069;Towards the Light!
+1070;Everlasting Light
+1071;Fulfilling the Sworn Promise
+1072;Black Tea of Victory
+1073;Carefully Written Cooking Recipe
+1074;Rumors Spreading in Kamihama
+1075;How's the Taste?
+1076;An Antithetical Existence
+1077;I'm a Girl After All
+1078;Animal Paradise
+1079;Inherited Determination
+1080;Madoka's Notebook
+1081;I Want to Become Someone Who Can Protect Her
+1082;A Moment of Rest
+1083;Pushing Forward
+1084;Our Hearts As One!
+1085;LOVE Chemistry
+1086;Following in Father's Footsteps
+1087;As a Member of a Distinguished Family
+1088;Immediately Solve Any Troubles!
+1089;The Other Side of the Light
+1090;A Gentle Warrior
+1091;Limited Quantity! Manaka's Special Bento Box
+1093;Book Resident
+1094;Tattered Wooden Dummy
+1095;If I Smile, Everyone Will Smile
+1097;Colorless and Dry
+1098;Do You Know the Flower Language?
+1099;Full on Fashion!
+1100;Crime and Punishment
+1101;Lump of Love
+1102;Encounter With a Hero
+1103;Napping to Your Heart's Content on a Day Off
+1104;Memories of the Farm
+1105;Colors of a Clear Summer
+1106;There Is No Such Thing As Beauty
+1107;Here With You
+1108;The Day I Came to Know the Light
+1109;The First and Last Page
+1110;My Dreams Continue After I Wake Up
+1111;Mundane Things
+1112;My School Life
+1113;Unwavering Belief
+1114;Raised in an Ever Blooming House
+1115;Tea With the Three of Us
+1116;Hazuki Is Always Busy
+1117;The Thing Before Your Gaze Is...
+1118;Ayame Collection!
+1119;Upside Down Me!
+1120;A Bygone Time
+1121;Reliable Negotiator
+1122;I Made Friends!
+1123;50th Love Letter (Incomplete)
+1124;Daily Fantasies
+1125;Back Alley Friend
+1126;After-school Invisible Girl
+1127;A Rough Welcome in the Sewers
+1128;Recovery and Resolve
+1129;Phantom Thief Karin's Scheme
+1130;My Bible
+1131;Wolf for a Single Night
+1132;Welcoming With Treats
+1133;The Practice Continues
+1134;Magical Halloween Theater
+1135;The Scenery Emerging Behind My Eyelids
+1136;An Ordinary Day
+1137;Unexpected Reaction
+1138;A Pleasant Imbalance
+1139;Grandma's Strawberry Risotto
+1140;The Transfer Student Is a Returnee!
+1141;Seven Stars in the Moonlit Sky
+1142;Refreshing Shopping
+1143;Wound of the Body and Wound of the Heart
+1144;Walking an Entwined Path
+1145;Is It Such a Dramatic Taste!?
+1146;The Three of Us, Forward
+1147;Memoria Circuit
+1148;Memoria Circuit - Core
+1149;Tsukuyo's Treasure
+1150;Tsukasa's Treasure
+1151;Never-Ending Practice
+1152;The Story That Starts Here
+1153;Magical Girl VS Series?
+1154;Pouring Light
+1155;Descent of a Saint
+1156;Warm Christmas
+1158;Everyone Has Gathered
+1159;Hanetsuki Game
+1160;For This Fine Day
+1161;About to Leave in Haregi
+1162;Prided Haregi
+1163;How Will Our Luck Be This Year?
+1164;Twin Shadows Sneaking Up
+1165;Sentimental Melody
+1166;A Duo's Battlefront
+1167;For My Treasured Ones
+1168;Deliver Your Wish!
+1169;First Handmade Chocolate
+1170;Épée de Clovis
+1171;Determination of a Maiden
+1172;Two Oaths
+1173;Adjoined Shadow and Light
+1174;Angel's War Flag
+1175;Hope and Despair
+1176;The Third Magical Girl
+1177;Reinforcements That Transcend Time
+1178;Last Work: Alina's Kusouzu
+1179;A Fine Day to Cool Down
+1180;Stance on Art
+1181;Smile to Everyone!
+1182;Welcome Back!
+1183;Reira's Key
+1184;The Secret Nekketsu Collection
+1185;Dream World Sketch
+1186;The Way Home after the Rain (Reira)
+1187;The Way Home after the Rain (Seika)
+1188;The Way Home after the Rain (Mito)
+1189;Hello from Atop the Stairs
+1190;The Sunlight That Shines Into the Complex
+1191;A Dream to be an Art Conservator
+1192;I Can Make a Serious Face Too, You Know?
+1193;Part-timing at the Art Gallery
+1194;Happy Sounds
+1195;The Mao Family Is Lively Today As Well
+1196;Starlight Power!
+1197;‘Tis I, the Third Amane Sister, Tsukune
+1198;Evidence of Darkness
+1199;The Destination of Shizuku's Travel Is!?
+1200;The Natural Me is...
+1201;Broken, Yet Beautiful
+1202;All Eyes on Me
+1203;Assistant Instructor of the Ryuushin Style
+1204;Lucky Charm
+1205;Wishing for Power to Not Lose
+1206;The Witch, the Wolf, and the Villager
+1207;The Hand Arisa Held
+1208;The Hand Chisato Held
+1209;The Sword Which Strikes in the Space Between Light and Dark
+1210;In the End...
+1212;Divination Ban
+1213;A Thing That Talks in Place of Me
+1214;Morning Is the Moment of Destiny
+1215;A Gentle Breeze
+1216;Now the Two of Us Watch Over
+1217;Symbol of Carefreeness
+1218;Fuuuusion!!
+1219;Without Conveying Our Feelings...
+1220;Exchange of Final Wishes
+1221;Being Wrapped In Self-Reproach
+1222;Reason For Involvement
+1223;Tension Between the East and West
+1224;Reconciliation Between the East and West
+1225;Outing in Plain Attire
+1226;Guide to Release
+1227;Prayer for Release
+1228;An Important Uniform
+1229;An Uncrossable Gap
+1230;An Eccentric Maid
+1231;Leave it to Nagi-Tan
+1232;I'll Repeat It No Matter How Many Times It Takes
+1233;After the Rain
+1234;From Top to Bottom
+1235;Changing into Swimsuits
+1236;A Sea and Sky for Just the Two of Us
+1237;Summer Impact!?
+1238;A Pleasant Time
+1239;Iroha of the Midsummer Beach
+1240;Learning by Imitation...?
+1241;The Treasure Is Here
+1243;A Short Rest (Madoka, Homura)
+1244;A Short Rest (Iroha, Yachiyo)
+1245;A Bit of True Hope
+1246;Born Amidst Light
+1247;The Light of Hope Without Despair
+1248;To Hope
+1249;A Handful of Warmth
+1250;The Goddess Stares Quietly
+1251;One More Story
+1252;Me x4
+1253;The Two Copies
+1254;To Continue Living in This World
+1255;The Power to Protect Who You Love
+1257;Lethal Weapons Known as Stationery
+1258;Hobby, Cap Collection
+1259;Let Us, Have a War
+1260;I Won't Forgive You If You Open It
+1261;A Universe-Colliding Dream Collaboration
+1262;Big-League Middle Schooler
+1263;The Lead to the Ideal
+1264;Garnish Everything Cutely!
+1265;Popular in the Artisan Ward
+1266;Inherited Bonds
+1267;Kyubey Knight Breaking Through
+1268;A Place of Ease
+1269;A Hospital Room Shrouded in Darkness
+1270;Nagisa Will Resolve Things!
+1271;The Girl Who Came Back
+1272;Bonds of Destiny
+1273;To Step Over the Boundary
+1274;Nagisa's Declaration of Independence
+1275;Two People, Two Dreams
+1276;Minagi Free School Renowned: Midori Report
+1277;Love Kyun-ly Maid-san
+1278;Never Missing a Scoop
+1279;Their Separate Destinations
+1280;Their Connected Destination
+1281;A Snail at Home
+1282;A Class Representative Chosen By God
+1283;It's Not Like I'm Going to Disappear or Anything
+1284;Since I Already Put My Email In
+1285;Getting Lost Is a Daily Insurance
+1286;Overly Fair Taste
+1287;Magical Girl VS Series? Round 2
+1288;Christmas Night Magic
+1289;Memories of Young Miss Santa
+1290;Alina Protects the Supreme Body
+1291;Rumor Girl Death Caribou
+1292;Mitama's Dream Osechi
+1293;Food Stall Paradise
+1294;New Years Party Waitress
+1295;May the Wishes Be Heard
+1297;Over Limiter
+1298;Over Limiter - Core
+1299;In a Broken World
+1300;The Price of a Wish
+1301;Hearts, Shared
+1302;The Struggle Against Fate
+1303;Sweet Apportionment
+1304;Wonderful Time
+1305;To the Two Who Have Yet to Experience First Love
+1306;Mood Is Always Important!
+1307;As Natural as Breathing
+1308;Main Weapon: Accelerator
+1309;The Bicycle Is My Weak Point
+1310;The Ace Is a Southpaw
+1311;A Self-Proclaimed 500-Year-Old Vampire
+1312;Treasure Trove of Treats
+1313;A Strange Little Blonde Girl
+1314;That Day's Regret
+1315;A Freedom for Just Me
+1316;What Flavor Is Break Time (Alina)
+1317;What Flavor Is Break Time (Touka)
+1318;What Flavor Is Break Time (Nemu)
+1319;An Unobtainable Thing
+1320;A Longing for the Beyond
+1321;Peace to this Battered, Dead Land
+1322;Three Geniuses
+1323;A Step That Starts the Story
+1324;Lively Neighbor
+1325;Don't Touch
+1326;Image Training in the Server
+1327;Relaxing in the Park
+1328;The Stories (Rumors) Also Know
+1329;Look There
+1330;A Meddlesome Timing
+1331;People Who Like a Person She Hates
+1332;Obtaining Power From Nature
+1333;Make It or Break It
+1334;Ghost of the Blonde Beauty
+1335;Suddenly Given Stones x200
+1336;The Various Faces of Us
+1337;Still Lively Neighbor
+1338;Future Planning Survey
+1339;Because the World Is Full of Wishes
+1340;What Kind of Person Will I Become?
+1341;Because She Shines Too Brightly
+1342;Determination for the Future
+1343;Even if I Take a Wrong Path
+1344;Jet-Black Ink
+1345;Back to Back
+1346;The One Who Waits
+1347;Remnants of Light
+1348;Under the Red Azalea
+1349;Under the White Camellia
+1350;Tomorrow They Will Bloom Again
+1351;Leave it to Us!
+1352;Messages from Precious Friends
+1353;Cause I'm an Idol and a Magical Girl
+1354;To Museums on the Weekends
+1355;Place Where You Can Meet Everyone
+1356;Standby Ready
+1357;Two Magical Lights
+1358;The Sole Treasure
+1359;Gather, Glittering Starlight
+1360;Our Magic
+1361;Resound, Horn of the End
+1362;A Light That Illuminates the Darkness
+1363;Master of the Tome of the Night Sky
+1364;Lightning Blitz
+1365;The Blessed Wind Once More
+1366;Little Crescent Moons
+1367;Dive into Summer (Tsukuyo/Tsukasa)
+1368;Dive into Summer (Alina/Mifuyu)
+1369;Dive into Summer (Touka/Nemu)
+1370;Because We're Not Alone
+1371;Guided by Destiny
+1372;The Gem of the Noble Soul
+1373;The Formed Darkness
+1374;Fire Drake Roars
+1375;Sisters Being Themselves
+1376;Mysterious Memorial
+1377;Our Thoughts As One
+1378;Two Makes One
+1379;Three Makes One?
+1380;A Desert Island Feast
+1381;Now, We Treasure Hunt!
+1382;Beach House Fun
+1383;Treasure of This One Moment
+1384;Free in the Sea!
+1385;The Truth Is Right Nearby
+1386;Depart on Morning Glow
+1387;Maidens' Grave
+1388;My Soul for the Land of the Rising Sun
+1389;Will Cooling Off Help Us Relax?
+1390;Best Shot That's Only Between Us
+1391;The Wings from Before, Once Again
+1392;Is This Joy Momentary or Forever...?
+1393;A Split-Second Tag Team
+1394;One Summer's Courage
+1395;Our Summer Together
+1396;Blue and Pink
+1397;Like This, For Now
+1398;To My Promising Friends
+1399;Little Soldier
+1400;Only You Are Real
+1401;Miyako-senpai Radar
+1402;Closet Casino Set
+1403;Pinch Is a Chance
+1404;Maiden's Secret Etiquette
+1405;A Different Moon Than Usual
+1406;Welcome to the Meeting
+1407;KAMIHA MAGICA
+1408;A Moment of Indulgence
+1409;The One and Only Contradiction
+1411;Crimson Resolve
+1412;Overlapping Strategies
+1413;Pure White Futures
+1414;An Exceptional Stage
+1415;Fate Has Begun to Tumble
+1416;The Picture that Could Not Be Shown
+1417;Inherited Amulet
+1418;The Girls' Daily Scenery
+1419;It Seems I Wasn't Good Enough
+1420;Once Again, Taking Your Hand
+1421;The Day We Became Friends
+1422;Helping at the Public Hall
+1423;Latent Strength of the Tokime
+1424;Can't Get Used to the City
+1425;The Cue Is from a Detour
+1426;A Dream's Opening Act
+1427;The Usual Whims
+1428;The Archive Is a Friend
+1429;The Origin Is a Monster Movie
+1430;Waking Up from the School Bell
+1431;Blue Night Sky and Fanciful Evening Party
+1432;The End Roll Is Full of Difficulties
+1433;Digital Hideaway
+1434;The Connection Under the Hood
+1435;The Weak Are Crushed
+1436;The Lights on Our Chests
+1437;Waiting for the Moment
+1438;Tonight's Guest Is...
+1439;A Christmas Miracle
+1440;Holy Girls Formation!
+1441;1. Mochi - 2. Lion - 3. Kureha
+1442;Special Remnants
+1443;Admiration of Many Colors
+1444;These Thoughts Must End!
+1445;The Loving Heart that Wields the Brush
+1446;New Year's Sincere Heart
+1447;Blessing Unto You
+1448;Cyber Relaxation Space
+1449;The Travelling Adjuster
+1450;In Dreams Are Sadness Permitted
+1451;The Goal Is Still Far Away‎
+1452;If You Go Through Yourself
+1453;Ryouko and Sakuya: Moment of Perfection
+1454;Youth Runner
+1455;Natsu and Suzuka: Painful Break
+1456;Hunger Sensor ON
+1457;How About Delicious Chocolate?
+1458;Sweetly Melting Together at Dusk
+1459;The Universe's Best Chocolate Cake
+1460;The Small Chocolatier
+1461;The Long-Awaited Choco Date!
+1462;Mami of the Land of Sweets
+1463;Prickle Prickle Fiddle Fiddle
+1464;Simple Trauma
+1465;Behind the Scene Performance
+1466;Fluffy Suspense
+1467;A Little Success
+1468;Rumor of the Magical Girl
+1469;Gomakashi - Utsuroi
+1470;A Worn Mother-and-Child Notebook‎
+1471;The Road Is Still Far Away! ~Broadcasting Club Theater~‎‎
+1472;Kindness Can Be Made‎
+1473;Going Round and Round Wednesday
+1474;The Exhibition Will Open Soon! Please Pay Attention!
+1475;To Grace with Aster
+1476;Ascending Cherry Blossom Front
+1477;Offering to the Sky
+1478;New Product! Sakura Sweets!!
+1479;Rumor's Time
+1480;Just Like the Old Days
+1481;Successful Venue Crossover
+1482;Light Attributed Characters
+1483;Pulse Rate Is 150+
+1484;Life-Changing Game
+1485;Memo and Heart Are Attached
+1486;When You Look Up It's Blue
+1487;Holy Mother Surrounded by Angels
+1488;Dark Goat's Mantle
+1489;Super Soft Familiar
+1490;Revelation from My Precious Other World
+1491;Evil Eye of Ruination
+1492;Survival Date on a Deserted Island
+1493;Tsumugi's Mystery Gourmet Notebook
+1494;The Happiest Moment in Human Life
+1495;Undoubtedly Delicious School Festival
+1496;A Memory Framed in a Photo
+1497;Flavor Detective Tsumugi (Self-Proclaimed)
+1498;Courage Lodged in the Heart
+1499;Everything Desired
+1500;Melancholy Melts with Black Tea
+1501;An Inhabitant from Another World
+1502;Sunday Morning Habit
+1503;My Things!
+1504;Light of Guidance
+1505;Secret Admiration
+1506;I'll Do Anything (Memoria)
+1507;Masquerade
+1508;Last Prayer
+1509;The Legendary 'Maiden'
+1510;Loading a Shining Pennon with Hope
+1511;Comrades in Arms
+1512;Holding Hand by Hand
+1513;The Scene Is Sin-Colored
+1514;Trust in the Natural Stance
+1515;Rest Deliciously
+1516;Blood Rush to a Superb View
+1517;Nice Feeling Only Between Us
+1518;Flowers Blooming in the Summer
+1519;Hey, Smile
+1520;Trio's Summer Vacation
+1521;Beach Friendship
+1522;Best Splash Scene
+1523;Different Fireworks Than Usual
+1524;Miracle Heroines
+1525;Absolutely Unrivaled Summertime
+1526;Midsummer Night Magic
+1527;A World with Just Me (Memoria)
+1528;Secret Treasure Box
+1529;Wanting to Covet This and That
+1530;An Unforgettable Scary Story
+1531;Fluttering Sakura Aquarium
+1532;Something to Remember
+1533;Proof of the Best Tiniest Family
+1534;The Usual Special Seat
+1535;When I See Your Eyes
+1536;Blessing to the Fighting Girls
+1537;Do Your Best, Little Savior
+1538;The Memory of a Lifetime Called Today
+1539;It's Ok, If It's the Two of Us
+1540;Garment of Departure
+1541;Everyday Overflowing with Pride
+1542;Formally Deciding
+1543;For You Who Always Perseveres
+1544;Junkie Girl's Companion
+1545;The Invincible Snacks General
+1546;A Symbol of Acquaintance
+1547;Then, At the Shop Again Tomorrow
+1548;The Great Escape
+1549;Meeting After School
+1550;More than an Acquaintance, Less than a Friend
+1551;Secret Special Training
+1552;The Beginning Is Here
+1553;Please Let It End Here
+1554;Maid in Vampire
+1555;Tonight We Shall Have a Banquet
+1556;Heart of Sincerity
+1557;Mourn For I Know the Pain
+1558;Prayer Connecting the Dead and the Live
+1559;Mischievous Duo
+1560;Dreams Wrapped in a Pure White Veil
+1561;Small Light in the Corner of Town
+1562;Hero of Prayer and Duty
+1563;Magic for Less Than 1000 Yen
+1564;Popular from the Start
+1565;First Time Make Up
+1566;The Light to Move Forward Without Hesitation
+1567;Banbanzai's Magical Delivery Box
+1568;Welcome to the Junk House
+1569;Memories of Departure
+1570;From the Fictitious Snow Fields
+1571;Little Vacation
+1572;That Stardust Becomes a Miracle
+1573;Thus the Holy Night Wanes
+1574;Still Far From a Starry Night...
+1575;The True Gift Was the Smile
+1576;The Day We Locked Fingers
+1577;The 2nd Christmas Carol
+1578;The Guardian Spirit Is Busy!
+1579;Guide Me Beyond the Record‎
+1580;The Year of the Ox Is My Tasty Year
+1581;Tamaki Family's Angels
+1582;The Wind Rising Before The Resolve
+1583;Miko Sisters Dance
+1584;Like This Until When
+1585;Like This Since When
+1586;Medals of Respect, Gratitude, and Determination
+1587;Feigning Innocence School Time
+1588;The Great Father
+1589;Inherited Good-Luck Charm
+1590;That Day, at the Sword Willow Manor
+1591;No Turning Back
+1592;The Usual Morning Scene
+1593;The Way of Vengeance
+1594;Determined to Believe
+1595;Always Thinking of You
+1596;The Special Feature Is a Bitter Taste
+1597;The Plan Is a Sweet Taste
+1598;A Small Story with Love
+1599;Difficult! Image Training
+1600;Keep Promises in the Heart
+1601;AI Want to Meet You
+1602;You Want to Meet AI?
+1603;Kumanosuke's Kawaii Vid
+1604;Great Success in the Longed for Land
+1605;Consult the Closet
+1606;Good Child Good Child
+1607;KAWAII Is Invincible!!
+1608;Disguise
+1609;Night Buzz Time
+1610;Secret of Success
+1611;Naked Heart
+1612;Never Forget
+1613;Ultimate VS Supreme
+1614;Handmade Ultimate Dress
+1615;Ill-Fitting Thoughts
+1616;Hand-Waving Happiness
+1617;The Tone Gently Melts
+1618;Sisters Since That Day
+1619;Because This Is Just a Walk
+1620;Flowers, Fallen, Never to Return
+1621;Calmly Weaving Through the Days
+1622;The Stigma of Slavery
+1623;The Bloodstained Candlestick
+1624;The Young and Pretty Queen
+1625;Visit of the Masked Student Council!
+1626;Mask of Resolve
+1627;A Usual Day of the Maidens
+1628;The Older Sister Is the Force in the Background
+1629;Hiding the Real Me
+1630;Playing a False Me
+1631;A Reasonable and Gentle Strategy
+1632;The Me I Might Have Been
+1633;Connected 10000km by Tastes
+1634;Deep in Thought
+1635;Good Intentions Can Lead to a Disaster
+1636;Hands Linked to the Unravelled Thread
+1637;Victory Pierces Through Time
+1638;Repeatedly Flipped-Through Script
+1639;Stars to Express Gratitude
+1640;Floating in the Starry Sky
+1641;Being Myself, With Pride
+1642;Tracing the Thoughts that Remain at Tanabata
+1643;I'll Continue to Shoulder the Burden
+1644;A Little More Until It's Baked
+1645;Whereabouts of the Bubbles
+1646;In One Gulp
+1647;Lively Summer (Momoko/Mitama)
+1648;Lively Summer (Tokime Clan)
+1649;Time Starts to Move Again
+1650;Beyond the Waves
+1651;Summer Girls Cannot Decide
+1652;An Entrance Backed by a Column of Clouds!
+1653;Beach Nagisa's Afternoon Naptime
+1654;Longing for Tomorrow's Writings
+1655;Kind-Hearted Revolutionary
+1656;My Beloved Partners in Crime
+1657;Talking About the Future, the Oni Laughs‎
+1658;Hair Arrangements Exchange Meeting
+1659;Greetings from the Outside
+1660;Intruding on Our Daily Life
+1661;Everyone Gets Along Paradise
+1662;Love Letter of Guidance
+1663;With Any Hope, Any Dream
+1664;With MagiReco MI-Card!
+1665;Always Shopping with Everyone
+1666;Feelings Melt into Melody
+1667;That Which Gives a Special Sleep
+1668;Peacefully Sleeping Anywhere and Anytime
+1669;We Sleep and Wake Up Together...
+1670;Staying Up Late Just for Today
+1671;Now After Having Fun Playing...‎
+1672;That Which Links Emotion
+1673;Melancholy with Daybreak
+1674;The Last Inquisitor
+1675;Goodbye Fable
+1676;Passing Dreams‎
+1677;A Fake Smile Reflected in the Mirror
+1678;Miracle Reporters
+1679;All the Best Wishes
+1680;The Unfinished Diary
+1681;A Step Towards the Future (Hope)
+1682;Believe in Meeting Again (Ciao!)
+1683;Hunting Magical Girls Is For Justice
+1684;The Pseudo-Family Is From Peace
+1685;Using All the Pumpkins NANO!
+1686;The Pumpkin King Is Very Pleased!
+1687;We've Always Crossed Paths
+1688;Happy Halloween NANO!
+1689;Unhappy Halloween WAKE
+1690;Mitsuzuka's Soul
+1691;The Future Goes Up in Flames
+1692;Flickering Aspiration
+1693;Giant Killing at Twilight
+1694;Up to 300 Yen Per Person
+1695;Forever Cutting Through the Wind
+1696;I Love It So Much That I Can Fly
+1697;For Just a Moment, Dancing in the Moonlight
+1698;I Just Said I Like Feet
+1699;Those Feet of Yours Are the Best in the World!
+1700;I Had a Feeling We Could Become Magical Girls
+1701;Fictional Savior
+1702;The Grin of a Saint...
+1703;Break Free of this Spell
+1704;The Fake Hatred Reflected in the Mirror
+1705;Befana's Gift
+1706;The Warmth of a Cool Guidance
+1707;Uprising Doubles Division
+1708;Witch's Traffic Safety
+1709;In Search of Decorative Cries
+1710;Are You Okay with That (Memoria)
+1711;High-Collar Modern Design Proposal
+1712;You Can Wear Any Outfit You Want
+1713;Greetings from the Tokime Clan!
+1714;A New Start for the Clan
+1715;The Sun Does Not Shine on the Land so the Heart Is Shaded
+1716;Hyped About the New Year
+1717;New Year's Day When Two Stand Together
+1718;Foolishness Leading to Disaster
+1719;I Just Wanted to Survive
+1720;The Mikazuki House Destined for Me
+1721;This Is Something Only I Can Do (Memoria)
+1722;Targeted by the Invisible
+1723;That Light I Thought I Gave Up
+1724;Feelings I Want to Know
+1725;Despair-Inviting Death Screams
+1726;And Then the Self Stops
+1727;Want Some?
+1728;she has a heart
+1729;Wrap Them Up! These Growing Feelings
+1730;I Am Me!
+1731;Sisters
+1732;Wrap Them Up! These Shining Feelings
+1733;Incubator's Pupil
+1734;Beyond the 1000 Year's Sleep
+1735;The Queen's Path
+1736;Call On the Alchemist Duo!
+1737;Heirs to Their Memories
+1738;The Chance Encounter of Loches Castle
+1739;Never Allow Will to Be Erased
+1740;Emotionless After School
+1741;Budding Sweetness
+1742;Too High a Price to Pay
+1743;Until the Day We Reach the Stars
+1744;Turbulent Confusing Happenings
+1745;First Record
+1746;The Eve of Awakening
+1747;Chill With the Devil While Waiting for Rescue
+1748;Even the Devil Shines on the Everlasting Summer Beach
+1749;(EMERGENCY STREAM) 4 Star Will Be Pulled
+1750;The Strongest Ever Memoria (Self-Proclaimed)
+1751;Satiated Fiction
+1752;We Promised Didn't We
+1753;Only I Can Do This
+1754;Transparent Feelings Reflected in the Mirror
+1755;After Dreaming
+1756;Reaching Out Towards Our Goal
+1757;Tears Sinking to the Watery Depths
+1758;The End Is a Laughing Farewell
+1759;It's Showtime!
+1760;Today Is the Way You Eat
+1761;That Which Is Always in My Heart
+1762;What I Once Hoped For...
+1763;Reaching the Settlement of Two Futures
+1764;The Luxurious Cake Way of Eating
+1765;That Summer's Heart-wrench
+1766;This Cutie's Bae
+1767;Forever in Me
+1768;All the Girls Disappearing (Memoria)
+1769;Things that Connect No Matter How Often They Are Cut
+1770;The Rena I Hate
+1771;Be My Servant!
+1772;A Treasure Secret to All
+1773;Don't Call Me Childish!
+1774;Slowly, But Steadily
+1775;Bunny Duty Day
+1776;Visit! Little Maiden in Love
+1777;Currently on a Hostile Inspection
+1778;We Failed (Memoria)
+1779;No One Knows Our Record (Memoria)
+1780;Dawn of a Shallow Dream (Memoria)
+1781;The Cost of Transgressing Providence
+1782;Leave It to the Super Maid
+1783;Back Then, When I Was Loved and Saved
+1784;A Distant Wish Reflected in the Mirror
+1785;Legs That Forgot Their Destination
+1786;The Captured Sun Bird
+1787;Misunderstandings and Broken Hearts
+1788;Stepping Off on Shaking Legs
+1789;The Lively Roar of the Sea
+1790;Again, Next Summer As Well
+1791;Little Summer Vacation
+1792;The Ria-chan Murder (?) Incident
+1793;Always There When Looking Back
+1794;Even Games Are Serious!
+1795;Flowers Visible Only For Now
+1796;The Decisive Battle of the Clear Stream
+1797;Searching at the Beach
+1798;A Trivial Prank of Fate
+1799;Shouldering Everybody's Hope
+1800;Vivid Emotions
+1801;What If, One Day
+1802;The Light We Seek, the Future We Can Save
+1803;Sudden Pajama Party
+1804;The Glow of Deepening Bonds
+1805;Wishing for the Final Act
+1806;Confrontation at the First Act
+1807;The Hearts I Wanted to Overlap
+1808;Mikoto-In-Mirrors
+1809;For the First Time, the Rumored Daily Life
+1810;The Beginning of Despair Illuminated by Hope
+1811;Shining Like the Setting Sun
+1812;The Brilliance of Gathered Feelings
+1813;Holding Hands to Tomorrow
+1814;Where Every Day Begins
+1815;Equal Destruction to All
+1816;Love That Was Not Seen
+1817;Candy for the Defiant!
+1818;I'm Home...
+1819;Contradiction of Apology and Punishment
+1820;Wash Away The Past
+1821;The Duo's Entwined Path
+1822;Eternal Darkness Party
+1823;Inside the Heart Even When Cold
+1824;Accumulating Moments
+1825;Peaceful Days Ahead
+1826;Real Intentions that were Kept Hidden
+1827;Unexpected Real Intentions
+1828;Friends from Today
+1829;A Moment of Peace
+1830;To Protect the Future
+1831;Everyone as One
+1832;Whilst in the Dark
+1833;Even if I Cannot Use Magic
+1834;Never Ending Fairy Tale
+1835;Two Childhood Friends
+1836;The Heroine I Longed to Be
+1837;Between Adult and Child
+1838;Merry Christmas to You Who Works So Hard
+1839;Fairy Tale Entrusted with a Prayer
+1840;Hoping for Occasional Dependence
+1841;The Fire Demon King and the Ice Queen
+1842;Sending Thoughts, Back to You
+1843;Magical Girls Are Sorcerers
+1844;Quietly Snuggling Up
+1845;Towards the True Conclusion
+1846;Watching Over a Small First Dream of the Year
+1847;Homecoming Is a Dream
+1848;Irreplaceable New Year's Gift
+1849;This Year's Final Treat
+1850;Anyway Anyhow Happy New Years
+1851;Someday, Somewhere on a Battlefield
+1852;The Bird that Links the Stars
+1853;Guided by the Voice of the Shell
+1854;Inspiration for the Living
+1855;Ancient Ties
+1856;Brief Peace of Mind
+1857;Tai Faction Specialty
+1858;Blood and Feelings Melt Together
+1859;Bridge Over the Milky Way
+1860;Three Different Shapes of Love
+1861;Jumping for Tempering
+1862;A Share of Friendship
+1863;Bitter & Citrus
+1864;Grassroots Valentine
+1865;The Savior Whose Name I Do Not Know
+1866;Could Not Throw It Away
+1867;Until Late Tonight...?
+1868;If You Want to Go to Sleep...
+1869;I Wanted to be Empty in Mind
+1870;Dazzling Fragrance
+1871;Wavering Loyalty
+1872;Gorge of Fate
+1873;An Odd Coincidence
+1874;Blown by the Dust
+1875;The Princess Who Lives with Ancestral Spirits
+1876;The Chivalrous Thief Who Believes in Bonds
+1877;The End of an Ordinary Day
+1878;Clock of Resignation Reflected in the Mirror
+1879;From Now On, With Everyone
+1880;Predestined Salvation
+1881;It Will Surely be a Lovely Story
+1882;Serial Connect
+1883;Reverted Time Cannot be Reverted
+1884;My Possibilities
+1885;Spear of Determination
+1886;The Route to Chase the Dream
+1887;Swearing an Oath to the Sunlight
+1888;Passionate Twin Ax
+1889;The World my Big Sister Can See
+1890;Thoughts Sunken to the Darkness
+1891;
+1892;The Sisters' Night is getting late
+1893;Desert Walker
+1894;The Gallopping Pegasus
+9001;My Victory Pose Is Kawaii Too
+9002;Kawaii Collection

@@ -7,7 +7,7 @@
 | Jname = 新年会の給仕係
 | Rarity = 3
 | ID = 1294
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 578

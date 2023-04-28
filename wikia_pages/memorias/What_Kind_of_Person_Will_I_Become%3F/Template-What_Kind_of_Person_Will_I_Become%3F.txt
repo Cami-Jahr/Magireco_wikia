@@ -7,7 +7,7 @@
 | Jname = どんなわたしになるのかな？
 | Rarity = 4
 | ID = 1340
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 802

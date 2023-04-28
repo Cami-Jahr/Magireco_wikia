@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「私を捨てたツバキと私からツバキを奪ったスズネちゃん…<br />大切に思い合っているのに殺し合うのはどんな気持ち？<br />ねぇ、ツバキ、お膳立てしてあげたんだから<br />ちゃーんと自分の手で自分の仇を討ってよね」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

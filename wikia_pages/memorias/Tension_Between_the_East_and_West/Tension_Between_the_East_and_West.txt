@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「あの頃の神浜は、当時で６年間、戦ってきたワタシにとっても<br />前代未聞の魔女の少なさでした。いたずらに被害を増やさないように<br />東西で不可侵の協定を結んではいましたが、この時ばかりは<br />さすがに空気が冷え切っていて嫌な汗をかいたものです…」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

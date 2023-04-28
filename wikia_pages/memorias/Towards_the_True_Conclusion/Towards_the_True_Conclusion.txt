@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = たとえ出口を見失って、時をめぐる迷子になっても<br />たとえ道を間違えて、何度もふりだしに戻されても<br />ただふたりで目指せばいい、初日のひかりふる明るい場所を<br />ほんとうの終わりが訪れる、明るい場所を
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 5 Bonus (Item Name)
+** Max Limit Break: Gain 15 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

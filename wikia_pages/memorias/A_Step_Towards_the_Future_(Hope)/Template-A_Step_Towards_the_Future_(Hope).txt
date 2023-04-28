@@ -7,7 +7,7 @@
 | Jname = 未来（きぼう）への一歩
 | Rarity = 4
 | ID = 1681
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 854

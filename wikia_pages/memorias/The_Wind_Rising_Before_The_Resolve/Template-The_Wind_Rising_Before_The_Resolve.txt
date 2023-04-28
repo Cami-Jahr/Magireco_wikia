@@ -7,7 +7,7 @@
 | Jname = 覚悟の先に風は立つ
 | Rarity = 4
 | ID = 1582
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 922

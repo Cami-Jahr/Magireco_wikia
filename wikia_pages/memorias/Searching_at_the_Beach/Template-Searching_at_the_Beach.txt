@@ -7,7 +7,7 @@
 | Jname = 浜辺で探し物
 | Rarity = 4
 | ID = 1797
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

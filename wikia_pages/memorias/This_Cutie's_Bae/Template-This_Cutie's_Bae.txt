@@ -7,7 +7,7 @@
 | Jname = 私チャンの彼ピ
 | Rarity = 4
 | ID = 1766
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 939

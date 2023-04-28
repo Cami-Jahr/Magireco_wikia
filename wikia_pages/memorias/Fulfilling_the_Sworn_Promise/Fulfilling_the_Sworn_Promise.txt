@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「あの時、私は約束をした。必ずあなたを守り、そして救う、と。<br />たとえ時の大河を何度渡ることになろうとも、私は後悔なんてしない。<br />立ち塞がる敵がいるのなら、引き金を引くことも躊躇わない。<br />待っていてね、鹿目さん…私が運命を変えてみせるから…！」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Izumi Kanagi (Vampire ver.)
 | name_jp = 和泉 十七夜 (ヴァンパイアver.)
 | name_na = 
@@ -100,7 +99,7 @@
 | Passive 6 name JP = アンチ・カウンター[Ⅴ]
 | Passive 6 effect = Chance to Anti-Counter [V / 45%]
 
-| Passive 7 icon = Attack Up While At Max Health
+| Passive 7 icon = Attack Up
 | Passive 7 name = Full Gauge Drive [VI]
 | Passive 7 name JP = フルゲージドライブ[Ⅵ]
 | Passive 7 effect = Attack Up While At Max Health [VI / 30%]
@@ -113,7 +112,7 @@
 | Passive 9 icon = Evade
 | Passive 9 name = Parry Aura [IX]
 | Passive 9 name JP = パリィオーラ[Ⅸ]
-| Passive 9 effect = Chance to Evade [IX / 50%] (Self / 5 Turns from start of battle)
+| Passive 9 effect = Chance to Evade [IX / 50%] (Self / 5 Turns on Battle Start)
 
 | Passive 10 icon = Accele MP Gain Up
 | Passive 10 name = Accele Adept [V]
@@ -123,9 +122,9 @@
 | Passive 11 icon = Negate Status Ailments
 | Passive 11 name = Resist Shield
 | Passive 11 name JP = レジストシールド
-| Passive 11 effect = Negate Status Ailments [2 Status Ailments]
+| Passive 11 effect = Negate Status Ailments [2 Status Ailments] (∞ Turns on Battle Start)
 
-| Passive 12 icon = Regenerate HP
+| Passive 12 icon = Regenerate MP
 | Passive 12 name = Mana Spring Adept [V]
 | Passive 12 name JP = マナスプリング・アデプト[Ⅴ]
 | Passive 12 effect = Regenerate MP [V / 9 MP]

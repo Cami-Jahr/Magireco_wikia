@@ -7,7 +7,7 @@
 | Jname = 感謝を込めて星々を
 | Rarity = 4
 | ID = 1639
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 887

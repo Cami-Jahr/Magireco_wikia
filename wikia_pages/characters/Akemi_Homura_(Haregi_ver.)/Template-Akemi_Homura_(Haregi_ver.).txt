@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Akemi Homura (Haregi ver.)
 | name_jp = 暁美 ほむら (晴着ver.)
 | name_na = 
@@ -98,12 +97,12 @@
 | Passive 6 icon = Anti-Debuff
 | Passive 6 name = Anti-Debuff
 | Passive 6 name JP = アンチ・デバフ
-| Passive 6 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns from start of battle)
+| Passive 6 effect = Anti-Debuff [1 Debuff] (∞ Turns on Battle Start)
 
 | Passive 7 icon = Negate Status Ailments
 | Passive 7 name = Resist Shield
 | Passive 7 name JP = レジストシールド
-| Passive 7 effect = Negate Status Ailments [1 Status Ailment]
+| Passive 7 effect = Negate Status Ailments [1 Status Ailment] (∞ Turns on Battle Start)
 
 | Passive 8 icon = Dark Attribute Attack Up
 | Passive 8 name = Dark Adept [II]
@@ -138,7 +137,7 @@
 | Active 1 icon = Extend Buffs
 | Active 1 name = Time of Eternity
 | Active 1 name JP = 永遠の刻
-| Active 1 effect = Extend Buffs [0.1%] (Allies) & Extend Debuffs [0.1%] (All Enemies)
+| Active 1 effect = Extend Buffs (Allies / 1 Turn) & Extend Debuffs (All Enemies / 1 Turn)
 | Active 1 cooldown = 13
 
 | Connect name JP = あなたに預けるわ

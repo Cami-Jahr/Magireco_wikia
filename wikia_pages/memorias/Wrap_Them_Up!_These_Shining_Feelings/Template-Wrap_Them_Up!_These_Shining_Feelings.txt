@@ -7,7 +7,7 @@
 | Jname = 包んで！輝くこの想い
 | Rarity = 4
 | ID = 1732
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

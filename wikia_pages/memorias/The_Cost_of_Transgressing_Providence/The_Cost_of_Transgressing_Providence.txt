@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 変わらずに在り続けるものも、朽ち果てぬものもない<br />それが世界の摂理だと、わかっていたはずなのに…<br />それでも祈ってしまったのは、浅慮か、それとも愛ゆえか<br />ひとつだけ定かなことは、もはや私は救われぬこと
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

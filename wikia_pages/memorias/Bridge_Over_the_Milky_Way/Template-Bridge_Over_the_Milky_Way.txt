@@ -7,7 +7,7 @@
 | Jname = 天の川にかけた橋
 | Rarity = 4
 | ID = 1859
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

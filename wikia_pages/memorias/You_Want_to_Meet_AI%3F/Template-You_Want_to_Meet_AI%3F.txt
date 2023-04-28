@@ -7,7 +7,7 @@
 | Jname = ワタシニアイタイノ？
 | Rarity = 3
 | ID = 1602
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

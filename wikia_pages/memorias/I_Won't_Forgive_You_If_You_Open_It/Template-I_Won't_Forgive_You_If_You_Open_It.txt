@@ -7,7 +7,7 @@
 | Jname = 開けたら許さないから
 | Rarity = 4
 | ID = 1260
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 850

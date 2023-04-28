@@ -7,7 +7,7 @@
 | Jname = 桜前線急上昇
 | Rarity = 4
 | ID = 1476
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 920

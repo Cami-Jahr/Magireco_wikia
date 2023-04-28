@@ -7,7 +7,7 @@
 | Jname = 大人と子どもの真ん中で
 | Rarity = 3
 | ID = 1837
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

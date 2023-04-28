@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 押し付けられたもの、己の身の内から湧き出たもの…<br />これまで抱え続けてきたあらゆる負の感情…<br />もらった小さな希望は泡のように儚くとも<br />凝り固まった穢れを温もりでほぐして流してくれる
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

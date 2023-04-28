@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Little Kyubey
 | name_jp = 小さなキュゥべえ
 | name_na = 
@@ -113,7 +112,7 @@
 | Passive 9 icon = Anti-Debuff
 | Passive 9 name = Anti-Debuff
 | Passive 9 name JP = アンチ・デバフ
-| Passive 9 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns from start of battle)
+| Passive 9 effect = Anti-Debuff [1 Debuff] (∞ Turns on Battle Start)
 
 | Passive 10 icon = Blast Damage Up
 | Passive 10 name = Blast Adept [III]
@@ -123,7 +122,7 @@
 | Passive 11 icon = Anti-Debuff
 | Passive 11 name = Anti-Debuff
 | Passive 11 name JP = アンチ・デバフ
-| Passive 11 effect = Anti-Debuff [1 Debuff] (Self / ∞ Turns from start of battle)
+| Passive 11 effect = Anti-Debuff [1 Debuff] (∞ Turns on Battle Start)
 
 | Passive 12 icon = MP Gain Up When Over 100 MP
 | Passive 12 name = MP Boost [II]

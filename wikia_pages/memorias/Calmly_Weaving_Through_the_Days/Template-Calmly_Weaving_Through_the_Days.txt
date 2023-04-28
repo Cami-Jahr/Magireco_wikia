@@ -7,7 +7,7 @@
 | Jname = 穏やかに日々を紡いで
 | Rarity = 3
 | ID = 1621
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

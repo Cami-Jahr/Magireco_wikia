@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Nanami Yachiyo (Fairy Tale ver.)
 | name_jp = 七海 やちよ (おとぎ話ver.)
 | name_na = 
@@ -113,22 +112,22 @@
 | Passive 9 icon = Doppel Damage Up
 | Passive 9 name = Doppel Aura [V]
 | Passive 9 name JP = ドッペルオーラ[Ⅴ]
-| Passive 9 effect = Doppel Damage Up [V / 25%] & Magia Damage Up [IV / 12.5%] (Self / 5 Turns from start of battle)
+| Passive 9 effect = Doppel Damage Up [V / 25%] & Magia Damage Up [IV / 12.5%] (Self / 5 Turns on Battle Start)
 
 | Passive 10 icon = Magia Damage Up
 | Passive 10 name = Magia Up Aura [II]
 | Passive 10 name JP = マギアアップ・オーラ[Ⅱ]
-| Passive 10 effect = Magia Damage Up [II / 12%] (Allies / 5 Turns from start of battle)
+| Passive 10 effect = Magia Damage Up [II / 12%] (Allies / 5 Turns on Battle Start)
 
 | Passive 11 icon = Anti-Charm
 | Passive 11 name = Anti-Charm
 | Passive 11 name JP = アンチ・チャーム
 | Passive 11 effect = Anti-Charm
 
-| Passive 12 icon = Regenerate HP
+| Passive 12 icon = Regenerate MP
 | Passive 12 name = Mana Spring Aura [XV]
 | Passive 12 name JP = マナスプリングオーラ[XV]
-| Passive 12 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn from start of battle)
+| Passive 12 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn on Battle Start)
 
 | Passive 13 icon = 
 | Passive 13 name = 

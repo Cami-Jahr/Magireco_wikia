@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = ひとりの少女の前に引かれた線…それは彼女の“願い”<br />それを踏み越えた時、彼女はこの世界に別れを告げる<br />数多の魔法少女を救うため、数多の因果を受け止めて<br />やがて彼女は生まれ変わる…“希望”そのものへ
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

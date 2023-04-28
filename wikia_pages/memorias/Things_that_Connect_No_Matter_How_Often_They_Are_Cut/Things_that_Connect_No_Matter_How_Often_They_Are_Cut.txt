@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 口ゲンカは日常茶飯事で、絶交だって何度もしてる<br />それでも切れない関係は、都市伝説にだって負けたりしない<br />怒って、泣いて、喧嘩して、仲直りして、また泣いて…<br />カバンについたそのウサギは、今日も呆れながら見守っている
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

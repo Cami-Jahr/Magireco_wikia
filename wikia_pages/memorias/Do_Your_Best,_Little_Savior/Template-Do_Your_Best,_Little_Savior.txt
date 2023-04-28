@@ -7,7 +7,7 @@
 | Jname = がんばれ小さな救世主
 | Rarity = 4
 | ID = 1537
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 764

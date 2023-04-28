@@ -7,7 +7,7 @@
 | Jname = 深まる絆の輝き
 | Rarity = 4
 | ID = 1804
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

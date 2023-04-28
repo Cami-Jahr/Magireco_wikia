@@ -7,7 +7,7 @@
 | Jname = 見えないものに狙われて
 | Rarity = 3
 | ID = 1722
-| Illust = None Listed
+| Illust = -
 | Owner = Miura Asahi
 
 | min_HP = 480

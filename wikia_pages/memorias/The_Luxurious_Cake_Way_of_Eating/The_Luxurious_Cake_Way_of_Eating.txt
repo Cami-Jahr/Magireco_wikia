@@ -3,12 +3,8 @@
 {{MemoriaLore
 | jp = ずっと上手に焼けなかったケーキのスポンジを<br />初めてふわふわに焼けた日<br />あなたが教えてくれた一番おいしい食べ方で<br />なんでもないけど特別なティータイムを
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

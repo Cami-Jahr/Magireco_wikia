@@ -7,7 +7,7 @@
 | Jname = また明日も花咲く
 | Rarity = 4
 | ID = 1350
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 880

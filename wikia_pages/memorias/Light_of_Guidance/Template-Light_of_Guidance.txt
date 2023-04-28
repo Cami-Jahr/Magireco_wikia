@@ -7,7 +7,7 @@
 | Jname = 導きの光明
 | Rarity = 4
 | ID = 1504
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 761

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 毛皮神（ビーストフォース）と同調した生命芸術家（イノセントアーティスト）が凍える人類に気付いた時、願望執行人（ブリリアントメーカー）として遺伝子に刻まれた理想郷（ユートピア・ゼロ）を作り出す!?<br />今から星屑完全燃焼（スターダストクリーニング）なんですケド！
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

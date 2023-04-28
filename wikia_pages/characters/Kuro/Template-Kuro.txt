@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Kuro
 | name_jp = 黒
 | name_na = 
@@ -110,7 +109,7 @@
 | Passive 8 name JP = バインド・エッジ[Ⅱ]
 | Passive 8 effect = Chance to Bind on Attack [II / 15%] (1 Turn)
 
-| Passive 9 icon = Attack Up While At Max Health
+| Passive 9 icon = Attack Up
 | Passive 9 name = Full Gauge Drive [III]
 | Passive 9 name JP = フルゲージドライブ[Ⅲ]
 | Passive 9 effect = Attack Up While At Max Health [III / 15%]

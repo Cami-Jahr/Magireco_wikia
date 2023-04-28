@@ -7,7 +7,7 @@
 | Jname = ワンダフル・タイム
 | Rarity = 3
 | ID = 1304
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 613
@@ -17,7 +17,7 @@
 | max_ATK = 0
 | max_DEF = 1532
 
-| image = Regenerate HP
+| image = Regenerate MP
 | effect_name = Mana Spring 
 | effect_name_JP = マナスプリング
 | effect1 = Regenerate MP [I / 3 MP] (Self / 3 Turns)

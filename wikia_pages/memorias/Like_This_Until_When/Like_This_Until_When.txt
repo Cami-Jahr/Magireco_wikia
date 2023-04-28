@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 優しくて暖かくて心地のいい、血のかよったゆりかごの中<br />それはまるで寒い冬に訪れた恵の果報<br />だけどこれは挑戦状、初夢という名の挑戦状<br />優しくて暖かくて心地のいい、最凶の罠
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

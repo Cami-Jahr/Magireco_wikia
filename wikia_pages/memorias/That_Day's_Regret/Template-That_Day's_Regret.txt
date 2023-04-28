@@ -7,7 +7,7 @@
 | Jname = あの日の悔い
 | Rarity = 3
 | ID = 1314
-| Illust = None Listed
+| Illust = -
 | Owner = Kuro
 
 | min_HP = 420
@@ -17,7 +17,7 @@
 | max_ATK = 1250
 | max_DEF = 0
 
-| image = Attack Up Upon Death
+| image = Attack Up
 | effect_name = Silent Protection 
 | effect_name_JP = 無言の加護
 | effect1 = Attack Up Upon Death [III / 5%] & Defense Up Upon Death [III / 10%] (2 Turns)

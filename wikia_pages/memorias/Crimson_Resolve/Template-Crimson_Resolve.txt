@@ -7,7 +7,7 @@
 | Jname = 深紅の決断
 | Rarity = 4
 | ID = 1411
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 841

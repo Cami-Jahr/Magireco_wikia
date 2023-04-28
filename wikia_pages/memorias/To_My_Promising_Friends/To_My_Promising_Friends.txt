@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「自分の夢を満たすでも、誰かを救うでもなく<br />ただ生きるために契約したこの力。<br />だからこそみんなには後悔のない選択をしてほしい<br />それが今の願いかな。仲間は嬉しいけどね」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

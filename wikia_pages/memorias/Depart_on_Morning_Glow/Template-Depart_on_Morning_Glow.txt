@@ -7,7 +7,7 @@
 | Jname = 朝焼けに発つ
 | Rarity = 4
 | ID = 1386
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 887

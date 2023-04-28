@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Futaba Sana
 | name_jp = 二葉 さな
 | name_na = 
@@ -98,7 +97,7 @@
 | Passive 6 icon = Endure
 | Passive 6 name = Fortitude Adept
 | Passive 6 name JP = フォティチュード・アデプト
-| Passive 6 effect = Endure
+| Passive 6 effect = Endure [Quest only]
 
 | Passive 7 icon = MP Gain Up When Over 100 MP
 | Passive 7 name = MP Boost [II]

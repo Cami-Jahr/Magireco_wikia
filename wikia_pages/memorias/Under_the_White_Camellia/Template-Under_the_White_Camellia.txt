@@ -7,7 +7,7 @@
 | Jname = 白い椿のもとで
 | Rarity = 4
 | ID = 1349
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 761

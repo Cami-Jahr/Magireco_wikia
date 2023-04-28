@@ -7,7 +7,7 @@
 | Jname = 見上げればアオ
 | Rarity = 4
 | ID = 1486
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 806

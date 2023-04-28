@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「お客さんもおらんし、ここはみんなそろって休憩にしよか」<br />「では、お茶を煎れますね。お茶菓子も用意しましたので」<br />「ふむー！ふっむーふむんむ！」<br />「食べ過ぎたらあかんで月出里。ご飯食べれんくなるからな」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

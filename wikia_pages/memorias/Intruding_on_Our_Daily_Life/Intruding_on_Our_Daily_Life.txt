@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = いつものファストフード店に集まって<br />いろんな話題が飛び交って、ちょっとケンカもしたりして<br />なんてことのない日常のワンシーンは中学生らしいもの<br />聞いていた話そのままで、思わず笑顔がこぼれちゃった
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

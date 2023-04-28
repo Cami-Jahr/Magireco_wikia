@@ -7,7 +7,7 @@
 | Jname = 一翼を担う理由
 | Rarity = 3
 | ID = 1222
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 630

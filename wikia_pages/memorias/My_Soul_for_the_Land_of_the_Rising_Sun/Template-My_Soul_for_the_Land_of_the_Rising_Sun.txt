@@ -7,7 +7,7 @@
 | Jname = 日の本の為に魂を
 | Rarity = 3
 | ID = 1388
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 570

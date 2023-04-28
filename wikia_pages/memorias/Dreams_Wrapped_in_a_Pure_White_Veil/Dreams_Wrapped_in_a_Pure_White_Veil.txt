@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「さすがももこ！とっても似合ってるわ。私の目に狂いなし！<br />白を基調にしたのは正解だったわね。ももこの若い魅力が際立つし…、<br />ウェディングドレスっぽくも見えて…ドキドキしちゃうわ～。ももこも<br />ちょっとは想像した…」「してない！も～～、よく喋るなぁ！」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

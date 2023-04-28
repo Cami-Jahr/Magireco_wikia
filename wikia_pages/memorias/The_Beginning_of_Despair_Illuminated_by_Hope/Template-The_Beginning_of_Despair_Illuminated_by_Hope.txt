@@ -7,7 +7,7 @@
 | Jname = 希望が灯る絶望のはじまり
 | Rarity = 4
 | ID = 1810
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

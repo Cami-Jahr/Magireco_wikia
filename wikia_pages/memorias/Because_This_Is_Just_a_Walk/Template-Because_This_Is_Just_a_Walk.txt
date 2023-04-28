@@ -7,7 +7,7 @@
 | Jname = これはただの散歩だから
 | Rarity = 4
 | ID = 1619
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 807

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = （晴着なんて着ていったら、やっぱり驚くかな？<br />どんな反応されるのか、ちっとも想像できないけど<br />意外と、素直に喜んでくれたりして！そしたら、あたし…）<br />「って、ダメに決まってるでしょ!?何考えてんのよあたし!!」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

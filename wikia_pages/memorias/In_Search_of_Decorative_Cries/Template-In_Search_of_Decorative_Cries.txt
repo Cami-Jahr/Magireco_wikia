@@ -7,7 +7,7 @@
 | Jname = 飾りなき声を求めて
 | Rarity = 4
 | ID = 1709
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

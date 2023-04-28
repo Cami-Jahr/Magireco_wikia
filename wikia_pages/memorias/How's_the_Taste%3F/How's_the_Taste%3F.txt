@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 下町の面影が残る、古めの中華料理店。<br />彼女の曾祖父と祖父が、戦時中に現地で会得した中華料理の技を<br />活かす為に、帰国後、中華料理店の経営を始めた。<br />提供される料理は見た目、味ともに”普通”という感想が多いらしい…。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

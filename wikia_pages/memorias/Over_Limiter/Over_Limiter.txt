@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 【★3メモリア限界突破素材】瞳を焦し、鼓膜を貫き、鼻腔を狂わせる<br />それほど鮮烈な刺激なれど、いずれ記憶は解れゆき、ひと筋の糸となる<br />幾多もの糸が絡まる記憶の海原。広がり続けるのは己自身<br />必要なら漁れ、１寸たりとも見逃すな。鉤ならばいくらでもあるから
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

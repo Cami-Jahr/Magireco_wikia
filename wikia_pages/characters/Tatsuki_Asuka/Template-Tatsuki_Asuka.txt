@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Tatsuki Asuka
 | name_jp = 竜城 明日香
 | name_na = 
@@ -125,7 +124,7 @@
 | Passive 11 name JP = カウンター・アデプト[Ⅲ]
 | Passive 11 effect = Chance to Counter [III / 20%]
 
-| Passive 12 icon = Attack Up While At Max Health
+| Passive 12 icon = Attack Up
 | Passive 12 name = Full Gauge Bloom [IV]
 | Passive 12 name JP = フルゲージ・ブルーム[Ⅳ]
 | Passive 12 effect = Attack Up While At Max Health [IV / 20%] & Defense Up While At Max Health [IV / 40%]

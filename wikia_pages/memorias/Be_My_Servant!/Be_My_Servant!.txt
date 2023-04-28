@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 勇気を振り絞って紡ぐはずだった言葉は、口から出る前に引っ込んで<br />代わりに飛び出していったのは、照れ隠しの可愛くない言葉<br />それでもあの子は、わかったような顔で笑うから<br />嬉しくて、ムカついて、なんにも言えなくなっちゃうんだ
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

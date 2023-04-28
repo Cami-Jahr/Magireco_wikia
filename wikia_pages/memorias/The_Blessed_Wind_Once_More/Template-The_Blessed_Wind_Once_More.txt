@@ -7,7 +7,7 @@
 | Jname = 祝福の風ふたたび
 | Rarity = 3
 | ID = 1365
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 661

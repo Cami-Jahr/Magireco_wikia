@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 化学の魅力を知ったあの日から、彼女は日に日にのめりこんでいく。<br />本日の実験は「カメレオン実験」<br />化学反応によりそれぞれが違う色で染まった試験管は、<br />一種の芸術作品にも見える。
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

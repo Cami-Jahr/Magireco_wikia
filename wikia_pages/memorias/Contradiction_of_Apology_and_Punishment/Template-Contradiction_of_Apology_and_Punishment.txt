@@ -7,7 +7,7 @@
 | Jname = 謝罪と罰の矛盾
 | Rarity = 4
 | ID = 1819
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 820

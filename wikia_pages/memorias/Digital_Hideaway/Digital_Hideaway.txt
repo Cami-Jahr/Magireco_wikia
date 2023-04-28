@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 喋りたくない、聞きたくない、目もみたくない<br />そんな時は視線を向けて、精一杯画面の中に飛びこんで<br />無心でロボットのようにキーを打ち、コードを注ぎ込んでいく<br />本物のロボットが動くと、人間だったことを思い出す
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 誰も観鳥さんのカメラからは逃げられない<br />それは願いであり、観鳥さんの矜持でもある<br />事実としてレンズに収め、記事にする<br />そこにあるのは善か悪かではなく、真実を届けるという執念だけ
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

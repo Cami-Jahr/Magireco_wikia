@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Hiroe Chiharu
 | name_jp = 広江 ちはる
 | name_na = 
@@ -83,7 +82,7 @@
 | Passive 3 icon = Endure
 | Passive 3 name = Fortitude Adept
 | Passive 3 name JP = フォティチュード・アデプト
-| Passive 3 effect = Endure
+| Passive 3 effect = Endure [Quest only]
 
 | Passive 4 icon = Charge Disc Damage Up
 | Passive 4 name = Technical Adept [II]

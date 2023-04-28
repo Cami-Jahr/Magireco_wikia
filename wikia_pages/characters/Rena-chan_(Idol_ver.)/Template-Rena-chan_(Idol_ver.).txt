@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Rena-chan (Idol ver.)
 | name_jp = レナちゃん (アイドルver.)
 | name_na = 
@@ -123,7 +122,7 @@
 | Passive 11 icon = Accele MP Gain Up
 | Passive 11 name = Accele Force Adept [III]
 | Passive 11 name JP = アクセルフォースアデプト[Ⅲ]
-| Passive 11 effect = Accele MP Gain Up [III / 15%] & Chance to Critical Hit [III / 20%] (Self / 3 Turns from start of battle)
+| Passive 11 effect = Accele MP Gain Up [III / 15%] & Chance to Critical Hit [III / 20%] (Self / 3 Turns on Battle Start)
 
 | Passive 12 icon = Magia Damage Up
 | Passive 12 name = Magia Adept [III]

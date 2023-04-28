@@ -7,7 +7,7 @@
 | Jname = 魔法少女は魔法使い
 | Rarity = 4
 | ID = 1843
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 820

@@ -7,7 +7,7 @@
 | Jname = 予想外の本音
 | Rarity = 3
 | ID = 1827
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 680

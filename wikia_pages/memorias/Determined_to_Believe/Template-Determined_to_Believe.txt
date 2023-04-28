@@ -7,7 +7,7 @@
 | Jname = 信じる故の決意
 | Rarity = 4
 | ID = 1594
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

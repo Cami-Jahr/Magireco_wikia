@@ -7,7 +7,7 @@
 | Jname = ケーキの贅沢な食べ方
 | Rarity = 3
 | ID = 1764
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

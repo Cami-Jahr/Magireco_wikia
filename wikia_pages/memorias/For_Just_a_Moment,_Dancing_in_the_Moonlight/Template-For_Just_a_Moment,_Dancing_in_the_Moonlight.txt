@@ -7,7 +7,7 @@
 | Jname = 束の間、月光に舞う
 | Rarity = 3
 | ID = 1697
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 612

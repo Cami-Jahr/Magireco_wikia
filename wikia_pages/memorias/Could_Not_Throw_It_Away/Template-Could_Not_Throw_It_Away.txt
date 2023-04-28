@@ -7,7 +7,7 @@
 | Jname = 捨てられなかった
 | Rarity = 4
 | ID = 1866
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 820
@@ -17,7 +17,7 @@
 | max_ATK = 2350
 | max_DEF = 0
 
-| image = Attack Up While At Max Health
+| image = Attack Up
 | effect_name = Full Gauge Overdrive 
 | effect_name_JP = フルゲージオーバードライブ
 | effect1 = Attack Up While At Max Health [V / 25%] & Attack Up [IV / 20%]

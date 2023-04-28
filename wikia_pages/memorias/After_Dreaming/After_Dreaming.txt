@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「世界一のコンビになって<br />ディアボロの演技で、世界中を笑顔にするんよ」<br />ふたつの独楽は、役目を終えても残り続ける<br />ふたつの約束を乗せた、無垢な夢の証として
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

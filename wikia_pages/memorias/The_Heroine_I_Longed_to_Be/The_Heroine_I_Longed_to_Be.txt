@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = きらきら可愛いヒロインも、強くてかっこいいヒーローも<br />みんなを助ける姿はステキで、輝いていて、憧れだった<br />誰かに認められるそんな存在に、いつかワタシもなれたら…<br />なんて幼い日の夢だけど、今も心の隅っこで大事に大事にしまってる
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

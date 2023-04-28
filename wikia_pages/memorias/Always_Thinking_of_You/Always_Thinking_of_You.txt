@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 本来ならばありえない邂逅、知るはずのない未来の姿<br />天の計らいか、近い未来に置いて行ってしまう子たちへ<br />伝えられなかった思いを伝える機会を得た<br />「例えこの命尽きたとしても、この心はいつだって貴方たちと一緒にいます」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

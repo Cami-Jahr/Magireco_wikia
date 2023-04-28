@@ -7,7 +7,7 @@
 | Jname = ふたりで立つ年始め
 | Rarity = 4
 | ID = 1717
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

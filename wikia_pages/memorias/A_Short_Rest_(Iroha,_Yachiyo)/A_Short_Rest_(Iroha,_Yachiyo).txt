@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 偶然見つけた素敵な場所！<br />手際良く紅茶とお菓子の準備をしたら<br />とっておきの休憩スポットが完成！<br />せっかくだから、友達をたくさん誘っちゃおう（Tカードコラボ記念）
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

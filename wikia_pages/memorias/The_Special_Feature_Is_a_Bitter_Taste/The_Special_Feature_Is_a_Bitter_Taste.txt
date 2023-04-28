@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「彼女たちが手にしているのは、神浜でも屈指のチョコレート専門店が<br />生み出した最高の一品。まず始めに紹介するミナギーシーにほど近い専<br />門店では、濃厚なカカオの香りが鼻を抜けるビターな味わいが売り。実<br />は緑茶にピッタリで、和が好きな人にも味わって欲しい一品だ」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

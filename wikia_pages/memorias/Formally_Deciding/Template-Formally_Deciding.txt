@@ -7,7 +7,7 @@
 | Jname = 改めて決意を
 | Rarity = 4
 | ID = 1542
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 880

@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = 団地にある公園は、三人がいつも集まる場所<br />学校帰りにおしゃべりしたり、時にはピクニックみたいなことも<br />そういう時は、三人はゆっくりとした穏やかな時間を味わっている<br />暖かい光を浴びながら、れいらが持ってきたお菓子を味わいつつ…
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 3 Bonus (Item Name)
+** Max Limit Break: Gain 7 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

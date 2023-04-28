@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 作り慣れないケーキの飾りつけは<br />あれもこれもと欲張って、ちょっぴり派手になっちゃった<br />だけど、こぼれそうなほどに乗せられたデコレーションは<br />きっとあなたを想う私たちの等身大の感謝の気持ち
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

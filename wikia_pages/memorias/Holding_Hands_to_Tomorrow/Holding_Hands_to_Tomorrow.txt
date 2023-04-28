@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = みんなとの間に流れた時間は、かけがえのない宝物で…<br />その暖かな思い出を胸に抱えて、次への一歩を踏み出していく<br />どんな新しい１ページでも、一緒に刻んでいけると思うから<br />(10th Anniversary Book vol.1イラスト)
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

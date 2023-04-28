@@ -7,7 +7,7 @@
 | Jname = 越えられない溝
 | Rarity = 4
 | ID = 1229
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 804

@@ -7,7 +7,7 @@
 | Jname = 飛んじゃうくらいに大好きな
 | Rarity = 4
 | ID = 1696
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 883

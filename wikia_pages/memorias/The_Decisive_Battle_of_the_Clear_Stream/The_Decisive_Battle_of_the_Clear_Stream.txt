@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「この戦いだけは、何があっても負ける訳にはいかねぇ…！<br />…って…おい！頼むから大人しくしてくれぇ！」<br />「ふふ、お魚さんに遊ばれていますね。さて、私も本気を出します！」<br />時女の誇りをかけた少女たちの戦いはまだまだ続く…
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

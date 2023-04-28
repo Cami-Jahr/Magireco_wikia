@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 少し解れた裾も、目に入る小さな汚れも、少しだけ薄くなった布も<br />何人かの少女たちによって引継がれてきた証<br />袖を通せば、自分の立場と町のことを、容易く全身で感じられる<br />その重みは着る者に、自然と未来のことを考えさせる
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

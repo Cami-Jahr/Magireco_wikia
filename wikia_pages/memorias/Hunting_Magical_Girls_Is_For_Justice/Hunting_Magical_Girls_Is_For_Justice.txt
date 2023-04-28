@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 希望が絶望に染まる前に、魔法少女を狩る<br />絶望の連鎖を食い止めるために、魔法少女を狩る<br />大事な家族が、何も知らず幸せに生きていけるように…<br />「始めよう、３人ぼっちのプレイアデス聖団で」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

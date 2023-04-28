@@ -7,7 +7,7 @@
 | Jname = 夕暮れに甘く溶け合って
 | Rarity = 4
 | ID = 1458
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 840

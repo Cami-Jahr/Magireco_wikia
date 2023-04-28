@@ -3,12 +3,9 @@
 {{MemoriaLore
 | jp = 「謹賀新年！今年もよろしくお願いします」<br />「…というわけで新年だね！静香ちゃん、今年の抱負でも言っとく？」<br />「来年も美しい初日の出が見られるよう、日の本を守るわ！」<br />「ふふっ、いい１年になるよう、みんなで頑張りましょうね」
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 5 Bonus (Item Name)
+** Max Limit Break: Gain 15 Bonus (Item Name)
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

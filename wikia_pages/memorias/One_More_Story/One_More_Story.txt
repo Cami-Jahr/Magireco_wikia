@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = それは、願いと奇跡の物語<br />神浜と見滝原、過去と未来、希望と絶望…そして救い<br />いくつもの出会い、いくつもの因果が紡がれ、重なり合うたびに<br />つながってゆく、もうひとつのストーリー（コミカライズ記念）
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -7,7 +7,7 @@
 | Jname = 最後は笑ってさようなら
 | Rarity = 4
 | ID = 1758
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

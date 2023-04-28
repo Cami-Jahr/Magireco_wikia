@@ -7,7 +7,7 @@
 | Jname = 迷わず進むための光
 | Rarity = 4
 | ID = 1566
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

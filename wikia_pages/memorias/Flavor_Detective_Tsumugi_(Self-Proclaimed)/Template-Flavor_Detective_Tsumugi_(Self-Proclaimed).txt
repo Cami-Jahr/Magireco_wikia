@@ -7,7 +7,7 @@
 | Jname = 隠し味探偵つむぎ（自称）
 | Rarity = 3
 | ID = 1497
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 572

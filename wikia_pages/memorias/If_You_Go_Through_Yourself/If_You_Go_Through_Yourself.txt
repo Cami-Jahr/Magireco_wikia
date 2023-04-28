@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = テストで100点取るより難しい皆勤賞<br />小中全制覇の賞状は、丈夫な体と真っ直ぐな心の証<br />両親から授かった、何ものにも代えがたい最高の財産<br />でも、遠くで助けを求める声があれば、一目散に学校を抜け出す
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

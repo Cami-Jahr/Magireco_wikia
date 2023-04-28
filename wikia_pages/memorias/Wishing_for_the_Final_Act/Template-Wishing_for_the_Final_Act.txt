@@ -7,7 +7,7 @@
 | Jname = 終幕への願い
 | Rarity = 4
 | ID = 1805
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

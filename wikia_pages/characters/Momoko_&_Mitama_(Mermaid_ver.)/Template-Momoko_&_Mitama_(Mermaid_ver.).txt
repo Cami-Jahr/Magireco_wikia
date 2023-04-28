@@ -1,5 +1,4 @@
-﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{
-14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}
 | name = Momoko & Mitama (Mermaid ver.)
 | name_jp = ももこ・みたま (人魚ver.)
 | name_na = 
@@ -110,7 +109,7 @@
 | Passive 8 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 8 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 9 icon = Attack Up While At Max Health
+| Passive 9 icon = Attack Up
 | Passive 9 name = Full Gauge Overdrive [IV]
 | Passive 9 name JP = フルゲージオーバードライブ[Ⅳ]
 | Passive 9 effect = Attack Up While At Max Health [IV / 20%] & Attack Up [II / 10%]

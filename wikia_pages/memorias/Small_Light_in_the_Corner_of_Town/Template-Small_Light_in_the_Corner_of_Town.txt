@@ -7,7 +7,7 @@
 | Jname = 町の片隅の小さな光
 | Rarity = 4
 | ID = 1561
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 964

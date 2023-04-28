@@ -7,7 +7,7 @@
 | Jname = 想いよ届け、あなたのもとへ
 | Rarity = 3
 | ID = 1842
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

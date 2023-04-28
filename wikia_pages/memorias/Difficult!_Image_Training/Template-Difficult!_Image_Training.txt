@@ -7,7 +7,7 @@
 | Jname = 難関！イメージ特訓
 | Rarity = 4
 | ID = 1599
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 849

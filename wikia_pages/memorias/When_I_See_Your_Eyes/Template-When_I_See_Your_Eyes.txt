@@ -7,7 +7,7 @@
 | Jname = きみの眼を見れば
 | Rarity = 4
 | ID = 1535
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 886

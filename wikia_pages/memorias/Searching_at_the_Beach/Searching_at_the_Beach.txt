@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 「理子、何か探しているんデスカ？」<br />「え、えっと…そういうわけじゃなくて…えへへ…」<br />遠く海を漂い流れ着いた贈り物、それは特別なものだから<br />探し当てるまでは、まだ内緒！
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

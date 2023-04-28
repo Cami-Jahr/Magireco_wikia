@@ -7,7 +7,7 @@
 | Jname = 莉愛ちゃん殺人（？）事件
 | Rarity = 3
 | ID = 1792
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 

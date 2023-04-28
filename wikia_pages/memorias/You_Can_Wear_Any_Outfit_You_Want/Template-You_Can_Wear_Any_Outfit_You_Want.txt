@@ -7,7 +7,7 @@
 | Jname = どんな衣装もお手のもの
 | Rarity = 4
 | ID = 1712
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 978

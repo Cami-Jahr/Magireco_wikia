@@ -7,7 +7,7 @@
 | Jname = 休憩時間は何味？＜灯花＞
 | Rarity = 4
 | ID = 1317
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 806

@@ -7,7 +7,7 @@
 | Jname = 涼子とさくや：刹那の絶好
 | Rarity = 4
 | ID = 1453
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 888

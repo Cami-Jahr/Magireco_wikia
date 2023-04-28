@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 時が歩みを止めた部屋の片隅に、その子はちょこんと座っていた<br />時計の針がいつ止まったのか、知る者はひとりもいない<br />忘れられた物語を紐解く、最後の道しるべ<br />この小さな出会いをもたらしたのは、果たして導きか偶然か…
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

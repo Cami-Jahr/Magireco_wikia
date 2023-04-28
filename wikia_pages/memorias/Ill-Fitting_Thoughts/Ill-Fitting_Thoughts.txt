@@ -3,12 +3,6 @@
 {{MemoriaLore
 | jp = 正しい恋の仕方は周りの人も神様も教えてくれない<br />だから心臓の鼓動に合わせて、思ったことを真っすぐにするしかない<br />手紙に気付いた顔、読む顔、反応する顔、一瞬を切り取ったあの人の<br />表情が目の奧ではじける度に、ため息が出るほど愛おしくて苦しくなる
 | en = 
-| na = 
 }}
 {{MemoriaTrivia|}}
-<!--
-* Each Memoria equipped grants a bonus (Item Name) amount each battle for the (Event Name) event.
-** Normal: Gain (Normal Gain) Bonus (Item Name)
-** Max Limit Break: Gain (MLB Gain) Bonus (Item Name)
--->
 </div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

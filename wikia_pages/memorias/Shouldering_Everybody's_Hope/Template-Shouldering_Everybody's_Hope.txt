@@ -7,7 +7,7 @@
 | Jname = すべての想いを乗せて
 | Rarity = 4
 | ID = 1799
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 900

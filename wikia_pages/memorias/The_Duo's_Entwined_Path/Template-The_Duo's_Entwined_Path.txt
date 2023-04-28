@@ -7,7 +7,7 @@
 | Jname = ふたりの道行き
 | Rarity = 4
 | ID = 1821
-| Illust = None Listed
+| Illust = -
 | Owner = 
 
 | min_HP = 
