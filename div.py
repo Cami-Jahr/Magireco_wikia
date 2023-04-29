@@ -1,40 +1,17 @@
-# from upload_char import Uploader
-# from credentials import username, password
-# import re
+from uploader import uploader
+from helpers import get_char_list
 
-"""
-S = Uploader()
-S.login(username, password)
+def change_get_params():
+    chars = get_char_list()
 
-with open("chars.txt", "r", ) as f:
-    for line in f.readlines():
-        _id, name = line.strip().split(";")
-        for st in ("", "/Abilities"):
-            text = S.download_text(name + st)
-            desc = re.findall(r" " "\{\{Description.*?\|(.*?)}}" " ", text, re.DOTALL)[0]
-            if desc:                
-                descs = re.findall(r" " "(.*?)=(.*?)(\||$)" " ", desc, re.DOTALL)
-                n_descs = []
-                for lang, des, _ in descs:
-                    text = text.replace(des, des.strip().replace("\n", "<br>"))
-                text = text.replace("\n|", "|").replace("|", "\n|")
-                text = text.replace(" = ", "=").replace(" =", "=").replace("= ", "=").replace("=", " = ")
-                S.upload(name + st, text)
-S.end()
-"""
+    for _id, name in chars.items():
+        page = f"Template:{name}"
+        online_text = uploader.download_text(page)
+        print(online_text)
+        if "|{{{20|}}}" in online_text:
+            print("CONFLICT:", name, "\n", online_text)
+        new_text = online_text.replace("|{{{18|}}}|{{{19|}}}", "|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}")
+        uploader.upload(page, new_text)
 
-L = []
-with open("div.txt") as f:
-    for line in f.readlines():
-        line = line.strip()
-        L.append(line + " ")
-        if "Japanese" in line:
-            try:
-                line = line[:line.index("= ") + 1]
-            except ValueError:
-                pass
-            L.append(line.replace("Japanese", "NA") + " ")
-
-print("\n".join(L))
-with open("div.txt", "w") as f:
-    f.write("\n".join(L))
+if __name__ == '__main__':
+    change_get_params()
