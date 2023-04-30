@@ -21,14 +21,6 @@
 | blast_hori_disks = 0
 | charge_disks = 2
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
 | 2star_hp_lv1 = 3303
 | 2star_attack_lv1 = 953
 | 2star_defense_lv1 = 1240
@@ -125,7 +117,7 @@
 | Passive 11 effect = Accele MP Gain Up [II / 12.5%]
 
 | Passive 12 icon = Anti-Magia Seal
-| Passive 12 name = Anti-Seal Magia
+| Passive 12 name = Anti Seal Magia
 | Passive 12 name JP = アンチ・シールマギア
 | Passive 12 effect = Anti-Magia Seal
 

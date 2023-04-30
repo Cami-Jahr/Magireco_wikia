@@ -21,6 +21,7 @@
 | blast_hori_disks = 0
 | charge_disks = 2
 
+
 | 1star_hp_lv1 = 2903
 | 1star_attack_lv1 = 1190
 | 1star_defense_lv1 = 935
@@ -125,7 +126,7 @@
 | Passive 11 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 12 icon = Anti-Bind
-| Passive 12 name = Anti-Bind
+| Passive 12 name = Anti Bind
 | Passive 12 name JP = アンチ・バインド
 | Passive 12 effect = Anti-Bind
 

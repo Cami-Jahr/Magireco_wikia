@@ -21,30 +21,6 @@
 | blast_hori_disks = 0
 | charge_disks = 3
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
-| 3star_hp_lv1 = 
-| 3star_attack_lv1 = 
-| 3star_defense_lv1 = 
-| 3star_hp_max = 
-| 3star_attack_max = 
-| 3star_defense_max = 
-| 3star_illustrator_jp = 
-
 | 4star_hp_lv1 = 5057
 | 4star_attack_lv1 = 2150
 | 4star_defense_lv1 = 1541
@@ -135,7 +111,7 @@
 | Passive 13 effect = Aqua Attribute Attack Up [II / 7.5%]
 
 | Passive 14 icon = Anti-Burn
-| Passive 14 name = Anti-Burn
+| Passive 14 name = Anti Burn
 | Passive 14 name JP = アンチ・バーン
 | Passive 14 effect = Anti-Burn
 

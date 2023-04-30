@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Anti-Burn
-| effect_name = Anti-Heat 
+| effect_name = Anti Heat 
 | effect_name_JP = アンチ・ヒート
 | effect1 = 
 | effect2 = Anti-Burn & Regenerate HP [III / 4%]

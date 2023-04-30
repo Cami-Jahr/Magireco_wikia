@@ -21,30 +21,6 @@
 | blast_hori_disks = 0
 | charge_disks = 1
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
-| 3star_hp_lv1 = 
-| 3star_attack_lv1 = 
-| 3star_defense_lv1 = 
-| 3star_hp_max = 
-| 3star_attack_max = 
-| 3star_defense_max = 
-| 3star_illustrator_jp = 
-
 | 4star_hp_lv1 = 5561
 | 4star_attack_lv1 = 2242
 | 4star_defense_lv1 = 1824
@@ -115,7 +91,7 @@
 | Passive 9 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [II / 7.5%]
 
 | Passive 10 icon = Anti-Magia Seal
-| Passive 10 name = Anti-Seal Magia
+| Passive 10 name = Anti Seal Magia
 | Passive 10 name JP = アンチ・シールマギア
 | Passive 10 effect = Anti-Magia Seal
 

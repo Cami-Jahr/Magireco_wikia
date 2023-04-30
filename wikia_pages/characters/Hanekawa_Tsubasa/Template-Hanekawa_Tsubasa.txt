@@ -21,30 +21,6 @@
 | blast_hori_disks = 0
 | charge_disks = 1
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
-| 3star_hp_lv1 = 
-| 3star_attack_lv1 = 
-| 3star_defense_lv1 = 
-| 3star_hp_max = 
-| 3star_attack_max = 
-| 3star_defense_max = 
-| 3star_illustrator_jp = 
-
 | 4star_hp_lv1 = 6323
 | 4star_attack_lv1 = 1769
 | 4star_defense_lv1 = 1750
@@ -90,7 +66,7 @@
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 5 icon = Anti-Magia Seal
-| Passive 5 name = Anti-Seal Magia [VI]
+| Passive 5 name = Anti Seal Magia [VI]
 | Passive 5 name JP = アンチ・シールマギア[Ⅵ]
 | Passive 5 effect = Chance to Anti-Magia Seal [VI / 50%]
 

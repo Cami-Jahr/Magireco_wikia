@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Anti-Stun
-| effect_name = Anti-Stun
+| effect_name = Anti Stun
 | effect_name_JP = アンチ・スタン
 | effect1 = 
 | effect2 = Anti-Stun

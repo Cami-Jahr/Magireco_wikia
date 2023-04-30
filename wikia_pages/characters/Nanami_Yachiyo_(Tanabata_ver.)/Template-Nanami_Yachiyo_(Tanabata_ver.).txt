@@ -21,30 +21,6 @@
 | blast_hori_disks = 1
 | charge_disks = 3
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
-| 3star_hp_lv1 = 
-| 3star_attack_lv1 = 
-| 3star_defense_lv1 = 
-| 3star_hp_max = 
-| 3star_attack_max = 
-| 3star_defense_max = 
-| 3star_illustrator_jp = 
-
 | 4star_hp_lv1 = 4985
 | 4star_attack_lv1 = 2366
 | 4star_defense_lv1 = 1701
@@ -90,7 +66,7 @@
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 5 icon = Anti-Bind
-| Passive 5 name = Anti-Bind
+| Passive 5 name = Anti Bind
 | Passive 5 name JP = アンチ・バインド
 | Passive 5 effect = Anti-Bind
 
@@ -120,7 +96,7 @@
 | Passive 10 effect = Charged Attack Damage Up [IV / 15%] & Charge Disc Damage Up [IV / 20%]
 
 | Passive 11 icon = Anti-Charm
-| Passive 11 name = Anti-Charm
+| Passive 11 name = Anti Charm
 | Passive 11 name JP = アンチ・チャーム
 | Passive 11 effect = Anti-Charm
 

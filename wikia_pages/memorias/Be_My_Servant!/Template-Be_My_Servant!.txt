@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Accele MP Gain Up
-| effect_name = Anti-Bind
+| effect_name = Anti Bind
 | effect_name_JP = アンチ・バインド
 | effect1 = Accele MP Gain Up [III / 15%] & Chance to Anti-Bind [X / 70%]
 | effect2 = Accele MP Gain Up [IV / 17.5%] & Anti-Bind

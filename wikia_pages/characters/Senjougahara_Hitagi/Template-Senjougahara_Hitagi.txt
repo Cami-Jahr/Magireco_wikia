@@ -21,22 +21,6 @@
 | blast_hori_disks = 1
 | charge_disks = 1
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
 | 3star_hp_lv1 = 4190
 | 3star_attack_lv1 = 1551
 | 3star_defense_lv1 = 1260
@@ -100,7 +84,7 @@
 | Passive 6 effect = Chance to Evade [II / 15%]
 
 | Passive 7 icon = Anti-Poison
-| Passive 7 name = Anti-Poison
+| Passive 7 name = Anti Poison
 | Passive 7 name JP = アンチ・ポイズン
 | Passive 7 effect = Anti-Poison
 

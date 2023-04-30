@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Anti-Fog
-| effect_name = Anti-Haze
+| effect_name = Anti Haze
 | effect_name_JP = アンチ・ヘイズ
 | effect1 = 
 | effect2 = Anti-Fog & Anti-Darkness & Anti-Dazzle

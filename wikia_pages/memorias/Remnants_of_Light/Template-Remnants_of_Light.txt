@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Anti-Dazzle
-| effect_name = Anti-Mesmerize
+| effect_name = Anti Mesmerize
 | effect_name_JP = アンチ・メズマライズ
 | effect1 = Chance to Anti-Dazzle [IX / 65%]
 | effect2 = Anti-Dazzle

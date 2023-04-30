@@ -21,30 +21,6 @@
 | blast_hori_disks = 0
 | charge_disks = 1
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
-| 3star_hp_lv1 = 
-| 3star_attack_lv1 = 
-| 3star_defense_lv1 = 
-| 3star_hp_max = 
-| 3star_attack_max = 
-| 3star_defense_max = 
-| 3star_illustrator_jp = 
-
 | 4star_hp_lv1 = 5222
 | 4star_attack_lv1 = 2203
 | 4star_defense_lv1 = 1647
@@ -75,7 +51,7 @@
 | Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
 | Passive 2 icon = Anti-Charm
-| Passive 2 name = Anti-Charm
+| Passive 2 name = Anti Charm
 | Passive 2 name JP = アンチ・チャーム
 | Passive 2 effect = Anti-Charm
 
@@ -120,7 +96,7 @@
 | Passive 10 effect = MP Gauge Increased On Battle Start [15% full]
 
 | Passive 11 icon = Anti-Magia Seal
-| Passive 11 name = Anti-Seal Magia
+| Passive 11 name = Anti Seal Magia
 | Passive 11 name JP = アンチ・シールマギア
 | Passive 11 effect = Anti-Magia Seal
 

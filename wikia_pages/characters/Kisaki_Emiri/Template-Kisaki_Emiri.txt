@@ -21,14 +21,6 @@
 | blast_hori_disks = 1
 | charge_disks = 2
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
 | 2star_hp_lv1 = 3812
 | 2star_attack_lv1 = 1094
 | 2star_defense_lv1 = 1047
@@ -120,7 +112,7 @@
 | Passive 10 effect = Chance to Skill Quicken [III / 15%]
 
 | Passive 11 icon = Anti-Charm
-| Passive 11 name = Anti-Charm
+| Passive 11 name = Anti Charm
 | Passive 11 name JP = アンチ・チャーム
 | Passive 11 effect = Anti-Charm
 

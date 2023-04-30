@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Anti-Charm
-| effect_name = Anti-Charm
+| effect_name = Anti Charm
 | effect_name_JP = アンチ・チャーム
 | effect1 = Chance to Anti-Charm [VI / 50%]
 | effect2 = Anti-Charm

@@ -21,30 +21,6 @@
 | blast_hori_disks = 1
 | charge_disks = 1
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
-| 3star_hp_lv1 = 
-| 3star_attack_lv1 = 
-| 3star_defense_lv1 = 
-| 3star_hp_max = 
-| 3star_attack_max = 
-| 3star_defense_max = 
-| 3star_illustrator_jp = 
-
 | 4star_hp_lv1 = 5298
 | 4star_attack_lv1 = 1752
 | 4star_defense_lv1 = 1777
@@ -110,7 +86,7 @@
 | Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
 
 | Passive 9 icon = Anti-Skill Seal
-| Passive 9 name = Anti-Jammer
+| Passive 9 name = Anti Jammer
 | Passive 9 name JP = アンチ・ジャマ―
 | Passive 9 effect = Anti-Skill Seal
 

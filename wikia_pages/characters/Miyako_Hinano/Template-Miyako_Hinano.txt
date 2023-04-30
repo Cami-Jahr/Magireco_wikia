@@ -21,14 +21,6 @@
 | blast_hori_disks = 1
 | charge_disks = 2
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
 | 2star_hp_lv1 = 3812
 | 2star_attack_lv1 = 1076
 | 2star_defense_lv1 = 1065
@@ -110,7 +102,7 @@
 | Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
 
 | Passive 9 icon = Anti-Poison
-| Passive 9 name = Anti-Poison
+| Passive 9 name = Anti Poison
 | Passive 9 name JP = アンチ・ポイズン
 | Passive 9 effect = Anti-Poison
 

@@ -268,6 +268,7 @@ def format_info(_id: int):
     t5 = make_magia_doppel_and_connect(work_on, cards)
 
     t4 = textM3.format(*rank_stats)
+    t4 = '\n' + '\n\n'.join(t4.split('\n\n')[low_rank-1:])
 
     if _id == 1042:
         jap = "小さなキュゥべえ"
@@ -287,12 +288,12 @@ def format_info(_id: int):
     school = work_on["school"]
     voice_actor = work_on["voiceActor"]
     try:
-        type = types[work_on["initialType"]]
+        _type = types[work_on["initialType"]]
     except KeyError:
         try:
-            type = "Cycles " + types[work_on["initialType"][7:]]  # Remove CIRCLE_
+            _type = "Cycles " + types[work_on["initialType"][7:]]  # Remove CIRCLE_
         except KeyError:
-            type = "Unknown"
+            _type = "Unknown"
     try:
         release = work_on["openDate"][:10].replace("/", "-")
     except KeyError:
@@ -300,7 +301,7 @@ def format_info(_id: int):
     try:
         t2 = textM1.format(
             name, jap, low_rank, rank, _id, designer, school, att, voice_actor,
-            type, release, growth)
+            _type, release, growth)
     except KeyError as e:
         print("Missing illustrator in eng or jap dict:", designer)
         raise e

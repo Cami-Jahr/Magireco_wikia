@@ -21,30 +21,6 @@
 | blast_hori_disks = 0
 | charge_disks = 2
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
-| 3star_hp_lv1 = 
-| 3star_attack_lv1 = 
-| 3star_defense_lv1 = 
-| 3star_hp_max = 
-| 3star_attack_max = 
-| 3star_defense_max = 
-| 3star_illustrator_jp = 
-
 | 4star_hp_lv1 = 4786
 | 4star_attack_lv1 = 2043
 | 4star_defense_lv1 = 1503
@@ -120,7 +96,7 @@
 | Passive 10 effect = Regenerate MP [V / 9 MP]
 
 | Passive 11 icon = Anti-Magia Seal
-| Passive 11 name = Anti-Seal Magia
+| Passive 11 name = Anti Seal Magia
 | Passive 11 name JP = アンチ・シールマギア
 | Passive 11 effect = Anti-Magia Seal
 

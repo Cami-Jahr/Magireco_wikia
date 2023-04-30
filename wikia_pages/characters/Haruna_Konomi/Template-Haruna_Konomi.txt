@@ -21,14 +21,6 @@
 | blast_hori_disks = 1
 | charge_disks = 1
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
 | 2star_hp_lv1 = 3321
 | 2star_attack_lv1 = 942
 | 2star_defense_lv1 = 1246
@@ -105,7 +97,7 @@
 | Passive 7 effect = Magia Damage Up [III / 10%]
 
 | Passive 8 icon = Anti-Bind
-| Passive 8 name = Anti-Bind
+| Passive 8 name = Anti Bind
 | Passive 8 name JP = アンチ・バインド
 | Passive 8 effect = Anti-Bind
 

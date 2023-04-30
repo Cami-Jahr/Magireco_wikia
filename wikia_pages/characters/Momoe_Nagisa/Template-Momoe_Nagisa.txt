@@ -21,30 +21,6 @@
 | blast_hori_disks = 0
 | charge_disks = 1
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
-| 3star_hp_lv1 = 
-| 3star_attack_lv1 = 
-| 3star_defense_lv1 = 
-| 3star_hp_max = 
-| 3star_attack_max = 
-| 3star_defense_max = 
-| 3star_illustrator_jp = 
-
 | 4star_hp_lv1 = 4794
 | 4star_attack_lv1 = 2082
 | 4star_defense_lv1 = 1454
@@ -130,7 +106,7 @@
 | Passive 12 effect = Chance to Dazzle on Attack [II / 15%] (1 Turn)
 
 | Passive 13 icon = Anti-Magia Seal
-| Passive 13 name = Anti-Seal Magia [VII]
+| Passive 13 name = Anti Seal Magia [VII]
 | Passive 13 name JP = アンチ・シールマギア[Ⅶ]
 | Passive 13 effect = Chance to Anti-Magia Seal [VII / 55%]
 

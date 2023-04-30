@@ -21,30 +21,6 @@
 | blast_hori_disks = 1
 | charge_disks = 1
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
-| 3star_hp_lv1 = 
-| 3star_attack_lv1 = 
-| 3star_defense_lv1 = 
-| 3star_hp_max = 
-| 3star_attack_max = 
-| 3star_defense_max = 
-| 3star_illustrator_jp = 
-
 | 4star_hp_lv1 = 6217
 | 4star_attack_lv1 = 1789
 | 4star_defense_lv1 = 1716
@@ -105,7 +81,7 @@
 | Passive 7 effect = Charged Attack Damage Up [II / 10%]
 
 | Passive 8 icon = Anti-Charm
-| Passive 8 name = Anti-Charm
+| Passive 8 name = Anti Charm
 | Passive 8 name JP = アンチ・チャーム
 | Passive 8 effect = Anti-Charm
 
@@ -120,7 +96,7 @@
 | Passive 10 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 11 icon = Anti-Stun
-| Passive 11 name = Anti-Stun
+| Passive 11 name = Anti Stun
 | Passive 11 name JP = アンチ・スタン
 | Passive 11 effect = Anti-Stun
 

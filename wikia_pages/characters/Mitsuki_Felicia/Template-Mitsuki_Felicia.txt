@@ -21,14 +21,6 @@
 | blast_hori_disks = 1
 | charge_disks = 2
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
 | 2star_hp_lv1 = 3140
 | 2star_attack_lv1 = 1305
 | 2star_defense_lv1 = 994
@@ -110,7 +102,7 @@
 | Passive 8 effect = Chance to Critical Hit [II / 15%]
 
 | Passive 9 icon = Anti-Counter
-| Passive 9 name = Anti-Counter [VIII]
+| Passive 9 name = Anti Counter [VIII]
 | Passive 9 name JP = アンチ・カウンター[Ⅷ]
 | Passive 9 effect = Chance to Anti-Counter [VIII / 60%]
 

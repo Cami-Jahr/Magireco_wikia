@@ -18,7 +18,7 @@
 | max_DEF = 2150
 
 | image = Magia Damage Up
-| effect_name = A Doppel  Up 
+| effect_name = A Doppel Up 
 | effect_name_JP = Aドッペル・アップ
 | effect1 = Magia Damage Up [VI / 17.5%] & Doppel Damage Up [VI / 30%] & Aqua Attribute Attack Up [X / 27.5%] (Self / 1 Turn)
 | effect2 = Magia Damage Up [VII / 20%] & Doppel Damage Up [VII / 35%] & Aqua Attribute Attack Up [XI / 30%] (Self / 1 Turn)

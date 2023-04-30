@@ -21,22 +21,6 @@
 | blast_hori_disks = 1
 | charge_disks = 1
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
 | 3star_hp_lv1 = 3714
 | 3star_attack_lv1 = 1565
 | 3star_defense_lv1 = 1175
@@ -125,7 +109,7 @@
 | Passive 11 effect = Charged Attack Damage Up [II / 10%]
 
 | Passive 12 icon = Anti-Poison
-| Passive 12 name = Anti-Poison
+| Passive 12 name = Anti Poison
 | Passive 12 name JP = アンチ・ポイズン
 | Passive 12 effect = Anti-Poison
 

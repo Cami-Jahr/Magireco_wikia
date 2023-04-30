@@ -21,6 +21,7 @@
 | blast_hori_disks = 2
 | charge_disks = 1
 
+
 | 1star_hp_lv1 = 3068
 | 1star_attack_lv1 = 878
 | 1star_defense_lv1 = 1157
@@ -125,7 +126,7 @@
 | Passive 11 effect = Status Ailment Resistance Up [I / 20%]
 
 | Passive 12 icon = Anti-Skill Seal
-| Passive 12 name = Anti-Jammer
+| Passive 12 name = Anti Jammer
 | Passive 12 name JP = アンチ・ジャマ―
 | Passive 12 effect = Anti-Skill Seal
 

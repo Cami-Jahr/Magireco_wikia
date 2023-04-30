@@ -21,30 +21,6 @@
 | blast_hori_disks = 2
 | charge_disks = 0
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
-| 3star_hp_lv1 = 
-| 3star_attack_lv1 = 
-| 3star_defense_lv1 = 
-| 3star_hp_max = 
-| 3star_attack_max = 
-| 3star_defense_max = 
-| 3star_illustrator_jp = 
-
 | 4star_hp_lv1 = 6211
 | 4star_attack_lv1 = 2265
 | 4star_defense_lv1 = 1901
@@ -90,7 +66,7 @@
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 5 icon = Anti-Debuff
-| Passive 5 name = Anti-Debuff
+| Passive 5 name = Anti Debuff
 | Passive 5 name JP = アンチ・デバフ
 | Passive 5 effect = Anti-Debuff [1 Debuff] (∞ Turns on Battle Start)
 
@@ -110,7 +86,7 @@
 | Passive 8 effect = Blast MP Gain Up [V / 5 MP]
 
 | Passive 9 icon = Anti-Debuff
-| Passive 9 name = Anti-Debuff
+| Passive 9 name = Anti Debuff
 | Passive 9 name JP = アンチ・デバフ
 | Passive 9 effect = Anti-Debuff [1 Debuff] (∞ Turns on Battle Start)
 
@@ -125,7 +101,7 @@
 | Passive 11 effect = Blast Damage Up [VII / 40%] & Damage Cut [III / 15%] (Self / 5 Turns on Battle Start)
 
 | Passive 12 icon = Anti-Bind
-| Passive 12 name = Anti-Bind
+| Passive 12 name = Anti Bind
 | Passive 12 name JP = アンチ・バインド
 | Passive 12 effect = Anti-Bind
 

@@ -1,6 +1,5 @@
 def get_char_list():
-    di = get_list("txts/chars.txt")
-    return di
+    return get_list("txts/chars.txt")
 
 
 def get_memo_list():

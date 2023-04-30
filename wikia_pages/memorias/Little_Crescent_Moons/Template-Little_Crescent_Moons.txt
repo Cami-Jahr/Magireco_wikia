@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Anti-Dazzle
-| effect_name = Anti-Nightmare
+| effect_name = Anti Nightmare
 | effect_name_JP = アンチ・ナイトメア
 | effect1 = Anti-Dazzle & Chance to Anti-Darkness [VIII / 60%]
 | effect2 = Anti-Dazzle & Anti-Darkness

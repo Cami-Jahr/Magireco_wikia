@@ -21,30 +21,6 @@
 | blast_hori_disks = 1
 | charge_disks = 2
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
-| 3star_hp_lv1 = 
-| 3star_attack_lv1 = 
-| 3star_defense_lv1 = 
-| 3star_hp_max = 
-| 3star_attack_max = 
-| 3star_defense_max = 
-| 3star_illustrator_jp = 
-
 | 4star_hp_lv1 = 4687
 | 4star_attack_lv1 = 2079
 | 4star_defense_lv1 = 1480
@@ -120,7 +96,7 @@
 | Passive 10 effect = Chance to Skill Seal on Attack [III / 20%] (1 Turn)
 
 | Passive 11 icon = Anti-Skill Seal
-| Passive 11 name = Anti-Jammer [X]
+| Passive 11 name = Anti Jammer [X]
 | Passive 11 name JP = アンチ・ジャマ―[Ⅹ]
 | Passive 11 effect = Chance to Anti-Skill Seal [X / 70%]
 

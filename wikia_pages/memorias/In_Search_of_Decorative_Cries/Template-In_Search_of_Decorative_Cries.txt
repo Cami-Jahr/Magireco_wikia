@@ -18,7 +18,7 @@
 | max_DEF = 2140
 
 | image = Doppel Damage Up
-| effect_name = Doppel  Up 
+| effect_name = Doppel Up 
 | effect_name_JP = ドッペル・アップ
 | effect1 = 
 | effect2 = Doppel Damage Up [IX / 45%] (Self / 1 Turn)

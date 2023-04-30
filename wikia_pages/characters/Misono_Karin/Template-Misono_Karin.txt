@@ -21,30 +21,6 @@
 | blast_hori_disks = 1
 | charge_disks = 1
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
-| 3star_hp_lv1 = 
-| 3star_attack_lv1 = 
-| 3star_defense_lv1 = 
-| 3star_hp_max = 
-| 3star_attack_max = 
-| 3star_defense_max = 
-| 3star_illustrator_jp = 
-
 | 4star_hp_lv1 = 6189
 | 4star_attack_lv1 = 1724
 | 4star_defense_lv1 = 1677
@@ -115,7 +91,7 @@
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
 
 | Passive 10 icon = Anti-Magia Seal
-| Passive 10 name = Anti-Seal Magia
+| Passive 10 name = Anti Seal Magia
 | Passive 10 name JP = アンチ・シールマギア
 | Passive 10 effect = Anti-Magia Seal
 

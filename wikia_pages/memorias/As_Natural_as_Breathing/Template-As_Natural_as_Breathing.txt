@@ -18,7 +18,7 @@
 | max_DEF = 0
 
 | image = Anti-Burn
-| effect_name = Anti-Burn
+| effect_name = Anti Burn
 | effect_name_JP = アンチ・バーン
 | effect1 = Chance to Anti-Burn [V / 45%] & Defense Up [I / 7.5%]
 | effect2 = Anti-Burn & Defense Up [II / 15%]

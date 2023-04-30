@@ -21,22 +21,6 @@
 | blast_hori_disks = 0
 | charge_disks = 2
 
-| 1star_hp_lv1 = 
-| 1star_attack_lv1 = 
-| 1star_defense_lv1 = 
-| 1star_hp_max = 
-| 1star_attack_max = 
-| 1star_defense_max = 
-| 1star_illustrator_jp = 
-
-| 2star_hp_lv1 = 
-| 2star_attack_lv1 = 
-| 2star_defense_lv1 = 
-| 2star_hp_max = 
-| 2star_attack_max = 
-| 2star_defense_max = 
-| 2star_illustrator_jp = 
-
 | 3star_hp_lv1 = 5008
 | 3star_attack_lv1 = 1359
 | 3star_defense_lv1 = 1345
@@ -115,7 +99,7 @@
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
 
 | Passive 10 icon = Anti-Skill Seal
-| Passive 10 name = Anti-Jammer
+| Passive 10 name = Anti Jammer
 | Passive 10 name JP = アンチ・ジャマ―
 | Passive 10 effect = Anti-Skill Seal
 
