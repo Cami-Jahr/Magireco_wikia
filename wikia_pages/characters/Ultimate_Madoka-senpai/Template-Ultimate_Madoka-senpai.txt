@@ -105,11 +105,6 @@
 | Passive 12 name JP = アクセル・アデプト[Ⅱ]
 | Passive 12 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Charged Attack Received Damage Up
 | Active 1 name = Charge Fall [V]
 | Active 1 name JP = チャージフォール[Ⅴ]

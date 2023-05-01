@@ -121,11 +121,6 @@
 | Passive 12 name JP = マギア・アデプト[Ⅱ]
 | Passive 12 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Burn
 | Active 1 name = Irrlicht [IV]
 | Active 1 name JP = イルリヒト[Ⅳ]

@@ -121,11 +121,6 @@
 | Passive 12 name JP = モラール・アデプト[Ⅱ]
 | Passive 12 effect = MP Gain Up [II / 7.5%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Accele MP Gain Up
 | Active 1 name = AcceleGuard Circle [II]
 | Active 1 name JP = アクセルガード・サークル[Ⅱ]

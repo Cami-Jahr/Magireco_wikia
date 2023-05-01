@@ -113,11 +113,6 @@
 | Passive 12 name JP = レジスト・アデプト[Ⅲ]
 | Passive 12 effect = Status Ailment Resistance Up [III / 30%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Attack Up
 | Active 1 name = Possesion [IV]
 | Active 1 name JP = ポゼッション[Ⅳ]

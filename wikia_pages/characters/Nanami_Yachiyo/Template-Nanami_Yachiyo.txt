@@ -121,11 +121,6 @@
 | Passive 12 name JP = ブラスト・アデプト[Ⅳ]
 | Passive 12 effect = Blast Damage Up [IV / 25%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Damage Cut
 | Active 1 name = Enchantment Shield [XIV]
 | Active 1 name JP = エンチャントシールド[XIV]

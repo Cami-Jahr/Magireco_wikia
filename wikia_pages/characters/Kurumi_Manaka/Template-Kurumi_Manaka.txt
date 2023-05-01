@@ -121,11 +121,6 @@
 | Passive 12 name JP = アンチ・シールマギア
 | Passive 12 effect = Anti-Magia Seal
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Attack Up
 | Active 1 name = Accele Attack Up [V]
 | Active 1 name JP = アクセルアタックアップ[Ⅴ]

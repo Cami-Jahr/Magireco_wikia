@@ -105,11 +105,6 @@
 | Passive 12 name JP = ブルームオーラ[Ⅴ]
 | Passive 12 effect = Attack Up [V / 15%] & Defense Up [V / 15%] (Allies / 5 Turns on Battle Start)
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Attack Up
 | Active 1 name = Bloom Up [V]
 | Active 1 name JP = ブルームアップ[Ⅴ]

@@ -113,11 +113,6 @@
 | Passive 12 name JP = バインド・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Bind on Attack [II / 15%] (1 Turn)
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Attack Down
 | Active 1 name = Bloom Down [V]
 | Active 1 name JP = ブルームダウン[Ⅴ]

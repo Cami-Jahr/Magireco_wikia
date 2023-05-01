@@ -113,11 +113,6 @@
 | Passive 12 name JP = マギア・アデプト[Ⅱ]
 | Passive 12 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Critical Hit
 | Active 1 name = Critical Force [VI]
 | Active 1 name JP = クリティカル・フォース[Ⅵ]

@@ -105,11 +105,6 @@
 | Passive 12 name JP = フレイムライジング・オーラ[Ⅴ]
 | Passive 12 effect = Flame Attribute Attack Up [V / 15%] & Magia Damage Up [II / 12%] (Allies / ∞ Turns on Battle Start)
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Magia Damage Up
 | Active 1 name = Boost Magia [V]
 | Active 1 name JP = ブーストマギア[Ⅴ]

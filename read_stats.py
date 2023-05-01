@@ -545,12 +545,6 @@ def make_spirit_enchantment(cells: list[dict]):
         else:
             print("\t\tUNKNOWN enhancementType:", cell["enhancementType"])
 
-    # fill out so everyone has 13 passive and 1 active
-    for i in range(passive_amount, 14):
-        passive_output += passive_template.format(i, "", "", "", "")
-    for i in range(active_amount, 2):
-        active_output += active_template.format(1, "", "", "", "", "")
-
     accele_bonus //= 10
     blast_bonus //= 10
     charge_bonus //= 10

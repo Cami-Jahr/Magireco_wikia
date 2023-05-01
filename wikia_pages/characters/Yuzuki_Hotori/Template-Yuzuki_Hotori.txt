@@ -113,11 +113,6 @@
 | Passive 12 name JP = ファスト・マナアップ
 | Passive 12 effect = MP Gauge Increased On Battle Start [15% full]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Regenerate MP
 | Active 1 name = Mana Spring [V]
 | Active 1 name JP = マナスプリング[Ⅴ]

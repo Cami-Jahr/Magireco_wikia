@@ -105,11 +105,6 @@
 | Passive 12 name JP = エンドア・アデプト[Ⅶ]
 | Passive 12 effect = MP Up When Damaged [VII / 7 MP]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Defense Up
 | Active 1 name = H Shield Circle [II]
 | Active 1 name JP = Hシールド・サークル[Ⅱ]

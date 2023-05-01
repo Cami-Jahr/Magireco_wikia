@@ -113,11 +113,6 @@
 | Passive 12 name JP = アクセル・アデプト[Ⅲ]
 | Passive 12 effect = Accele MP Gain Up [III / 15%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Charm
 | Active 1 name = Attention [X]
 | Active 1 name JP = アテンション[Ⅹ]

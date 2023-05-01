@@ -121,11 +121,6 @@
 | Passive 12 name JP = モラール・アデプト[Ⅲ]
 | Passive 12 effect = MP Gain Up [III / 10%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Fog
 | Active 1 name = Fog [IX]
 | Active 1 name JP = フォッグ[Ⅸ]

@@ -105,11 +105,6 @@
 | Passive 12 name JP = シールドオーラ[Ⅲ]
 | Passive 12 effect = Damage Cut [III / 15%] (Self / 3 Turns on Battle Start)
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Attack Down
 | Active 1 name = Attack Drain [VI]
 | Active 1 name JP = アタックドレイン[Ⅵ]

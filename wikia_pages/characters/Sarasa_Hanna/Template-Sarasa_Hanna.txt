@@ -105,11 +105,6 @@
 | Passive 12 name JP = アディクトキラー[Ⅱ]
 | Passive 12 effect = Damage Up Versus Enemies Affected With Status Ailments [II / 20%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Fog
 | Active 1 name = Suppress Fog [IV]
 | Active 1 name JP = サプレス・フォッグ[Ⅳ]

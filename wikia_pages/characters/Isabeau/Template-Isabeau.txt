@@ -105,11 +105,6 @@
 | Passive 12 name JP = ナーシングケア[Ⅴ]
 | Passive 12 effect = Regenerate HP [V / 6%] & Regenerate MP [V / 9 MP]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Curse
 | Active 1 name = Curse Mana Charge [II]
 | Active 1 name JP = カースマナチャージ[Ⅱ]

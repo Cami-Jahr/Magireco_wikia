@@ -105,11 +105,6 @@
 | Passive 12 name JP = シールド・アデプト[Ⅱ]
 | Passive 12 effect = Damage Cut [II / 10%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Curse
 | Active 1 name = Curse Enchant [III]
 | Active 1 name JP = カースエンチャント[Ⅲ]

@@ -113,11 +113,6 @@
 | Passive 12 name JP = レジスト・アデプト[Ⅱ]
 | Passive 12 effect = Status Ailment Resistance Up [II / 25%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = HP Restore
 | Active 1 name = First Aid
 | Active 1 name JP = ファーストエイド

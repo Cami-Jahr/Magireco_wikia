@@ -121,11 +121,6 @@
 | Passive 12 name JP = フォッグ・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Fog on Attack [II / 15%] (3 Turns)
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Fog
 | Active 1 name = Fog [VII]
 | Active 1 name JP = フォッグ[Ⅶ]

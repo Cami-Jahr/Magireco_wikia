@@ -113,11 +113,6 @@
 | Passive 12 name JP = エストック・アデプト[Ⅳ]
 | Passive 12 effect = Chance to Ignore Damage Cut [IV / 45%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Evade
 | Active 1 name = Parry
 | Active 1 name JP = パリィ

@@ -113,11 +113,6 @@
 | Passive 12 name JP = フルゲージ・ブルーム[Ⅳ]
 | Passive 12 effect = Attack Up While At Max Health [IV / 20%] & Defense Up While At Max Health [IV / 40%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Blast Damage Up
 | Active 1 name = Blast Up [V]
 | Active 1 name JP = ブラストアップ[Ⅴ]

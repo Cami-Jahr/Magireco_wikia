@@ -113,11 +113,6 @@
 | Passive 12 name JP = チャージ・アデプト[Ⅱ]
 | Passive 12 effect = Charged Attack Damage Up [II / 10%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Anti-Provoke
 | Active 1 name = Hawkeye
 | Active 1 name JP = ホークアイ

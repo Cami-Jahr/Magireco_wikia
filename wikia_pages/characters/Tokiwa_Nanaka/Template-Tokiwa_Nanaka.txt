@@ -113,11 +113,6 @@
 | Passive 12 name JP = エイミング・アデプト[Ⅲ]
 | Passive 12 effect = Chance to Anti-Evade [III / 35%]
 
-| Passive 13 icon = 
-| Passive 13 name = 
-| Passive 13 name JP = 
-| Passive 13 effect = 
-
 | Active 1 icon = Critical Hit
 | Active 1 name = Invisible Strike [V]
 | Active 1 name JP = インビジブル・ストライク[Ⅴ]
