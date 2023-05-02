@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = もうひとつのストーリー
 | Rarity = 4
 | ID = 1251

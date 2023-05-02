@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 愛ある小さな物語
 | Rarity = 3
 | ID = 1598

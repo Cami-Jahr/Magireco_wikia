@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 繋がる道を歩いてる
 | Rarity = 4
 | ID = 1144

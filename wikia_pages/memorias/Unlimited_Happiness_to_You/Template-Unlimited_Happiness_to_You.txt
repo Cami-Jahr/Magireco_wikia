@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 無限の喜びをきみに
 | Rarity = 2
 | ID = 1045

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 頼れるネゴシエーター
 | Rarity = 4
 | ID = 1121

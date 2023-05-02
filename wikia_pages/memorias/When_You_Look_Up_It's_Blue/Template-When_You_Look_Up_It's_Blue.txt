@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 見上げればアオ
 | Rarity = 4
 | ID = 1486

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = かくて聖夜は暮れゆく
 | Rarity = 3
 | ID = 1573

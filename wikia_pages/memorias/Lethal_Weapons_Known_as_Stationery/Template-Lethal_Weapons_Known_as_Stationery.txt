@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 文房具という名の凶器
 | Rarity = 3
 | ID = 1257

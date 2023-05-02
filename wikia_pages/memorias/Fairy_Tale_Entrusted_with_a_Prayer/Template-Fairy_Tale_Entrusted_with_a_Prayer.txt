@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = おとぎ話へ託す祈り
 | Rarity = 4
 | ID = 1839

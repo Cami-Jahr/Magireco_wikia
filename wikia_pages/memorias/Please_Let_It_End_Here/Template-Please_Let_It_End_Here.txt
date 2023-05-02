@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = どうかここで終わらせて
 | Rarity = 3
 | ID = 1553

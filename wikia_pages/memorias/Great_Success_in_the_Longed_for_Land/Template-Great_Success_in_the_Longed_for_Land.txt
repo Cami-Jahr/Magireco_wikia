@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 憧れの地で大いに活躍を
 | Rarity = 4
 | ID = 1604

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 天使様の軍旗
 | Rarity = 3
 | ID = 1174

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = トリートでお出迎え
 | Rarity = 2
 | ID = 1132

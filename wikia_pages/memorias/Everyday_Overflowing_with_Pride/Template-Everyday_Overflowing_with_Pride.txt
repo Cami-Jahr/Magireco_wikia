@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 日常にあふれる誇り
 | Rarity = 4
 | ID = 1541

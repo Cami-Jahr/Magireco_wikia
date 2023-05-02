@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 交流会へようこそ
 | Rarity = 3
 | ID = 1406

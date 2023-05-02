@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = なぎさの独立宣言！
 | Rarity = 4
 | ID = 1274

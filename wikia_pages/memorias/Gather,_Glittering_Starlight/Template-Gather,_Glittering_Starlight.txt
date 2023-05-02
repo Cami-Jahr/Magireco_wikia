@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 集え、星の輝き…
 | Rarity = 4
 | ID = 1359

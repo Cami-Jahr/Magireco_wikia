@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = みんな仲良く極楽
 | Rarity = 4
 | ID = 1661

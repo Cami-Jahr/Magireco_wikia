@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = グランマのイチゴリゾット
 | Rarity = 3
 | ID = 1139

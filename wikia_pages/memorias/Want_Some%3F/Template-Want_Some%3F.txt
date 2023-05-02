@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 食うかい？
 | Rarity = 3
 | ID = 1727

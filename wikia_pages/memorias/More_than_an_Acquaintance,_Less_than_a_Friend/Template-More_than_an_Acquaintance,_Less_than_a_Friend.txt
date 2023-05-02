@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 知り合い以上、友だち未満
 | Rarity = 4
 | ID = 1550

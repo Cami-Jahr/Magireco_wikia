@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 私は背負い続ける
 | Rarity = 4
 | ID = 1643

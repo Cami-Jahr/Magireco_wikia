@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 砕けてなお美しく
 | Rarity = 3
 | ID = 1201

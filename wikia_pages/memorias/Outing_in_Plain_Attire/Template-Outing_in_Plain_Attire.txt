@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = お出かけは清楚な装いで
 | Rarity = 4
 | ID = 1225

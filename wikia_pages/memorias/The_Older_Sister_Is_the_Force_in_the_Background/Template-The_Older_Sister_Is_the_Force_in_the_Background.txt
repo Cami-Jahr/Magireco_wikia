@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = お姉ちゃんは縁の下の力持ち
 | Rarity = 3
 | ID = 1628

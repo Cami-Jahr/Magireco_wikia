@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = わたくしだけの自由
 | Rarity = 3
 | ID = 1315

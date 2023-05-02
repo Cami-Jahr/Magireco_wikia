@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 怪盗かりん計画
 | Rarity = 3
 | ID = 1129

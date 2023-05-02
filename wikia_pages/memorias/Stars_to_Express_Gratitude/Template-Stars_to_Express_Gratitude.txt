@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 感謝を込めて星々を
 | Rarity = 4
 | ID = 1639

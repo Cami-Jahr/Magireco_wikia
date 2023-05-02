@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 擦り切れた母子手帳
 | Rarity = 3
 | ID = 1470

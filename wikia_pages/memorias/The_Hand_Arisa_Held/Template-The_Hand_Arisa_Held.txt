@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = アリサが掴んだ手
 | Rarity = 4
 | ID = 1207

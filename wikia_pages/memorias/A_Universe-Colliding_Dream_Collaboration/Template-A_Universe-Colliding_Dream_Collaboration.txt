@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 世界観を越えた夢のコラボ
 | Rarity = 4
 | ID = 1261

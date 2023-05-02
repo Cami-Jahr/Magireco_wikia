@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 弾むサマー＜ももこ・みたま＞
 | Rarity = 4
 | ID = 1647

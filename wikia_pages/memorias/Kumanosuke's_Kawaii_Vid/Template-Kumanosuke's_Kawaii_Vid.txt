@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 熊乃介のKAWAII☆動画
 | Rarity = 3
 | ID = 1603

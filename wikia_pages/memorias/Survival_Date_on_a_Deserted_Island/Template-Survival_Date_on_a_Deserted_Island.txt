@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = サバイバルデートin無人島
 | Rarity = 4
 | ID = 1492

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = パジャマパーティーは突然に
 | Rarity = 4
 | ID = 1803

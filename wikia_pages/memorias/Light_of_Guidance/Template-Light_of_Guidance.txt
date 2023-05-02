@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 導きの光明
 | Rarity = 4
 | ID = 1504

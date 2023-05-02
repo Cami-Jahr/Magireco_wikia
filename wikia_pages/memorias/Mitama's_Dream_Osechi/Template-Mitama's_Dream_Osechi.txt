@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = みたまのドリームおせち
 | Rarity = 3
 | ID = 1292

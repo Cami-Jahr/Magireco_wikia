@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = インキューブの瞳
 | Rarity = 3
 | ID = 1733

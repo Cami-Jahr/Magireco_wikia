@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = サカサマのあちし！
 | Rarity = 2
 | ID = 1119

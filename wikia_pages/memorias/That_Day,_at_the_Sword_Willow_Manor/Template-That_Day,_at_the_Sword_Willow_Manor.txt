@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = あの日、剣柳館にて
 | Rarity = 4
 | ID = 1590

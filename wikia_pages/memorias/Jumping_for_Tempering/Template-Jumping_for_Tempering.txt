@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 飛び跳ねるほどのテンパリング
 | Rarity = 4
 | ID = 1861

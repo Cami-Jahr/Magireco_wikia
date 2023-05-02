@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 勝利は時を貫いて
 | Rarity = 4
 | ID = 1637

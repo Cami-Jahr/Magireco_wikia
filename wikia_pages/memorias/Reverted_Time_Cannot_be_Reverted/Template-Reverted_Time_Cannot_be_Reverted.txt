@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 戻した時間は戻らない
 | Rarity = 3
 | ID = 1883

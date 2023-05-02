@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 飛んじゃうくらいに大好きな
 | Rarity = 4
 | ID = 1696

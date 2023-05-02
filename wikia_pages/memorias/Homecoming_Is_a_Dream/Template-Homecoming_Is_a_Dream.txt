@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = お里帰りは夢の中で
 | Rarity = 4
 | ID = 1847

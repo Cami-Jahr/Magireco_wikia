@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 二度目のクリスマス・キャロル
 | Rarity = 4
 | ID = 1577

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 三人で、前へ
 | Rarity = 4
 | ID = 1146

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 幸せな音
 | Rarity = 3
 | ID = 1194

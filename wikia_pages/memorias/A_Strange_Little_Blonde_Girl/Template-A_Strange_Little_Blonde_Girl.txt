@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 不穏な金髪幼女
 | Rarity = 4
 | ID = 1313

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 全ての視線は私のもの
 | Rarity = 3
 | ID = 1202

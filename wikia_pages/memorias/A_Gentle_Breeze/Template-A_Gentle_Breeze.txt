@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 穏やかな風
 | Rarity = 4
 | ID = 1215

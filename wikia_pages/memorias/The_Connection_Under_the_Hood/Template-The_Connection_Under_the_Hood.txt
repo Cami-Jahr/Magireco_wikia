@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = フードの中の繋がり
 | Rarity = 4
 | ID = 1434

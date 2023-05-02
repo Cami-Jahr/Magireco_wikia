@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 手をつないだ明日へ
 | Rarity = 4
 | ID = 1813

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 寝ても覚めても一緒に…
 | Rarity = 4
 | ID = 1669

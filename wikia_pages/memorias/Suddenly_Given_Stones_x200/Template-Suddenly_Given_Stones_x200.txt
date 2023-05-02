@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 突如届いた石×200
 | Rarity = 4
 | ID = 1335

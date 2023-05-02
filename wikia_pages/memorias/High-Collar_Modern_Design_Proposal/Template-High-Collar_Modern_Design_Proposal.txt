@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ハイカラ今どきデザイン案
 | Rarity = 3
 | ID = 1711

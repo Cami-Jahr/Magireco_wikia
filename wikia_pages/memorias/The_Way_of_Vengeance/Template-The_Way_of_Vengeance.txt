@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 仇討ちはその手で
 | Rarity = 4
 | ID = 1593

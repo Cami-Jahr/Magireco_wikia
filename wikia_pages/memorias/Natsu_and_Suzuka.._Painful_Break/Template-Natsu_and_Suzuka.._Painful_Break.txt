@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 南津と鈴鹿：切ない絶交
 | Rarity = 4
 | ID = 1455

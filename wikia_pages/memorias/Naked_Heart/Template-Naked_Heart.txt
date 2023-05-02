@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ネイキッドハート
 | Rarity = 4
 | ID = 1611

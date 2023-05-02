@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 旅する調整屋
 | Rarity = 4
 | ID = 1449

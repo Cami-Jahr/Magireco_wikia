@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 隷従のスティグマ
 | Rarity = 3
 | ID = 1622

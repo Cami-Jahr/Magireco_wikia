@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 莉愛ちゃん殺人（？）事件
 | Rarity = 3
 | ID = 1792

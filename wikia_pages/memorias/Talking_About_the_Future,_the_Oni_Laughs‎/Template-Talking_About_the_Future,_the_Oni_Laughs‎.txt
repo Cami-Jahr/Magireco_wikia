@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 未来を語り、鬼は笑う
 | Rarity = 3
 | ID = 1657

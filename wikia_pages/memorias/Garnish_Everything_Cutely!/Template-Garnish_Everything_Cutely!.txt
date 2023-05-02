@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = みんな可愛く彩って
 | Rarity = 4
 | ID = 1264

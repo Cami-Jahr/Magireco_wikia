@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ワタシニアイタイノ？
 | Rarity = 3
 | ID = 1602

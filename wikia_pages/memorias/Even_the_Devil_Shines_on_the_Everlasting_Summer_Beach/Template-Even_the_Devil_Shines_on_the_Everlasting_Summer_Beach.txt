@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 悪魔も常夏ビーチ映え
 | Rarity = 3
 | ID = 1748

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 色とりどりの私たち
 | Rarity = 4
 | ID = 1336

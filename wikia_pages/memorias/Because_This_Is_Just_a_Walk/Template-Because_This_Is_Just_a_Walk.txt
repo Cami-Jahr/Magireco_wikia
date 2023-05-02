@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = これはただの散歩だから
 | Rarity = 4
 | ID = 1619

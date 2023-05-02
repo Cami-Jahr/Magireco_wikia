@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 生まれる光の中で
 | Rarity = 4
 | ID = 1246

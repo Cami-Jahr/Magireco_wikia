@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 大切なお友達からのメッセージ
 | Rarity = 3
 | ID = 1352

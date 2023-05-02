@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 髪型アレンジ交換会
 | Rarity = 3
 | ID = 1658

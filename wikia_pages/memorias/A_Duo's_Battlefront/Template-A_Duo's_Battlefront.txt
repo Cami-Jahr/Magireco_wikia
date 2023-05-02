@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 2人の共闘戦線
 | Rarity = 2
 | ID = 1166

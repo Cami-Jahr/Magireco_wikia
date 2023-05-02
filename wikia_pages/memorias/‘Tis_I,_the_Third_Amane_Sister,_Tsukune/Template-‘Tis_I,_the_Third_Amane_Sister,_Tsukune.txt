@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 天音姉妹の三女月練でござる
 | Rarity = 3
 | ID = 1197

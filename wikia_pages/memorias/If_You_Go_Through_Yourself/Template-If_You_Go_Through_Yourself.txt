@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 貫くなら自分から
 | Rarity = 3
 | ID = 1452

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 生き残りたいと願ったのは
 | Rarity = 4
 | ID = 1719

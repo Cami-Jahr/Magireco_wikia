@@ -68327,7 +68327,74 @@
   "1891": {
     "pieceId": 1891,
     "rank": "RANK_4",
-    "__update__": "2023-04-24T07:10:10.774Z"
+    "__update__": "2023-05-01T09:22:58.444Z",
+    "pieceName": "レーラズの影",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 858,
+    "defense": 0,
+    "hp": 778,
+    "skillId": 189100,
+    "pieceSkill": {
+      "id": 189100,
+      "groupId": 1092,
+      "name": "フルバースト・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅳ] & Accele MPUP[Ⅳ]",
+      "artId1": 390201804,
+      "art1": {
+        "artId": 390201804,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201604,
+      "art2": {
+        "artId": 390201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 189101,
+    "pieceSkill2": {
+      "id": 189101,
+      "groupId": 1092,
+      "name": "フルバースト・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅳ] & Accele MPUP[Ⅳ]",
+      "artId1": 390201804,
+      "art1": {
+        "artId": 390201804,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201604,
+      "art2": {
+        "artId": 390201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "どんな時でも、傍らにはいつもあんたがいた＠でも今は、触れようとしても遠くて、手が届かない＠それでも、この胸にこみ上げている想いは届いていると信じたい＠あたしはもう少し、頑張ってみるよ",
+    "illustrator": "―",
+    "openDate": "2023/04/24 15:10:00"
   },
   "1892": {
     "pieceId": 1892,

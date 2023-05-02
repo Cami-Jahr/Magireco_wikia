@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 心優しき革命家
 | Rarity = 4
 | ID = 1655

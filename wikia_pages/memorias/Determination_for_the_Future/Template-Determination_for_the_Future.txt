@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 未来への決意を
 | Rarity = 3
 | ID = 1342

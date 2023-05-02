@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 最後の異端審問官
 | Rarity = 3
 | ID = 1674

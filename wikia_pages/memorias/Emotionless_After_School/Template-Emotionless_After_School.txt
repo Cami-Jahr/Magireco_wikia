@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 無感情の放課後
 | Rarity = 3
 | ID = 1740

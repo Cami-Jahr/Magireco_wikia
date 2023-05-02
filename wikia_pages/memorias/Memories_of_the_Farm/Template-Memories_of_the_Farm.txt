@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 牧場の思い出
 | Rarity = 3
 | ID = 1104

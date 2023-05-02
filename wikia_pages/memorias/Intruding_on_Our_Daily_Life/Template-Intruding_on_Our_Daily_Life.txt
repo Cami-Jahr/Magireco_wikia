@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 日常にお邪魔します
 | Rarity = 4
 | ID = 1660

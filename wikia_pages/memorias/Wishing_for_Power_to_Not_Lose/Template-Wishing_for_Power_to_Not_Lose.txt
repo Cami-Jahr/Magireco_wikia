@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 負けない力を求めて
 | Rarity = 3
 | ID = 1205

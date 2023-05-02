@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 初恋もまだのふたりに
 | Rarity = 3
 | ID = 1305

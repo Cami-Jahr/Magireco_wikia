@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = たとえ道を間違えても
 | Rarity = 4
 | ID = 1343

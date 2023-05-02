@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 予想外の本音
 | Rarity = 3
 | ID = 1827

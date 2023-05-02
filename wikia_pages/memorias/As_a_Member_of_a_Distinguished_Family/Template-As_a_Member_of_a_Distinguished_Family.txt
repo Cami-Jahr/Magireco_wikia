@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 名家の者として
 | Rarity = 3
 | ID = 1087

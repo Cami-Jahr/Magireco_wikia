@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 幼馴染なふたり
 | Rarity = 3
 | ID = 1835

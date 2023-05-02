@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 鏡に映る虚勢の笑顔
 | Rarity = 4
 | ID = 1677

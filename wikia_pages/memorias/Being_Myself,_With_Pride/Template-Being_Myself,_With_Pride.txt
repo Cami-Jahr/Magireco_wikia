@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 私らしく、誇りを持って
 | Rarity = 4
 | ID = 1641

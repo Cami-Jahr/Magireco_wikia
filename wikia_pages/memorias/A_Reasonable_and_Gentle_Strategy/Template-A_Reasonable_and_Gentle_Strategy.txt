@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 合理的で優しい作戦
 | Rarity = 4
 | ID = 1631

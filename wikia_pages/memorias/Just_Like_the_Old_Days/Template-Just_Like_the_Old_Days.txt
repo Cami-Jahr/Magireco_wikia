@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = なんだか昔に戻れたみたい
 | Rarity = 4
 | ID = 1480

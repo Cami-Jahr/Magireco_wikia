@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 楽しく遊んだそのあとは…
 | Rarity = 4
 | ID = 1671

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 晴れ着でおでかけ
 | Rarity = 4
 | ID = 1161

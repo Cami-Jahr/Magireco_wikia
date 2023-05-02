@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 愛され、救われていたあの頃
 | Rarity = 3
 | ID = 1783

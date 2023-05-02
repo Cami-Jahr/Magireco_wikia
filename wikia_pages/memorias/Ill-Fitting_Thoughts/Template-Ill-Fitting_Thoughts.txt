@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 収まらない想い
 | Rarity = 3
 | ID = 1615

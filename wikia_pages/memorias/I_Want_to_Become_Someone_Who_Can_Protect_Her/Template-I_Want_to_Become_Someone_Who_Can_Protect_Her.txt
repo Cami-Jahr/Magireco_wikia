@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 彼女を守る私になりたい
 | Rarity = 3
 | ID = 1081

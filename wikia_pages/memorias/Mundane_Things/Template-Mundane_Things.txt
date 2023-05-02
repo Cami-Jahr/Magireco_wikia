@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ありふれたもの
 | Rarity = 3
 | ID = 1111

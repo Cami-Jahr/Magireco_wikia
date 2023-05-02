@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 1000年の眠りを超えて
 | Rarity = 3
 | ID = 1734

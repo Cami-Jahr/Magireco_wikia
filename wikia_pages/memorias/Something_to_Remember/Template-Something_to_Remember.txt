@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = いつか思い出とするために
 | Rarity = 3
 | ID = 1532

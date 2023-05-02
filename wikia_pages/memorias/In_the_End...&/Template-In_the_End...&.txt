@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 結局最後は…
 | Rarity = 3
 | ID = 1210

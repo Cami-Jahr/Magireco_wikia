@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 暗闇の証明
 | Rarity = 3
 | ID = 1198

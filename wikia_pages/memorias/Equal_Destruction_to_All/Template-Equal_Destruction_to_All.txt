@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 等しき滅びをすべてに
 | Rarity = 4
 | ID = 1815

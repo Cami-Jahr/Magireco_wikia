@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 自分を笑顔に、みんなも笑顔に
 | Rarity = 3
 | ID = 1095

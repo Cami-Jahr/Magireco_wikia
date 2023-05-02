@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 一筋の希望を探して
 | Rarity = 2
 | ID = 1023

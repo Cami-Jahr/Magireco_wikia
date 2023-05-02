@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 景色は罪色
 | Rarity = 3
 | ID = 1513

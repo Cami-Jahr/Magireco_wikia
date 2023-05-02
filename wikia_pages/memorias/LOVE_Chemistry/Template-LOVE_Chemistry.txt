@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = LOVE化学
 | Rarity = 3
 | ID = 1085

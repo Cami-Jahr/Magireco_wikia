@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = そのおみ足は世界一！
 | Rarity = 3
 | ID = 1699

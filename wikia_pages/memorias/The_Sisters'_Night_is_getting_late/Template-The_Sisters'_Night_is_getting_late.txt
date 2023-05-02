@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 姉妹の夜は更けて
 | Rarity = 3
 | ID = 1892

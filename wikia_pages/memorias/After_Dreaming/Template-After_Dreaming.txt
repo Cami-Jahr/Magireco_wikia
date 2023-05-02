@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 夢見たあとに
 | Rarity = 3
 | ID = 1755

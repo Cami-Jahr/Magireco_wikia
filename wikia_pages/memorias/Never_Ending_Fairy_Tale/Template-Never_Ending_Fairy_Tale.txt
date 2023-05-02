@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 終わらないで、おとぎ話
 | Rarity = 4
 | ID = 1834

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 激情の双斧
 | Rarity = 3
 | ID = 1888

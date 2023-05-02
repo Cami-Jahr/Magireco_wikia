@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 姉には見える世界
 | Rarity = 4
 | ID = 1889

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = つむぎのマル秘グルメノート
 | Rarity = 3
 | ID = 1493

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 渾身の一発ギャグ
 | Rarity = 2
 | ID = 1039

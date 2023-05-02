@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 一生忘れられない怖い話
 | Rarity = 3
 | ID = 1530

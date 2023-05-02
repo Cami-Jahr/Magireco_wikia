@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 真剣な顔だって出来ますよ？
 | Rarity = 4
 | ID = 1192

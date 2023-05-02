@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 雨上がりの帰り道＜せいか＞
 | Rarity = 2
 | ID = 1187

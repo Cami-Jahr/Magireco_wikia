@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = お手軽トラウマ
 | Rarity = 3
 | ID = 1464

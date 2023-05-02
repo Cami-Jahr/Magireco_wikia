@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 宿命に導かれて
 | Rarity = 3
 | ID = 1371

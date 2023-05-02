@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 書庫は友だち
 | Rarity = 4
 | ID = 1428

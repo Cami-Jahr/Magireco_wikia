@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 50通目のラブレター（未完）
 | Rarity = 3
 | ID = 1123

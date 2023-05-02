@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 心地のいい時間
 | Rarity = 3
 | ID = 1238

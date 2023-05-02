@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 夏に咲く花
 | Rarity = 3
 | ID = 1518

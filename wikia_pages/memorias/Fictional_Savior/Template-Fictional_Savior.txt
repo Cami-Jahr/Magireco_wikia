@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 虚構の救世主
 | Rarity = 3
 | ID = 1701

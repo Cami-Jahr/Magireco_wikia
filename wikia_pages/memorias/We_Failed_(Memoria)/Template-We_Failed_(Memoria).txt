@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 僕たちは失敗した
 | Rarity = 4
 | ID = 1778

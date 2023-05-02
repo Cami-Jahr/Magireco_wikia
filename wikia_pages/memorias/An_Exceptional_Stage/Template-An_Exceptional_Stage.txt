@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = とびっきりの舞台
 | Rarity = 4
 | ID = 1414

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 会場を超える盛況
 | Rarity = 4
 | ID = 1481

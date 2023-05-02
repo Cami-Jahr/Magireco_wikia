@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 「おめでとう」の数だけ
 | Rarity = 4
 | ID = 1679

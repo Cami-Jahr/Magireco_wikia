@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 想い、通い合わずに…
 | Rarity = 3
 | ID = 1219

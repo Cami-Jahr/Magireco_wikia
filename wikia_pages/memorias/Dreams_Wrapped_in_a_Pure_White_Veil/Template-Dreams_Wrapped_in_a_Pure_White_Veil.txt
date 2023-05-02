@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 夢は真っ白なベールに包んで
 | Rarity = 3
 | ID = 1560

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 武器は加速装置
 | Rarity = 3
 | ID = 1308

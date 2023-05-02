@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 穏やかに日々を紡いで
 | Rarity = 3
 | ID = 1621

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 息のあったコンビネーション！
 | Rarity = 3
 | ID = 1059

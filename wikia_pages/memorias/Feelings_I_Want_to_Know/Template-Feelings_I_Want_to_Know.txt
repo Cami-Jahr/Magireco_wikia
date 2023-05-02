@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 知りたい気持ち
 | Rarity = 3
 | ID = 1724

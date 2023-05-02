@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 七夕に遺る思いをなぞって
 | Rarity = 3
 | ID = 1642

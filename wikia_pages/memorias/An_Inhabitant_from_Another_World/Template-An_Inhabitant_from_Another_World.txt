@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 別世界の住人
 | Rarity = 4
 | ID = 1501

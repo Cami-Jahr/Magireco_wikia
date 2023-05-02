@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = マスカレード
 | Rarity = 3
 | ID = 1507

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 大切な人を守る力
 | Rarity = 4
 | ID = 1255

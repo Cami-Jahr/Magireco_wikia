@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 夢は美術品の修復師
 | Rarity = 3
 | ID = 1191

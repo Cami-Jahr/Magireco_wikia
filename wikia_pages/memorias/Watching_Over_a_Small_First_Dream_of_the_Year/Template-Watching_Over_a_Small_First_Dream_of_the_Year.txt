@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 小さな初夢を見守りながら
 | Rarity = 4
 | ID = 1846

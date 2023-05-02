@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 願いで満ちた世界だから
 | Rarity = 4
 | ID = 1339

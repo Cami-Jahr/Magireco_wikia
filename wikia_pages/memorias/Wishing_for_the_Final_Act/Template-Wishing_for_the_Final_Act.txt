@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 終幕への願い
 | Rarity = 4
 | ID = 1805

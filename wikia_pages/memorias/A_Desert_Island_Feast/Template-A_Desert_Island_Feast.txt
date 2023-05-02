@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 無人島のご馳走
 | Rarity = 3
 | ID = 1380

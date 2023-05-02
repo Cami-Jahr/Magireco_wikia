@@ -23,7 +23,6 @@ textS = "{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}
 textM1 = """
 | name = {0}
 | name_jp = {1}
-| name_na = 
 | element = {7}
 | base_rarity = {2}
 | max_rarity = {3}
@@ -35,7 +34,6 @@ textM1 = """
 | designer_jp = {5}
 | memoria = 
 | release_date = {10}
-| release_date_na = 
 | event_limit = 
 """
 
@@ -372,7 +370,6 @@ def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
     connect_string = """
 | Connect name JP = {}
 | Connect name EN = 
-| Connect name NA = 
 | Connect icon = {}
 """.format(connect_name, connect_icon)
 
@@ -404,7 +401,6 @@ def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
     magia_string = """
 | Magia name JP = {}
 | Magia name EN = 
-| Magia name NA = 
 | Magia icon = {}
 """.format(magia_name, magia_icon)
 

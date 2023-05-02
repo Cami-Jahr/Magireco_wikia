@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = また、次の夏も
 | Rarity = 3
 | ID = 1790

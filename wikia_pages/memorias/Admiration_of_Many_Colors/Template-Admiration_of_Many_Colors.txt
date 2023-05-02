@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 色とりどりの賞賛
 | Rarity = 4
 | ID = 1443

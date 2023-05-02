@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ノンビリの象徴
 | Rarity = 3
 | ID = 1217

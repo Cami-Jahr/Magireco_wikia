@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 大人と子どもの真ん中で
 | Rarity = 3
 | ID = 1837

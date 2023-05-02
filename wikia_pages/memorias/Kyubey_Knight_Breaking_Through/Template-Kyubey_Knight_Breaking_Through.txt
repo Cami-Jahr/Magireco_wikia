@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 切り開けキュゥべえナイト
 | Rarity = 4
 | ID = 1267

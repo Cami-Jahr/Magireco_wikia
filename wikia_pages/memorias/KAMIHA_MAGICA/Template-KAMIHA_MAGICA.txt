@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = カミハ☆マギカ
 | Rarity = 4
 | ID = 1407

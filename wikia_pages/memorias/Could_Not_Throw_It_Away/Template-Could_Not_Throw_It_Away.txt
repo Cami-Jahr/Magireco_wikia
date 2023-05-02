@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 捨てられなかった
 | Rarity = 4
 | ID = 1866

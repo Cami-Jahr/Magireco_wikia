@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 甘やかな芽生え
 | Rarity = 4
 | ID = 1741

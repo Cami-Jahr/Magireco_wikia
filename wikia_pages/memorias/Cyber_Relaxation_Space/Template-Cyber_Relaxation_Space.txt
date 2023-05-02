@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 電脳安息空間
 | Rarity = 3
 | ID = 1448

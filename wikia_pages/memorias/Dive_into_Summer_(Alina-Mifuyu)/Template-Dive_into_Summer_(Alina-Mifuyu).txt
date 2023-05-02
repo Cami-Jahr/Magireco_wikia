@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 夏へダイブ＜アリナ・みふゆ＞
 | Rarity = 3
 | ID = 1368

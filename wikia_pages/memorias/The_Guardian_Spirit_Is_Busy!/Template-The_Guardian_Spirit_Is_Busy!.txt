@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 守護霊さんは大忙し！
 | Rarity = 3
 | ID = 1578

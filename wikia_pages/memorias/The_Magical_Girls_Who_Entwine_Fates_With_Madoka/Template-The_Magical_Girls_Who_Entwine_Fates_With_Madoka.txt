@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = まどかと因果を紡ぐ魔法少女
 | Rarity = 3
 | ID = 1064

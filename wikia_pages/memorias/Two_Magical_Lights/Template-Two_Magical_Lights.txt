@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ふたつの魔力光
 | Rarity = 3
 | ID = 1357

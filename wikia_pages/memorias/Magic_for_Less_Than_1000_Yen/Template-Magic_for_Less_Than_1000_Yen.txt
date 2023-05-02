@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 1000円未満の魔法
 | Rarity = 3
 | ID = 1563

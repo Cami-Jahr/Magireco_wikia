@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 序幕での対峙
 | Rarity = 3
 | ID = 1806

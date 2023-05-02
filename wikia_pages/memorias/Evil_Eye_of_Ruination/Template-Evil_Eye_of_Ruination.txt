@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 破滅を呼ぶ魔性の眼光
 | Rarity = 3
 | ID = 1491

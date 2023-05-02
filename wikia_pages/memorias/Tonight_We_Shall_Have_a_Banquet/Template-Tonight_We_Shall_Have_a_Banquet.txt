@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 今宵は共に饗宴を
 | Rarity = 4
 | ID = 1555

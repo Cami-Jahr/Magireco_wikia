@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 今日から友だち
 | Rarity = 3
 | ID = 1828

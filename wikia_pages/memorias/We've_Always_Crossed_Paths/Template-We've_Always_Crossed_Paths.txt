@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = いつもいつでもすれ違い
 | Rarity = 3
 | ID = 1687

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 自慢の晴れ着
 | Rarity = 3
 | ID = 1162

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = あたしの学校生活
 | Rarity = 2
 | ID = 1112

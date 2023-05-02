@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ベストスプラッシュシーン
 | Rarity = 3
 | ID = 1522

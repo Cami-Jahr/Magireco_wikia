@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 大嫌いなレナ
 | Rarity = 4
 | ID = 1770

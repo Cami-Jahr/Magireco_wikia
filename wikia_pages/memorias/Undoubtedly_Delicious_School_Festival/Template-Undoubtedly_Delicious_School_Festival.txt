@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = きっとおいしい学園祭
 | Rarity = 3
 | ID = 1495

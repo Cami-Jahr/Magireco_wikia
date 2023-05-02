@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 魔法少女になれる気がしたの
 | Rarity = 4
 | ID = 1700

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 改めて決意を
 | Rarity = 4
 | ID = 1542

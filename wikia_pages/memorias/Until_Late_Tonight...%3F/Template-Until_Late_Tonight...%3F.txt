@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 今夜は遅くまで…？
 | Rarity = 4
 | ID = 1867

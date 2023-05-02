@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = どんな衣装もお手のもの
 | Rarity = 4
 | ID = 1712

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 祖霊と生きる姫君
 | Rarity = 4
 | ID = 1875

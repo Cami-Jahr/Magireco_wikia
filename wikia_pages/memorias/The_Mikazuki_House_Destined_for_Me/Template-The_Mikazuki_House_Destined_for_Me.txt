@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = あてがわれたみかづき荘
 | Rarity = 3
 | ID = 1720

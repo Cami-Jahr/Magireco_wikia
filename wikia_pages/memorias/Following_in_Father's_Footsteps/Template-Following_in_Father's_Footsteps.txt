@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 父の背中を追って
 | Rarity = 3
 | ID = 1086

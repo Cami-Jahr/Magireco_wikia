@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 想いよ届け、あなたのもとへ
 | Rarity = 3
 | ID = 1842

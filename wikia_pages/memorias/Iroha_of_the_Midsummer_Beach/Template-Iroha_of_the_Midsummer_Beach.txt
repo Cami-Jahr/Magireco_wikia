@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 真夏の海のいろは！
 | Rarity = 4
 | ID = 1239

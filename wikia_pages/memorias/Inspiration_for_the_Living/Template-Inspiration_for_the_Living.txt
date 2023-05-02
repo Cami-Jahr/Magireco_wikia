@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 生ける者への閃き
 | Rarity = 3
 | ID = 1854

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 新たな年の真ごころ
 | Rarity = 3
 | ID = 1446

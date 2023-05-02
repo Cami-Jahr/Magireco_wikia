@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 新作！桜スウィーツ!!
 | Rarity = 4
 | ID = 1478

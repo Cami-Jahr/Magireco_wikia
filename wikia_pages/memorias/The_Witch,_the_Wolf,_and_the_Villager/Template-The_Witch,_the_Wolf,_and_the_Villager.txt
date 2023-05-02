@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 魔女と狼と村人
 | Rarity = 3
 | ID = 1206

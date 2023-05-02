@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 若く可憐なる王妃
 | Rarity = 4
 | ID = 1624

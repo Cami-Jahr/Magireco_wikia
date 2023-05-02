@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 摂理に反した代償
 | Rarity = 3
 | ID = 1781

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ほら、笑って
 | Rarity = 4
 | ID = 1519

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 光を知った日
 | Rarity = 3
 | ID = 1108

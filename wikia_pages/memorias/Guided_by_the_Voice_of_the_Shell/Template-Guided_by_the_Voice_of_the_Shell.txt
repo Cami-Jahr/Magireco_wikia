@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 貝殻の声に導かれ
 | Rarity = 4
 | ID = 1853

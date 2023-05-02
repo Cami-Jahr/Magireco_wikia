@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 思いがけないリアクション
 | Rarity = 3
 | ID = 1137

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 私の可能性
 | Rarity = 3
 | ID = 1884

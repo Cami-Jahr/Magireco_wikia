@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 友達になった日
 | Rarity = 3
 | ID = 1421

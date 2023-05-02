@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 浅き夢の暁
 | Rarity = 4
 | ID = 1780

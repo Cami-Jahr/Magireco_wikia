@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 砂塵に吹かれて
 | Rarity = 3
 | ID = 1874

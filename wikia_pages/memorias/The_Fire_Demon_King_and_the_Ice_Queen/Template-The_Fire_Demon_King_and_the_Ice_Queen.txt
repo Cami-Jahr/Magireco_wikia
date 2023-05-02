@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 火の魔王と氷の女王
 | Rarity = 4
 | ID = 1841

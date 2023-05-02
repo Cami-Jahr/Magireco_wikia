@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ひとりじゃないから
 | Rarity = 4
 | ID = 1370

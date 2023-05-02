@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ゆらめく憧憬
 | Rarity = 4
 | ID = 1692

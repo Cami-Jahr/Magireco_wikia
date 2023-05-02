@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = いつもの特等席
 | Rarity = 4
 | ID = 1534

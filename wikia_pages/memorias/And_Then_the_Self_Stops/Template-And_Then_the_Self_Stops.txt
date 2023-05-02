@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = そして自己は停止する
 | Rarity = 3
 | ID = 1726

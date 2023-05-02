@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 放課後の透明少女
 | Rarity = 2
 | ID = 1126

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 再会を信じて「チャオ！」
 | Rarity = 3
 | ID = 1682

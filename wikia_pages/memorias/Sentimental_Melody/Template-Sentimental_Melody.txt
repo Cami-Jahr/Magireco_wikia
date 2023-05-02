@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 感傷的な旋律
 | Rarity = 3
 | ID = 1165

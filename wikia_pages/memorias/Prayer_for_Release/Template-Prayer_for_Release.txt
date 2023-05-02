@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 解放への祈り
 | Rarity = 3
 | ID = 1227

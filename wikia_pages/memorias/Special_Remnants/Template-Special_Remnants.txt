@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 特別の名残り
 | Rarity = 3
 | ID = 1442

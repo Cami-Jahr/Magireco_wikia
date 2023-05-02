@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 究極VS至高
 | Rarity = 4
 | ID = 1613

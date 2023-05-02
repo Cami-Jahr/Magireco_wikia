@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 屋台パラダイス
 | Rarity = 4
 | ID = 1293

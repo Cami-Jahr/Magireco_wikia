@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = どんなわたしになるのかな？
 | Rarity = 4
 | ID = 1340

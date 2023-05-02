@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 頑張るあなたへメリークリスマス
 | Rarity = 3
 | ID = 1838

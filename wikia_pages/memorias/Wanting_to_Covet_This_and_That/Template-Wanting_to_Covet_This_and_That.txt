@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = アレもコレもと欲張りたい
 | Rarity = 4
 | ID = 1529

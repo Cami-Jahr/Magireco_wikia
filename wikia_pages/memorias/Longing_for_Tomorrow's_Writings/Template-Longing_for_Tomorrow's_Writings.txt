@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 綴る明日を待ちわびて
 | Rarity = 3
 | ID = 1654

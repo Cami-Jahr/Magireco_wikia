@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = やさしいは作れる
 | Rarity = 4
 | ID = 1472

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ショータイムなんよ！
 | Rarity = 3
 | ID = 1759

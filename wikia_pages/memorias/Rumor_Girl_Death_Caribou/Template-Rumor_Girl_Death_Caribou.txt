@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 噂の少女デス・カリブー
 | Rarity = 3
 | ID = 1291

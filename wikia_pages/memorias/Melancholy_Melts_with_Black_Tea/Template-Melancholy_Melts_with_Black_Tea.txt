@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 憂鬱は紅茶に溶かして
 | Rarity = 3
 | ID = 1500

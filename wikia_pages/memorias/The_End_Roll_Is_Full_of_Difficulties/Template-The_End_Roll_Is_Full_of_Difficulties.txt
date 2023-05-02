@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = エンドロールは前途多難
 | Rarity = 3
 | ID = 1432

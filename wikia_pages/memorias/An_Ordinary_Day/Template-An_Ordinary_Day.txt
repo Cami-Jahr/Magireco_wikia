@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = なんでもない日
 | Rarity = 2
 | ID = 1136

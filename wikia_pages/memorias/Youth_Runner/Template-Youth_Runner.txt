@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = アオハルランナー
 | Rarity = 3
 | ID = 1454

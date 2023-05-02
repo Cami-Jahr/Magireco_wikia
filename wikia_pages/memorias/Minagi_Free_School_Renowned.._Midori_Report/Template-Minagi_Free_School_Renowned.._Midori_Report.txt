@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 南凪自由学園名物・観鳥報
 | Rarity = 3
 | ID = 1276

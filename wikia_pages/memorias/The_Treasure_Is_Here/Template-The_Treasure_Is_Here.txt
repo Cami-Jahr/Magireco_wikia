@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 宝物がここに
 | Rarity = 3
 | ID = 1241

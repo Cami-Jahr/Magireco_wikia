@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 丑年は美味しいオレの年
 | Rarity = 4
 | ID = 1580

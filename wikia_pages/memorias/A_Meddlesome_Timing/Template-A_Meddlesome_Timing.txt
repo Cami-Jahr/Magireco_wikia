@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = お節介なタイミング
 | Rarity = 4
 | ID = 1330

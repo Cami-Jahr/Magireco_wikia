@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 蒼い夜空と架空の夜会
 | Rarity = 4
 | ID = 1431

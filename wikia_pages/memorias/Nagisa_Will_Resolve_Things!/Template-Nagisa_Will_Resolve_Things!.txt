@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = なぎさが解決するのです！
 | Rarity = 4
 | ID = 1270

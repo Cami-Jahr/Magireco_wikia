@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 火竜吼える
 | Rarity = 4
 | ID = 1374

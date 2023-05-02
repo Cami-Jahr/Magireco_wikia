@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 渚のフレンドシップ
 | Rarity = 4
 | ID = 1521

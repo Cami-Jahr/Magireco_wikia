@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = はじめての、噂に聞く日常
 | Rarity = 3
 | ID = 1809

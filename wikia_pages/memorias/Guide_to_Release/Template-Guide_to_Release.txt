@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 解放の導き手
 | Rarity = 4
 | ID = 1226

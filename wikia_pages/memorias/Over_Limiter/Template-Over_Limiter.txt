@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = オーバーリミッター
 | Rarity = 3
 | ID = 1297

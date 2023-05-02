@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 手を振れる幸せ
 | Rarity = 4
 | ID = 1616

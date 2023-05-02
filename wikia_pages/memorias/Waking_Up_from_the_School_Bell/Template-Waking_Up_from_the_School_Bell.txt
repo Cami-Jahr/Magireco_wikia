@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 予鈴で目を覚ます
 | Rarity = 3
 | ID = 1430

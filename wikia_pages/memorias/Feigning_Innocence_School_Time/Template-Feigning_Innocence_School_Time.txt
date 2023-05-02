@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 猫かぶりスクールタイム
 | Rarity = 4
 | ID = 1587

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 花、落ちて返らず
 | Rarity = 4
 | ID = 1620

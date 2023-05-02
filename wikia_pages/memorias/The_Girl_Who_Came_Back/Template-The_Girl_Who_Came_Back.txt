@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 舞い戻った少女
 | Rarity = 3
 | ID = 1271

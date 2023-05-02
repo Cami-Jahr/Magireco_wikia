@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = Begin a Hunt
 | Rarity = 3
 | ID = 1061

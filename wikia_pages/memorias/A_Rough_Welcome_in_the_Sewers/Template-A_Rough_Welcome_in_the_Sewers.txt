@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 地下水路の手荒い歓迎
 | Rarity = 3
 | ID = 1127

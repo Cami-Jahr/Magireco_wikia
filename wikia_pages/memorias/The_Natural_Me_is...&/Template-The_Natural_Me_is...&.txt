@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 生まれながらのわたしは…
 | Rarity = 4
 | ID = 1200

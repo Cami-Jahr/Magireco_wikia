@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = メモと心はくっついて
 | Rarity = 3
 | ID = 1485

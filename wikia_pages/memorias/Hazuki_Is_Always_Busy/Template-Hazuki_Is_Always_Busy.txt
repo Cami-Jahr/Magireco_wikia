@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 葉月はいつでも忙しい
 | Rarity = 3
 | ID = 1116

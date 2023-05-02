@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 契りを信ずる義賊
 | Rarity = 4
 | ID = 1876

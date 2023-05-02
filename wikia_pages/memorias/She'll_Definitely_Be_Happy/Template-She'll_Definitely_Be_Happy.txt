@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = きっと喜んでくれるよね
 | Rarity = 3
 | ID = 1049

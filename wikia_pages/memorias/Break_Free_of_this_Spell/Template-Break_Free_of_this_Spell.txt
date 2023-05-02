@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = この呪縛を抜け出して
 | Rarity = 3
 | ID = 1703

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = スーパー使用人にお任せ
 | Rarity = 4
 | ID = 1782

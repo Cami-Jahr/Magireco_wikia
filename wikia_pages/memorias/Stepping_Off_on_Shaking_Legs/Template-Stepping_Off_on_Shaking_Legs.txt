@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 震える足を踏み出して
 | Rarity = 3
 | ID = 1788

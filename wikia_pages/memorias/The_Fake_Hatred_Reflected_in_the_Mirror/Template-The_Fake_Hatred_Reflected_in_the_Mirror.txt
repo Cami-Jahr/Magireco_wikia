@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 鏡に映るまやかしの憎悪
 | Rarity = 4
 | ID = 1704

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 原点は怪獣映画
 | Rarity = 4
 | ID = 1429

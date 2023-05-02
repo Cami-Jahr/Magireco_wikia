@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = すぎさりし夢
 | Rarity = 3
 | ID = 1676

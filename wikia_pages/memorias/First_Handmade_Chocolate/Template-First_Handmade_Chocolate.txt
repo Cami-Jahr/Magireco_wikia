@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 初めての手作りチョコレート
 | Rarity = 3
 | ID = 1169

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = おひとりさま300円まで
 | Rarity = 4
 | ID = 1694

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = いつでも想っているから
 | Rarity = 4
 | ID = 1595

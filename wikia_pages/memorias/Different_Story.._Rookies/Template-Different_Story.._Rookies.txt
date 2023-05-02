@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = Different Story: Rookies
 | Rarity = 2
 | ID = 1025

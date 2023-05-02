@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 覚悟の先に風は立つ
 | Rarity = 4
 | ID = 1582

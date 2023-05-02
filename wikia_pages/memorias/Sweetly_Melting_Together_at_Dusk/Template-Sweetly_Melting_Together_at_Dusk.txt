@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 夕暮れに甘く溶け合って
 | Rarity = 4
 | ID = 1458

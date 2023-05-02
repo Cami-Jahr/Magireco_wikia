@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 泰党の得意技
 | Rarity = 3
 | ID = 1857

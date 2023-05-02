@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ブロンド美少女の霊
 | Rarity = 3
 | ID = 1334

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 愛のかたまり
 | Rarity = 3
 | ID = 1101

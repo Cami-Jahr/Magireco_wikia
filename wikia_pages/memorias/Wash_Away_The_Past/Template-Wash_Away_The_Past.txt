@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 過去を洗い流して
 | Rarity = 3
 | ID = 1820

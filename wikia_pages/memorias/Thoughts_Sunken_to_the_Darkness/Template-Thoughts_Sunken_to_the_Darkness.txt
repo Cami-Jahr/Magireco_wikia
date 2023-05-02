@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 闇に沈む思考
 | Rarity = 3
 | ID = 1890

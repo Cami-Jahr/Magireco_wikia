@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = キモチは旋律に溶けて
 | Rarity = 4
 | ID = 1666

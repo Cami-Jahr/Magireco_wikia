@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 光と闇の狭間で振るう剣
 | Rarity = 4
 | ID = 1209

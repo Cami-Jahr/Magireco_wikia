@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 黒山羊の外套
 | Rarity = 3
 | ID = 1488

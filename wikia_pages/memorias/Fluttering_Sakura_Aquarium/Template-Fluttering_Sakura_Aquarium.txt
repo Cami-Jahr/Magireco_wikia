@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 桜舞うアクアリウム
 | Rarity = 4
 | ID = 1531

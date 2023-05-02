@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ほんの少しの本当の希望
 | Rarity = 3
 | ID = 1245

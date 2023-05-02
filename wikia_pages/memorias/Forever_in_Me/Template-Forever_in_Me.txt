@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = フォーエバー・イン・ミー
 | Rarity = 3
 | ID = 1767

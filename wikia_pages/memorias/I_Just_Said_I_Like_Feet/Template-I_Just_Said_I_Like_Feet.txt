@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 足が好きだと言ったばかりに
 | Rarity = 4
 | ID = 1698

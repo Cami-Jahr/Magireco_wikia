@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 日曜朝の習慣
 | Rarity = 3
 | ID = 1502

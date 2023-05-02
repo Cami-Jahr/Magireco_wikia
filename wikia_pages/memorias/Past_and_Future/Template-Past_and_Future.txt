@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 過去と未来
 | Rarity = 4
 | ID = 1068

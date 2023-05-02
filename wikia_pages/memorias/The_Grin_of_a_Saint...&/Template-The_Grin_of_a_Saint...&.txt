@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 聖女の微笑みは…
 | Rarity = 4
 | ID = 1702

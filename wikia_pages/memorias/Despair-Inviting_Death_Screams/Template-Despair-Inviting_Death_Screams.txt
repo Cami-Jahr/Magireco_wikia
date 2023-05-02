@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 諦念に誘う断末魔
 | Rarity = 4
 | ID = 1725

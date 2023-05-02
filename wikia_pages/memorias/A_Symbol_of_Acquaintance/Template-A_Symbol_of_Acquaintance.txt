@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = お近づきのしるし
 | Rarity = 3
 | ID = 1546

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = クローゼットのカジノセット
 | Rarity = 3
 | ID = 1402

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 錬金術士コンビ参上！
 | Rarity = 4
 | ID = 1736

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ほんとうの私を隠して
 | Rarity = 4
 | ID = 1629

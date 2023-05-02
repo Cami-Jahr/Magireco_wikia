@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ここで一息＜いろは・やちよ＞
 | Rarity = 4
 | ID = 1244

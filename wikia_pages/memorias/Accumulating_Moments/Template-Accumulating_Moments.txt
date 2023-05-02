@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 瞬間を積み重ねて
 | Rarity = 4
 | ID = 1824

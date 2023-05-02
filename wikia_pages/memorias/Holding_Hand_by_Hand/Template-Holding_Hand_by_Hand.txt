@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 手に手を添えて
 | Rarity = 3
 | ID = 1512

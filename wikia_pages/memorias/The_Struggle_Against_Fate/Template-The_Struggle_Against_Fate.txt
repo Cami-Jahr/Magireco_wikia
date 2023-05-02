@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 運命への抗戦
 | Rarity = 3
 | ID = 1302

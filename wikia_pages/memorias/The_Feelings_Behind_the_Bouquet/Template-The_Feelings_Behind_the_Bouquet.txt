@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ブーケに込められた想い
 | Rarity = 2
 | ID = 1042

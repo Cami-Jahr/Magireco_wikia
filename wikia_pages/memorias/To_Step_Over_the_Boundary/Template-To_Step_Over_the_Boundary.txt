@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 線を踏み越える
 | Rarity = 3
 | ID = 1273

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 月夜の宝物
 | Rarity = 3
 | ID = 1149

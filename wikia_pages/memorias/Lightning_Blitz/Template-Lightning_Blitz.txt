@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 雷光迅る
 | Rarity = 4
 | ID = 1364

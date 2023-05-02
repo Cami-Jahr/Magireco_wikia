@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = コピーのふたり
 | Rarity = 3
 | ID = 1253

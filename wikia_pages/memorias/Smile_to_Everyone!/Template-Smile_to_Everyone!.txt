@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = みんなに笑顔を！
 | Rarity = 4
 | ID = 1181

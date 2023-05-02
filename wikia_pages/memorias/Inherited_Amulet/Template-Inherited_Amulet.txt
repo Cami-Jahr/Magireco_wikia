@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 受け継がれたお守り
 | Rarity = 4
 | ID = 1417

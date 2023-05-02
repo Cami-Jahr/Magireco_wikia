@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = そこに目を移して
 | Rarity = 3
 | ID = 1329

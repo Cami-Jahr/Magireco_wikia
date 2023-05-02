@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = As a fashion model 
 | Rarity = 3
 | ID = 1050

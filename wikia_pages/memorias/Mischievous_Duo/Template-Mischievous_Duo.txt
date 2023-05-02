@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 悪戯なふたり
 | Rarity = 4
 | ID = 1559

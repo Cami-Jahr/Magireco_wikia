@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 無敵の駄菓子大将
 | Rarity = 4
 | ID = 1545

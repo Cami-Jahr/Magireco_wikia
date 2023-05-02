@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 冷やせば落ちつくかな？
 | Rarity = 3
 | ID = 1389

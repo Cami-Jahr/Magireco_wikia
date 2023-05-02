@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = にぎやかな潮騒
 | Rarity = 4
 | ID = 1789

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 悪魔でクールにレスキュー待ち
 | Rarity = 4
 | ID = 1747

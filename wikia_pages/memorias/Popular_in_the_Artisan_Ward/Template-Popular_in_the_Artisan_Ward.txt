@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 工匠区の人気者
 | Rarity = 3
 | ID = 1265

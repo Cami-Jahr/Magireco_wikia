@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 夜天の書の主
 | Rarity = 3
 | ID = 1363

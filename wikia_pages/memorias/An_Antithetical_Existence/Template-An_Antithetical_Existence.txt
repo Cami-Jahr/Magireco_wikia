@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 対極的な存在
 | Rarity = 3
 | ID = 1076

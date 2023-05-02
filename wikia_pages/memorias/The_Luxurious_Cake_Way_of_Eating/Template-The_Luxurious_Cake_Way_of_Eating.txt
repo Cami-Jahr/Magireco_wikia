@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ケーキの贅沢な食べ方
 | Rarity = 3
 | ID = 1764

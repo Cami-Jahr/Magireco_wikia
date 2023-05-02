@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 少女の境界
 | Rarity = 2
 | ID = 1016

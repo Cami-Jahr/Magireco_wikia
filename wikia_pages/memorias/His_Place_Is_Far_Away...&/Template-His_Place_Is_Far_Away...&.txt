@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 彼の地は遙か遠く…
 | Rarity = 2
 | ID = 1033

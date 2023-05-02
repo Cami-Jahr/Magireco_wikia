@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = いつものきまぐれ
 | Rarity = 3
 | ID = 1427

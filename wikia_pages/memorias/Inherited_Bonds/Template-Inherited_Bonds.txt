@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 継承される絆
 | Rarity = 2
 | ID = 1266

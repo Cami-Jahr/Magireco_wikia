@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 都会の水が合わなくて
 | Rarity = 3
 | ID = 1424

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 魔法少女狩りは正義のために
 | Rarity = 4
 | ID = 1683

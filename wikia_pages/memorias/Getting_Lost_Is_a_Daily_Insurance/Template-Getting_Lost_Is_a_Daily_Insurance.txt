@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 迷子は日常自販機
 | Rarity = 4
 | ID = 1285

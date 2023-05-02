@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 瞬間を待ちわびて
 | Rarity = 4
 | ID = 1437

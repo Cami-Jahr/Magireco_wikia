@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 公民館でお手伝い
 | Rarity = 3
 | ID = 1422

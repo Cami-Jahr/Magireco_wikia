@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ウワサの時間
 | Rarity = 3
 | ID = 1479

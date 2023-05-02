@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 登場からの人気者
 | Rarity = 4
 | ID = 1564

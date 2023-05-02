@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 最初で最後の１ページ
 | Rarity = 3
 | ID = 1109

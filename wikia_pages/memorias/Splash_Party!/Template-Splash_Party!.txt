@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = Splash party!
 | Rarity = 3
 | ID = 1065

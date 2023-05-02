@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 決意の仮面
 | Rarity = 4
 | ID = 1626

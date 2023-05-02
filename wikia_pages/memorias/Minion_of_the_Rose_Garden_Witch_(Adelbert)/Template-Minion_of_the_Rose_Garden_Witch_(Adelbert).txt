@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 薔薇園の魔女の手下
 | Rarity = 1
 | ID = 1002

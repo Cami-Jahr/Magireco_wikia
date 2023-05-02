@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 女神様は静観している
 | Rarity = 4
 | ID = 1250

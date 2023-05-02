@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 戦う少女に御利益を
 | Rarity = 4
 | ID = 1536

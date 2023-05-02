@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 路地裏の友だち
 | Rarity = 3
 | ID = 1125

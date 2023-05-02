@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 彼女たちの日常風景
 | Rarity = 4
 | ID = 1418

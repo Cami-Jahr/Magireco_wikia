@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 夕日のように輝いて
 | Rarity = 3
 | ID = 1811

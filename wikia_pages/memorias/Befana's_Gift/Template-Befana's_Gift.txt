@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ベファーナの贈り物
 | Rarity = 3
 | ID = 1705

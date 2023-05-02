@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 魔法使いの交通安全
 | Rarity = 3
 | ID = 1708

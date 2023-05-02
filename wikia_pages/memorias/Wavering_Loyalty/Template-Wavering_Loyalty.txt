@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 揺れる忠義
 | Rarity = 4
 | ID = 1871

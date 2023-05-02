@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 見えていなかった愛情
 | Rarity = 3
 | ID = 1816

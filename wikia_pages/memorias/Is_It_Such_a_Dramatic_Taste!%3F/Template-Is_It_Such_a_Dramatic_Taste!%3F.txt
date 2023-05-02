@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = その味はドラマティック!?
 | Rarity = 3
 | ID = 1145

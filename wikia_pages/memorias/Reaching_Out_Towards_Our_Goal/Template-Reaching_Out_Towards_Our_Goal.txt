@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 憧れに背伸びして
 | Rarity = 4
 | ID = 1756

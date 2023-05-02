@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = なんでもない運命の悪戯
 | Rarity = 3
 | ID = 1798

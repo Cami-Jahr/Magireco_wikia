@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 疑似家族は平和から
 | Rarity = 3
 | ID = 1684

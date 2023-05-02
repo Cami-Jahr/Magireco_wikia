@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = こっちは任せて！
 | Rarity = 3
 | ID = 1351

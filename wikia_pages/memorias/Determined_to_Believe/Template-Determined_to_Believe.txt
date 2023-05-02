@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 信じる故の決意
 | Rarity = 4
 | ID = 1594

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 波乱のダブルス部門
 | Rarity = 4
 | ID = 1707

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ひとくちにのせて
 | Rarity = 3
 | ID = 1646

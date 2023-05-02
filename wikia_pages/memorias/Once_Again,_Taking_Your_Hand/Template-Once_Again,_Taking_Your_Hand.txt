@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = もう一度、手を取って
 | Rarity = 4
 | ID = 1420

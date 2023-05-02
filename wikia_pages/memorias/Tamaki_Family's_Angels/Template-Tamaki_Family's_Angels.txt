@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 環家の天使たち
 | Rarity = 3
 | ID = 1581

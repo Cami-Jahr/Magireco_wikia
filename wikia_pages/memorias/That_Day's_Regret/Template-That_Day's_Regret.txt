@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = あの日の悔い
 | Rarity = 3
 | ID = 1314

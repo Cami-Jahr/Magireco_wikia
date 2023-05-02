@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 開けたら許さないから
 | Rarity = 4
 | ID = 1260

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 鏡に映る諦念の時計
 | Rarity = 4
 | ID = 1878

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 記録の先へ導いて
 | Rarity = 4
 | ID = 1579

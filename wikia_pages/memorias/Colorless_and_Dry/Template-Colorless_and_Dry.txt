@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 無味乾燥
 | Rarity = 3
 | ID = 1097

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 歓喜は刹那か永遠か…？
 | Rarity = 4
 | ID = 1392

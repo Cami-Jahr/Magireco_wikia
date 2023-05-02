@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 時女一族よりご挨拶！
 | Rarity = 4
 | ID = 1713

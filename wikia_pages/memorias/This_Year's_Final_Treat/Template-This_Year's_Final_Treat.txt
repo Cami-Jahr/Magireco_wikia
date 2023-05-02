@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 今年最後の御馳走
 | Rarity = 4
 | ID = 1849

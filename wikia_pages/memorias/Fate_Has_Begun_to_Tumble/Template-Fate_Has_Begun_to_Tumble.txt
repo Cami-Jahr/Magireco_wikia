@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 転がり始めていた運命
 | Rarity = 3
 | ID = 1415

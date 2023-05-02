@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 夢追いの航路
 | Rarity = 4
 | ID = 1886

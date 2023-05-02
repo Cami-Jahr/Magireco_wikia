@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = もう戻れないから
 | Rarity = 3
 | ID = 1591

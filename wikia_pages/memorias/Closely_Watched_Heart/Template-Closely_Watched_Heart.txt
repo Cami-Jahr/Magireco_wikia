@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 寄り添い見守る心
 | Rarity = 2
 | ID = 1018

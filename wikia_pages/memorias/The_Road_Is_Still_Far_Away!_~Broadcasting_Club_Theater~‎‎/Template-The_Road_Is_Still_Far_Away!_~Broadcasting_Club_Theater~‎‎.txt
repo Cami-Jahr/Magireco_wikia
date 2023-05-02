@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 道はまだ遠く！～放送部劇場～
 | Rarity = 3
 | ID = 1471

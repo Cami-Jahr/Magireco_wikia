@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 最後の作品：アリナの九相図
 | Rarity = 3
 | ID = 1178

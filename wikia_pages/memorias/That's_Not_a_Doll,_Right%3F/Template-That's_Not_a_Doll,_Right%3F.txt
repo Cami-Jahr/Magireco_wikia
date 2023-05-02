@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ぬいぐるみじゃないよね
 | Rarity = 2
 | ID = 1020

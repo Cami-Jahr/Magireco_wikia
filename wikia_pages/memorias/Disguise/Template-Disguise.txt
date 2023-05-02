@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ディスガイズ
 | Rarity = 3
 | ID = 1608

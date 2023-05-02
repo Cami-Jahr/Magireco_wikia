@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 受け継ぐ意志
 | Rarity = 3
 | ID = 1079

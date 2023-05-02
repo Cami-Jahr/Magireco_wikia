@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 至福の世界
 | Rarity = 2
 | ID = 1037

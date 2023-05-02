@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 誰も知らない、私たちの記録
 | Rarity = 4
 | ID = 1779

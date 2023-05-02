@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 聖女降臨
 | Rarity = 3
 | ID = 1155

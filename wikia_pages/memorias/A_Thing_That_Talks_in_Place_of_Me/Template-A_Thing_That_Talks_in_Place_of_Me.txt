@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 代わりに話してくれるもの
 | Rarity = 3
 | ID = 1213

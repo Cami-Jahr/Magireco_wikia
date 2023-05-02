@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 焼きあがるまであと少し
 | Rarity = 3
 | ID = 1644

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = いつもの朝の光景
 | Rarity = 3
 | ID = 1592

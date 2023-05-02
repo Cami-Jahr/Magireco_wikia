@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 神浜に広がる【うわさ】
 | Rarity = 3
 | ID = 1074

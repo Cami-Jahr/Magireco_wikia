@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 無心になりたくて
 | Rarity = 4
 | ID = 1869

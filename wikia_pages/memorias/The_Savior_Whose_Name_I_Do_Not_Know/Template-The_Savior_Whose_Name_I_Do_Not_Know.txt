@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 名前も知らない救世主
 | Rarity = 3
 | ID = 1865

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 真夏の夜の魔法
 | Rarity = 4
 | ID = 1526

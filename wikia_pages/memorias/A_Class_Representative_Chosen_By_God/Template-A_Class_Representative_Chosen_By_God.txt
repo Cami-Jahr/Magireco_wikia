@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 神に選ばれた委員長
 | Rarity = 3
 | ID = 1282

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 夏の少女は決められない
 | Rarity = 3
 | ID = 1651

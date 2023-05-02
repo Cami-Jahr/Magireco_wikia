@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ふたりでふたつの夢を
 | Rarity = 3
 | ID = 1275

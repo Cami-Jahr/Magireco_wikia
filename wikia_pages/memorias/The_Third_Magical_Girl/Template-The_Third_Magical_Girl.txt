@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 第3の魔法少女
 | Rarity = 4
 | ID = 1176

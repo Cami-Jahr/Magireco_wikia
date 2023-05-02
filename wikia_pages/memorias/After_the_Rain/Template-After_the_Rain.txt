@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 雨後
 | Rarity = 3
 | ID = 1233

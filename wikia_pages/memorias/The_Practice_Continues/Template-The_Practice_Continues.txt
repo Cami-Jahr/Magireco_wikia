@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 稽古は続く
 | Rarity = 3
 | ID = 1133

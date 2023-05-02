@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = がんばれ小さな救世主
 | Rarity = 4
 | ID = 1537

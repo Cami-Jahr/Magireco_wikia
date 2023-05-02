@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 君と、ここで
 | Rarity = 4
 | ID = 1107

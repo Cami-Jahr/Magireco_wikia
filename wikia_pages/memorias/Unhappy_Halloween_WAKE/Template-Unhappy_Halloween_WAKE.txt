@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = アンハッピーハロウィンなワケ
 | Rarity = 3
 | ID = 1689

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 私じゃダメだったみたい
 | Rarity = 3
 | ID = 1419

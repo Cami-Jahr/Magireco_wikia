@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 愛しの悪友たち
 | Rarity = 4
 | ID = 1656

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = これからも、みんなと
 | Rarity = 4
 | ID = 1879

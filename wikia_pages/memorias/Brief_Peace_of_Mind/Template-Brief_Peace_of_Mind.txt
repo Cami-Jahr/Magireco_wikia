@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 束の間の安らぎ
 | Rarity = 4
 | ID = 1856

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ウサギさん当番の日
 | Rarity = 3
 | ID = 1775

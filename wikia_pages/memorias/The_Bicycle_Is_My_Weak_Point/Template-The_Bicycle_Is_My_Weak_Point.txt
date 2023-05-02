@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 弱点は自転車
 | Rarity = 4
 | ID = 1309

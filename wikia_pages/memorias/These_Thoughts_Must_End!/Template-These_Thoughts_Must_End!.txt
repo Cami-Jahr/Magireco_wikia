@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 想いよ止まれ！
 | Rarity = 3
 | ID = 1444

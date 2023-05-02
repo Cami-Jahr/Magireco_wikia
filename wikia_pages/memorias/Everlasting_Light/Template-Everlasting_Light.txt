@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 灯し続ける明かり
 | Rarity = 4
 | ID = 1070

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 初めてのお化粧
 | Rarity = 3
 | ID = 1565

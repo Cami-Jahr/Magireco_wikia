@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ふたりだけの海と空
 | Rarity = 3
 | ID = 1236

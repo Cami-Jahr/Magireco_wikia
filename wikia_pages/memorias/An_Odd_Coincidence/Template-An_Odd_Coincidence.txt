@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 数奇な巡り合わせ
 | Rarity = 4
 | ID = 1873

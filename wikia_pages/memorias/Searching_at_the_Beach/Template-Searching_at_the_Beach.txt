@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 浜辺で探し物
 | Rarity = 4
 | ID = 1797

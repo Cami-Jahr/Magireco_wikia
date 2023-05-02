@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = どんな夢も、希望も
 | Rarity = 4
 | ID = 1663

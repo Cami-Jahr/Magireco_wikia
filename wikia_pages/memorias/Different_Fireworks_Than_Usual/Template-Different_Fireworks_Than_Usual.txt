@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = いつもと違う花火
 | Rarity = 3
 | ID = 1523

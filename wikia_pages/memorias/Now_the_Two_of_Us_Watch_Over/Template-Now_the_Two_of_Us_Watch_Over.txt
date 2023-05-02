@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 今は二人で見守って
 | Rarity = 3
 | ID = 1216

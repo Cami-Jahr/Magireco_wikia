@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 勇往邁進
 | Rarity = 3
 | ID = 1083

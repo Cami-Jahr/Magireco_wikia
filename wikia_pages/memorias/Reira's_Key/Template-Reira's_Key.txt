@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = れいらのカギ
 | Rarity = 3
 | ID = 1183

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 東西の講和
 | Rarity = 4
 | ID = 1224

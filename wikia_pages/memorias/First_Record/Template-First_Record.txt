@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ファースト・レコード
 | Rarity = 4
 | ID = 1745

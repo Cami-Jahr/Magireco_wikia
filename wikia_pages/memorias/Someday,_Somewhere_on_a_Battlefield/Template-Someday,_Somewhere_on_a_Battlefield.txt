@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = いつか、どこかの戦場で
 | Rarity = 4
 | ID = 1851

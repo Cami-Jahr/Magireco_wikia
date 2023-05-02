@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 物語が始まる一歩
 | Rarity = 4
 | ID = 1323

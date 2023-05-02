@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 白い翼に囲まれて
 | Rarity = 3
 | ID = 1054

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 新たな年にときめいて
 | Rarity = 4
 | ID = 1716

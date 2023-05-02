@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = かけがえのないお年玉
 | Rarity = 4
 | ID = 1848

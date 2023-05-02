@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = マギレコエムアイカードで！
 | Rarity = 4
 | ID = 1664

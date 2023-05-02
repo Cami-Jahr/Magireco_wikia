@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ゆっくりと、でも着実に
 | Rarity = 4
 | ID = 1774

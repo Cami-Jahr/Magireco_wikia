@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 取り込まれた陽の鳥
 | Rarity = 4
 | ID = 1786

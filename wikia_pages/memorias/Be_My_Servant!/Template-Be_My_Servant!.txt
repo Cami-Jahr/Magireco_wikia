@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 下僕でいなさいっ！
 | Rarity = 3
 | ID = 1771

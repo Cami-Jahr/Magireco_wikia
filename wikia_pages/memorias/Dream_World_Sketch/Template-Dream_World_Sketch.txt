@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 空想世界のスケッチ
 | Rarity = 3
 | ID = 1185

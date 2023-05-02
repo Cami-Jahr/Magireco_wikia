@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 花咲く家で育って
 | Rarity = 3
 | ID = 1114

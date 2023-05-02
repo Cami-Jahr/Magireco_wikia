@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 進路希望調査表
 | Rarity = 3
 | ID = 1338

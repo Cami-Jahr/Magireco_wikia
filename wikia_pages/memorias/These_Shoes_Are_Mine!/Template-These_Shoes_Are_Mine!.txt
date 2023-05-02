@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = あーしの靴でしょ！
 | Rarity = 2
 | ID = 1032

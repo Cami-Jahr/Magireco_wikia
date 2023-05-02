@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 泡の行方
 | Rarity = 4
 | ID = 1645

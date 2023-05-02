@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 守るべき未来のために
 | Rarity = 3
 | ID = 1830

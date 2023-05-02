@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 瞼の裏に浮かぶ景色
 | Rarity = 3
 | ID = 1135

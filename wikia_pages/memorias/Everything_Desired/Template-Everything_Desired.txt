@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 全ては思いのままに
 | Rarity = 3
 | ID = 1499

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 休憩はおいしく
 | Rarity = 4
 | ID = 1515

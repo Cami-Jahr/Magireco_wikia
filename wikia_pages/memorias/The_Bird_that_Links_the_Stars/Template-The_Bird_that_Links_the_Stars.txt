@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 星を結ぶ鳥
 | Rarity = 3
 | ID = 1852

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 悩みなんて即解決！
 | Rarity = 3
 | ID = 1088

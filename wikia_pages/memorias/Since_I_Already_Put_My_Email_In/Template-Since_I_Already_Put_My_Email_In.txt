@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = メルアド、登録しといたから
 | Rarity = 4
 | ID = 1284

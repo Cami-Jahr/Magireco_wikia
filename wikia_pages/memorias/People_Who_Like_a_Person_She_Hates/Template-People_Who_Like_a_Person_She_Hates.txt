@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 大嫌いな人が好きな人
 | Rarity = 4
 | ID = 1331

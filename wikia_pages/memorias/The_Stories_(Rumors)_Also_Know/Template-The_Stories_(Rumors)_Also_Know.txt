@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 物語（ウワサ）も知っている
 | Rarity = 4
 | ID = 1328

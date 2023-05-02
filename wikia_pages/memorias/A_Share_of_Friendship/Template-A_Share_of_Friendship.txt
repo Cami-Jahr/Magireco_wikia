@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 友情のおすそ分け
 | Rarity = 3
 | ID = 1862

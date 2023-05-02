@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 星合に浮かぶ
 | Rarity = 3
 | ID = 1640

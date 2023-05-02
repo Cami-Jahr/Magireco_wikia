@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 空腹センサーON
 | Rarity = 4
 | ID = 1456

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 絶望を希望に
 | Rarity = 2
 | ID = 1047

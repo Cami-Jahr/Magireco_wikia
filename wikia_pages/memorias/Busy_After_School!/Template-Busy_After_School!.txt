@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 放課後は大忙し！
 | Rarity = 2
 | ID = 1030

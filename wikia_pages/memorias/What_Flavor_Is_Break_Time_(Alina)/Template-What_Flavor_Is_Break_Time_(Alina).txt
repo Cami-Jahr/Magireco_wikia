@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 休憩時間は何味？＜アリナ＞
 | Rarity = 3
 | ID = 1316

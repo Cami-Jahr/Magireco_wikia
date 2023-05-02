@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 放課後の待ち合わせ
 | Rarity = 3
 | ID = 1549

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 陽光に誓う
 | Rarity = 3
 | ID = 1887

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 寒くとも心の内は
 | Rarity = 4
 | ID = 1823

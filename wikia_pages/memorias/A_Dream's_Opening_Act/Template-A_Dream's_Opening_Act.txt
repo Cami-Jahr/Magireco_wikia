@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 夢への第１幕
 | Rarity = 3
 | ID = 1426

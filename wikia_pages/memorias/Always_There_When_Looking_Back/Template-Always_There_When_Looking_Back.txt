@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 振り返ればいつもそこに
 | Rarity = 3
 | ID = 1793

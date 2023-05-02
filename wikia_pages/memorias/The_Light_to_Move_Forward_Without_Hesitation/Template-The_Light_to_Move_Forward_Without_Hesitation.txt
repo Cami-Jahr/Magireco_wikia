@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 迷わず進むための光
 | Rarity = 4
 | ID = 1566

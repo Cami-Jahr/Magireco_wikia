@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 災厄を招く馬鹿騒ぎ
 | Rarity = 3
 | ID = 1718

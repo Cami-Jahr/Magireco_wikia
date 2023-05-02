@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ふたりで立つ年始め
 | Rarity = 4
 | ID = 1717

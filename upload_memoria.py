@@ -39,7 +39,6 @@ template_body = """
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = {2}
 | Rarity = {1}
 | ID = {18}

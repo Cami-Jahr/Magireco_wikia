@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 約束したじゃないですか
 | Rarity = 4
 | ID = 1752

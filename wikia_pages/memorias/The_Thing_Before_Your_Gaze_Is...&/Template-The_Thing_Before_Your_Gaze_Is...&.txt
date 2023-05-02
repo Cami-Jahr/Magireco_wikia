@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 視線の先にあるものは…
 | Rarity = 2
 | ID = 1117

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = お外でばったりこんにちは
 | Rarity = 4
 | ID = 1659

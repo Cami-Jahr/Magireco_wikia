@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 特別な安眠をくれるもの
 | Rarity = 3
 | ID = 1667

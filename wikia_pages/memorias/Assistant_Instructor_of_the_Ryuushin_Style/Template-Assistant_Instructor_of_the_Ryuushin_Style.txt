@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 竜真流師範代
 | Rarity = 4
 | ID = 1203

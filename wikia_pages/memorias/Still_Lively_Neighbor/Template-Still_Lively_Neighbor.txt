@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 変わらず賑やかなお隣さん
 | Rarity = 4
 | ID = 1337

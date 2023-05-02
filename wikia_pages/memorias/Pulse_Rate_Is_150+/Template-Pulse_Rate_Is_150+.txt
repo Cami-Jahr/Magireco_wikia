@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 脈拍数は150↑
 | Rarity = 3
 | ID = 1483

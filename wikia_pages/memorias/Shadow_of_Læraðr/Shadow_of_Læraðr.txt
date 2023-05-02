@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = どんな時でも、傍らにはいつもあんたがいた<br />でも今は、触れようとしても遠くて、手が届かない<br />それでも、この胸にこみ上げている想いは届いていると信じたい<br />あたしはもう少し、頑張ってみるよ
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

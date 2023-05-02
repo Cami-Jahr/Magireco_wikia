@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 未来は炎に消えて
 | Rarity = 3
 | ID = 1691

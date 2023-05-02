@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 今日だけ夜更かし
 | Rarity = 3
 | ID = 1670

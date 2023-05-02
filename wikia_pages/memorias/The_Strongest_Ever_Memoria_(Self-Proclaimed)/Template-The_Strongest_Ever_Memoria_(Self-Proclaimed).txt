@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 史上最強のメモリア（自称）
 | Rarity = 3
 | ID = 1750

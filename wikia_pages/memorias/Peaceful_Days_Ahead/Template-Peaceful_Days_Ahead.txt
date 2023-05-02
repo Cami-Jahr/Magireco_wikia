@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 平和な日常をこれからも
 | Rarity = 3
 | ID = 1825

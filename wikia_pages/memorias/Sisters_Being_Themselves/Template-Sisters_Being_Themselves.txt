@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 姉妹水入らず
 | Rarity = 3
 | ID = 1375

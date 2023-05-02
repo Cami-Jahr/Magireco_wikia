@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 乙女の決意
 | Rarity = 2
 | ID = 1171

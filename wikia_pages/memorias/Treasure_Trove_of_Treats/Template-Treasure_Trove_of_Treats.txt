@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = お菓子の宝石箱
 | Rarity = 3
 | ID = 1312

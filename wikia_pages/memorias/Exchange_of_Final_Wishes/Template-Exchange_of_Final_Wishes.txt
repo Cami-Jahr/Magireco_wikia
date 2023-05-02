@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 交される遺志
 | Rarity = 3
 | ID = 1220

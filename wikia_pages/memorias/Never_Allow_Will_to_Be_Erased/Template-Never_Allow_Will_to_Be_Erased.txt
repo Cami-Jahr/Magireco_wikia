@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 意志は決して消させない
 | Rarity = 3
 | ID = 1739

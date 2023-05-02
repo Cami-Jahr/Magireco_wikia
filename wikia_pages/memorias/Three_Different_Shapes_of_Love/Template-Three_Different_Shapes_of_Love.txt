@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 三者三様の愛の形
 | Rarity = 3
 | ID = 1860

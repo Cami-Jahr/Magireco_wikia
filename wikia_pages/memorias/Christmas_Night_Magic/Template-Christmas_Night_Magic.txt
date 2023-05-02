@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = クリスマス・ナイト・マジック
 | Rarity = 4
 | ID = 1288

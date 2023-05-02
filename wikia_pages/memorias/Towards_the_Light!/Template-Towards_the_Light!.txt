@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 光の指す方へ！
 | Rarity = 4
 | ID = 1069

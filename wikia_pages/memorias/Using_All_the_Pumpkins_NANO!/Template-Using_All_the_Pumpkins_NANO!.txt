@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = かぼちゃ尽くしなの！
 | Rarity = 3
 | ID = 1685

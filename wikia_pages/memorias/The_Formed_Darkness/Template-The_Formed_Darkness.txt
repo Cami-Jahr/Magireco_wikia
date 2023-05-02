@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 形ある闇
 | Rarity = 3
 | ID = 1373

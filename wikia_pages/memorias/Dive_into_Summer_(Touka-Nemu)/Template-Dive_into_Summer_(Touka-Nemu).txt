@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 夏へダイブ＜灯花・ねむ＞
 | Rarity = 3
 | ID = 1369

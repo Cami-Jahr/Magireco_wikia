@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 眞尾家は今日もにぎやか
 | Rarity = 3
 | ID = 1195

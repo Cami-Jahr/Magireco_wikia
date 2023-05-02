@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 数量限定！まなか特製弁当
 | Rarity = 3
 | ID = 1091

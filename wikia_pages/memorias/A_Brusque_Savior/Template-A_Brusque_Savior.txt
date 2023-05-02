@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ぶっきらぼうな救世主
 | Rarity = 2
 | ID = 1046

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 水底に沈む涙
 | Rarity = 3
 | ID = 1757

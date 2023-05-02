@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 日の本の為に魂を
 | Rarity = 3
 | ID = 1388

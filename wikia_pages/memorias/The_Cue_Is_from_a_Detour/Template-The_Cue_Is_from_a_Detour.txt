@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = きっかけは寄り道から
 | Rarity = 3
 | ID = 1425

@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 光属性の者です
 | Rarity = 3
 | ID = 1482

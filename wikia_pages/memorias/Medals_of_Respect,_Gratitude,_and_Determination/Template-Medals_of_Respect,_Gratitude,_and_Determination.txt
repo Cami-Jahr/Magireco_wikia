@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 敬意と感謝と不退の勲章
 | Rarity = 3
 | ID = 1586

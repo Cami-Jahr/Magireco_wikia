@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 世界へのランウェイ
 | Rarity = 2
 | ID = 1027

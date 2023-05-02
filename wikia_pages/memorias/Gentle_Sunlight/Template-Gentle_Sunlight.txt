@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 穏やかな日差し
 | Rarity = 2
 | ID = 1017

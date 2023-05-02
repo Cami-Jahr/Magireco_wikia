@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = 光、降り注いで
 | Rarity = 3
 | ID = 1154

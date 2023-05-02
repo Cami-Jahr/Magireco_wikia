@@ -3,7 +3,6 @@
 | ImageSrc = 
 | Event = 
 
-| Naname = 
 | Jname = ミラクルヒロインズ
 | Rarity = 4
 | ID = 1524
