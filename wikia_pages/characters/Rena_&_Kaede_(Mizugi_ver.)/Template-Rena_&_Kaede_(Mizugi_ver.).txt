@@ -8,7 +8,7 @@
 | type = Magia
 | growth_type = ATKHP
 | school_jp = ―
-| voice_actor_jp = 石原夏織,大橋彩香
+| voice_actor_jp = 石原夏織、大橋彩香
 | designer_jp = 蒼樹うめ
 | memoria = 
 | release_date = 2020-07-15

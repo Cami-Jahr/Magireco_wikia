@@ -64,7 +64,7 @@
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 5 icon = Skill Quicken
-| Passive 5 name = Skill Quick [II]
+| Passive 5 name = Skill Quicken [II]
 | Passive 5 name JP = スキルクイック[Ⅱ]
 | Passive 5 effect = Chance to Skill Quicken [II / 10%]
 

@@ -107,7 +107,7 @@
 | Passive 11 effect = Accele MP Gain Up [II / 12.5%]
 
 | Passive 12 icon = Skill Quicken
-| Passive 12 name = Skill Quick [II]
+| Passive 12 name = Skill Quicken [II]
 | Passive 12 name JP = スキルクイック[Ⅱ]
 | Passive 12 effect = Chance to Skill Quicken [II / 10%]
 

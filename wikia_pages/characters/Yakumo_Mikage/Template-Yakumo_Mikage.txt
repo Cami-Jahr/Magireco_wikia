@@ -84,7 +84,7 @@
 | Passive 8 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
 
 | Passive 9 icon = Skill Quicken
-| Passive 9 name = Skill Quick [II]
+| Passive 9 name = Skill Quicken [II]
 | Passive 9 name JP = スキルクイック[Ⅱ]
 | Passive 9 effect = Chance to Skill Quicken [II / 10%]
 

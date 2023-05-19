@@ -17,7 +17,7 @@
 | max_DEF = 1202
 
 | image = Skill Quicken
-| effect_name = Skill Quick
+| effect_name = Skill Quicken
 | effect_name_JP = スキルクイック
 | effect1 = Skill Quicken (Self / 3 Turns)
 | effect2 = Skill Quicken (Self / 3 Turns)

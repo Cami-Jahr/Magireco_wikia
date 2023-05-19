@@ -74,7 +74,7 @@
 | Passive 6 effect = MP Gain Up [II / 7.5%]
 
 | Passive 7 icon = Skill Quicken
-| Passive 7 name = Skill Quick [III]
+| Passive 7 name = Skill Quicken [III]
 | Passive 7 name JP = スキルクイック[Ⅲ]
 | Passive 7 effect = Chance to Skill Quicken [III / 15%]
 

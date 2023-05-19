@@ -100,7 +100,7 @@
 | Passive 8 effect = Damage Cut [II / 10%]
 
 | Passive 9 icon = Skill Quicken
-| Passive 9 name = Skill Quick [II]
+| Passive 9 name = Skill Quicken [II]
 | Passive 9 name JP = スキルクイック[Ⅱ]
 | Passive 9 effect = Chance to Skill Quicken [II / 10%]
 

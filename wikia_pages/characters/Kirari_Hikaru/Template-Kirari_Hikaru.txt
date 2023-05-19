@@ -94,7 +94,7 @@
 | Passive 10 effect = Damage Cut [II / 10%]
 
 | Passive 11 icon = Skill Quicken
-| Passive 11 name = Skill Quick [III]
+| Passive 11 name = Skill Quicken [III]
 | Passive 11 name JP = スキルクイック[Ⅲ]
 | Passive 11 effect = Chance to Skill Quicken [III / 15%]
 

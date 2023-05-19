@@ -1,0 +1,98 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Heruka
+| name_jp = ヘルカ
+| element = Forest
+| base_rarity = 4
+| max_rarity = 5
+| id = 1051
+| type = Support
+| growth_type = DEFHP
+| school_jp = ―
+| voice_actor_jp = 若山詩音
+| designer_jp = 茨乃
+| memoria = 
+| release_date = 2023-05-19
+| event_limit = 
+
+| accele_disks = 3
+| blast_vert_disks = 0
+| blast_hori_disks = 0
+| charge_disks = 2
+
+| 4star_hp_lv1 = 7434
+| 4star_attack_lv1 = 1901
+| 4star_defense_lv1 = 1958
+| 4star_hp_max = 26955
+| 4star_attack_max = 6794
+| 4star_defense_max = 7150
+| 4star_illustrator_jp = 茨乃
+
+| 5star_hp_lv1 = 8257
+| 5star_attack_lv1 = 2113
+| 5star_defense_lv1 = 2174
+| 5star_hp_max = 33275
+| 5star_attack_max = 8388
+| 5star_defense_max = 8826
+| 5star_illustrator_jp = 茨乃
+
+
+
+| Connect name JP = 衆生へ私たちの折伏を
+| Connect name EN = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Up
+| Connect 1 / 1 = VIII / 37.5%
+| Connect 1 / 2 = X / 42.5%
+| Connect effect 2 = Accele MP Gain Up
+| Connect 2 / 1 = VIII / 45%
+| Connect 2 / 2 = X / 55%
+
+| Magia name JP = 転輪羅刹のサーサナ
+| Magia name EN = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 1088%
+| Magia 1 / 2 = VII / 1152%
+| Magia effect 2 = Forest Defense Down
+| Magia scaling 2 = -
+| Magia 2 / 1 = Target / 2 Turns / 5%
+| Magia 2 / 2 = Target / 2 Turns / 5%
+| Magia effect 3 = Defense Down
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Target / 2 Turns / 40%
+| Magia 3 / 2 = Target / 2 Turns / 50%
+| Magia effect 4 = Attack Up
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = Allies / 3 Turns / 15%
+| Magia 4 / 2 = Allies / 3 Turns / 20%
+| Magia effect 5 = Forest Attribute Attack Up
+| Magia scaling 5 = 2.5%
+| Magia 5 / 1 = Allies / 3 Turns / 15%
+| Magia 5 / 2 = Allies / 3 Turns / 20%
+| Magia effect 6 = MP Restore
+| Magia scaling 6 = 1 MP
+| Magia 6 / 1 = Allies / 15 MP
+| Magia 6 / 2 = Allies / 20 MP
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 狂信のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、経典
+| Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
+| Magia2 effect 1 = Attribute Strengthened Damage One Enemy
+| Magia2 1 = IX / 2270.4%
+| Magia2 effect 2 = Forest Defense Down
+| Magia2 2 = Target / 3 Turns / 10%
+| Magia2 effect 3 = Defense Down
+| Magia2 3 = Target / 3 Turns / 70%
+| Magia2 effect 4 = Chance to Burn
+| Magia2 4 = Target / 3 Turns / 100%
+| Magia2 effect 5 = Attack Up
+| Magia2 5 = Allies / 5 Turns / 35%
+| Magia2 effect 6 = Forest Attribute Attack Up
+| Magia2 6 = Allies / 5 Turns / 35%
+| Magia2 effect 7 = MP Restore
+| Magia2 7 = Allies / 34 MP
+}}

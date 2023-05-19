@@ -84,7 +84,7 @@
 | Passive 8 effect = Negate Status Ailments [2 Status Ailments] (Self / 5 Turns on Battle Start)
 
 | Passive 9 icon = Skill Quicken
-| Passive 9 name = Skill Quick [II]
+| Passive 9 name = Skill Quicken [II]
 | Passive 9 name JP = スキルクイック[Ⅱ]
 | Passive 9 effect = Chance to Skill Quicken [II / 10%]
 

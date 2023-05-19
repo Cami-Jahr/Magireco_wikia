@@ -69,7 +69,7 @@
 | Passive 5 effect = Chance to Anti-Magia Seal [VI / 50%]
 
 | Passive 6 icon = Skill Quicken
-| Passive 6 name = Skill Quick [II]
+| Passive 6 name = Skill Quicken [II]
 | Passive 6 name JP = スキルクイック[Ⅱ]
 | Passive 6 effect = Chance to Skill Quicken [II / 10%]
 

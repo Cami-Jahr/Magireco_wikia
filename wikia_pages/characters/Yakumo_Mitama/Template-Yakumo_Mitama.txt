@@ -79,7 +79,7 @@
 | Passive 7 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 8 icon = Skill Quicken
-| Passive 8 name = Skill Quick [III]
+| Passive 8 name = Skill Quicken [III]
 | Passive 8 name JP = スキルクイック[Ⅲ]
 | Passive 8 effect = Chance to Skill Quicken [III / 15%]
 

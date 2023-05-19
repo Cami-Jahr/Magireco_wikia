@@ -99,7 +99,7 @@
 | Passive 11 effect = Chance to Curse on Attack [III / 20%] (1 Turn)
 
 | Passive 12 icon = Skill Quicken
-| Passive 12 name = Skill Quick [II]
+| Passive 12 name = Skill Quicken [II]
 | Passive 12 name JP = スキルクイック[Ⅱ]
 | Passive 12 effect = Chance to Skill Quicken [II / 10%]
 

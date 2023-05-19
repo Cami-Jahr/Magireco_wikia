@@ -97,7 +97,7 @@
 | Passive 9 effect = Chance to Curse on Attack [III / 20%] (1 Turn)
 
 | Passive 10 icon = Skill Quicken
-| Passive 10 name = Skill Quick [II]
+| Passive 10 name = Skill Quicken [II]
 | Passive 10 name JP = スキルクイック[Ⅱ]
 | Passive 10 effect = Chance to Skill Quicken [II / 10%]
 

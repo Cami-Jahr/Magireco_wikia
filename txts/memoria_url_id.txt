@@ -879,5 +879,12 @@
 1892;The Sisters' Night is getting late
 1893;Desert Walker
 1894;The Gallopping Pegasus
+1895;
+1896;A Peaceful Moment when One can be Normal
+1897;Wanted to be Special
+1898;
+1899;
+1900;The Older Sister Who Dreams
+1901;The Younger Sister Who Chases Dreams
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

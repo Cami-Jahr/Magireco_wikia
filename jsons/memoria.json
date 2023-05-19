@@ -68140,7 +68140,7 @@
   "1889": {
     "pieceId": 1889,
     "rank": "RANK_4",
-    "__update__": "2023-04-24T07:12:01.907Z",
+    "__update__": "2023-05-08T07:03:30.870Z",
     "pieceType": "ABILITY",
     "pieceKind": "EVENT",
     "pieceName": "姉には見える世界",
@@ -68244,7 +68244,7 @@
       "eventDescription": "＆「ルーン“太陽”」追加獲得数＋15",
       "skillEffectRange": "ALL"
     },
-    "description": "「あたしとガンヒルトの世界…名前は“オルガンヘイム”！＠そこにある日化け物が攻め込んで来るけど…えっと…＠なんか、強い神が現れて、あっという間にが蹴散らしちゃうの！」＠「…あ…私たちが戦うんじゃないんだ…」",
+    "description": "「あたしとガンヒルトの世界…名前は“オルガンヘイム”！＠そこにある日化け物が攻め込んで来るけど…えっと…＠なんか、強い神が現れて、あっという間に蹴散らしちゃうの！」＠「…あ…私たちが戦うんじゃないんだ…」",
     "illustrator": "枡狐/蛙空",
     "openDate": "2023/04/24 15:10:00"
   },
@@ -68610,5 +68610,461 @@
     "description": "いななきが空より響き渡ると、戦乙女の天馬が姿を現す＠風を力強く踏みしめて疾駆し、たちまち厚い雲を突き抜ける＠その威容を仰ぎ見れば、誰もが畏敬と畏怖を心に抱く＠虹の橋を目指して、いざ行かん、ユグドラシルまで",
     "illustrator": "―",
     "openDate": "2023/04/24 15:10:00"
+  },
+  "1895": {
+    "pieceId": 1895,
+    "rank": "RANK_3",
+    "__update__": "2023-05-19T07:04:07.742Z"
+  },
+  "1896": {
+    "pieceId": 1896,
+    "rank": "RANK_4",
+    "__update__": "2023-05-19T07:05:53.726Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "普通でいられる穏やかな時",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 900,
+    "hp": 900,
+    "skillId": 189600,
+    "pieceSkill": {
+      "id": 189600,
+      "groupId": 1088,
+      "name": "Tドッペル・アップ[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "マギアダメージUP[Ⅵ] & ドッペルダメージUP[Ⅵ] & 木属性攻撃力UP[Ⅹ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201406,
+      "art1": {
+        "artId": 310201406,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310218306,
+      "art2": {
+        "artId": 310218306,
+        "verbCode": "BUFF",
+        "effectCode": "DOPPEL",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 0
+      },
+      "artId3": 310221810,
+      "art3": {
+        "artId": 310221810,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_TIMBER",
+        "targetId": "SELF",
+        "effectValue": 275,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1191,
+      "eventArtId1": 1191003,
+      "eventArt1": {
+        "artId": 1191003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1191_KEY"
+      },
+      "eventDescription": "＆「ラクシャーシー碑文」追加獲得数＋5",
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 189601,
+    "pieceSkill2": {
+      "id": 189601,
+      "groupId": 1088,
+      "name": "Tドッペル・アップ[Ⅶ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "マギアダメージUP[Ⅶ] & ドッペルダメージUP[Ⅶ] & 木属性攻撃力UP[XI](自/1T)",
+      "messageId": 70,
+      "artId1": 310201407,
+      "art1": {
+        "artId": 310201407,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310218307,
+      "art2": {
+        "artId": 310218307,
+        "verbCode": "BUFF",
+        "effectCode": "DOPPEL",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 0
+      },
+      "artId3": 310221811,
+      "art3": {
+        "artId": 310221811,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_TIMBER",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1191,
+      "eventArtId1": 1191004,
+      "eventArt1": {
+        "artId": 1191004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1191_KEY"
+      },
+      "eventDescription": "＆「ラクシャーシー碑文」追加獲得数＋15",
+      "skillEffectRange": "ALL"
+    },
+    "description": "他の人と自分が少し違うのは幼い頃から知っていました＠何かができてしまうと、その度に私から私は奪われました＠期待に応えると私を見てくれなくなるというのなら＠私はできない私でいたい…このまどろみの中で鈍っていきたい",
+    "illustrator": "茨乃",
+    "openDate": "2023/05/19 15:10:00"
+  },
+  "1897": {
+    "pieceId": 1897,
+    "rank": "RANK_3",
+    "__update__": "2023-05-19T07:06:24.864Z",
+    "pieceName": "特別になりたかった",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 680,
+    "defense": 0,
+    "hp": 650,
+    "skillId": 189700,
+    "pieceSkill": {
+      "id": 189700,
+      "groupId": 1088,
+      "name": "アストラル・ブレイク[Ⅲ] ",
+      "type": "ABILITY",
+      "shortDescription": "マギアダメージUP[Ⅲ] & Accele MPUP[Ⅳ] & 状態異常耐性DOWN[Ⅱ]",
+      "artId1": 390201403,
+      "art1": {
+        "artId": 390201403,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201604,
+      "art2": {
+        "artId": 390201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 9904,
+      "art3": {
+        "artId": 9904,
+        "verbCode": "DEBUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 75,
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 189701,
+    "pieceSkill2": {
+      "id": 189701,
+      "groupId": 1088,
+      "name": "アストラル・ブレイク[Ⅳ] ",
+      "type": "ABILITY",
+      "shortDescription": "マギアダメージUP[Ⅳ] & Accele MPUP[Ⅴ] & 状態異常耐性DOWN[Ⅱ]",
+      "artId1": 390201404,
+      "art1": {
+        "artId": 390201404,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201605,
+      "art2": {
+        "artId": 390201605,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 9904,
+      "art3": {
+        "artId": 9904,
+        "verbCode": "DEBUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 75,
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "打ち負かされたとき、いつも彼女が手を差し伸ばしてくれた＠彼女はあたしにとっての特別な存在だった＠だからあたしは、あたしだけは彼女を助けてあげたかった＠それだけなのに…どうしてあたしはあんたの特別になれないの？",
+    "illustrator": "―",
+    "openDate": "2023/05/19 15:10:00"
+  },
+  "1898": {
+    "pieceId": 1898,
+    "rank": "RANK_4",
+    "__update__": "2023-05-19T07:04:07.743Z"
+  },
+  "1899": {
+    "pieceId": 1899,
+    "rank": "RANK_3",
+    "__update__": "2023-05-19T07:05:53.726Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "縋ってしまった光",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 584,
+    "hp": 644,
+    "skillId": 189900,
+    "pieceSkill": {
+      "id": 189900,
+      "groupId": 1129,
+      "name": "ニートネス[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "HP自動回復[Ⅳ] & 状態異常耐性UP[Ⅱ](自/3T)",
+      "messageId": 70,
+      "artId1": 630207704,
+      "art1": {
+        "artId": 630207704,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "enableTurn": 3,
+        "growPoint": 10,
+        "probability": 1000
+      },
+      "artId2": 330201502,
+      "art2": {
+        "artId": 330201502,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "eventId": 1191,
+      "eventArtId1": 1191001,
+      "eventArt1": {
+        "artId": 1191001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1191_KEY"
+      },
+      "eventDescription": "＆「ラクシャーシー碑文」追加獲得数＋1",
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 189901,
+    "pieceSkill2": {
+      "id": 189901,
+      "groupId": 1129,
+      "name": "ニートネス[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "HP自動回復[Ⅳ] & 状態異常耐性UP[Ⅱ](自/3T)",
+      "messageId": 70,
+      "artId1": 630207704,
+      "art1": {
+        "artId": 630207704,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "enableTurn": 3,
+        "growPoint": 10,
+        "probability": 1000
+      },
+      "artId2": 330201502,
+      "art2": {
+        "artId": 330201502,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "eventId": 1191,
+      "eventArtId1": 1191002,
+      "eventArt1": {
+        "artId": 1191002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1191_KEY"
+      },
+      "eventDescription": "＆「ラクシャーシー碑文」追加獲得数＋5",
+      "skillEffectRange": "ALL"
+    },
+    "description": "その姿はあまりにも神々しく、見る者に信仰を芽生えさせる＠もはや何も考えなくていい、ただ後ろについていけばいい＠それだけでシャンバラへたどり着く…＠そうしてすべての重荷を預けて、人々は救われていく",
+    "illustrator": "―",
+    "openDate": "2023/05/19 15:10:00"
+  },
+  "1900": {
+    "pieceId": 1900,
+    "rank": "RANK_4",
+    "__update__": "2023-05-19T07:05:23.724Z",
+    "pieceType": "ABILITY",
+    "pieceName": "夢を見る姉",
+    "attributeId": "ALL",
+    "attack": 958,
+    "defense": 0,
+    "hp": 678,
+    "skillId": 190000,
+    "pieceSkill": {
+      "id": 190000,
+      "groupId": 1236,
+      "name": "アクアスマッシュ・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "水属性攻撃力UP[Ⅲ] & Blast ダメージUP[Ⅱ]",
+      "artId1": 390221403,
+      "art1": {
+        "artId": 390221403,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_WATER",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25
+      },
+      "artId2": 390201802,
+      "art2": {
+        "artId": 390201802,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 190001,
+    "pieceSkill2": {
+      "id": 190001,
+      "groupId": 1236,
+      "name": "アクアスマッシュ・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "水属性攻撃力UP[Ⅲ] & Blast ダメージUP[Ⅱ]",
+      "artId1": 390221403,
+      "art1": {
+        "artId": 390221403,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_WATER",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25
+      },
+      "artId2": 390201802,
+      "art2": {
+        "artId": 390201802,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "日々の苦境を前にして、彼女は未来への希望を支えに生き抜いた＠妹との悲しい別離を経ても、彼女は生き続けた＠イスヴォルより現れた、魔女を討つワルキューレ＠託された想いを胸に、今日も槍を振るう夢見がちのオルガ",
+    "illustrator": "―",
+    "openDate": "2023/05/19 15:10:00"
+  },
+  "1901": {
+    "pieceId": 1901,
+    "rank": "RANK_4",
+    "__update__": "2023-05-19T07:05:23.724Z",
+    "pieceType": "ABILITY",
+    "pieceName": "夢を追う妹",
+    "attributeId": "ALL",
+    "attack": 978,
+    "defense": 0,
+    "hp": 658,
+    "skillId": 190100,
+    "pieceSkill": {
+      "id": 190100,
+      "groupId": 1233,
+      "name": "フレイムライジング・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "火属性攻撃力UP[Ⅲ] & マギアダメージUP[Ⅲ]",
+      "artId1": 390221103,
+      "art1": {
+        "artId": 390221103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25
+      },
+      "artId2": 390201403,
+      "art2": {
+        "artId": 390201403,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 190101,
+    "pieceSkill2": {
+      "id": 190101,
+      "groupId": 1233,
+      "name": "フレイムライジング・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "火属性攻撃力UP[Ⅲ] & マギアダメージUP[Ⅲ]",
+      "artId1": 390221103,
+      "art1": {
+        "artId": 390221103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25
+      },
+      "artId2": 390201403,
+      "art2": {
+        "artId": 390201403,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "日々の苦境を前にして、彼女は姉の夢を支えに生き抜いた＠人生を捧げる契約を経ても、彼女は戦い続けた＠イスヴォルより現れた、魔女を討つヴァイキング＠夢の実現を目指し、今日も斧を振るう夢追いのガンヒルト",
+    "illustrator": "―",
+    "openDate": "2023/05/19 15:10:00"
   }
 }

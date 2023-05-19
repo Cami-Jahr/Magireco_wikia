@@ -104,7 +104,7 @@
 | Passive 12 effect = Anti-Magia Seal
 
 | Passive 13 icon = Skill Quicken
-| Passive 13 name = Skill Quick [III]
+| Passive 13 name = Skill Quicken [III]
 | Passive 13 name JP = スキルクイック[Ⅲ]
 | Passive 13 effect = Chance to Skill Quicken [III / 15%]
 

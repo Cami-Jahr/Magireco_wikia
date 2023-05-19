@@ -92,7 +92,7 @@
 | Passive 8 effect = Magia Damage Up [II / 7.5%]
 
 | Passive 9 icon = Skill Quicken
-| Passive 9 name = Skill Quick [III]
+| Passive 9 name = Skill Quicken [III]
 | Passive 9 name JP = スキルクイック[Ⅲ]
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
 

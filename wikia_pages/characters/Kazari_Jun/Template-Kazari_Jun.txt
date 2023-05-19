@@ -74,7 +74,7 @@
 | Passive 6 effect = Charge Disc Damage Up [II / 10%]
 
 | Passive 7 icon = Skill Quicken
-| Passive 7 name = Skill Quick [II]
+| Passive 7 name = Skill Quicken [II]
 | Passive 7 name JP = スキルクイック[Ⅱ]
 | Passive 7 effect = Chance to Skill Quicken [II / 10%]
 

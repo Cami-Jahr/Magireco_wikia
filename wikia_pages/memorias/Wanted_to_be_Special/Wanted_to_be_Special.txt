@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 打ち負かされたとき、いつも彼女が手を差し伸ばしてくれた<br />彼女はあたしにとっての特別な存在だった<br />だからあたしは、あたしだけは彼女を助けてあげたかった<br />それだけなのに…どうしてあたしはあんたの特別になれないの？
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
