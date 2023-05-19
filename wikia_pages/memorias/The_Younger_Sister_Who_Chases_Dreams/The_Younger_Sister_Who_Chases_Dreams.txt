@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 日々の苦境を前にして、彼女は姉の夢を支えに生き抜いた<br />人生を捧げる契約を経ても、彼女は戦い続けた<br />イスヴォルより現れた、魔女を討つヴァイキング<br />夢の実現を目指し、今日も斧を振るう夢追いのガンヒルト
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

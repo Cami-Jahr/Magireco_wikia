@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Light I Clung To
+| ImageSrc = 
+| Event = 
+
+| Jname = 縋ってしまった光
+| Rarity = 3
+| ID = 1899
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 1610
+| max_ATK = 0
+| max_DEF = 1460
+
+| image = Regenerate HP
+| effect_name = Neatness 
+| effect_name_JP = ニートネス
+| effect1 = 
+| effect2 = Regenerate HP [IV / 5%] & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
+| Cooldown = 
+| Cooldown2 = 6
+}}

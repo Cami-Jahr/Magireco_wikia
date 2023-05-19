@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = その姿はあまりにも神々しく、見る者に信仰を芽生えさせる<br />もはや何も考えなくていい、ただ後ろについていけばいい<br />それだけでシャンバラへたどり着く…<br />そうしてすべての重荷を預けて、人々は救われていく
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

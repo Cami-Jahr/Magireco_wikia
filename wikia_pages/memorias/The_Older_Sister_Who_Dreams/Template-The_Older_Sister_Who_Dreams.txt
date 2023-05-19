@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Older Sister Who Dreams
+| ImageSrc = 
+| Event = 
+
+| Jname = 夢を見る姉
+| Rarity = 4
+| ID = 1900
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 1695
+| max_ATK = 2395
+| max_DEF = 0
+
+| image = Aqua Attribute Attack Up
+| effect_name = アクアSmash Adept 
+| effect_name_JP = アクアスマッシュ・アデプト
+| effect1 = 
+| effect2 = Aqua Attribute Attack Up [III / 10%] & Blast Damage Up [II / 20%]
+| Cooldown = 
+| Cooldown2 = 
+}}

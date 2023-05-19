@@ -35,7 +35,79 @@
 | 5star_defense_max = 8826
 | 5star_illustrator_jp = 茨乃
 
+| se_hp_bonus = 6737
+| se_attack_bonus = 2289
+| se_defense_bonus = 2875
 
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 4
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Damage Cut
+| Passive 3 name = Shield Adept [II]
+| Passive 3 name JP = シールド・アデプト[Ⅱ]
+| Passive 3 effect = Damage Cut [II / 10%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Magia Damage Up
+| Passive 6 name = Magia Adept [II]
+| Passive 6 name JP = マギア・アデプト[Ⅱ]
+| Passive 6 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 7 icon = Skill Quicken
+| Passive 7 name = Skill Quicken [III]
+| Passive 7 name JP = スキルクイック[Ⅲ]
+| Passive 7 effect = Chance to Skill Quicken [III / 15%]
+
+| Passive 8 icon = MP Gain Up
+| Passive 8 name = Morale Adept [III]
+| Passive 8 name JP = モラール・アデプト[Ⅲ]
+| Passive 8 effect = MP Gain Up [III / 10%]
+
+| Passive 9 icon = Anti-Magia Seal
+| Passive 9 name = Anti Seal Magia
+| Passive 9 name JP = アンチ・シールマギア
+| Passive 9 effect = Anti-Magia Seal
+
+| Passive 10 icon = Regenerate MP
+| Passive 10 name = Mana Spring Aura [XV]
+| Passive 10 name JP = マナスプリングオーラ[XV]
+| Passive 10 effect = Regenerate MP [XV / 50 MP] (Self / 2 Turns on Battle Start)
+
+| Passive 11 icon = Regenerate MP
+| Passive 11 name = Mana Spring Adept [V]
+| Passive 11 name JP = マナスプリング・アデプト[Ⅴ]
+| Passive 11 effect = Regenerate MP [V / 9 MP]
+
+| Passive 12 icon = Forest Attribute Attack Up
+| Passive 12 name = TThrust Adept [V]
+| Passive 12 name JP = Tスラスト・アデプト[Ⅴ]
+| Passive 12 effect = Forest Attribute Attack Up [V / 15%] & Accele MP Gain Up [III / 15%] (Allies)
+
+| Active 1 icon = Forest Attribute Attack Up
+| Active 1 name = Tグリッター Circle [V]
+| Active 1 name JP = Tグリッター・サークル[Ⅴ]
+| Active 1 effect = Forest Attribute Attack Up [V / 15%] & MP Gain Up [III / 10%] (Allies / 3 Turns)
+| Active 1 cooldown = 10
 
 | Connect name JP = 衆生へ私たちの折伏を
 | Connect name EN = 

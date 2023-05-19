@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 日々の苦境を前にして、彼女は未来への希望を支えに生き抜いた<br />妹との悲しい別離を経ても、彼女は生き続けた<br />イスヴォルより現れた、魔女を討つワルキューレ<br />託された想いを胸に、今日も槍を振るう夢見がちのオルガ
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = めずらしくとも何ともないありふれた花にすぎなかったのに<br />この花には特別な意味がもたらされた…<br />希望に縋るように人々はこの青い花へ祈り、夢を見る<br />悪い薬に溺れて現実から逃避するかのように
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

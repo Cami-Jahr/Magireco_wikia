@@ -68614,7 +68614,63 @@
   "1895": {
     "pieceId": 1895,
     "rank": "RANK_3",
-    "__update__": "2023-05-19T07:04:07.742Z"
+    "__update__": "2023-05-19T08:59:15.384Z",
+    "pieceName": "灰は土に還り、そして花へ",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "charaIds": "1051",
+    "charaList": [
+      {
+        "charaId": 1051,
+        "name": "ヘルカ"
+      }
+    ],
+    "attack": 0,
+    "defense": 481,
+    "hp": 481,
+    "skillId": 189500,
+    "pieceSkill": {
+      "id": 189500,
+      "groupId": 1166,
+      "name": "アクセルドロー",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "Acceleドロー",
+      "messageId": 70,
+      "artId1": 700211800,
+      "art1": {
+        "artId": 700211800,
+        "verbCode": "DRAW",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 189501,
+    "pieceSkill2": {
+      "id": 189501,
+      "groupId": 1166,
+      "name": "アクセルドロー",
+      "type": "SKILL",
+      "intervalTurn": 4,
+      "shortDescription": "Acceleドロー",
+      "messageId": 70,
+      "artId1": 700211800,
+      "art1": {
+        "artId": 700211800,
+        "verbCode": "DRAW",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "めずらしくとも何ともないありふれた花にすぎなかったのに＠この花には特別な意味がもたらされた…＠希望に縋るように人々はこの青い花へ祈り、夢を見る＠悪い薬に溺れて現実から逃避するかのように",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/05/19 15:10:00"
   },
   "1896": {
     "pieceId": 1896,

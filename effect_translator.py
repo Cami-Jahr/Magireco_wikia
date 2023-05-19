@@ -443,6 +443,7 @@ jp_to_en = {
     "ウェポン": "Weapon",
     "リーサル": "Lethal",
     "フレイム": "Flame",
+    "アクア": "Aqua"
 }
 
 # Subset of good effects that might be chance to happen

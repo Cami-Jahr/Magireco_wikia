@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Younger Sister Who Chases Dreams
+| ImageSrc = 
+| Event = 
+
+| Jname = 夢を追う妹
+| Rarity = 4
+| ID = 1901
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 1645
+| max_ATK = 2445
+| max_DEF = 0
+
+| image = Flame Attribute Attack Up
+| effect_name = FlameRising Adept 
+| effect_name_JP = フレイムライジング・アデプト
+| effect1 = 
+| effect2 = Flame Attribute Attack Up [III / 10%] & Magia Damage Up [III / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}
