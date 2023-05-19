@@ -17,7 +17,7 @@
 | max_DEF = 0
 
 | image = Aqua Attribute Attack Up
-| effect_name = アクアSmash Adept 
+| effect_name = AquaSmash Adept 
 | effect_name_JP = アクアスマッシュ・アデプト
 | effect1 = 
 | effect2 = Aqua Attribute Attack Up [III / 10%] & Blast Damage Up [II / 20%]

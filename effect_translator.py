@@ -290,7 +290,7 @@ jp_to_en = {
     "MPブースト": "MP Boost",
     "フルスウィングアップ": "Full Swing Up",
     "イグノアデバフ": "Ignore Debuffs",
-    "グリッターライズ": "Glitterise",
+    "グリッターライズ": "Glitter Rise",
     "フルスウィング": "Full Swing Up",
     "クライシスブルーム": "Crisis Bloom",
     "スキルクイック": "Skill Quicken",
