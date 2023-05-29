@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Fresh Position
+| ImageSrc = 
+| Event = 
+
+| Jname = 新鮮なポジション
+| Rarity = 4
+| ID = 1902
+| Illust = -
+| Owner = 
+
+| min_HP = 820
+| min_ATK = 0
+| min_DEF = 980
+| max_HP = 2050
+| max_ATK = 0
+| max_DEF = 2450
+
+| image = Dazzle
+| effect_name = Summer Memories
+| effect_name_JP = サマー・メモリーズ
+| effect1 = Chance to Dazzle [XV / 65%] & Attack Down [VII / 35%] & Damage Down [VII / 35%] (Target / 1 Turn)
+| effect2 = Chance to Dazzle [100%] & Attack Down [VIII / 40%] & Damage Down [VIII / 40%] (Target / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

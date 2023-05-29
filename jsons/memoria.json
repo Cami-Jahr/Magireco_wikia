@@ -59937,22 +59937,22 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "eventId": 1170,
-      "eventArtId1": 1170003,
+      "eventId": 1192,
+      "eventArtId1": 1192003,
       "eventArt1": {
-        "artId": 1170003,
+        "artId": 1192003,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 5000,
-        "genericValue": "EVENT_BRANCH_1170_PART_1"
+        "genericValue": "EVENT_BRANCH_1192_PART_1"
       },
-      "eventArtId2": 1170007,
+      "eventArtId2": 1192007,
       "eventArt2": {
-        "artId": 1170007,
+        "artId": 1192007,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 5000,
-        "genericValue": "EVENT_BRANCH_1170_PART_2"
+        "genericValue": "EVENT_BRANCH_1192_PART_2"
       },
       "eventDescription": "＆「SUPパドル・ボード」「水鉄砲」追加獲得数＋5",
       "skillEffectRange": "ALL"
@@ -59984,22 +59984,22 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "eventId": 1170,
-      "eventArtId1": 1170004,
+      "eventId": 1192,
+      "eventArtId1": 1192004,
       "eventArt1": {
-        "artId": 1170004,
+        "artId": 1192004,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 15000,
-        "genericValue": "EVENT_BRANCH_1170_PART_1"
+        "genericValue": "EVENT_BRANCH_1192_PART_1"
       },
-      "eventArtId2": 1170008,
+      "eventArtId2": 1192008,
       "eventArt2": {
-        "artId": 1170008,
+        "artId": 1192008,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 15000,
-        "genericValue": "EVENT_BRANCH_1170_PART_2"
+        "genericValue": "EVENT_BRANCH_1192_PART_2"
       },
       "eventDescription": "＆「SUPパドル・ボード」「水鉄砲」追加獲得数＋15",
       "skillEffectRange": "ALL"
@@ -60007,7 +60007,7 @@
     "description": "あれがしたい、これがしたい＠両脇から押し寄せるリクエストの波に口を挟む隙はない＠板挟みにされた私は、されるがままにゆらゆら揺られ＠ひそかな困惑の呟きも、さらわれて泡に溶けていく",
     "illustrator": "―",
     "openDate": "2022/07/29 15:10:00",
-    "__update__": "2022-07-29T08:12:36.442Z"
+    "__update__": "2023-05-29T07:11:20.630Z"
   },
   "1790": {
     "pieceId": 1790,
@@ -60200,22 +60200,22 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "eventId": 1170,
-      "eventArtId1": 1170001,
+      "eventId": 1192,
+      "eventArtId1": 1192001,
       "eventArt1": {
-        "artId": 1170001,
+        "artId": 1192001,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 1000,
-        "genericValue": "EVENT_BRANCH_1170_PART_1"
+        "genericValue": "EVENT_BRANCH_1192_PART_1"
       },
-      "eventArtId2": 1170005,
+      "eventArtId2": 1192005,
       "eventArt2": {
-        "artId": 1170005,
+        "artId": 1192005,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 1000,
-        "genericValue": "EVENT_BRANCH_1170_PART_2"
+        "genericValue": "EVENT_BRANCH_1192_PART_2"
       },
       "eventDescription": "＆「SUPパドル・ボード」「水鉄砲」追加獲得数＋1",
       "skillEffectRange": "ALL"
@@ -60247,22 +60247,22 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "eventId": 1170,
-      "eventArtId1": 1170002,
+      "eventId": 1192,
+      "eventArtId1": 1192002,
       "eventArt1": {
-        "artId": 1170002,
+        "artId": 1192002,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 5000,
-        "genericValue": "EVENT_BRANCH_1170_PART_1"
+        "genericValue": "EVENT_BRANCH_1192_PART_1"
       },
-      "eventArtId2": 1170006,
+      "eventArtId2": 1192006,
       "eventArt2": {
-        "artId": 1170006,
+        "artId": 1192006,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 5000,
-        "genericValue": "EVENT_BRANCH_1170_PART_2"
+        "genericValue": "EVENT_BRANCH_1192_PART_2"
       },
       "eventDescription": "＆「SUPパドル・ボード」「水鉄砲」追加獲得数＋5",
       "skillEffectRange": "ALL"
@@ -60270,7 +60270,7 @@
     "description": "水名女学園の臨海学校では、毎年“何か”が起こるんです＠ちょっとしたことから、代々語り継がれるようなことまで…＠今年こそ何もないようにって思っていたのに＠こんなことが起こってしまうなんて…………",
     "illustrator": "―",
     "openDate": "2022/07/29 15:10:00",
-    "__update__": "2022-07-29T08:10:49.156Z"
+    "__update__": "2023-05-29T07:11:20.629Z"
   },
   "1793": {
     "pieceId": 1793,
@@ -60354,7 +60354,7 @@
   "1794": {
     "pieceId": 1794,
     "rank": "RANK_4",
-    "__update__": "2022-08-10T07:30:31.920Z",
+    "__update__": "2023-05-29T07:11:20.630Z",
     "pieceType": "SKILL",
     "pieceKind": "EVENT",
     "pieceName": "遊びだって真剣勝負！",
@@ -60391,22 +60391,22 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "eventId": 1170,
-      "eventArtId1": 1170003,
+      "eventId": 1192,
+      "eventArtId1": 1192003,
       "eventArt1": {
-        "artId": 1170003,
+        "artId": 1192003,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 5000,
-        "genericValue": "EVENT_BRANCH_1170_PART_1"
+        "genericValue": "EVENT_BRANCH_1192_PART_1"
       },
-      "eventArtId2": 1170007,
+      "eventArtId2": 1192007,
       "eventArt2": {
-        "artId": 1170007,
+        "artId": 1192007,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 5000,
-        "genericValue": "EVENT_BRANCH_1170_PART_2"
+        "genericValue": "EVENT_BRANCH_1192_PART_2"
       },
       "eventDescription": "＆「SUPパドル・ボード」「水鉄砲」追加獲得数＋5",
       "skillEffectRange": "ALL"
@@ -60440,22 +60440,22 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "eventId": 1170,
-      "eventArtId1": 1170004,
+      "eventId": 1192,
+      "eventArtId1": 1192004,
       "eventArt1": {
-        "artId": 1170004,
+        "artId": 1192004,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 15000,
-        "genericValue": "EVENT_BRANCH_1170_PART_1"
+        "genericValue": "EVENT_BRANCH_1192_PART_1"
       },
-      "eventArtId2": 1170008,
+      "eventArtId2": 1192008,
       "eventArt2": {
-        "artId": 1170008,
+        "artId": 1192008,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 15000,
-        "genericValue": "EVENT_BRANCH_1170_PART_2"
+        "genericValue": "EVENT_BRANCH_1192_PART_2"
       },
       "eventDescription": "＆「SUPパドル・ボード」「水鉄砲」追加獲得数＋15",
       "skillEffectRange": "ALL"
@@ -68882,7 +68882,76 @@
   "1898": {
     "pieceId": 1898,
     "rank": "RANK_4",
-    "__update__": "2023-05-19T07:04:07.743Z"
+    "__update__": "2023-05-24T10:08:58.156Z",
+    "pieceName": "ふたりの終着地はまばゆく",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 818,
+    "defense": 0,
+    "hp": 818,
+    "skillId": 189800,
+    "pieceSkill": {
+      "id": 189800,
+      "groupId": 1153,
+      "name": "メズマライズアタック・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃時に確率で幻惑(1T)を付与[Ⅲ] & 攻撃力UP[Ⅲ]",
+      "artId1": 690211003,
+      "art1": {
+        "artId": 690211003,
+        "verbCode": "ENCHANT",
+        "effectCode": "BLINDNESS",
+        "targetId": "SELF",
+        "effectValue": 500,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 200
+      },
+      "artId2": 390201103,
+      "art2": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 189801,
+    "pieceSkill2": {
+      "id": 189801,
+      "groupId": 1153,
+      "name": "メズマライズアタック・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃時に確率で幻惑(1T)を付与[Ⅲ] & 攻撃力UP[Ⅲ]",
+      "artId1": 690211003,
+      "art1": {
+        "artId": 690211003,
+        "verbCode": "ENCHANT",
+        "effectCode": "BLINDNESS",
+        "targetId": "SELF",
+        "effectValue": 500,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 200
+      },
+      "artId2": 390201103,
+      "art2": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL"
+    },
+    "description": "はじめて支えることができた…はじめて横に並べた…＠そしてたどり着いたこの場所を生涯忘れることはないだろう＠ひどく震えていたことも、抱き締めないと壊れそうだったことも＠何よりあんたが普通の女の子だったことも…",
+    "illustrator": "―",
+    "openDate": "2023/05/19 15:10:00"
   },
   "1899": {
     "pieceId": 1899,
@@ -69122,5 +69191,249 @@
     "description": "日々の苦境を前にして、彼女は姉の夢を支えに生き抜いた＠人生を捧げる契約を経ても、彼女は戦い続けた＠イスヴォルより現れた、魔女を討つヴァイキング＠夢の実現を目指し、今日も斧を振るう夢追いのガンヒルト",
     "illustrator": "―",
     "openDate": "2023/05/19 15:10:00"
+  },
+  "1902": {
+    "pieceId": 1902,
+    "rank": "RANK_4",
+    "__update__": "2023-05-29T07:11:20.630Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "新鮮なポジション",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 980,
+    "hp": 820,
+    "skillId": 190200,
+    "pieceSkill": {
+      "id": 190200,
+      "groupId": 1111,
+      "name": "サマー・メモリーズ[XV]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "確率で幻惑[XV] & 攻撃力DOWN[Ⅶ] & 与えるダメージDOWN[Ⅶ](敵単/1T)",
+      "messageId": 72,
+      "artId1": 510005515,
+      "art1": {
+        "artId": 510005515,
+        "verbCode": "CONDITION_BAD",
+        "effectCode": "BLINDNESS",
+        "targetId": "TARGET",
+        "effectValue": 500,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 650
+      },
+      "artId2": 410002007,
+      "art2": {
+        "artId": 410002007,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "TARGET",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId3": 410002207,
+      "art3": {
+        "artId": 410002207,
+        "verbCode": "DEBUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "TARGET",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1192,
+      "eventArtId1": 1192003,
+      "eventArt1": {
+        "artId": 1192003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_BRANCH_1192_PART_1"
+      },
+      "eventArtId2": 1192007,
+      "eventArt2": {
+        "artId": 1192007,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_BRANCH_1192_PART_2"
+      },
+      "eventDescription": "＆「SUPパドル・ボード」「水鉄砲」追加獲得数＋5",
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 190201,
+    "pieceSkill2": {
+      "id": 190201,
+      "groupId": 1111,
+      "name": "サマー・メモリーズ",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "必ず幻惑 & 攻撃力DOWN[Ⅷ] & 与えるダメージDOWN[Ⅷ](敵単/1T)",
+      "messageId": 72,
+      "artId1": 510005600,
+      "art1": {
+        "artId": 510005600,
+        "verbCode": "CONDITION_BAD",
+        "effectCode": "BLINDNESS",
+        "targetId": "TARGET",
+        "effectValue": 500,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 410002008,
+      "art2": {
+        "artId": 410002008,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "TARGET",
+        "effectValue": 400,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId3": 410002208,
+      "art3": {
+        "artId": 410002208,
+        "verbCode": "DEBUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "TARGET",
+        "effectValue": 400,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1192,
+      "eventArtId1": 1192004,
+      "eventArt1": {
+        "artId": 1192004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_BRANCH_1192_PART_1"
+      },
+      "eventArtId2": 1192008,
+      "eventArt2": {
+        "artId": 1192008,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_BRANCH_1192_PART_2"
+      },
+      "eventDescription": "＆「SUPパドル・ボード」「水鉄砲」追加獲得数＋15",
+      "skillEffectRange": "ALL"
+    },
+    "description": "「強くこいだらクルって回りそう…ちょっと怖いかも…」＠「少し意外。環さんは思い切りが良い方だと思ってた」＠「そんなことな、キャッ、ちょっとグラってしたかも…！」＠「サポートするから、気にせず勢いよくこいでみよう？」",
+    "illustrator": "―",
+    "openDate": "2023/05/29 15:10:00"
+  },
+  "1903": {
+    "pieceId": 1903,
+    "rank": "RANK_4",
+    "__update__": "2023-05-29T07:11:20.630Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "夏のベストタイム",
+    "attributeId": "ALL",
+    "attack": 780,
+    "defense": 0,
+    "hp": 980,
+    "skillId": 190300,
+    "pieceSkill": {
+      "id": 190300,
+      "groupId": 1120,
+      "name": "Hシールド・アデプト[Ⅵ]",
+      "type": "ABILITY",
+      "shortDescription": "ダメージカット状態[Ⅵ] & 防御力UP[Ⅲ]",
+      "artId1": 690206206,
+      "art1": {
+        "artId": 690206206,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201203,
+      "art2": {
+        "artId": 390201203,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1192,
+      "eventArtId1": 1192003,
+      "eventArt1": {
+        "artId": 1192003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_BRANCH_1192_PART_1"
+      },
+      "eventArtId2": 1192007,
+      "eventArt2": {
+        "artId": 1192007,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_BRANCH_1192_PART_2"
+      },
+      "eventDescription": "＆「SUPパドル・ボード」「水鉄砲」追加獲得数＋5",
+      "skillEffectRange": "ALL"
+    },
+    "skillId2": 190301,
+    "pieceSkill2": {
+      "id": 190301,
+      "groupId": 1120,
+      "name": "Hシールド・アデプト[Ⅶ]",
+      "type": "ABILITY",
+      "shortDescription": "ダメージカット状態[Ⅶ] & 防御力UP[Ⅳ]",
+      "artId1": 690206207,
+      "art1": {
+        "artId": 690206207,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201204,
+      "art2": {
+        "artId": 390201204,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1192,
+      "eventArtId1": 1192004,
+      "eventArt1": {
+        "artId": 1192004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_BRANCH_1192_PART_1"
+      },
+      "eventArtId2": 1192008,
+      "eventArt2": {
+        "artId": 1192008,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_BRANCH_1192_PART_2"
+      },
+      "eventDescription": "＆「SUPパドル・ボード」「水鉄砲」追加獲得数＋15",
+      "skillEffectRange": "ALL"
+    },
+    "description": "力強い日差し、元気な花々、笑顔の弾ける少女たち＠切り取られた時間は、溢れかえったお馴染みの姿＠だけど別れは突然だから、それは二度とないかもしれない瞬間＠子どもでも大人でも、今しかないひとときを刻み続ける",
+    "illustrator": "―",
+    "openDate": "2023/05/29 15:10:00"
   }
 }

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = はじめて支えることができた…はじめて横に並べた…<br />そしてたどり着いたこの場所を生涯忘れることはないだろう<br />ひどく震えていたことも、抱き締めないと壊れそうだったことも<br />何よりあんたが普通の女の子だったことも…
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

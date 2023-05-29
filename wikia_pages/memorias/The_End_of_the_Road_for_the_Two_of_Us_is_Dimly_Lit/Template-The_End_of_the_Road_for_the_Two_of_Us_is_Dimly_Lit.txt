@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The End of the Road for the Two of Us is Dimly Lit
+| ImageSrc = 
+| Event = 
+
+| Jname = ふたりの終着地はまばゆく
+| Rarity = 4
+| ID = 1898
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2045
+| max_ATK = 2045
+| max_DEF = 0
+
+| image = Dazzle on Attack
+| effect_name = MesmerizeAttack Adept 
+| effect_name_JP = メズマライズアタック・アデプト
+| effect1 = 
+| effect2 = Chance to Dazzle on Attack [III / 20%] (1 Turn) & Attack Up [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}
