@@ -59,7 +59,7 @@
 | Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
 | Passive 4 icon = Damage Up Versus Witches
-| Passive 4 name = Urgent Adept [III]
+| Passive 4 name = Argent Adept [III]
 | Passive 4 name JP = アージェント・アデプト[Ⅲ]
 | Passive 4 effect = Damage Up Versus Witches [III / 15%]
 

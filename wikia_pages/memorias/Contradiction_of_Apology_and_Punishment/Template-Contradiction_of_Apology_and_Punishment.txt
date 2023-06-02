@@ -17,7 +17,7 @@
 | max_DEF = 0
 
 | image = Damage Up Versus Witches
-| effect_name = Urgent Attack 
+| effect_name = Argent Attack 
 | effect_name_JP = アージェント・アタック
 | effect1 = Damage Up Versus Witches [IV / 20%] & Attack Up [IV / 20%]
 | effect2 = Damage Up Versus Witches [V / 25%] & Attack Up [V / 25%]

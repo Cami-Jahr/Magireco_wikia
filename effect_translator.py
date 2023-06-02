@@ -412,7 +412,7 @@ jp_to_en = {
     "モラール": "Morale",
     "エイミング": "Aiming",
     "エストック": "Estock",
-    "アージェント": "Urgent",
+    "アージェント": "Argent",
     "シールド": "Shield",
     "テクニカル": "Technical",
     "チェイス": "Chase",

@@ -99,7 +99,7 @@
 | Passive 11 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 12 icon = Damage Up Versus Witches
-| Passive 12 name = Urgent Adept [III]
+| Passive 12 name = Argent Adept [III]
 | Passive 12 name JP = アージェント・アデプト[Ⅲ]
 | Passive 12 effect = Damage Up Versus Witches [III / 15%]
 

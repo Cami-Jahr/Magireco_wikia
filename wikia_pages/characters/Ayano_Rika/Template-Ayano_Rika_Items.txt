@@ -87,5 +87,25 @@
 |Quantity25 = 12
 |BuffCharge2 = 4
 
+|Item32 = Flame Orb +
+|Quantity32 = 15
+|BuffATK3 = 6
+|Item33 = Flame Orb ++
+|Quantity33 = 10
+|BuffDEF3 = 6
+|Item31 = Rainbow Orb
+|Quantity31 = 3
+|BuffHP3 = 9
+|Item36 = Standing Ear Cotton
+|Quantity36 = 8
+|BuffAccele3 = 9
+|Item34 = Sheep Horn
+|Quantity34 = 10
+|BuffBlast3 = 5
+|Item35 = Chain of Padlock
+|Quantity35 = 15
+|BuffCharge3 = 5
+
 |QuantityCC1 = 300000
+|QuantityCC2 = 1000000
 }}

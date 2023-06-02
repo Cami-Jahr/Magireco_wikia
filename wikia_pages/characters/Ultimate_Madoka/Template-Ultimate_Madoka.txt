@@ -89,7 +89,7 @@
 | Passive 9 effect = Charged Attack Damage Up [II / 10%]
 
 | Passive 10 icon = Damage Up Versus Witches
-| Passive 10 name = Urgent Adept [III]
+| Passive 10 name = Argent Adept [III]
 | Passive 10 name JP = アージェント・アデプト[Ⅲ]
 | Passive 10 effect = Damage Up Versus Witches [III / 15%]
 

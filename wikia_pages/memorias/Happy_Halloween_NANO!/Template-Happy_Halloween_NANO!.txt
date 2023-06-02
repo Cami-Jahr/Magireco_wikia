@@ -17,7 +17,7 @@
 | max_DEF = 0
 
 | image = Damage Up Versus Witches
-| effect_name = Urgent Resist 
+| effect_name = Argent Resist 
 | effect_name_JP = アージェント・レジスト
 | effect1 = 
 | effect2 = Damage Up Versus Witches [VI / 30%] & Status Ailment Resistance Up [II / 25%]

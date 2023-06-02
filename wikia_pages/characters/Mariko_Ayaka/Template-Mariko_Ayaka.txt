@@ -3,7 +3,7 @@
 | name_jp = 毬子 あやか
 | element = Dark
 | base_rarity = 3
-| max_rarity = 4
+| max_rarity = 5
 | id = 3019
 | type = Defense
 | growth_type = BALANCE
@@ -35,13 +35,13 @@
 | 4star_defense_max = 7210
 | 4star_illustrator_jp = あｆろ
 
-| 5star_hp_lv1 = 
-| 5star_attack_lv1 = 
-| 5star_defense_lv1 = 
-| 5star_hp_max = 
-| 5star_attack_max = 
-| 5star_defense_max = 
-| 5star_illustrator_jp = 
+| 5star_hp_lv1 = 6839
+| 5star_attack_lv1 = 1674
+| 5star_defense_lv1 = 2339
+| 5star_hp_max = 27356
+| 5star_attack_max = 6696
+| 5star_defense_max = 9356
+| 5star_illustrator_jp = あｆろ
 
 | se_hp_bonus = 5183
 | se_attack_bonus = 1242
@@ -123,9 +123,15 @@
 | Connect effect 1 = Endure
 | Connect 1 / 1 = 100%
 | Connect 1 / 2 = 100%
+| Connect 1 / 3 = 100%
 | Connect effect 2 = Chance to Critical Hit
 | Connect 2 / 1 = V / 50%
 | Connect 2 / 2 = VII / 60%
+| Connect 2 / 3 = IX / 70%
+| Connect effect 3 = Chance to Stun on Attack
+| Connect 3 / 1 = -
+| Connect 3 / 2 = -
+| Connect 3 / 3 = IX / 35%
 
 | Magia name JP = ファン・ファン・ファン
 | Magia name EN = 
@@ -134,19 +140,37 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = III / 1024%
 | Magia 1 / 2 = V / 1088%
+| Magia 1 / 3 = VII / 1152%
 | Magia effect 2 = Defense Up
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = Allies / 3 Turns / 33.8%
 | Magia 2 / 2 = Allies / 3 Turns / 41.3%
+| Magia 2 / 3 = Allies / 3 Turns / 45%
 | Magia effect 3 = Remove Debuffs
 | Magia scaling 3 = -
 | Magia 3 / 1 = -
 | Magia 3 / 2 = Allies
+| Magia 3 / 3 = Allies
+| Magia effect 4 = Attack Down
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = -
+| Magia 4 / 2 = -
+| Magia 4 / 3 = Target / 3 Turns / 20%
 
 | Doppel Name = 
 | Doppel Title = 
-| Doppel Japanese Title = 
+| Doppel Japanese Title = 自然体のドッペル
 | Doppel Shape = 
-| Doppel Japanese Shape = 
-| Doppel Japanese Designer = 
+| Doppel Japanese Shape = その姿は、笑い袋
+| Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = IX / 2763.2%
+| Magia2 effect 2 = Attack Down
+| Magia2 2 = Target / 3 Turns / 40%
+| Magia2 effect 3 = Chance to Stun
+| Magia2 3 = Target / 1 Turn / 100%
+| Magia2 effect 4 = Defense Up
+| Magia2 4 = Allies / 3 Turns / 62.5%
+| Magia2 effect 5 = Remove Debuffs
+| Magia2 5 = Allies
 }}
