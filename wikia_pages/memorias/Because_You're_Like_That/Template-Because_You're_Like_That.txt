@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Because You're Like That
+| ImageSrc = 
+| Event = 
+
+| Jname = そんなあなただから
+| Rarity = 3
+| ID = 1906
+| Illust = -
+| Owner = 
+
+| min_HP = 740
+| min_ATK = 0
+| min_DEF = 620
+| max_HP = 1850
+| max_ATK = 0
+| max_DEF = 1550
+
+| image = Attack Up
+| effect_name = バーサク ライズ 
+| effect_name_JP = バーサク・ライズ
+| effect1 = Attack Up [VII / 35%] & Defense Down [IV / 20%] (Self / 3 Turns)
+| effect2 = Attack Up [VIII / 40%] & Defense Down [IV / 20%] (Self / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

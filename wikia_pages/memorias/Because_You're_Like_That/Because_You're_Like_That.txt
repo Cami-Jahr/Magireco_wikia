@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「この方が合理的だから」なんて私を抱えるまさらは<br />花嫁姿のはずなのに、なんだか王子様みたい<br />拗れた私の心を解いてくれる彼女の横顔を見ながら<br />やっぱり私は、まさらの考え方が好きだなぁって思うんだ
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
