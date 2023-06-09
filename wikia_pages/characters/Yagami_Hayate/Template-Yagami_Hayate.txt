@@ -143,12 +143,9 @@
 | Magia 2 / 2 = All Enemies / 3 Turns / 25%
 | Magia 2 / 3 = All Enemies / 3 Turns / 27.5%
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = ウロボロス
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ー
+| Magia2 name JP = ウロボロス
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = X / 924%
 | Magia2 effect 2 = Defense Down

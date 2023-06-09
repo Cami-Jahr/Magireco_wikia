@@ -143,12 +143,9 @@
 | Magia 3 / 1 = -
 | Magia 3 / 2 = Self / 1 Turn / 100%
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = ホーネットジャベリン
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ー
+| Magia2 name JP = ホーネットジャベリン
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = IX / 869%
 | Magia2 effect 2 = Blast Damage Up

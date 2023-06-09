@@ -142,12 +142,9 @@
 | Magia 4 / 1 = Self / 3 Turns / 15%
 | Magia 4 / 2 = Self / 3 Turns / 20%
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = shutdown -r -t 21
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ………
+| Magia2 name JP = shutdown -r -t 21
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = IX / 869%
 | Magia2 effect 2 = Attack Down

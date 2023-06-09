@@ -131,12 +131,9 @@
 | Magia 2 / 1 = Self / 3 Turns / 20%
 | Magia 2 / 2 = Self / 3 Turns / 25%
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = アクセラレイター
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ー
+| Magia2 name JP = アクセラレイター
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = XI / 918.5%
 | Magia2 effect 2 = Accele MP Gain Up

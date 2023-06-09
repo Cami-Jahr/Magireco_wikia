@@ -135,12 +135,9 @@
 | Magia 3 / 1 = Allies
 | Magia 3 / 2 = Allies
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = 星5の力をお見せします！
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ー
+| Magia2 name JP = 星5の力をお見せします！
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Chance to Dazzle

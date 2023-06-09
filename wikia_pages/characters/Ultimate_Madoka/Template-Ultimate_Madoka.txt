@@ -153,12 +153,9 @@
 | Magia 6 / 1 = Allies / 3 Turns / 25%
 | Magia 6 / 2 = Allies / 3 Turns / 35%
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = みんな、いつまでも私と一緒だよ
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ー
+| Magia2 name JP = みんな、いつまでも私と一緒だよ
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Attack Up

@@ -142,12 +142,9 @@
 | Magia 4 / 1 = Random Ally / 20% HP
 | Magia 4 / 2 = Random Ally / 25% HP
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = フェアウェル・グリーフ
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ー
+| Magia2 name JP = フェアウェル・グリーフ
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Attack Up

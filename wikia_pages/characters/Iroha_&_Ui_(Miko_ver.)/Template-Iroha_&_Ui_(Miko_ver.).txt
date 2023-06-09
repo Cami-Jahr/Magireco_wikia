@@ -154,12 +154,9 @@
 | Magia 5 / 1 = Allies / 22.5%
 | Magia 5 / 2 = Allies / 25%
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = ネーヴェ・コンテント
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ………
+| Magia2 name JP = ネーヴェ・コンテント
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Attack Up

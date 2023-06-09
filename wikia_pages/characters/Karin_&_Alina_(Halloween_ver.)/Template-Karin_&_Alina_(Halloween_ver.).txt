@@ -142,12 +142,9 @@
 | Magia 4 / 1 = Self / 3 Turns / 7.5%
 | Magia 4 / 2 = Self / 3 Turns / 10%
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = グレートアリナ先輩Goなのっ!!
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ………
+| Magia2 name JP = グレートアリナ先輩Goなのっ!!
+| Magia2 name EN = 
+| Magia2 icon = Damage 5 Random Enemies
 | Magia2 effect 1 = Attribute Strengthened Damage 5 Random Enemies
 | Magia2 1 = X / 676%
 | Magia2 effect 2 = Magia Damage Up

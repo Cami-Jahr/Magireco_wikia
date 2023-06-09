@@ -311,7 +311,7 @@ def format_info(_id: int):
 
 
 def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
-    connect_name = magia_name = doppel_name = connect_icon = magia_icon = doppel_title = doppel_designer = ""
+    connect_name = magia_name = doppel_title = connect_icon = magia_icon = doppel_shape = doppel_designer = ""
     all_connect_effects = defaultdict(int)
     all_magia_effects = defaultdict(int)
     all_doppel_effects = defaultdict(int)
@@ -351,8 +351,8 @@ def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
         magias.append(magia_effects)
         if rank == 5:
             doppel_arts = dic[card]["doppelCardMagia"]
-            doppel_name = dic[card]["doppel"]["name"]
-            doppel_title = dic[card]["doppel"]["title"]
+            doppel_title = dic[card]["doppel"]["name"]
+            doppel_shape = dic[card]["doppel"]["title"]
             doppel_designer = dic[card]["doppel"]["designer"]
             arts = []
             for i in range(1, 10):
@@ -360,7 +360,7 @@ def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
                     arts.append(doppel_arts[f"art{i}"])
                 except KeyError:
                     break
-            all_doppel_effects = translate(doppel_arts["shortDescription"], arts, False, True)[0]
+            all_doppel_effects, magia2_icon = translate(doppel_arts["shortDescription"], arts, False, True)
 
     all_connect_effects = [e for e, i in sorted(all_connect_effects.items(), key=lambda x: x[1], reverse=True)]
     connect_effect_template = """| Connect effect {} = {}
@@ -425,14 +425,23 @@ def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
     doppel_effect_template = """| Magia2 effect {0} = {1}
 | Magia2 {0} = {2}
 """
-    doppel_string = """
+    if doppel_shape != "ー":
+        doppel_string = """
 | Doppel Name = 
 | Doppel Title = 
 | Doppel Japanese Title = {}
 | Doppel Shape = 
 | Doppel Japanese Shape = {}
 | Doppel Japanese Designer = {}
-""".format(doppel_name, doppel_title, doppel_designer)
+""".format(doppel_title, doppel_shape, doppel_designer)
+    elif doppel_title:
+        doppel_string = """
+| Magia2 name JP = {}
+| Magia2 name EN = 
+| Magia2 icon = {}
+""".format(doppel_title, magia2_icon)
+    else:
+        doppel_string = ""
     i = 0
     for text, [effect, target_and_turns, scaling] in all_doppel_effects.items():
         i += 1

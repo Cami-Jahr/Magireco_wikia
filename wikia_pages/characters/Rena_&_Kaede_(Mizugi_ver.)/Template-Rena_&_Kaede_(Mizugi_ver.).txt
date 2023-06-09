@@ -142,12 +142,9 @@
 | Magia 4 / 1 = Self / 1 Turn / 15%
 | Magia 4 / 2 = Self / 1 Turn / 20%
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = 秋野かえでの「水散爆裂打球」
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ………
+| Magia2 name JP = 秋野かえでの「水散爆裂打球」
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = X / 902%
 | Magia2 effect 2 = Attack Up

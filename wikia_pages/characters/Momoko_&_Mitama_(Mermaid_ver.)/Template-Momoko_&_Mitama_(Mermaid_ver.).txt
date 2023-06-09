@@ -138,12 +138,9 @@
 | Magia 3 / 1 = Self / 5 Turns / 3000 damage
 | Magia 3 / 2 = Self / 5 Turns / 5000 damage
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = 絶対魅了マーメイドカレント
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ………
+| Magia2 name JP = 絶対魅了マーメイドカレント
+| Magia2 name EN = 
+| Magia2 icon = Damage 5 Random Enemies
 | Magia2 effect 1 = Damage 5 Random Enemies
 | Magia2 1 = IX / 622.2%
 | Magia2 effect 2 = Damage Up

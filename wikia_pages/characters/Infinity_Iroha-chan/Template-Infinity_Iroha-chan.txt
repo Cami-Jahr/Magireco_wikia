@@ -162,12 +162,9 @@
 | Magia 9 / 1 = Allies / 3 Turns / 8%
 | Magia 9 / 2 = Allies / 3 Turns / 10%
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = 集結の百環
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ………
+| Magia2 name JP = 集結の百環
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = IX / 869%
 | Magia2 effect 2 = Accele MP Gain Down

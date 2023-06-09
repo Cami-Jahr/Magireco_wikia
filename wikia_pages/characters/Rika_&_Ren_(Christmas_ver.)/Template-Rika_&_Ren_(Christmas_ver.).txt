@@ -147,12 +147,9 @@
 | Magia 4 / 1 = Allies
 | Magia 4 / 2 = Allies
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = ギラ盛りオーロラストリーム
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ー
+| Magia2 name JP = ギラ盛りオーロラストリーム
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = X / 902%
 | Magia2 effect 2 = Attack Up

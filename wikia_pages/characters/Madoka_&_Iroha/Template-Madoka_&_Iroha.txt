@@ -154,12 +154,9 @@
 | Magia 7 / 1 = Allies / 3 Turns / 3000 damage
 | Magia 7 / 2 = Allies / 3 Turns / 5000 damage
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = マギア☆マギカ
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ………
+| Magia2 name JP = マギア☆マギカ
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = IX / 869%
 | Magia2 effect 2 = HP Restore

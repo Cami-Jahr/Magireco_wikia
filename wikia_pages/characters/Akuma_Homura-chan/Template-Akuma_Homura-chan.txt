@@ -157,12 +157,9 @@
 | Magia 7 / 1 = Self / 1 Turn / 100%
 | Magia 7 / 2 = Self / 1 Turn / 100%
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = それならボスキャラをやるわよ
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ………
+| Magia2 name JP = それならボスキャラをやるわよ
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
 | Magia2 effect 2 = Damage Down

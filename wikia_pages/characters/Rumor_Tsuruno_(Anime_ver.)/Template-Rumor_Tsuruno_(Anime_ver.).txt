@@ -154,12 +154,9 @@
 | Magia 7 / 1 = Self / 3 Turns / 30% HP
 | Magia 7 / 2 = Self / 3 Turns / 35% HP
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = ウワサの回転雷獣休止砲
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ………
+| Magia2 name JP = ウワサの回転雷獣休止砲
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = IX / 869%
 | Magia2 effect 2 = Remove Buffs

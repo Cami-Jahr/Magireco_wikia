@@ -344,6 +344,7 @@ jp_to_en = {
     "アクアアサルト": "Aqua Assault",
     "フレイムグリッター": "Flame Glitter",
     "ウェポンブラスト": "Weapon Blast",
+    "バーサク・ライズ": "Berserk Rise",
     "アンチ": "Anti",
     "・": " ",
     "[": " [",
