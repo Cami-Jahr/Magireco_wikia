@@ -17,11 +17,7 @@
 | max_DEF = 1550
 
 | image = Attack Up
-<<<<<<< Updated upstream
-| effect_name = バーサク ライズ 
-=======
 | effect_name = Berserk Rise 
->>>>>>> Stashed changes
 | effect_name_JP = バーサク・ライズ
 | effect1 = Attack Up [VII / 35%] & Defense Down [IV / 20%] (Self / 3 Turns)
 | effect2 = Attack Up [VIII / 40%] & Defense Down [IV / 20%] (Self / 3 Turns)

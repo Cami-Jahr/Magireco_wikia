@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 以前なら、ただ魔法少女の使命として魔女を倒すだけだった<br />けれど、今日の私を突き動かすのは<br />誰かが悩み苦しんだ気持ちを踏みにじった、魔女への怒り<br />その感情は、紛れもなく私自身から生まれたもの
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
