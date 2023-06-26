@@ -893,5 +893,12 @@
 1906;Because You're Like That
 1907;A Blade Wielded by the Heart
 1908;Happiness Melts in the Twilight
+1909;Stretching Together with Everybody!
+1910;Even if I'm Kicked Out of the Ordinary
+1911;The Inherited, Child to be Guided
+1912;Yearning to Take Others to the Glistening Place
+1913;
+1914;
+1915;Rakshasi of Salvation
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

@@ -104,7 +104,7 @@
 | Passive 12 effect = Forest Attribute Attack Up [V / 15%] & Accele MP Gain Up [III / 15%] (Allies)
 
 | Active 1 icon = Forest Attribute Attack Up
-| Active 1 name = Tグリッター Circle [V]
+| Active 1 name = TGlitter Circle [V]
 | Active 1 name JP = Tグリッター・サークル[Ⅴ]
 | Active 1 effect = Forest Attribute Attack Up [V / 15%] & MP Gain Up [III / 10%] (Allies / 3 Turns)
 | Active 1 cooldown = 10

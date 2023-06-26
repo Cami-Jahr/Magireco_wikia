@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 人々を救う特別な存在であることを求められたが、特別になれなかった<br />打ち負かされ、一度はすべてを諦めたはずだったが<br />たったひとりの特別な存在…彼女を守るために再び救世主の道を行く<br />それが自分の存在証明になると、どこかで期待して
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

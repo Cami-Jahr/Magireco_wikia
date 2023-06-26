@@ -1,0 +1,167 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Toyo
+| name_jp = トヨ
+| element = Light
+| base_rarity = 4
+| max_rarity = 5
+| id = 1052
+| type = Magia
+| growth_type = ATKDEF
+| school_jp = ―
+| voice_actor_jp = 山田美沙希
+| designer_jp = 千里GAN
+| memoria = 
+| release_date = 2023-06-26
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 0
+| blast_hori_disks = 1
+| charge_disks = 2
+
+| 4star_hp_lv1 = 6371
+| 4star_attack_lv1 = 2298
+| 4star_defense_lv1 = 2037
+| 4star_hp_max = 22769
+| 4star_attack_max = 8392
+| 4star_defense_max = 7386
+| 4star_illustrator_jp = 千里GAN
+
+| 5star_hp_lv1 = 7080
+| 5star_attack_lv1 = 2551
+| 5star_defense_lv1 = 2262
+| 5star_hp_max = 28107
+| 5star_attack_max = 10357
+| 5star_defense_max = 9115
+| 5star_illustrator_jp = 千里GAN
+
+| se_hp_bonus = 7104
+| se_attack_bonus = 2604
+| se_defense_bonus = 3804
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 10
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Dark Attribute Damage Cut
+| Passive 3 name = Dark Shield Adept [IV]
+| Passive 3 name JP = ダークシールド・アデプト[Ⅳ]
+| Passive 3 effect = Dark Attribute Damage Cut [IV / 20%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = MP Gain Up
+| Passive 6 name = Morale Adept [III]
+| Passive 6 name JP = モラール・アデプト[Ⅲ]
+| Passive 6 effect = MP Gain Up [III / 10%]
+
+| Passive 7 icon = Anti-Magia Seal
+| Passive 7 name = Anti Seal Magia
+| Passive 7 name JP = アンチ・シールマギア
+| Passive 7 effect = Anti-Magia Seal
+
+| Passive 8 icon = Doppel Damage Up
+| Passive 8 name = Doppel Adept [II]
+| Passive 8 name JP = ドッペル・アデプト[Ⅱ]
+| Passive 8 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [II / 7.5%]
+
+| Passive 9 icon = Doppel Damage Up
+| Passive 9 name = Doppel Aura [VI]
+| Passive 9 name JP = ドッペルオーラ[Ⅵ]
+| Passive 9 effect = Doppel Damage Up [VI / 30%] & Magia Damage Up [V / 15%] (Self / 5 Turns on Battle Start)
+
+| Passive 10 icon = Regenerate MP
+| Passive 10 name = Mana Spring Aura [XV]
+| Passive 10 name JP = マナスプリングオーラ[XV]
+| Passive 10 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn on Battle Start)
+
+| Passive 11 icon = MP Up When Attacked By Weak Element
+| Passive 11 name = Revenge Adept [X]
+| Passive 11 name JP = リベンジ・アデプト[Ⅹ]
+| Passive 11 effect = MP Up When Attacked By Weak Element [X / 11 MP]
+
+| Passive 12 icon = Light Attribute Attack Up
+| Passive 12 name = LightRising Aura [V]
+| Passive 12 name JP = ライトライジング・オーラ[Ⅴ]
+| Passive 12 effect = Light Attribute Attack Up [V / 15%] & Magia Damage Up [II / 12%] (Allies / ∞ Turns on Battle Start)
+
+| Active 1 icon = Light Defense Down
+| Active 1 name = Light Break [II]
+| Active 1 name JP = ライトブレイク[Ⅱ]
+| Active 1 effect = Light Defense Down [I / 8%] & Light Defense Down Further [II / 13%] (Target / 3 Turns)
+| Active 1 cooldown = 10
+
+| Connect name JP = 吾らが次代を照らさん
+| Connect name EN = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Accele MP Gain Up
+| Connect 2 / 1 = V / 30%
+| Connect 2 / 2 = VII / 40%
+| Connect effect 3 = MP Gain Up
+| Connect 3 / 1 = V / 20%
+| Connect 3 / 2 = VII / 25%
+
+| Magia name JP = 日輪片の句珠 
+| Magia name EN = 
+| Magia icon = Damage 4 Random Enemies
+| Magia effect 1 = Attribute Strengthened Damage 4 Random Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = VI / 282.3%
+| Magia 1 / 2 = VIII / 299.7%
+| Magia effect 2 = Magia Damage Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = Allies / 3 Turns / 24%
+| Magia 2 / 2 = Allies / 3 Turns / 28%
+| Magia effect 3 = Light Attribute Attack Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Allies / 3 Turns / 15%
+| Magia 3 / 2 = Allies / 3 Turns / 20%
+| Magia effect 4 = Anti-Debuff
+| Magia scaling 4 = -
+| Magia 4 / 1 = Allies / 3 Turns / 1 Debuff
+| Magia 4 / 2 = Allies / 3 Turns / 1 Debuff
+| Magia effect 5 = Damage Increase
+| Magia scaling 5 = 2.5%
+| Magia 5 / 1 = Self / 3 Turns / 5%
+| Magia 5 / 2 = Self / 3 Turns / 15%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 侵食のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、大蛇
+| Doppel Japanese Designer = 原案・監修：千里GAN
+| Magia2 effect 1 = Attribute Strengthened Damage 5 Random Enemies
+| Magia2 1 = X / 676%
+| Magia2 effect 2 = Magia Damage Up
+| Magia2 2 = Allies / 5 Turns / 42%
+| Magia2 effect 3 = Light Attribute Attack Up
+| Magia2 3 = Allies / 5 Turns / 35%
+| Magia2 effect 4 = Anti-Debuff
+| Magia2 4 = Allies / 5 Turns / 2 Debuffs
+| Magia2 effect 5 = Damage Increase
+| Magia2 5 = Self / 5 Turns / 30%
+| Magia2 effect 6 = MP Restore
+| Magia2 6 = Self / 49 MP
+}}

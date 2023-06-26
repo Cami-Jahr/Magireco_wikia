@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = きらきらと光の躍る場所が地平の先に広がっている<br />太陽が落ちきる前にそこへ連れていこう…彼女に相応しい場所だから…<br />うまく走れなくても置いてったりしない、一緒に行こう<br />そこはきっと素晴らしくて…誰もをきれいに輝かせてくれるから
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Rakshasi of Salvation
+| ImageSrc = 
+| Event = 
+
+| Jname = 救世のラクシャーシー
+| Rarity = 4
+| ID = 1915
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 1945
+| max_ATK = 2145
+| max_DEF = 0
+
+| image = Forest Attribute Attack Up
+| effect_name = ティンバーThrust Adept 
+| effect_name_JP = ティンバースラスト・アデプト
+| effect1 = 
+| effect2 = Forest Attribute Attack Up [V / 15%] & Accele MP Gain Up [IV / 17.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,8 +1,0 @@
-﻿{{ {{PAGENAME}} |Stats}}
-
-{{MemoriaLore
-| jp = 将来、私たちはどんな大人になるんだろう<br />どんな明日を描き、どんな幸せを見つけるんだろう<br />時には迷い、苦しむこともあると思うけれど<br />私たちの未来が笑顔に包まれていることを願って
-| en = 
-}}
-{{MemoriaTrivia|}}
-</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

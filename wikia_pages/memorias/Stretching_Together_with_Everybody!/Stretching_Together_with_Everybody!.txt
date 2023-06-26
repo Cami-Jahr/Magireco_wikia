@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「次は開脚して、前に倒れてください。背中を押しますよ…えいっ！」<br />「いててて！かごめがスパルタだぞ…さな、助けてくれっ」<br />「フェリシアさんの体が硬すぎるんだと思いますよ…？」<br />「体が柔らかいと怪我もしにくくなりますから。頑張りましょう…！」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

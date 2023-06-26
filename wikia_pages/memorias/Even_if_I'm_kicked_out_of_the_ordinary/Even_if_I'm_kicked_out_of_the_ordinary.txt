@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 見たことがないから、普通とは違うから…<br />そんなことで忌避されて…不安になったり、悲しんだりしても<br />ここにいるという価値を貶めることはなかった<br />誰もが皆、祝福に包まれて産声を上げたのだと信じるために
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

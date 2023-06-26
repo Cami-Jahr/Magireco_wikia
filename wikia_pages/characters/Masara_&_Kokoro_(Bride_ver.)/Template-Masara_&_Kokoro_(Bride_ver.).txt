@@ -35,7 +35,6 @@
 | 5star_defense_max = 8531
 | 5star_illustrator_jp = ダリク
 
-<<<<<<< Updated upstream
 | se_hp_bonus = 6556
 | se_attack_bonus = 2556
 | se_defense_bonus = 2556
@@ -105,13 +104,10 @@
 | Passive 12 effect = MP Up When Attacked By Weak Element [V / 6 MP] & MP Gain Up [III / 10%]
 
 | Active 1 icon = Light Attribute Attack Up
-| Active 1 name = ライトライズ [III]
+| Active 1 name = Light Rise [III]
 | Active 1 name JP = ライトライズ[Ⅲ]
 | Active 1 effect = Light Attribute Attack Up [III / 10%] & Attack Up [I / 5%] (Allies / 1 Turn)
 | Active 1 cooldown = 10
-=======
-
->>>>>>> Stashed changes
 
 | Connect name JP = 花束をあなたに！
 | Connect name EN = 
@@ -147,18 +143,9 @@
 | Magia 5 / 1 = Allies / 3 Turns / 1 Status Ailment
 | Magia 5 / 2 = Allies / 3 Turns / 1 Status Ailment
 
-<<<<<<< Updated upstream
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = ダイナミック・ケーキセレモニー
-| Doppel Shape = 
-| Doppel Japanese Shape = ー
-| Doppel Japanese Designer = ………
-=======
 | Magia2 name JP = ダイナミック・ケーキセレモニー
 | Magia2 name EN = 
 | Magia2 icon = Damage All Enemies
->>>>>>> Stashed changes
 | Magia2 effect 1 = Attribute Strengthened Damage All Enemies
 | Magia2 1 = IX / 869%
 | Magia2 effect 2 = Attack Up

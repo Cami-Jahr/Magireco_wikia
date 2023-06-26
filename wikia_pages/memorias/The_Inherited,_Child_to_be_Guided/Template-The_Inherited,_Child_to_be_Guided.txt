@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Inherited, Child to be Guided
+| ImageSrc = 
+| Event = 
+
+| Jname = 受け継がれ、子を導き
+| Rarity = 4
+| ID = 1911
+| Illust = 千里GAN
+| Owner = 
+
+| min_HP = 860
+| min_ATK = 0
+| min_DEF = 940
+| max_HP = 2150
+| max_ATK = 0
+| max_DEF = 2350
+
+| image = Magia Damage Up
+| effect_name = L Doppel Up 
+| effect_name_JP = Lドッペル・アップ
+| effect1 = Magia Damage Up [VI / 17.5%] & Doppel Damage Up [VI / 30%] & Light Attribute Attack Up [X / 27.5%] (Self / 1 Turn)
+| effect2 = Magia Damage Up [VII / 20%] & Doppel Damage Up [VII / 35%] & Light Attribute Attack Up [XI / 30%] (Self / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 8
+}}

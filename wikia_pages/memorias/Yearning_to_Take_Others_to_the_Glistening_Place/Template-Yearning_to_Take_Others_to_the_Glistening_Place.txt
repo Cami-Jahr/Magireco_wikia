@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Yearning to Take Others to the Glistening Place
+| ImageSrc = 
+| Event = 
+
+| Jname = 輝く場所へ連れていきたい
+| Rarity = 3
+| ID = 1912
+| Illust = -
+| Owner = 
+
+| min_HP = 620
+| min_ATK = 0
+| min_DEF = 740
+| max_HP = 1550
+| max_ATK = 0
+| max_DEF = 1850
+
+| image = Damage Cut
+| effect_name = ソリッド ディフェンス 
+| effect_name_JP = ソリッド・ディフェンス
+| effect1 = Damage Cut [II / 10%] & Defense Up [I / 7.5%] & Attack Down [III / 15%] (Self / 3 Turns)
+| effect2 = Damage Cut [III / 15%] & Defense Up [II / 15%] & Attack Down [III / 15%] (Self / 3 Turns)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

@@ -345,6 +345,8 @@ jp_to_en = {
     "フレイムグリッター": "Flame Glitter",
     "ウェポンブラスト": "Weapon Blast",
     "バーサク・ライズ": "Berserk Rise",
+    "ライトライズ": "Light Rise",
+    "ライトブレイク": "Light Break",
     "アンチ": "Anti",
     "・": " ",
     "[": " [",
@@ -446,7 +448,9 @@ jp_to_en = {
     "フレイム": "Flame",
     "アクア": "Aqua",
     "サマー": "Summer",
-    "メモリーズ": "Memories"
+    "メモリーズ": "Memories",
+    "グリッター": "Glitter",
+    "ライト": "Light"
 }
 
 # Subset of good effects that might be chance to happen

@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Stretching Together with Everybody!
+| ImageSrc = 
+| Event = 
+
+| Jname = みんなで一緒にストレッチ！
+| Rarity = 4
+| ID = 1909
+| Illust = -
+| Owner = 
+
+| min_HP = 1020
+| min_ATK = 740
+| min_DEF = 0
+| max_HP = 2550
+| max_ATK = 1850
+| max_DEF = 0
+
+| image = Counter
+| effect_name = バトルワイズ 
+| effect_name_JP = バトルワイズ
+| effect1 = Strengthened Counter [VI / 35%] & Chance to Provoke [VI / 35%]
+| effect2 = Strengthened Counter [VII / 40%] & Chance to Provoke [VII / 40%]
+| Cooldown = 
+| Cooldown2 = 
+}}

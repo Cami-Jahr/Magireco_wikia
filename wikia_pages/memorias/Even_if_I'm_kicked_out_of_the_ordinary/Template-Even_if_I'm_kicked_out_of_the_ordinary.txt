@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Even if I'm kicked out of the ordinary
+| ImageSrc = 
+| Event = 
+
+| Jname = 普通から弾き出されても
+| Rarity = 3
+| ID = 1910
+| Illust = 都筑禰己
+| Owner = Toyo
+
+| min_HP = 501
+| min_ATK = 0
+| min_DEF = 461
+| max_HP = 1252
+| max_ATK = 0
+| max_DEF = 1152
+
+| image = Accele Draw
+| effect_name = Accele Draw
+| effect_name_JP = アクセルドロー
+| effect1 = Accele Draw
+| effect2 = Accele Draw
+| Cooldown = 5
+| Cooldown2 = 4
+}}

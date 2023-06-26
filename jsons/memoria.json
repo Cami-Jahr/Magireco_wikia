@@ -56867,7 +56867,7 @@
   "1736": {
     "pieceId": 1736,
     "rank": "RANK_4",
-    "__update__": "2023-01-10T07:20:24.329Z",
+    "__update__": "2023-06-26T07:49:45.469Z",
     "pieceType": "SKILL",
     "pieceKind": "EVENT",
     "pieceName": "錬金術士コンビ参上！",
@@ -56915,7 +56915,8 @@
         "genericValue": "EVENT_DAILYTOWER_1182_EXCHANGE_1"
       },
       "eventDescription": "＆「想いを記すもの」追加獲得数＋5",
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 173601,
     "pieceSkill2": {
@@ -56957,7 +56958,8 @@
         "genericValue": "EVENT_DAILYTOWER_1182_EXCHANGE_1"
       },
       "eventDescription": "＆「想いを記すもの」追加獲得数＋15",
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "「探しましたよ。近所で遊んでるのかと思ったら、まさかこんな…」＠「聞けばキューブも一緒じゃないって言うし、僕たち心配したよ！」＠「魔女に会ったら普通の人間は太刀打ちできないわ。火遊びはダメよ」＠「それを言ったら僕も普通の人間だけどね…」",
     "illustrator": "―",
@@ -67401,7 +67403,7 @@
   "1860": {
     "pieceId": 1860,
     "rank": "RANK_3",
-    "__update__": "2023-02-10T14:32:18.531Z",
+    "__update__": "2023-06-17T01:51:02.257Z",
     "pieceType": "ABILITY",
     "pieceName": "三者三様の愛の形",
     "attributeId": "ALL",
@@ -67442,7 +67444,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 186001,
     "pieceSkill2": {
@@ -67471,7 +67474,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "出会ったとき、絶望の中で俯いていた…それだけの３人＠見た目、年齢、性格、そして用意したチョコ、すべてがバラバラ＠それでもしっかりと込められた愛情を感じながら＠この出会いがいかに奇跡だったかを実感する",
     "illustrator": "都筑禰己",
@@ -68797,7 +68801,7 @@
   "1877": {
     "pieceId": 1877,
     "rank": "RANK_4",
-    "__update__": "2023-03-20T10:10:01.031Z",
+    "__update__": "2023-06-19T08:13:01.817Z",
     "pieceType": "SKILL",
     "pieceName": "何気ない１日のシメ",
     "attributeId": "ALL",
@@ -68833,7 +68837,8 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 187701,
     "pieceSkill2": {
@@ -68864,7 +68869,8 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "「シメのスイーツはいかがかしらぁ？」＠「相変わらず突然だな八雲。自分はもう寝るところなのだが」＠「最高のケーキのアイデアが浮かんだの。だからすぐに試したくって」＠「冷静に考えるとめちゃくちゃだが…その笑顔は無碍にできんな…」",
     "illustrator": "―",
@@ -71528,5 +71534,529 @@
     "description": "笑顔で海辺を歩く人たちを見て、幸せってなんだろうと考える＠人それぞれ、いろんな形がある…わかってはいるはずなのに＠なかなか自分の答えがまとめられない＠こんな時…まさらなら、どんな風に考えるんだろう",
     "illustrator": "―",
     "openDate": "2023/06/09 15:10:00"
+  },
+  "1909": {
+    "pieceId": 1909,
+    "rank": "RANK_4",
+    "__update__": "2023-06-19T08:13:01.817Z",
+    "pieceType": "ABILITY",
+    "pieceName": "みんなで一緒にストレッチ！",
+    "attributeId": "ALL",
+    "attack": 740,
+    "defense": 0,
+    "hp": 1020,
+    "skillId": 190900,
+    "pieceSkill": {
+      "id": 190900,
+      "groupId": 1125,
+      "name": "バトルワイズ[Ⅵ]",
+      "type": "ABILITY",
+      "shortDescription": "確率で強化カウンター[Ⅵ] & 確率で挑発[Ⅵ]",
+      "artId1": 690218506,
+      "art1": {
+        "artId": 690218506,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "COUNTER",
+        "targetId": "SELF",
+        "effectValue": 1200,
+        "growPoint": 0,
+        "probability": 350
+      },
+      "artId2": 690207506,
+      "art2": {
+        "artId": 690207506,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROVOKE",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 350
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 190901,
+    "pieceSkill2": {
+      "id": 190901,
+      "groupId": 1125,
+      "name": "バトルワイズ[Ⅶ]",
+      "type": "ABILITY",
+      "shortDescription": "確率で強化カウンター[Ⅶ] & 確率で挑発[Ⅶ]",
+      "artId1": 690218507,
+      "art1": {
+        "artId": 690218507,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "COUNTER",
+        "targetId": "SELF",
+        "effectValue": 1200,
+        "growPoint": 0,
+        "probability": 400
+      },
+      "artId2": 690207507,
+      "art2": {
+        "artId": 690207507,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROVOKE",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 400
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「次は開脚して、前に倒れてください。背中を押しますよ…えいっ！」＠「いててて！かごめがスパルタだぞ…さな、助けてくれっ」＠「フェリシアさんの体が硬すぎるんだと思いますよ…？」＠「体が柔らかいと怪我もしにくくなりますから。頑張りましょう…！」",
+    "illustrator": "―",
+    "openDate": "2023/06/19 15:10:00"
+  },
+  "1910": {
+    "pieceId": 1910,
+    "rank": "RANK_3",
+    "__update__": "2023-06-26T07:54:10.837Z",
+    "pieceName": "普通から弾き出されても",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "charaIds": "1052",
+    "charaList": [
+      {
+        "charaId": 1052,
+        "name": "トヨ"
+      }
+    ],
+    "attack": 0,
+    "defense": 461,
+    "hp": 501,
+    "skillId": 191000,
+    "pieceSkill": {
+      "id": 191000,
+      "groupId": 1166,
+      "name": "アクセルドロー",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "Acceleドロー",
+      "messageId": 70,
+      "artId1": 700211800,
+      "art1": {
+        "artId": 700211800,
+        "verbCode": "DRAW",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 191001,
+    "pieceSkill2": {
+      "id": 191001,
+      "groupId": 1166,
+      "name": "アクセルドロー",
+      "type": "SKILL",
+      "intervalTurn": 4,
+      "shortDescription": "Acceleドロー",
+      "messageId": 70,
+      "artId1": 700211800,
+      "art1": {
+        "artId": 700211800,
+        "verbCode": "DRAW",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "見たことがないから、普通とは違うから…＠そんなことで忌避されて…不安になったり、悲しんだりしても＠ここにいるという価値を貶めることはなかった＠誰もが皆、祝福に包まれて産声を上げたのだと信じるために",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/06/26 15:10:00"
+  },
+  "1911": {
+    "pieceId": 1911,
+    "rank": "RANK_4",
+    "__update__": "2023-06-26T07:09:06.419Z",
+    "pieceName": "受け継がれ、子を導き",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 940,
+    "hp": 860,
+    "skillId": 191100,
+    "pieceSkill": {
+      "id": 191100,
+      "groupId": 1088,
+      "name": "Lドッペル・アップ[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "マギアダメージUP[Ⅵ] & ドッペルダメージUP[Ⅵ] & 光属性攻撃力UP[Ⅹ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201406,
+      "art1": {
+        "artId": 310201406,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310218306,
+      "art2": {
+        "artId": 310218306,
+        "verbCode": "BUFF",
+        "effectCode": "DOPPEL",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 0
+      },
+      "artId3": 310221310,
+      "art3": {
+        "artId": 310221310,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_LIGHT",
+        "targetId": "SELF",
+        "effectValue": 275,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1194,
+      "eventArtId1": 1194003,
+      "eventArt1": {
+        "artId": 1194003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1194_KEY"
+      },
+      "eventDescription": "＆「夏の面影」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 191101,
+    "pieceSkill2": {
+      "id": 191101,
+      "groupId": 1088,
+      "name": "Lドッペル・アップ[Ⅶ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "マギアダメージUP[Ⅶ] & ドッペルダメージUP[Ⅶ] & 光属性攻撃力UP[XI](自/1T)",
+      "messageId": 70,
+      "artId1": 310201407,
+      "art1": {
+        "artId": 310201407,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310218307,
+      "art2": {
+        "artId": 310218307,
+        "verbCode": "BUFF",
+        "effectCode": "DOPPEL",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 0
+      },
+      "artId3": 310221311,
+      "art3": {
+        "artId": 310221311,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_LIGHT",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1194,
+      "eventArtId1": 1194004,
+      "eventArt1": {
+        "artId": 1194004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1194_KEY"
+      },
+      "eventDescription": "＆「夏の面影」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "何かに導かれるように、気づいた頃には鬼道をはじめていた＠そして、宿命に従うように才を磨き、頭角を現していく…＠食事も忘れ、寝る間も惜しみ、ただただ修練を繰り返す日々＠けれどそこに、不思議なほど孤独はなかった…",
+    "illustrator": "千里GAN",
+    "openDate": "2023/06/26 15:10:00"
+  },
+  "1912": {
+    "pieceId": 1912,
+    "rank": "RANK_3",
+    "__update__": "2023-06-26T07:09:49.122Z",
+    "pieceName": "輝く場所へ連れていきたい",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 740,
+    "hp": 620,
+    "skillId": 191200,
+    "pieceSkill": {
+      "id": 191200,
+      "groupId": 1120,
+      "name": "ソリッド・ディフェンス[Ⅱ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "ダメージカット状態[Ⅱ] & 防御力UP[Ⅰ] & 攻撃力DOWN[Ⅲ](自/3T)",
+      "messageId": 70,
+      "artId1": 630206202,
+      "art1": {
+        "artId": 630206202,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 330201201,
+      "art2": {
+        "artId": 330201201,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 75,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId3": 9914,
+      "art3": {
+        "artId": 9914,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 191201,
+    "pieceSkill2": {
+      "id": 191201,
+      "groupId": 1120,
+      "name": "ソリッド・ディフェンス[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "ダメージカット状態[Ⅲ] & 防御力UP[Ⅱ] & 攻撃力DOWN[Ⅲ](自/3T)",
+      "messageId": 70,
+      "artId1": 630206203,
+      "art1": {
+        "artId": 630206203,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 330201202,
+      "art2": {
+        "artId": 330201202,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId3": 9914,
+      "art3": {
+        "artId": 9914,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "きらきらと光の躍る場所が地平の先に広がっている＠太陽が落ちきる前にそこへ連れていこう…彼女に相応しい場所だから…＠うまく走れなくても置いてったりしない、一緒に行こう＠そこはきっと素晴らしくて…誰もをきれいに輝かせてくれるから",
+    "illustrator": "―",
+    "openDate": "2023/06/26 15:10:00"
+  },
+  "1913": {
+    "pieceId": 1913,
+    "rank": "RANK_4",
+    "__update__": "2023-06-26T07:06:45.323Z"
+  },
+  "1914": {
+    "pieceId": 1914,
+    "rank": "RANK_3",
+    "__update__": "2023-06-26T07:25:44.046Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "記憶の中の温もりは蘇り",
+    "attributeId": "ALL",
+    "attack": 584,
+    "defense": 0,
+    "hp": 644,
+    "skillId": 191400,
+    "pieceSkill": {
+      "id": 191400,
+      "groupId": 1134,
+      "name": "インビジブル・レジスト[Ⅶ]",
+      "type": "ABILITY",
+      "shortDescription": "確率で回避無効[Ⅶ] & 状態異常耐性UP[Ⅲ]",
+      "artId1": 690216207,
+      "art1": {
+        "artId": 690216207,
+        "verbCode": "IGNORE",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 550
+      },
+      "artId2": 390201503,
+      "art2": {
+        "artId": 390201503,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1194,
+      "eventArtId1": 1194001,
+      "eventArt1": {
+        "artId": 1194001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1194_KEY"
+      },
+      "eventDescription": "＆「夏の面影」追加獲得数＋1",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 191401,
+    "pieceSkill2": {
+      "id": 191401,
+      "groupId": 1134,
+      "name": "インビジブル・レジスト[Ⅶ]",
+      "type": "ABILITY",
+      "shortDescription": "確率で回避無効[Ⅶ] & 状態異常耐性UP[Ⅲ]",
+      "artId1": 690216207,
+      "art1": {
+        "artId": 690216207,
+        "verbCode": "IGNORE",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 550
+      },
+      "artId2": 390201503,
+      "art2": {
+        "artId": 390201503,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1194,
+      "eventArtId1": 1194002,
+      "eventArt1": {
+        "artId": 1194002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1194_KEY"
+      },
+      "eventDescription": "＆「夏の面影」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "この子が赤ん坊だったときに、私は抱きかかえたことがあった＠この子が立てるようになったときに、膝の上で寝かしたことがあった＠あのときも今も、私は満足に母親をやれていないことでしょう…＠壊してしまいそうで、ちゃんと頭を撫でることすらできないのですから",
+    "illustrator": "こざくら",
+    "openDate": "2023/06/26 15:10:00"
+  },
+  "1915": {
+    "pieceId": 1915,
+    "rank": "RANK_4",
+    "__update__": "2023-06-26T07:07:55.846Z",
+    "pieceType": "ABILITY",
+    "pieceName": "救世のラクシャーシー",
+    "attributeId": "ALL",
+    "attack": 858,
+    "defense": 0,
+    "hp": 778,
+    "skillId": 191500,
+    "pieceSkill": {
+      "id": 191500,
+      "groupId": 1237,
+      "name": "ティンバースラスト・アデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "木属性攻撃力UP[Ⅴ] & Accele MPUP[Ⅳ]",
+      "artId1": 390221805,
+      "art1": {
+        "artId": 390221805,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_TIMBER",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25
+      },
+      "artId2": 390201604,
+      "art2": {
+        "artId": 390201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 191501,
+    "pieceSkill2": {
+      "id": 191501,
+      "groupId": 1237,
+      "name": "ティンバースラスト・アデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "木属性攻撃力UP[Ⅴ] & Accele MPUP[Ⅳ]",
+      "artId1": 390221805,
+      "art1": {
+        "artId": 390221805,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_TIMBER",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25
+      },
+      "artId2": 390201604,
+      "art2": {
+        "artId": 390201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "人々を救う特別な存在であることを求められたが、特別になれなかった＠打ち負かされ、一度はすべてを諦めたはずだったが＠たったひとりの特別な存在…彼女を守るために再び救世主の道を行く＠それが自分の存在証明になると、どこかで期待して",
+    "illustrator": "―",
+    "openDate": "2023/06/26 15:10:00"
   }
 }
