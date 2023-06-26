@@ -103,10 +103,10 @@
 | Passive 12 name JP = レジストサークルオーラ[Ⅱ]
 | Passive 12 effect = Status Ailment Resistance Up [II / 15%] (Allies / 5 Turns on Battle Start)
 
-| Active 1 icon = Dark Defense Down
+| Active 1 icon = Dark Attribute Resistance Down
 | Active 1 name = Dark Erosion [III]
 | Active 1 name JP = ダークイロージョン[Ⅲ]
-| Active 1 effect = Dark Defense Down [III / 10%] (All Enemies / 5 Turns)
+| Active 1 effect = Dark Attribute Resistance Down [III / 10%] (All Enemies / 5 Turns)
 | Active 1 cooldown = 9
 
 | Connect name JP = 共同捜査開始ですの！

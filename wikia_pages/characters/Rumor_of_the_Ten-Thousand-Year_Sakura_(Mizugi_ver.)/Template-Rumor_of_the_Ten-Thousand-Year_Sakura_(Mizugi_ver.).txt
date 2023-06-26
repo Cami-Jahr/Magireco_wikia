@@ -106,7 +106,7 @@
 | Active 1 icon = Defense Down
 | Active 1 name = Light Fall [III]
 | Active 1 name JP = ライトフォール[Ⅲ]
-| Active 1 effect = Defense Down [III / 15%] & Light Defense Down [III / 18%] (Target / 3 Turns)
+| Active 1 effect = Defense Down [III / 15%] & Light Attribute Resistance Down [III / 18%] (Target / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = ｜いい思い出にしよう｜

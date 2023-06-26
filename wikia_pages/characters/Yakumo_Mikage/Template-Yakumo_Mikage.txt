@@ -111,7 +111,7 @@
 | Active 1 icon = Defense Down
 | Active 1 name = Dark Fall [III]
 | Active 1 name JP = ダークフォール[Ⅲ]
-| Active 1 effect = Defense Down [III / 15%] & Dark Defense Down [III / 18%] (Target / 3 Turns)
+| Active 1 effect = Defense Down [III / 15%] & Dark Attribute Resistance Down [III / 18%] (Target / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = ミィが手伝ったげよっか？

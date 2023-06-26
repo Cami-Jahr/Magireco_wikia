@@ -1,5 +1,5 @@
 ﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
-| name = Even if I'm kicked out of the ordinary
+| name = Even if I'm Kicked Out of the Ordinary
 | ImageSrc = 
 | Event = 
 

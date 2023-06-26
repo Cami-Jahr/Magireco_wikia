@@ -103,10 +103,10 @@
 | Passive 12 name JP = チャーム・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
 
-| Active 1 icon = Forest Defense Down
+| Active 1 icon = Forest Attribute Resistance Down
 | Active 1 name = Timber Erosion [III]
 | Active 1 name JP = ティンバーイロージョン[Ⅲ]
-| Active 1 effect = Forest Defense Down [III / 10%] & Status Ailment Resistance Down [III / 10%] (All Enemies / 5 Turns)
+| Active 1 effect = Forest Attribute Resistance Down [III / 10%] & Status Ailment Resistance Down [III / 10%] (All Enemies / 5 Turns)
 | Active 1 cooldown = 9
 
 | Connect name JP = 一緒に想いを届けよう

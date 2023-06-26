@@ -103,10 +103,10 @@
 | Passive 12 name JP = ライトライジング・オーラ[Ⅴ]
 | Passive 12 effect = Light Attribute Attack Up [V / 15%] & Magia Damage Up [II / 12%] (Allies / ∞ Turns on Battle Start)
 
-| Active 1 icon = Light Defense Down
+| Active 1 icon = Light Attribute Resistance Down
 | Active 1 name = Light Break [II]
 | Active 1 name JP = ライトブレイク[Ⅱ]
-| Active 1 effect = Light Defense Down [I / 8%] & Light Defense Down Further [II / 13%] (Target / 3 Turns)
+| Active 1 effect = Light Attribute Resistance Down [II / 13%] (Target / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = 吾らが次代を照らさん

@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = この子が赤ん坊だったときに、私は抱きかかえたことがあった<br />この子が立てるようになったときに、膝の上で寝かしたことがあった<br />あのときも今も、私は満足に母親をやれていないことでしょう…<br />壊してしまいそうで、ちゃんと頭を撫でることすらできないのですから
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -111,7 +111,7 @@
 | Active 1 icon = Defense Down
 | Active 1 name = Aqua Fall [III]
 | Active 1 name JP = アクアフォール[Ⅲ]
-| Active 1 effect = Defense Down [III / 15%] & Aqua Defense Down [III / 18%] (Target / 3 Turns)
+| Active 1 effect = Defense Down [III / 15%] & Aqua Attribute Resistance Down [III / 18%] (Target / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = プレイヤー２参戦！

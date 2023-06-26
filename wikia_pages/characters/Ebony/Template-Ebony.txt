@@ -129,7 +129,7 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = VI / 896%
 | Magia 1 / 2 = VIII / 960%
-| Magia effect 2 = Dark Defense Down
+| Magia effect 2 = Dark Attribute Resistance Down
 | Magia scaling 2 = -
 | Magia 2 / 1 = Target / 2 Turns / 4%
 | Magia 2 / 2 = Target / 2 Turns / 4%
@@ -150,7 +150,7 @@
 | Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
 | Magia2 effect 1 = Attribute Strengthened Damage One Enemy
 | Magia2 1 = X / 2340.8%
-| Magia2 effect 2 = Dark Defense Down
+| Magia2 effect 2 = Dark Attribute Resistance Down
 | Magia2 2 = Target / 3 Turns / 8%
 | Magia2 effect 3 = Attack Up
 | Magia2 3 = Allies / 5 Turns / 35%

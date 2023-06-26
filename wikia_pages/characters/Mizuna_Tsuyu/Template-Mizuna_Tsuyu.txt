@@ -106,7 +106,7 @@
 | Active 1 icon = Remove Buffs
 | Active 1 name = Aqua Break [III]
 | Active 1 name JP = アクア・ブレイク[Ⅲ]
-| Active 1 effect = Remove Buffs (Target) & Aqua Defense Down [III / 18%] (Target / 3 Turns)
+| Active 1 effect = Remove Buffs (Target) & Aqua Attribute Resistance Down [III / 18%] (Target / 3 Turns)
 | Active 1 cooldown = 9
 
 | Connect name JP = 二振りの刃となりましょう
