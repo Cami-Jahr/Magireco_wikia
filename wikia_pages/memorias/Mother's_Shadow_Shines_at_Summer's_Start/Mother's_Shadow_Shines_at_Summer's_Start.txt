@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = いつだったか…夜空いっぱいに蛍の光を見せてあげると言われたのだ<br />吾を元気づけるための、他愛もない冗談だと思っていたのに<br />かか様は残りのすべてをかけて約束を果たしてくれたのだ…<br />なあ、かか様…吾はひとりでも元気にやっているのだ
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

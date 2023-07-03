@@ -43333,7 +43333,7 @@
   "1579": {
     "pieceId": 1579,
     "rank": "RANK_4",
-    "__update__": "2021-01-13T11:37:34.058Z",
+    "__update__": "2023-07-03T09:27:28.089Z",
     "pieceType": "ABILITY",
     "pieceName": "記録の先へ導いて",
     "attributeId": "ALL",
@@ -43367,7 +43367,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 157901,
     "pieceSkill2": {
@@ -43396,7 +43397,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "戦いの中で知った女の子、揺られた先にあるもうひとつの町＠争い、助け、起こるひとつひとつの出来事が＠互いに知らなかった星々をまとめると、一筋の糸になって結ばれる＠これはそんな運命の連なり…（アニメ公式ガイドブック発売記念）",
     "illustrator": "谷口淳一郎",
@@ -60561,7 +60563,7 @@
   "1779": {
     "pieceId": 1779,
     "rank": "RANK_4",
-    "__update__": "2022-06-29T14:33:11.590Z",
+    "__update__": "2023-06-26T10:55:44.840Z",
     "pieceType": "ABILITY",
     "pieceName": "誰も知らない、私たちの記録",
     "attributeId": "ALL",
@@ -60616,7 +60618,8 @@
         "growPoint": 10,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 177901,
     "pieceSkill2": {
@@ -60655,7 +60658,8 @@
         "growPoint": 10,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "Blu-ray&DVD 第2巻 描き下ろしジャケットイラスト2＠（TVアニメ Final SEASON）",
     "illustrator": "谷口淳一郎",
@@ -71892,7 +71896,94 @@
   "1913": {
     "pieceId": 1913,
     "rank": "RANK_4",
-    "__update__": "2023-06-26T07:06:45.323Z"
+    "__update__": "2023-07-03T09:13:58.930Z",
+    "pieceName": "夏のはじまりに母の影光り",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 738,
+    "defense": 0,
+    "hp": 898,
+    "skillId": 191300,
+    "pieceSkill": {
+      "id": 191300,
+      "groupId": 1170,
+      "name": "クライシス・カバー[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "確率でかばう[Ⅲ] & 瀕死時攻撃力UP[Ⅳ] & 瀕死時防御力UP[Ⅲ]",
+      "artId1": 690213203,
+      "art1": {
+        "artId": 690213203,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROTECT",
+        "targetId": "ONE",
+        "growPoint": 0,
+        "probability": 200
+      },
+      "artId2": 390202904,
+      "art2": {
+        "artId": 390202904,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId3": 390203003,
+      "art3": {
+        "artId": 390203003,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 191301,
+    "pieceSkill2": {
+      "id": 191301,
+      "groupId": 1170,
+      "name": "クライシス・カバー[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "確率でかばう[Ⅲ] & 瀕死時攻撃力UP[Ⅳ] & 瀕死時防御力UP[Ⅲ]",
+      "artId1": 690213203,
+      "art1": {
+        "artId": 690213203,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROTECT",
+        "targetId": "ONE",
+        "growPoint": 0,
+        "probability": 200
+      },
+      "artId2": 390202904,
+      "art2": {
+        "artId": 390202904,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId3": 390203003,
+      "art3": {
+        "artId": 390203003,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "いつだったか…夜空いっぱいに蛍の光を見せてあげると言われたのだ＠吾を元気づけるための、他愛もない冗談だと思っていたのに＠かか様は残りのすべてをかけて約束を果たしてくれたのだ…＠なあ、かか様…吾はひとりでも元気にやっているのだ",
+    "illustrator": "―",
+    "openDate": "2023/06/26 15:10:00"
   },
   "1914": {
     "pieceId": 1914,

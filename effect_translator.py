@@ -451,7 +451,9 @@ jp_to_en = {
     "サマー": "Summer",
     "メモリーズ": "Memories",
     "グリッター": "Glitter",
-    "ライト": "Light"
+    "ライト": "Light",
+    "クライシス": "Crisis",
+    "カバー": "Cover"
 }
 
 # Subset of good effects that might be chance to happen

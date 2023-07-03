@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Mother's Shadow Shines at Summer's Start
+| ImageSrc = 
+| Event = 
+
+| Jname = 夏のはじまりに母の影光り
+| Rarity = 4
+| ID = 1913
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2245
+| max_ATK = 1845
+| max_DEF = 0
+
+| image = Guardian
+| effect_name = Crisis Cover 
+| effect_name_JP = クライシス・カバー
+| effect1 = 
+| effect2 = Chance to Guardian [III / 20%] & Attack Up When At Critical Health [IV / 25%] & Defense Up When At Critical Health [III / 40%]
+| Cooldown = 
+| Cooldown2 = 
+}}
