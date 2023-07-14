@@ -900,5 +900,7 @@
 1913;Mother's Shadow Shines at Summer's Start
 1914;The Warmth in my Memories Is Reborn
 1915;Rakshasi of Salvation
+1917;Summer Final Memory
+1918;To Admire Large Purchases
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「ふふん、今度あやめも大人買いをやってみるといいのです！<br />とても気分が良いのです！…ただ、お小遣いは多少必要なのです」<br />「うん、うん！まずはコツコツお小遣いを貯めないとね！」<br />「あやめには絶対ムリだろ」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

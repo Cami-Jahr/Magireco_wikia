@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Summer Final Memory
+| ImageSrc = 
+| Event = 
+
+| Jname = ファイナルサマーメモリー
+| Rarity = 4
+| ID = 1917
+| Illust = -
+| Owner = 
+
+| min_HP = 820
+| min_ATK = 0
+| min_DEF = 980
+| max_HP = 2050
+| max_ATK = 0
+| max_DEF = 2450
+
+| image = Provoke
+| effect_name = ディリジェンス アピール 
+| effect_name_JP = ディリジェンス・アピール
+| effect1 = Provoke & Defense Up [VII / 52.5%] & MP Gain Up [VII / 20%] (Self / 1 Turn)
+| effect2 = Provoke & Defense Up [VIII / 60%] & MP Gain Up [VIII / 22.5%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}
