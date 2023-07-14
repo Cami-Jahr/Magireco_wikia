@@ -111,7 +111,7 @@
 | Active 1 icon = Charged Attack Damage Up
 | Active 1 name = Unbreakable Charge [III]
 | Active 1 name JP = アンブレイカブルチャージ[Ⅲ]
-| Active 1 effect = Charged Attack Damage Up [III / 10%] & Charge Conservation [III / 100%] (Self / 1 Turn)
+| Active 1 effect = Charged Attack Damage Up [III / 10%] & Charge Conservation (Self / 1 Turn)
 | Active 1 cooldown = 10
 
 | Connect name JP = ふたりなら生命力も倍増さ
@@ -124,8 +124,8 @@
 | Connect 2 / 1 = 100%
 | Connect 2 / 2 = 100%
 | Connect effect 3 = Charge Conservation
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = オープン・エクソシズムバスター
 | Magia name EN = 
@@ -156,5 +156,5 @@
 | Magia2 effect 3 = Blast Damage Up
 | Magia2 3 = Allies / 3 Turns / 65%
 | Magia2 effect 4 = Charge Conservation
-| Magia2 4 = Self / 3 Turns / 100%
+| Magia2 4 = Self / 3 Turns
 }}

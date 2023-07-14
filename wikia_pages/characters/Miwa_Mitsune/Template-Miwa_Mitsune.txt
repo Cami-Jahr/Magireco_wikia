@@ -116,7 +116,7 @@
 | Active 1 icon = Charge Conservation
 | Active 1 name = Unbreakable Charge
 | Active 1 name JP = アンブレイカブルチャージ
-| Active 1 effect = Charge Conservation [100%] (Self / 1 Turn)
+| Active 1 effect = Charge Conservation (Self / 1 Turn)
 | Active 1 cooldown = 6
 
 | Connect name JP = まずはコンビネーションかなｗ
@@ -129,8 +129,8 @@
 | Connect 2 / 1 = V / 20%
 | Connect 2 / 2 = VII / 25%
 | Connect effect 3 = Charge Conservation
-| Connect 3 / 1 = V / 100%
-| Connect 3 / 2 = VII / 100%
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = ハッキング・ライオット
 | Magia name EN = 

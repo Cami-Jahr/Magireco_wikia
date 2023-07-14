@@ -453,7 +453,8 @@ jp_to_en = {
     "グリッター": "Glitter",
     "ライト": "Light",
     "クライシス": "Crisis",
-    "カバー": "Cover"
+    "カバー": "Cover",
+    "ダーク": "Dark"
 }
 
 # Subset of good effects that might be chance to happen
@@ -588,7 +589,7 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                 if pro and (val >= 100 or val == 0):
                     if effect_code in ("BARRIER",):
                         effect = val
-                    elif verb_code in ("DRAW",) or effect_code in ("GUTS",):
+                    elif verb_code in ("DRAW",) or effect_code in ("GUTS",  "NO_COST_CHARGE"):
                         effect = ""
                     elif effect_code in ("C_COMBO_PLUS",):
                         effect = int(val/100)
@@ -609,7 +610,8 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                     text = "Chance to " + text
                     if pro >= 100:
                         uses_roman = False
-            if include_100_percent and effect == "" and verb_code not in ("REVOKE",) and effect_code not in ("IMITATE_ATTRIBUTE",):
+            if include_100_percent and effect == "" and verb_code not in ("REVOKE",) and effect_code not in (
+                    "IMITATE_ATTRIBUTE",  "NO_COST_CHARGE"):
                 effect = "100"
 
             if effect != "":

@@ -160,7 +160,7 @@
 | Magia2 effect 3 = Aqua Attribute Attack Up
 | Magia2 3 = Self / 5 Turns / 40%
 | Magia2 effect 4 = Charge Conservation
-| Magia2 4 = Self / 2 Turns / 100%
+| Magia2 4 = Self / 2 Turns
 | Magia2 effect 5 = HP Restore
 | Magia2 5 = Self / 38%
 }}

@@ -140,8 +140,8 @@
 | Magia 4 / 2 = Allies / 3 Turns / 20%
 | Magia effect 5 = Charge Conservation
 | Magia scaling 5 = -
-| Magia 5 / 1 = Allies / 2 Turns / 100%
-| Magia 5 / 2 = Allies / 2 Turns / 100%
+| Magia 5 / 1 = Allies / 2 Turns
+| Magia 5 / 2 = Allies / 2 Turns
 
 | Doppel Name = 
 | Doppel Title = 
@@ -158,5 +158,5 @@
 | Magia2 effect 4 = Blast Damage Up
 | Magia2 4 = Allies / 5 Turns / 35%
 | Magia2 effect 5 = Charge Conservation
-| Magia2 5 = Allies / 2 Turns / 100%
+| Magia2 5 = Allies / 2 Turns
 }}

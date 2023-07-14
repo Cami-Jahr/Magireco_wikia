@@ -167,5 +167,5 @@
 | Magia2 effect 4 = Chance to Defense Pierce
 | Magia2 4 = Self / 5 Turns / 50%
 | Magia2 effect 5 = Charge Conservation
-| Magia2 5 = Self / 2 Turns / 100%
+| Magia2 5 = Self / 2 Turns
 }}

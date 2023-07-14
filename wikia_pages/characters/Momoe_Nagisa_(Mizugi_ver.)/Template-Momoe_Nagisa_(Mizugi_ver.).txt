@@ -99,7 +99,7 @@
 | Passive 11 effect = Charge Combo Charge Count Up [+4]
 
 | Passive 12 icon = Dark Attribute Attack Up
-| Passive 12 name = ダーク Full Swing Up [V]
+| Passive 12 name = Dark Full Swing Up [V]
 | Passive 12 name JP = ダーク・フルスウィング[Ⅴ]
 | Passive 12 effect = Dark Attribute Attack Up [V / 15%] & Blast Damage Up [I / 15%] & Charged Attack Damage Up [I / 10%] (Allies / 5 Turns on Battle Start)
 
@@ -119,8 +119,8 @@
 | Connect 2 / 1 = VII / 25%
 | Connect 2 / 2 = IX / 30%
 | Connect effect 3 = Charge Conservation
-| Connect 3 / 1 = VII / 100%
-| Connect 3 / 2 = IX / 100%
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
 
 | Magia name JP = ブチアゲポップランチャー
 | Magia name EN = 
@@ -139,8 +139,8 @@
 | Magia 3 / 2 = Allies / 3 Turns / 15%
 | Magia effect 4 = Charge Conservation
 | Magia scaling 4 = -
-| Magia 4 / 1 = Allies / 2 Turns / 100%
-| Magia 4 / 2 = Allies / 2 Turns / 100%
+| Magia 4 / 1 = Allies / 2 Turns
+| Magia 4 / 2 = Allies / 2 Turns
 | Magia effect 5 = Remove Buffs
 | Magia scaling 5 = -
 | Magia 5 / 1 = All Enemies
@@ -161,7 +161,7 @@
 | Magia2 effect 4 = Blast Damage Up
 | Magia2 4 = Allies / 5 Turns / 40%
 | Magia2 effect 5 = Charge Conservation
-| Magia2 5 = Allies / 2 Turns / 100%
+| Magia2 5 = Allies / 2 Turns
 | Magia2 effect 6 = MP Restore
 | Magia2 6 = Self / 44 MP
 | Magia2 effect 7 = Remove Buffs
