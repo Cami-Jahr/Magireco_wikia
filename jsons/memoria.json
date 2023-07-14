@@ -72149,5 +72149,383 @@
     "description": "人々を救う特別な存在であることを求められたが、特別になれなかった＠打ち負かされ、一度はすべてを諦めたはずだったが＠たったひとりの特別な存在…彼女を守るために再び救世主の道を行く＠それが自分の存在証明になると、どこかで期待して",
     "illustrator": "―",
     "openDate": "2023/06/26 15:10:00"
+  },
+  "1916": {
+    "pieceId": 1916,
+    "rank": "RANK_3",
+    "__update__": "2023-07-14T11:23:30.074Z",
+    "pieceName": "自由なあの子の忘れ物",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "charaIds": "2701",
+    "charaList": [
+      {
+        "charaId": 2701,
+        "name": "百江 なぎさ 水着ver."
+      }
+    ],
+    "attack": 461,
+    "defense": 0,
+    "hp": 501,
+    "skillId": 191600,
+    "pieceSkill": {
+      "id": 191600,
+      "groupId": 1217,
+      "name": "Cコンボプラス・モラール[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "Charge Combo時Charge数+1 & MP獲得量UP[Ⅱ]",
+      "artId1": 690219201,
+      "art1": {
+        "artId": 690219201,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "C_COMBO_PLUS",
+        "targetId": "SELF",
+        "effectValue": 1000,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 390201902,
+      "art2": {
+        "artId": 390201902,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 75,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 191601,
+    "pieceSkill2": {
+      "id": 191601,
+      "groupId": 1217,
+      "name": "Cコンボプラス・モラール[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "Charge Combo時Charge数+2 & MP獲得量UP[Ⅲ]",
+      "artId1": 690219202,
+      "art1": {
+        "artId": 690219202,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "C_COMBO_PLUS",
+        "targetId": "SELF",
+        "effectValue": 2000,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 390201903,
+      "art2": {
+        "artId": 390201903,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「あら、また置いていったのね…」＠毎日忙しなく飛び回る、この財布の持ち主は＠友人に温かく見守られながら＠今日もこの町のどこかで、楽しく自由に過ごしている",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/07/14 15:10:00"
+  },
+  "1917": {
+    "pieceId": 1917,
+    "rank": "RANK_4",
+    "__update__": "2023-07-14T07:10:35.504Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "ファイナルサマーメモリー",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 980,
+    "hp": 820,
+    "skillId": 191700,
+    "pieceSkill": {
+      "id": 191700,
+      "groupId": 1128,
+      "name": "ディリジェンス・アピール[Ⅶ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "必ず挑発 & 防御力UP[Ⅶ] & MP獲得量UP[Ⅶ](自/1T)",
+      "messageId": 70,
+      "artId1": 610207600,
+      "art1": {
+        "artId": 610207600,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROVOKE",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 310201207,
+      "art2": {
+        "artId": 310201207,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 525,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId3": 310201907,
+      "art3": {
+        "artId": 310201907,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1195,
+      "eventArtId1": 1195003,
+      "eventArt1": {
+        "artId": 1195003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1195_EXCHANGE_1"
+      },
+      "eventDescription": "＆「マジカルトリプルチーズ」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 191701,
+    "pieceSkill2": {
+      "id": 191701,
+      "groupId": 1128,
+      "name": "ディリジェンス・アピール[Ⅷ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "必ず挑発 & 防御力UP[Ⅷ] & MP獲得量UP[Ⅷ](自/1T)",
+      "messageId": 70,
+      "artId1": 610207600,
+      "art1": {
+        "artId": 610207600,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROVOKE",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 310201208,
+      "art2": {
+        "artId": 310201208,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 600,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId3": 310201908,
+      "art3": {
+        "artId": 310201908,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1195,
+      "eventArtId1": 1195004,
+      "eventArt1": {
+        "artId": 1195004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1195_EXCHANGE_1"
+      },
+      "eventDescription": "＆「マジカルトリプルチーズ」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "なぎさは知っているのです＠みんなとずっと一緒にはいられないこと＠いつかは、この楽しい時間が思い出になってしまうこと＠だから“その日”が来るまで、笑顔で、もっと弾けて過ごすのです！",
+    "illustrator": "―",
+    "openDate": "2023/07/14 15:10:00"
+  },
+  "1918": {
+    "pieceId": 1918,
+    "rank": "RANK_3",
+    "__update__": "2023-07-14T07:11:22.179Z",
+    "pieceName": "大人買いに憧れて",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 650,
+    "defense": 0,
+    "hp": 680,
+    "skillId": 191800,
+    "pieceSkill": {
+      "id": 191800,
+      "groupId": 1129,
+      "name": "リジェネレイト・ブレイド[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "HP自動回復[Ⅱ] & 与えるダメージUP[Ⅱ]",
+      "artId1": 690207702,
+      "art1": {
+        "artId": 690207702,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 30,
+        "growPoint": 10,
+        "probability": 1000
+      },
+      "artId2": 390201302,
+      "art2": {
+        "artId": 390201302,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 191801,
+    "pieceSkill2": {
+      "id": 191801,
+      "groupId": 1129,
+      "name": "リジェネレイト・ブレイド[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "HP自動回復[Ⅲ] & 与えるダメージUP[Ⅲ]",
+      "artId1": 690207703,
+      "art1": {
+        "artId": 690207703,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 40,
+        "growPoint": 10,
+        "probability": 1000
+      },
+      "artId2": 390201303,
+      "art2": {
+        "artId": 390201303,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「ふふん、今度あやめも大人買いをやってみるといいのです！＠とても気分が良いのです！…ただ、お小遣いは多少必要なのです」＠「うん、うん！まずはコツコツお小遣いを貯めないとね！」＠「あやめには絶対ムリだろ」",
+    "illustrator": "―",
+    "openDate": "2023/07/14 15:10:00"
+  },
+  "1919": {
+    "pieceId": 1919,
+    "rank": "RANK_4",
+    "__update__": "2023-07-14T07:06:33.665Z"
+  },
+  "1920": {
+    "pieceId": 1920,
+    "rank": "RANK_3",
+    "__update__": "2023-07-14T07:10:35.503Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "ありあまるユーフォリア",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 614,
+    "hp": 614,
+    "skillId": 192000,
+    "pieceSkill": {
+      "id": 192000,
+      "groupId": 1086,
+      "name": "ソリッドライズ[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "防御力UP[Ⅳ] & 状態異常耐性UP[Ⅳ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201204,
+      "art1": {
+        "artId": 330201204,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201504,
+      "art2": {
+        "artId": 330201504,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "eventId": 1195,
+      "eventArtId1": 1195001,
+      "eventArt1": {
+        "artId": 1195001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1195_EXCHANGE_1"
+      },
+      "eventDescription": "＆「マジカルトリプルチーズ」追加獲得数＋1",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 192001,
+    "pieceSkill2": {
+      "id": 192001,
+      "groupId": 1086,
+      "name": "ソリッドライズ[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "防御力UP[Ⅳ] & 状態異常耐性UP[Ⅳ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201204,
+      "art1": {
+        "artId": 330201204,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201504,
+      "art2": {
+        "artId": 330201504,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "eventId": 1195,
+      "eventArtId1": 1195002,
+      "eventArt1": {
+        "artId": 1195002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1195_EXCHANGE_1"
+      },
+      "eventDescription": "＆「マジカルトリプルチーズ」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "マジカルトリプルチーズを一口食べると＠ぐるぐると良い気分になってきて、脳みそがトロッととろけて＠このお菓子のことしか考えられなくなるのです…！＠「こんな量じゃ足りないのです…なぎさに、もっとチーズを…!!」",
+    "illustrator": "こざくら",
+    "openDate": "2023/07/14 15:10:00"
   }
 }
