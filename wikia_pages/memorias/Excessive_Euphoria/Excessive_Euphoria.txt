@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = マジカルトリプルチーズを一口食べると<br />ぐるぐると良い気分になってきて、脳みそがトロッととろけて<br />このお菓子のことしか考えられなくなるのです…！<br />「こんな量じゃ足りないのです…なぎさに、もっとチーズを…!!」
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

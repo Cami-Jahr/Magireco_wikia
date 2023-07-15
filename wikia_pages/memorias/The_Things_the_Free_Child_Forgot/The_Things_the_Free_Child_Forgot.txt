@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「あら、また置いていったのね…」<br />毎日忙しなく飛び回る、この財布の持ち主は<br />友人に温かく見守られながら<br />今日もこの町のどこかで、楽しく自由に過ごしている
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

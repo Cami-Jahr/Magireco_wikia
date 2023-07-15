@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Things the Free Child Forgot
+| ImageSrc = 
+| Event = 
+
+| Jname = 自由なあの子の忘れ物
+| Rarity = 3
+| ID = 1916
+| Illust = 都筑禰己
+| Owner = Momoe Nagisa (Mizugi ver.)
+
+| min_HP = 501
+| min_ATK = 461
+| min_DEF = 0
+| max_HP = 1252
+| max_ATK = 1152
+| max_DEF = 0
+
+| image = Charge Combo Charge Count Up
+| effect_name = C Combo Plus Morale 
+| effect_name_JP = Cコンボプラス・モラール
+| effect1 = Charge Combo Charge Count Up [+1] & MP Gain Up [II / 7.5%]
+| effect2 = Charge Combo Charge Count Up [+2] & MP Gain Up [III / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}
