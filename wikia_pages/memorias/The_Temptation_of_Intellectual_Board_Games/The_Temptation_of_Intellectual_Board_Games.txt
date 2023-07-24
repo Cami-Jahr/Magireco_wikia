@@ -1,0 +1,11 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 予想外の手を打たれても、動揺を顔に出さないよう<br />勝負事に我を忘れて、乱れた心持ちをあらわにしないよう<br />優雅に知的にたしなむ、盤上の乙女の流儀<br />「あっ、でも…サイコロ運がここまで悪いとさすがにちょっと…！」
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 5 Bonus (Item Name)
+** Max Limit Break: Gain 15 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

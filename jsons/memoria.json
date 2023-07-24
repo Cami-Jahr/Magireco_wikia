@@ -72427,7 +72427,76 @@
   "1919": {
     "pieceId": 1919,
     "rank": "RANK_4",
-    "__update__": "2023-07-14T07:06:33.665Z"
+    "__update__": "2023-07-19T12:42:53.067Z",
+    "pieceName": "小さなインフルエンサー",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 858,
+    "defense": 0,
+    "hp": 778,
+    "skillId": 191900,
+    "pieceSkill": {
+      "id": 191900,
+      "groupId": 1091,
+      "name": "フルスウィング・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "Charge後ダメージUP[Ⅳ] & Blast ダメージUP[Ⅲ]",
+      "artId1": 390201704,
+      "art1": {
+        "artId": 390201704,
+        "verbCode": "BUFF",
+        "effectCode": "CHARGE",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201803,
+      "art2": {
+        "artId": 390201803,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 191901,
+    "pieceSkill2": {
+      "id": 191901,
+      "groupId": 1091,
+      "name": "フルスウィング・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "Charge後ダメージUP[Ⅳ] & Blast ダメージUP[Ⅲ]",
+      "artId1": 390201704,
+      "art1": {
+        "artId": 390201704,
+        "verbCode": "BUFF",
+        "effectCode": "CHARGE",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201803,
+      "art2": {
+        "artId": 390201803,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「さぁみんな、全身にこのオカシコーラを浴びるのです！＠そして周りのことなんか気にしないで＠自分のやりたいことを好きなだけやっちゃえなのです!!＠というわけで…なぎさは好きなだけチーズ食べることにするのです！」",
+    "illustrator": "―",
+    "openDate": "2023/07/14 15:10:00"
   },
   "1920": {
     "pieceId": 1920,
@@ -72527,5 +72596,344 @@
     "description": "マジカルトリプルチーズを一口食べると＠ぐるぐると良い気分になってきて、脳みそがトロッととろけて＠このお菓子のことしか考えられなくなるのです…！＠「こんな量じゃ足りないのです…なぎさに、もっとチーズを…!!」",
     "illustrator": "こざくら",
     "openDate": "2023/07/14 15:10:00"
+  },
+  "1921": {
+    "pieceId": 1921,
+    "rank": "RANK_3",
+    "__update__": "2023-07-24T07:27:03.687Z",
+    "pieceType": "SKILL",
+    "pieceName": "きらめく思い出を照らす鍵",
+    "attributeId": "ALL",
+    "charaIds": "1053",
+    "charaList": [
+      {
+        "charaId": 1053,
+        "name": "アマリュリス"
+      }
+    ],
+    "attack": 0,
+    "defense": 501,
+    "hp": 461,
+    "skillId": 192100,
+    "pieceSkill": {
+      "id": 192100,
+      "groupId": 1079,
+      "name": "マナチャージ[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "MP回復[Ⅳ](自)",
+      "messageId": 70,
+      "artId1": 200200504,
+      "art1": {
+        "artId": 200200504,
+        "verbCode": "HEAL",
+        "effectCode": "MP",
+        "targetId": "SELF",
+        "effectValue": 275,
+        "growPoint": 10
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 192101,
+    "pieceSkill2": {
+      "id": 192101,
+      "groupId": 1079,
+      "name": "マナチャージ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 4,
+      "shortDescription": "MP回復[Ⅴ](自)",
+      "messageId": 70,
+      "artId1": 200200505,
+      "art1": {
+        "artId": 200200505,
+        "verbCode": "HEAL",
+        "effectCode": "MP",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 10
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "手に取って眺めていると＠まぶしい記憶が、心ときめく想いが、とめどなくあふれてゆく＠いちばん嬉しかった思い出も、いちばんつらかった思い出も＠一緒に見てきた腕輪だから",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/07/24 15:10:00"
+  },
+  "1922": {
+    "pieceId": 1922,
+    "rank": "RANK_4",
+    "__update__": "2023-07-24T07:10:11.494Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "知的盤上遊戯の誘惑",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 860,
+    "hp": 940,
+    "skillId": 192200,
+    "pieceSkill": {
+      "id": 192200,
+      "groupId": 1134,
+      "name": "インビジブル・スラッシュ[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "必ず回避無効(味全/1T) & 与えるダメージUP[Ⅵ](自/1T)",
+      "messageId": 71,
+      "artId1": 610308100,
+      "art1": {
+        "artId": 610308100,
+        "verbCode": "IGNORE",
+        "effectCode": "AVOID",
+        "targetId": "ALL",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 310201306,
+      "art2": {
+        "artId": 310201306,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1196,
+      "eventArtId1": 1196003,
+      "eventArt1": {
+        "artId": 1196003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1196_KEY"
+      },
+      "eventDescription": "＆「魔法少女の記録」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 192201,
+    "pieceSkill2": {
+      "id": 192201,
+      "groupId": 1134,
+      "name": "インビジブル・スラッシュ[Ⅶ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "必ず回避無効(味全/1T) & 与えるダメージUP[Ⅶ](自/1T)",
+      "messageId": 71,
+      "artId1": 610308100,
+      "art1": {
+        "artId": 610308100,
+        "verbCode": "IGNORE",
+        "effectCode": "AVOID",
+        "targetId": "ALL",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 310201307,
+      "art2": {
+        "artId": 310201307,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1196,
+      "eventArtId1": 1196004,
+      "eventArt1": {
+        "artId": 1196004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1196_KEY"
+      },
+      "eventDescription": "＆「魔法少女の記録」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "予想外の手を打たれても、動揺を顔に出さないよう＠勝負事に我を忘れて、乱れた心持ちをあらわにしないよう＠優雅に知的にたしなむ、盤上の乙女の流儀＠「あっ、でも…サイコロ運がここまで悪いとさすがにちょっと…！」",
+    "illustrator": "さくら小春（QP:flapper）",
+    "openDate": "2023/07/24 15:10:00"
+  },
+  "1923": {
+    "pieceId": 1923,
+    "rank": "RANK_3",
+    "__update__": "2023-07-24T07:04:27.851Z"
+  },
+  "1924": {
+    "pieceId": 1924,
+    "rank": "RANK_4",
+    "__update__": "2023-07-24T07:04:27.851Z"
+  },
+  "1925": {
+    "pieceId": 1925,
+    "rank": "RANK_3",
+    "__update__": "2023-07-24T07:10:11.483Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "守りたかった小さな世界",
+    "attributeId": "ALL",
+    "attack": 644,
+    "defense": 0,
+    "hp": 584,
+    "skillId": 192500,
+    "pieceSkill": {
+      "id": 192500,
+      "groupId": 1085,
+      "name": "スラスト・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅲ] & Accele MPUP[Ⅳ]",
+      "artId1": 390201103,
+      "art1": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201604,
+      "art2": {
+        "artId": 390201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1196,
+      "eventArtId1": 1196001,
+      "eventArt1": {
+        "artId": 1196001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1196_KEY"
+      },
+      "eventDescription": "＆「魔法少女の記録」追加獲得数＋1",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 192501,
+    "pieceSkill2": {
+      "id": 192501,
+      "groupId": 1085,
+      "name": "スラスト・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅲ] & Accele MPUP[Ⅳ]",
+      "artId1": 390201103,
+      "art1": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201604,
+      "art2": {
+        "artId": 390201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1196,
+      "eventArtId1": 1196002,
+      "eventArt1": {
+        "artId": 1196002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1196_KEY"
+      },
+      "eventDescription": "＆「魔法少女の記録」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "神の愛を拒んだ少女の予言は、決して人々に届かない＠トロイアの王女に起きた悲劇を、人はふたたび繰り返す…＠それが不可避のさだめでも、己の存在を投げうってでも＠守りたかった世界がそこにあった",
+    "illustrator": "―",
+    "openDate": "2023/07/24 15:10:00"
+  },
+  "1926": {
+    "pieceId": 1926,
+    "rank": "RANK_4",
+    "__update__": "2023-07-24T07:05:44.245Z",
+    "pieceType": "ABILITY",
+    "pieceName": "日輪の後継者",
+    "attributeId": "ALL",
+    "attack": 958,
+    "defense": 0,
+    "hp": 678,
+    "skillId": 192600,
+    "pieceSkill": {
+      "id": 192600,
+      "groupId": 1235,
+      "name": "ライトライジング・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "光属性攻撃力UP[Ⅲ] & マギアダメージUP[Ⅲ]",
+      "artId1": 390221303,
+      "art1": {
+        "artId": 390221303,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_LIGHT",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25
+      },
+      "artId2": 390201403,
+      "art2": {
+        "artId": 390201403,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 192601,
+    "pieceSkill2": {
+      "id": 192601,
+      "groupId": 1235,
+      "name": "ライトライジング・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "光属性攻撃力UP[Ⅲ] & マギアダメージUP[Ⅲ]",
+      "artId1": 390221303,
+      "art1": {
+        "artId": 390221303,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_LIGHT",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25
+      },
+      "artId2": 390201403,
+      "art2": {
+        "artId": 390201403,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "祟り神の子と呼ばれ、周囲から忌避されようと…＠あまりにも大きな困難に苦しめられようと、少女は負けはしない＠すべての者はその存在を祝われ、産声を上げたのだと証明するため＠母のかつて歩んだ道をひとり進み行く",
+    "illustrator": "―",
+    "openDate": "2023/07/24 15:10:00"
   }
 }

@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Key to Wonderful Memories
+| ImageSrc = 
+| Event = 
+
+| Jname = きらめく思い出を照らす鍵
+| Rarity = 3
+| ID = 1921
+| Illust = 都筑禰己
+| Owner = Amaryllis
+
+| min_HP = 461
+| min_ATK = 0
+| min_DEF = 501
+| max_HP = 1152
+| max_ATK = 0
+| max_DEF = 1252
+
+| image = MP Restore
+| effect_name = Mana Charge 
+| effect_name_JP = マナチャージ
+| effect1 = MP Restore [IV / 27.5 MP] (Self)
+| effect2 = MP Restore [V / 30 MP] (Self)
+| Cooldown = 5
+| Cooldown2 = 4
+}}

@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 神の愛を拒んだ少女の予言は、決して人々に届かない<br />トロイアの王女に起きた悲劇を、人はふたたび繰り返す…<br />それが不可避のさだめでも、己の存在を投げうってでも<br />守りたかった世界がそこにあった
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

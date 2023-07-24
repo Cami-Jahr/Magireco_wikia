@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「さぁみんな、全身にこのオカシコーラを浴びるのです！<br />そして周りのことなんか気にしないで<br />自分のやりたいことを好きなだけやっちゃえなのです!!<br />というわけで…なぎさは好きなだけチーズ食べることにするのです！」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

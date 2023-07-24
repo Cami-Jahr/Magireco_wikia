@@ -903,7 +903,13 @@
 1916;The Things the Free Child Forgot
 1917;Summer Final Memory
 1918;To Admire Large Purchases
-1919;
+1919;Small Influencer
 1920;Excessive Euphoria
+1921;The Key to Wonderful Memories
+1922;The Temptation of Intellectual Board Games
+1923;
+1924;
+1925;The Small World I Wanted to Protect
+1926;Successor of the Sun
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

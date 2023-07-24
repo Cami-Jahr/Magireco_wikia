@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Small World I Wanted to Protect
+| ImageSrc = 
+| Event = 
+
+| Jname = 守りたかった小さな世界
+| Rarity = 3
+| ID = 1925
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 1460
+| max_ATK = 1610
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Thrust Adept 
+| effect_name_JP = スラスト・アデプト
+| effect1 = 
+| effect2 = Attack Up [III / 15%] & Accele MP Gain Up [IV / 17.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

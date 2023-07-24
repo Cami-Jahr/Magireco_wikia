@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Successor of the Sun
+| ImageSrc = 
+| Event = 
+
+| Jname = 日輪の後継者
+| Rarity = 4
+| ID = 1926
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 1695
+| max_ATK = 2395
+| max_DEF = 0
+
+| image = Light Attribute Attack Up
+| effect_name = LightRising Adept 
+| effect_name_JP = ライトライジング・アデプト
+| effect1 = 
+| effect2 = Light Attribute Attack Up [III / 10%] & Magia Damage Up [III / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

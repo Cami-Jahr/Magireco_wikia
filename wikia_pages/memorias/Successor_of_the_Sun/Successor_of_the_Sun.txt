@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 祟り神の子と呼ばれ、周囲から忌避されようと…<br />あまりにも大きな困難に苦しめられようと、少女は負けはしない<br />すべての者はその存在を祝われ、産声を上げたのだと証明するため<br />母のかつて歩んだ道をひとり進み行く
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

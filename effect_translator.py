@@ -663,8 +663,11 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                 elif effect_code in ("CONDITION_BAD",):
                     effect = f"{nr} Status Ailment{'s' if nr > 1 else ''}"
 
-            if verb_code == "ATTACK" and "effectCode" in art and art["effectCode"] in ("ALIGNMENT",):
-                text = text.replace("Damage", "Attribute Strengthened Damage")
+            if verb_code == "ATTACK" and "effectCode" in art:
+                if art["effectCode"] in ("ALIGNMENT",):
+                    text = text.replace("Damage", "Attribute Strengthened Damage")
+                elif art["effectCode"] in ("DAMAGE_UP_BADS",):
+                    text = text.replace("Damage", "Strengthened Damage") + " Affected with Status Ailments"
 
             try:
                 turns = art["enableTurn"]

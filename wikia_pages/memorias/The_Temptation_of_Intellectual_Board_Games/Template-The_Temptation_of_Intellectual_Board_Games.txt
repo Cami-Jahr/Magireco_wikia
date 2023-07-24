@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Temptation of Intellectual Board Games
+| ImageSrc = 
+| Event = 
+
+| Jname = 知的盤上遊戯の誘惑
+| Rarity = 4
+| ID = 1922
+| Illust = さくら小春（QP:flapper）
+| Owner = 
+
+| min_HP = 940
+| min_ATK = 0
+| min_DEF = 860
+| max_HP = 2350
+| max_ATK = 0
+| max_DEF = 2150
+
+| image = Anti-Evade
+| effect_name = Invisible Slash 
+| effect_name_JP = インビジブル・スラッシュ
+| effect1 = Anti-Evade (Allies / 1 Turn) & Damage Up [VI / 30%] (Self / 1 Turn)
+| effect2 = Anti-Evade (Allies / 1 Turn) & Damage Up [VII / 35%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

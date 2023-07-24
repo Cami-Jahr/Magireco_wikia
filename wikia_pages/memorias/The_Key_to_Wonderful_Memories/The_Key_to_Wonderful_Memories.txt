@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 手に取って眺めていると<br />まぶしい記憶が、心ときめく想いが、とめどなくあふれてゆく<br />いちばん嬉しかった思い出も、いちばんつらかった思い出も<br />一緒に見てきた腕輪だから
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -133,7 +133,7 @@
 | Magia name JP = ティロ・フィナーレ ホーリーナイト
 | Magia name EN = 
 | Magia icon = Damage All Enemies
-| Magia effect 1 = Damage All Enemies
+| Magia effect 1 = Strengthened Damage All Enemies Affected with Status Ailments
 | Magia scaling 1 = 12.5%
 | Magia 1 / 1 = V / 315%
 | Magia 1 / 2 = VII / 335%
@@ -144,6 +144,6 @@
 | Doppel Shape = 
 | Doppel Japanese Shape = その姿は、光輪
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
-| Magia2 effect 1 = Damage All Enemies
+| Magia2 effect 1 = Strengthened Damage All Enemies Affected with Status Ailments
 | Magia2 1 = IX / 831%
 }}

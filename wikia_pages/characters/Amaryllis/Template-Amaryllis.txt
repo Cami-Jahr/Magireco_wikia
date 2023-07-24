@@ -1,0 +1,189 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Amaryllis
+| name_jp = アマリュリス
+| element = Void
+| base_rarity = 4
+| max_rarity = 5
+| id = 1053
+| type = Support
+| growth_type = BALANCE
+| school_jp = ―
+| voice_actor_jp = 鈴代紗弓
+| designer_jp = さくら小春（QP:flapper）
+| memoria = 
+| release_date = 2023-07-24
+| event_limit = 
+
+| accele_disks = 4
+| blast_vert_disks = 0
+| blast_hori_disks = 0
+| charge_disks = 1
+
+| 4star_hp_lv1 = 8051
+| 4star_attack_lv1 = 1994
+| 4star_defense_lv1 = 2077
+| 4star_hp_max = 28983
+| 4star_attack_max = 7178
+| 4star_defense_max = 7477
+| 4star_illustrator_jp = さくら小春（QP:flapper）
+
+| 5star_hp_lv1 = 8945
+| 5star_attack_lv1 = 2215
+| 5star_defense_lv1 = 2307
+| 5star_hp_max = 35780
+| 5star_attack_max = 8860
+| 5star_defense_max = 9228
+| 5star_illustrator_jp = さくら小春（QP:flapper）
+
+| se_hp_bonus = 
+| se_attack_bonus = 
+| se_defense_bonus = 
+
+| se accele bonus = 
+| se blast bonus = 
+| se charge bonus = 
+
+| Passive 1 icon = Skill Quicken
+| Passive 1 name = Skill Quicken [III]
+| Passive 1 name JP = スキルクイック[Ⅲ]
+| Passive 1 effect = Chance to Skill Quicken [III / 15%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 3 icon = MP Gauge Increased On Battle Start
+| Passive 3 name = Fast Mana Up
+| Passive 3 name JP = ファスト・マナアップ
+| Passive 3 effect = MP Gauge Increased On Battle Start [40% full]
+
+| Passive 4 icon = Damage Up Versus Enemies Affected With Status Ailments
+| Passive 4 name = Addict Killer [III]
+| Passive 4 name JP = アディクトキラー[Ⅲ]
+| Passive 4 effect = Damage Up Versus Enemies Affected With Status Ailments [III / 25%]
+
+| Passive 5 icon = Doppel Damage Up
+| Passive 5 name = Doppel Adept [I]
+| Passive 5 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 5 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 6 icon = MP Up When Damaged
+| Passive 6 name = Endor Adept [VIII]
+| Passive 6 name JP = エンドア・アデプト[Ⅷ]
+| Passive 6 effect = MP Up When Damaged [VIII / 8 MP]
+
+| Passive 7 icon = Attack Up
+| Passive 7 name = Uplift Aura [II]
+| Passive 7 name JP = アップリフト・オーラ[Ⅱ]
+| Passive 7 effect = Attack Up [II / 10%] & Status Ailment Resistance Up [I / 10%] (Allies / ∞ Turns on Battle Start)
+
+| Passive 8 icon = Accele MP Gain Up
+| Passive 8 name = Accele Adept [III]
+| Passive 8 name JP = アクセル・アデプト[Ⅲ]
+| Passive 8 effect = Accele MP Gain Up [III / 15%]
+
+| Passive 9 icon = MP Gain Up When Over 100 MP
+| Passive 9 name = MP Boost [II]
+| Passive 9 name JP = MPブースト[Ⅱ]
+| Passive 9 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 10 icon = Doppel Damage Up
+| Passive 10 name = Doppel Adept [I]
+| Passive 10 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 10 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 11 icon = Poison on Attack
+| Passive 11 name = Poison Edge [III]
+| Passive 11 name JP = ポイズン・エッジ[Ⅲ]
+| Passive 11 effect = Chance to Poison on Attack [III / 20%] (3 Turns)
+
+| Passive 12 icon = Regenerate MP
+| Passive 12 name = Mana Spring Aura [VIII]
+| Passive 12 name JP = マナスプリングオーラ[Ⅷ]
+| Passive 12 effect = Regenerate MP [VIII / 13.5 MP] (Self / 5 Turns on Battle Start)
+
+| Active 1 icon = Defense Down
+| Active 1 name = Quell Bloom [I]
+| Active 1 name JP = クウェル・ブルーム[Ⅰ]
+| Active 1 effect = Defense Down [I / 5%] & Defense Down Further [I / 5%] & Attack Down [III / 20%] (All Enemies / 3 Turns)
+| Active 1 cooldown = 12
+
+| Connect name JP = 具申します！
+| Connect name EN = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Chance to Curse on Attack
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
+| Connect effect 3 = Chance to Strengthened Poison on Attack
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
+
+| Magia name JP = ルビコンの決択
+| Magia name EN = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Strengthened Damage All Enemies Affected with Status Ailments
+| Magia scaling 1 = 12.5%
+| Magia 1 / 1 = V / 315%
+| Magia 1 / 2 = VII / 335%
+| Magia effect 2 = Chance to Poison
+| Magia scaling 2 = -
+| Magia 2 / 1 = All Enemies / 3 Turns / 45%
+| Magia 2 / 2 = All Enemies / 3 Turns / 50%
+| Magia effect 3 = Chance to Burn
+| Magia scaling 3 = -
+| Magia 3 / 1 = All Enemies / 3 Turns / 45%
+| Magia 3 / 2 = All Enemies / 3 Turns / 50%
+| Magia effect 4 = Chance to Fog
+| Magia scaling 4 = -
+| Magia 4 / 1 = All Enemies / 3 Turns / 45%
+| Magia 4 / 2 = All Enemies / 3 Turns / 50%
+| Magia effect 5 = Chance to Darkness
+| Magia scaling 5 = -
+| Magia 5 / 1 = All Enemies / 3 Turns / 45%
+| Magia 5 / 2 = All Enemies / 3 Turns / 50%
+| Magia effect 6 = Chance to Curse
+| Magia scaling 6 = -
+| Magia 6 / 1 = All Enemies / 3 Turns / 45%
+| Magia 6 / 2 = All Enemies / 3 Turns / 50%
+| Magia effect 7 = Chance to Dazzle
+| Magia scaling 7 = -
+| Magia 7 / 1 = All Enemies / 3 Turns / 45%
+| Magia 7 / 2 = All Enemies / 3 Turns / 50%
+| Magia effect 8 = Chance to Frailty
+| Magia scaling 8 = -
+| Magia 8 / 1 = All Enemies / 2 Turns / 45%
+| Magia 8 / 2 = All Enemies / 2 Turns / 50%
+| Magia effect 9 = Defense Down
+| Magia scaling 9 = 2.5%
+| Magia 9 / 1 = All Enemies / 2 Turns / 10%
+| Magia 9 / 2 = All Enemies / 2 Turns / 15%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 予言のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、天秤
+| Doppel Japanese Designer = 原案：f4samurai、監修：劇団イヌカレー（泥犬）
+| Magia2 effect 1 = Strengthened Damage All Enemies Affected with Status Ailments
+| Magia2 1 = IX / 831%
+| Magia2 effect 2 = Chance to Poison
+| Magia2 2 = All Enemies / 3 Turns / 100%
+| Magia2 effect 3 = Chance to Burn
+| Magia2 3 = All Enemies / 3 Turns / 100%
+| Magia2 effect 4 = Chance to Fog
+| Magia2 4 = All Enemies / 3 Turns / 100%
+| Magia2 effect 5 = Chance to Darkness
+| Magia2 5 = All Enemies / 3 Turns / 100%
+| Magia2 effect 6 = Chance to Curse
+| Magia2 6 = All Enemies / 3 Turns / 100%
+| Magia2 effect 7 = Chance to Dazzle
+| Magia2 7 = All Enemies / 3 Turns / 100%
+| Magia2 effect 8 = Chance to Frailty
+| Magia2 8 = All Enemies / 3 Turns / 100%
+| Magia2 effect 9 = Defense Down
+| Magia2 9 = All Enemies / 3 Turns / 30%
+}}
