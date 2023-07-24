@@ -78,7 +78,7 @@
 | Passive 7 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 7 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 8 icon = Dazzle on Attack
+| Passive 8 icon = Chance to Dazzle on Attack
 | Passive 8 name = Mesmerize Edge [III]
 | Passive 8 name JP = メズマライズ・エッジ[Ⅲ]
 | Passive 8 effect = Chance to Dazzle on Attack [III / 20%] (1 Turn)

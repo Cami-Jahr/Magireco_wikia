@@ -16,7 +16,7 @@
 | max_ATK = 1582
 | max_DEF = 0
 
-| image = Stun on Attack
+| image = Chance to Stun on Attack
 | effect_name = Stun Smash 
 | effect_name_JP = スタン・スマッシュ
 | effect1 = Chance to Stun on Attack [II / 15%] (1 Turn) & Attack Up [I / 5%]

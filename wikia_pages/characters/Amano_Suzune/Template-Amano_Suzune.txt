@@ -83,7 +83,7 @@
 | Passive 8 name JP = アンチ・シールマギア[Ⅶ]
 | Passive 8 effect = Chance to Anti-Magia Seal [VII / 55%]
 
-| Passive 9 icon = Burn on Attack
+| Passive 9 icon = Chance to Burn on Attack
 | Passive 9 name = Burn Edge [III]
 | Passive 9 name JP = バーン・エッジ[Ⅲ]
 | Passive 9 effect = Chance to Burn on Attack [III / 20%] (2 Turns)

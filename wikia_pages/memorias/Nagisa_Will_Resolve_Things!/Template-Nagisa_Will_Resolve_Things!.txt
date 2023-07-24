@@ -16,7 +16,7 @@
 | max_ATK = 0
 | max_DEF = 2230
 
-| image = Stun
+| image = Chance to Stun
 | effect_name = Peekaboo 
 | effect_name_JP = ピーカーブー
 | effect1 = Chance to Stun [II / 32.5%] (Target / 1 Turn) & Blast Damage Down [VII / 20%] & Attack Down [III / 15%] (Target / 2 Turns)

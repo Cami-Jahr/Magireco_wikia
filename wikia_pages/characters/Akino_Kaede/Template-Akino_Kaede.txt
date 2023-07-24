@@ -96,7 +96,7 @@
 | Passive 9 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 9 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 10 icon = Fog on Attack
+| Passive 10 icon = Chance to Fog on Attack
 | Passive 10 name = Fog Edge [II]
 | Passive 10 name JP = フォッグ・エッジ[Ⅱ]
 | Passive 10 effect = Chance to Fog on Attack [II / 15%] (3 Turns)
@@ -111,7 +111,7 @@
 | Passive 12 name JP = アンチ・ポイズン
 | Passive 12 effect = Anti-Poison
 
-| Active 1 icon = Fog
+| Active 1 icon = Chance to Fog
 | Active 1 name = Mist
 | Active 1 name JP = ミスト
 | Active 1 effect = Chance to Fog [100%] (Target / 1 Turn)

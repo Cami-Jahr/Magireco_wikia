@@ -73,7 +73,7 @@
 | Passive 6 name JP = エンドア・アデプト[Ⅳ]
 | Passive 6 effect = MP Up When Damaged [IV / 4 MP]
 
-| Passive 7 icon = Curse on Attack
+| Passive 7 icon = Chance to Curse on Attack
 | Passive 7 name = CurseEdge [III]
 | Passive 7 name JP = カースエッジ[Ⅲ]
 | Passive 7 effect = Chance to Curse on Attack [III / 20%] (2 Turns)
@@ -103,7 +103,7 @@
 | Passive 12 name JP = アンチ・シールマギア
 | Passive 12 effect = Anti-Magia Seal
 
-| Active 1 icon = Skill Seal
+| Active 1 icon = Chance to Skill Seal
 | Active 1 name = Silent Night [X]
 | Active 1 name JP = サイレント・ナイト[Ⅹ]
 | Active 1 effect = Chance to Skill Seal [X / 52.5%] & Attack Down [V / 25%] (All Enemies / 1 Turn) & Attack Down [III / 15%] (Self / 1 Turn)

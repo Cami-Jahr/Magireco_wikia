@@ -83,7 +83,7 @@
 | Passive 8 name JP = ブラスト・アデプト[Ⅲ]
 | Passive 8 effect = Blast Damage Up [III / 20%]
 
-| Passive 9 icon = Poison on Attack
+| Passive 9 icon = Chance to Poison on Attack
 | Passive 9 name = Poison Edge [II]
 | Passive 9 name JP = ポイズン・エッジ[Ⅱ]
 | Passive 9 effect = Chance to Poison on Attack [II / 15%] (3 Turns)

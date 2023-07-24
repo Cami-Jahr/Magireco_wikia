@@ -93,7 +93,7 @@
 | Passive 10 name JP = モラールライトシールド[Ⅴ]
 | Passive 10 effect = MP Gain Up [V / 15%] & Light Attribute Damage Cut [III / 15%]
 
-| Passive 11 icon = Curse on Attack
+| Passive 11 icon = Chance to Curse on Attack
 | Passive 11 name = CurseEdge [III]
 | Passive 11 name JP = カースエッジ[Ⅲ]
 | Passive 11 effect = Chance to Curse on Attack [III / 20%] (2 Turns)
@@ -103,7 +103,7 @@
 | Passive 12 name JP = ナーシングケア[Ⅴ]
 | Passive 12 effect = Regenerate HP [V / 6%] & Regenerate MP [V / 9 MP]
 
-| Active 1 icon = Curse
+| Active 1 icon = Chance to Curse
 | Active 1 name = Curse Mana Charge [II]
 | Active 1 name JP = カースマナチャージ[Ⅱ]
 | Active 1 effect = Chance to Curse [100%] (Target / 1 Turn) & MP Restore [II / 18 MP] (Self)

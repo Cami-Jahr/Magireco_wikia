@@ -88,7 +88,7 @@
 | Passive 9 name JP = テクニカル・アデプト[Ⅲ]
 | Passive 9 effect = Charge Disc Damage Up [III / 15%]
 
-| Passive 10 icon = Skill Seal on Attack
+| Passive 10 icon = Chance to Skill Seal on Attack
 | Passive 10 name = Jammer Edge [III]
 | Passive 10 name JP = ジャマ―・エッジ[Ⅲ]
 | Passive 10 effect = Chance to Skill Seal on Attack [III / 20%] (1 Turn)
@@ -108,7 +108,7 @@
 | Passive 13 name JP = アクセル・アデプト[Ⅲ]
 | Passive 13 effect = Accele MP Gain Up [III / 15%]
 
-| Active 1 icon = Bind
+| Active 1 icon = Chance to Bind
 | Active 1 name = Bind [III]
 | Active 1 name JP = バインド[Ⅲ]
 | Active 1 effect = Chance to Bind [100%] (Target / 1 Turn)

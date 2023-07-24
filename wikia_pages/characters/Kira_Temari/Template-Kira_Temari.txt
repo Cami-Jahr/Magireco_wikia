@@ -71,7 +71,7 @@
 | Passive 4 name JP = マギア・アデプト[Ⅱ]
 | Passive 4 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 5 icon = Darkness on Attack
+| Passive 5 icon = Chance to Darkness on Attack
 | Passive 5 name = Darkness Edge [II]
 | Passive 5 name JP = ダークネス・エッジ[Ⅱ]
 | Passive 5 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)
@@ -111,7 +111,7 @@
 | Passive 12 name JP = チャージ・アデプト[Ⅲ]
 | Passive 12 effect = Charged Attack Damage Up [III / 12.5%]
 
-| Active 1 icon = Darkness
+| Active 1 icon = Chance to Darkness
 | Active 1 name = Shade Stroke [V]
 | Active 1 name JP = シェイド・ストローク[Ⅴ]
 | Active 1 effect = Chance to Darkness [100%] & Attack Down [V / 25%] (Target / 1 Turn)

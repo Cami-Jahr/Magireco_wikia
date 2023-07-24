@@ -88,7 +88,7 @@
 | Passive 9 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 9 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 10 icon = Bind on Attack
+| Passive 10 icon = Chance to Bind on Attack
 | Passive 10 name = Bind Edge [II]
 | Passive 10 name JP = バインド・エッジ[Ⅱ]
 | Passive 10 effect = Chance to Bind on Attack [II / 15%] (1 Turn)

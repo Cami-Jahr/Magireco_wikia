@@ -16,7 +16,7 @@
 | max_ATK = 0
 | max_DEF = 2218
 
-| image = Bind
+| image = Chance to Bind
 | effect_name = Binding Magia 
 | effect_name_JP = バインディングマギア
 | effect1 = Chance to Bind [III / 35%] (All Enemies / 1 Turn) & Magia Damage Up [VI / 17.5%] (Self / 1 Turn)

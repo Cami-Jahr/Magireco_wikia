@@ -113,7 +113,7 @@
 | Passive 14 name JP = シールド・アデプト[Ⅱ]
 | Passive 14 effect = Damage Cut [II / 10%]
 
-| Active 1 icon = Skill Seal
+| Active 1 icon = Chance to Skill Seal
 | Active 1 name = Mute [IX]
 | Active 1 name JP = ミュート[Ⅸ]
 | Active 1 effect = Chance to Skill Seal [IX / 50%] & Chance to Magia Seal [V / 40%] (Target / 1 Turn)

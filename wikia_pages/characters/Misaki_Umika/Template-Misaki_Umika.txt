@@ -96,7 +96,7 @@
 | Passive 9 name JP = スキルクイック[Ⅲ]
 | Passive 9 effect = Chance to Skill Quicken [III / 15%]
 
-| Passive 10 icon = Skill Seal on Attack
+| Passive 10 icon = Chance to Skill Seal on Attack
 | Passive 10 name = Jammer Edge [II]
 | Passive 10 name JP = ジャマ―・エッジ[Ⅱ]
 | Passive 10 effect = Chance to Skill Seal on Attack [II / 15%] (1 Turn)

@@ -16,7 +16,7 @@
 | max_ATK = 1200
 | max_DEF = 0
 
-| image = Skill Seal on Attack
+| image = Chance to Skill Seal on Attack
 | effect_name = Jammer Edge 
 | effect_name_JP = ジャマー・エッジ
 | effect1 = Chance to Skill Seal on Attack [V / 30%] (1 Turn)

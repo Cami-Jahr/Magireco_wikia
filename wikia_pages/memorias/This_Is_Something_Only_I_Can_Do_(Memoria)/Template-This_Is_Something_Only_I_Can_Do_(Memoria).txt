@@ -16,7 +16,7 @@
 | max_ATK = 0
 | max_DEF = 2025
 
-| image = Poison
+| image = Chance to Poison
 | effect_name = This Is Something Only I Can Do
 | effect_name_JP = 私にしかできないことです
 | effect1 = 

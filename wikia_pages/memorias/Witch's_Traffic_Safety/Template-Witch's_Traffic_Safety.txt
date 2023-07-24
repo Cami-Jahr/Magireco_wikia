@@ -16,7 +16,7 @@
 | max_ATK = 0
 | max_DEF = 1382
 
-| image = Burn
+| image = Chance to Burn
 | effect_name = Burn Flow 
 | effect_name_JP = バーンフロー
 | effect1 = 

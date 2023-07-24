@@ -83,7 +83,7 @@
 | Passive 8 name JP = スキルクイック[Ⅲ]
 | Passive 8 effect = Chance to Skill Quicken [III / 15%]
 
-| Passive 9 icon = Curse on Attack
+| Passive 9 icon = Chance to Curse on Attack
 | Passive 9 name = CurseEdge [II]
 | Passive 9 name JP = カースエッジ[Ⅱ]
 | Passive 9 effect = Chance to Curse on Attack [II / 15%] (1 Turn)
@@ -103,7 +103,7 @@
 | Passive 12 name JP = チャージ・アデプト[Ⅲ]
 | Passive 12 effect = Charged Attack Damage Up [III / 12.5%]
 
-| Passive 13 icon = Poison on Attack
+| Passive 13 icon = Chance to Poison on Attack
 | Passive 13 name = Poison Edge [II]
 | Passive 13 name JP = ポイズン・エッジ[Ⅱ]
 | Passive 13 effect = Chance to Poison on Attack [II / 15%] (3 Turns)

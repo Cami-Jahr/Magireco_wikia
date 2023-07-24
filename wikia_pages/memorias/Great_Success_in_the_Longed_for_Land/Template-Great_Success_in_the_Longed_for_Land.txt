@@ -16,7 +16,7 @@
 | max_ATK = 2208
 | max_DEF = 0
 
-| image = Bind on Attack
+| image = Chance to Bind on Attack
 | effect_name = Bind Attack Adept 
 | effect_name_JP = バインドアタック・アデプト
 | effect1 = Chance to Bind on Attack [II / 15%] (1 Turn) & Attack Up [IV / 20%]

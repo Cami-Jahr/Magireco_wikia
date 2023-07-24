@@ -101,7 +101,7 @@
 | Passive 10 name JP = マギア・アデプト[Ⅱ]
 | Passive 10 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 11 icon = Charm on Attack
+| Passive 11 icon = Chance to Charm on Attack
 | Passive 11 name = Charm Edge [II]
 | Passive 11 name JP = チャーム・エッジ[Ⅱ]
 | Passive 11 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
@@ -116,7 +116,7 @@
 | Passive 13 name JP = マギア・アデプト[Ⅱ]
 | Passive 13 effect = Magia Damage Up [II / 7.5%]
 
-| Active 1 icon = Charm
+| Active 1 icon = Chance to Charm
 | Active 1 name = Charm Eyes [IV]
 | Active 1 name JP = チャーム・アイズ[Ⅳ]
 | Active 1 effect = Chance to Charm [IV / 37.5%] (All Enemies / 1 Turn)

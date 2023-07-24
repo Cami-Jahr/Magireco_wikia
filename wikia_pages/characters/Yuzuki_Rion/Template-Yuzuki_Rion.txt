@@ -106,7 +106,7 @@
 | Passive 11 name JP = アクセル・アデプト[Ⅱ]
 | Passive 11 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 12 icon = Bind on Attack
+| Passive 12 icon = Chance to Bind on Attack
 | Passive 12 name = Bind Edge [II]
 | Passive 12 name JP = バインド・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Bind on Attack [II / 15%] (1 Turn)

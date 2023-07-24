@@ -88,7 +88,7 @@
 | Passive 9 name JP = フューリィ・アデプト[Ⅲ]
 | Passive 9 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]
 
-| Passive 10 icon = Curse on Attack
+| Passive 10 icon = Chance to Curse on Attack
 | Passive 10 name = Curse Edge [III]
 | Passive 10 name JP = カース・エッジ[Ⅲ]
 | Passive 10 effect = Chance to Curse on Attack [III / 20%] (1 Turn)

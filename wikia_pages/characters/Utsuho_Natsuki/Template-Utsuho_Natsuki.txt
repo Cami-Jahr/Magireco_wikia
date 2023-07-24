@@ -109,7 +109,7 @@
 | Passive 10 name JP = MPブースト[Ⅱ]
 | Passive 10 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 11 icon = Darkness on Attack
+| Passive 11 icon = Chance to Darkness on Attack
 | Passive 11 name = Darkness Edge [II]
 | Passive 11 name JP = ダークネス・エッジ[Ⅱ]
 | Passive 11 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)

@@ -76,7 +76,7 @@
 | Passive 5 name JP = MPブースト[Ⅱ]
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Darkness on Attack
+| Passive 6 icon = Chance to Darkness on Attack
 | Passive 6 name = Darkness Edge [II]
 | Passive 6 name JP = ダークネス・エッジ[Ⅱ]
 | Passive 6 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)
@@ -91,7 +91,7 @@
 | Passive 8 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 8 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 9 icon = Bind on Attack
+| Passive 9 icon = Chance to Bind on Attack
 | Passive 9 name = Bind Edge [II]
 | Passive 9 name JP = バインド・エッジ[Ⅱ]
 | Passive 9 effect = Chance to Bind on Attack [II / 15%] (1 Turn)
@@ -116,7 +116,7 @@
 | Passive 13 name JP = アクセル・アデプト[Ⅱ]
 | Passive 13 effect = Accele MP Gain Up [II / 12.5%]
 
-| Active 1 icon = Skill Seal
+| Active 1 icon = Chance to Skill Seal
 | Active 1 name = Unarm [IV]
 | Active 1 name JP = アンアーム[Ⅳ]
 | Active 1 effect = Chance to Skill Seal [IV / 37.5%] (All Enemies / 1 Turn) & Attack Down [III / 20%] (All Enemies / 3 Turns)

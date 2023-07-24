@@ -83,7 +83,7 @@
 | Passive 8 name JP = ブラストシールド[Ⅲ]
 | Passive 8 effect = Blast Damage Cut [III / 15%]
 
-| Passive 9 icon = Stun on Attack
+| Passive 9 icon = Chance to Stun on Attack
 | Passive 9 name = Stun Edge [II]
 | Passive 9 name JP = スタン・エッジ[Ⅱ]
 | Passive 9 effect = Chance to Stun on Attack [II / 15%] (1 Turn)

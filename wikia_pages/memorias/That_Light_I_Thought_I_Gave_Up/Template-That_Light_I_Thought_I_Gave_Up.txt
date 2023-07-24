@@ -16,7 +16,7 @@
 | max_ATK = 2340
 | max_DEF = 0
 
-| image = Charm on Attack
+| image = Chance to Charm on Attack
 | effect_name = Maternal Adept 
 | effect_name_JP = マターナル・アデプト
 | effect1 = Chance to Charm on Attack [II / 15%] (1 Turn) & Attack Up [IV / 20%]

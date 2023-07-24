@@ -16,7 +16,7 @@
 | max_ATK = 1462
 | max_DEF = 0
 
-| image = Darkness on Attack
+| image = Chance to Darkness on Attack
 | effect_name = Darkness Adept 
 | effect_name_JP = ダークネス・アデプト
 | effect1 = Chance to Darkness on Attack [I / 10%] (1 Turn) & Attack Up [II / 10%]

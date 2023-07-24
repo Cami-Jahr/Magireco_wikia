@@ -63,7 +63,7 @@
 | Passive 4 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = Skill Seal on Attack
+| Passive 5 icon = Chance to Skill Seal on Attack
 | Passive 5 name = Jammer Edge [II]
 | Passive 5 name JP = ジャマ―・エッジ[Ⅱ]
 | Passive 5 effect = Chance to Skill Seal on Attack [II / 15%] (1 Turn)

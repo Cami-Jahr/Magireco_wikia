@@ -16,7 +16,7 @@
 | max_ATK = 1470
 | max_DEF = 0
 
-| image = Charm on Attack
+| image = Chance to Charm on Attack
 | effect_name = Devil on the Beach 
 | effect_name_JP = デビルオンザビーチ
 | effect1 = Chance to Charm on Attack [II / 15%] & Chance to Dazzle on Attack [II / 15%] (1 Turn)

@@ -16,7 +16,7 @@
 | max_ATK = 0
 | max_DEF = 1535
 
-| image = Poison
+| image = Chance to Poison
 | effect_name = Poison Gaze 
 | effect_name_JP = ポイズン・ゲイズ
 | effect1 = 

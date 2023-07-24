@@ -16,7 +16,7 @@
 | max_ATK = 2045
 | max_DEF = 0
 
-| image = Dazzle on Attack
+| image = Chance to Dazzle on Attack
 | effect_name = MesmerizeAttack Adept 
 | effect_name_JP = メズマライズアタック・アデプト
 | effect1 = 

@@ -16,7 +16,7 @@
 | max_ATK = 2132
 | max_DEF = 0
 
-| image = Poison on Attack
+| image = Chance to Poison on Attack
 | effect_name = Poison Attack Adept 
 | effect_name_JP = ポイズンアタック・アデプト
 | effect1 = Chance to Poison on Attack [III / 20%] (3 Turns) & Attack Up [IV / 20%]

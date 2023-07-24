@@ -16,7 +16,7 @@
 | max_ATK = 0
 | max_DEF = 1902
 
-| image = Curse
+| image = Chance to Curse
 | effect_name = Curse Word 
 | effect_name_JP = カースワード
 | effect1 = Chance to Curse [100%] & Defense Down [VIII / 40%] (Target / 1 Turn)

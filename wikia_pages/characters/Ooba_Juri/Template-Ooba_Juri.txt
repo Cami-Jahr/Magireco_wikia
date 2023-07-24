@@ -93,7 +93,7 @@
 | Passive 10 name JP = ブラスト・アデプト[Ⅲ]
 | Passive 10 effect = Blast Damage Up [III / 20%]
 
-| Passive 11 icon = Burn on Attack
+| Passive 11 icon = Chance to Burn on Attack
 | Passive 11 name = Burn Edge [III]
 | Passive 11 name JP = バーン・エッジ[Ⅲ]
 | Passive 11 effect = Chance to Burn on Attack [III / 20%] (2 Turns)

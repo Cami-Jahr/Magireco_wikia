@@ -16,7 +16,7 @@
 | max_ATK = 1885
 | max_DEF = 0
 
-| image = Stun on Attack
+| image = Chance to Stun on Attack
 | effect_name = Stun Blast Smash 
 | effect_name_JP = スタンブラスト・スマッシュ
 | effect1 = 

@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Tumultuous Final Race
+| ImageSrc = 
+| Event = 
+
+| Jname = 波瀾の最終レース
+| Rarity = 3
+| ID = 1923
+| Illust = -
+| Owner = 
+
+| min_HP = 680
+| min_ATK = 0
+| min_DEF = 680
+| max_HP = 1700
+| max_ATK = 0
+| max_DEF = 1700
+
+| image = Status Ailment Resistance Down
+| effect_name = ウィークネス 
+| effect_name_JP = ウィークネス
+| effect1 = Status Ailment Resistance Down [II / 7.5%] & Defense Down [II / 10%] (Target / 3 Turns) & Status Ailment Resistance Down [III / 10%] (Self / 3 Turns)
+| effect2 = Status Ailment Resistance Down [III / 10%] & Defense Down [III / 15%] (Target / 3 Turns) & Status Ailment Resistance Down [III / 10%] (Self / 3 Turns)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

@@ -84,7 +84,7 @@
 | Passive 5 name JP = ブラスト・アデプト[Ⅲ]
 | Passive 5 effect = Blast Damage Up [III / 20%]
 
-| Passive 6 icon = Fog on Attack
+| Passive 6 icon = Chance to Fog on Attack
 | Passive 6 name = Fog Edge [II]
 | Passive 6 name JP = フォッグ・エッジ[Ⅱ]
 | Passive 6 effect = Chance to Fog on Attack [II / 15%] (3 Turns)
@@ -109,7 +109,7 @@
 | Passive 10 name JP = チャージコンボプラス[Ⅰ]
 | Passive 10 effect = Charge Combo Charge Count Up [+1]
 
-| Passive 11 icon = Skill Seal on Attack
+| Passive 11 icon = Chance to Skill Seal on Attack
 | Passive 11 name = Jammer Edge [II]
 | Passive 11 name JP = ジャマ―・エッジ[Ⅱ]
 | Passive 11 effect = Chance to Skill Seal on Attack [II / 15%] (1 Turn)

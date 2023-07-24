@@ -93,7 +93,7 @@
 | Passive 10 name JP = アクアシールド・オーラ[Ⅲ]
 | Passive 10 effect = Aqua Attribute Damage Cut [III / 15%] (Allies / 5 Turns on Battle Start)
 
-| Passive 11 icon = Dazzle on Attack
+| Passive 11 icon = Chance to Dazzle on Attack
 | Passive 11 name = Mesmerize Edge [III]
 | Passive 11 name JP = メズマライズ・エッジ[Ⅲ]
 | Passive 11 effect = Chance to Dazzle on Attack [III / 20%] (1 Turn)
@@ -103,7 +103,7 @@
 | Passive 12 name JP = ファスト・マナアップ
 | Passive 12 effect = MP Gauge Increased On Battle Start [30% full / Quest only]
 
-| Active 1 icon = Fog
+| Active 1 icon = Chance to Fog
 | Active 1 name = Despair
 | Active 1 name JP = ディスペア
 | Active 1 effect = Chance to Fog [100%] & Chance to Darkness [100%] & Chance to Dazzle [100%] (Target / 5 Turns)

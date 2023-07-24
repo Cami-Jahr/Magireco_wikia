@@ -101,12 +101,12 @@
 | Passive 10 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 10 effect = Chance to Critical Hit [II / 15%]
 
-| Passive 11 icon = Curse on Attack
+| Passive 11 icon = Chance to Curse on Attack
 | Passive 11 name = Curse Edge [III]
 | Passive 11 name JP = カース・エッジ[Ⅲ]
 | Passive 11 effect = Chance to Curse on Attack [III / 20%] (1 Turn)
 
-| Passive 12 icon = Poison on Attack
+| Passive 12 icon = Chance to Poison on Attack
 | Passive 12 name = Poison Edge [II]
 | Passive 12 name JP = ポイズン・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Poison on Attack [II / 15%] (3 Turns)

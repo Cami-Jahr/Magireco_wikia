@@ -111,7 +111,7 @@
 | Passive 12 name JP = アクセル・アデプト[Ⅲ]
 | Passive 12 effect = Accele MP Gain Up [III / 15%]
 
-| Active 1 icon = Charm
+| Active 1 icon = Chance to Charm
 | Active 1 name = Attention [X]
 | Active 1 name JP = アテンション[Ⅹ]
 | Active 1 effect = Chance to Charm [X / 52.5%] (All Enemies / 1 Turn) & Provoke (Self / 1 Turn)

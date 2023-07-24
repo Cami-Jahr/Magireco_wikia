@@ -79,7 +79,7 @@
 | Passive 4 name JP = マギア・アデプト[Ⅱ]
 | Passive 4 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 5 icon = Bind on Attack
+| Passive 5 icon = Chance to Bind on Attack
 | Passive 5 name = Bind Edge [III]
 | Passive 5 name JP = バインド・エッジ[Ⅲ]
 | Passive 5 effect = Chance to Bind on Attack [III / 20%] (1 Turn)
@@ -119,7 +119,7 @@
 | Passive 12 name JP = モラール・アデプト[Ⅲ]
 | Passive 12 effect = MP Gain Up [III / 10%]
 
-| Active 1 icon = Fog
+| Active 1 icon = Chance to Fog
 | Active 1 name = Fog [IX]
 | Active 1 name JP = フォッグ[Ⅸ]
 | Active 1 effect = Chance to Fog [IX / 50%] (All Enemies / 1 Turn)

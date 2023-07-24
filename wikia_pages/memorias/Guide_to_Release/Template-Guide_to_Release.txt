@@ -16,7 +16,7 @@
 | max_ATK = 1815
 | max_DEF = 0
 
-| image = Fog on Attack
+| image = Chance to Fog on Attack
 | effect_name = Fog Blade 
 | effect_name_JP = フォッグ・ブレイド
 | effect1 = Chance to Fog on Attack [II / 15%] (3 Turns) & Damage Up [III / 15%]

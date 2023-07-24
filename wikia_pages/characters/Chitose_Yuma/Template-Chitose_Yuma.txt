@@ -86,7 +86,7 @@
 | Passive 7 name JP = リジェネレイト・アデプト[Ⅳ]
 | Passive 7 effect = Regenerate HP [IV / 5%]
 
-| Passive 8 icon = Stun on Attack
+| Passive 8 icon = Chance to Stun on Attack
 | Passive 8 name = Stun Edge [II]
 | Passive 8 name JP = スタン・エッジ[Ⅱ]
 | Passive 8 effect = Chance to Stun on Attack [II / 15%] (1 Turn)

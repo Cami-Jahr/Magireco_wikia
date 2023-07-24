@@ -83,7 +83,7 @@
 | Passive 8 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 8 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 9 icon = Stun on Attack
+| Passive 9 icon = Chance to Stun on Attack
 | Passive 9 name = Stun Strike [II]
 | Passive 9 name JP = スタン・ストライク[Ⅱ]
 | Passive 9 effect = Chance to Stun on Attack [II / 15%] (1 Turn) & Chance to Critical Hit [II / 15%]

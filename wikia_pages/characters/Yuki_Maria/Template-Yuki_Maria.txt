@@ -101,7 +101,7 @@
 | Passive 10 name JP = マギア・アデプト[Ⅲ]
 | Passive 10 effect = Magia Damage Up [III / 10%]
 
-| Passive 11 icon = Bind on Attack
+| Passive 11 icon = Chance to Bind on Attack
 | Passive 11 name = Bind Edge [II]
 | Passive 11 name JP = バインド・エッジ[Ⅱ]
 | Passive 11 effect = Chance to Bind on Attack [II / 15%] (1 Turn)

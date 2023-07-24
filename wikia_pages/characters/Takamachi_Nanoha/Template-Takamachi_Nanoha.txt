@@ -103,7 +103,7 @@
 | Passive 12 name JP = モラール・アデプト[Ⅱ]
 | Passive 12 effect = MP Gain Up [II / 7.5%]
 
-| Active 1 icon = Bind
+| Active 1 icon = Chance to Bind
 | Active 1 name = BindMana Charge [XX]
 | Active 1 name JP = バインドマナチャージ[XX]
 | Active 1 effect = Chance to Bind [XX / 77.5%] (Target / 1 Turn) & MP Restore [III / 25 MP] (Self)

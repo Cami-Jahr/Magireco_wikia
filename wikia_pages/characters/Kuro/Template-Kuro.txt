@@ -103,7 +103,7 @@
 | Passive 7 name JP = ガード・アデプト[Ⅱ]
 | Passive 7 effect = Defense Up [II / 15%]
 
-| Passive 8 icon = Bind on Attack
+| Passive 8 icon = Chance to Bind on Attack
 | Passive 8 name = Bind Edge [II]
 | Passive 8 name JP = バインド・エッジ[Ⅱ]
 | Passive 8 effect = Chance to Bind on Attack [II / 15%] (1 Turn)

@@ -78,7 +78,7 @@
 | Passive 7 name JP = アクセル・アデプト[Ⅱ]
 | Passive 7 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 8 icon = Darkness on Attack
+| Passive 8 icon = Chance to Darkness on Attack
 | Passive 8 name = Darkness Edge [II]
 | Passive 8 name JP = ダークネス・エッジ[Ⅱ]
 | Passive 8 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)

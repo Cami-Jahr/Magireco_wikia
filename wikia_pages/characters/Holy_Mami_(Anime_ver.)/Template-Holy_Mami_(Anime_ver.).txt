@@ -68,7 +68,7 @@
 | Passive 5 name JP = MPブースト[Ⅱ]
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Fog on Attack
+| Passive 6 icon = Chance to Fog on Attack
 | Passive 6 name = Fog Edge [II]
 | Passive 6 name JP = フォッグ・エッジ[Ⅱ]
 | Passive 6 effect = Chance to Fog on Attack [II / 15%] (3 Turns)
@@ -93,7 +93,7 @@
 | Passive 10 name JP = ドッペル・アデプト[Ⅳ]
 | Passive 10 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
 
-| Passive 11 icon = Burn on Attack
+| Passive 11 icon = Chance to Burn on Attack
 | Passive 11 name = Burn Edge [III]
 | Passive 11 name JP = バーン・エッジ[Ⅲ]
 | Passive 11 effect = Chance to Burn on Attack [III / 20%] (2 Turns)

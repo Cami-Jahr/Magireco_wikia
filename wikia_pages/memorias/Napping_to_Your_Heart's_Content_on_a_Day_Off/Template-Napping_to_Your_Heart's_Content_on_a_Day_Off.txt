@@ -16,7 +16,7 @@
 | max_ATK = 902
 | max_DEF = 0
 
-| image = Skill Seal on Attack
+| image = Chance to Skill Seal on Attack
 | effect_name = Jamming Edge 
 | effect_name_JP = ジャミング・エッジ
 | effect1 = Chance to Skill Seal on Attack [II / 15%] (3 Turns)

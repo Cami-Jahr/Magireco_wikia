@@ -88,7 +88,7 @@
 | Passive 9 name JP = モラール・アデプト[Ⅲ]
 | Passive 9 effect = MP Gain Up [III / 10%]
 
-| Passive 10 icon = Poison on Attack
+| Passive 10 icon = Chance to Poison on Attack
 | Passive 10 name = Poison Edge [II]
 | Passive 10 name JP = ポイズン・エッジ[Ⅱ]
 | Passive 10 effect = Chance to Poison on Attack [II / 15%] (3 Turns)

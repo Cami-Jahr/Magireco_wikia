@@ -72762,7 +72762,100 @@
   "1923": {
     "pieceId": 1923,
     "rank": "RANK_3",
-    "__update__": "2023-07-24T07:04:27.851Z"
+    "__update__": "2023-07-24T14:08:58.675Z",
+    "pieceType": "SKILL",
+    "pieceName": "波瀾の最終レース",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 680,
+    "hp": 680,
+    "skillId": 192300,
+    "pieceSkill": {
+      "id": 192300,
+      "groupId": 1098,
+      "name": "ウィークネス[Ⅱ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "状態異常耐性DOWN[Ⅱ] & 防御力DOWN[Ⅱ](敵単/3T) & 状態異常耐性DOWN[Ⅲ](自/3T)",
+      "messageId": 72,
+      "artId1": 430002402,
+      "art1": {
+        "artId": 430002402,
+        "verbCode": "DEBUFF",
+        "effectCode": "RESIST",
+        "targetId": "TARGET",
+        "effectValue": 75,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 430002102,
+      "art2": {
+        "artId": 430002102,
+        "verbCode": "DEBUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "TARGET",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId3": 9933,
+      "art3": {
+        "artId": 9933,
+        "verbCode": "DEBUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 192301,
+    "pieceSkill2": {
+      "id": 192301,
+      "groupId": 1098,
+      "name": "ウィークネス[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "状態異常耐性DOWN[Ⅲ] & 防御力DOWN[Ⅲ](敵単/3T) & 状態異常耐性DOWN[Ⅲ](自/3T)",
+      "messageId": 72,
+      "artId1": 430002403,
+      "art1": {
+        "artId": 430002403,
+        "verbCode": "DEBUFF",
+        "effectCode": "RESIST",
+        "targetId": "TARGET",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 430002103,
+      "art2": {
+        "artId": 430002103,
+        "verbCode": "DEBUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "TARGET",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId3": 9933,
+      "art3": {
+        "artId": 9933,
+        "verbCode": "DEBUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「ヒラルス様、いっけー！＠　えへへっ、このまま独走で優勝です！」＠番狂わせに湧く円形闘技場に彗星のごとく現れた、左利きの赤い御者＠捨て身の疾駆に、無敵の王者の戦車がみるみる引き離されてゆく",
+    "illustrator": "―",
+    "openDate": "2023/07/24 15:10:00"
   },
   "1924": {
     "pieceId": 1924,

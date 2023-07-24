@@ -16,7 +16,7 @@
 | max_ATK = 2145
 | max_DEF = 0
 
-| image = Fog on Attack
+| image = Chance to Fog on Attack
 | effect_name = Fog Adept 
 | effect_name_JP = フォッグ・アデプト
 | effect1 = Chance to Fog on Attack [II / 15%] (3 Turns) & Attack Up [IV / 20%]

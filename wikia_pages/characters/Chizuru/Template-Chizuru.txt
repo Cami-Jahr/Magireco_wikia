@@ -78,7 +78,7 @@
 | Passive 7 name JP = チャージ・アデプト[Ⅲ]
 | Passive 7 effect = Charged Attack Damage Up [III / 12.5%]
 
-| Passive 8 icon = Burn on Attack
+| Passive 8 icon = Chance to Burn on Attack
 | Passive 8 name = Burn Edge [IV]
 | Passive 8 name JP = バーン・エッジ[Ⅳ]
 | Passive 8 effect = Chance to Burn on Attack [IV / 25%] (2 Turns)

@@ -79,7 +79,7 @@
 | Passive 4 name JP = ドッペル・アデプト[Ⅳ]
 | Passive 4 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
 
-| Passive 5 icon = Stun on Attack
+| Passive 5 icon = Chance to Stun on Attack
 | Passive 5 name = Stun Edge [II]
 | Passive 5 name JP = スタン・エッジ[Ⅱ]
 | Passive 5 effect = Chance to Stun on Attack [II / 15%] (1 Turn)

@@ -16,7 +16,7 @@
 | max_ATK = 2305
 | max_DEF = 0
 
-| image = Skill Seal on Attack
+| image = Chance to Skill Seal on Attack
 | effect_name = Jammer Adept 
 | effect_name_JP = ジャマー・アデプト
 | effect1 = 

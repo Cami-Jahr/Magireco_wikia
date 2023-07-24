@@ -83,7 +83,7 @@
 | Passive 8 name JP = シールド・アデプト[Ⅱ]
 | Passive 8 effect = Damage Cut [II / 10%]
 
-| Passive 9 icon = Curse on Attack
+| Passive 9 icon = Chance to Curse on Attack
 | Passive 9 name = CurseEdge [II]
 | Passive 9 name JP = カースエッジ[Ⅱ]
 | Passive 9 effect = Chance to Curse on Attack [II / 15%] (1 Turn)

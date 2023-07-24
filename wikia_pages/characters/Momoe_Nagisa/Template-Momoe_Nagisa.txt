@@ -98,7 +98,7 @@
 | Passive 11 name JP = MPブースト[Ⅱ]
 | Passive 11 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 12 icon = Dazzle on Attack
+| Passive 12 icon = Chance to Dazzle on Attack
 | Passive 12 name = Mesmerize Edge [II]
 | Passive 12 name JP = メズマライズ・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Dazzle on Attack [II / 15%] (1 Turn)

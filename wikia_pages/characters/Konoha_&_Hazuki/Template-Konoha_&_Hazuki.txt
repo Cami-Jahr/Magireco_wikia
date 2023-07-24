@@ -88,7 +88,7 @@
 | Passive 9 name JP = マギア・アデプト[Ⅲ]
 | Passive 9 effect = Magia Damage Up [III / 10%]
 
-| Passive 10 icon = Curse on Attack
+| Passive 10 icon = Chance to Curse on Attack
 | Passive 10 name = Curse Edge [III]
 | Passive 10 name JP = カース・エッジ[Ⅲ]
 | Passive 10 effect = Chance to Curse on Attack [III / 20%] (1 Turn)
@@ -98,7 +98,7 @@
 | Passive 11 name JP = パリィ・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Evade [II / 15%]
 
-| Passive 12 icon = Poison on Attack
+| Passive 12 icon = Chance to Poison on Attack
 | Passive 12 name = Poison Edge [III]
 | Passive 12 name JP = ポイズン・エッジ[Ⅲ]
 | Passive 12 effect = Chance to Poison on Attack [III / 20%] (3 Turns)

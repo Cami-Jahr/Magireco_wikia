@@ -16,7 +16,7 @@
 | max_ATK = 2015
 | max_DEF = 0
 
-| image = Burn on Attack
+| image = Chance to Burn on Attack
 | effect_name = Invisible Burn Edge 
 | effect_name_JP = インビジブル・バーンエッジ
 | effect1 = Chance to Burn on Attack [V / 30%] (2 Turns) & Chance to Anti-Evade [X / 70%]

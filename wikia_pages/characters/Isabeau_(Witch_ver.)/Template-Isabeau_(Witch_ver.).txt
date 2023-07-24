@@ -103,7 +103,7 @@
 | Passive 12 name JP = ブラストサルテーション[Ⅲ]
 | Passive 12 effect = Blast MP Gain Up [III / 3 MP]
 
-| Active 1 icon = Skill Seal
+| Active 1 icon = Chance to Skill Seal
 | Active 1 name = Survive Jammer [V]
 | Active 1 name JP = サヴァイヴ・ジャマー[Ⅴ]
 | Active 1 effect = Chance to Skill Seal [V / 40%] (All Enemies / 1 Turn) & Survive [I / 10% HP] (Self / 1 Turn)

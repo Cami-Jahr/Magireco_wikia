@@ -101,7 +101,7 @@
 | Passive 10 name JP = マギア・アデプト[Ⅱ]
 | Passive 10 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 11 icon = Skill Seal on Attack
+| Passive 11 icon = Chance to Skill Seal on Attack
 | Passive 11 name = Jammer Edge [II]
 | Passive 11 name JP = ジャマ―・エッジ[Ⅱ]
 | Passive 11 effect = Chance to Skill Seal on Attack [II / 15%] (1 Turn)

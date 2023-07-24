@@ -88,7 +88,7 @@
 | Passive 9 name JP = マギア・アデプト[Ⅱ]
 | Passive 9 effect = Magia Damage Up [II / 7.5%]
 
-| Passive 10 icon = Curse on Attack
+| Passive 10 icon = Chance to Curse on Attack
 | Passive 10 name = CurseEdge [II]
 | Passive 10 name JP = カースエッジ[Ⅱ]
 | Passive 10 effect = Chance to Curse on Attack [II / 15%] (1 Turn)

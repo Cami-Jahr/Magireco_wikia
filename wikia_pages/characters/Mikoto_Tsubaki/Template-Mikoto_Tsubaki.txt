@@ -53,7 +53,7 @@
 | Passive 2 name JP = シールド・アデプト[Ⅱ]
 | Passive 2 effect = Damage Cut [II / 10%]
 
-| Passive 3 icon = Burn on Attack
+| Passive 3 icon = Chance to Burn on Attack
 | Passive 3 name = Burn Edge [II]
 | Passive 3 name JP = バーン・エッジ[Ⅱ]
 | Passive 3 effect = Chance to Burn on Attack [II / 15%] (2 Turns)

@@ -98,7 +98,7 @@
 | Passive 11 name JP = スキルクイック[Ⅲ]
 | Passive 11 effect = Chance to Skill Quicken [III / 15%]
 
-| Passive 12 icon = Darkness on Attack
+| Passive 12 icon = Chance to Darkness on Attack
 | Passive 12 name = Darkness Edge [II]
 | Passive 12 name JP = ダークネス・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)

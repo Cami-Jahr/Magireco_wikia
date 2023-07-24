@@ -106,12 +106,12 @@
 | Passive 11 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Critical Hit [II / 15%]
 
-| Passive 12 icon = Darkness on Attack
+| Passive 12 icon = Chance to Darkness on Attack
 | Passive 12 name = Darkness Edge [II]
 | Passive 12 name JP = ダークネス・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Darkness on Attack [II / 15%] (1 Turn)
 
-| Active 1 icon = Darkness
+| Active 1 icon = Chance to Darkness
 | Active 1 name = Shade
 | Active 1 name JP = シェイド
 | Active 1 effect = Chance to Darkness [100%] (Target / 1 Turn)

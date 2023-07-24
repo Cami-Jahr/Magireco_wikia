@@ -78,7 +78,7 @@
 | Passive 7 name JP = MPブースト[Ⅱ]
 | Passive 7 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 8 icon = Burn on Attack
+| Passive 8 icon = Chance to Burn on Attack
 | Passive 8 name = Burn Edge [IV]
 | Passive 8 name JP = バーン・エッジ[Ⅳ]
 | Passive 8 effect = Chance to Burn on Attack [IV / 25%] (2 Turns)

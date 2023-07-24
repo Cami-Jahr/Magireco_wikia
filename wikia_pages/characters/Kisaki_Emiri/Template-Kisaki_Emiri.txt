@@ -94,7 +94,7 @@
 | Passive 7 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 7 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 8 icon = Dazzle on Attack
+| Passive 8 icon = Chance to Dazzle on Attack
 | Passive 8 name = Mesmerize Edge [III]
 | Passive 8 name JP = メズマライズ・エッジ[Ⅲ]
 | Passive 8 effect = Chance to Dazzle on Attack [III / 20%] (1 Turn)
@@ -119,7 +119,7 @@
 | Passive 12 name JP = マギア・アデプト[Ⅱ]
 | Passive 12 effect = Magia Damage Up [II / 7.5%]
 
-| Active 1 icon = Burn
+| Active 1 icon = Chance to Burn
 | Active 1 name = Irrlicht [IV]
 | Active 1 name JP = イルリヒト[Ⅳ]
 | Active 1 effect = Chance to Burn [100%] & Chance to Dazzle [IV / 37.5%] (Target / 1 Turn)

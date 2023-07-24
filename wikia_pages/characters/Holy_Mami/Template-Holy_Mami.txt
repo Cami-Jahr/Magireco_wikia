@@ -63,7 +63,7 @@
 | Passive 4 name JP = モラール・アデプト[Ⅲ]
 | Passive 4 effect = MP Gain Up [III / 10%]
 
-| Passive 5 icon = Bind on Attack
+| Passive 5 icon = Chance to Bind on Attack
 | Passive 5 name = Bind Edge [II]
 | Passive 5 name JP = バインド・エッジ[Ⅱ]
 | Passive 5 effect = Chance to Bind on Attack [II / 15%] (1 Turn)
@@ -108,7 +108,7 @@
 | Passive 13 name JP = マナスプリング・アデプト[Ⅶ]
 | Passive 13 effect = Regenerate MP [VII / 12 MP]
 
-| Active 1 icon = Fog
+| Active 1 icon = Chance to Fog
 | Active 1 name = Deep Fog [V]
 | Active 1 name JP = ディープ・フォッグ[Ⅴ]
 | Active 1 effect = Chance to Fog [V / 40%] (All Enemies / 3 Turns) & Attack Down [V / 25%] (All Enemies / 1 Turn)

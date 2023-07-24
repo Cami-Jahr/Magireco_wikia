@@ -608,6 +608,8 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                         effect = ""
                         uses_roman = False
                 elif (verb_code == "CONDITION_BAD" and effect_code in bad) or verb_code == "ENCHANT":
+                    if icon == text:
+                        icon = "Chance to " + text
                     text = "Chance to " + text
                     if pro >= 100:
                         uses_roman = False

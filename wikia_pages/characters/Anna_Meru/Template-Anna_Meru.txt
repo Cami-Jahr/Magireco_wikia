@@ -91,7 +91,7 @@
 | Passive 8 name JP = ファスト・マナアップ
 | Passive 8 effect = MP Gauge Increased On Battle Start [15% full]
 
-| Passive 9 icon = Charm on Attack
+| Passive 9 icon = Chance to Charm on Attack
 | Passive 9 name = Charm Edge [II]
 | Passive 9 name JP = チャーム・エッジ[Ⅱ]
 | Passive 9 effect = Chance to Charm on Attack [II / 15%] (1 Turn)

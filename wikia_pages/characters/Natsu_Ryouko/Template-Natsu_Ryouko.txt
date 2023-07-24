@@ -98,12 +98,12 @@
 | Passive 11 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 11 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 12 icon = Stun on Attack
+| Passive 12 icon = Chance to Stun on Attack
 | Passive 12 name = Stun Edge [II]
 | Passive 12 name JP = スタン・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Stun on Attack [II / 15%] (1 Turn)
 
-| Active 1 icon = Stun
+| Active 1 icon = Chance to Stun
 | Active 1 name = Stun
 | Active 1 name JP = スタン
 | Active 1 effect = Chance to Stun [100%] (Target / 1 Turn)

@@ -108,7 +108,7 @@
 | Passive 13 name JP = アンチ・スタン
 | Passive 13 effect = Anti-Stun
 
-| Active 1 icon = Skill Seal
+| Active 1 icon = Chance to Skill Seal
 | Active 1 name = Peaceful Calm [V]
 | Active 1 name JP = ピースフルカーム[Ⅴ]
 | Active 1 effect = Chance to Skill Seal [V / 40%] (All Enemies / 1 Turn) & Status Ailment Resistance Up [II / 15%] (Allies / 3 Turns)

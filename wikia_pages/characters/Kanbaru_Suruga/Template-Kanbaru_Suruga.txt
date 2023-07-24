@@ -98,7 +98,7 @@
 | Passive 11 name JP = テクニカル・アデプト[Ⅱ]
 | Passive 11 effect = Charge Disc Damage Up [II / 10%]
 
-| Passive 12 icon = Stun on Attack
+| Passive 12 icon = Chance to Stun on Attack
 | Passive 12 name = Stun Edge [IV]
 | Passive 12 name JP = スタン・エッジ[Ⅳ]
 | Passive 12 effect = Chance to Stun on Attack [IV / 25%] (1 Turn)

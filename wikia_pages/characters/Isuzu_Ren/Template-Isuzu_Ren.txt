@@ -103,7 +103,7 @@
 | Passive 12 name JP = パリィ・アデプト[Ⅱ]
 | Passive 12 effect = Chance to Evade [II / 15%]
 
-| Active 1 icon = Fog
+| Active 1 icon = Chance to Fog
 | Active 1 name = Fog Stub [V]
 | Active 1 name JP = フォッグ・スタブ[Ⅴ]
 | Active 1 effect = Chance to Fog [V / 40%] (All Enemies / 3 Turns) & Chance to Chase [V / 45%] (Self / 3 Turns)

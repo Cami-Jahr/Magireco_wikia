@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「ヒラルス様、いっけー！<br />　えへへっ、このまま独走で優勝です！」<br />番狂わせに湧く円形闘技場に彗星のごとく現れた、左利きの赤い御者<br />捨て身の疾駆に、無敵の王者の戦車がみるみる引き離されてゆく
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

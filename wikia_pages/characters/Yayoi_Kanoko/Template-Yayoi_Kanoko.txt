@@ -114,7 +114,7 @@
 | Passive 11 name JP = クリティカル・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Critical Hit [II / 15%]
 
-| Passive 12 icon = Charm on Attack
+| Passive 12 icon = Chance to Charm on Attack
 | Passive 12 name = Charm Edge [II]
 | Passive 12 name JP = チャーム・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Charm on Attack [II / 15%] (1 Turn)

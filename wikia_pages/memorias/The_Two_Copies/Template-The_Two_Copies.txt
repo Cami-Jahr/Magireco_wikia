@@ -16,7 +16,7 @@
 | max_ATK = 0
 | max_DEF = 1425
 
-| image = Poison
+| image = Chance to Poison
 | effect_name = Poison
 | effect_name_JP = ポイズン
 | effect1 = Chance to Poison [X / 52.5%] (Target / 3 Turns)

@@ -98,12 +98,12 @@
 | Passive 11 name JP = パリィ・アデプト[Ⅱ]
 | Passive 11 effect = Chance to Evade [II / 15%]
 
-| Passive 12 icon = Charm on Attack
+| Passive 12 icon = Chance to Charm on Attack
 | Passive 12 name = Charm Edge [II]
 | Passive 12 name JP = チャーム・エッジ[Ⅱ]
 | Passive 12 effect = Chance to Charm on Attack [II / 15%] (1 Turn)
 
-| Active 1 icon = Skill Seal
+| Active 1 icon = Chance to Skill Seal
 | Active 1 name = Downer Jammer [XV]
 | Active 1 name JP = ダウナー・ジャマー[XV]
 | Active 1 effect = Chance to Skill Seal [XV / 65%] & MP Gain Down [XV / 80%] (Target / 1 Turn)

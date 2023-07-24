@@ -91,7 +91,7 @@
 | Passive 8 name JP = アクセル・アデプト[Ⅱ]
 | Passive 8 effect = Accele MP Gain Up [II / 12.5%]
 
-| Passive 9 icon = Magia Seal on Attack
+| Passive 9 icon = Chance to Magia Seal on Attack
 | Passive 9 name = Magia Seal Edge [II]
 | Passive 9 name JP = シールマギア・エッジ[Ⅱ]
 | Passive 9 effect = Chance to Magia Seal on Attack [II / 15%] (1 Turn)

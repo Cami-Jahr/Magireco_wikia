@@ -53,7 +53,7 @@
 | Passive 2 name JP = シールド・アデプト[Ⅱ]
 | Passive 2 effect = Damage Cut [II / 10%]
 
-| Passive 3 icon = Fog on Attack
+| Passive 3 icon = Chance to Fog on Attack
 | Passive 3 name = Fog Edge [II]
 | Passive 3 name JP = フォッグ・エッジ[Ⅱ]
 | Passive 3 effect = Chance to Fog on Attack [II / 15%] (3 Turns)
