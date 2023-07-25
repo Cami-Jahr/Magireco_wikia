@@ -171,4 +171,6 @@
 | Magia2 6 = Allies / 5 Turns / 40%
 | Magia2 effect 7 = Anti-Debuff
 | Magia2 7 = Allies / 5 Turns / 3 Debuffs
+| Magia2 effect 8 = Barrier
+| Magia2 8 = Allies / 5 Turns / 8000 damage
 }}

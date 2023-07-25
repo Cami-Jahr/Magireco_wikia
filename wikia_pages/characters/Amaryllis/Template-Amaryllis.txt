@@ -186,4 +186,6 @@
 | Magia2 8 = All Enemies / 3 Turns / 100%
 | Magia2 effect 9 = Defense Down
 | Magia2 9 = All Enemies / 3 Turns / 30%
+| Magia2 effect 10 = Damage Up Versus Enemies Affected With Status Ailments
+| Magia2 10 = Allies / 3 Turns / 50%
 }}

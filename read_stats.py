@@ -355,7 +355,7 @@ def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
             doppel_shape = dic[card]["doppel"]["title"]
             doppel_designer = dic[card]["doppel"]["designer"]
             arts = []
-            for i in range(1, 10):
+            for i in range(1, 21):
                 try:
                     arts.append(doppel_arts[f"art{i}"])
                 except KeyError:
