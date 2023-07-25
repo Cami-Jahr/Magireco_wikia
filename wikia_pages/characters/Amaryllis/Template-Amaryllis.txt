@@ -161,6 +161,10 @@
 | Magia scaling 9 = 2.5%
 | Magia 9 / 1 = All Enemies / 2 Turns / 10%
 | Magia 9 / 2 = All Enemies / 2 Turns / 15%
+| Magia effect 10 = Damage Up Versus Enemies Affected With Status Ailments
+| Magia scaling 10 = 2.5%
+| Magia 10 / 1 = Allies / 3 Turns / 25%
+| Magia 10 / 2 = Allies / 3 Turns / 30%
 
 | Doppel Name = 
 | Doppel Title = 

@@ -339,7 +339,7 @@ def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
         magia = dic[card]["cardMagia"]
         magia_name = magia["name"]
         arts = []
-        for i in range(1, 10):
+        for i in range(1, 21):
             try:
                 arts.append(magia[f"art{i}"])
             except KeyError:
