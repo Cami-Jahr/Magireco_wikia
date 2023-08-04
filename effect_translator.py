@@ -458,7 +458,8 @@ jp_to_en = {
     "コンボプラス": "Combo Plus",
     "ティンバー": "Timber",
     "ゴーストマーチ": "Ghost March",
-    "アシッド": "Acid"
+    "アシッド": "Acid",
+    "ノーブル": "Noble"
 }
 
 # Subset of good effects that might be chance to happen
