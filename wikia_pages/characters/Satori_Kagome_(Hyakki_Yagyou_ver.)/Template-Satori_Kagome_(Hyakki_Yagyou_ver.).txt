@@ -1,0 +1,164 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Satori Kagome (Hyakki Yagyou ver.)
+| name_jp = 佐鳥 かごめ (百鬼夜行ver.)
+| element = Forest
+| base_rarity = 4
+| max_rarity = 5
+| id = 1120
+| type = Magia
+| growth_type = ATTACK
+| school_jp = ―
+| voice_actor_jp = 高尾奏音
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2023-08-04
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 4star_hp_lv1 = 6386
+| 4star_attack_lv1 = 2276
+| 4star_defense_lv1 = 2084
+| 4star_hp_max = 22657
+| 4star_attack_max = 8371
+| 4star_defense_max = 7339
+| 4star_illustrator_jp = ぷにゃん
+
+| 5star_hp_lv1 = 7099
+| 5star_attack_lv1 = 2527
+| 5star_defense_lv1 = 2317
+| 5star_hp_max = 27970
+| 5star_attack_max = 10335
+| 5star_defense_max = 9059
+| 5star_illustrator_jp = ダリク
+
+| se_hp_bonus = 7180
+| se_attack_bonus = 2582
+| se_defense_bonus = 3667
+
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 4
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [I]
+| Passive 1 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 1 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [III]
+| Passive 2 name JP = ドッペル・アデプト[Ⅲ]
+| Passive 2 effect = Doppel Damage Up [III / 15%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [I]
+| Passive 3 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 4 icon = MP Gain Up When Over 100 MP
+| Passive 4 name = MP Boost [II]
+| Passive 4 name JP = MPブースト[Ⅱ]
+| Passive 4 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 5 icon = MP Gain Up
+| Passive 5 name = Morale Adept [III]
+| Passive 5 name JP = モラール・アデプト[Ⅲ]
+| Passive 5 effect = MP Gain Up [III / 10%]
+
+| Passive 6 icon = Chance to Curse on Attack
+| Passive 6 name = CurseEdge [III]
+| Passive 6 name JP = カースエッジ[Ⅲ]
+| Passive 6 effect = Chance to Curse on Attack [III / 20%] (2 Turns)
+
+| Passive 7 icon = MP Gain Up When Over 100 MP
+| Passive 7 name = MP Boost [II]
+| Passive 7 name JP = MPブースト[Ⅱ]
+| Passive 7 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 8 icon = Chance to Stun on Attack
+| Passive 8 name = Stun Edge [IV]
+| Passive 8 name JP = スタン・エッジ[Ⅳ]
+| Passive 8 effect = Chance to Stun on Attack [IV / 25%] (1 Turn)
+
+| Passive 9 icon = Anti-Magia Seal
+| Passive 9 name = Anti Seal Magia
+| Passive 9 name JP = アンチ・シールマギア
+| Passive 9 effect = Anti-Magia Seal
+
+| Passive 10 icon = Doppel Damage Up
+| Passive 10 name = Doppel Adept [VI]
+| Passive 10 name JP = ドッペル・アデプト[Ⅵ]
+| Passive 10 effect = Doppel Damage Up [VI / 30%] & Magia Damage Up [II / 7.5%]
+
+| Passive 11 icon = MP Gauge Increased On Battle Start
+| Passive 11 name = Fast Mana Up
+| Passive 11 name JP = ファスト・マナアップ
+| Passive 11 effect = MP Gauge Increased On Battle Start [35% full]
+
+| Passive 12 icon = Forest Attribute Attack Up
+| Passive 12 name = ティンバーGlitter Rise [VII]
+| Passive 12 name JP = ティンバーグリッターライズ[Ⅶ]
+| Passive 12 effect = Forest Attribute Attack Up [VII / 20%] & MP Gain Up [III / 10%] (Self / 5 Turns on Battle Start)
+
+| Active 1 icon = Status Ailment Resistance Down
+| Active 1 name = ゴーストマーチ
+| Active 1 name JP = ゴーストマーチ
+| Active 1 effect = Status Ailment Resistance Down [X / 27.5%] & Chance to Strengthened Poison [100%] & Chance to Curse [100%] (Target / 1 Turn)
+| Active 1 cooldown = 10
+
+| Connect name JP = 助太刀妖怪、参上！
+| Connect name EN = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VIII / 37.5%
+| Connect 1 / 2 = X / 42.5%
+| Connect effect 2 = Chance to Curse on Attack
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
+| Connect effect 3 = Chance to Stun on Attack
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
+
+| Magia name JP = 夢幻妖火
+| Magia name EN = 
+| Magia icon = Damage 4 Random Enemies
+| Magia effect 1 = Attribute Strengthened Damage 4 Random Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = VI / 282.3%
+| Magia 1 / 2 = VIII / 299.7%
+| Magia effect 2 = Damage Increase
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = Allies / 3 Turns / 15%
+| Magia 2 / 2 = Allies / 3 Turns / 15%
+| Magia effect 3 = Forest Attribute Attack Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Allies / 3 Turns / 15%
+| Magia 3 / 2 = Allies / 3 Turns / 20%
+| Magia effect 4 = Negate Status Ailments
+| Magia scaling 4 = -
+| Magia 4 / 1 = Allies / 3 Turns / 1 Status Ailment
+| Magia 4 / 2 = Allies / 3 Turns / 1 Status Ailment
+| Magia effect 5 = Magia Damage Up
+| Magia scaling 5 = 2.5%
+| Magia 5 / 1 = Self / 3 Turns / 22.5%
+| Magia 5 / 2 = Self / 3 Turns / 27.5%
+
+| Magia2 name JP = 妖怪アルちゃんズ夜行
+| Magia2 name EN = 
+| Magia2 icon = Damage 5 Random Enemies
+| Magia2 effect 1 = Attribute Strengthened Damage 5 Random Enemies
+| Magia2 1 = X / 676%
+| Magia2 effect 2 = Damage Increase
+| Magia2 2 = Allies / 5 Turns / 30%
+| Magia2 effect 3 = Forest Attribute Attack Up
+| Magia2 3 = Allies / 5 Turns / 35%
+| Magia2 effect 4 = Negate Status Ailments
+| Magia2 4 = Allies / 5 Turns / 2 Status Ailments
+| Magia2 effect 5 = Magia Damage Up
+| Magia2 5 = Self / 5 Turns / 42.5%
+| Magia2 effect 6 = Regenerate MP
+| Magia2 6 = Self / 1 Turn / 64 MP
+}}

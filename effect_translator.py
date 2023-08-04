@@ -455,7 +455,9 @@ jp_to_en = {
     "クライシス": "Crisis",
     "カバー": "Cover",
     "ダーク": "Dark",
-    "コンボプラス": "Combo Plus"
+    "コンボプラス": "Combo Plus",
+    "ティンバー": "Timber",
+    "ゴーストマーチ": "Ghost March"
 }
 
 # Subset of good effects that might be chance to happen

@@ -72860,7 +72860,100 @@
   "1924": {
     "pieceId": 1924,
     "rank": "RANK_4",
-    "__update__": "2023-07-24T07:04:27.851Z"
+    "__update__": "2023-07-28T07:20:12.693Z",
+    "pieceName": "幸運は勇者に味方する",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 818,
+    "hp": 818,
+    "skillId": 192400,
+    "pieceSkill": {
+      "id": 192400,
+      "groupId": 1085,
+      "name": "ネグレクト・カウンター[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "攻撃力UP[Ⅵ] & 耐える & 必ずカウンター無効(自/1T)",
+      "messageId": 70,
+      "artId1": 310201106,
+      "art1": {
+        "artId": 310201106,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 610207400,
+      "art2": {
+        "artId": 610207400,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "GUTS",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId3": 610208200,
+      "art3": {
+        "artId": 610208200,
+        "verbCode": "IGNORE",
+        "effectCode": "COUNTER",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 192401,
+    "pieceSkill2": {
+      "id": 192401,
+      "groupId": 1085,
+      "name": "ネグレクト・カウンター[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "攻撃力UP[Ⅵ] & 耐える & 必ずカウンター無効(自/1T)",
+      "messageId": 70,
+      "artId1": 310201106,
+      "art1": {
+        "artId": 310201106,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 610207400,
+      "art2": {
+        "artId": 610207400,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "GUTS",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId3": 610208200,
+      "art3": {
+        "artId": 610208200,
+        "verbCode": "IGNORE",
+        "effectCode": "COUNTER",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "希望を黒く染めるがごとく、空を死の雲が覆ったとき＠恐れを知らぬ勇気を乗せて、その艦影は現れた＠「あの船…ローマ海軍！」＠「はい！プリニウス様旗下の艦隊です！」",
+    "illustrator": "―",
+    "openDate": "2023/07/24 15:10:00"
   },
   "1925": {
     "pieceId": 1925,
@@ -73028,5 +73121,385 @@
     "description": "祟り神の子と呼ばれ、周囲から忌避されようと…＠あまりにも大きな困難に苦しめられようと、少女は負けはしない＠すべての者はその存在を祝われ、産声を上げたのだと証明するため＠母のかつて歩んだ道をひとり進み行く",
     "illustrator": "―",
     "openDate": "2023/07/24 15:10:00"
+  },
+  "1927": {
+    "pieceId": 1927,
+    "rank": "RANK_3",
+    "__update__": "2023-08-04T07:14:44.607Z",
+    "pieceType": "ABILITY",
+    "pieceName": "アルちゃん？妖怪？",
+    "attributeId": "ALL",
+    "charaIds": "1120",
+    "charaList": [
+      {
+        "charaId": 1120,
+        "name": "佐鳥 かごめ 百鬼夜行ver."
+      }
+    ],
+    "attack": 521,
+    "defense": 0,
+    "hp": 441,
+    "skillId": 192700,
+    "pieceSkill": {
+      "id": 192700,
+      "groupId": 1085,
+      "name": "ノーブル・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅳ] & MP自動回復[Ⅳ]",
+      "artId1": 390201104,
+      "art1": {
+        "artId": 390201104,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690214804,
+      "art2": {
+        "artId": 690214804,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 75,
+        "growPoint": 10,
+        "probability": 1000,
+        "genericValue": "MP"
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 192701,
+    "pieceSkill2": {
+      "id": 192701,
+      "groupId": 1085,
+      "name": "ノーブル・アデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅴ] & MP自動回復[Ⅴ]",
+      "artId1": 390201105,
+      "art1": {
+        "artId": 390201105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690214805,
+      "art2": {
+        "artId": 690214805,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 90,
+        "growPoint": 10,
+        "probability": 1000,
+        "genericValue": "MP"
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "唐傘お化けに一反木綿、提灯お化けと…ぬっぺふほふ？＠それからぬりかべ、河童、アマビエまで！＠ひょんなことから妖怪の姿になってしまったアルちゃんたち＠私がみんなを連れて歩いてたら言われたんです…「百鬼夜行」って！",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/08/04 15:10:00"
+  },
+  "1928": {
+    "pieceId": 1928,
+    "rank": "RANK_4",
+    "__update__": "2023-08-04T07:12:31.317Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "見られてはならない姿",
+    "attributeId": "ALL",
+    "attack": 900,
+    "defense": 0,
+    "hp": 860,
+    "skillId": 192800,
+    "pieceSkill": {
+      "id": 192800,
+      "groupId": 1149,
+      "name": "アシッドアタック[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃時に確率でやけど(2T)・毒(2T)を付与[Ⅲ] & 攻撃力UP[Ⅳ]",
+      "artId1": 690210203,
+      "art1": {
+        "artId": 690210203,
+        "verbCode": "ENCHANT",
+        "effectCode": "BURN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 2,
+        "growPoint": 0,
+        "probability": 200
+      },
+      "artId2": 9941,
+      "art2": {
+        "artId": 9941,
+        "verbCode": "ENCHANT",
+        "effectCode": "POISON",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "enableTurn": 2,
+        "growPoint": 0,
+        "probability": 200
+      },
+      "artId3": 390201104,
+      "art3": {
+        "artId": 390201104,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1197,
+      "eventArtId1": 1197003,
+      "eventArt1": {
+        "artId": 1197003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1197_EXCHANGE_1"
+      },
+      "eventDescription": "＆「古の切なる願い」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 192801,
+    "pieceSkill2": {
+      "id": 192801,
+      "groupId": 1149,
+      "name": "アシッドアタック[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃時に確率でやけど(2T)・毒(2T)を付与[Ⅳ] & 攻撃力UP[Ⅴ]",
+      "artId1": 690210204,
+      "art1": {
+        "artId": 690210204,
+        "verbCode": "ENCHANT",
+        "effectCode": "BURN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 2,
+        "growPoint": 0,
+        "probability": 250
+      },
+      "artId2": 9942,
+      "art2": {
+        "artId": 9942,
+        "verbCode": "ENCHANT",
+        "effectCode": "POISON",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "enableTurn": 2,
+        "growPoint": 0,
+        "probability": 250
+      },
+      "artId3": 390201105,
+      "art3": {
+        "artId": 390201105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1197,
+      "eventArtId1": 1197004,
+      "eventArt1": {
+        "artId": 1197004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1197_EXCHANGE_1"
+      },
+      "eventDescription": "＆「古の切なる願い」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "ど、どうしよう！こんな場所でこんな姿…見られちゃったら大変！＠なんとかして見られないようにしなきゃ！せめてこうするしか…！＠あー、ひめなさんたちまで集まってきて…！＠…え…？変身解除すればいいんじゃね？…ですか…そ、その通りです！",
+    "illustrator": "―",
+    "openDate": "2023/08/04 15:10:00"
+  },
+  "1929": {
+    "pieceId": 1929,
+    "rank": "RANK_3",
+    "__update__": "2023-08-04T13:51:54.707Z",
+    "pieceType": "ABILITY",
+    "pieceName": "神浜七不思議調査隊…？",
+    "attributeId": "ALL",
+    "attack": 710,
+    "defense": 0,
+    "hp": 620,
+    "skillId": 192900,
+    "pieceSkill": {
+      "id": 192900,
+      "groupId": 1237,
+      "name": "ティンバー・アデプト[Ⅶ]",
+      "type": "ABILITY",
+      "shortDescription": "木属性攻撃力UP[Ⅶ] & 攻撃力UP[Ⅱ]",
+      "artId1": 390221807,
+      "art1": {
+        "artId": 390221807,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_TIMBER",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25
+      },
+      "artId2": 390201102,
+      "art2": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 192901,
+    "pieceSkill2": {
+      "id": 192901,
+      "groupId": 1237,
+      "name": "ティンバー・アデプト[Ⅷ]",
+      "type": "ABILITY",
+      "shortDescription": "木属性攻撃力UP[Ⅷ] & 攻撃力UP[Ⅲ]",
+      "artId1": 390221808,
+      "art1": {
+        "artId": 390221808,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_TIMBER",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "growPoint": 25
+      },
+      "artId2": 390201103,
+      "art2": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "にわかに広まって届いてきた“七不思議の夜”の噂…＠みかげちゃんはそれを聞いて神浜でも調べるってワクワクしてるけど…＠どうしよう…なかなか言い出しづらいなぁ…＠その噂…私の“あの姿”が原因で生まれたものだって…",
+    "illustrator": "―",
+    "openDate": "2023/08/04 15:10:00"
+  },
+  "1930": {
+    "pieceId": 1930,
+    "rank": "RANK_4",
+    "__update__": "2023-08-04T07:10:58.712Z"
+  },
+  "1931": {
+    "pieceId": 1931,
+    "rank": "RANK_3",
+    "__update__": "2023-08-04T07:12:31.315Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "私と重なる新たな私",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 674,
+    "hp": 554,
+    "skillId": 193100,
+    "pieceSkill": {
+      "id": 193100,
+      "groupId": 1110,
+      "name": "ダークネス・スラッシュ[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "必ず暗闇(敵単/1T) & 与えるダメージUP[Ⅳ](自/1T)",
+      "messageId": 72,
+      "artId1": 510005400,
+      "art1": {
+        "artId": 510005400,
+        "verbCode": "CONDITION_BAD",
+        "effectCode": "DARKNESS",
+        "targetId": "TARGET",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 310201304,
+      "art2": {
+        "artId": 310201304,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1197,
+      "eventArtId1": 1197001,
+      "eventArt1": {
+        "artId": 1197001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1197_EXCHANGE_1"
+      },
+      "eventDescription": "＆「古の切なる願い」追加獲得数＋1",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 193101,
+    "pieceSkill2": {
+      "id": 193101,
+      "groupId": 1110,
+      "name": "ダークネス・スラッシュ[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "必ず暗闇(敵単/1T) & 与えるダメージUP[Ⅳ](自/1T)",
+      "messageId": 72,
+      "artId1": 510005400,
+      "art1": {
+        "artId": 510005400,
+        "verbCode": "CONDITION_BAD",
+        "effectCode": "DARKNESS",
+        "targetId": "TARGET",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 310201304,
+      "art2": {
+        "artId": 310201304,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1197,
+      "eventArtId1": 1197002,
+      "eventArt1": {
+        "artId": 1197002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1197_EXCHANGE_1"
+      },
+      "eventDescription": "＆「古の切なる願い」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "少女は何者かに出会った…灯に導かれて辿り着いた怪異の世界で＠そして、自分でも気づかぬ内に“未知なる自分”へと姿を変えた＠これは夢でも幻でもなく、実体験としての怪異譚＠彼女はなってしまったのだ…不可思議な世界の登場人物に",
+    "illustrator": "―",
+    "openDate": "2023/08/04 15:10:00"
   }
 }
