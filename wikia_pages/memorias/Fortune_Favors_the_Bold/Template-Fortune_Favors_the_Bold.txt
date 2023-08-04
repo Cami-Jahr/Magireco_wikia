@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Fortune Favors the Bold
+| ImageSrc = 
+| Event = 
+
+| Jname = 幸運は勇者に味方する
+| Rarity = 4
+| ID = 1924
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2045
+| max_ATK = 0
+| max_DEF = 2045
+
+| image = Attack Up
+| effect_name = Neglect Counter 
+| effect_name_JP = ネグレクト・カウンター
+| effect1 = 
+| effect2 = Attack Up [VI / 30%] & Endure & Anti-Counter (Self / 1 Turn)
+| Cooldown = 
+| Cooldown2 = 7
+}}

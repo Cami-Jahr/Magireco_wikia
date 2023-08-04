@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 少女は何者かに出会った…灯に導かれて辿り着いた怪異の世界で<br />そして、自分でも気づかぬ内に“未知なる自分”へと姿を変えた<br />これは夢でも幻でもなく、実体験としての怪異譚<br />彼女はなってしまったのだ…不可思議な世界の登場人物に
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

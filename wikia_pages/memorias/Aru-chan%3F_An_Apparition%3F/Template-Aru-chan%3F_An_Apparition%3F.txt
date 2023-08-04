@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Aru-chan? An Apparition?
+| ImageSrc = 
+| Event = 
+
+| Jname = アルちゃん？妖怪？
+| Rarity = 3
+| ID = 1927
+| Illust = 都筑禰己
+| Owner = Satori Kagome (Hyakki Yagyou ver.)
+
+| min_HP = 441
+| min_ATK = 521
+| min_DEF = 0
+| max_HP = 1102
+| max_ATK = 1302
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = ノーブル Adept 
+| effect_name_JP = ノーブル・アデプト
+| effect1 = Attack Up [IV / 20%] & Regenerate MP [IV / 7.5 MP]
+| effect2 = Attack Up [V / 25%] & Regenerate MP [V / 9 MP]
+| Cooldown = 
+| Cooldown2 = 
+}}

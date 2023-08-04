@@ -908,8 +908,13 @@
 1921;The Key to Wonderful Memories
 1922;The Temptation of Intellectual Board Games
 1923;Tumultuous Final Race
-1924;
+1924;Fortune Favors the Bold
 1925;The Small World I Wanted to Protect
 1926;Successor of the Sun
+1927;Aru-chan? An Apparition?
+1928;A Figure That Should Not Be Seen
+1929;Kamihama Seven Wonders Investigation Corps...?
+1930;
+1931;Me and the Materializing New Me
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

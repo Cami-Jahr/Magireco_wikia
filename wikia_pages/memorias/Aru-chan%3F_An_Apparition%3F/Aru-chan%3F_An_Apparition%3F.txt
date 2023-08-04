@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 唐傘お化けに一反木綿、提灯お化けと…ぬっぺふほふ？<br />それからぬりかべ、河童、アマビエまで！<br />ひょんなことから妖怪の姿になってしまったアルちゃんたち<br />私がみんなを連れて歩いてたら言われたんです…「百鬼夜行」って！
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

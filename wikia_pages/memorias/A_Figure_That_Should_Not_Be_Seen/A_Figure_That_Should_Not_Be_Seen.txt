@@ -1,0 +1,11 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = ど、どうしよう！こんな場所でこんな姿…見られちゃったら大変！<br />なんとかして見られないようにしなきゃ！せめてこうするしか…！<br />あー、ひめなさんたちまで集まってきて…！<br />…え…？変身解除すればいいんじゃね？…ですか…そ、その通りです！
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 5 Bonus (Item Name)
+** Max Limit Break: Gain 15 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

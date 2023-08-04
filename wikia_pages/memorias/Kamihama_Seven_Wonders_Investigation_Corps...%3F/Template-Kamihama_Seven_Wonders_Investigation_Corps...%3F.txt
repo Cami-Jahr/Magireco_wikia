@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Kamihama Seven Wonders Investigation Corps...?
+| ImageSrc = 
+| Event = 
+
+| Jname = 神浜七不思議調査隊…？
+| Rarity = 3
+| ID = 1929
+| Illust = -
+| Owner = 
+
+| min_HP = 620
+| min_ATK = 710
+| min_DEF = 0
+| max_HP = 1550
+| max_ATK = 1775
+| max_DEF = 0
+
+| image = Forest Attribute Attack Up
+| effect_name = Timber Adept 
+| effect_name_JP = ティンバー・アデプト
+| effect1 = Forest Attribute Attack Up [VII / 20%] & Attack Up [II / 10%]
+| effect2 = Forest Attribute Attack Up [VIII / 22.5%] & Attack Up [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -17,7 +17,7 @@
 | max_DEF = 0
 
 | image = Forest Attribute Attack Up
-| effect_name = ティンバーThrust Adept 
+| effect_name = TimberThrust Adept 
 | effect_name_JP = ティンバースラスト・アデプト
 | effect1 = 
 | effect2 = Forest Attribute Attack Up [V / 15%] & Accele MP Gain Up [IV / 17.5%]

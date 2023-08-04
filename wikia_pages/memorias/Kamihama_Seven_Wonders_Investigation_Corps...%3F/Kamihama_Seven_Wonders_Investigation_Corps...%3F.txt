@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = にわかに広まって届いてきた“七不思議の夜”の噂…<br />みかげちゃんはそれを聞いて神浜でも調べるってワクワクしてるけど…<br />どうしよう…なかなか言い出しづらいなぁ…<br />その噂…私の“あの姿”が原因で生まれたものだって…
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

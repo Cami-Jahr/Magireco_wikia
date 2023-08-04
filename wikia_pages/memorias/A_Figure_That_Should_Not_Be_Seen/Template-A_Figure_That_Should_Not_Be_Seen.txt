@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Figure That Should Not Be Seen
+| ImageSrc = 
+| Event = 
+
+| Jname = 見られてはならない姿
+| Rarity = 4
+| ID = 1928
+| Illust = -
+| Owner = 
+
+| min_HP = 860
+| min_ATK = 900
+| min_DEF = 0
+| max_HP = 2150
+| max_ATK = 2250
+| max_DEF = 0
+
+| image = Chance to Burn on Attack
+| effect_name = アシッドAttack 
+| effect_name_JP = アシッドアタック
+| effect1 = Chance to Burn on Attack [III / 20%] & Chance to Poison on Attack [IV / 20%] (2 Turns) & Attack Up [IV / 20%]
+| effect2 = Chance to Burn on Attack [IV / 25%] & Chance to Poison on Attack [V / 25%] (2 Turns) & Attack Up [V / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

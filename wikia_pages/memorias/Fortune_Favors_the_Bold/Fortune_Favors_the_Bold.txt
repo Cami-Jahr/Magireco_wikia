@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 希望を黒く染めるがごとく、空を死の雲が覆ったとき<br />恐れを知らぬ勇気を乗せて、その艦影は現れた<br />「あの船…ローマ海軍！」<br />「はい！プリニウス様旗下の艦隊です！」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
