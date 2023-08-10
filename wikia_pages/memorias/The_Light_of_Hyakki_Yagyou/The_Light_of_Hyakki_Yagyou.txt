@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 散々に自分を翻弄してきた、灯に導かれて迷い込んだこの世界<br />だけどそんな時にも、私の側で支えてくれた大事大事な“友だち”<br />もう大丈夫…進むべき道はハッキリと見えている<br />だって私の手には、この世界を照らす光があるから…！
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

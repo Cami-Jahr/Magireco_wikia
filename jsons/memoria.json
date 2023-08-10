@@ -73399,7 +73399,80 @@
   "1930": {
     "pieceId": 1930,
     "rank": "RANK_4",
-    "__update__": "2023-08-04T07:10:58.712Z"
+    "__update__": "2023-08-10T11:35:36.713Z",
+    "pieceName": "百鬼夜行の灯",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 898,
+    "hp": 738,
+    "skillId": 193000,
+    "pieceSkill": {
+      "id": 193000,
+      "groupId": 1170,
+      "name": "ハード・カバーリング",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "味方を必ずかばう & 防御力UP[Ⅷ](自/1T)",
+      "messageId": 71,
+      "artId1": 610213300,
+      "art1": {
+        "artId": 610213300,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROTECT",
+        "targetId": "ONE",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 310201208,
+      "art2": {
+        "artId": 310201208,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 600,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 193001,
+    "pieceSkill2": {
+      "id": 193001,
+      "groupId": 1170,
+      "name": "ハード・カバーリング",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "味方を必ずかばう & 防御力UP[Ⅷ](自/1T)",
+      "messageId": 71,
+      "artId1": 610213300,
+      "art1": {
+        "artId": 610213300,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROTECT",
+        "targetId": "ONE",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 310201208,
+      "art2": {
+        "artId": 310201208,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 600,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "散々に自分を翻弄してきた、灯に導かれて迷い込んだこの世界＠だけどそんな時にも、私の側で支えてくれた大事大事な“友だち”＠もう大丈夫…進むべき道はハッキリと見えている＠だって私の手には、この世界を照らす光があるから…！",
+    "illustrator": "こざくら",
+    "openDate": "2023/08/04 15:10:00"
   },
   "1931": {
     "pieceId": 1931,

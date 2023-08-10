@@ -914,7 +914,7 @@
 1927;Aru-chan? An Apparition?
 1928;A Figure That Should Not Be Seen
 1929;Kamihama Seven Wonders Investigation Corps...?
-1930;
+1930;The Light of Hyakki Yagyou
 1931;Me and the Materializing New Me
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

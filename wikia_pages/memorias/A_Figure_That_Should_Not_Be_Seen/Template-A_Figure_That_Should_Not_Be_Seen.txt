@@ -17,7 +17,7 @@
 | max_DEF = 0
 
 | image = Chance to Burn on Attack
-| effect_name = アシッドAttack 
+| effect_name = AcidAttack 
 | effect_name_JP = アシッドアタック
 | effect1 = Chance to Burn on Attack [III / 20%] & Chance to Poison on Attack [IV / 20%] (2 Turns) & Attack Up [IV / 20%]
 | effect2 = Chance to Burn on Attack [IV / 25%] & Chance to Poison on Attack [V / 25%] (2 Turns) & Attack Up [V / 25%]

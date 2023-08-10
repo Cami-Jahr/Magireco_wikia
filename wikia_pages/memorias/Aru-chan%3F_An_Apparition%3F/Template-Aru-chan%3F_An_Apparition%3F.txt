@@ -17,7 +17,7 @@
 | max_DEF = 0
 
 | image = Attack Up
-| effect_name = ノーブル Adept 
+| effect_name = Noble Adept 
 | effect_name_JP = ノーブル・アデプト
 | effect1 = Attack Up [IV / 20%] & Regenerate MP [IV / 7.5 MP]
 | effect2 = Attack Up [V / 25%] & Regenerate MP [V / 9 MP]
