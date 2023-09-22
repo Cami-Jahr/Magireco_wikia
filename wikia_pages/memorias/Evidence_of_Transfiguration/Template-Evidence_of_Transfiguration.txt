@@ -17,7 +17,7 @@
 | max_DEF = 1255
 
 | image = Remove Buffs
-| effect_name = ディスアーマメント
+| effect_name = Disarmament
 | effect_name_JP = ディスアーマメント
 | effect1 = Remove Buffs (All Enemies)
 | effect2 = Remove Buffs (All Enemies)

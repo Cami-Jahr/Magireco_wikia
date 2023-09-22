@@ -17,7 +17,7 @@
 | max_DEF = 2152
 
 | image = Chance to Magia Seal
-| effect_name = Magia ブレイク 
+| effect_name = Magia Break 
 | effect_name_JP = マギア・ブレイク
 | effect1 = Chance to Magia Seal [100%] (Target / 1 Turn) & Damage Down [VIII / 40%] (All Enemies / 1 Turn)
 | effect2 = Chance to Magia Seal [100%] (Target / 1 Turn) & Damage Down [IX / 45%] (All Enemies / 1 Turn)

@@ -17,7 +17,7 @@
 | max_DEF = 2450
 
 | image = Provoke
-| effect_name = ディリジェンス アピール 
+| effect_name = Diligence Appeal 
 | effect_name_JP = ディリジェンス・アピール
 | effect1 = Provoke & Defense Up [VII / 52.5%] & MP Gain Up [VII / 20%] (Self / 1 Turn)
 | effect2 = Provoke & Defense Up [VIII / 60%] & MP Gain Up [VIII / 22.5%] (Self / 1 Turn)

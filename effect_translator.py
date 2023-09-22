@@ -29,6 +29,7 @@ roman_to_full = {
     "XⅤ": "XV",
     "XVI": "XVI",
     "XVII": "XVII",
+    "XⅧ": "XVII",
     "XVIII": "XVIII",
     "XⅧ": "XVIII",
     "XIX": "XIX",
@@ -200,7 +201,8 @@ debuff = {
     "MAGIA": ("Magia Damage Down", True, False),
     "ACCEL": ("Accele MP Gain Down", True, False),
     "BLAST": ("Blast Damage Down", True, False),
-    "CHARGE": ("Charged Attack Damage Down", True, False)
+    "CHARGE": ("Charged Attack Damage Down", True, False),
+    "ADD_DAMAGE": ("Apply Extra Damage", True, False)
 }
 
 buff_hpmax = {
@@ -350,6 +352,12 @@ jp_to_en = {
     "ライトライズ": "Light Rise",
     "ライトブレイク": "Light Break",
     "ソリッド ディフェンス": "Solid Defense",
+    "スターブレイカー": "Star Breaker",
+    "エターナルラヴ": "Eternal Love",
+    "デビル テンプテーション": "Devil Temptation",
+    "ディスアーマメント": "Disarmament",
+    "オブリビオン": "Oblivion",
+    "ジアンサー": "The Answer",
     "アンチ": "Anti",
     "・": " ",
     "[": " [",
@@ -461,7 +469,14 @@ jp_to_en = {
     "ティンバー": "Timber",
     "ゴーストマーチ": "Ghost March",
     "アシッド": "Acid",
-    "ノーブル": "Noble"
+    "ノーブル": "Noble",
+    "ヴァリアブル": "Variable",
+    "ホーリー": "Holy",
+    "デュオ": "Duo",
+    "ダウン": "Down",
+    "ブレイク": "Break",
+    "ディリジェンス": "Diligence",
+    "アピール": "Appeal"
 }
 
 # Subset of good effects that might be chance to happen

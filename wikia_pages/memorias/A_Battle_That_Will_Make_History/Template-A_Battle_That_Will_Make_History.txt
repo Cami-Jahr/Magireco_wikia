@@ -17,7 +17,7 @@
 | max_DEF = 2252
 
 | image = Attack Up
-| effect_name = スターブレイカー 
+| effect_name = Star Breaker 
 | effect_name_JP = スターブレイカー
 | effect1 = Attack Up [VII / 35%] & Damage Increase [IV / 20%] (Self / 1 Turn)
 | effect2 = Attack Up [VIII / 40%] & Damage Increase [V / 25%] (Self / 1 Turn)

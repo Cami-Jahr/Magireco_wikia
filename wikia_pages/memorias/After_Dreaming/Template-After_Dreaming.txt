@@ -17,7 +17,7 @@
 | max_DEF = 1150
 
 | image = Provoke
-| effect_name = アピールRegeneration 
+| effect_name = AppealRegeneration 
 | effect_name_JP = アピールリジェネレイト
 | effect1 = Provoke & Regenerate HP [VII / 8%] (Self / 1 Turn)
 | effect2 = Provoke & Regenerate HP [IX / 10%] (Self / 1 Turn)
