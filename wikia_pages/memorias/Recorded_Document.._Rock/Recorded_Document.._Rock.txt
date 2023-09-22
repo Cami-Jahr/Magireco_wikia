@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = どうでしょうか？ロックテイスト…の、衣装らしいです<br />あと、このギターはレスポールという種類だと伺いました<br />これはあくまで撮影の小道具…千束じゃないので演奏はしません<br />（リコリス・リコイルTVアニメ 第7話アイキャッチ）
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

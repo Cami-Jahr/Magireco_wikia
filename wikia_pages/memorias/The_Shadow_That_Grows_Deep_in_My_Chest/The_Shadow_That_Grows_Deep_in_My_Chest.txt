@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「私は先へ進むことができない…ずっと立ち止まっているわ…」<br />周りの影が、自分の影を隠してくれていたから<br />人の影ばかりを見て、自分の影から目を背けていた…<br />残った自分の影と目が合うと、それは大きくて歪になっていた…
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

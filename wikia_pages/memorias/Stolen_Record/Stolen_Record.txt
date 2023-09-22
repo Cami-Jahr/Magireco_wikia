@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 地球を包む救いの被膜が、魔女による搾取の結界へ様相を変える<br />魔法少女の明日を作り続けていた浄化の力は<br />過去から現在にかけて刻んできた歴史を覆す呪いの力となり<br />ひとつの宇宙を壊そうとしていた
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = たったひとつの願い事が今の私に導いたなんて<br />あの頃の私が聞いても、信じてくれないんだろうな<br />…まだ自分の意見も言えなくて、いい顔ばかりしていた私へ<br />つらいこともあるけど、それ以上の幸福が待っているからね
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

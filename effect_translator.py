@@ -18,6 +18,7 @@ roman_to_full = {
     "X": "X",
     "Ⅹ": "X",
     "XI": "XI",
+    "XⅠ": "XI",
     "XII": "XII",
     "XIII": "XIII",
     "XⅡ": "XII",

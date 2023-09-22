@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 誰もいない公園でひとり、どこまでも茜色に染まっている空を見ながら<br />ここが自分だけしかいない世界だったらどんなに素敵かと想像する<br />だって、もしそうだったとしたら、すべての“標準”は自分<br />誰と比べることも競うこともない…あるのはただ、平穏
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

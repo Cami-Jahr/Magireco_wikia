@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「また家族４人で行きたいね、ミナギーランド」<br />「わたし、今度はみかづき荘のみんなとも一緒に行きたいなっ」<br />「いいね、それ。フェリシアちゃんとか、すっごく喜びそう」<br />「みんなで遊んでる様子、お父さんとお母さんにも送ろうね」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

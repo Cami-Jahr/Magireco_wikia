@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 世界に奇跡が起きたとき、結婚したとき、優勝したとき<br />幸せがあふれた瞬間から、その日は記念日になる<br />そして今日は、みんなが幸せにしてくれたから、私の記念日<br />明日からは、もっとたくさんの人たちの間で記念日があふれる
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

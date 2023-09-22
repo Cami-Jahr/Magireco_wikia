@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = いつか一緒に戦った少女たちの姿は過去のもの<br />アラサーになった少女たちはひとりを除いて所帯持ち<br />そのひとりは今日も優雅に（？）シングルライフを満喫中<br />（巴マミの平凡な日常 10巻 発売決定記念）
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Recorded Document: Rock
+| ImageSrc = 
+| Event = 
+
+| Jname = 撮影記録：ロック
+| Rarity = 4
+| ID = 1955
+| Illust = -
+| Owner = 
+
+| min_HP = 861
+| min_ATK = 0
+| min_DEF = 941
+| max_HP = 2152
+| max_ATK = 0
+| max_DEF = 2352
+
+| image = Attack Up
+| effect_name = Penetrate Attack 
+| effect_name_JP = ペネトレイトアタック
+| effect1 = Attack Up [XI / 55%] & Chance to Defense Pierce [XI / 60%] (Self / 1 Turn)
+| effect2 = Attack Up [XII / 60%] & Chance to Defense Pierce [XII / 65%] (Self / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

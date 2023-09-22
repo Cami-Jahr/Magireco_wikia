@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Recorded Document: Relationship of Me and Guns
+| ImageSrc = 
+| Event = 
+
+| Jname = 撮影記録：私と銃の関係
+| Rarity = 3
+| ID = 1956
+| Illust = -
+| Owner = 
+
+| min_HP = 651
+| min_ATK = 681
+| min_DEF = 0
+| max_HP = 1628
+| max_ATK = 1702
+| max_DEF = 0
+
+| image = Dark Attribute Attack Up
+| effect_name = Dark Adept 
+| effect_name_JP = ダーク・アデプト
+| effect1 = Dark Attribute Attack Up [VII / 20%] & Attack Up [II / 10%]
+| effect2 = Dark Attribute Attack Up [VIII / 22.5%] & Attack Up [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 運命に抗おうとも悲しみで終わる魔法少女<br />その染みついた歴史に、魔女が悲しみを繁殖させて上塗りする<br />悲しみの連鎖を断つのは、希望を未来へ繋ぐ伝説<br />歴史に刻まれた絶望が今と結びついたとき、希望は未来へ運ばれる
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

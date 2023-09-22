@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Memories Left Behind
+| ImageSrc = 
+| Event = 
+
+| Jname = 残された記憶
+| Rarity = 3
+| ID = 1932
+| Illust = 都筑禰己
+| Owner = Nanami Yachiyo (Historia ver.)
+
+| min_HP = 482
+| min_ATK = 0
+| min_DEF = 482
+| max_HP = 1205
+| max_ATK = 0
+| max_DEF = 1205
+
+| image = Monopolize Draw
+| effect_name = Monopolize Draw
+| effect_name_JP = モノポライズドロー
+| effect1 = Monopolize Draw
+| effect2 = Monopolize Draw
+| Cooldown = 5
+| Cooldown2 = 4
+}}

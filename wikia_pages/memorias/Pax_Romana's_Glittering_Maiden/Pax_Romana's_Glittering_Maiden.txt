@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 叶う未来を夢見つづけた、幼い想いと恋心<br />叶えた先にあったのは、はかりしれない哀しみだった<br />心を殺した少女の瞳に、余生のごとく時は映り<br />看取った世界の記憶を胸に、ローマの安寧を心に誓う
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

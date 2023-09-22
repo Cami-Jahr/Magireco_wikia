@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = When I Was Twice My Age
+| ImageSrc = 
+| Event = 
+
+| Jname = 倍の歳になった姿は
+| Rarity = 4
+| ID = 1948
+| Illust = あらたまい
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 1948
+| max_ATK = 2148
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Rising Adept 
+| effect_name_JP = ライジング・アデプト
+| effect1 = 
+| effect2 = Attack Up [II / 10%] & Magia Damage Up [III / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 人類の感情は危険すぎると判断したインキュベーターに、彼女は告げる<br />「私たちの世界に沸いた呪いを処理するには<br />これからもあなたたちの存在が必要なの<br />協力してもらうわよ、インキュベーター」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Evidence of Transfiguration
+| ImageSrc = 
+| Event = 
+
+| Jname = 変貌のあかし
+| Rarity = 3
+| ID = 1937
+| Illust = 都筑禰己
+| Owner = Devil Homura
+
+| min_HP = 462
+| min_ATK = 0
+| min_DEF = 502
+| max_HP = 1155
+| max_ATK = 0
+| max_DEF = 1255
+
+| image = Remove Buffs
+| effect_name = ディスアーマメント
+| effect_name_JP = ディスアーマメント
+| effect1 = Remove Buffs (All Enemies)
+| effect2 = Remove Buffs (All Enemies)
+| Cooldown = 20
+| Cooldown2 = 13
+}}

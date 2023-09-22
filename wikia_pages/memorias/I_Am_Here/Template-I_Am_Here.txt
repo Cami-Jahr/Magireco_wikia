@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = I Am Here
+| ImageSrc = 
+| Event = 
+
+| Jname = 自分、いるんです
+| Rarity = 4
+| ID = 1945
+| Illust = あらたまい
+| Owner = 
+
+| min_HP = 941
+| min_ATK = 0
+| min_DEF = 861
+| max_HP = 2352
+| max_ATK = 0
+| max_DEF = 2152
+
+| image = Chance to Magia Seal
+| effect_name = Magia ブレイク 
+| effect_name_JP = マギア・ブレイク
+| effect1 = Chance to Magia Seal [100%] (Target / 1 Turn) & Damage Down [VIII / 40%] (All Enemies / 1 Turn)
+| effect2 = Chance to Magia Seal [100%] (Target / 1 Turn) & Damage Down [IX / 45%] (All Enemies / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Title, A Rockin' Chisato!
+| ImageSrc = 
+| Event = 
+
+| Jname = タイトルは、ロックな千束！
+| Rarity = 4
+| ID = 1952
+| Illust = -
+| Owner = 
+
+| min_HP = 821
+| min_ATK = 941
+| min_DEF = 0
+| max_HP = 2052
+| max_ATK = 2352
+| max_DEF = 0
+
+| image = Damage Increase
+| effect_name = ウォーリアステップ Adept 
+| effect_name_JP = ウォーリアステップ・アデプト
+| effect1 = Damage Increase [III / 15%] & Attack Up [II / 10%] & Chance to Evade [III / 20%]
+| effect2 = Damage Increase [IV / 20%] & Attack Up [III / 15%] & Chance to Evade [IV / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

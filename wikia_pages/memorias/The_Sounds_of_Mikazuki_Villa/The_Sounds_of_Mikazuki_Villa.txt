@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 床を叩く６つの足音。まばらだけど心地良い<br />声の高さも違うけど、調和がとれて馴染んでる<br />いつもが戻ってきた。これが求めていた姿<br />永遠がないとしても、この家の音色に永久を願う
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

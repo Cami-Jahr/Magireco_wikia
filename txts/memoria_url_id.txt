@@ -935,5 +935,9 @@
 1948;When I Was Twice My Age
 1949;The Scenery of the Hospital Room is Everything
 1950;Two People Reflected in the Mirror
+1952;The Title, A Rockin' Chisato!
+1953;The Title, Me Taking a Photo!
+1955;Recorded Document: Rock
+1956;Recorded Document: Relationship of Me and Guns
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

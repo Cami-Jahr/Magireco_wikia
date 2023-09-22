@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 手にしたそれはソウルジェムではなく、グリーフシードでもない<br />「私のソウルジェムを濁らせたのは、もはや呪いでさえなかった<br />これこそが人間の感情の極み<br />希望よりも熱く絶望よりも深いもの…愛よ」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

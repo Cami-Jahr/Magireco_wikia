@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = どうよ、決まってるでしょ？これがロックな千束サンですよーってね！<br />せっかくなら演奏して撮影しよーってたきなに提案したんだけど<br />任務じゃないからって、断られたんだよ～<br />（リコリス・リコイルTVアニメ 第7話アイキャッチ）
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

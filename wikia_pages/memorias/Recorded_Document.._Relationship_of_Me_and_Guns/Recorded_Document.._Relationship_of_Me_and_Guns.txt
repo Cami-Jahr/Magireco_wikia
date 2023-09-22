@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = そうですね、実際にこんなことをしたら戦いにくいのですが<br />私と銃は切っても切れない関係なので、このようなポーズを<br />そんなに物騒ですかね…？<br />（リコリス・リコイルTVアニメ 第9話アイキャッチ）
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

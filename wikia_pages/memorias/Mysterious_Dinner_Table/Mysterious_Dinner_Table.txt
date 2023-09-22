@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = あの人が家にいてくれたら、とっても美味しい食事が毎日食べられる<br />お腹が空いてきたなぁと思って食卓を見ると、素敵なご馳走が並んでる<br />うれしいな、うれしいな、まるで魔法のようだな<br />うれしいな、うれしいな、いつの間に作っているんだろう？
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

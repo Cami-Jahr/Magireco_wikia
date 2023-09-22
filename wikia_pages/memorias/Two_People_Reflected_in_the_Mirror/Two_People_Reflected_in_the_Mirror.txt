@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = ぶっちゃけ、正しいことをしてるつもりなんてさらさらないんだよね<br />ただ自分勝手に傲慢に、幸せになろうと全力なだけだから<br />どんな犠牲が出るとか、恨まれるとか、興味すらないわけ<br />大切なのは私チャンたちの愛が、どんな命よりも重いってことだけ
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

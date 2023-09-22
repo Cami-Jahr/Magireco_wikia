@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Battle That Will Make History
+| ImageSrc = 
+| Event = 
+
+| Jname = 歴史を残す決戦
+| Rarity = 4
+| ID = 1933
+| Illust = -
+| Owner = 
+
+| min_HP = 901
+| min_ATK = 0
+| min_DEF = 901
+| max_HP = 2252
+| max_ATK = 0
+| max_DEF = 2252
+
+| image = Attack Up
+| effect_name = スターブレイカー 
+| effect_name_JP = スターブレイカー
+| effect1 = Attack Up [VII / 35%] & Damage Increase [IV / 20%] (Self / 1 Turn)
+| effect2 = Attack Up [VIII / 40%] & Damage Increase [V / 25%] (Self / 1 Turn)
+| Cooldown = 10
+| Cooldown2 = 9
+}}

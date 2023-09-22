@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = After Family Time...
+| ImageSrc = 
+| Event = 
+
+| Jname = 家族の時間を経て…
+| Rarity = 4
+| ID = 1943
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2148
+| max_ATK = 1948
+| max_DEF = 0
+
+| image = Episode Experience Gain Increased
+| effect_name = Episode Bloom Adept 
+| effect_name_JP = エピソードブルーム・アデプト
+| effect1 = 
+| effect2 = Episode Experience Gain Increased [IV / 30%] & Attack Up [II / 10%] & Defense Up [II / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

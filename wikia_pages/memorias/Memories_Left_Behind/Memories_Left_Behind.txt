@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = いなくなったあの子の息づかいを、今も近くに感じる<br />耳を澄ませば声が聞こえてきて、一緒に過ごした日々がよみがえる<br />それなのに空虚なのは、残滓だけで魂がないから<br />…胸に秘めた想いは鉛のように重くなって、心の中に沈んでいく
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

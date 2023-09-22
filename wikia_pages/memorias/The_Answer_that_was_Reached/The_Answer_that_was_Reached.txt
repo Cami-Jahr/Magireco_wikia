@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「真実なんて知りたくもないはずなのに<br />つくづく人間の好奇心というものは理不尽だね」<br />「インキュベーター<br />やっぱり、何もかもあなたの仕業だったのね」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

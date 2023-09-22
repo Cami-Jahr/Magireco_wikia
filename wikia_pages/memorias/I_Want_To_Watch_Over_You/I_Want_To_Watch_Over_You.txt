@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 今日もあの子は一生懸命、机に向かって宿題をしている<br />自分はそれを邪魔しないように、そっと後ろから応援する<br />頑張れ！集中！あとちょっとだよ！<br />やがてあの子は宿題を終えると、自分に気づかず去っていく
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

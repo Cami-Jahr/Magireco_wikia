@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = クルミの写真を撮ってる私を撮った写真！…って、ややこしいか<br />ほら、最近は写真って言ったらスマホでしょ？それもいいんだけど<br />たまにはフィルムで撮るのもいいでしょ！<br />（リコリス・リコイルTVアニメ 第6話アイキャッチ）
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

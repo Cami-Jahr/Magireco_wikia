@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 身近な町の姿すら知らず、想像を膨らませるだけだった少女たちは<br />空の上から世界を眺め、一緒に救いの手を差し伸べるようになっている<br />お休みの日は地上で家族や友人と過ごし、戻ればまた４人で一緒<br />当たり前のことができる日常は、あの頃に欲していたものかもしれない
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
