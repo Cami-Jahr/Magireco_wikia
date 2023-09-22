@@ -1,0 +1,177 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Mitsuru Inami
+| name_jp = 伊並 満
+| element = Flame
+| base_rarity = 4
+| max_rarity = 5
+| id = 3022
+| type = Heal
+| growth_type = HP
+| school_jp = ―
+| voice_actor_jp = 豊田萌絵
+| designer_jp = あらたまい
+| memoria = 
+| release_date = 2023-09-11
+| event_limit = 
+
+| accele_disks = 1
+| blast_vert_disks = 0
+| blast_hori_disks = 1
+| charge_disks = 3
+
+| 4star_hp_lv1 = 8159
+| 4star_attack_lv1 = 1907
+| 4star_defense_lv1 = 2095
+| 4star_hp_max = 30220
+| 4star_attack_max = 6716
+| 4star_defense_max = 7433
+| 4star_illustrator_jp = あらたまい
+
+| 5star_hp_lv1 = 9055
+| 5star_attack_lv1 = 2120
+| 5star_defense_lv1 = 2329
+| 5star_hp_max = 37306
+| 5star_attack_max = 8289
+| 5star_defense_max = 9176
+| 5star_illustrator_jp = ダリク
+
+| se_hp_bonus = 8173
+| se_attack_bonus = 2326
+| se_defense_bonus = 2655
+
+| se accele bonus = 3
+| se blast bonus = 6
+| se charge bonus = 8
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Defense Up
+| Passive 3 name = Guard Adept [III]
+| Passive 3 name JP = ガード・アデプト[Ⅲ]
+| Passive 3 effect = Defense Up [III / 22.5%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Aqua Attribute Damage Cut
+| Passive 6 name = Aqua Shield Adept [VIII]
+| Passive 6 name JP = アクアシールド・アデプト[Ⅷ]
+| Passive 6 effect = Aqua Attribute Damage Cut [VIII / 40%]
+
+| Passive 7 icon = Regenerate HP
+| Passive 7 name = Regenerate Adept [V]
+| Passive 7 name JP = リジェネレイト・アデプト[Ⅴ]
+| Passive 7 effect = Regenerate HP [V / 6%]
+
+| Passive 8 icon = MP Up When Damaged
+| Passive 8 name = Endor Adept [VI]
+| Passive 8 name JP = エンドア・アデプト[Ⅵ]
+| Passive 8 effect = MP Up When Damaged [VI / 6 MP]
+
+| Passive 9 icon = MP Gauge Increased On Battle Start
+| Passive 9 name = Fast Mana Up
+| Passive 9 name JP = ファスト・マナアップ
+| Passive 9 effect = MP Gauge Increased On Battle Start [40% full]
+
+| Passive 10 icon = Skill Quicken
+| Passive 10 name = Skill Quicken Aura
+| Passive 10 name JP = スキルクイックオーラ
+| Passive 10 effect = Skill Quicken (Self / 1 Turn on Battle Start)
+
+| Passive 11 icon = Charge Combo Charge Count Up
+| Passive 11 name = Charge Combo Plus [V]
+| Passive 11 name JP = チャージコンボプラス[Ⅴ]
+| Passive 11 effect = Charge Combo Charge Count Up [+5]
+
+| Passive 12 icon = Endure
+| Passive 12 name = Indomitable [XX]
+| Passive 12 name JP = インドミタブル[XX]
+| Passive 12 effect = Endure & Regenerate HP [XX / 30%] (Self / 1 Turn on Battle Start)
+
+| Active 1 icon = Magia Damage Down
+| Active 1 name = オブリビオン [V]
+| Active 1 name JP = オブリビオン[Ⅴ]
+| Active 1 effect = Magia Damage Down [V / 25%] & MP Gain Down [X / 55%] (All Enemies / 2 Turns)
+| Active 1 cooldown = 8
+
+| Connect name JP = 気にしないでください…
+| Connect name EN = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = HP Restore
+| Connect 2 / 1 = VII / 45%
+| Connect 2 / 2 = IX / 50%
+| Connect effect 3 = Charge Conservation
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
+
+| Magia name JP = 普痛球
+| Magia name EN = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 5%
+| Magia 1 / 1 = I / 100%
+| Magia 1 / 2 = I / 110%
+| Magia effect 2 = Attack Down
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All Enemies / 3 Turns / 25%
+| Magia 2 / 2 = All Enemies / 3 Turns / 30%
+| Magia effect 3 = Accele MP Gain Down
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = All Enemies / 3 Turns / 25%
+| Magia 3 / 2 = All Enemies / 3 Turns / 30%
+| Magia effect 4 = MP Gain Down
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = All Enemies / 3 Turns / 30%
+| Magia 4 / 2 = All Enemies / 3 Turns / 40%
+| Magia effect 5 = MP Damage
+| Magia scaling 5 = -
+| Magia 5 / 1 = All Enemies / 30 MP
+| Magia 5 / 2 = All Enemies / 40 MP
+| Magia effect 6 = Negate Status Ailments
+| Magia scaling 6 = -
+| Magia 6 / 1 = Allies / 3 Turns / 1 Status Ailment
+| Magia 6 / 2 = Allies / 3 Turns / 1 Status Ailment
+| Magia effect 7 = HP Restore
+| Magia scaling 7 = 2%
+| Magia 7 / 1 = Allies / 17.5%
+| Magia 7 / 2 = Allies / 20%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 環視のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、複眼
+| Doppel Japanese Designer = 原案・監修：あらたまい
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = I / 308%
+| Magia2 effect 2 = Attack Down
+| Magia2 2 = All Enemies / 5 Turns / 45%
+| Magia2 effect 3 = Accele MP Gain Down
+| Magia2 3 = All Enemies / 5 Turns / 45%
+| Magia2 effect 4 = MP Gain Down
+| Magia2 4 = All Enemies / 5 Turns / 60%
+| Magia2 effect 5 = MP Damage
+| Magia2 5 = All Enemies / 60 MP
+| Magia2 effect 6 = Negate Status Ailments
+| Magia2 6 = Allies / 5 Turns / 2 Status Ailments
+| Magia2 effect 7 = HP Restore
+| Magia2 7 = Allies / 33%
+}}

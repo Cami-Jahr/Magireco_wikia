@@ -84,7 +84,8 @@
 1309;Minami Rena (Anime ver.)
 1401;Iroha & Ui (Miko ver.)
 1402;Nanami Yachiyo (Fairy Tale ver.)
-1501;Tamaki Iroha (Anime ver.)
+1501;Tamaki Iroha (Anime ver.);
+1502;Nanami Yachiyo (Historia ver.)
 1601;Infinite Iroha
 1701;Infinity Iroha-chan
 2001;Kaname Madoka
@@ -101,6 +102,7 @@
 2104;Madoka & Iroha
 2106;Kaname Madoka (Mizugi ver.)
 2201;Akuma Homura-chan
+2202;Devil Homura
 2203;Akemi Homura (Haregi ver.)
 2300;Akemi Homura (Mizugi ver.)
 2400;Miki Sayaka (Haregi ver.)
@@ -133,6 +135,7 @@
 3019;Mariko Ayaka
 3020;Mao Himika
 3021;Suzuka Sakuya
+3022;Inami Mitsuru
 3023;Eri Aimi
 3024;Wakana Tsumugi
 3025;Isuzu Ren

@@ -45084,7 +45084,7 @@
   "1600": {
     "pieceId": 1600,
     "rank": "RANK_3",
-    "__update__": "2021-02-12T08:14:03.721Z",
+    "__update__": "2023-09-22T07:04:59.775Z",
     "pieceType": "SKILL",
     "pieceName": "約束を胸に刻んで",
     "attributeId": "ALL",
@@ -45120,7 +45120,8 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 160001,
     "pieceSkill2": {
@@ -45151,7 +45152,8 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": ">頼もしくなった背中に、柔らかくなった表情に＠>過ぎた時間の長さを感じます＠>あぁ、同じ時間を歩めたら、どんなに良かったか…＠>…なんて、あなたを困らせたりはしませんよ",
     "illustrator": "―",
@@ -49195,7 +49197,7 @@
   "1646": {
     "pieceId": 1646,
     "rank": "RANK_3",
-    "__update__": "2021-09-21T09:45:00.116Z",
+    "__update__": "2023-09-22T07:04:59.785Z",
     "pieceName": "ひとくちにのせて",
     "pieceType": "ABILITY",
     "attributeId": "ALL",
@@ -49228,7 +49230,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 164601,
     "pieceSkill2": {
@@ -49256,7 +49259,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "夕暮れに照らされて、いつになく穏やかに流れる時間に＠つい本音が出てしまいそうになるけれど…＠すべてを語らなくてもわかりあえると教えてくれたあなただから＠甘く冷たいひとくちにのせて、そっと感謝を伝えるわ",
     "illustrator": "―",
@@ -51180,7 +51184,7 @@
   "1669": {
     "pieceId": 1669,
     "rank": "RANK_4",
-    "__update__": "2021-09-14T01:12:59.663Z",
+    "__update__": "2023-08-22T14:54:36.417Z",
     "pieceName": "寝ても覚めても一緒に…",
     "pieceType": "ABILITY",
     "attributeId": "ALL",
@@ -51213,7 +51217,8 @@
         "effectValue": 100,
         "growPoint": 0
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 166901,
     "pieceSkill2": {
@@ -51241,7 +51246,8 @@
         "effectValue": 150,
         "growPoint": 0
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "夢の中で迷子になってしまわないように＠眠りの中ではぐれてしまわないように＠そっと手を重ねてぎゅっと繋いでおきたい＠いつでも一緒にいられるように…",
     "illustrator": "シャフト",
@@ -59110,7 +59116,7 @@
   "1762": {
     "pieceId": 1762,
     "rank": "RANK_3",
-    "__update__": "2022-05-11T07:54:47.357Z",
+    "__update__": "2023-09-22T07:04:59.687Z",
     "pieceType": "ABILITY",
     "pieceName": "かつて望んだこと…",
     "attributeId": "ALL",
@@ -59143,7 +59149,8 @@
         "growPoint": 0,
         "probability": 150
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 176201,
     "pieceSkill2": {
@@ -59171,7 +59178,8 @@
         "growPoint": 0,
         "probability": 200
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "お父様に捨てられひとり残されたわたし＠お父様とお母様のところにいきたかったわたし＠それは、わたしという存在の意義を見出せなかったから…＠この縄に身をゆだねれば全て報われる…かもしれない",
     "illustrator": "―",
@@ -64427,7 +64435,7 @@
   "1825": {
     "pieceId": 1825,
     "rank": "RANK_3",
-    "__update__": "2023-01-08T05:07:31.163Z",
+    "__update__": "2023-09-16T03:17:05.511Z",
     "pieceName": "平和な日常をこれからも",
     "pieceType": "ABILITY",
     "attributeId": "ALL",
@@ -64478,7 +64486,8 @@
         "growPoint": 10,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 182501,
     "pieceSkill2": {
@@ -64517,7 +64526,8 @@
         "growPoint": 10,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "すべてのことに終わりがあるのは、この日常だって例外じゃない＠けれどもう、終わりを寂しく思っても、捨てようとは思わない＠日々が進むと、やがて歩む道は別々になり、繋がりさえも変わっていく＠だけど私は信じてる。どれだけ未来へ進んでも繋がりは消えないことを",
     "illustrator": "都筑禰己",
@@ -65927,7 +65937,7 @@
   "1843": {
     "pieceId": 1843,
     "rank": "RANK_4",
-    "__update__": "2022-12-20T07:32:23.720Z",
+    "__update__": "2023-08-22T07:25:54.028Z",
     "pieceName": "魔法少女は魔法使い",
     "pieceType": "ABILITY",
     "attributeId": "ALL",
@@ -65960,7 +65970,8 @@
         "growPoint": 0,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 184301,
     "pieceSkill2": {
@@ -65988,7 +65999,8 @@
         "growPoint": 0,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "誤って届いたプレゼントから始まったクリスマスの出来事＠小さな雪玉が大きくなっていくように、想いは交錯して膨らんでいく＠でも、それをすべて溶かしたふたりのベファーナ＠ツリーを幸せで彩り、キラキラと輝かせる",
     "illustrator": "―",
@@ -68155,7 +68167,7 @@
   "1869": {
     "pieceId": 1869,
     "rank": "RANK_4",
-    "__update__": "2023-02-27T11:28:43.552Z",
+    "__update__": "2023-08-22T07:25:54.028Z",
     "pieceType": "SKILL",
     "pieceKind": "EVENT",
     "pieceName": "無心になりたくて",
@@ -68202,7 +68214,8 @@
         "genericValue": "EVENT_DAILYTOWER_1185_KEY"
       },
       "eventDescription": "＆「マギウスの指令書」追加獲得数＋5",
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 186901,
     "pieceSkill2": {
@@ -68243,7 +68256,8 @@
         "genericValue": "EVENT_DAILYTOWER_1185_KEY"
       },
       "eventDescription": "＆「マギウスの指令書」追加獲得数＋15",
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "（野菜、肉、野菜、肉、野菜、肉、野菜、肉…）＠「待って黒江！串はそれくらいあれば十分だよ！ありがと！」＠「え？あ…うん…」＠（何も考えなくていい作業だったから、つい没頭してた…）",
     "illustrator": "―",
@@ -69665,7 +69679,7 @@
   "1887": {
     "pieceId": 1887,
     "rank": "RANK_3",
-    "__update__": "2023-04-24T07:19:18.811Z",
+    "__update__": "2023-09-22T07:04:59.795Z",
     "pieceName": "陽光に誓う",
     "pieceType": "SKILL",
     "attributeId": "ALL",
@@ -69701,7 +69715,8 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 188701,
     "pieceSkill2": {
@@ -69732,7 +69747,8 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "海辺にひとり静かに佇み、目の前の景色を見つめていると＠戦場で聞いた戦士たちの咆哮が胸を突き抜けていく＠水平線に沈む陽は、強く輝きながら空を茜色に染める＠そしてそれは何度も繰り返す…明日も、明後日も、その先も",
     "illustrator": "―",
@@ -73574,5 +73590,2284 @@
     "description": "少女は何者かに出会った…灯に導かれて辿り着いた怪異の世界で＠そして、自分でも気づかぬ内に“未知なる自分”へと姿を変えた＠これは夢でも幻でもなく、実体験としての怪異譚＠彼女はなってしまったのだ…不可思議な世界の登場人物に",
     "illustrator": "―",
     "openDate": "2023/08/04 15:10:00"
+  },
+  "1932": {
+    "pieceId": 1932,
+    "rank": "RANK_3",
+    "__update__": "2023-08-17T14:51:24.392Z",
+    "pieceName": "残された記憶",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "charaIds": "1502",
+    "charaList": [
+      {
+        "charaId": 1502,
+        "name": "七海 やちよ ヒストリアver."
+      }
+    ],
+    "attack": 0,
+    "defense": 482,
+    "hp": 482,
+    "skillId": 193200,
+    "pieceSkill": {
+      "id": 193200,
+      "groupId": 1161,
+      "name": "モノポライズドロー",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "自分のDiscドロー",
+      "messageId": 70,
+      "artId1": 700211700,
+      "art1": {
+        "artId": 700211700,
+        "verbCode": "DRAW",
+        "effectCode": "CHARACTER",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 193201,
+    "pieceSkill2": {
+      "id": 193201,
+      "groupId": 1161,
+      "name": "モノポライズドロー",
+      "type": "SKILL",
+      "intervalTurn": 4,
+      "shortDescription": "自分のDiscドロー",
+      "messageId": 70,
+      "artId1": 700211700,
+      "art1": {
+        "artId": 700211700,
+        "verbCode": "DRAW",
+        "effectCode": "CHARACTER",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "いなくなったあの子の息づかいを、今も近くに感じる＠耳を澄ませば声が聞こえてきて、一緒に過ごした日々がよみがえる＠それなのに空虚なのは、残滓だけで魂がないから＠…胸に秘めた想いは鉛のように重くなって、心の中に沈んでいく",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/08/17 15:10:00"
+  },
+  "1933": {
+    "pieceId": 1933,
+    "rank": "RANK_4",
+    "__update__": "2023-08-17T13:13:16.155Z",
+    "pieceType": "SKILL",
+    "pieceName": "歴史を残す決戦",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 901,
+    "hp": 901,
+    "skillId": 193300,
+    "pieceSkill": {
+      "id": 193300,
+      "groupId": 1085,
+      "name": "スターブレイカー[Ⅶ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "攻撃力UP[Ⅶ] & ダメージアップ状態[Ⅳ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201107,
+      "art1": {
+        "artId": 310201107,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 610206104,
+      "art2": {
+        "artId": 610206104,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 193301,
+    "pieceSkill2": {
+      "id": 193301,
+      "groupId": 1085,
+      "name": "スターブレイカー[Ⅷ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "攻撃力UP[Ⅷ] & ダメージアップ状態[Ⅴ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201108,
+      "art1": {
+        "artId": 310201108,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 610206105,
+      "art2": {
+        "artId": 610206105,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 1,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "運命に抗おうとも悲しみで終わる魔法少女＠その染みついた歴史に、魔女が悲しみを繁殖させて上塗りする＠悲しみの連鎖を断つのは、希望を未来へ繋ぐ伝説＠歴史に刻まれた絶望が今と結びついたとき、希望は未来へ運ばれる",
+    "illustrator": "―",
+    "openDate": "2023/08/17 15:10:00"
+  },
+  "1934": {
+    "pieceId": 1934,
+    "rank": "RANK_3",
+    "__update__": "2023-08-17T13:29:45.558Z",
+    "pieceType": "ABILITY",
+    "pieceName": "胸の奥で育つ影",
+    "attributeId": "ALL",
+    "attack": 681,
+    "defense": 0,
+    "hp": 651,
+    "skillId": 193400,
+    "pieceSkill": {
+      "id": 193400,
+      "groupId": 1092,
+      "name": "フルバースト・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅲ] & Accele MPUP[Ⅱ]",
+      "artId1": 390201803,
+      "art1": {
+        "artId": 390201803,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201602,
+      "art2": {
+        "artId": 390201602,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 193401,
+    "pieceSkill2": {
+      "id": 193401,
+      "groupId": 1092,
+      "name": "フルバースト・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅳ] & Accele MPUP[Ⅲ]",
+      "artId1": 390201804,
+      "art1": {
+        "artId": 390201804,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201603,
+      "art2": {
+        "artId": 390201603,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「私は先へ進むことができない…ずっと立ち止まっているわ…」＠周りの影が、自分の影を隠してくれていたから＠人の影ばかりを見て、自分の影から目を背けていた…＠残った自分の影と目が合うと、それは大きくて歪になっていた…",
+    "illustrator": "―",
+    "openDate": "2023/08/17 15:10:00"
+  },
+  "1935": {
+    "pieceId": 1935,
+    "rank": "RANK_4",
+    "__update__": "2023-08-17T13:11:33.644Z",
+    "pieceType": "ABILITY",
+    "pieceName": "パクス・ロマーナの煌乙女",
+    "attributeId": "ALL",
+    "attack": 818,
+    "defense": 0,
+    "hp": 818,
+    "skillId": 193500,
+    "pieceSkill": {
+      "id": 193500,
+      "groupId": 1085,
+      "name": "アップリフト・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅲ] & 状態異常耐性UP[Ⅱ]",
+      "artId1": 390201103,
+      "art1": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201502,
+      "art2": {
+        "artId": 390201502,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 193501,
+    "pieceSkill2": {
+      "id": 193501,
+      "groupId": 1085,
+      "name": "アップリフト・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅲ] & 状態異常耐性UP[Ⅱ]",
+      "artId1": 390201103,
+      "art1": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201502,
+      "art2": {
+        "artId": 390201502,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "叶う未来を夢見つづけた、幼い想いと恋心＠叶えた先にあったのは、はかりしれない哀しみだった＠心を殺した少女の瞳に、余生のごとく時は映り＠看取った世界の記憶を胸に、ローマの安寧を心に誓う",
+    "illustrator": "―",
+    "openDate": "2023/08/17 15:10:00"
+  },
+  "1936": {
+    "pieceId": 1936,
+    "rank": "RANK_4",
+    "__update__": "2023-08-17T13:11:33.642Z",
+    "pieceType": "SKILL",
+    "pieceName": "奪われしレコード",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 819,
+    "hp": 819,
+    "skillId": 193600,
+    "pieceSkill": {
+      "id": 193600,
+      "groupId": 1085,
+      "name": "ブルームライズ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "攻撃力UP[Ⅴ] & 防御力UP[Ⅳ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201105,
+      "art1": {
+        "artId": 330201105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201204,
+      "art2": {
+        "artId": 330201204,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 193601,
+    "pieceSkill2": {
+      "id": 193601,
+      "groupId": 1085,
+      "name": "ブルームライズ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "攻撃力UP[Ⅴ] & 防御力UP[Ⅳ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201105,
+      "art1": {
+        "artId": 330201105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201204,
+      "art2": {
+        "artId": 330201204,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "地球を包む救いの被膜が、魔女による搾取の結界へ様相を変える＠魔法少女の明日を作り続けていた浄化の力は＠過去から現在にかけて刻んできた歴史を覆す呪いの力となり＠ひとつの宇宙を壊そうとしていた",
+    "illustrator": "―",
+    "openDate": "2023/08/17 15:10:00"
+  },
+  "1937": {
+    "pieceId": 1937,
+    "rank": "RANK_3",
+    "__update__": "2023-08-22T07:47:12.437Z",
+    "pieceName": "変貌のあかし",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "charaIds": "2202",
+    "charaList": [
+      {
+        "charaId": 2202,
+        "name": "悪魔ほむら"
+      }
+    ],
+    "attack": 0,
+    "defense": 502,
+    "hp": 462,
+    "skillId": 193700,
+    "pieceSkill": {
+      "id": 193700,
+      "groupId": 1083,
+      "name": "ディスアーマメント",
+      "type": "SKILL",
+      "intervalTurn": 20,
+      "shortDescription": "状態強化解除(敵全)",
+      "messageId": 72,
+      "artId1": 200300900,
+      "art1": {
+        "artId": 200300900,
+        "verbCode": "REVOKE",
+        "effectCode": "GOOD",
+        "targetId": "ALL",
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 193701,
+    "pieceSkill2": {
+      "id": 193701,
+      "groupId": 1083,
+      "name": "ディスアーマメント",
+      "type": "SKILL",
+      "intervalTurn": 13,
+      "shortDescription": "状態強化解除(敵全)",
+      "messageId": 72,
+      "artId1": 200300900,
+      "art1": {
+        "artId": 200300900,
+        "verbCode": "REVOKE",
+        "effectCode": "GOOD",
+        "targetId": "ALL",
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "手にしたそれはソウルジェムではなく、グリーフシードでもない＠「私のソウルジェムを濁らせたのは、もはや呪いでさえなかった＠これこそが人間の感情の極み＠希望よりも熱く絶望よりも深いもの…愛よ」",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/08/22 15:10:00"
+  },
+  "1938": {
+    "pieceId": 1938,
+    "rank": "RANK_4",
+    "__update__": "2023-08-22T07:25:17.093Z",
+    "pieceType": "SKILL",
+    "pieceName": "協力してもらうわよ",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 981,
+    "hp": 821,
+    "skillId": 193800,
+    "pieceSkill": {
+      "id": 193800,
+      "groupId": 1094,
+      "name": "クウェルブルーム・デュオ[Ⅶ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "攻撃力 & 防御力DOWN[Ⅶ] & さらに攻撃力DOWN[Ⅲ](敵全/1T)",
+      "messageId": 72,
+      "artId1": 410302007,
+      "art1": {
+        "artId": 410302007,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "ALL",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 410302107,
+      "art2": {
+        "artId": 410302107,
+        "verbCode": "DEBUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "ALL",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId3": 410302003,
+      "art3": {
+        "artId": 410302003,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "ALL",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 193801,
+    "pieceSkill2": {
+      "id": 193801,
+      "groupId": 1094,
+      "name": "クウェルブルーム・デュオ[Ⅷ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "攻撃力 & 防御力DOWN[Ⅷ] & さらに攻撃力DOWN[Ⅲ](敵全/1T)",
+      "messageId": 72,
+      "artId1": 410302008,
+      "art1": {
+        "artId": 410302008,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "ALL",
+        "effectValue": 400,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 410302108,
+      "art2": {
+        "artId": 410302108,
+        "verbCode": "DEBUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "ALL",
+        "effectValue": 400,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId3": 410302003,
+      "art3": {
+        "artId": 410302003,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "ALL",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "人類の感情は危険すぎると判断したインキュベーターに、彼女は告げる＠「私たちの世界に沸いた呪いを処理するには＠これからもあなたたちの存在が必要なの＠協力してもらうわよ、インキュベーター」",
+    "illustrator": "―",
+    "openDate": "2023/08/22 15:10:00"
+  },
+  "1939": {
+    "pieceId": 1939,
+    "rank": "RANK_4",
+    "__update__": "2023-08-22T07:25:17.119Z",
+    "pieceType": "ABILITY",
+    "pieceName": "たどり着いた答え",
+    "attributeId": "ALL",
+    "attack": 941,
+    "defense": 0,
+    "hp": 821,
+    "skillId": 193900,
+    "pieceSkill": {
+      "id": 193900,
+      "groupId": 1119,
+      "name": "ジ・アンサー[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "ダメージアップ状態[Ⅱ] & 攻撃力UP[Ⅱ] & MP獲得量UP[Ⅲ]",
+      "artId1": 690206102,
+      "art1": {
+        "artId": 690206102,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201102,
+      "art2": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201903,
+      "art3": {
+        "artId": 390201903,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 193901,
+    "pieceSkill2": {
+      "id": 193901,
+      "groupId": 1119,
+      "name": "ジ・アンサー[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "ダメージアップ状態[Ⅲ] & 攻撃力UP[Ⅱ] & MP獲得量UP[Ⅳ]",
+      "artId1": 690206103,
+      "art1": {
+        "artId": 690206103,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201102,
+      "art2": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201904,
+      "art3": {
+        "artId": 390201904,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「真実なんて知りたくもないはずなのに＠つくづく人間の好奇心というものは理不尽だね」＠「インキュベーター＠やっぱり、何もかもあなたの仕業だったのね」",
+    "illustrator": "―",
+    "openDate": "2023/08/22 15:10:00"
+  },
+  "1940": {
+    "pieceId": 1940,
+    "rank": "RANK_4",
+    "__update__": "2023-08-22T07:25:54.035Z",
+    "pieceType": "ABILITY",
+    "pieceName": "いつかの環いろはへ",
+    "attributeId": "ALL",
+    "attack": 901,
+    "defense": 0,
+    "hp": 861,
+    "skillId": 194000,
+    "pieceSkill": {
+      "id": 194000,
+      "groupId": 1085,
+      "name": "グロー・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅳ] & 防御力UP[Ⅲ] & 状態異常耐性UP[Ⅱ]",
+      "artId1": 390201104,
+      "art1": {
+        "artId": 390201104,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201203,
+      "art2": {
+        "artId": 390201203,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201502,
+      "art3": {
+        "artId": 390201502,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 194001,
+    "pieceSkill2": {
+      "id": 194001,
+      "groupId": 1085,
+      "name": "グロー・アデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅴ] & 防御力UP[Ⅳ] & 状態異常耐性UP[Ⅲ]",
+      "artId1": 390201105,
+      "art1": {
+        "artId": 390201105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201204,
+      "art2": {
+        "artId": 390201204,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201503,
+      "art3": {
+        "artId": 390201503,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "たったひとつの願い事が今の私に導いたなんて＠あの頃の私が聞いても、信じてくれないんだろうな＠…まだ自分の意見も言えなくて、いい顔ばかりしていた私へ＠つらいこともあるけど、それ以上の幸福が待っているからね",
+    "illustrator": "―",
+    "openDate": "2023/08/22 15:10:00"
+  },
+  "1941": {
+    "pieceId": 1941,
+    "rank": "RANK_4",
+    "__update__": "2023-08-28T13:58:38.063Z",
+    "pieceName": "みかづき荘の音",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 779,
+    "hp": 859,
+    "skillId": 194100,
+    "pieceSkill": {
+      "id": 194100,
+      "groupId": 1078,
+      "name": "キュアヒール・サークル[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "HP回復[Ⅴ](味全)",
+      "messageId": 71,
+      "artId1": 200300405,
+      "art1": {
+        "artId": 200300405,
+        "verbCode": "HEAL",
+        "effectCode": "HP",
+        "targetId": "ALL",
+        "effectValue": 200,
+        "growPoint": 20
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 194101,
+    "pieceSkill2": {
+      "id": 194101,
+      "groupId": 1078,
+      "name": "キュアヒール・サークル[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "HP回復[Ⅴ](味全)",
+      "messageId": 71,
+      "artId1": 200300405,
+      "art1": {
+        "artId": 200300405,
+        "verbCode": "HEAL",
+        "effectCode": "HP",
+        "targetId": "ALL",
+        "effectValue": 200,
+        "growPoint": 20
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "床を叩く６つの足音。まばらだけど心地良い＠声の高さも違うけど、調和がとれて馴染んでる＠いつもが戻ってきた。これが求めていた姿＠永遠がないとしても、この家の音色に永久を願う",
+    "illustrator": "―",
+    "openDate": "2023/08/22 15:10:00"
+  },
+  "1942": {
+    "pieceId": 1942,
+    "rank": "RANK_4",
+    "__update__": "2023-08-22T07:25:54.027Z",
+    "pieceType": "SKILL",
+    "pieceName": "決意の記念日",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 819,
+    "hp": 819,
+    "skillId": 194200,
+    "pieceSkill": {
+      "id": 194200,
+      "groupId": 1082,
+      "name": "カウンタラクト",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "デバフ解除(自)",
+      "messageId": 70,
+      "artId1": 200200800,
+      "art1": {
+        "artId": 200200800,
+        "verbCode": "REVOKE",
+        "effectCode": "DEBUFF",
+        "targetId": "SELF",
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 194201,
+    "pieceSkill2": {
+      "id": 194201,
+      "groupId": 1082,
+      "name": "カウンタラクト",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "デバフ解除(自)",
+      "messageId": 70,
+      "artId1": 200200800,
+      "art1": {
+        "artId": 200200800,
+        "verbCode": "REVOKE",
+        "effectCode": "DEBUFF",
+        "targetId": "SELF",
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "世界に奇跡が起きたとき、結婚したとき、優勝したとき＠幸せがあふれた瞬間から、その日は記念日になる＠そして今日は、みんなが幸せにしてくれたから、私の記念日＠明日からは、もっとたくさんの人たちの間で記念日があふれる",
+    "illustrator": "―",
+    "openDate": "2023/08/22 15:10:00"
+  },
+  "1943": {
+    "pieceId": 1943,
+    "rank": "RANK_4",
+    "__update__": "2023-08-22T07:25:17.158Z",
+    "pieceType": "ABILITY",
+    "pieceName": "家族の時間を経て…",
+    "attributeId": "ALL",
+    "attack": 779,
+    "defense": 0,
+    "hp": 859,
+    "skillId": 194300,
+    "pieceSkill": {
+      "id": 194300,
+      "groupId": 1173,
+      "name": "エピソードブルーム・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "獲得エピソードポイントUP[Ⅳ] & 攻撃力UP[Ⅱ] & 防御力UP[Ⅱ]",
+      "artId1": 700216304,
+      "art1": {
+        "artId": 700216304,
+        "verbCode": "OTHER",
+        "effectCode": "EPISODE_UP",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 0
+      },
+      "artId2": 390201102,
+      "art2": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201202,
+      "art3": {
+        "artId": 390201202,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 194301,
+    "pieceSkill2": {
+      "id": 194301,
+      "groupId": 1173,
+      "name": "エピソードブルーム・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "獲得エピソードポイントUP[Ⅳ] & 攻撃力UP[Ⅱ] & 防御力UP[Ⅱ]",
+      "artId1": 700216304,
+      "art1": {
+        "artId": 700216304,
+        "verbCode": "OTHER",
+        "effectCode": "EPISODE_UP",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 0
+      },
+      "artId2": 390201102,
+      "art2": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201202,
+      "art3": {
+        "artId": 390201202,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「また家族４人で行きたいね、ミナギーランド」＠「わたし、今度はみかづき荘のみんなとも一緒に行きたいなっ」＠「いいね、それ。フェリシアちゃんとか、すっごく喜びそう」＠「みんなで遊んでる様子、お父さんとお母さんにも送ろうね」",
+    "illustrator": "―",
+    "openDate": "2023/08/22 15:10:00"
+  },
+  "1944": {
+    "pieceId": 1944,
+    "rank": "RANK_3",
+    "__update__": "2023-09-11T10:02:38.667Z",
+    "pieceName": "不思議な食卓",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "charaIds": "3022",
+    "charaList": [
+      {
+        "charaId": 3022,
+        "name": "伊並 満"
+      }
+    ],
+    "attack": 0,
+    "defense": 462,
+    "hp": 502,
+    "skillId": 194400,
+    "pieceSkill": {
+      "id": 194400,
+      "groupId": 1167,
+      "name": "チャージドロー",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "Chargeドロー",
+      "messageId": 70,
+      "artId1": 700211900,
+      "art1": {
+        "artId": 700211900,
+        "verbCode": "DRAW",
+        "effectCode": "CHARGE",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 194401,
+    "pieceSkill2": {
+      "id": 194401,
+      "groupId": 1167,
+      "name": "チャージドロー",
+      "type": "SKILL",
+      "intervalTurn": 4,
+      "shortDescription": "Chargeドロー",
+      "messageId": 70,
+      "artId1": 700211900,
+      "art1": {
+        "artId": 700211900,
+        "verbCode": "DRAW",
+        "effectCode": "CHARGE",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "あの人が家にいてくれたら、とっても美味しい食事が毎日食べられる＠お腹が空いてきたなぁと思って食卓を見ると、素敵なご馳走が並んでる＠うれしいな、うれしいな、まるで魔法のようだな＠うれしいな、うれしいな、いつの間に作っているんだろう？",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/09/11 15:10:00"
+  },
+  "1945": {
+    "pieceId": 1945,
+    "rank": "RANK_4",
+    "__update__": "2023-09-11T08:04:23.609Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "自分、いるんです",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 861,
+    "hp": 941,
+    "skillId": 194500,
+    "pieceSkill": {
+      "id": 194500,
+      "groupId": 1113,
+      "name": "マギア・ブレイク[Ⅷ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "必ずマギア不可(敵単/1T) & 与えるダメージDOWN[Ⅷ](敵全/1T)",
+      "messageId": 72,
+      "artId1": 510006000,
+      "art1": {
+        "artId": 510006000,
+        "verbCode": "CONDITION_BAD",
+        "effectCode": "BAN_MAGIA",
+        "targetId": "TARGET",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 410302208,
+      "art2": {
+        "artId": 410302208,
+        "verbCode": "DEBUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "ALL",
+        "effectValue": 400,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1200,
+      "eventArtId1": 1200003,
+      "eventArt1": {
+        "artId": 1200003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1200_KEY"
+      },
+      "eventDescription": "＆「商店街の福引券」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 194501,
+    "pieceSkill2": {
+      "id": 194501,
+      "groupId": 1113,
+      "name": "マギア・ブレイク[Ⅸ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "必ずマギア不可(敵単/1T) & 与えるダメージDOWN[Ⅸ](敵全/1T)",
+      "messageId": 72,
+      "artId1": 510006000,
+      "art1": {
+        "artId": 510006000,
+        "verbCode": "CONDITION_BAD",
+        "effectCode": "BAN_MAGIA",
+        "targetId": "TARGET",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 410302209,
+      "art2": {
+        "artId": 410302209,
+        "verbCode": "DEBUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "ALL",
+        "effectValue": 450,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1200,
+      "eventArtId1": 1200004,
+      "eventArt1": {
+        "artId": 1200004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1200_KEY"
+      },
+      "eventDescription": "＆「商店街の福引券」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "わざとやってるわけじゃないんです…本当なんです、嘘じゃないです＠存在感が皆無なんです…やっちゃうんです、ついついなんです＠スーッと背後に立ってるんです…無意識なんです、自然なんです＠これは自然な振舞いなんです…いつものことです、“普通”なんです",
+    "illustrator": "あらたまい",
+    "openDate": "2023/09/11 15:10:00"
+  },
+  "1946": {
+    "pieceId": 1946,
+    "rank": "RANK_3",
+    "__update__": "2023-09-11T08:09:10.092Z",
+    "pieceName": "ベンチで見る夢",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 711,
+    "hp": 651,
+    "skillId": 194600,
+    "pieceSkill": {
+      "id": 194600,
+      "groupId": 1097,
+      "name": "ディストラクション[Ⅸ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "マギアダメージDOWN[Ⅸ] & 攻撃力DOWN[Ⅱ](敵単/1T)",
+      "messageId": 72,
+      "artId1": 410002309,
+      "art1": {
+        "artId": 410002309,
+        "verbCode": "DEBUFF",
+        "effectCode": "MAGIA",
+        "targetId": "TARGET",
+        "effectValue": 450,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 410002002,
+      "art2": {
+        "artId": 410002002,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "TARGET",
+        "effectValue": 100,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 194601,
+    "pieceSkill2": {
+      "id": 194601,
+      "groupId": 1097,
+      "name": "ディストラクション[Ⅹ]",
+      "type": "SKILL",
+      "intervalTurn": 4,
+      "shortDescription": "マギアダメージDOWN[X] & 攻撃力DOWN[Ⅲ](敵単/1T)",
+      "messageId": 72,
+      "artId1": 410002310,
+      "art1": {
+        "artId": 410002310,
+        "verbCode": "DEBUFF",
+        "effectCode": "MAGIA",
+        "targetId": "TARGET",
+        "effectValue": 500,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 410002003,
+      "art2": {
+        "artId": 410002003,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "TARGET",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "誰もいない公園でひとり、どこまでも茜色に染まっている空を見ながら＠ここが自分だけしかいない世界だったらどんなに素敵かと想像する＠だって、もしそうだったとしたら、すべての“標準”は自分＠誰と比べることも競うこともない…あるのはただ、平穏",
+    "illustrator": "―",
+    "openDate": "2023/09/11 15:10:00"
+  },
+  "1947": {
+    "pieceId": 1947,
+    "rank": "RANK_3",
+    "__update__": "2023-09-11T08:04:23.591Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "見守りたいの",
+    "attributeId": "ALL",
+    "attack": 645,
+    "defense": 0,
+    "hp": 585,
+    "skillId": 194700,
+    "pieceSkill": {
+      "id": 194700,
+      "groupId": 1085,
+      "name": "ブルーム・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅲ] & 防御力UP[Ⅲ]",
+      "artId1": 390201103,
+      "art1": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201203,
+      "art2": {
+        "artId": 390201203,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1200,
+      "eventArtId1": 1200001,
+      "eventArt1": {
+        "artId": 1200001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1200_KEY"
+      },
+      "eventDescription": "＆「商店街の福引券」追加獲得数＋1",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 194701,
+    "pieceSkill2": {
+      "id": 194701,
+      "groupId": 1085,
+      "name": "ブルーム・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅲ] & 防御力UP[Ⅲ]",
+      "artId1": 390201103,
+      "art1": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201203,
+      "art2": {
+        "artId": 390201203,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1200,
+      "eventArtId1": 1200002,
+      "eventArt1": {
+        "artId": 1200002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1200_KEY"
+      },
+      "eventDescription": "＆「商店街の福引券」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "今日もあの子は一生懸命、机に向かって宿題をしている＠自分はそれを邪魔しないように、そっと後ろから応援する＠頑張れ！集中！あとちょっとだよ！＠やがてあの子は宿題を終えると、自分に気づかず去っていく",
+    "illustrator": "こざくら",
+    "openDate": "2023/09/11 15:10:00"
+  },
+  "1948": {
+    "pieceId": 1948,
+    "rank": "RANK_4",
+    "__update__": "2023-09-11T08:04:23.621Z",
+    "pieceType": "ABILITY",
+    "pieceName": "倍の歳になった姿は",
+    "attributeId": "ALL",
+    "attack": 859,
+    "defense": 0,
+    "hp": 779,
+    "skillId": 194800,
+    "pieceSkill": {
+      "id": 194800,
+      "groupId": 1085,
+      "name": "ライジング・アデプト[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅱ] & マギアダメージUP[Ⅲ]",
+      "artId1": 390201102,
+      "art1": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201403,
+      "art2": {
+        "artId": 390201403,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 194801,
+    "pieceSkill2": {
+      "id": 194801,
+      "groupId": 1085,
+      "name": "ライジング・アデプト[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅱ] & マギアダメージUP[Ⅲ]",
+      "artId1": 390201102,
+      "art1": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201403,
+      "art2": {
+        "artId": 390201403,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "いつか一緒に戦った少女たちの姿は過去のもの＠アラサーになった少女たちはひとりを除いて所帯持ち＠そのひとりは今日も優雅に（？）シングルライフを満喫中＠（巴マミの平凡な日常 10巻 発売決定記念）",
+    "illustrator": "あらたまい",
+    "openDate": "2023/09/11 15:10:00"
+  },
+  "1949": {
+    "pieceId": 1949,
+    "rank": "RANK_4",
+    "__update__": "2023-09-11T08:04:23.594Z",
+    "pieceType": "SKILL",
+    "pieceName": "病室の風景が全て",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 901,
+    "hp": 901,
+    "skillId": 194900,
+    "pieceSkill": {
+      "id": 194900,
+      "groupId": 1094,
+      "name": "モラール・ダウン[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "攻撃力DOWN[Ⅳ] & MP獲得量 DOWN[Ⅷ](敵全/1T)",
+      "messageId": 72,
+      "artId1": 410302004,
+      "art1": {
+        "artId": 410302004,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "ALL",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 410302808,
+      "art2": {
+        "artId": 410302808,
+        "verbCode": "DEBUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "ALL",
+        "effectValue": 450,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 194901,
+    "pieceSkill2": {
+      "id": 194901,
+      "groupId": 1094,
+      "name": "モラール・ダウン[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "攻撃力DOWN[Ⅴ] & MP獲得量 DOWN[Ⅸ](敵全/1T)",
+      "messageId": 72,
+      "artId1": 410302005,
+      "art1": {
+        "artId": 410302005,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "ALL",
+        "effectValue": 250,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 410302809,
+      "art2": {
+        "artId": 410302809,
+        "verbCode": "DEBUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "ALL",
+        "effectValue": 500,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "身近な町の姿すら知らず、想像を膨らませるだけだった少女たちは＠空の上から世界を眺め、一緒に救いの手を差し伸べるようになっている＠お休みの日は地上で家族や友人と過ごし、戻ればまた４人で一緒＠当たり前のことができる日常は、あの頃に欲していたものかもしれない",
+    "illustrator": "―",
+    "openDate": "2023/09/11 15:10:00"
+  },
+  "1950": {
+    "pieceId": 1950,
+    "rank": "RANK_4",
+    "__update__": "2023-09-11T08:04:23.636Z",
+    "pieceType": "SKILL",
+    "pieceName": "鏡に映るふたりの存在",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 882,
+    "hp": 802,
+    "skillId": 195000,
+    "pieceSkill": {
+      "id": 195000,
+      "groupId": 1085,
+      "name": "ブルーム・サークル[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "攻撃力UP[Ⅲ] & 防御力UP[Ⅲ](味全/1T)",
+      "messageId": 71,
+      "artId1": 310301103,
+      "art1": {
+        "artId": 310301103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "ALL",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310301203,
+      "art2": {
+        "artId": 310301203,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "ALL",
+        "effectValue": 225,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 195001,
+    "pieceSkill2": {
+      "id": 195001,
+      "groupId": 1085,
+      "name": "ブルーム・サークル[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "攻撃力UP[Ⅲ] & 防御力UP[Ⅲ](味全/1T)",
+      "messageId": 71,
+      "artId1": 310301103,
+      "art1": {
+        "artId": 310301103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "ALL",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310301203,
+      "art2": {
+        "artId": 310301203,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "ALL",
+        "effectValue": 225,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "ぶっちゃけ、正しいことをしてるつもりなんてさらさらないんだよね＠ただ自分勝手に傲慢に、幸せになろうと全力なだけだから＠どんな犠牲が出るとか、恨まれるとか、興味すらないわけ＠大切なのは私チャンたちの愛が、どんな命よりも重いってことだけ",
+    "illustrator": "蒼樹うめ",
+    "openDate": "2023/09/11 15:10:00"
+  },
+  "1951": {
+    "pieceId": 1951,
+    "rank": "RANK_3",
+    "__update__": "2023-09-22T07:09:41.483Z",
+    "pieceName": "スペシャルなお悩み相談所",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "charaIds": "4061",
+    "charaList": [
+      {
+        "charaId": 4061,
+        "name": "錦木 千束"
+      }
+    ],
+    "attack": 502,
+    "defense": 0,
+    "hp": 462,
+    "skillId": 195100,
+    "pieceSkill": {
+      "id": 195100,
+      "groupId": 1090,
+      "name": "ブレイブ・スピリット[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "Accele MPUP[Ⅴ] & MP獲得量UP[Ⅳ] & 攻撃力UP[Ⅰ]",
+      "artId1": 390201605,
+      "art1": {
+        "artId": 390201605,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201904,
+      "art2": {
+        "artId": 390201904,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201101,
+      "art3": {
+        "artId": 390201101,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 195101,
+    "pieceSkill2": {
+      "id": 195101,
+      "groupId": 1090,
+      "name": "ブレイブ・スピリット[Ⅵ]",
+      "type": "ABILITY",
+      "shortDescription": "Accele MPUP[Ⅵ] & MP獲得量UP[Ⅴ] & 攻撃力UP[Ⅱ]",
+      "artId1": 390201606,
+      "art1": {
+        "artId": 390201606,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201905,
+      "art2": {
+        "artId": 390201905,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201102,
+      "art3": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「エミリーと千束っちのお悩み相談所におまかせあれ！」＠そんな声が聞こえるのは商店街の片隅、少女たちのたまり場＠異世界から来たと噂の新メンバーは、元気で明るく、笑顔にあふれ＠元の世界へ帰るまでの間、誰かの悩みを楽しく解決してくれる",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/09/22 15:10:00"
+  },
+  "1952": {
+    "pieceId": 1952,
+    "rank": "RANK_4",
+    "__update__": "2023-09-22T07:07:42.316Z",
+    "pieceName": "タイトルは、ロックな千束！",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 941,
+    "defense": 0,
+    "hp": 821,
+    "skillId": 195200,
+    "pieceSkill": {
+      "id": 195200,
+      "groupId": 1119,
+      "name": "ウォーリアステップ・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "ダメージアップ状態[Ⅲ] & 攻撃力UP[Ⅱ] & 確率で回避[Ⅲ]",
+      "artId1": 690206103,
+      "art1": {
+        "artId": 690206103,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201102,
+      "art2": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690206803,
+      "art3": {
+        "artId": 690206803,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 200
+      },
+      "eventId": 1201,
+      "eventArtId1": 1201003,
+      "eventArt1": {
+        "artId": 1201003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1201_EXCHANGE_1"
+      },
+      "eventDescription": "＆「喫茶リコリコの割引券」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 195201,
+    "pieceSkill2": {
+      "id": 195201,
+      "groupId": 1119,
+      "name": "ウォーリアステップ・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "ダメージアップ状態[Ⅳ] & 攻撃力UP[Ⅲ] & 確率で回避[Ⅳ]",
+      "artId1": 690206104,
+      "art1": {
+        "artId": 690206104,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201103,
+      "art2": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690206804,
+      "art3": {
+        "artId": 690206804,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 250
+      },
+      "eventId": 1201,
+      "eventArtId1": 1201004,
+      "eventArt1": {
+        "artId": 1201004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1201_EXCHANGE_1"
+      },
+      "eventDescription": "＆「喫茶リコリコの割引券」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "どうよ、決まってるでしょ？これがロックな千束サンですよーってね！＠せっかくなら演奏して撮影しよーってたきなに提案したんだけど＠任務じゃないからって、断られたんだよ～＠（リコリス・リコイルTVアニメ 第7話アイキャッチ）",
+    "illustrator": "―",
+    "openDate": "2023/09/22 15:10:00"
+  },
+  "1953": {
+    "pieceId": 1953,
+    "rank": "RANK_3",
+    "__update__": "2023-09-22T07:06:18.415Z",
+    "pieceName": "タイトルは、写真を撮る私！",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 681,
+    "defense": 0,
+    "hp": 651,
+    "skillId": 195300,
+    "pieceSkill": {
+      "id": 195300,
+      "groupId": 1235,
+      "name": "ライト・アデプト[Ⅶ]",
+      "type": "ABILITY",
+      "shortDescription": "光属性攻撃力UP[Ⅶ] & 攻撃力UP[Ⅱ]",
+      "artId1": 390221307,
+      "art1": {
+        "artId": 390221307,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_LIGHT",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25
+      },
+      "artId2": 390201102,
+      "art2": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 195301,
+    "pieceSkill2": {
+      "id": 195301,
+      "groupId": 1235,
+      "name": "ライト・アデプト[Ⅷ]",
+      "type": "ABILITY",
+      "shortDescription": "光属性攻撃力UP[Ⅷ] & 攻撃力UP[Ⅲ]",
+      "artId1": 390221308,
+      "art1": {
+        "artId": 390221308,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_LIGHT",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "growPoint": 25
+      },
+      "artId2": 390201103,
+      "art2": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "クルミの写真を撮ってる私を撮った写真！…って、ややこしいか＠ほら、最近は写真って言ったらスマホでしょ？それもいいんだけど＠たまにはフィルムで撮るのもいいでしょ！＠（リコリス・リコイルTVアニメ 第6話アイキャッチ）",
+    "illustrator": "―",
+    "openDate": "2023/09/22 15:10:00"
+  },
+  "1954": {
+    "pieceId": 1954,
+    "rank": "RANK_3",
+    "__update__": "2023-09-22T07:09:41.484Z",
+    "pieceName": "似顔絵特訓の成果",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "charaIds": "4062",
+    "charaList": [
+      {
+        "charaId": 4062,
+        "name": "井ノ上 たきな"
+      }
+    ],
+    "attack": 502,
+    "defense": 0,
+    "hp": 462,
+    "skillId": 195400,
+    "pieceSkill": {
+      "id": 195400,
+      "groupId": 1092,
+      "name": "モラールブラスト・アデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅴ] & Blast攻撃時MP獲得[Ⅲ]",
+      "artId1": 390201805,
+      "art1": {
+        "artId": 390201805,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690220003,
+      "art2": {
+        "artId": 690220003,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "MP_PLUS_BLAST",
+        "targetId": "SELF",
+        "effectValue": 30,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 195401,
+    "pieceSkill2": {
+      "id": 195401,
+      "groupId": 1092,
+      "name": "モラールブラスト・アデプト[Ⅵ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅵ] & Blast攻撃時MP獲得[Ⅳ]",
+      "artId1": 390201806,
+      "art1": {
+        "artId": 390201806,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690220004,
+      "art2": {
+        "artId": 690220004,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "MP_PLUS_BLAST",
+        "targetId": "SELF",
+        "effectValue": 40,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "神浜市のプロフェッショナルを巡る特訓は成長への道のり＠自分を振り回す相手を見返すために始めた練習の成果は＠お世辞にも上出来とは言えないはずなのに＠少女の瞳は、期待と希望で輝いていた",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/09/22 15:10:00"
+  },
+  "1955": {
+    "pieceId": 1955,
+    "rank": "RANK_4",
+    "__update__": "2023-09-22T07:07:42.317Z",
+    "pieceName": "撮影記録：ロック",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 941,
+    "hp": 861,
+    "skillId": 195500,
+    "pieceSkill": {
+      "id": 195500,
+      "groupId": 1085,
+      "name": "ペネトレイトアタック[XⅠ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "攻撃力UP[XⅠ] & 確率で防御無視[XⅠ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201111,
+      "art1": {
+        "artId": 310201111,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 550,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 610206611,
+      "art2": {
+        "artId": 610206611,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DEFENSE_IGNORED",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 600
+      },
+      "eventId": 1201,
+      "eventArtId1": 1201003,
+      "eventArt1": {
+        "artId": 1201003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1201_EXCHANGE_1"
+      },
+      "eventDescription": "＆「喫茶リコリコの割引券」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 195501,
+    "pieceSkill2": {
+      "id": 195501,
+      "groupId": 1085,
+      "name": "ペネトレイトアタック[XⅡ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "攻撃力UP[XⅡ] & 確率で防御無視[XⅡ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201112,
+      "art1": {
+        "artId": 310201112,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 600,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 610206612,
+      "art2": {
+        "artId": 610206612,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DEFENSE_IGNORED",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 650
+      },
+      "eventId": 1201,
+      "eventArtId1": 1201004,
+      "eventArt1": {
+        "artId": 1201004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1201_EXCHANGE_1"
+      },
+      "eventDescription": "＆「喫茶リコリコの割引券」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "どうでしょうか？ロックテイスト…の、衣装らしいです＠あと、このギターはレスポールという種類だと伺いました＠これはあくまで撮影の小道具…千束じゃないので演奏はしません＠（リコリス・リコイルTVアニメ 第7話アイキャッチ）",
+    "illustrator": "―",
+    "openDate": "2023/09/22 15:10:00"
+  },
+  "1956": {
+    "pieceId": 1956,
+    "rank": "RANK_3",
+    "__update__": "2023-09-22T07:41:38.583Z",
+    "pieceName": "撮影記録：私と銃の関係",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 681,
+    "defense": 0,
+    "hp": 651,
+    "skillId": 195600,
+    "pieceSkill": {
+      "id": 195600,
+      "groupId": 1234,
+      "name": "ダーク・アデプト[Ⅶ]",
+      "type": "ABILITY",
+      "shortDescription": "闇属性攻撃力UP[Ⅶ] & 攻撃力UP[Ⅱ]",
+      "artId1": 390221207,
+      "art1": {
+        "artId": 390221207,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_DARK",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25
+      },
+      "artId2": 390201102,
+      "art2": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 195601,
+    "pieceSkill2": {
+      "id": 195601,
+      "groupId": 1234,
+      "name": "ダーク・アデプト[Ⅷ]",
+      "type": "ABILITY",
+      "shortDescription": "闇属性攻撃力UP[Ⅷ] & 攻撃力UP[Ⅲ]",
+      "artId1": 390221208,
+      "art1": {
+        "artId": 390221208,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_DARK",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "growPoint": 25
+      },
+      "artId2": 390201103,
+      "art2": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "そうですね、実際にこんなことをしたら戦いにくいのですが＠私と銃は切っても切れない関係なので、このようなポーズを＠そんなに物騒ですかね…？＠（リコリス・リコイルTVアニメ 第9話アイキャッチ）",
+    "illustrator": "―",
+    "openDate": "2023/09/22 15:10:00"
+  },
+  "1957": {
+    "pieceId": 1957,
+    "rank": "RANK_4",
+    "__update__": "2023-09-22T07:04:03.645Z"
+  },
+  "1958": {
+    "pieceId": 1958,
+    "rank": "RANK_4",
+    "__update__": "2023-09-22T07:07:42.302Z",
+    "pieceType": "ABILITY",
+    "pieceName": "平穏な日常の裏側で",
+    "attributeId": "ALL",
+    "attack": 819,
+    "defense": 0,
+    "hp": 819,
+    "skillId": 195800,
+    "pieceSkill": {
+      "id": 195800,
+      "groupId": 1092,
+      "name": "オールディスク・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅳ] & Charge後ダメージUP[Ⅲ] & Accele MPUP[Ⅲ]",
+      "artId1": 390201804,
+      "art1": {
+        "artId": 390201804,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201703,
+      "art2": {
+        "artId": 390201703,
+        "verbCode": "BUFF",
+        "effectCode": "CHARGE",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201603,
+      "art3": {
+        "artId": 390201603,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 195801,
+    "pieceSkill2": {
+      "id": 195801,
+      "groupId": 1092,
+      "name": "オールディスク・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅳ] & Charge後ダメージUP[Ⅲ] & Accele MPUP[Ⅲ]",
+      "artId1": 390201804,
+      "art1": {
+        "artId": 390201804,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201703,
+      "art2": {
+        "artId": 390201703,
+        "verbCode": "BUFF",
+        "effectCode": "CHARGE",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201603,
+      "art3": {
+        "artId": 390201603,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "平穏な日々…その裏には秘密がある＠リコリスと呼ばれる、日常を守る少女たちの存在が＠社会から秘匿され、戦い続ける彼女たちの姿が＠（リコリス・リコイル キービジュアル第2弾）",
+    "illustrator": "―",
+    "openDate": "2023/09/22 15:10:00"
+  },
+  "1959": {
+    "pieceId": 1959,
+    "rank": "RANK_3",
+    "__update__": "2023-09-22T07:07:42.316Z",
+    "pieceType": "SKILL",
+    "pieceName": "自分たちで選ぶ未来",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 585,
+    "hp": 645,
+    "skillId": 195900,
+    "pieceSkill": {
+      "id": 195900,
+      "groupId": 1092,
+      "name": "フルバースト[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "Blast ダメージUP[Ⅴ] & Accele MPUP[Ⅴ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201805,
+      "art1": {
+        "artId": 310201805,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310201605,
+      "art2": {
+        "artId": 310201605,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1201,
+      "eventArtId1": 1201001,
+      "eventArt1": {
+        "artId": 1201001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1201_EXCHANGE_1"
+      },
+      "eventDescription": "＆「喫茶リコリコの割引券」追加獲得数＋1",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 195901,
+    "pieceSkill2": {
+      "id": 195901,
+      "groupId": 1092,
+      "name": "フルバースト[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "Blast ダメージUP[Ⅴ] & Accele MPUP[Ⅴ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201805,
+      "art1": {
+        "artId": 310201805,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310201605,
+      "art2": {
+        "artId": 310201605,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1201,
+      "eventArtId1": 1201002,
+      "eventArt1": {
+        "artId": 1201002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1201_EXCHANGE_1"
+      },
+      "eventDescription": "＆「喫茶リコリコの割引券」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "大切なのは日常か、使命か＠それを決めるのは自分自身＠彼女たちは、自分にとっての大切なものを救うために戦う＠（リコリス・リコイル キービジュアル第3弾）",
+    "illustrator": "―",
+    "openDate": "2023/09/22 15:10:00"
+  },
+  "1960": {
+    "pieceId": 1960,
+    "rank": "RANK_4",
+    "__update__": "2023-09-22T07:04:03.645Z"
+  },
+  "1961": {
+    "pieceId": 1961,
+    "pieceType": "SKILL",
+    "pieceName": "ネクスト☆アクター",
+    "attributeId": "ALL",
+    "rank": "RANK_4",
+    "attack": 0,
+    "defense": 779,
+    "hp": 859,
+    "skillId": 196100,
+    "pieceSkill": {
+      "id": 196100,
+      "groupId": 1086,
+      "name": "ガードライズ・サークル[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "防御力UP[Ⅲ](味全/3T)",
+      "messageId": 71,
+      "artId1": 330301203,
+      "art1": {
+        "artId": 330301203,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "ALL",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 196101,
+    "pieceSkill2": {
+      "id": 196101,
+      "groupId": 1086,
+      "name": "ガードライズ・サークル[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "防御力UP[Ⅲ](味全/3T)",
+      "messageId": 71,
+      "artId1": 330301203,
+      "art1": {
+        "artId": 330301203,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "ALL",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "６つを数えた峠を越えて、前人未踏の７つ目へ☆＠背中に担いだニューカマー。クランクインの準備はオッケー！＠どんな記録がされるのか、未来はさっぱりわからないから＠撮り直す用意はしておこう（マギレポ２・300回記念）",
+    "illustrator": "PAPA",
+    "openDate": "2023/09/26 17:00:00",
+    "__update__": "2023-09-22T07:07:42.357Z"
   }
 }

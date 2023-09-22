@@ -916,5 +916,24 @@
 1929;Kamihama Seven Wonders Investigation Corps...?
 1930;The Light of Hyakki Yagyou
 1931;Me and the Materializing New Me
+1932;Memories Left Behind
+1933;A Battle That Will Make History
+1934;The Shadow That Grows Deep in My Chest
+1935;Pax Romana's Glittering Maiden
+1936;Stolen Record
+1937;Evidence of Transfiguration
+1938;I'll Have You Cooperate
+1939;The Answer that was Reached
+1940;To Tamaki Iroha in Some Other Time
+1941;The Sounds of Mikazuki Villa
+1942;Anniversaries of Happiness
+1943;After Family Time...
+1944;Mysterious Dinner Table
+1945;I Am Here
+1946;Dream on the Bench
+1947;I Want To Watch Over You
+1948;When I Was Twice My Age
+1949;The Scenery of the Hospital Room is Everything
+1950;Two People Reflected in the Mirror
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection
