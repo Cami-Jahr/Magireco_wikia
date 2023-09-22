@@ -1,0 +1,6 @@
+﻿{{Inoue_Takina|Abilities}}
+
+{{Description
+| en = 
+| jp = ー
+}}

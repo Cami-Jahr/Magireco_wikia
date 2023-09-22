@@ -35,9 +35,9 @@
 | 5star_defense_max = 7906
 | 5star_illustrator_jp = ササギコウシ
 
-| se_hp_bonus = 5793
-| se_attack_bonus = 2426
-| se_defense_bonus = 3960
+| se_hp_bonus = 17793
+| se_attack_bonus = 3426
+| se_defense_bonus = 5960
 
 | se accele bonus = 6
 | se blast bonus = 6
@@ -102,6 +102,21 @@
 | Passive 12 name = Nursing Care [III]
 | Passive 12 name JP = ナーシングケア[Ⅲ]
 | Passive 12 effect = Regenerate HP [III / 4%] & Regenerate MP [III / 6 MP]
+
+| Passive 13 icon = Attack Up
+| Passive 13 name = Full Gauge Bloom [VII]
+| Passive 13 name JP = フルゲージ・ブルーム[Ⅶ]
+| Passive 13 effect = Attack Up While At Max Health [VII / 35%] & Defense Up While At Max Health [VII / 70%]
+
+| Passive 14 icon = Survive
+| Passive 14 name = Survive Adept [I]
+| Passive 14 name JP = サヴァイヴ・アデプト[Ⅰ]
+| Passive 14 effect = Survive [I / 20% HP]
+
+| Passive 15 icon = Damage Up Versus Witches
+| Passive 15 name = ホーリー Circle [X]
+| Passive 15 name JP = ホーリー・サークル[Ⅹ]
+| Passive 15 effect = Damage Up Versus Witches [X / 50%] & Regenerate MP [VI / 10.5 MP] & Accele MP Gain Up [III / 15%] & Blast Damage Up [III / 20%] & Charged Attack Damage Up [III / 12.5%]
 
 | Active 1 icon = Blast Damage Up
 | Active 1 name = All-Disc Circle [VII]

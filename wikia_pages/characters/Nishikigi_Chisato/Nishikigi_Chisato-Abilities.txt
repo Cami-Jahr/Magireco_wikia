@@ -1,0 +1,6 @@
+﻿{{Nishikigi_Chisato|Abilities}}
+
+{{Description
+| en = 
+| jp = ー
+}}

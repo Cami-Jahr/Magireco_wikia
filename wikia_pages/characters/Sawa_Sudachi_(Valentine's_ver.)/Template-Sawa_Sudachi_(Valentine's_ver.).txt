@@ -35,73 +35,73 @@
 | 5star_defense_max = 12123
 | 5star_illustrator_jp = ぷにゃん
 
-| se_hp_bonus = 
-| se_attack_bonus = 
-| se_defense_bonus = 
+| se_hp_bonus = 8644
+| se_attack_bonus = 2123
+| se_defense_bonus = 3816
 
-| se accele bonus = 
-| se blast bonus = 
-| se charge bonus = 
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 10
 
-| Passive 1 icon = Defense Up
-| Passive 1 name = Full Gauge Guard [VII]
-| Passive 1 name JP = フルゲージ・ガード[Ⅶ]
-| Passive 1 effect = Defense Up While At Max Health [VII / 70%]
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 2 icon = Defense Up
-| Passive 2 name = Guard Adept [II]
-| Passive 2 name JP = ガード・アデプト[Ⅱ]
-| Passive 2 effect = Defense Up [II / 15%]
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = Regenerate MP
-| Passive 3 name = Mana Spring Adept [V]
-| Passive 3 name JP = マナスプリング・アデプト[Ⅴ]
-| Passive 3 effect = Regenerate MP [V / 9 MP]
+| Passive 3 icon = Defense Up
+| Passive 3 name = Guard Adept [II]
+| Passive 3 name JP = ガード・アデプト[Ⅱ]
+| Passive 3 effect = Defense Up [II / 15%]
 
 | Passive 4 icon = Doppel Damage Up
 | Passive 4 name = Doppel Adept [I]
 | Passive 4 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = MP Up When Damaged
-| Passive 5 name = Endor Adept [X]
-| Passive 5 name JP = エンドア・アデプト[Ⅹ]
-| Passive 5 effect = MP Up When Damaged [X / 10 MP]
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Light Attribute Damage Cut
-| Passive 6 name = Light Shield Adept [III]
-| Passive 6 name JP = ライトシールド・アデプト[Ⅲ]
-| Passive 6 effect = Light Attribute Damage Cut [III / 15%]
+| Passive 6 icon = Dark Attribute Damage Cut
+| Passive 6 name = Dark Shield Adept [III]
+| Passive 6 name JP = ダークシールド・アデプト[Ⅲ]
+| Passive 6 effect = Dark Attribute Damage Cut [III / 15%]
 
-| Passive 7 icon = Regenerate HP
-| Passive 7 name = Regenerate Adept [II]
-| Passive 7 name JP = リジェネレイト・アデプト[Ⅱ]
-| Passive 7 effect = Regenerate HP [II / 3%]
+| Passive 7 icon = Light Attribute Damage Cut
+| Passive 7 name = Light Shield Adept [III]
+| Passive 7 name JP = ライトシールド・アデプト[Ⅲ]
+| Passive 7 effect = Light Attribute Damage Cut [III / 15%]
 
-| Passive 8 icon = MP Gain Up When Over 100 MP
-| Passive 8 name = MP Boost [II]
-| Passive 8 name JP = MPブースト[Ⅱ]
-| Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
+| Passive 8 icon = Damage Cut
+| Passive 8 name = Shield Adept [II]
+| Passive 8 name JP = シールド・アデプト[Ⅱ]
+| Passive 8 effect = Damage Cut [II / 10%]
 
-| Passive 9 icon = Doppel Damage Up
-| Passive 9 name = Doppel Adept [I]
-| Passive 9 name JP = ドッペル・アデプト[Ⅰ]
-| Passive 9 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+| Passive 9 icon = Defense Up
+| Passive 9 name = Full Gauge Guard [VII]
+| Passive 9 name JP = フルゲージ・ガード[Ⅶ]
+| Passive 9 effect = Defense Up While At Max Health [VII / 70%]
 
-| Passive 10 icon = Dark Attribute Damage Cut
-| Passive 10 name = Dark Shield Adept [III]
-| Passive 10 name JP = ダークシールド・アデプト[Ⅲ]
-| Passive 10 effect = Dark Attribute Damage Cut [III / 15%]
+| Passive 10 icon = Regenerate MP
+| Passive 10 name = Mana Spring Adept [V]
+| Passive 10 name JP = マナスプリング・アデプト[Ⅴ]
+| Passive 10 effect = Regenerate MP [V / 9 MP]
 
-| Passive 11 icon = MP Gain Up When Over 100 MP
-| Passive 11 name = MP Boost [II]
-| Passive 11 name JP = MPブースト[Ⅱ]
-| Passive 11 effect = MP Gain Up When Over 100 MP [II / 20%]
+| Passive 11 icon = MP Up When Damaged
+| Passive 11 name = Endor Adept [X]
+| Passive 11 name JP = エンドア・アデプト[Ⅹ]
+| Passive 11 effect = MP Up When Damaged [X / 10 MP]
 
-| Passive 12 icon = Damage Cut
-| Passive 12 name = Shield Adept [II]
-| Passive 12 name JP = シールド・アデプト[Ⅱ]
-| Passive 12 effect = Damage Cut [II / 10%]
+| Passive 12 icon = Regenerate HP
+| Passive 12 name = Regenerate Adept [II]
+| Passive 12 name JP = リジェネレイト・アデプト[Ⅱ]
+| Passive 12 effect = Regenerate HP [II / 3%]
 
 | Active 1 icon = Provoke
 | Active 1 name = Sweet Guardian

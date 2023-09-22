@@ -35,73 +35,73 @@
 | 5star_defense_max = 10104
 | 5star_illustrator_jp = PAPA
 
-| se_hp_bonus = 
-| se_attack_bonus = 
-| se_defense_bonus = 
+| se_hp_bonus = 5040
+| se_attack_bonus = 2064
+| se_defense_bonus = 4064
 
-| se accele bonus = 
-| se blast bonus = 
-| se charge bonus = 
+| se accele bonus = 6
+| se blast bonus = 6
+| se charge bonus = 5
 
-| Passive 1 icon = Doppel Damage Up
-| Passive 1 name = Doppel Adept [I]
-| Passive 1 name JP = ドッペル・アデプト[Ⅰ]
-| Passive 1 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 2 icon = Regenerate MP
-| Passive 2 name = Mana Spring Aura [VIII]
-| Passive 2 name JP = マナスプリング・オーラ[Ⅷ]
-| Passive 2 effect = Regenerate MP [VIII / 13.5 MP] (Self / ∞ Turns on Battle Start)
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = MP Gain Up When Over 100 MP
-| Passive 3 name = MP Boost [II]
-| Passive 3 name JP = MPブースト[Ⅱ]
-| Passive 3 effect = MP Gain Up When Over 100 MP [II / 20%]
+| Passive 3 icon = Damage Cut
+| Passive 3 name = Shield Adept [II]
+| Passive 3 name JP = シールド・アデプト[Ⅱ]
+| Passive 3 effect = Damage Cut [II / 10%]
 
 | Passive 4 icon = Doppel Damage Up
 | Passive 4 name = Doppel Adept [I]
 | Passive 4 name JP = ドッペル・アデプト[Ⅰ]
 | Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = Damage Cut
-| Passive 5 name = Shield Adept [II]
-| Passive 5 name JP = シールド・アデプト[Ⅱ]
-| Passive 5 effect = Damage Cut [II / 10%]
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Light Attribute Attack Up
-| Passive 6 name = Light Adept [II]
-| Passive 6 name JP = ライト・アデプト[Ⅱ]
-| Passive 6 effect = Light Attribute Attack Up [II / 7.5%]
+| Passive 6 icon = Defense Up
+| Passive 6 name = Guard Adept [III]
+| Passive 6 name JP = ガード・アデプト[Ⅲ]
+| Passive 6 effect = Defense Up [III / 22.5%]
 
-| Passive 7 icon = Anti-Magia Seal
-| Passive 7 name = Anti Seal Magia
-| Passive 7 name JP = アンチ・シールマギア
-| Passive 7 effect = Anti-Magia Seal
+| Passive 7 icon = Light Attribute Attack Up
+| Passive 7 name = Light Adept [II]
+| Passive 7 name JP = ライト・アデプト[Ⅱ]
+| Passive 7 effect = Light Attribute Attack Up [II / 7.5%]
 
-| Passive 8 icon = MP Gain Up When Over 100 MP
-| Passive 8 name = MP Boost [II]
-| Passive 8 name JP = MPブースト[Ⅱ]
-| Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
+| Passive 8 icon = Attack Up
+| Passive 8 name = Fury Adept [III]
+| Passive 8 name JP = フューリィ・アデプト[Ⅲ]
+| Passive 8 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]
 
-| Passive 9 icon = MP Gauge Increased On Battle Start
-| Passive 9 name = Fast Mana Up
-| Passive 9 name JP = ファスト・マナアップ
-| Passive 9 effect = MP Gauge Increased On Battle Start [15% full]
+| Passive 9 icon = Anti-Skill Seal
+| Passive 9 name = Anti Jammer
+| Passive 9 name JP = アンチ・ジャマ―
+| Passive 9 effect = Anti-Skill Seal
 
-| Passive 10 icon = Attack Up
-| Passive 10 name = Fury Adept [III]
-| Passive 10 name JP = フューリィ・アデプト[Ⅲ]
-| Passive 10 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]
+| Passive 10 icon = Anti-Magia Seal
+| Passive 10 name = Anti Seal Magia
+| Passive 10 name JP = アンチ・シールマギア
+| Passive 10 effect = Anti-Magia Seal
 
-| Passive 11 icon = Anti-Skill Seal
-| Passive 11 name = Anti Jammer
-| Passive 11 name JP = アンチ・ジャマ―
-| Passive 11 effect = Anti-Skill Seal
+| Passive 11 icon = MP Gauge Increased On Battle Start
+| Passive 11 name = Fast Mana Up
+| Passive 11 name JP = ファスト・マナアップ
+| Passive 11 effect = MP Gauge Increased On Battle Start [15% full]
 
-| Passive 12 icon = Defense Up
-| Passive 12 name = Guard Adept [III]
-| Passive 12 name JP = ガード・アデプト[Ⅲ]
-| Passive 12 effect = Defense Up [III / 22.5%]
+| Passive 12 icon = Regenerate MP
+| Passive 12 name = Mana Spring Aura [VIII]
+| Passive 12 name JP = マナスプリング・オーラ[Ⅷ]
+| Passive 12 effect = Regenerate MP [VIII / 13.5 MP] (Self / ∞ Turns on Battle Start)
 
 | Active 1 icon = Skill Quicken
 | Active 1 name = Infinite Possibilities

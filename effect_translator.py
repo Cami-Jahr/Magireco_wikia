@@ -29,6 +29,7 @@ roman_to_full = {
     "XVI": "XVI",
     "XVII": "XVII",
     "XVIII": "XVIII",
+    "XⅧ": "XVIII",
     "XIX": "XIX",
     "XX": "XX",
     "XXI": "XXI",

@@ -1,0 +1,6 @@
+﻿{{Devil_Homura|Abilities}}
+
+{{Description
+| en = 
+| jp = ー
+}}

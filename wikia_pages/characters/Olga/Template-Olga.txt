@@ -35,73 +35,73 @@
 | 5star_defense_max = 8854
 | 5star_illustrator_jp = 枡狐/蛙空
 
-| se_hp_bonus = 
-| se_attack_bonus = 
-| se_defense_bonus = 
+| se_hp_bonus = 7424
+| se_attack_bonus = 2109
+| se_defense_bonus = 2755
 
-| se accele bonus = 
-| se blast bonus = 
-| se charge bonus = 
+| se accele bonus = 4
+| se blast bonus = 6
+| se charge bonus = 8
 
-| Passive 1 icon = Blast MP Gain Up
-| Passive 1 name = Blast Salutation [IV]
-| Passive 1 name JP = ブラストサルテーション[Ⅳ]
-| Passive 1 effect = Blast MP Gain Up [IV / 4 MP]
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 2 icon = Anti-Evade
-| Passive 2 name = Aiming Adept [III]
-| Passive 2 name JP = エイミング・アデプト[Ⅲ]
-| Passive 2 effect = Chance to Anti-Evade [III / 35%]
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = Blast MP Gain Up
-| Passive 3 name = Blast Salutation Aura [VIII]
-| Passive 3 name JP = ブラストサルテーション・オーラ[Ⅷ]
-| Passive 3 effect = Blast MP Gain Up [VIII / 8 MP] (Self / 3 Turns on Battle Start)
+| Passive 3 icon = Anti-Evade
+| Passive 3 name = Aiming Adept [III]
+| Passive 3 name JP = エイミング・アデプト[Ⅲ]
+| Passive 3 effect = Chance to Anti-Evade [III / 35%]
 
-| Passive 4 icon = Attack Up
-| Passive 4 name = Fury Adept [III]
-| Passive 4 name JP = フューリィ・アデプト[Ⅲ]
-| Passive 4 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = Doppel Damage Up
-| Passive 5 name = Doppel Adept [I]
-| Passive 5 name JP = ドッペル・アデプト[Ⅰ]
-| Passive 5 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Aqua Attribute Attack Up
-| Passive 6 name = Aqua Assault Aura [V]
-| Passive 6 name JP = アクアアサルト・オーラ[Ⅴ]
-| Passive 6 effect = Aqua Attribute Attack Up [V / 15%] & Blast Damage Up [II / 20%] (Allies / ∞ Turns on Battle Start)
+| Passive 6 icon = Blast Damage Up
+| Passive 6 name = Blast Adept [II]
+| Passive 6 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 6 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 7 icon = Blast Damage Up
 | Passive 7 name = Blast Adept [II]
 | Passive 7 name JP = ブラスト・アデプト[Ⅱ]
 | Passive 7 effect = Blast Damage Up [II / 16.5%]
 
-| Passive 8 icon = MP Gain Up When Over 100 MP
-| Passive 8 name = MP Boost [II]
-| Passive 8 name JP = MPブースト[Ⅱ]
-| Passive 8 effect = MP Gain Up When Over 100 MP [II / 20%]
+| Passive 8 icon = Aqua Attribute Attack Up
+| Passive 8 name = Aqua Adept [II]
+| Passive 8 name JP = アクア・アデプト[Ⅱ]
+| Passive 8 effect = Aqua Attribute Attack Up [II / 7.5%]
 
-| Passive 9 icon = MP Gain Up When Over 100 MP
-| Passive 9 name = MP Boost [II]
-| Passive 9 name JP = MPブースト[Ⅱ]
-| Passive 9 effect = MP Gain Up When Over 100 MP [II / 20%]
+| Passive 9 icon = Blast MP Gain Up
+| Passive 9 name = Blast Salutation [IV]
+| Passive 9 name JP = ブラストサルテーション[Ⅳ]
+| Passive 9 effect = Blast MP Gain Up [IV / 4 MP]
 
-| Passive 10 icon = Doppel Damage Up
-| Passive 10 name = Doppel Adept [I]
-| Passive 10 name JP = ドッペル・アデプト[Ⅰ]
-| Passive 10 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+| Passive 10 icon = Blast MP Gain Up
+| Passive 10 name = Blast Salutation Aura [VIII]
+| Passive 10 name JP = ブラストサルテーション・オーラ[Ⅷ]
+| Passive 10 effect = Blast MP Gain Up [VIII / 8 MP] (Self / 3 Turns on Battle Start)
 
-| Passive 11 icon = Blast Damage Up
-| Passive 11 name = Blast Adept [II]
-| Passive 11 name JP = ブラスト・アデプト[Ⅱ]
-| Passive 11 effect = Blast Damage Up [II / 16.5%]
+| Passive 11 icon = Attack Up
+| Passive 11 name = Fury Adept [III]
+| Passive 11 name JP = フューリィ・アデプト[Ⅲ]
+| Passive 11 effect = Attack Up When Ally Dies [III / 5%] & Defense Up When Ally Dies [III / 10%]
 
 | Passive 12 icon = Aqua Attribute Attack Up
-| Passive 12 name = Aqua Adept [II]
-| Passive 12 name JP = アクア・アデプト[Ⅱ]
-| Passive 12 effect = Aqua Attribute Attack Up [II / 7.5%]
+| Passive 12 name = Aqua Assault Aura [V]
+| Passive 12 name JP = アクアアサルト・オーラ[Ⅴ]
+| Passive 12 effect = Aqua Attribute Attack Up [V / 15%] & Blast Damage Up [II / 20%] (Allies / ∞ Turns on Battle Start)
 
 | Active 1 icon = Blast Draw
 | Active 1 name = Blast Draw

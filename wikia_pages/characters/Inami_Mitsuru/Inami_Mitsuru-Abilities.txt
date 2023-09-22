@@ -1,4 +1,4 @@
-﻿{{Mitsuru_Inami|Abilities}}
+﻿{{Inami_Mitsuru|Abilities}}
 
 {{Description
 | en = 

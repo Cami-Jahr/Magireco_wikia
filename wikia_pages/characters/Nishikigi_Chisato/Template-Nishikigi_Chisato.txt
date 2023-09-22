@@ -1,0 +1,164 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Nishikigi Chisato
+| name_jp = 錦木 千束
+| element = Light
+| base_rarity = 4
+| max_rarity = 5
+| id = 4061
+| type = Balance
+| growth_type = BALANCE
+| school_jp = ―
+| voice_actor_jp = 安済知佳
+| designer_jp = ―
+| memoria = 
+| release_date = 2023-09-22
+| event_limit = 
+
+| accele_disks = 3
+| blast_vert_disks = 0
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 4star_hp_lv1 = 7503
+| 4star_attack_lv1 = 2341
+| 4star_defense_lv1 = 2280
+| 4star_hp_max = 27010
+| 4star_attack_max = 8427
+| 4star_defense_max = 8208
+| 4star_illustrator_jp = ぷにゃん
+
+| 5star_hp_lv1 = 8336
+| 5star_attack_lv1 = 2601
+| 5star_defense_lv1 = 2533
+| 5star_hp_max = 33344
+| 5star_attack_max = 10404
+| 5star_defense_max = 10132
+| 5star_illustrator_jp = ぷにゃん
+
+| se_hp_bonus = 7901
+| se_attack_bonus = 2301
+| se_defense_bonus = 3301
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 10
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Evade
+| Passive 3 name = Parry Adept [VII]
+| Passive 3 name JP = パリィ・アデプト[Ⅶ]
+| Passive 3 effect = Chance to Evade [VII / 40%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = MP Gain Up
+| Passive 6 name = Morale Adept [IV]
+| Passive 6 name JP = モラール・アデプト[Ⅳ]
+| Passive 6 effect = MP Gain Up [IV / 12.5%]
+
+| Passive 7 icon = Anti-Debuff
+| Passive 7 name = Anti Debuff
+| Passive 7 name JP = アンチ・デバフ
+| Passive 7 effect = Anti-Debuff [2 Debuffs] (∞ Turns on Battle Start)
+
+| Passive 8 icon = Negate Status Ailments
+| Passive 8 name = Resist Shield
+| Passive 8 name JP = レジストシールド
+| Passive 8 effect = Negate Status Ailments [2 Status Ailments] (∞ Turns on Battle Start)
+
+| Passive 9 icon = Regenerate HP
+| Passive 9 name = Nursing Care [III]
+| Passive 9 name JP = ナーシングケア[Ⅲ]
+| Passive 9 effect = Regenerate HP [III / 4%] & Regenerate MP [V / 9 MP]
+
+| Passive 10 icon = Attack Up
+| Passive 10 name = Full Gauge Drive [XII]
+| Passive 10 name JP = フルゲージドライブ[XⅡ]
+| Passive 10 effect = Attack Up While At Max Health [XII / 60%]
+
+| Passive 11 icon = Evade
+| Passive 11 name = Mana Springステップ [VIII]
+| Passive 11 name JP = マナスプリングステップ[Ⅷ]
+| Passive 11 effect = Evade (Self / 3 Turns on Battle Start) & Regenerate MP [VIII / 13.5 MP] (Self / 5 Turns on Battle Start)
+
+| Passive 12 icon = Light Attribute Attack Up
+| Passive 12 name = LightRising Aura [V]
+| Passive 12 name JP = ライトライジング・オーラ[Ⅴ]
+| Passive 12 effect = Light Attribute Attack Up [V / 15%] & Magia Damage Up [VII / 20%] (Self / 5 Turns on Battle Start)
+
+| Active 1 icon = Evade
+| Active 1 name = Lightヒーリングステップ [IX]
+| Active 1 name JP = ライトヒーリングステップ[Ⅸ]
+| Active 1 effect = Evade & Accele MP Gain Up [IX / 30%] & Regenerate HP [IX / 10%] (Self / 1 Turn)
+| Active 1 cooldown = 6
+
+| Connect name JP = 力を貸して！
+| Connect name EN = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Accele MP Gain Up
+| Connect 2 / 1 = V / 30%
+| Connect 2 / 2 = VII / 40%
+| Connect effect 3 = Evade
+| Connect 3 / 1 = 100%
+| Connect 3 / 2 = 100%
+
+| Magia name JP = Super Chisato Time
+| Magia name EN = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Attribute Strengthened Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 315%
+| Magia 1 / 2 = VII / 335%
+| Magia effect 2 = Light Attribute Attack Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = Self / 3 Turns / 25%
+| Magia 2 / 2 = Self / 3 Turns / 30%
+| Magia effect 3 = Damage Increase
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Self / 3 Turns / 30%
+| Magia 3 / 2 = Self / 3 Turns / 40%
+| Magia effect 4 = Negate Status Ailments
+| Magia scaling 4 = -
+| Magia 4 / 1 = Self / 3 Turns / 2 Status Ailments
+| Magia 4 / 2 = Self / 3 Turns / 2 Status Ailments
+| Magia effect 5 = Evade
+| Magia scaling 5 = -
+| Magia 5 / 1 = Self / 1 Turn / 100%
+| Magia 5 / 2 = Self / 1 Turn / 100%
+
+| Magia2 name JP = Mission of My Heart
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
+| Magia2 effect 1 = Attribute Strengthened Damage All Enemies
+| Magia2 1 = IX / 869%
+| Magia2 effect 2 = Light Attribute Attack Up
+| Magia2 2 = Self / 5 Turns / 50%
+| Magia2 effect 3 = Damage Increase
+| Magia2 3 = Self / 5 Turns / 60%
+| Magia2 effect 4 = Negate Status Ailments
+| Magia2 4 = Self / 5 Turns / 3 Status Ailments
+| Magia2 effect 5 = Regenerate MP
+| Magia2 5 = Self / 3 Turns / 16 MP
+| Magia2 effect 6 = Evade
+| Magia2 6 = Self / 2 Turns / 100%
+}}

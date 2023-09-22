@@ -84,7 +84,7 @@
 1309;Minami Rena (Anime ver.)
 1401;Iroha & Ui (Miko ver.)
 1402;Nanami Yachiyo (Fairy Tale ver.)
-1501;Tamaki Iroha (Anime ver.);
+1501;Tamaki Iroha (Anime ver.)
 1502;Nanami Yachiyo (Historia ver.)
 1601;Infinite Iroha
 1701;Infinity Iroha-chan
@@ -210,5 +210,7 @@
 4051;Takamachi Nanoha
 4052;Fate T. Harlaown
 4053;Yagami Hayate
+4061;Nishikigi Chisato
+4062;Inoue Takina
 4121;Isabeau (Witch ver.)
 4122;Isabeau

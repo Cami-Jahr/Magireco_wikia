@@ -99,12 +99,12 @@
 | Passive 11 effect = MP Gauge Increased On Battle Start [35% full]
 
 | Passive 12 icon = Forest Attribute Attack Up
-| Passive 12 name = ティンバーGlitter Rise [VII]
+| Passive 12 name = TimberGlitter Rise [VII]
 | Passive 12 name JP = ティンバーグリッターライズ[Ⅶ]
 | Passive 12 effect = Forest Attribute Attack Up [VII / 20%] & MP Gain Up [III / 10%] (Self / 5 Turns on Battle Start)
 
 | Active 1 icon = Status Ailment Resistance Down
-| Active 1 name = ゴーストマーチ
+| Active 1 name = Ghost March
 | Active 1 name JP = ゴーストマーチ
 | Active 1 effect = Status Ailment Resistance Down [X / 27.5%] & Chance to Strengthened Poison [100%] & Chance to Curse [100%] (Target / 1 Turn)
 | Active 1 cooldown = 10

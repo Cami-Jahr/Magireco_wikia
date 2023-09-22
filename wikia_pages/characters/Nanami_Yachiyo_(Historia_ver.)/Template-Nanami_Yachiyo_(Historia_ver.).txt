@@ -1,0 +1,164 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Nanami Yachiyo (Historia ver.)
+| name_jp = 七海 やちよ (ヒストリアver.)
+| element = Aqua
+| base_rarity = 4
+| max_rarity = 5
+| id = 1502
+| type = Unknown
+| growth_type = BALANCE
+| school_jp = ―
+| voice_actor_jp = 雨宮天
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2023-08-17
+| event_limit = 
+
+| accele_disks = 3
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 0
+
+| 4star_hp_lv1 = 8100
+| 4star_attack_lv1 = 2475
+| 4star_defense_lv1 = 2475
+| 4star_hp_max = 29160
+| 4star_attack_max = 8910
+| 4star_defense_max = 8910
+| 4star_illustrator_jp = ダリク
+
+| 5star_hp_lv1 = 9000
+| 5star_attack_lv1 = 2750
+| 5star_defense_lv1 = 2750
+| 5star_hp_max = 36000
+| 5star_attack_max = 11000
+| 5star_defense_max = 11000
+| 5star_illustrator_jp = くろにゃん
+
+| se_hp_bonus = 8168
+| se_attack_bonus = 2168
+| se_defense_bonus = 3168
+
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Blast Damage Up
+| Passive 3 name = Blast Adept [IV]
+| Passive 3 name JP = ブラスト・アデプト[Ⅳ]
+| Passive 3 effect = Blast Damage Up [IV / 25%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = MP Gain Up
+| Passive 6 name = Morale Adept [III]
+| Passive 6 name JP = モラール・アデプト[Ⅲ]
+| Passive 6 effect = MP Gain Up [III / 10%]
+
+| Passive 7 icon = Blast MP Gain Up
+| Passive 7 name = Blast Salutation [III]
+| Passive 7 name JP = ブラストサルテーション[Ⅲ]
+| Passive 7 effect = Blast MP Gain Up [III / 3 MP]
+
+| Passive 8 icon = Regenerate MP
+| Passive 8 name = Mana Spring Adept [V]
+| Passive 8 name JP = マナスプリング・アデプト[Ⅴ]
+| Passive 8 effect = Regenerate MP [V / 9 MP]
+
+| Passive 9 icon = Aqua Attribute Attack Up
+| Passive 9 name = AMorale Blast Adept [VII]
+| Passive 9 name JP = Aモラールブラスト・アデプト[Ⅶ]
+| Passive 9 effect = Aqua Attribute Attack Up [VII / 20%] & Blast MP Gain Up [V / 5 MP] (Self / 5 Turns on Battle Start)
+
+| Passive 10 icon = Variable
+| Passive 10 name = ヴァリアブルFull Burst [XX]
+| Passive 10 name JP = ヴァリアブルフルバースト[XX]
+| Passive 10 effect = Variable & Doppel Damage Up [XX / 100%] (Self / 1 Turn on Battle Start)
+
+| Passive 11 icon = Anti-Magia Seal
+| Passive 11 name = Anti Seal Magia
+| Passive 11 name JP = アンチ・シールマギア
+| Passive 11 effect = Anti-Magia Seal
+
+| Passive 12 icon = MP Gauge Increased On Battle Start
+| Passive 12 name = Fast Mana Up
+| Passive 12 name JP = ファスト・マナアップ
+| Passive 12 effect = MP Gauge Increased On Battle Start [100% full / Quest only]
+
+| Active 1 icon = Attack Up
+| Active 1 name = AOverdrive [III]
+| Active 1 name JP = Aオーバードライブ[Ⅲ]
+| Active 1 effect = Attack Up [III / 15%] & Aqua Attribute Attack Up [III / 10%] & Damage Increase [III / 15%] (Self / 1 Turn)
+| Active 1 cooldown = 5
+
+| Connect name JP = 新たな歴史を刻みましょう
+| Connect name EN = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Up
+| Connect 1 / 1 = VIII / 37.5%
+| Connect 1 / 2 = X / 42.5%
+| Connect effect 2 = Aqua Attribute Attack Up
+| Connect 2 / 1 = VIII / 22.5%
+| Connect 2 / 2 = X / 27.5%
+
+| Magia name JP = 幾星霜の彼方へ
+| Magia name EN = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Attribute Strengthened Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 315%
+| Magia 1 / 2 = VII / 335%
+| Magia effect 2 = Attack Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = Allies / 3 Turns / 15%
+| Magia 2 / 2 = Allies / 3 Turns / 20%
+| Magia effect 3 = Defense Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Allies / 3 Turns / 30%
+| Magia 3 / 2 = Allies / 3 Turns / 37.5%
+| Magia effect 4 = Status Ailment Resistance Up
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = Allies / 3 Turns / 10%
+| Magia 4 / 2 = Allies / 3 Turns / 15%
+| Magia effect 5 = Damage Up Versus Witches
+| Magia scaling 5 = 1.5%
+| Magia 5 / 1 = Allies / 3 Turns / 20%
+| Magia 5 / 2 = Allies / 3 Turns / 25%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = モギリのドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、天気輪
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Magia2 effect 1 = Attribute Strengthened Damage All Enemies
+| Magia2 1 = X / 902%
+| Magia2 effect 2 = Attack Up
+| Magia2 2 = Allies / 5 Turns / 35%
+| Magia2 effect 3 = Defense Up
+| Magia2 3 = Allies / 5 Turns / 55%
+| Magia2 effect 4 = Status Ailment Resistance Up
+| Magia2 4 = Allies / 5 Turns / 35%
+| Magia2 effect 5 = Damage Up Versus Witches
+| Magia2 5 = Allies / 5 Turns / 46%
+| Magia2 effect 6 = Variable
+| Magia2 6 = Allies / 1 Turn
+}}
