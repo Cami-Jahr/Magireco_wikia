@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Other Side of Our Peaceful Lives
+| ImageSrc = 
+| Event = 
+
+| Jname = 平穏な日常の裏側で
+| Rarity = 4
+| ID = 1958
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2048
+| max_ATK = 2048
+| max_DEF = 0
+
+| image = Blast Damage Up
+| effect_name = All Disc Adept 
+| effect_name_JP = オールディスク・アデプト
+| effect1 = 
+| effect2 = Blast Damage Up [IV / 30%] & Charged Attack Damage Up [III / 10%] & Accele MP Gain Up [III / 15%]
+| Cooldown = 
+| Cooldown2 = 
+}}

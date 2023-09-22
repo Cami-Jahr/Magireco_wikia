@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 神浜市のプロフェッショナルを巡る特訓は成長への道のり<br />自分を振り回す相手を見返すために始めた練習の成果は<br />お世辞にも上出来とは言えないはずなのに<br />少女の瞳は、期待と希望で輝いていた
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

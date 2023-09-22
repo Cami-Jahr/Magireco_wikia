@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 彼女たちの非日常な日常は、まだまだ終わらない<br />今までだって、これからだって<br />ふたり一緒なら、なんだってできる<br />（リコリス・リコイル ティザービジュアル）
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

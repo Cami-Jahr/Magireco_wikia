@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 平穏な日々…その裏には秘密がある<br />リコリスと呼ばれる、日常を守る少女たちの存在が<br />社会から秘匿され、戦い続ける彼女たちの姿が<br />（リコリス・リコイル キービジュアル第2弾）
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -75810,7 +75810,74 @@
   "1960": {
     "pieceId": 1960,
     "rank": "RANK_4",
-    "__update__": "2023-09-22T07:04:03.645Z"
+    "__update__": "2023-09-22T15:11:21.723Z",
+    "pieceType": "ABILITY",
+    "pieceName": "喫茶リコリコの凸凹コンビ",
+    "attributeId": "ALL",
+    "attack": 739,
+    "defense": 0,
+    "hp": 899,
+    "skillId": 196000,
+    "pieceSkill": {
+      "id": 196000,
+      "groupId": 1173,
+      "name": "ハートウォーム・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "獲得エピソードポイントUP[Ⅳ] & HP自動回復[Ⅳ]",
+      "artId1": 700216304,
+      "art1": {
+        "artId": 700216304,
+        "verbCode": "OTHER",
+        "effectCode": "EPISODE_UP",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 0
+      },
+      "artId2": 690207704,
+      "art2": {
+        "artId": 690207704,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "growPoint": 10,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 196001,
+    "pieceSkill2": {
+      "id": 196001,
+      "groupId": 1173,
+      "name": "ハートウォーム・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "獲得エピソードポイントUP[Ⅳ] & HP自動回復[Ⅳ]",
+      "artId1": 700216304,
+      "art1": {
+        "artId": 700216304,
+        "verbCode": "OTHER",
+        "effectCode": "EPISODE_UP",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 0
+      },
+      "artId2": 690207704,
+      "art2": {
+        "artId": 690207704,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "growPoint": 10,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "彼女たちの非日常な日常は、まだまだ終わらない＠今までだって、これからだって＠ふたり一緒なら、なんだってできる＠（リコリス・リコイル ティザービジュアル）",
+    "illustrator": "―",
+    "openDate": "2023/09/22 15:10:00"
   },
   "1961": {
     "pieceId": 1961,

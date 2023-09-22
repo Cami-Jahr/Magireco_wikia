@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 大切なのは日常か、使命か<br />それを決めるのは自分自身<br />彼女たちは、自分にとっての大切なものを救うために戦う<br />（リコリス・リコイル キービジュアル第3弾）
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「エミリーと千束っちのお悩み相談所におまかせあれ！」<br />そんな声が聞こえるのは商店街の片隅、少女たちのたまり場<br />異世界から来たと噂の新メンバーは、元気で明るく、笑顔にあふれ<br />元の世界へ帰るまでの間、誰かの悩みを楽しく解決してくれる
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
