@@ -75613,7 +75613,82 @@
   "1957": {
     "pieceId": 1957,
     "rank": "RANK_4",
-    "__update__": "2023-09-22T07:04:03.645Z"
+    "__update__": "2023-09-29T12:57:40.846Z",
+    "pieceName": "喫茶リコリコにおまかせ",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 819,
+    "hp": 819,
+    "skillId": 195700,
+    "pieceSkill": {
+      "id": 195700,
+      "groupId": 1121,
+      "name": "ワールウィンド[Ⅶ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "確率でクリティカル[Ⅶ] & 確率で回避[Ⅵ](自/1T)",
+      "messageId": 70,
+      "artId1": 610206307,
+      "art1": {
+        "artId": 610206307,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "CRITICAL",
+        "targetId": "SELF",
+        "effectValue": 2000,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 400
+      },
+      "artId2": 610206806,
+      "art2": {
+        "artId": 610206806,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 350
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 195701,
+    "pieceSkill2": {
+      "id": 195701,
+      "groupId": 1121,
+      "name": "ワールウィンド[Ⅶ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "確率でクリティカル[Ⅶ] & 確率で回避[Ⅵ](自/1T)",
+      "messageId": 70,
+      "artId1": 610206307,
+      "art1": {
+        "artId": 610206307,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "CRITICAL",
+        "targetId": "SELF",
+        "effectValue": 2000,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 400
+      },
+      "artId2": 610206806,
+      "art2": {
+        "artId": 610206806,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 350
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "喫茶リコリコが受ける注文はコーヒーとスイーツだけじゃない！＠こどものお世話に買い物代行、恋愛相談に身辺調査＠どんなご注文も、おまかせあれ♪＠（リコリス・リコイル キービジュアル第1弾）",
+    "illustrator": "―",
+    "openDate": "2023/09/22 15:10:00"
   },
   "1958": {
     "pieceId": 1958,

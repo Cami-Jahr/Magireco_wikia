@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = ６つを数えた峠を越えて、前人未踏の７つ目へ☆<br />背中に担いだニューカマー。クランクインの準備はオッケー！<br />どんな記録がされるのか、未来はさっぱりわからないから<br />撮り直す用意はしておこう（マギレポ２・300回記念）
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 喫茶リコリコが受ける注文はコーヒーとスイーツだけじゃない！<br />こどものお世話に買い物代行、恋愛相談に身辺調査<br />どんなご注文も、おまかせあれ♪<br />（リコリス・リコイル キービジュアル第1弾）
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
