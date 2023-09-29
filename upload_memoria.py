@@ -10,7 +10,7 @@ from effect_translator import (
 from helpers import (
     get_char_list,
     get_memo_list)
-from uploader import uploader
+from wikibot import wikibot
 
 memoria_header = """{{ {{PAGENAME}} |Stats}}
 
@@ -239,7 +239,7 @@ if __name__ == '__main__':
                     f.write(text)
 
             if upload_new_files:
-                online_text = uploader.download_text(page)
+                online_text = wikibot.download_text(page)
                 if len(online_text) < 5:  # Only upload new files, aka replace files without length
-                    uploader.upload(page, text)
+                    wikibot.upload(page, text)
 

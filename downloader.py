@@ -27,7 +27,7 @@ def download_files(item, old_files, online_path, local_path):
             if old_files[file] == item["md5"]:
                 return item
             else:
-                print("E", end="")
+                print("E:", item, "old:", old_files[file])
         except KeyError:  # item not in old_files json
             pass
         # print("STARTING_FILE: {:<75}".format(file))
