@@ -104,7 +104,7 @@
 | Passive 12 effect = Endure & Regenerate HP [XX / 30%] (Self / 1 Turn on Battle Start)
 
 | Active 1 icon = Magia Damage Down
-| Active 1 name = オブリビオン [V]
+| Active 1 name = Oblivion [V]
 | Active 1 name JP = オブリビオン[Ⅴ]
 | Active 1 effect = Magia Damage Down [V / 25%] & MP Gain Down [X / 55%] (All Enemies / 2 Turns)
 | Active 1 cooldown = 8

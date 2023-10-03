@@ -5,7 +5,7 @@
 | base_rarity = 4
 | max_rarity = 5
 | id = 1502
-| type = Unknown
+| type = Mystic
 | growth_type = BALANCE
 | school_jp = ―
 | voice_actor_jp = 雨宮天
@@ -89,7 +89,7 @@
 | Passive 9 effect = Aqua Attribute Attack Up [VII / 20%] & Blast MP Gain Up [V / 5 MP] (Self / 5 Turns on Battle Start)
 
 | Passive 10 icon = Variable
-| Passive 10 name = ヴァリアブルFull Burst [XX]
+| Passive 10 name = VariableFull Burst [XX]
 | Passive 10 name JP = ヴァリアブルフルバースト[XX]
 | Passive 10 effect = Variable & Doppel Damage Up [XX / 100%] (Self / 1 Turn on Battle Start)
 

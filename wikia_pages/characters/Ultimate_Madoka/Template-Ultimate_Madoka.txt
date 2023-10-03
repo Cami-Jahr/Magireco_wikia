@@ -114,7 +114,7 @@
 | Passive 14 effect = Survive [I / 20% HP]
 
 | Passive 15 icon = Damage Up Versus Witches
-| Passive 15 name = ホーリー Circle [X]
+| Passive 15 name = Holy Circle [X]
 | Passive 15 name JP = ホーリー・サークル[Ⅹ]
 | Passive 15 effect = Damage Up Versus Witches [X / 50%] & Regenerate MP [VI / 10.5 MP] & Accele MP Gain Up [III / 15%] & Blast Damage Up [III / 20%] & Charged Attack Damage Up [III / 12.5%]
 

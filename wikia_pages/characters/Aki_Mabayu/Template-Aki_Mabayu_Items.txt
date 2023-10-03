@@ -1,0 +1,95 @@
+﻿{{Character/{{{1|Items}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}
+|name = Aki Mabayu
+|Magia Item 2/1 = Flame Book
+|Magia quantity 2/1 = 5
+|Magia Item 2/2 = Rooftop Key
+|Magia quantity 2/2 = 5
+|Magia Item 2/3 = Aqua Book +
+|Magia quantity 2/3 = 3
+|Magia Item 2/4 = Ema's Mizuhiki
+|Magia quantity 2/4 = 3
+|Magia Item 2/5 = Forest Book ++
+|Magia quantity 2/5 = 1
+|Magia Item 2/6 = Standing Ear Cotton
+|Magia quantity 2/6 = 1
+
+|Magia Item 5/1 = Dark Book
+|Magia quantity 5/1 = 11
+|Magia Item 5/2 = Feather of a Swallow's Tail
+|Magia quantity 5/2 = 11
+|Magia Item 5/3 = Flame Book +
+|Magia quantity 5/3 = 9
+|Magia Item 5/4 = Wanderer's Straw
+|Magia quantity 5/4 = 5
+|Magia Item 5/5 = Aqua Book ++
+|Magia quantity 5/5 = 7
+|Magia Item 5/6 = Rooftop Balloons
+|Magia quantity 5/6 = 7
+
+|Magia Item 3/1 = Light Book
+|Magia quantity 3/1 = 7
+|Magia Item 3/2 = Blowing Horn
+|Magia quantity 3/2 = 7
+|Magia Item 3/3 = Dark Book +
+|Magia quantity 3/3 = 5
+|Magia Item 3/4 = Chain of Padlock
+|Magia quantity 3/4 = 5
+|Magia Item 3/5 = Flame Book ++
+|Magia quantity 3/5 = 3
+|Magia Item 3/6 = Curator's Hood
+|Magia quantity 3/6 = 3
+
+|Magia Item 4/1 = Aqua Book
+|Magia quantity 4/1 = 9
+|Magia Item 4/2 = Nomadistic Stake
+|Magia quantity 4/2 = 9
+|Magia Item 4/3 = Forest Book +
+|Magia quantity 4/3 = 7
+|Magia Item 4/4 = Ema's Mizuhiki
+|Magia quantity 4/4 = 7
+|Magia Item 4/5 = Light Book ++
+|Magia quantity 4/5 = 5
+|Magia Item 4/6 = Rooftop Balloons
+|Magia quantity 4/6 = 5
+
+
+|Item12 = Flame Orb ++
+|Quantity12 = 4
+|BuffATK1 = 6
+|Item13 = Aqua Orb
+|Quantity13 = 9
+|BuffDEF1 = 4
+|Item11 = Forest Orb +
+|Quantity11 = 7
+|BuffHP1 = 5
+|Item16 = Rainbow Orb
+|Quantity16 = 2
+|BuffAccele1 = 5
+|Item14 = Rooftop Balloons
+|Quantity14 = 3
+|BuffBlast1 = 5
+|Item15 = Feather of a Swallow's Tail
+|Quantity15 = 8
+|BuffCharge1 = 3
+
+|Item22 = Rainbow Orb
+|Quantity22 = 3
+|BuffATK2 = 7
+|Item23 = Light Orb +
+|Quantity23 = 12
+|BuffDEF2 = 5
+|Item21 = Dark Orb ++
+|Quantity21 = 6
+|BuffHP2 = 6
+|Item26 = Machibito Horse's Wheel
+|Quantity26 = 6
+|BuffAccele2 = 6
+|Item24 = Chain of Padlock
+|Quantity24 = 8
+|BuffBlast2 = 6
+|Item25 = Standing Ear Wrapper
+|Quantity25 = 12
+|BuffCharge2 = 4
+
+|QuantityCC1 = 300000
+}}

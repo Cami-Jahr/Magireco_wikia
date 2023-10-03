@@ -5,7 +5,7 @@
 | base_rarity = 4
 | max_rarity = 5
 | id = 2202
-| type = Unknown
+| type = Devil
 | growth_type = ATKHP
 | school_jp = ―
 | voice_actor_jp = 斎藤千和
@@ -35,7 +35,94 @@
 | 5star_defense_max = 10663
 | 5star_illustrator_jp = ササギコウシ
 
+| se_hp_bonus = 8503
+| se_attack_bonus = 2299
+| se_defense_bonus = 2803
 
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 4
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Anti-Provoke
+| Passive 3 name = Blazen Adept [VIII]
+| Passive 3 name JP = ブレイズン・アデプト[Ⅷ]
+| Passive 3 effect = Chance to Anti-Provoke [VIII / 65%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Anti-Debuff
+| Passive 6 name = Anti Debuff
+| Passive 6 name JP = アンチ・デバフ
+| Passive 6 effect = Anti-Debuff [1 Debuff] (∞ Turns on Battle Start)
+
+| Passive 7 icon = Negate Status Ailments
+| Passive 7 name = Resist Shield
+| Passive 7 name JP = レジストシールド
+| Passive 7 effect = Negate Status Ailments [1 Status Ailment] (∞ Turns on Battle Start)
+
+| Passive 8 icon = MP Gain Up
+| Passive 8 name = Morale Adept [II]
+| Passive 8 name JP = モラール・アデプト[Ⅱ]
+| Passive 8 effect = MP Gain Up [II / 7.5%]
+
+| Passive 9 icon = Regenerate MP
+| Passive 9 name = Mana Spring Adept [IV]
+| Passive 9 name JP = マナスプリング・アデプト[Ⅳ]
+| Passive 9 effect = Regenerate MP [IV / 7.5 MP]
+
+| Passive 10 icon = MP Up When Attacked By Weak Element
+| Passive 10 name = Light Revenge [X]
+| Passive 10 name JP = ライトリベンジ[Ⅹ]
+| Passive 10 effect = MP Up When Attacked By Weak Element [X / 11 MP] & Light Attribute Damage Cut [VII / 35%]
+
+| Passive 11 icon = Dark Attribute Attack Up
+| Passive 11 name = Eternal Love [VI]
+| Passive 11 name JP = エターナルラヴ[Ⅵ]
+| Passive 11 effect = Dark Attribute Attack Up [VI / 17.5%] & Anti-Charm
+
+| Passive 12 icon = Regenerate MP
+| Passive 12 name = Mana Spring Aura [XX]
+| Passive 12 name JP = マナスプリングオーラ[XX]
+| Passive 12 effect = Regenerate MP [XX / 100 MP] (Self / 2 Turns on Battle Start)
+
+| Passive 13 icon = Magia Damage Up
+| Passive 13 name = Magia Adept [II]
+| Passive 13 name JP = マギア・アデプト[Ⅱ]
+| Passive 13 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 14 icon = Light Attribute Damage Cut
+| Passive 14 name = Light Shield Adept [V]
+| Passive 14 name JP = ライトシールド・アデプト[Ⅴ]
+| Passive 14 effect = Light Attribute Damage Cut [V / 25%]
+
+| Passive 15 icon = Dark Attribute Attack Up
+| Passive 15 name = DUplift Adept [II]
+| Passive 15 name JP = Dアップリフト・アデプト[Ⅱ]
+| Passive 15 effect = Dark Attribute Attack Up [II / 7.5%] & Status Ailment Resistance Up [II / 25%]
+
+| Active 1 icon = Apply Extra Damage
+| Active 1 name = Devil Temptation [IV]
+| Active 1 name JP = デビル・テンプテーション[Ⅳ]
+| Active 1 effect = Apply Extra Damage [IV / 300%] (All Enemies / 3 Turns) & Remove Buffs & MP Damage [IV / 30 MP] (All Enemies)
+| Active 1 cooldown = 13
 
 | Connect name JP = 仲よくしましょうね
 | Connect name EN = 

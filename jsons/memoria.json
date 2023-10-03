@@ -76012,6 +76012,456 @@
     "openDate": "2023/09/26 17:00:00",
     "__update__": "2023-09-22T07:07:42.357Z"
   },
+  "1962": {
+    "pieceId": 1962,
+    "rank": "RANK_3",
+    "__update__": "2023-10-03T11:39:44.534Z",
+    "pieceName": "レコンパンス名物",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "charaIds": "2105",
+    "charaList": [
+      {
+        "charaId": 2105,
+        "name": "鹿目 まどか scene0 ver."
+      }
+    ],
+    "attack": 442,
+    "defense": 0,
+    "hp": 522,
+    "skillId": 196200,
+    "pieceSkill": {
+      "id": 196200,
+      "groupId": 1086,
+      "name": "ディリジェンス・アデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "防御力UP[Ⅴ] & MP獲得量UP[Ⅲ]",
+      "artId1": 390201205,
+      "art1": {
+        "artId": 390201205,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 375,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201903,
+      "art2": {
+        "artId": 390201903,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 196201,
+    "pieceSkill2": {
+      "id": 196201,
+      "groupId": 1086,
+      "name": "ディリジェンス・アデプト[Ⅵ]",
+      "type": "ABILITY",
+      "shortDescription": "防御力UP[Ⅵ] & MP獲得量UP[Ⅳ]",
+      "artId1": 390201206,
+      "art1": {
+        "artId": 390201206,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 450,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201904,
+      "art2": {
+        "artId": 390201904,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「すごい…エイミーにそっくりだ…！」＠噂で聞いたことはあったけど、レコンパンスのカフェ・マキアートは＠ラテアートが本当に上手で、それに可愛かったな＠明日、さやかちゃんと仁美ちゃんに自慢しちゃおうっと",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/10/03 15:10:00"
+  },
+  "1963": {
+    "pieceId": 1963,
+    "rank": "RANK_4",
+    "__update__": "2023-10-03T08:16:28.861Z",
+    "pieceType": "ABILITY",
+    "pieceName": "目覚めた心",
+    "attributeId": "ALL",
+    "attack": 941,
+    "defense": 0,
+    "hp": 821,
+    "skillId": 196300,
+    "pieceSkill": {
+      "id": 196300,
+      "groupId": 1090,
+      "name": "クリア・スピリット[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "Accele MPUP[Ⅲ] & MP獲得量UP[Ⅱ] & 与えるダメージUP[Ⅲ]",
+      "artId1": 390201603,
+      "art1": {
+        "artId": 390201603,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201902,
+      "art2": {
+        "artId": 390201902,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 75,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201303,
+      "art3": {
+        "artId": 390201303,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 196301,
+    "pieceSkill2": {
+      "id": 196301,
+      "groupId": 1090,
+      "name": "クリア・スピリット[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "Accele MPUP[Ⅳ] & MP獲得量UP[Ⅲ] & 与えるダメージUP[Ⅳ]",
+      "artId1": 390201604,
+      "art1": {
+        "artId": 390201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201903,
+      "art2": {
+        "artId": 390201903,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201304,
+      "art3": {
+        "artId": 390201304,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "この先に何があっても、後悔なんかしない＠だって、なんの取り柄もない自分でも誰かの役に立てる＠それだけでとっても嬉しいから＠魔法少女になって、本当によかったって、そう思うんだ",
+    "illustrator": "―",
+    "openDate": "2023/10/03 15:10:00"
+  },
+  "1964": {
+    "pieceId": 1964,
+    "rank": "RANK_3",
+    "__update__": "2023-10-03T09:47:11.332Z",
+    "pieceName": "まどろむ小さなぬくもり",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 681,
+    "hp": 681,
+    "skillId": 196400,
+    "pieceSkill": {
+      "id": 196400,
+      "groupId": 1090,
+      "name": "グラムイミュニティライズ[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "Accele MPUP[Ⅲ] & 状態異常耐性UP[Ⅱ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201603,
+      "art1": {
+        "artId": 330201603,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201502,
+      "art2": {
+        "artId": 330201502,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 196401,
+    "pieceSkill2": {
+      "id": 196401,
+      "groupId": 1090,
+      "name": "グラムイミュニティライズ[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "Accele MPUP[Ⅳ] & 状態異常耐性UP[Ⅲ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201604,
+      "art1": {
+        "artId": 330201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201503,
+      "art2": {
+        "artId": 330201503,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "怖い夢が正夢にならなくて、本当によかった…＠遊び疲れて眠ったエイミーを見守りながら＠わたしたちは温かくて優しい気持ちになって＠小さく笑い合ったんだ",
+    "illustrator": "―",
+    "openDate": "2023/10/03 15:10:00"
+  },
+  "1965": {
+    "pieceId": 1965,
+    "rank": "RANK_3",
+    "__update__": "2023-10-03T12:53:43.814Z",
+    "pieceName": "ラテアートチャレンジ",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "charaIds": "2009",
+    "charaList": [
+      {
+        "charaId": 2009,
+        "name": "愛生 まばゆ"
+      }
+    ],
+    "attack": 0,
+    "defense": 522,
+    "hp": 442,
+    "skillId": 196500,
+    "pieceSkill": {
+      "id": 196500,
+      "groupId": 1081,
+      "name": "リムーブスペル",
+      "type": "SKILL",
+      "intervalTurn": 15,
+      "shortDescription": "バフ解除(敵単/アビリティは解除不可)",
+      "messageId": 72,
+      "artId1": 200000700,
+      "art1": {
+        "artId": 200000700,
+        "verbCode": "REVOKE",
+        "effectCode": "BUFF",
+        "targetId": "TARGET",
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 196501,
+    "pieceSkill2": {
+      "id": 196501,
+      "groupId": 1081,
+      "name": "リムーブスペル",
+      "type": "SKILL",
+      "intervalTurn": 13,
+      "shortDescription": "バフ解除(敵単/アビリティは解除不可)",
+      "messageId": 72,
+      "artId1": 200000700,
+      "art1": {
+        "artId": 200000700,
+        "verbCode": "REVOKE",
+        "effectCode": "BUFF",
+        "targetId": "TARGET",
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "持て余した時間の中なら、何度だって挑戦できるから＠独特なラテアートもいつかは上達するはず！＠…でも、失敗作を飲み過ぎてお腹は限界＠ひとまず今日はこんなところにしておこう…",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/10/03 15:10:00"
+  },
+  "1966": {
+    "pieceId": 1966,
+    "rank": "RANK_4",
+    "__update__": "2023-10-03T08:21:32.323Z",
+    "pieceType": "ABILITY",
+    "pieceName": "希望を捨てない",
+    "attributeId": "ALL",
+    "attack": 859,
+    "defense": 0,
+    "hp": 779,
+    "skillId": 196600,
+    "pieceSkill": {
+      "id": 196600,
+      "groupId": 1213,
+      "name": "アージェント・アタック[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "対魔女ダメージアップ[Ⅳ] & 攻撃力UP[Ⅲ]",
+      "artId1": 690216804,
+      "art1": {
+        "artId": 690216804,
+        "verbCode": "LIMITED_ENEMY_TYPE",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 15,
+        "probability": 1000,
+        "genericValue": "WITCH"
+      },
+      "artId2": 390201103,
+      "art2": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 196601,
+    "pieceSkill2": {
+      "id": 196601,
+      "groupId": 1213,
+      "name": "アージェント・アタック[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "対魔女ダメージアップ[Ⅳ] & 攻撃力UP[Ⅲ]",
+      "artId1": 690216804,
+      "art1": {
+        "artId": 690216804,
+        "verbCode": "LIMITED_ENEMY_TYPE",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 15,
+        "probability": 1000,
+        "genericValue": "WITCH"
+      },
+      "artId2": 390201103,
+      "art2": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "抱えきれないほどの想いを背負い＠大切な人を、町を、守るため＠少女たちは災厄の魔女を倒すまで戦い抜く＠「信じよう、きっと奇跡を起こせるって…！」",
+    "illustrator": "―",
+    "openDate": "2023/10/03 15:10:00"
+  },
+  "1967": {
+    "pieceId": 1967,
+    "rank": "RANK_4",
+    "__update__": "2023-10-03T08:21:32.323Z",
+    "pieceType": "SKILL",
+    "pieceName": "光を浴びて映るのは",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 739,
+    "hp": 899,
+    "skillId": 196700,
+    "pieceSkill": {
+      "id": 196700,
+      "groupId": 1205,
+      "name": "マギアシールド・サークル[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "マギアダメージカット状態[Ⅵ](味全/1T)",
+      "messageId": 71,
+      "artId1": 610316606,
+      "art1": {
+        "artId": 610316606,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN_NODISK",
+        "targetId": "ALL",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 196701,
+    "pieceSkill2": {
+      "id": 196701,
+      "groupId": 1205,
+      "name": "マギアシールド・サークル[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "マギアダメージカット状態[Ⅵ](味全/1T)",
+      "messageId": 71,
+      "artId1": 610316606,
+      "art1": {
+        "artId": 610316606,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN_NODISK",
+        "targetId": "ALL",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "出会いをやり直して刻まれていく、幾重の悔恨と切なる想い＠新たなテイクの度に増えるフィルムには、誰も知らない編集点がある＠切り落とされたフィルムに光を通すと、確かに彼女の姿はあった＠（scene0 キャラクタービジュアル）",
+    "illustrator": "谷口淳一郎",
+    "openDate": "2023/10/03 15:10:00"
+  },
   "1968": {
     "pieceId": 1968,
     "rank": "RANK_4",

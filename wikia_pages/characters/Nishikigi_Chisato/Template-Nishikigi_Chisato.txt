@@ -94,7 +94,7 @@
 | Passive 10 effect = Attack Up While At Max Health [XII / 60%]
 
 | Passive 11 icon = Evade
-| Passive 11 name = Mana Springステップ [VIII]
+| Passive 11 name = Mana SpringStep [VIII]
 | Passive 11 name JP = マナスプリングステップ[Ⅷ]
 | Passive 11 effect = Evade (Self / 3 Turns on Battle Start) & Regenerate MP [VIII / 13.5 MP] (Self / 5 Turns on Battle Start)
 
@@ -104,7 +104,7 @@
 | Passive 12 effect = Light Attribute Attack Up [V / 15%] & Magia Damage Up [VII / 20%] (Self / 5 Turns on Battle Start)
 
 | Active 1 icon = Evade
-| Active 1 name = Lightヒーリングステップ [IX]
+| Active 1 name = LightHealingStep [IX]
 | Active 1 name JP = ライトヒーリングステップ[Ⅸ]
 | Active 1 effect = Evade & Accele MP Gain Up [IX / 30%] & Regenerate HP [IX / 10%] (Self / 1 Turn)
 | Active 1 cooldown = 6

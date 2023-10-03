@@ -354,7 +354,6 @@ jp_to_en = {
     "ソリッド ディフェンス": "Solid Defense",
     "スターブレイカー": "Star Breaker",
     "エターナルラヴ": "Eternal Love",
-    "デビル テンプテーション": "Devil Temptation",
     "ディスアーマメント": "Disarmament",
     "オブリビオン": "Oblivion",
     "ジアンサー": "The Answer",
@@ -476,7 +475,16 @@ jp_to_en = {
     "ダウン": "Down",
     "ブレイク": "Break",
     "ディリジェンス": "Diligence",
-    "アピール": "Appeal"
+    "アピール": "Appeal",
+    "スマッシュ": "Smash",
+    "アベンジ": "Avenge",
+    "コンボ": "Combo",
+    "エキスパート": "Expert",
+    "ヒーリング": "Healing",
+    "ステップ": "Step",
+    "アンカー": "Anchor",
+    "デビル": "Devil",
+    "テンプテーション": "Temptation"
 }
 
 # Subset of good effects that might be chance to happen

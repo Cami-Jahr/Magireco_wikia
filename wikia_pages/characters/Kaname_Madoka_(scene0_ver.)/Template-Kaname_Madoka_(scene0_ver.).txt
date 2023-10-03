@@ -1,0 +1,164 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Kaname Madoka (scene0 ver.)
+| name_jp = 鹿目 まどか (scene0 ver.)
+| element = Light
+| base_rarity = 4
+| max_rarity = 5
+| id = 2105
+| type = Heal
+| growth_type = HP
+| school_jp = 見滝原中学校
+| voice_actor_jp = 悠木碧
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2023-10-03
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 4star_hp_lv1 = 8179
+| 4star_attack_lv1 = 1909
+| 4star_defense_lv1 = 2084
+| 4star_hp_max = 30295
+| 4star_attack_max = 6723
+| 4star_defense_max = 7394
+| 4star_illustrator_jp = ササギコウシ
+
+| 5star_hp_lv1 = 9078
+| 5star_attack_lv1 = 2123
+| 5star_defense_lv1 = 2316
+| 5star_hp_max = 37401
+| 5star_attack_max = 8300
+| 5star_defense_max = 9125
+| 5star_illustrator_jp = ぷにゃん
+
+| se_hp_bonus = 8185
+| se_attack_bonus = 2317
+| se_defense_bonus = 2651
+
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 4
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Defense Up
+| Passive 3 name = Guard Adept [III]
+| Passive 3 name JP = ガード・アデプト[Ⅲ]
+| Passive 3 effect = Defense Up [III / 22.5%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Regenerate HP
+| Passive 6 name = Regenerate Adept [IV]
+| Passive 6 name JP = リジェネレイト・アデプト[Ⅳ]
+| Passive 6 effect = Regenerate HP [IV / 5%]
+
+| Passive 7 icon = Status Ailment Resistance Up
+| Passive 7 name = Resist Adept [III]
+| Passive 7 name JP = レジスト・アデプト[Ⅲ]
+| Passive 7 effect = Status Ailment Resistance Up [III / 30%]
+
+| Passive 8 icon = Damage Up Versus Witches
+| Passive 8 name = Argent Adept [III]
+| Passive 8 name JP = アージェント・アデプト[Ⅲ]
+| Passive 8 effect = Damage Up Versus Witches [III / 15%]
+
+| Passive 9 icon = MP Gain Up
+| Passive 9 name = Morale Adept [III]
+| Passive 9 name JP = モラール・アデプト[Ⅲ]
+| Passive 9 effect = MP Gain Up [III / 10%]
+
+| Passive 10 icon = MP Up When Attacked By Weak Element
+| Passive 10 name = Anchor Adept [V]
+| Passive 10 name JP = アンカー・アデプト[Ⅴ]
+| Passive 10 effect = MP Up When Attacked By Weak Element [V / 6 MP] & MP Up When Damaged [V / 5 MP]
+
+| Passive 11 icon = Negate Status Ailments
+| Passive 11 name = Anti Magic Aura
+| Passive 11 name JP = アンチマジックオーラ
+| Passive 11 effect = Negate Status Ailments [2 Status Ailments] & Anti-Debuff [2 Debuffs] (Allies / 5 Turns on Battle Start)
+
+| Passive 12 icon = Light Attribute Attack Up
+| Passive 12 name = LightGlitter Aura [V]
+| Passive 12 name JP = ライトグリッター・オーラ[Ⅴ]
+| Passive 12 effect = Light Attribute Attack Up [V / 15%] (Self / 5 Turns on Battle Start) & MP Gain Up [II / 7.5%] (Allies / 5 Turns on Battle Start)
+
+| Active 1 icon = Regenerate HP
+| Active 1 name = Nursing Care Circle [III]
+| Active 1 name JP = ナーシングケア・サークル[Ⅲ]
+| Active 1 effect = Regenerate HP [III / 4%] & Regenerate MP [III / 5 MP] (Allies / 3 Turns)
+| Active 1 cooldown = 10
+
+| Connect name JP = また奇跡は起こせるよ
+| Connect name EN = 
+| Connect icon = Light Attribute Attack Up
+| Connect effect 1 = Light Attribute Attack Up
+| Connect 1 / 1 = VIII / 22.5%
+| Connect 1 / 2 = X / 27.5%
+| Connect effect 2 = HP Restore
+| Connect 2 / 1 = VII / 45%
+| Connect 2 / 2 = IX / 50%
+| Connect effect 3 = MP Restore
+| Connect 3 / 1 = VII / 27.5 MP
+| Connect 3 / 2 = IX / 32.5 MP
+
+| Magia name JP = アセンデレ☆マギカ
+| Magia name EN = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 340%
+| Magia 1 / 2 = VII / 360%
+| Magia effect 2 = Light Attribute Attack Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = Allies / 3 Turns / 15%
+| Magia 2 / 2 = Allies / 3 Turns / 20%
+| Magia effect 3 = Damage Cut
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Allies / 3 Turns / 30%
+| Magia 3 / 2 = Allies / 3 Turns / 35%
+| Magia effect 4 = Regenerate MP
+| Magia scaling 4 = 0.5 MP
+| Magia 4 / 1 = Allies / 3 Turns / 8 MP
+| Magia 4 / 2 = Allies / 3 Turns / 10 MP
+| Magia effect 5 = HP Restore
+| Magia scaling 5 = 2%
+| Magia 5 / 1 = Allies / 17.5%
+| Magia 5 / 2 = Allies / 20%
+
+| Magia2 name JP = ルクス☆プロフェティア
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = IX / 902%
+| Magia2 effect 2 = Light Attribute Attack Up
+| Magia2 2 = Allies / 5 Turns / 35%
+| Magia2 effect 3 = Damage Cut
+| Magia2 3 = Allies / 5 Turns / 45%
+| Magia2 effect 4 = Regenerate MP
+| Magia2 4 = Allies / 3 Turns / 14 MP
+| Magia2 effect 5 = HP Restore
+| Magia2 5 = Allies / 33%
+| Magia2 effect 6 = MP Restore
+| Magia2 6 = Allies / 29 MP
+}}

@@ -95,11 +95,13 @@
 2005;Tomoe Mami
 2006;Sakura Kyouko
 2007;Momoe Nagisa
+2009;Aki Mabayu
 2100;Kaname Madoka (Haregi ver.)
 2101;Ultimate Madoka
 2102;Madoka-senpai
 2103;Ultimate Madoka-senpai
 2104;Madoka & Iroha
+2105;Kaname Madoka (scene0 ver.)
 2106;Kaname Madoka (Mizugi ver.)
 2201;Akuma Homura-chan
 2202;Devil Homura

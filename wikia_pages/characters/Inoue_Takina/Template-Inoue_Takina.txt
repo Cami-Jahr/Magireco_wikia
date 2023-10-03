@@ -69,7 +69,7 @@
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
 | Passive 6 icon = Charged Attack Damage Up
-| Passive 6 name = Chargeコンボエキスパート [III]
+| Passive 6 name = ChargeComboExpert [III]
 | Passive 6 name JP = チャージコンボエキスパート[Ⅲ]
 | Passive 6 effect = Charged Attack Damage Up [III / 12.5%] & Charge Combo Charge Count Up [+3]
 
@@ -89,12 +89,12 @@
 | Passive 9 effect = Attack Up While At Max Health [VI / 30%] & Defense Up While At Max Health [II / 20%]
 
 | Passive 10 icon = Dark Attribute Attack Up
-| Passive 10 name = Darkスマッシュ Aura [V]
+| Passive 10 name = DarkSmash Aura [V]
 | Passive 10 name JP = ダークスマッシュ・オーラ[Ⅴ]
 | Passive 10 effect = Dark Attribute Attack Up [V / 15%] & Blast Damage Up [V / 30%] (Self / 5 Turns on Battle Start)
 
 | Passive 11 icon = MP Up When Attacked By Weak Element
-| Passive 11 name = アベンジ Adept [V]
+| Passive 11 name = Avenge Adept [V]
 | Passive 11 name JP = アベンジ・アデプト[Ⅴ]
 | Passive 11 effect = MP Up When Attacked By Weak Element [V / 6 MP] & MP Up When Damaged [V / 5 MP]
 
