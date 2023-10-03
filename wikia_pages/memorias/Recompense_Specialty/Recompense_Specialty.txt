@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「すごい…エイミーにそっくりだ…！」<br />噂で聞いたことはあったけど、レコンパンスのカフェ・マキアートは<br />ラテアートが本当に上手で、それに可愛かったな<br />明日、さやかちゃんと仁美ちゃんに自慢しちゃおうっと
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

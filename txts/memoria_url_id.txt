@@ -946,6 +946,12 @@
 1959;Our Chosen Future
 1960;The Odd Couple of Café Lyco Reco
 1961;Next ☆ Actor
+1962;Recompense Specialty
+1963;Awakened Heart
+1964;A Small Slumbering Warmth
+1965;Latte Art Challenge
+1966;Don't Give Up Hope
+1967;What is Reflected in the Light
 1968;Miracles Are Forever
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

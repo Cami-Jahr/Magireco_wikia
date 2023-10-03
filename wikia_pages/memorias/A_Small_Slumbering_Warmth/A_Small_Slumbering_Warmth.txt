@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 怖い夢が正夢にならなくて、本当によかった…<br />遊び疲れて眠ったエイミーを見守りながら<br />わたしたちは温かくて優しい気持ちになって<br />小さく笑い合ったんだ
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

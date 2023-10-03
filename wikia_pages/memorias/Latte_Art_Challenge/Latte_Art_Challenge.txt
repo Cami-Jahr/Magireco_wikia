@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 持て余した時間の中なら、何度だって挑戦できるから<br />独特なラテアートもいつかは上達するはず！<br />…でも、失敗作を飲み過ぎてお腹は限界<br />ひとまず今日はこんなところにしておこう…
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

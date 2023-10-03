@@ -17,7 +17,7 @@
 | max_DEF = 0
 
 | image = Damage Increase
-| effect_name = ウォーリアステップ Adept 
+| effect_name = ウォーリアStep Adept 
 | effect_name_JP = ウォーリアステップ・アデプト
 | effect1 = Damage Increase [III / 15%] & Attack Up [II / 10%] & Chance to Evade [III / 20%]
 | effect2 = Damage Increase [IV / 20%] & Attack Up [III / 15%] & Chance to Evade [IV / 25%]

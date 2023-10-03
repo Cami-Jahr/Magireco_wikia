@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 抱えきれないほどの想いを背負い<br />大切な人を、町を、守るため<br />少女たちは災厄の魔女を倒すまで戦い抜く<br />「信じよう、きっと奇跡を起こせるって…！」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

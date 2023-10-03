@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 出会いをやり直して刻まれていく、幾重の悔恨と切なる想い<br />新たなテイクの度に増えるフィルムには、誰も知らない編集点がある<br />切り落とされたフィルムに光を通すと、確かに彼女の姿はあった<br />（scene0 キャラクタービジュアル）
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

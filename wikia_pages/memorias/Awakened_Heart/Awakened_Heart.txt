@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = この先に何があっても、後悔なんかしない<br />だって、なんの取り柄もない自分でも誰かの役に立てる<br />それだけでとっても嬉しいから<br />魔法少女になって、本当によかったって、そう思うんだ
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
