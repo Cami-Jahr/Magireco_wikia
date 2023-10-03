@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 決して諦めずに前を向いていられる<br />それは、この１本の矢が未来を繋ぐと信じられるから<br />魔法少女たちはきっと、何度だって奇跡を起こせる<br />（魔法少女まどか☆マギカ10（展）イベントビジュアル）
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

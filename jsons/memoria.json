@@ -76011,5 +76011,65 @@
     "illustrator": "PAPA",
     "openDate": "2023/09/26 17:00:00",
     "__update__": "2023-09-22T07:07:42.357Z"
+  },
+  "1968": {
+    "pieceId": 1968,
+    "rank": "RANK_4",
+    "__update__": "2023-10-02T15:01:43.554Z",
+    "pieceType": "SKILL",
+    "pieceName": "奇跡をいつまでも",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 859,
+    "hp": 779,
+    "skillId": 196800,
+    "pieceSkill": {
+      "id": 196800,
+      "groupId": 1218,
+      "name": "イグノアデバフ・サークル[Ⅰ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "デバフ効果を1回無効(味全/3T)",
+      "messageId": 71,
+      "artId1": 630319100,
+      "art1": {
+        "artId": 630319100,
+        "verbCode": "IGNORE",
+        "effectCode": "DEBUFF",
+        "targetId": "ALL",
+        "enableTurn": 3,
+        "growPoint": 0,
+        "probability": 1000,
+        "genericValue": "NONE"
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 196801,
+    "pieceSkill2": {
+      "id": 196801,
+      "groupId": 1218,
+      "name": "イグノアデバフ・サークル[Ⅰ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "デバフ効果を1回無効(味全/3T)",
+      "messageId": 71,
+      "artId1": 630319100,
+      "art1": {
+        "artId": 630319100,
+        "verbCode": "IGNORE",
+        "effectCode": "DEBUFF",
+        "targetId": "ALL",
+        "enableTurn": 3,
+        "growPoint": 0,
+        "probability": 1000,
+        "genericValue": "NONE"
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "決して諦めずに前を向いていられる＠それは、この１本の矢が未来を繋ぐと信じられるから＠魔法少女たちはきっと、何度だって奇跡を起こせる＠（魔法少女まどか☆マギカ10（展）イベントビジュアル）",
+    "illustrator": "谷口淳一郎",
+    "openDate": "2023/10/03 00:00:00"
   }
 }
