@@ -159,7 +159,7 @@ ignore = {
 
 revoke = {
     "BAD": ("Remove Status Ailments", False, False),
-    "GOOD": ("Remove Buffs", False, False),
+    "GOOD": ("Remove Granted Effects", False, False),
     "BUFF": ("Remove Buffs", False, False),
     "DEBUFF": ("Remove Debuffs", False, False),
 }
