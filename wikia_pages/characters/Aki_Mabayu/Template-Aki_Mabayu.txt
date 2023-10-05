@@ -134,7 +134,7 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = IV / 1056%
 | Magia 1 / 2 = V / 1088%
-| Magia effect 2 = Remove Buffs
+| Magia effect 2 = Remove Granted Effects
 | Magia scaling 2 = -
 | Magia 2 / 1 = Target
 | Magia 2 / 2 = Target

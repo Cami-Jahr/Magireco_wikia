@@ -137,7 +137,7 @@
 | Magia scaling 3 = -
 | Magia 3 / 1 = All Enemies / 3 Turns / 30%
 | Magia 3 / 2 = All Enemies / 3 Turns / 40%
-| Magia effect 4 = Remove Buffs
+| Magia effect 4 = Remove Granted Effects
 | Magia scaling 4 = -
 | Magia 4 / 1 = All Enemies
 | Magia 4 / 2 = All Enemies
@@ -154,6 +154,6 @@
 | Magia2 2 = All Enemies / 5 Turns / 35%
 | Magia2 effect 3 = Chance to Skill Seal
 | Magia2 3 = All Enemies / 3 Turns / 80%
-| Magia2 effect 4 = Remove Buffs
+| Magia2 effect 4 = Remove Granted Effects
 | Magia2 4 = All Enemies
 }}

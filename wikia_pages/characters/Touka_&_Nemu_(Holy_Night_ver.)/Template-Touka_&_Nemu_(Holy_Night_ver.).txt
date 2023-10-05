@@ -106,7 +106,7 @@
 | Active 1 icon = Remove Buffs
 | Active 1 name = Defuse Sense
 | Active 1 name JP = ディフィーザンス
-| Active 1 effect = Remove Buffs (Target)
+| Active 1 effect = Remove Buffs & Remove Granted Effects (Target)
 | Active 1 cooldown = 5
 
 | Connect name JP = 一緒に絆を結びなおそー！
