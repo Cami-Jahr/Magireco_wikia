@@ -16,11 +16,11 @@
 | max_ATK = 0
 | max_DEF = 1255
 
-| image = Remove Buffs
+| image = Remove Granted Effects
 | effect_name = Disarmament
 | effect_name_JP = ディスアーマメント
-| effect1 = Remove Buffs (All Enemies)
-| effect2 = Remove Buffs (All Enemies)
+| effect1 = Remove Granted Effects (All Enemies)
+| effect2 = Remove Granted Effects (All Enemies)
 | Cooldown = 20
 | Cooldown2 = 13
 }}

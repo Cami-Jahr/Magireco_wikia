@@ -676,7 +676,7 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                 effect = effect.replace("%", "% HP")
                 if percentage_growth != "0%":
                     percentage_growth = percentage_growth.replace("%", "% HP")
-            if text == "Damage Up" and "状態" in shortDescription:
+            if text == "Damage Up" and "ダメージアップ状態" in shortDescription:
                 text = "Damage Increase"
             elif effect_code in ("COUNTER",) and val > 100:
                 text = "Strengthened Counter"

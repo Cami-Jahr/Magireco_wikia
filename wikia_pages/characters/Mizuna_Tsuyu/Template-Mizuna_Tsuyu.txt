@@ -133,7 +133,7 @@
 | Magia scaling 2 = -
 | Magia 2 / 1 = Target
 | Magia 2 / 2 = Target
-| Magia effect 3 = Damage Increase
+| Magia effect 3 = Damage Up
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = Allies / 3 Turns / 20%
 | Magia 3 / 2 = Allies / 3 Turns / 25%
@@ -152,7 +152,7 @@
 | Magia2 1 = IX / 2270.4%
 | Magia2 effect 2 = Remove Granted Effects
 | Magia2 2 = Target
-| Magia2 effect 3 = Damage Increase
+| Magia2 effect 3 = Damage Up
 | Magia2 3 = Allies / 5 Turns / 40%
 | Magia2 effect 4 = Aqua Attribute Attack Up
 | Magia2 4 = Allies / 5 Turns / 25%

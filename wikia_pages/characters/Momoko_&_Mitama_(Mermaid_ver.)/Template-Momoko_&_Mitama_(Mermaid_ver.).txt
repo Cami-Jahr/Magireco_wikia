@@ -112,7 +112,7 @@
 | Connect name JP = 忘れられない夏にしましょっ
 | Connect name EN = 
 | Connect icon = Damage Up
-| Connect effect 1 = Damage Increase
+| Connect effect 1 = Damage Up
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Damage Cut

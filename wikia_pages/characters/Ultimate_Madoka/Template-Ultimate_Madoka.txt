@@ -127,7 +127,7 @@
 | Connect name JP = 待たせちゃってごめんね
 | Connect name EN = 
 | Connect icon = Damage Up
-| Connect effect 1 = Damage Increase
+| Connect effect 1 = Damage Up
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Status Ailment Resistance Up

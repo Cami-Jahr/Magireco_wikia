@@ -142,7 +142,7 @@
 | Magia scaling 3 = -
 | Magia 3 / 1 = Target
 | Magia 3 / 2 = Target
-| Magia effect 4 = Damage Increase
+| Magia effect 4 = Damage Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Allies / 3 Turns / 27.5%
 | Magia 4 / 2 = Allies / 3 Turns / 32.5%
@@ -159,6 +159,6 @@
 | Magia2 2 = Target
 | Magia2 effect 3 = Remove Granted Effects
 | Magia2 3 = Target
-| Magia2 effect 4 = Damage Increase
+| Magia2 effect 4 = Damage Up
 | Magia2 4 = Allies / 3 Turns / 47.5%
 }}

@@ -112,7 +112,7 @@
 | Connect name JP = ｜いい思い出にしよう｜
 | Connect name EN = 
 | Connect icon = Damage Up
-| Connect effect 1 = Damage Increase
+| Connect effect 1 = Damage Up
 | Connect 1 / 1 = VII / 35%
 | Connect 1 / 2 = IX / 40%
 | Connect effect 2 = Remove Status Ailments
@@ -126,7 +126,7 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = V / 340%
 | Magia 1 / 2 = VII / 360%
-| Magia effect 2 = Damage Increase
+| Magia effect 2 = Damage Up
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = Allies / 3 Turns / 27.5%
 | Magia 2 / 2 = Allies / 3 Turns / 32.5%
@@ -144,7 +144,7 @@
 | Magia2 icon = Damage All Enemies
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = IX / 902%
-| Magia2 effect 2 = Damage Increase
+| Magia2 effect 2 = Damage Up
 | Magia2 2 = Allies / 3 Turns / 47.5%
 | Magia2 effect 3 = Charged Attack Damage Up
 | Magia2 3 = Allies / 3 Turns / 40%

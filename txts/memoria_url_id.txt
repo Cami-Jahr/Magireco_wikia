@@ -878,7 +878,7 @@
 1891;Shadow of Læraðr
 1892;The Sisters' Night is getting late
 1893;Desert Walker
-1894;The Gallopping Pegasus
+1894;The Gallopping Heavenly Horse
 1895;Ashes Return to Earth, then to Flowers
 1896;A Peaceful Moment when One can be Normal
 1897;Wanted to be Special
@@ -938,7 +938,7 @@
 1951;Special Trouble Consultation Center
 1952;The Title, A Rockin' Chisato!
 1953;The Title, Me Taking a Photo!
-1954;Result of Caricature Training 
+1954;Result of Caricature Training
 1955;Recorded Document: Rock
 1956;Recorded Document: Relationship of Me and Guns
 1957;Leave it to Café Lyco Reco
