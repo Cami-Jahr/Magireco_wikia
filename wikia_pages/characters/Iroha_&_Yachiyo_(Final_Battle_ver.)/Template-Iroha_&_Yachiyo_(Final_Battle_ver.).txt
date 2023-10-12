@@ -103,11 +103,19 @@
 | Passive 12 name JP = アージェント・アデプト[Ⅲ]
 | Passive 12 effect = Damage Up Versus Witches [III / 15%]
 
-| Active 1 icon = Anti-Critical Hit
+| Active 1 icon = Negate Critical Hit
 | Active 1 name = Final Battle's Divine Protection [XII]
 | Active 1 name JP = 決戦の加護[XII]
-| Active 1 effect = Anti-Critical Hit (Allies / ∞ Turns) & Damage Cut [XII / 60%] (Self / 1 Turn)
+| Active 1 effect = Negate Critical Hit (Allies / ∞ Turns) & Damage Cut [XII / 60%] (Self / 1 Turn)
 | Active 1 cooldown = 12
+
+| EX name = 領域外の加護
+| EX effect 1 = Defense Up
+| EX 1 min = I / 30% (Allies)
+| EX 1 max = II / 37.5% (Allies)
+| EX effect 2 = Negate Critical Hit
+| EX 2 min = ２ (Self)
+| EX 2 max = ２ (Self)
 
 | Connect name JP = 一緒に環になろう
 | Connect name EN = 

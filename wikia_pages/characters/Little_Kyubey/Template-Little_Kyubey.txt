@@ -109,6 +109,17 @@
 | Active 1 effect = Blast Damage Up [VI / 35%] & Variable (Self / 1 Turn)
 | Active 1 cooldown = 10
 
+| EX name = セレニティ Adept 
+| EX effect 1 = Damage Up
+| EX 1 min = I / 5% (Self)
+| EX 1 max = II / 10% (Self)
+| EX effect 2 = Regenerate MP
+| EX 2 min = I / 3 MP (Self)
+| EX 2 max = II / 4.5 MP (Self)
+| EX effect 3 = Status Ailment Resistance Up
+| EX 3 min = I / 20% (Self)
+| EX 3 max = II / 25% (Self)
+
 | Connect name JP = モッキュ、モキューイ！
 | Connect name EN = 
 | Connect icon = Attack Up

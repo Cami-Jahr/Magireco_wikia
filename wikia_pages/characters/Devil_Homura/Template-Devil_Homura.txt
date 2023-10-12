@@ -124,6 +124,14 @@
 | Active 1 effect = Apply Extra Damage [IV / 300%] (All Enemies / 3 Turns) & Remove Buffs & MP Damage [IV / 30 MP] (All Enemies)
 | Active 1 cooldown = 13
 
+| EX name = 世界を蹂躙する存在
+| EX effect 1 = Attack Up
+| EX 1 min = I / 5% (Allies)
+| EX 1 max = II / 10% (Allies)
+| EX effect 2 = Regenerate MP
+| EX 2 min = III / 6 MP (Self)
+| EX 2 max = III / 6 MP (Allies)
+
 | Connect name JP = 仲よくしましょうね
 | Connect name EN = 
 | Connect icon = Dark Attribute Attack Up

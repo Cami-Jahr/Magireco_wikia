@@ -109,6 +109,14 @@
 | Active 1 effect = Magia Damage Up [II / 7.5%] (Allies / 1 Turn)
 | Active 1 cooldown = 12
 
+| EX name = Blessing Adept 
+| EX effect 1 = Damage Increase
+| EX 1 min = I / 5% (Self)
+| EX 1 max = II / 10% (Self)
+| EX effect 2 = Anti-Curse
+| EX 2 min = Self
+| EX 2 max = Self
+
 | Connect name JP = あなたに光あれ
 | Connect name EN = 
 | Connect icon = Attack Up

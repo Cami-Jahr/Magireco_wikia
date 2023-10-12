@@ -109,6 +109,17 @@
 | Active 1 effect = Damage Down [V / 25%] & MP Gain Down [VI / 35%] & Accele MP Gain Down [V / 15%] (All Enemies / 3 Turns)
 | Active 1 cooldown = 12
 
+| EX name = Full Blast Adept 
+| EX effect 1 = Accele MP Gain Up
+| EX 1 min = I / 10% (Allies)
+| EX 1 max = II / 12.5% (Allies)
+| EX effect 2 = Blast Damage Up
+| EX 2 min = I / 15% (Allies)
+| EX 2 max = II / 20% (Allies)
+| EX effect 3 = Negate Status Ailments
+| EX 3 min = 1 Status Ailment (Allies)
+| EX 3 max = 2 Status Ailments (Allies)
+
 | Connect name JP = ズルをしましょうか
 | Connect name EN = 
 | Connect icon = Evade

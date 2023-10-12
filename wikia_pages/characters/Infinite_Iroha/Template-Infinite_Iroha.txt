@@ -109,6 +109,14 @@
 | Active 1 effect = Barrier [II / 5000 damage] & Regenerate HP [II / 3%] (Allies / 3 Turns)
 | Active 1 cooldown = 8
 
+| EX name = 明日への架け橋
+| EX effect 1 = Regenerate HP
+| EX 1 min = II / 3% (Allies)
+| EX 1 max = III / 4% (Allies)
+| EX effect 2 = Magia Damage Up
+| EX 2 min = II / 12% (Allies)
+| EX 2 max = III / 14% (Allies)
+
 | Connect name JP = 私たちが思い描いた明日へ！
 | Connect name EN = 
 | Connect icon = Regenerate HP

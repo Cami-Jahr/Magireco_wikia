@@ -124,6 +124,14 @@
 | Active 1 effect = Blast Damage Up [VII / 15.5%] & Charged Attack Damage Up [VII / 14%] & Accele MP Gain Up [VII / 15%] (Allies / 3 Turns)
 | Active 1 cooldown = 10
 
+| EX name = 救済の祈り
+| EX effect 1 = Regenerate HP
+| EX 1 min = I / 2% (Allies)
+| EX 1 max = II / 3% (Allies)
+| EX effect 2 = Status Ailment Resistance Up
+| EX 2 min = I / 20% (Allies)
+| EX 2 max = III / 30% (Allies)
+
 | Connect name JP = 待たせちゃってごめんね
 | Connect name EN = 
 | Connect icon = Damage Up

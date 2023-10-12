@@ -153,7 +153,7 @@ ignore = {
     "FOG": ("Anti-Fog", True, False),
     "BLINDNESS": ("Anti-Dazzle", True, False),
     "DARKNESS": ("Anti-Darkness", True, False),
-    "CRITICAL": ("Anti-Critical Hit", True, False),
+    "CRITICAL": ("Negate Critical Hit", True, False),
     "CONDITION_BAD": ("Negate Status Ailments", True, False),
 }
 

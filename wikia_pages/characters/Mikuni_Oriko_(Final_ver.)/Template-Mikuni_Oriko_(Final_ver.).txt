@@ -109,6 +109,14 @@
 | Active 1 effect = Accele MP Gain Up [IV / 17.5%] (Self / 3 Turns) & Evade (Self / 1 Turn)
 | Active 1 cooldown = 10
 
+| EX name = ManaStep Adept 
+| EX effect 1 = Chance to Evade
+| EX 1 min = III / 20% (Self)
+| EX 1 max = IV / 25% (Self)
+| EX effect 2 = Regenerate MP
+| EX 2 min = IV / 7.5 MP (Self)
+| EX 2 max = V / 9 MP (Self)
+
 | Connect name JP = 自分の世界を守りましょう
 | Connect name EN = 
 | Connect icon = Attack Up

@@ -309,7 +309,55 @@ def format_info(_id: int):
         t1 = make_spirit_enchantment(work_on["enhancementCellList"])
     except KeyError:
         t1 = "\n\n"
-    return textS + t2 + t3 + t4 + t1 + t5 + textE
+
+    if ex_skill_min := work_on["defaultCard"]["pieceSkillList"]:
+        ex_skill_min = ex_skill_min[0]
+
+        ex = f'\n| EX name = {translate_jap_to_eng(ex_skill_min["name"]).split("[")[0]}\n'
+        num = 1
+        ex_skill_list = []
+        try:
+            while ex_skill_min["art"+str(num)]:
+                ex_skill_list.append(ex_skill_min["art"+str(num)])
+                num += 1
+        except KeyError:
+            num -= 1
+        min_ex, _ = translate(ex_skill_min["shortDescription"], ex_skill_list, True, False)
+
+        ex_skill_max = work_on["defaultCard"]["maxPieceSkillList"][0]
+        ex_skill_list = []
+        for skill_num in range(num):
+            ex_skill_list.append(ex_skill_max["art"+str(skill_num+1)])
+        max_ex, _ = translate(ex_skill_max["shortDescription"], ex_skill_list, True, False)
+
+        for num, (skill_min, skill_max) in enumerate(zip(min_ex, max_ex)):
+            if skill_min[:-1] == "Negate Critical Hit":
+                min_ex[skill_min][0] = ex_skill_min["shortDescription"].split("×")[1][0]
+                max_ex[skill_max][0] = ex_skill_max["shortDescription"].split("×")[1][0]
+            elif skill_min[:-1] == "Negate Status Ailments":
+                skill = ex_skill_min["shortDescription"].split("状態異常を")[1][0]
+                min_ex[skill_min][0] = skill + f" Status Ailment{'s' if int(skill) != 1 else ''}"
+                skill = ex_skill_max["shortDescription"].split("状態異常を")[1][0]
+                max_ex[skill_max][0] = skill + f" Status Ailment{'s' if int(skill) != 1 else ''}"
+            elif skill_min[:-1] == "Anti-Debuff":
+                skill = ex_skill_min["shortDescription"].split("デバフ効果を")[1][0]
+                min_ex[skill_min][0] = skill + f" Debuff{'s' if int(skill) != 1 else ''}"
+                skill = ex_skill_max["shortDescription"].split("デバフ効果を")[1][0]
+                max_ex[skill_max][0] = skill + f" Debuff{'s' if int(skill) != 1 else ''}"
+
+            ex += f"| EX effect {num+1} = {skill_min[:-1]}\n"
+            if min_ex[skill_min][0]:
+                ex += f"""| EX {num+1} min = {min_ex[skill_min][0]} ({"Self" if skill_min[-1] == 'S' else "Allies"})
+| EX {num+1} max = {max_ex[skill_max][0]} ({"Self" if skill_max[-1] == 'S' else "Allies"})
+"""
+            else:
+                ex += f"""| EX {num + 1} min = {"Self" if skill_min[-1] == 'S' else "Allies"}
+| EX {num + 1} max = {"Self" if skill_max[-1] == 'S' else "Allies"}
+"""
+    else:
+        ex = ''
+
+    return textS + t2 + t3 + t4 + t1 + ex + t5 + textE
 
 
 def make_magia_doppel_and_connect(dic: dict, cards: list[str]):

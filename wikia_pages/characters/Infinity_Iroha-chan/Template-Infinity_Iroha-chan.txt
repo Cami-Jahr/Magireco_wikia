@@ -109,6 +109,20 @@
 | Active 1 effect = Chance to Skill Quicken [VI / 30%] & Chance to Evade [V / 30%] (Self / 8 Turns)
 | Active 1 cooldown = 16
 
+| EX name = 無限大の宇宙
+| EX effect 1 = Accele MP Gain Up
+| EX 1 min = I / 10% (Allies)
+| EX 1 max = II / 12.5% (Allies)
+| EX effect 2 = Blast Damage Up
+| EX 2 min = II / 15% (Allies)
+| EX 2 max = III / 20% (Allies)
+| EX effect 3 = Charged Attack Damage Up
+| EX 3 min = II / 10% (Allies)
+| EX 3 max = III / 12.5% (Allies)
+| EX effect 4 = Regenerate HP
+| EX 4 min = II / 3% (Allies)
+| EX 4 max = III / 4% (Allies)
+
 | Connect name JP = 可能性は無限大です！
 | Connect name EN = 
 | Connect icon = Attack Up

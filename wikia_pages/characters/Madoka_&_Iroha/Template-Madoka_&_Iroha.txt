@@ -109,6 +109,17 @@
 | Active 1 effect = Accele Draw
 | Active 1 cooldown = 5
 
+| EX name = Ignore Magia Seal 
+| EX effect 1 = Doppel Damage Up
+| EX 1 min = I / 5% (Self)
+| EX 1 max = II / 10% (Self)
+| EX effect 2 = Magia Damage Up
+| EX 2 min = I / 5% (Self)
+| EX 2 max = II / 7.5% (Self)
+| EX effect 3 = Anti-Magia Seal
+| EX 3 min = Self
+| EX 3 max = Self
+
 | Connect name JP = ほら、希望の道へ！
 | Connect name EN = 
 | Connect icon = Damage Up

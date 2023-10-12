@@ -109,6 +109,14 @@
 | Active 1 effect = Charged Attack Received Damage Up [V / 5%] & Defense Down [V / 25%] (Target / 3 Turns)
 | Active 1 cooldown = 8
 
+| EX name = Charge ExpertAura 
+| EX effect 1 = Charged Attack Damage Up
+| EX 1 min = III / 10% (Allies)
+| EX 1 max = V / 15% (Allies)
+| EX effect 2 = Charge Disc Damage Up
+| EX 2 min = I / 5% (Allies)
+| EX 2 max = III / 15% (Allies)
+
 | Connect name JP = やる気スイッチここかな？
 | Connect name EN = 
 | Connect icon = Damage Up
