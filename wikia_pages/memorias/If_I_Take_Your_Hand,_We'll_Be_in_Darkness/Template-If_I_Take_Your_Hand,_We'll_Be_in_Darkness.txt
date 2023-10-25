@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = If I Take Your Hand, We'll Be in Darkness
+| ImageSrc = 
+| Event = 
+
+| Jname = その手を取れば、闇の中
+| Rarity = 4
+| ID = 1974
+| Illust = -
+| Owner = 
+
+| min_HP = 821
+| min_ATK = 941
+| min_DEF = 0
+| max_HP = 2052
+| max_ATK = 2352
+| max_DEF = 0
+
+| image = Ignore Damage Cut
+| effect_name = Battering Ram Adept 
+| effect_name_JP = バタリングラム・アデプト
+| effect1 = Chance to Ignore Damage Cut [V / 50%] & Damage Increase [IV / 20%]
+| effect2 = Chance to Ignore Damage Cut [VII / 60%] & Damage Increase [V / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 何も感じない無の感覚、戻ってきたのは痛みだけ<br />目を閉じた暗闇に、あの日の炎が燃え盛るのに<br />意識は浮上しきれずに、逃げる背中に恐怖が迫る<br />だけど、尊敬する人の気配は簡単に、わたしを現実に引き上げた
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

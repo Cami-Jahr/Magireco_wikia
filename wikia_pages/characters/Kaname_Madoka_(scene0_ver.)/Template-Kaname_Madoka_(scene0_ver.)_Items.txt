@@ -16,12 +16,12 @@
 |Magia Item 5/1 = Light Book
 |Magia quantity 5/1 = 11
 |Magia Item 5/2 = Pendulum Screw
-|Magia quantity 5/2 = 11
+|Magia quantity 5/2 = 16
 |Magia Item 5/3 = Light Book +
 |Magia quantity 5/3 = 9
-|Magia Item 5/4 = Pendulum Screw
-|Magia quantity 5/4 = 5
-|Magia Item 5/5 = Light Book ++
+|Magia Item 5/4 = Light Book ++
+|Magia quantity 5/4 = 7
+|Magia Item 5/5 = Big Ferris Turbine
 |Magia quantity 5/5 = 7
 |Magia Item 5/6 = Big Ferris Turbine
 |Magia quantity 5/6 = 7

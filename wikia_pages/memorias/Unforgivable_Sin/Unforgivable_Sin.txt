@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 何度も何度も思い出す<br />死にゆく少女らの慟哭と、むせ返るような血のにおい<br />手の平に残る血の感覚を握りしめ、赦されない罪と向き合うのは<br />制裁を受けたいからなのか、あるいは…
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

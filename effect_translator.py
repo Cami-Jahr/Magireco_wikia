@@ -357,6 +357,7 @@ jp_to_en = {
     "ディスアーマメント": "Disarmament",
     "オブリビオン": "Oblivion",
     "ジアンサー": "The Answer",
+"バタリングラム": "Battering Ram",
     "アンチ": "Anti",
     "・": " ",
     "[": " [",
@@ -484,7 +485,10 @@ jp_to_en = {
     "ステップ": "Step",
     "アンカー": "Anchor",
     "デビル": "Devil",
-    "テンプテーション": "Temptation"
+    "テンプテーション": "Temptation",
+    "チェイサー": "Chaser",
+    "カタストロフ": "Catastrophe",
+    "ヴィクトリーロード": "Victory Road"
 }
 
 # Subset of good effects that might be chance to happen

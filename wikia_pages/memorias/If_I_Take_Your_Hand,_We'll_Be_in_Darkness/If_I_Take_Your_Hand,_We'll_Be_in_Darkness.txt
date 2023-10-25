@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「自分はなぎたんではないぞ、常闇の騎士だ」<br />暗闇に差し出された手を取れば、あなたも今日からここの住人<br />永遠に闇の世界を彷徨うこととなるけれど、想いは消えてしまうけれど<br />あなたに優しい暗闇は、とても心地がいいでしょう？
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

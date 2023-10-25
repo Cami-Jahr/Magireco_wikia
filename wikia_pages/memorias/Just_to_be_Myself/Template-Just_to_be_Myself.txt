@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Just to be Myself
+| ImageSrc = 
+| Event = 
+
+| Jname = ただ、自分らしくあるために
+| Rarity = 3
+| ID = 1969
+| Illust = 都筑禰己
+| Owner = Yuna & Juri (Vampire ver.)
+
+| min_HP = 442
+| min_ATK = 522
+| min_DEF = 0
+| max_HP = 1105
+| max_ATK = 1305
+| max_DEF = 0
+
+| image = Attack Up When At Critical Health
+| effect_name = Penetrate Crisis 
+| effect_name_JP = ペネトレイト・クライシス
+| effect1 = Attack Up When At Critical Health [V / 30%] & Defense Up When At Critical Health [II / 30%] & Chance to Defense Pierce [VI / 35%]
+| effect2 = Attack Up When At Critical Health [VII / 40%] & Defense Up When At Critical Health [IV / 50%] & Chance to Defense Pierce [VII / 40%]
+| Cooldown = 
+| Cooldown2 = 
+}}

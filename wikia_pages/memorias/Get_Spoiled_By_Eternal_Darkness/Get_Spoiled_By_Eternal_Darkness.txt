@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = つらいことや嫌なことから目を背け<br />世界を呪って、恨んで…弱さに甘えてしまえばいい<br />何者でもないわたしたちは、あなたを否定したりはしない<br />「さぁ、受け入れて…常闇の住人になりましょう」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

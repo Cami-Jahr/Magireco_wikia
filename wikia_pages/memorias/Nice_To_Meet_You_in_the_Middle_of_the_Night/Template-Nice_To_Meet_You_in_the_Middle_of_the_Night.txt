@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Nice To Meet You in the Middle of the Night
+| ImageSrc = 
+| Event = 
+
+| Jname = 真夜中の初めまして
+| Rarity = 4
+| ID = 1976
+| Illust = -
+| Owner = 
+
+| min_HP = 861
+| min_ATK = 901
+| min_DEF = 0
+| max_HP = 2152
+| max_ATK = 2252
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Invisible Chaser 
+| effect_name_JP = インビジブル・チェイサー
+| effect1 = Attack Up [IV / 20%] & Chance to Chase [IV / 14%] & Chance to Anti-Evade [IX / 65%]
+| effect2 = Attack Up [V / 25%] & Chance to Chase [V / 17%] & Chance to Anti-Evade [X / 70%]
+| Cooldown = 
+| Cooldown2 = 
+}}

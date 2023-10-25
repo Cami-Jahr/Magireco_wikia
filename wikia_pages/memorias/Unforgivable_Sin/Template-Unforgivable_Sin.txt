@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Unforgivable Sin
+| ImageSrc = 
+| Event = 
+
+| Jname = 赦されぬ罪
+| Rarity = 3
+| ID = 1973
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 1538
+| max_ATK = 0
+| max_DEF = 1538
+
+| image = Accele MP Gain Up
+| effect_name = Astral Rise 
+| effect_name_JP = アストラルライズ
+| effect1 = 
+| effect2 = Accele MP Gain Up [V / 20%] & Magia Damage Up [V / 15%] (Self / 3 Turns)
+| Cooldown = 
+| Cooldown2 = 7
+}}

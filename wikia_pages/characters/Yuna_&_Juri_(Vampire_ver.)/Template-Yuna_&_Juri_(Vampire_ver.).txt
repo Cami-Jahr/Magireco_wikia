@@ -1,0 +1,164 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Yuna & Juri (Vampire ver.)
+| name_jp = 結菜・樹里 (ヴァンパイアver.)
+| element = Flame
+| base_rarity = 4
+| max_rarity = 5
+| id = 1121
+| type = Magia
+| growth_type = ATKDEF
+| school_jp = ―
+| voice_actor_jp = 涼本あきほ、松本花雪
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2023-10-23
+| event_limit = 
+
+| accele_disks = 4
+| blast_vert_disks = 0
+| blast_hori_disks = 0
+| charge_disks = 1
+
+| 4star_hp_lv1 = 6201
+| 4star_attack_lv1 = 2315
+| 4star_defense_lv1 = 2155
+| 4star_hp_max = 22162
+| 4star_attack_max = 8454
+| 4star_defense_max = 7814
+| 4star_illustrator_jp = ダリク
+
+| 5star_hp_lv1 = 6891
+| 5star_attack_lv1 = 2570
+| 5star_defense_lv1 = 2394
+| 5star_hp_max = 27357
+| 5star_attack_max = 10434
+| 5star_defense_max = 9647
+| 5star_illustrator_jp = Enjison
+
+| se_hp_bonus = 
+| se_attack_bonus = 
+| se_defense_bonus = 
+
+| se accele bonus = 
+| se blast bonus = 
+| se charge bonus = 
+
+| Passive 1 icon = Doppel Damage Up
+| Passive 1 name = Doppel Adept [I]
+| Passive 1 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 1 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 2 icon = Regenerate MP
+| Passive 2 name = Mana Spring Aura [XV]
+| Passive 2 name JP = マナスプリングオーラ[XV]
+| Passive 2 effect = Regenerate MP [XV / 70 MP] (Self / 1 Turn on Battle Start)
+
+| Passive 3 icon = Flame Attribute Attack Up
+| Passive 3 name = FlameSlash Aura [V]
+| Passive 3 name JP = フレイムスラッシュ・オーラ[Ⅴ]
+| Passive 3 effect = Flame Attribute Attack Up [V / 15%] & Damage Up [I / 15%] (Allies / 5 Turns on Battle Start)
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [II]
+| Passive 4 name JP = ドッペル・アデプト[Ⅱ]
+| Passive 4 effect = Doppel Damage Up [II / 10%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Doppel Damage Up
+| Passive 6 name = Doppel Adept [I]
+| Passive 6 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 6 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 7 icon = Anti-Magia Seal
+| Passive 7 name = Anti Seal Magia
+| Passive 7 name JP = アンチ・シールマギア
+| Passive 7 effect = Anti-Magia Seal
+
+| Passive 8 icon = Attack Up When At Critical Health
+| Passive 8 name = Crisis Bloom [V]
+| Passive 8 name JP = クライシスブルーム[Ⅴ]
+| Passive 8 effect = Attack Up When At Critical Health [V / 30%] & Defense Up When At Critical Health [II / 30%]
+
+| Passive 9 icon = Accele MP Gain Up
+| Passive 9 name = Accele Adept [II]
+| Passive 9 name JP = アクセル・アデプト[Ⅱ]
+| Passive 9 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 10 icon = MP Gain Up When Over 100 MP
+| Passive 10 name = MP Boost [II]
+| Passive 10 name JP = MPブースト[Ⅱ]
+| Passive 10 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 11 icon = Attack Up When At Critical Health
+| Passive 11 name = Crisis Bloom Aura [VII]
+| Passive 11 name JP = クライシスブルーム・オーラ[Ⅶ]
+| Passive 11 effect = Attack Up When At Critical Health [VII / 40%] & Defense Up When At Critical Health [III / 40%] (Self / 5 Turns on Battle Start)
+
+| Passive 12 icon = MP Gain Up
+| Passive 12 name = Morale Adept [III]
+| Passive 12 name JP = モラール・アデプト[Ⅲ]
+| Passive 12 effect = MP Gain Up [III / 10%]
+
+| Active 1 icon = Attack Up When At Critical Health
+| Active 1 name = Intentional Crisis [XI]
+| Active 1 name JP = インテンショナル・クライシス[XI]
+| Active 1 effect = Attack Up When At Critical Health [XI / 60%] & Defense Up When At Critical Health [IX / 100%] & Barrier [IX / 10000 damage] (Self / 5 Turns) & {{Receive Damage [80.1%]
+| Active 1 cooldown = 7
+
+| Connect name JP = 赦されない罪を、共に
+| Connect name EN = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Flame Attribute Attack Up
+| Connect 2 / 1 = VII / 20%
+| Connect 2 / 2 = IX / 25%
+| Connect effect 3 = Accele MP Gain Up
+| Connect 3 / 1 = VII / 40%
+| Connect 3 / 2 = IX / 50%
+
+| Magia name JP = 無限吸血大振撃破
+| Magia name EN = 
+| Magia icon = Damage 4 Random Enemies
+| Magia effect 1 = Attribute Strengthened Damage 4 Random Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = VI / 282.3%
+| Magia 1 / 2 = VIII / 299.7%
+| Magia effect 2 = Magia Damage Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = Allies / 3 Turns / 24%
+| Magia 2 / 2 = Allies / 3 Turns / 28%
+| Magia effect 3 = Flame Attribute Attack Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Allies / 3 Turns / 15%
+| Magia 3 / 2 = Allies / 3 Turns / 20%
+| Magia effect 4 = Flame Attribute Attack Up
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = Self / 3 Turns / 5%
+| Magia 4 / 2 = Self / 3 Turns / 5%
+| Magia effect 5 = Damage Increase
+| Magia scaling 5 = 2.5%
+| Magia 5 / 1 = Self / 3 Turns / 5%
+| Magia 5 / 2 = Self / 3 Turns / 5%
+
+| Magia2 name JP = 血盟の狂乱
+| Magia2 name EN = 
+| Magia2 icon = Damage 5 Random Enemies
+| Magia2 effect 1 = Attribute Strengthened Damage 5 Random Enemies
+| Magia2 1 = X / 676%
+| Magia2 effect 2 = Magia Damage Up
+| Magia2 2 = Allies / 5 Turns / 42%
+| Magia2 effect 3 = Flame Attribute Attack Up
+| Magia2 3 = Allies / 5 Turns / 35%
+| Magia2 effect 4 = Flame Attribute Attack Up
+| Magia2 4 = Self / 5 Turns / 20%
+| Magia2 effect 5 = Damage Increase
+| Magia2 5 = Self / 5 Turns / 20%
+| Magia2 effect 6 = MP Restore
+| Magia2 6 = Self / 49 MP
+}}

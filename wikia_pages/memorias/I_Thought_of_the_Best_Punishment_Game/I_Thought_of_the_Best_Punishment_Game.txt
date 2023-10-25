@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 思いついたのは、みんなが笑顔になる最高のゲーム！<br />それは、罰ゲームだらけのすごろく！みんな、そういうの好きでしょ？<br />姉さまはネコで、姉ちゃんはお嬢様！それからそれから…<br />クスッ、最高のハロウィンになりそうな予感～
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

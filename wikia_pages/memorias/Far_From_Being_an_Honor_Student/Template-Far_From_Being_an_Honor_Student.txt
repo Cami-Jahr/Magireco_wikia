@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Far From Being an Honor Student
+| ImageSrc = 
+| Event = 
+
+| Jname = 優等生には程遠い
+| Rarity = 4
+| ID = 1970
+| Illust = -
+| Owner = 
+
+| min_HP = 861
+| min_ATK = 0
+| min_DEF = 941
+| max_HP = 2152
+| max_ATK = 0
+| max_DEF = 2352
+
+| image = Damage Increase
+| effect_name = Victory Road 
+| effect_name_JP = ヴィクトリーロード
+| effect1 = Damage Increase [V / 25%] & Attack Up [V / 25%] (Self / 1 Turn) & Defense Down [V / 25%] (Target / 1 Turn)
+| effect2 = Damage Increase [VI / 30%] & Attack Up [VI / 30%] (Self / 1 Turn) & Defense Down [VI / 30%] (Target / 1 Turn)
+| Cooldown = 8
+| Cooldown2 = 7
+}}

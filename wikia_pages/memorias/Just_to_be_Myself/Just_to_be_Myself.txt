@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 会って間もない少女のために頑張るのは、きっと“らしくない”<br />誰かのため…なんて言葉が似合わないことも自分が一番知っている<br />でも、何もできずに足踏みをするのはもっと“らしくない”<br />だから、これはあの子のためじゃなくて自分のための作戦会議
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

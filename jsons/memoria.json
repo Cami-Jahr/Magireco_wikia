@@ -20416,7 +20416,7 @@
   "1303": {
     "pieceId": 1303,
     "rank": "RANK_4",
-    "__update__": "2021-03-26T09:44:50.185Z",
+    "__update__": "2023-10-12T12:07:42.780Z",
     "pieceName": "甘いおすそわけ",
     "illustrator": "―",
     "description": "「この冬の限定だってさ、１本どうだい？」＠「ふふっ…じゃあ、お言葉に甘えていただこうかしら」＠もう過ぎ去ってしまった過去のこと、まだふたりの間に溝がなかった頃＠心の隅に残っている温かい冬のある日",
@@ -20456,7 +20456,8 @@
       },
       "shortDescription": "確率でクリティカル[Ⅳ] & 必ず幻惑無効",
       "id": 130301,
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "pieceSkill": {
       "art1": {
@@ -20493,7 +20494,8 @@
       },
       "shortDescription": "確率でクリティカル[Ⅲ] & 確率で幻惑無効[Ⅹ]",
       "id": 130300,
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "pieceKind": "EVENT",
     "attack": 732,
@@ -25084,7 +25086,7 @@
   "1360": {
     "pieceId": 1360,
     "rank": "RANK_3",
-    "__update__": "2019-12-16T08:32:32.962Z",
+    "__update__": "2023-10-11T11:09:19.112Z",
     "pieceType": "ABILITY",
     "pieceName": "わたしたちの魔法",
     "attributeId": "ALL",
@@ -25118,7 +25120,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 136001,
     "pieceSkill2": {
@@ -25147,7 +25150,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "「戦って意志を通すなんて、本当は良くない＠だけど、戦わなきゃ守れないものもある＠だから、わたしは戦う…大切なものを守るため＠わたしたちの魔法は…そのためにあるんだから」",
     "illustrator": "―",
@@ -29709,7 +29713,7 @@
   "1417": {
     "pieceId": 1417,
     "rank": "RANK_4",
-    "__update__": "2021-11-19T08:00:07.521Z",
+    "__update__": "2023-10-12T12:18:06.823Z",
     "pieceName": "受け継がれたお守り",
     "illustrator": "GAN",
     "description": "取り戻した記憶　亡くしてしまった大切な人たち＠辛いことも苦しいことも何ひとつ忘れたくないから＠「マツリはどんなことがあっても…最後まであきらめない」＠託された約束と共に日向茉莉は進み続ける",
@@ -29759,7 +29763,8 @@
       },
       "shortDescription": "瀕死時防御力UP[Ⅲ] & 防御力UP[Ⅴ] & 必ずやけど無効",
       "id": 141701,
-      "artId3": 690208700
+      "artId3": 690208700,
+      "skillDisplayType": "MEMORIA"
     },
     "pieceSkill": {
       "art1": {
@@ -29806,7 +29811,8 @@
       },
       "shortDescription": "瀕死時防御力UP[Ⅱ] & 防御力UP[Ⅳ] & 必ずやけど無効",
       "id": 141700,
-      "artId3": 690208700
+      "artId3": 690208700,
+      "skillDisplayType": "MEMORIA"
     },
     "pieceKind": "EVENT",
     "attack": 853,
@@ -29820,7 +29826,7 @@
   "1418": {
     "pieceId": 1418,
     "rank": "RANK_4",
-    "__update__": "2021-01-25T10:13:52.478Z",
+    "__update__": "2023-10-12T12:18:06.859Z",
     "pieceName": "彼女たちの日常風景",
     "illustrator": "―",
     "description": "マツリ「ごめん、遅くなっちゃった！」＠アリサ「ったく！どこで油売ってたのよ…お詫びにジュース１本ね」＠チサト「アリサだって、いつも朝、遅れるじゃない」＠ハルカ「はいはい、じゃれ合いはそこまで！作戦会議始めるわよ」",
@@ -29873,7 +29879,8 @@
       "shortDescription": "Blast ダメージUP[Ⅰ] & Charge後ダメージUP[Ⅰ] & Accele MPUP[Ⅰ](味全/3T)",
       "id": 141801,
       "intervalTurn": 8,
-      "artId3": 330301621
+      "artId3": 330301621,
+      "skillDisplayType": "MEMORIA"
     },
     "pieceSkill": {
       "art1": {
@@ -29923,7 +29930,8 @@
       "shortDescription": "Blast ダメージUP[Ⅰ] & Charge後ダメージUP[Ⅰ] & Accele MPUP[Ⅰ](味全/3T)",
       "id": 141800,
       "intervalTurn": 10,
-      "artId3": 330301621
+      "artId3": 330301621,
+      "skillDisplayType": "MEMORIA"
     },
     "pieceKind": "EVENT",
     "attack": 0,
@@ -54461,7 +54469,7 @@
   "1710": {
     "pieceId": 1710,
     "rank": "RANK_4",
-    "__update__": "2021-12-25T04:31:02.089Z",
+    "__update__": "2023-10-12T13:13:18.925Z",
     "pieceType": "SKILL",
     "pieceName": "お前はそれでいいのかよ",
     "attributeId": "ALL",
@@ -54508,7 +54516,8 @@
         "enableTurn": 3,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 171001,
     "pieceSkill2": {
@@ -54539,7 +54548,8 @@
         "enableTurn": 3,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "Blu-ray&DVD 第2巻 描き下ろしジャケットイラスト＠（TVアニメ 2nd SEASON）",
     "illustrator": "谷口淳一郎",
@@ -69296,7 +69306,7 @@
   "1883": {
     "pieceId": 1883,
     "rank": "RANK_3",
-    "__update__": "2023-04-05T07:14:37.896Z",
+    "__update__": "2023-10-20T11:09:22.131Z",
     "pieceType": "ABILITY",
     "pieceName": "戻した時間は戻らない",
     "attributeId": "ALL",
@@ -69330,7 +69340,8 @@
         "growPoint": 20,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 188301,
     "pieceSkill2": {
@@ -69359,7 +69370,8 @@
         "growPoint": 20,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "「取り返しのつかないことって、ありますよね…例えばこの時の私＠楽しみにしていた豆腐ハンバーグを焦がしてしまって＠『巻き戻し』の能力を使って焦がす手前まで戻そうとしたのですが＠勢い余ってしまいまして…お皿の上には大豆が転がっていました…」",
     "illustrator": "PAPA",
@@ -76521,5 +76533,667 @@
     "description": "決して諦めずに前を向いていられる＠それは、この１本の矢が未来を繋ぐと信じられるから＠魔法少女たちはきっと、何度だって奇跡を起こせる＠（魔法少女まどか☆マギカ10（展）イベントビジュアル）",
     "illustrator": "谷口淳一郎",
     "openDate": "2023/10/03 00:00:00"
+  },
+  "1969": {
+    "pieceId": 1969,
+    "rank": "RANK_3",
+    "__update__": "2023-10-23T10:15:37.137Z",
+    "pieceType": "ABILITY",
+    "pieceName": "ただ、自分らしくあるために",
+    "attributeId": "ALL",
+    "charaIds": "1121",
+    "charaList": [
+      {
+        "charaId": 1121,
+        "name": "結菜・樹里 ヴァンパイアver."
+      }
+    ],
+    "attack": 522,
+    "defense": 0,
+    "hp": 442,
+    "skillId": 196900,
+    "pieceSkill": {
+      "id": 196900,
+      "groupId": 1241,
+      "name": "ペネトレイト・クライシス[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "瀕死時攻撃力UP[Ⅴ] & 瀕死時防御力UP[Ⅱ] & 確率で防御無視[Ⅵ]",
+      "artId1": 390202905,
+      "art1": {
+        "artId": 390202905,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId2": 390203002,
+      "art2": {
+        "artId": 390203002,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId3": 690206606,
+      "art3": {
+        "artId": 690206606,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DEFENSE_IGNORED",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 350
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 196901,
+    "pieceSkill2": {
+      "id": 196901,
+      "groupId": 1241,
+      "name": "ペネトレイト・クライシス[Ⅶ]",
+      "type": "ABILITY",
+      "shortDescription": "瀕死時攻撃力UP[Ⅶ] & 瀕死時防御力UP[Ⅳ] & 確率で防御無視[Ⅶ]",
+      "artId1": 390202907,
+      "art1": {
+        "artId": 390202907,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId2": 390203004,
+      "art2": {
+        "artId": 390203004,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 500,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId3": 690206607,
+      "art3": {
+        "artId": 690206607,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DEFENSE_IGNORED",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 400
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "会って間もない少女のために頑張るのは、きっと“らしくない”＠誰かのため…なんて言葉が似合わないことも自分が一番知っている＠でも、何もできずに足踏みをするのはもっと“らしくない”＠だから、これはあの子のためじゃなくて自分のための作戦会議",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/10/23 15:10:00"
+  },
+  "1970": {
+    "pieceId": 1970,
+    "rank": "RANK_4",
+    "__update__": "2023-10-23T08:02:58.988Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "優等生には程遠い",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 941,
+    "hp": 861,
+    "skillId": 197000,
+    "pieceSkill": {
+      "id": 197000,
+      "groupId": 1119,
+      "name": "ヴィクトリーロード[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "ダメージアップ状態[Ⅴ] & 攻撃力UP[Ⅴ](自/1T) & 防御力DOWN[Ⅴ](敵単/1T)",
+      "messageId": 70,
+      "artId1": 610206105,
+      "art1": {
+        "artId": 610206105,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 1,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 310201105,
+      "art2": {
+        "artId": 310201105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId3": 410002105,
+      "art3": {
+        "artId": 410002105,
+        "verbCode": "DEBUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "TARGET",
+        "effectValue": 250,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1203,
+      "eventArtId1": 1203003,
+      "eventArt1": {
+        "artId": 1203003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1203_EXCHANGE_1"
+      },
+      "eventDescription": "＆「ランタンコイン」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 197001,
+    "pieceSkill2": {
+      "id": 197001,
+      "groupId": 1119,
+      "name": "ヴィクトリーロード[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "ダメージアップ状態[Ⅵ] & 攻撃力UP[Ⅵ](自/1T) & 防御力DOWN[Ⅵ](敵単/1T)",
+      "messageId": 70,
+      "artId1": 610206106,
+      "art1": {
+        "artId": 610206106,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 310201106,
+      "art2": {
+        "artId": 310201106,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId3": 410002106,
+      "art3": {
+        "artId": 410002106,
+        "verbCode": "DEBUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "TARGET",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1203,
+      "eventArtId1": 1203004,
+      "eventArt1": {
+        "artId": 1203004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1203_EXCHANGE_1"
+      },
+      "eventDescription": "＆「ランタンコイン」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「なんで樹里サマがゴミ拾いなんてしなきゃなんねーんだよ…」＠「出席日数に釣られたあなたが悪いわよぉ…」＠「結菜さん！これ見るんよ！この筆箱、まだ使えそうなんよ！」＠「うららぁ…はしたないわよぉ…やめなさぁい…」",
+    "illustrator": "―",
+    "openDate": "2023/10/23 15:10:00"
+  },
+  "1971": {
+    "pieceId": 1971,
+    "rank": "RANK_3",
+    "__update__": "2023-10-23T10:26:59.458Z",
+    "pieceName": "わたしが考えた最高の罰ゲーム",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 711,
+    "defense": 0,
+    "hp": 621,
+    "skillId": 197100,
+    "pieceSkill": {
+      "id": 197100,
+      "groupId": 1233,
+      "name": "フレイム・アデプト[Ⅶ]",
+      "type": "ABILITY",
+      "shortDescription": "火属性攻撃力UP[Ⅶ] & 攻撃力UP[Ⅱ]",
+      "artId1": 390221107,
+      "art1": {
+        "artId": 390221107,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25
+      },
+      "artId2": 390201102,
+      "art2": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 197101,
+    "pieceSkill2": {
+      "id": 197101,
+      "groupId": 1233,
+      "name": "フレイム・アデプト[Ⅷ]",
+      "type": "ABILITY",
+      "shortDescription": "火属性攻撃力UP[Ⅷ] & 攻撃力UP[Ⅲ]",
+      "artId1": 390221108,
+      "art1": {
+        "artId": 390221108,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "growPoint": 25
+      },
+      "artId2": 390201103,
+      "art2": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "思いついたのは、みんなが笑顔になる最高のゲーム！＠それは、罰ゲームだらけのすごろく！みんな、そういうの好きでしょ？＠姉さまはネコで、姉ちゃんはお嬢様！それからそれから…＠クスッ、最高のハロウィンになりそうな予感～",
+    "illustrator": "―",
+    "openDate": "2023/10/23 15:10:00"
+  },
+  "1972": {
+    "pieceId": 1972,
+    "rank": "RANK_4",
+    "__update__": "2023-10-23T08:02:52.376Z"
+  },
+  "1973": {
+    "pieceId": 1973,
+    "rank": "RANK_3",
+    "__update__": "2023-10-23T08:02:58.969Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "赦されぬ罪",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 615,
+    "hp": 615,
+    "skillId": 197300,
+    "pieceSkill": {
+      "id": 197300,
+      "groupId": 1090,
+      "name": "アストラルライズ[Ⅴ] ",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "Accele MPUP[Ⅴ] & マギアダメージUP[Ⅴ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201605,
+      "art1": {
+        "artId": 330201605,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201405,
+      "art2": {
+        "artId": 330201405,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "eventId": 1203,
+      "eventArtId1": 1203001,
+      "eventArt1": {
+        "artId": 1203001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1203_EXCHANGE_1"
+      },
+      "eventDescription": "＆「ランタンコイン」追加獲得数＋1",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 197301,
+    "pieceSkill2": {
+      "id": 197301,
+      "groupId": 1090,
+      "name": "アストラルライズ[Ⅴ] ",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "Accele MPUP[Ⅴ] & マギアダメージUP[Ⅴ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201605,
+      "art1": {
+        "artId": 330201605,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201405,
+      "art2": {
+        "artId": 330201405,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "eventId": 1203,
+      "eventArtId1": 1203002,
+      "eventArt1": {
+        "artId": 1203002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1203_EXCHANGE_1"
+      },
+      "eventDescription": "＆「ランタンコイン」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "何度も何度も思い出す＠死にゆく少女らの慟哭と、むせ返るような血のにおい＠手の平に残る血の感覚を握りしめ、赦されない罪と向き合うのは＠制裁を受けたいからなのか、あるいは…",
+    "illustrator": "―",
+    "openDate": "2023/10/23 15:10:00"
+  },
+  "1974": {
+    "pieceId": 1974,
+    "rank": "RANK_4",
+    "__update__": "2023-10-23T08:02:58.971Z",
+    "pieceType": "ABILITY",
+    "pieceName": "その手を取れば、闇の中",
+    "attributeId": "ALL",
+    "attack": 941,
+    "defense": 0,
+    "hp": 821,
+    "skillId": 197400,
+    "pieceSkill": {
+      "id": 197400,
+      "groupId": 1177,
+      "name": "バタリングラム・アデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "確率でダメージカット無視[Ⅴ] & ダメージアップ状態[Ⅳ]",
+      "artId1": 690216505,
+      "art1": {
+        "artId": 690216505,
+        "verbCode": "IGNORE",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 500
+      },
+      "artId2": 690206104,
+      "art2": {
+        "artId": 690206104,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 197401,
+    "pieceSkill2": {
+      "id": 197401,
+      "groupId": 1177,
+      "name": "バタリングラム・アデプト[Ⅶ]",
+      "type": "ABILITY",
+      "shortDescription": "確率でダメージカット無視[Ⅶ] & ダメージアップ状態[Ⅴ]",
+      "artId1": 690216507,
+      "art1": {
+        "artId": 690216507,
+        "verbCode": "IGNORE",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 600
+      },
+      "artId2": 690206105,
+      "art2": {
+        "artId": 690206105,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「自分はなぎたんではないぞ、常闇の騎士だ」＠暗闇に差し出された手を取れば、あなたも今日からここの住人＠永遠に闇の世界を彷徨うこととなるけれど、想いは消えてしまうけれど＠あなたに優しい暗闇は、とても心地がいいでしょう？",
+    "illustrator": "―",
+    "openDate": "2023/10/23 15:10:00"
+  },
+  "1975": {
+    "pieceId": 1975,
+    "rank": "RANK_4",
+    "__update__": "2023-10-23T08:02:58.971Z",
+    "pieceType": "SKILL",
+    "pieceName": "常闇に甘えて",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 941,
+    "hp": 861,
+    "skillId": 197500,
+    "pieceSkill": {
+      "id": 197500,
+      "groupId": 1108,
+      "name": "カタストロフ[Ⅶ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "必ず呪い & さらに必ず呪い & 与えるダメージDOWN[Ⅶ](敵単/1T)",
+      "messageId": 72,
+      "artId1": 510005000,
+      "art1": {
+        "artId": 510005000,
+        "verbCode": "CONDITION_BAD",
+        "effectCode": "CURSE",
+        "targetId": "TARGET",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 510005000,
+      "art2": {
+        "artId": 510005000,
+        "verbCode": "CONDITION_BAD",
+        "effectCode": "CURSE",
+        "targetId": "TARGET",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId3": 410002207,
+      "art3": {
+        "artId": 410002207,
+        "verbCode": "DEBUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "TARGET",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 197501,
+    "pieceSkill2": {
+      "id": 197501,
+      "groupId": 1108,
+      "name": "カタストロフ[Ⅷ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "必ず呪い & さらに必ず呪い & 与えるダメージDOWN[Ⅷ](敵単/1T)",
+      "messageId": 72,
+      "artId1": 510005000,
+      "art1": {
+        "artId": 510005000,
+        "verbCode": "CONDITION_BAD",
+        "effectCode": "CURSE",
+        "targetId": "TARGET",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 510005000,
+      "art2": {
+        "artId": 510005000,
+        "verbCode": "CONDITION_BAD",
+        "effectCode": "CURSE",
+        "targetId": "TARGET",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId3": 410002208,
+      "art3": {
+        "artId": 410002208,
+        "verbCode": "DEBUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "TARGET",
+        "effectValue": 400,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "つらいことや嫌なことから目を背け＠世界を呪って、恨んで…弱さに甘えてしまえばいい＠何者でもないわたしたちは、あなたを否定したりはしない＠「さぁ、受け入れて…常闇の住人になりましょう」",
+    "illustrator": "―",
+    "openDate": "2023/10/23 15:10:00"
+  },
+  "1976": {
+    "pieceId": 1976,
+    "rank": "RANK_4",
+    "__update__": "2023-10-23T08:02:58.980Z",
+    "pieceType": "ABILITY",
+    "pieceName": "真夜中の初めまして",
+    "attributeId": "ALL",
+    "attack": 901,
+    "defense": 0,
+    "hp": 861,
+    "skillId": 197600,
+    "pieceSkill": {
+      "id": 197600,
+      "groupId": 1085,
+      "name": "インビジブル・チェイサー[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅳ] & 確率で追撃[Ⅳ] & 確率で回避無効[Ⅸ]",
+      "artId1": 390201104,
+      "art1": {
+        "artId": 390201104,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690207204,
+      "art2": {
+        "artId": 690207204,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PURSUE",
+        "targetId": "SELF",
+        "effectValue": 800,
+        "growPoint": 0,
+        "probability": 140
+      },
+      "artId3": 690216209,
+      "art3": {
+        "artId": 690216209,
+        "verbCode": "IGNORE",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 650
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 197601,
+    "pieceSkill2": {
+      "id": 197601,
+      "groupId": 1085,
+      "name": "インビジブル・チェイサー[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅴ] & 確率で追撃[Ⅴ] & 確率で回避無効[Ⅹ]",
+      "artId1": 390201105,
+      "art1": {
+        "artId": 390201105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690207205,
+      "art2": {
+        "artId": 690207205,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PURSUE",
+        "targetId": "SELF",
+        "effectValue": 800,
+        "growPoint": 0,
+        "probability": 170
+      },
+      "artId3": 690216210,
+      "art3": {
+        "artId": 690216210,
+        "verbCode": "IGNORE",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 700
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "何も感じない無の感覚、戻ってきたのは痛みだけ＠目を閉じた暗闇に、あの日の炎が燃え盛るのに＠意識は浮上しきれずに、逃げる背中に恐怖が迫る＠だけど、尊敬する人の気配は簡単に、わたしを現実に引き上げた",
+    "illustrator": "―",
+    "openDate": "2023/10/23 15:10:00"
   }
 }

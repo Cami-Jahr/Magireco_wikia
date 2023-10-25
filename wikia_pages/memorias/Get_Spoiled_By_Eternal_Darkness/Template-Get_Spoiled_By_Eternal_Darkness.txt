@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Get Spoiled By Eternal Darkness
+| ImageSrc = 
+| Event = 
+
+| Jname = 常闇に甘えて
+| Rarity = 4
+| ID = 1975
+| Illust = -
+| Owner = 
+
+| min_HP = 861
+| min_ATK = 0
+| min_DEF = 941
+| max_HP = 2152
+| max_ATK = 0
+| max_DEF = 2352
+
+| image = Chance to Curse
+| effect_name = Catastrophe 
+| effect_name_JP = カタストロフ
+| effect1 = Chance to Curse [100%] & Damage Down [VII / 35%] (Target / 1 Turn)
+| effect2 = Chance to Curse [100%] & Damage Down [VIII / 40%] (Target / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}
