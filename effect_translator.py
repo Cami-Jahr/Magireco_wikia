@@ -252,7 +252,7 @@ other = {
 }
 
 damage = {
-    "ALLY": ("{{Receive Damage", False, False),
+    "ALLY": ("Receive Damage", False, False),
 }
 
 allies = {
@@ -600,12 +600,14 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                     elif verb_code in ("RESURRECT",):
                         target = "Random Ally"
 
-            except KeyError as e:
+            except KeyError:
                 target_id = "X"
                 target = ""
 
             if "Defense Down" in text and (text + target_id[0]) in effects:
                 text = text.replace("Defense Down", "Defense Down Further")
+            if "Attack Down" in text and (text + target_id[0]) in effects:
+                text = text.replace("Attack Down", "Attack Down Further")
             if "limitedValue" in art:
                 limited_value = art["limitedValue"]
                 if limited_value != "0":
@@ -690,7 +692,6 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                 text = text.replace("Curse", "Strengthened Curse")
             elif effect_code in ("BARRIER",):
                 effect = effect.replace("%", "0 damage")
-
             elif verb_code in ("IGNORE",):
                 nr = art_ids.count(art_id)
                 if effect_code in ("DEBUFF",):
@@ -723,9 +724,15 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                 target_wording = ""
 
             key = text + target_id[0]
-
-            # Should refactor this somehow to separate allied and enemy casts without using a target_id key
-            effects[key] = [effect, target_wording, percentage_growth]
+            # Enables multi-effects other than Attack Down Further and Defense Down Further
+            if text not in ("Anti-Debuff", "Negate Status Ailments") and key in effects:
+                if len(effects[key]) == 4:
+                    effects[key][3] += 1
+                else:
+                    effects[key].append(2)
+            else:
+                # Should refactor this somehow to separate allied and enemy casts without using a target_id key
+                effects[key] = [effect, target_wording, percentage_growth]
         except KeyError as e:
             print("UNKNOWN effectCode =", art["effectCode"], shortDescription, art)
             raise e

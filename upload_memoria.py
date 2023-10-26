@@ -147,15 +147,21 @@ def read(piece: dict, chars: dict):
         remove_repeated_target(description_eng)
         en_full_description = ""
         for en_skill in description_eng:
-            if en_full_description:
-                en_full_description += " & "
-            en_full_description += en_skill[:-1]
-            if description_eng[en_skill][0]:
-                en_full_description += f" [{description_eng[en_skill][0]}]"
-            if description_eng[en_skill][1]:
-                en_full_description += f" ({description_eng[en_skill][1]})"
-            if en_skill[:-1] == "CC Gain Up":
-                en_full_description += " (Does Not Work on Supports)"
+            # Enables multi-effects other than Attack Down Further and Defense Down Further
+            if len(description_eng[en_skill]) > 3:
+                times = description_eng[en_skill][3]
+            else:
+                times = 1
+            for time in range(times):
+                if en_full_description:
+                    en_full_description += " & "
+                en_full_description += en_skill[:-1]
+                if description_eng[en_skill][0]:
+                    en_full_description += f" [{description_eng[en_skill][0]}]"
+                if description_eng[en_skill][1]:
+                    en_full_description += f" ({description_eng[en_skill][1]})"
+                if en_skill[:-1] == "CC Gain Up":
+                    en_full_description += " (Does Not Work on Supports)"
 
         skill_name_jp = piece[f"pieceSkill{i}"]["name"].strip()
 

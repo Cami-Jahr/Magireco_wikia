@@ -106,7 +106,7 @@
 | Active 1 icon = Attack Up When At Critical Health
 | Active 1 name = Intentional Crisis [XI]
 | Active 1 name JP = インテンショナル・クライシス[XI]
-| Active 1 effect = Attack Up When At Critical Health [XI / 60%] & Defense Up When At Critical Health [IX / 100%] & Barrier [IX / 10000 damage] (Self / 5 Turns) & {{Receive Damage [80.1%]
+| Active 1 effect = Attack Up When At Critical Health [XI / 60%] & Defense Up When At Critical Health [IX / 100%] & Barrier [IX / 10000 damage] (Self / 5 Turns) & Receive Damage [80.1%]
 | Active 1 cooldown = 7
 
 | Connect name JP = 自分と討たれる覚悟か

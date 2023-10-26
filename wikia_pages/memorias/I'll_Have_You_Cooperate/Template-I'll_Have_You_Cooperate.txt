@@ -19,8 +19,8 @@
 | image = Attack Down
 | effect_name = CowerBloom Duo 
 | effect_name_JP = クウェルブルーム・デュオ
-| effect1 = Attack Down [III / 15%] & Defense Down [III / 35%] (All Enemies / 1 Turn)
-| effect2 = Attack Down [III / 15%] & Defense Down [III / 40%] (All Enemies / 1 Turn)
+| effect1 = Attack Down [VII / 35%] & Defense Down [III / 35%] & Attack Down Further [III / 15%] (All Enemies / 1 Turn)
+| effect2 = Attack Down [VIII / 40%] & Defense Down [III / 40%] & Attack Down Further [III / 15%] (All Enemies / 1 Turn)
 | Cooldown = 6
 | Cooldown2 = 5
 }}

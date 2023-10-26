@@ -106,7 +106,7 @@
 | Active 1 icon = Attack Up When At Critical Health
 | Active 1 name = Intentional Crisis
 | Active 1 name JP = インテンショナル・クライシス
-| Active 1 effect = Attack Up When At Critical Health [XI / 60%] & Defense Up When At Critical Health [IX / 100%] & Barrier [IX / 10000 damage] (Self / 3 Turns) & {{Receive Damage [80.1%]
+| Active 1 effect = Attack Up When At Critical Health [XI / 60%] & Defense Up When At Critical Health [IX / 100%] & Barrier [IX / 10000 damage] (Self / 3 Turns) & Receive Damage [80.1%]
 | Active 1 cooldown = 8
 
 | Connect name JP = 共に恨みを晴らしましょう
