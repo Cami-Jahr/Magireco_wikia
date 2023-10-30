@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 私たちの間に、きっと湿っぽい言葉は似合わない<br />だから共に戦い、背を預けあって、心を交わす<br />言いたかったことも、伝えたかった想いも<br />遠い未来で訪れる再会の日まで、取っておこう
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

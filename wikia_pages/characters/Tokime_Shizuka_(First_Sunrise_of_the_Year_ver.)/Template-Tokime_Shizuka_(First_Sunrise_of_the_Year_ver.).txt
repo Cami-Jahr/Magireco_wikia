@@ -106,7 +106,7 @@
 | Active 1 icon = Flame Attribute Resistance Down
 | Active 1 name = Flame Break [II]
 | Active 1 name JP = フレイムブレイク[Ⅱ]
-| Active 1 effect = Flame Attribute Resistance Down [II / 13%] (Target / 3 Turns)
+| Active 1 effect = Flame Attribute Resistance Down [I / 8%] & Flame Attribute Resistance Down Further [II / 13%] (Target / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = 初日の出を共に！

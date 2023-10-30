@@ -125,10 +125,10 @@
 | Magia name JP = Takina's Random Fire
 | Magia name EN = 
 | Magia icon = Damage All Enemies
-| Magia effect 1 = Strengthened Damage All Enemies Affected with Status Ailments
-| Magia scaling 1 = 12.5%
-| Magia 1 / 1 = V / 315%
-| Magia 1 / 2 = VII / 335%
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 340%
+| Magia 1 / 2 = VII / 360%
 | Magia effect 2 = Blast Damage Up
 | Magia scaling 2 = 2.5%
 | Magia 2 / 1 = Self / 3 Turns / 30%

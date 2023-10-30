@@ -106,7 +106,7 @@
 | Active 1 icon = Magia Damage Down
 | Active 1 name = Oblivion [V]
 | Active 1 name JP = オブリビオン[Ⅴ]
-| Active 1 effect = Magia Damage Down [V / 25%] & MP Gain Down [X / 55%] (All Enemies / 2 Turns)
+| Active 1 effect = Magia Damage Down [V / 25%] & Magia Damage Down Further [V / 25%] & MP Gain Down [X / 55%] (All Enemies / 2 Turns)
 | Active 1 cooldown = 8
 
 | Connect name JP = 気にしないでください…

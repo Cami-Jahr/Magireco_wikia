@@ -604,10 +604,8 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                 target_id = "X"
                 target = ""
 
-            if "Defense Down" in text and (text + target_id[0]) in effects:
-                text = text.replace("Defense Down", "Defense Down Further")
-            if "Attack Down" in text and (text + target_id[0]) in effects:
-                text = text.replace("Attack Down", "Attack Down Further")
+            if "Down" in text and (text + target_id[0]) in effects:
+                text = text.replace("Down", "Down Further")
             if "limitedValue" in art:
                 limited_value = art["limitedValue"]
                 if limited_value != "0":

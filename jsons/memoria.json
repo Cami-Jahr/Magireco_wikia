@@ -35202,7 +35202,7 @@
   "1482": {
     "pieceId": 1482,
     "rank": "RANK_3",
-    "__update__": "2020-04-02T08:49:17.749Z",
+    "__update__": "2023-10-30T12:54:28.688Z",
     "pieceName": "光属性の者です",
     "illustrator": "PAPA",
     "description": "「光と共にコンニチハ。私たちは怪しい者ではございません＠スーツがどれだけ黒くとも、心の中は清廉で純白＠夢見る少女を応援することが、私たちの幸せになるんです＠ところで、トップアイドルを目指さないかな？」",
@@ -35236,7 +35236,8 @@
       "messageId": 72,
       "shortDescription": "確率で幻惑[Ⅶ] & 攻撃力DOWN[Ⅶ](敵単/1T)",
       "id": 148201,
-      "intervalTurn": 6
+      "intervalTurn": 6,
+      "skillDisplayType": "MEMORIA"
     },
     "pieceSkill": {
       "art1": {
@@ -35267,7 +35268,8 @@
       "messageId": 72,
       "shortDescription": "確率で幻惑[Ⅵ] & 攻撃力DOWN[Ⅵ](敵単/1T)",
       "id": 148200,
-      "intervalTurn": 7
+      "intervalTurn": 7,
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 148201,
     "attack": 0,
@@ -76829,7 +76831,80 @@
   "1972": {
     "pieceId": 1972,
     "rank": "RANK_4",
-    "__update__": "2023-10-23T08:02:52.376Z"
+    "__update__": "2023-10-30T12:55:18.609Z",
+    "pieceName": "いつか地獄で会う日まで",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 859,
+    "hp": 779,
+    "skillId": 197200,
+    "pieceSkill": {
+      "id": 197200,
+      "groupId": 1088,
+      "name": "フレイムライジング・ライズ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "マギアダメージUP[Ⅴ] & 火属性攻撃力UP[Ⅴ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201405,
+      "art1": {
+        "artId": 310201405,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310221105,
+      "art2": {
+        "artId": 310221105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 197201,
+    "pieceSkill2": {
+      "id": 197201,
+      "groupId": 1088,
+      "name": "フレイムライジング・ライズ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "マギアダメージUP[Ⅴ] & 火属性攻撃力UP[Ⅴ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201405,
+      "art1": {
+        "artId": 310201405,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310221105,
+      "art2": {
+        "artId": 310221105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "私たちの間に、きっと湿っぽい言葉は似合わない＠だから共に戦い、背を預けあって、心を交わす＠言いたかったことも、伝えたかった想いも＠遠い未来で訪れる再会の日まで、取っておこう",
+    "illustrator": "こざくら",
+    "openDate": "2023/10/23 15:10:00"
   },
   "1973": {
     "pieceId": 1973,

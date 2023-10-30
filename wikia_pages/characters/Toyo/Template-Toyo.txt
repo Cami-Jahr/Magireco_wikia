@@ -106,7 +106,7 @@
 | Active 1 icon = Light Attribute Resistance Down
 | Active 1 name = Light Break [II]
 | Active 1 name JP = ライトブレイク[Ⅱ]
-| Active 1 effect = Light Attribute Resistance Down [II / 13%] (Target / 3 Turns)
+| Active 1 effect = Light Attribute Resistance Down [I / 8%] & Light Attribute Resistance Down Further [II / 13%] (Target / 3 Turns)
 | Active 1 cooldown = 10
 
 | Connect name JP = 吾らが次代を照らさん
