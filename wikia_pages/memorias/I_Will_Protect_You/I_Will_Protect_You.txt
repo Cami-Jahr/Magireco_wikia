@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「怪我はないかしら？」<br />「う…うん」<br />あなたを助けるために、私はここにいる<br />その意義を、希望を、こんなところで失うわけにはいかない
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

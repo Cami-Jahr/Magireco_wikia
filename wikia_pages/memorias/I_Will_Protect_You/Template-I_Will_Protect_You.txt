@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = I Will Protect You
+| ImageSrc = 
+| Event = 
+
+| Jname = 私が守るから
+| Rarity = 4
+| ID = 1978
+| Illust = -
+| Owner = 
+
+| min_HP = 941
+| min_ATK = 0
+| min_DEF = 861
+| max_HP = 2352
+| max_ATK = 0
+| max_DEF = 2152
+
+| image = Attack Up
+| effect_name = Glitter Rise 
+| effect_name_JP = グリッターライズ
+| effect1 = Attack Up [V / 25%] & MP Gain Up [III / 10%] (Self / 3 Turns)
+| effect2 = Attack Up [VI / 30%] & MP Gain Up [IV / 12.5%] (Self / 3 Turns)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

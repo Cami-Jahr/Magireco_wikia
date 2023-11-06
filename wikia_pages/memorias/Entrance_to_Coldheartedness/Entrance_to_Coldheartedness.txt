@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 彼女を知っている。一緒に過ごした記憶もある<br />けれどこの先、私たちが交わることは二度とない<br />繰り返す時間の中で、徐々に感情が薄らいでいくことで<br />私は“人間”ではなくなっていくのかもしれない
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

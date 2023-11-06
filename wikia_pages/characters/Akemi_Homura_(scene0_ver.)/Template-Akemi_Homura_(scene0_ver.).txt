@@ -1,0 +1,165 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Akemi Homura (scene0 ver.)
+| name_jp = 暁美 ほむら (scene0 ver.)
+| element = Dark
+| base_rarity = 4
+| max_rarity = 5
+| id = 2301
+| type = Magia
+| growth_type = ATKHP
+| school_jp = 見滝原中学校
+| voice_actor_jp = 斎藤千和
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2023-11-06
+| event_limit = 
+
+| accele_disks = 3
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 0
+
+| 4star_hp_lv1 = 6191
+| 4star_attack_lv1 = 2322
+| 4star_defense_lv1 = 2068
+| 4star_hp_max = 22609
+| 4star_attack_max = 8419
+| 4star_defense_max = 7391
+| 4star_illustrator_jp = ササギコウシ
+
+| 5star_hp_lv1 = 6875
+| 5star_attack_lv1 = 2579
+| 5star_defense_lv1 = 2298
+| 5star_hp_max = 27912
+| 5star_attack_max = 10393
+| 5star_defense_max = 9123
+| 5star_illustrator_jp = ぷにゃん
+
+| se_hp_bonus = 7098
+| se_attack_bonus = 2630
+| se_defense_bonus = 3822
+
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Light Attribute Damage Cut
+| Passive 3 name = Light Shield Adept [V]
+| Passive 3 name JP = ライトシールド・アデプト[Ⅴ]
+| Passive 3 effect = Light Attribute Damage Cut [V / 25%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = MP Gain Up
+| Passive 6 name = Morale Adept [III]
+| Passive 6 name JP = モラール・アデプト[Ⅲ]
+| Passive 6 effect = MP Gain Up [III / 10%]
+
+| Passive 7 icon = Anti-Magia Seal
+| Passive 7 name = Anti Seal Magia
+| Passive 7 name JP = アンチ・シールマギア
+| Passive 7 effect = Anti-Magia Seal
+
+| Passive 8 icon = Regenerate MP
+| Passive 8 name = Mana Spring Adept [V]
+| Passive 8 name JP = マナスプリング・アデプト[Ⅴ]
+| Passive 8 effect = Regenerate MP [V / 9 MP]
+
+| Passive 9 icon = MP Up When Attacked By Weak Element
+| Passive 9 name = Revenge Adept [X]
+| Passive 9 name JP = リベンジ・アデプト[Ⅹ]
+| Passive 9 effect = MP Up When Attacked By Weak Element [X / 11 MP]
+
+| Passive 10 icon = Blast MP Gain Up
+| Passive 10 name = DMorale Blast Adept [V]
+| Passive 10 name JP = Dモラールブラスト・アデプト[Ⅴ]
+| Passive 10 effect = Blast MP Gain Up [V / 5 MP] & Dark Attribute Attack Up [II / 7.5%]
+
+| Passive 11 icon = Blast Damage Up
+| Passive 11 name = Destroy Adept [IV]
+| Passive 11 name JP = デストロイ・アデプト[Ⅳ]
+| Passive 11 effect = Blast Damage Up [IV / 25%] & Doppel Damage Up [IV / 20%]
+
+| Passive 12 icon = Dark Attribute Attack Up
+| Passive 12 name = DOutburst Aura [V]
+| Passive 12 name JP = Dアウトバースト・オーラ[Ⅴ]
+| Passive 12 effect = Dark Attribute Attack Up [V / 15%] & Doppel Damage Up [III / 15%] (Allies / 5 Turns on Battle Start)
+
+| Active 1 icon = Dark Attribute Attack Up
+| Active 1 name = DEliminate  Up [VII]
+| Active 1 name JP = Dエリミネイト・アップ[Ⅶ]
+| Active 1 effect = Dark Attribute Attack Up [VII / 20%] & Blast Damage Up [V / 35%] & Magia Damage Up [V / 15%] (Self / 1 Turn)
+| Active 1 cooldown = 8
+
+| Connect name JP = あなたのためじゃないわ
+| Connect name EN = 
+| Connect icon = Dark Attribute Attack Up
+| Connect effect 1 = Dark Attribute Attack Up
+| Connect 1 / 1 = VIII / 22.5%
+| Connect 1 / 2 = X / 27.5%
+| Connect effect 2 = Skill Quicken
+| Connect 2 / 1 = 100%
+| Connect 2 / 2 = 100%
+
+| Magia name JP = 時間止めによる集中射撃
+| Magia name EN = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Attribute Strengthened Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = VI / 325%
+| Magia 1 / 2 = VIII / 345%
+| Magia effect 2 = Dark Attribute Attack Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = Self / 3 Turns / 25%
+| Magia 2 / 2 = Self / 3 Turns / 30%
+| Magia effect 3 = Magia Damage Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Self / 3 Turns / 25%
+| Magia 3 / 2 = Self / 3 Turns / 30%
+| Magia effect 4 = Damage Up Versus Witches
+| Magia scaling 4 = 1.5%
+| Magia 4 / 1 = Self / 3 Turns / 35%
+| Magia 4 / 2 = Self / 3 Turns / 45%
+| Magia effect 5 = Skill Quicken
+| Magia scaling 5 = -
+| Magia 5 / 1 = Self / 1 Turn / 100%
+| Magia 5 / 2 = Self / 1 Turn / 100%
+| Magia effect 6 = Remove Debuffs
+| Magia scaling 6 = -
+| Magia 6 / 1 = Self
+| Magia 6 / 2 = Self
+
+| Magia2 name JP = 約束を重ねた軌跡
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
+| Magia2 effect 1 = Attribute Strengthened Damage All Enemies
+| Magia2 1 = X / 902%
+| Magia2 effect 2 = Dark Attribute Attack Up
+| Magia2 2 = Self / 5 Turns / 45%
+| Magia2 effect 3 = Magia Damage Up
+| Magia2 3 = Self / 5 Turns / 50%
+| Magia2 effect 4 = Damage Up Versus Witches
+| Magia2 4 = Self / 5 Turns / 61%
+| Magia2 effect 5 = Remove Debuffs
+| Magia2 5 = Self
+| Magia2 effect 6 = Skill Quicken
+| Magia2 6 = Allies / 1 Turn / 100%
+}}

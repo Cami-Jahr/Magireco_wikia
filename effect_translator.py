@@ -488,7 +488,9 @@ jp_to_en = {
     "テンプテーション": "Temptation",
     "チェイサー": "Chaser",
     "カタストロフ": "Catastrophe",
-    "ヴィクトリーロード": "Victory Road"
+    "ヴィクトリーロード": "Victory Road",
+    "デストロイ": "Destroy",
+    "アウトバースト": "Outburst"
 }
 
 # Subset of good effects that might be chance to happen

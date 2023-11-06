@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 誰も信じないなら、誰も未来を受け止められないなら<br />私だけの力であの子を救ってみせる<br />だから、今までの私のままではいられない<br />約束を果たすためにも、手段は選べないから
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

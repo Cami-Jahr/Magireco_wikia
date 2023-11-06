@@ -20855,7 +20855,7 @@
   "1309": {
     "pieceId": 1309,
     "rank": "RANK_4",
-    "__update__": "2019-09-17T08:29:49.166Z",
+    "__update__": "2023-11-06T12:16:41.926Z",
     "pieceName": "弱点は自転車",
     "illustrator": "渡辺明夫",
     "description": "「ときどき思うのだ＠私はキュゥべえと契約するとき、“自転車に乗れるようになりたい”と＠願うべきだったのではないかと…＠ま、走った方が速いから、特に問題は起きていないわけだがな！」",
@@ -20888,7 +20888,8 @@
       "shortDescription": "攻撃力UP[Ⅴ] & Charge後ダメージUP[Ⅴ] (自/3T)",
       "id": 130901,
       "intervalTurn": 8,
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "pieceSkill": {
       "art1": {
@@ -20918,7 +20919,8 @@
       "shortDescription": "攻撃力UP[Ⅳ] & Charge後ダメージUP[Ⅳ] (自/3T)",
       "id": 130900,
       "intervalTurn": 9,
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 130901,
     "attack": 0,
@@ -61252,7 +61254,7 @@
   "1787": {
     "pieceId": 1787,
     "rank": "RANK_3",
-    "__update__": "2022-07-28T09:00:22.828Z",
+    "__update__": "2023-11-06T12:10:41.081Z",
     "pieceName": "欠けた理解と折れた心",
     "pieceType": "SKILL",
     "attributeId": "ALL",
@@ -61288,7 +61290,8 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 178701,
     "pieceSkill2": {
@@ -61319,7 +61322,8 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "ともに過ごした時間も、乗り越えた危機の数も計り知れない＠心の姿は隠し通せたのに、その事実が胸をえぐって寒く感じる＠「ワタシハ…サイキョー…サイキョー…＠ダレヨリモツヨイ…ツヨイカラヘイキ…ダイジョーブ」",
     "illustrator": "―",
@@ -77270,5 +77274,238 @@
     "description": "何も感じない無の感覚、戻ってきたのは痛みだけ＠目を閉じた暗闇に、あの日の炎が燃え盛るのに＠意識は浮上しきれずに、逃げる背中に恐怖が迫る＠だけど、尊敬する人の気配は簡単に、わたしを現実に引き上げた",
     "illustrator": "―",
     "openDate": "2023/10/23 15:10:00"
+  },
+  "1977": {
+    "pieceId": 1977,
+    "rank": "RANK_3",
+    "__update__": "2023-11-06T07:43:44.882Z",
+    "pieceName": "孤高の覚悟",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "charaIds": "2301",
+    "charaList": [
+      {
+        "charaId": 2301,
+        "name": "暁美 ほむら scene0 ver."
+      }
+    ],
+    "attack": 0,
+    "defense": 442,
+    "hp": 522,
+    "skillId": 197700,
+    "pieceSkill": {
+      "id": 197700,
+      "groupId": 1245,
+      "name": "永遠の刻",
+      "type": "SKILL",
+      "intervalTurn": 18,
+      "shortDescription": "バフ効果を延長(味全/1T) & デバフ効果を延長(敵単/1T)",
+      "messageId": 71,
+      "artId1": 310322601,
+      "art1": {
+        "artId": 310322601,
+        "verbCode": "TURN_ALLY",
+        "effectCode": "BUFF",
+        "targetId": "ALL",
+        "effectValue": 1
+      },
+      "artId2": 410022701,
+      "art2": {
+        "artId": 410022701,
+        "verbCode": "TURN_ENEMY",
+        "effectCode": "DEBUFF",
+        "targetId": "TARGET",
+        "effectValue": 1
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 197701,
+    "pieceSkill2": {
+      "id": 197701,
+      "groupId": 1245,
+      "name": "永遠の刻",
+      "type": "SKILL",
+      "intervalTurn": 15,
+      "shortDescription": "バフ効果を延長(味全/1T) & デバフ効果を延長(敵単/1T)",
+      "messageId": 71,
+      "artId1": 310322601,
+      "art1": {
+        "artId": 310322601,
+        "verbCode": "TURN_ALLY",
+        "effectCode": "BUFF",
+        "targetId": "ALL",
+        "effectValue": 1
+      },
+      "artId2": 410022701,
+      "art2": {
+        "artId": 410022701,
+        "verbCode": "TURN_ENEMY",
+        "effectCode": "DEBUFF",
+        "targetId": "TARGET",
+        "effectValue": 1
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "誰も信じないなら、誰も未来を受け止められないなら＠私だけの力であの子を救ってみせる＠だから、今までの私のままではいられない＠約束を果たすためにも、手段は選べないから",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/11/06 15:10:00"
+  },
+  "1978": {
+    "pieceId": 1978,
+    "rank": "RANK_4",
+    "__update__": "2023-11-06T07:13:31.577Z",
+    "pieceName": "私が守るから",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 861,
+    "hp": 941,
+    "skillId": 197800,
+    "pieceSkill": {
+      "id": 197800,
+      "groupId": 1085,
+      "name": "グリッターライズ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "攻撃力UP[Ⅴ] & MP獲得量UP[Ⅲ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201105,
+      "art1": {
+        "artId": 330201105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201903,
+      "art2": {
+        "artId": 330201903,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 197801,
+    "pieceSkill2": {
+      "id": 197801,
+      "groupId": 1085,
+      "name": "グリッターライズ[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "攻撃力UP[Ⅵ] & MP獲得量UP[Ⅳ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201106,
+      "art1": {
+        "artId": 330201106,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201904,
+      "art2": {
+        "artId": 330201904,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「怪我はないかしら？」＠「う…うん」＠あなたを助けるために、私はここにいる＠その意義を、希望を、こんなところで失うわけにはいかない",
+    "illustrator": "―",
+    "openDate": "2023/11/06 15:10:00"
+  },
+  "1979": {
+    "pieceId": 1979,
+    "rank": "RANK_3",
+    "__update__": "2023-11-06T07:07:31.496Z",
+    "pieceName": "無情の入口",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 681,
+    "hp": 681,
+    "skillId": 197900,
+    "pieceSkill": {
+      "id": 197900,
+      "groupId": 1092,
+      "name": "エリミネイトアップ[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "Blast ダメージUP[Ⅲ] & マギアダメージUP[Ⅱ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201803,
+      "art1": {
+        "artId": 310201803,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310201402,
+      "art2": {
+        "artId": 310201402,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 75,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 197901,
+    "pieceSkill2": {
+      "id": 197901,
+      "groupId": 1092,
+      "name": "エリミネイトアップ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "Blast ダメージUP[Ⅴ] & マギアダメージUP[Ⅳ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201805,
+      "art1": {
+        "artId": 310201805,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310201404,
+      "art2": {
+        "artId": 310201404,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "彼女を知っている。一緒に過ごした記憶もある＠けれどこの先、私たちが交わることは二度とない＠繰り返す時間の中で、徐々に感情が薄らいでいくことで＠私は“人間”ではなくなっていくのかもしれない",
+    "illustrator": "―",
+    "openDate": "2023/11/06 15:10:00"
   }
 }

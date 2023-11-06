@@ -108,6 +108,7 @@
 2202;Devil Homura
 2203;Akemi Homura (Haregi ver.)
 2300;Akemi Homura (Mizugi ver.)
+2301;Akemi Homura (scene0 ver.)
 2400;Miki Sayaka (Haregi ver.)
 2401;Miki Sayaka (Surfing ver.)
 2500;Holy Mami
