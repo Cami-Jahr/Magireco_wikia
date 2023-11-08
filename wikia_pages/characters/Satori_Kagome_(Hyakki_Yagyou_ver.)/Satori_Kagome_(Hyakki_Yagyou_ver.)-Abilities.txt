@@ -1,6 +1,1 @@
 ﻿{{Satori_Kagome_(Hyakki_Yagyou_ver.)|Abilities}}
-
-{{Description
-| en = 
-| jp = ー
-}}

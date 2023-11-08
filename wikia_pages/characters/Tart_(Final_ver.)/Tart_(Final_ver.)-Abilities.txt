@@ -1,6 +1,1 @@
 ﻿{{Tart_(Final_ver.)|Abilities}}
-
-{{Description
-| en = 
-| jp = ー
-}}

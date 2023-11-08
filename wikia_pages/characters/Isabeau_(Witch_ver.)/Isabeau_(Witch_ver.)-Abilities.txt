@@ -1,6 +1,1 @@
 ﻿{{Isabeau_(Witch_ver.)|Abilities}}
-
-{{Description
-| en = 
-| jp = ー
-}}

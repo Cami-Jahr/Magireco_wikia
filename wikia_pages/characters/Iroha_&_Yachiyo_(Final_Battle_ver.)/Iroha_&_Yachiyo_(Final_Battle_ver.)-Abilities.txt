@@ -1,6 +1,1 @@
 ﻿{{Iroha_&_Yachiyo_(Final_Battle_ver.)|Abilities}}
-
-{{Description
-| en = 
-| jp = ー
-}}

@@ -1,6 +1,1 @@
 ﻿{{Iroha_&_Ui_(Miko_ver.)|Abilities}}
-
-{{Description
-| en = 
-| jp = ー
-}}

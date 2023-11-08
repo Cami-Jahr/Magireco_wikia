@@ -1,6 +1,1 @@
 ﻿{{Rumor_Sana|Abilities}}
-
-{{Description
-| en = 
-| jp = ー
-}}

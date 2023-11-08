@@ -1,6 +1,1 @@
 ﻿{{Touka_&_Nemu_(Holy_Night_ver.)|Abilities}}
-
-{{Description
-| en = 
-| jp = ー
-}}

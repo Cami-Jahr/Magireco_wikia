@@ -1,6 +1,1 @@
 ﻿{{Takamachi_Nanoha|Abilities}}
-
-{{Description
-| en = 
-| jp = ー
-}}

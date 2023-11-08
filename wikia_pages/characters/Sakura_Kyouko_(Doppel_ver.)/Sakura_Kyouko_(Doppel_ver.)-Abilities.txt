@@ -1,6 +1,1 @@
 ﻿{{Sakura_Kyouko_(Doppel_ver.)|Abilities}}
-
-{{Description
-| en = 
-| jp = ー
-}}

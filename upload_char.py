@@ -47,7 +47,7 @@ def main_section(char_name: str, text: str):
 
 def abilities_section(char_name: str, doppel_story: str):
     text = "{{" + char_name + "|Abilities}}"
-    if doppel_story:
+    if doppel_story and doppel_story != 'ー':
         text += "\n\n{{Description\n| en = \n| jp = " + doppel_story + "\n}}"
     return text
 
