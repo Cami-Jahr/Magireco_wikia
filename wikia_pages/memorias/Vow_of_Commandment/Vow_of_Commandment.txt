@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = もう二度と、他人のために魔法を使ったりしない<br />この力は、すべて自分のためだけに使い切る<br />だから好きなようにやらせてもらう<br />…つまらない正義感に駆られるのはまっぴらだ
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

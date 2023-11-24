@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Just a Game
+| ImageSrc = 
+| Event = 
+
+| Jname = ただのゲーム
+| Rarity = 3
+| ID = 1980
+| Illust = 都筑禰己
+| Owner = Sakura Kyouko (scene0 ver.)
+
+| min_HP = 482
+| min_ATK = 0
+| min_DEF = 482
+| max_HP = 1205
+| max_ATK = 0
+| max_DEF = 1205
+
+| image = Remove Debuffs
+| effect_name = Refresh
+| effect_name_JP = リフレッシュ
+| effect1 = Remove Debuffs & Remove Status Ailments (Self)
+| effect2 = Remove Debuffs & Remove Status Ailments (Self)
+| Cooldown = 4
+| Cooldown2 = 2
+}}

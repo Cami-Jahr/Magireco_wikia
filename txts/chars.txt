@@ -115,6 +115,7 @@
 2501;Tomoe Mami (Mizugi ver.)
 2502;Holy Mami (Anime ver.)
 2600;Sakura Kyouko (Mizugi ver.)
+2601;Sakura Kyouko (scene0 ver.)
 2602;Sakura Kyouko (Doppel ver.)
 2700;Momoe Nagisa (Valentine's ver.)
 2701;Momoe Nagisa (Mizugi ver.)

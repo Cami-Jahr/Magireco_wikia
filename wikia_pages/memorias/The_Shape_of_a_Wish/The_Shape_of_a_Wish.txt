@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「いたたたた…」<br />突如、魔女から姿を現した小さな女の子<br />魔法少女たちに大きな波紋を呼ぶその存在は<br />希望となるか、災厄となるか…
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

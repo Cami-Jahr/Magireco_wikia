@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「…よしっ、これでパーフェクト！」<br />日課のようにダンスゲームをこなす日々<br />ひたすらスコアと向き合う空間<br />他人のことは考えない、自分が自分らしくいる時間
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

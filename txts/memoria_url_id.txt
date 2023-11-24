@@ -964,5 +964,10 @@
 1977;Solitary Determination
 1978;I Will Protect You
 1979;Entrance to Coldheartedness
+1980;Just a Game
+1981;Vow of Commandment
+1982;A Secret Prayer
+1983;The Shape of a Wish
+1984;We Don't Need Tomorrow
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

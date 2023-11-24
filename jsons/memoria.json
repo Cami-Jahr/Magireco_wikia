@@ -63026,7 +63026,7 @@
   "1808": {
     "pieceId": 1808,
     "rank": "RANK_4",
-    "__update__": "2023-06-09T13:04:44.649Z",
+    "__update__": "2023-11-24T07:03:22.093Z",
     "pieceName": "ミコト・イン・ミラーズ",
     "pieceType": "ABILITY",
     "pieceKind": "EVENT",
@@ -63059,14 +63059,14 @@
         "growPoint": 0,
         "probability": 550
       },
-      "eventId": 1173,
-      "eventArtId1": 1173003,
+      "eventId": 1204,
+      "eventArtId1": 1204003,
       "eventArt1": {
-        "artId": 1173003,
+        "artId": 1204003,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 5000,
-        "genericValue": "EVENT_DAILYTOWER_1173_EXCHANGE_1"
+        "genericValue": "EVENT_DAILYTOWER_1204_EXCHANGE_1"
       },
       "eventDescription": "＆「ふたりの青春」追加獲得数＋5",
       "skillEffectRange": "ALL",
@@ -63097,14 +63097,14 @@
         "growPoint": 0,
         "probability": 650
       },
-      "eventId": 1173,
-      "eventArtId1": 1173004,
+      "eventId": 1204,
+      "eventArtId1": 1204004,
       "eventArt1": {
-        "artId": 1173004,
+        "artId": 1204004,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 15000,
-        "genericValue": "EVENT_DAILYTOWER_1173_EXCHANGE_1"
+        "genericValue": "EVENT_DAILYTOWER_1204_EXCHANGE_1"
       },
       "eventDescription": "＆「ふたりの青春」追加獲得数＋15",
       "skillEffectRange": "ALL",
@@ -63117,7 +63117,7 @@
   "1809": {
     "pieceId": 1809,
     "rank": "RANK_3",
-    "__update__": "2022-09-20T13:23:14.692Z",
+    "__update__": "2023-11-24T11:25:10.115Z",
     "pieceName": "はじめての、噂に聞く日常",
     "pieceType": "ABILITY",
     "attributeId": "ALL",
@@ -63150,7 +63150,8 @@
         "growPoint": 0,
         "probability": 150
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 180901,
     "pieceSkill2": {
@@ -63178,7 +63179,8 @@
         "growPoint": 0,
         "probability": 200
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "特別なものなんて、ひとつも求めていなかった＠普通でよかった…どこにでもある普通の、小さな幸せ＠それだけでよかった＠今、それが手に入ったはずなのに、どうして悲しいの？",
     "illustrator": "―",
@@ -63259,7 +63261,7 @@
   "1811": {
     "pieceId": 1811,
     "rank": "RANK_3",
-    "__update__": "2023-06-09T07:08:34.494Z",
+    "__update__": "2023-11-24T07:03:07.056Z",
     "pieceType": "SKILL",
     "pieceKind": "EVENT",
     "pieceName": "夕日のように輝いて",
@@ -63296,14 +63298,14 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "eventId": 1173,
-      "eventArtId1": 1173001,
+      "eventId": 1204,
+      "eventArtId1": 1204001,
       "eventArt1": {
-        "artId": 1173001,
+        "artId": 1204001,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 1000,
-        "genericValue": "EVENT_DAILYTOWER_1173_EXCHANGE_1"
+        "genericValue": "EVENT_DAILYTOWER_1204_EXCHANGE_1"
       },
       "eventDescription": "＆「ふたりの青春」追加獲得数＋1",
       "skillEffectRange": "ALL",
@@ -63338,14 +63340,14 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "eventId": 1173,
-      "eventArtId1": 1173002,
+      "eventId": 1204,
+      "eventArtId1": 1204002,
       "eventArt1": {
-        "artId": 1173002,
+        "artId": 1204002,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 5000,
-        "genericValue": "EVENT_DAILYTOWER_1173_EXCHANGE_1"
+        "genericValue": "EVENT_DAILYTOWER_1204_EXCHANGE_1"
       },
       "eventDescription": "＆「ふたりの青春」追加獲得数＋5",
       "skillEffectRange": "ALL",
@@ -77507,5 +77509,415 @@
     "description": "彼女を知っている。一緒に過ごした記憶もある＠けれどこの先、私たちが交わることは二度とない＠繰り返す時間の中で、徐々に感情が薄らいでいくことで＠私は“人間”ではなくなっていくのかもしれない",
     "illustrator": "―",
     "openDate": "2023/11/06 15:10:00"
+  },
+  "1980": {
+    "pieceId": 1980,
+    "rank": "RANK_3",
+    "__update__": "2023-11-15T08:36:30.685Z",
+    "pieceName": "ただのゲーム",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "charaIds": "2601",
+    "charaList": [
+      {
+        "charaId": 2601,
+        "name": "佐倉 杏子 scene0 ver."
+      }
+    ],
+    "attack": 0,
+    "defense": 482,
+    "hp": 482,
+    "skillId": 198000,
+    "pieceSkill": {
+      "id": 198000,
+      "groupId": 1082,
+      "name": "リフレッシュ",
+      "type": "SKILL",
+      "intervalTurn": 4,
+      "shortDescription": "デバフ解除 & 状態異常解除(自)",
+      "messageId": 70,
+      "artId1": 200200800,
+      "art1": {
+        "artId": 200200800,
+        "verbCode": "REVOKE",
+        "effectCode": "DEBUFF",
+        "targetId": "SELF",
+        "growPoint": 0
+      },
+      "artId2": 200201000,
+      "art2": {
+        "artId": 200201000,
+        "verbCode": "REVOKE",
+        "effectCode": "BAD",
+        "targetId": "SELF",
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 198001,
+    "pieceSkill2": {
+      "id": 198001,
+      "groupId": 1082,
+      "name": "リフレッシュ",
+      "type": "SKILL",
+      "intervalTurn": 2,
+      "shortDescription": "デバフ解除 & 状態異常解除(自)",
+      "messageId": 70,
+      "artId1": 200200800,
+      "art1": {
+        "artId": 200200800,
+        "verbCode": "REVOKE",
+        "effectCode": "DEBUFF",
+        "targetId": "SELF",
+        "growPoint": 0
+      },
+      "artId2": 200201000,
+      "art2": {
+        "artId": 200201000,
+        "verbCode": "REVOKE",
+        "effectCode": "BAD",
+        "targetId": "SELF",
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「…よしっ、これでパーフェクト！」＠日課のようにダンスゲームをこなす日々＠ひたすらスコアと向き合う空間＠他人のことは考えない、自分が自分らしくいる時間",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/11/15 15:10:00"
+  },
+  "1981": {
+    "pieceId": 1981,
+    "rank": "RANK_4",
+    "__update__": "2023-11-15T08:04:10.154Z",
+    "pieceType": "SKILL",
+    "pieceName": "戒めの誓約",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 821,
+    "hp": 981,
+    "skillId": 198100,
+    "pieceSkill": {
+      "id": 198100,
+      "groupId": 1088,
+      "name": "Fドッペル・アップ[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "マギアダメージUP[Ⅵ] & ドッペルダメージUP[Ⅵ] & 火属性攻撃力UP[Ⅹ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201406,
+      "art1": {
+        "artId": 310201406,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310218306,
+      "art2": {
+        "artId": 310218306,
+        "verbCode": "BUFF",
+        "effectCode": "DOPPEL",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 0
+      },
+      "artId3": 310221110,
+      "art3": {
+        "artId": 310221110,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 275,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 198101,
+    "pieceSkill2": {
+      "id": 198101,
+      "groupId": 1088,
+      "name": "Fドッペル・アップ[Ⅶ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "マギアダメージUP[Ⅶ] & ドッペルダメージUP[Ⅶ] & 火属性攻撃力UP[XI](自/1T)",
+      "messageId": 70,
+      "artId1": 310201407,
+      "art1": {
+        "artId": 310201407,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310218307,
+      "art2": {
+        "artId": 310218307,
+        "verbCode": "BUFF",
+        "effectCode": "DOPPEL",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 0
+      },
+      "artId3": 310221111,
+      "art3": {
+        "artId": 310221111,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "もう二度と、他人のために魔法を使ったりしない＠この力は、すべて自分のためだけに使い切る＠だから好きなようにやらせてもらう＠…つまらない正義感に駆られるのはまっぴらだ",
+    "illustrator": "―",
+    "openDate": "2023/11/15 15:10:00"
+  },
+  "1982": {
+    "pieceId": 1982,
+    "rank": "RANK_3",
+    "__update__": "2023-11-15T12:08:20.845Z",
+    "pieceName": "ひそかな祈りを",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 711,
+    "hp": 651,
+    "skillId": 198200,
+    "pieceSkill": {
+      "id": 198200,
+      "groupId": 1218,
+      "name": "アンチ・デバフ",
+      "type": "SKILL",
+      "intervalTurn": 12,
+      "shortDescription": "デバフ効果を1回無効(自/3T)",
+      "messageId": 70,
+      "artId1": 630219100,
+      "art1": {
+        "artId": 630219100,
+        "verbCode": "IGNORE",
+        "effectCode": "DEBUFF",
+        "targetId": "SELF",
+        "enableTurn": 3,
+        "growPoint": 0,
+        "probability": 1000,
+        "genericValue": "NONE"
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 198201,
+    "pieceSkill2": {
+      "id": 198201,
+      "groupId": 1218,
+      "name": "アンチ・デバフ",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "デバフ効果を1回無効(自/3T)",
+      "messageId": 70,
+      "artId1": 630219100,
+      "art1": {
+        "artId": 630219100,
+        "verbCode": "IGNORE",
+        "effectCode": "DEBUFF",
+        "targetId": "SELF",
+        "enableTurn": 3,
+        "growPoint": 0,
+        "probability": 1000,
+        "genericValue": "NONE"
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "人知れず、悲しみに消えゆく光＠魔法少女になって、何度遭遇しただろう＠せめて安らかにと祈るのは、同情した他人のためじゃない＠もう自分が見たくないだけ",
+    "illustrator": "―",
+    "openDate": "2023/11/15 15:10:00"
+  },
+  "1983": {
+    "pieceId": 1983,
+    "rank": "RANK_4",
+    "__update__": "2023-11-15T08:05:25.487Z",
+    "pieceType": "ABILITY",
+    "pieceName": "願いの形",
+    "attributeId": "ALL",
+    "attack": 859,
+    "defense": 0,
+    "hp": 779,
+    "skillId": 198300,
+    "pieceSkill": {
+      "id": 198300,
+      "groupId": 1213,
+      "name": "アージェント・マギア[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "対魔女ダメージアップ[Ⅳ] & マギアダメージUP[Ⅴ]",
+      "artId1": 690216804,
+      "art1": {
+        "artId": 690216804,
+        "verbCode": "LIMITED_ENEMY_TYPE",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 15,
+        "probability": 1000,
+        "genericValue": "WITCH"
+      },
+      "artId2": 390201405,
+      "art2": {
+        "artId": 390201405,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 198301,
+    "pieceSkill2": {
+      "id": 198301,
+      "groupId": 1213,
+      "name": "アージェント・マギア[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "対魔女ダメージアップ[Ⅳ] & マギアダメージUP[Ⅴ]",
+      "artId1": 690216804,
+      "art1": {
+        "artId": 690216804,
+        "verbCode": "LIMITED_ENEMY_TYPE",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 15,
+        "probability": 1000,
+        "genericValue": "WITCH"
+      },
+      "artId2": 390201405,
+      "art2": {
+        "artId": 390201405,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「いたたたた…」＠突如、魔女から姿を現した小さな女の子＠魔法少女たちに大きな波紋を呼ぶその存在は＠希望となるか、災厄となるか…",
+    "illustrator": "―",
+    "openDate": "2023/11/15 15:10:00"
+  },
+  "1984": {
+    "pieceId": 1984,
+    "rank": "RANK_4",
+    "__update__": "2023-11-24T07:03:22.088Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "私たちに明日はいらない",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 981,
+    "hp": 821,
+    "skillId": 198400,
+    "pieceSkill": {
+      "id": 198400,
+      "groupId": 1094,
+      "name": "アサルトブレイク[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "攻撃力DOWN[Ⅴ] & 与えるダメージDOWN[Ⅲ](敵単/3T)",
+      "messageId": 72,
+      "artId1": 430002005,
+      "art1": {
+        "artId": 430002005,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "TARGET",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 430002203,
+      "art2": {
+        "artId": 430002203,
+        "verbCode": "DEBUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "TARGET",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "eventId": 1204,
+      "eventArtId1": 1204003,
+      "eventArt1": {
+        "artId": 1204003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1204_EXCHANGE_1"
+      },
+      "eventDescription": "＆「ふたりの青春」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 198401,
+    "pieceSkill2": {
+      "id": 198401,
+      "groupId": 1094,
+      "name": "アサルトブレイク[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "攻撃力DOWN[Ⅵ] & 与えるダメージDOWN[Ⅳ](敵単/3T)",
+      "messageId": 72,
+      "artId1": 430002006,
+      "art1": {
+        "artId": 430002006,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "TARGET",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 430002204,
+      "art2": {
+        "artId": 430002204,
+        "verbCode": "DEBUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "TARGET",
+        "effectValue": 200,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "eventId": 1204,
+      "eventArtId1": 1204004,
+      "eventArt1": {
+        "artId": 1204004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1204_EXCHANGE_1"
+      },
+      "eventDescription": "＆「ふたりの青春」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "どこにいても透明な存在にさせられた、私というものを失わされた＠だから、反撃がいる…学校も家もそんなものすべて台なしにして＠私は、私たちはここにいるのだと力の限り証明してやるんだ＠この行き止まりから飛び出し、輝く破滅へ向かって",
+    "illustrator": "―",
+    "openDate": "2023/11/24 15:10:00"
   }
 }
