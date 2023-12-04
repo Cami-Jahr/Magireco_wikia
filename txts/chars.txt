@@ -111,6 +111,7 @@
 2301;Akemi Homura (scene0 ver.)
 2400;Miki Sayaka (Haregi ver.)
 2401;Miki Sayaka (Surfing ver.)
+2402;Miki Sayaka (scene0 ver.)
 2500;Holy Mami
 2501;Tomoe Mami (Mizugi ver.)
 2502;Holy Mami (Anime ver.)

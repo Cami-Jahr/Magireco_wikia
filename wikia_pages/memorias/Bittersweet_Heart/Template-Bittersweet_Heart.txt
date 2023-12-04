@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Bittersweet Heart
+| ImageSrc = 
+| Event = 
+
+| Jname = ビタースイート・ハート
+| Rarity = 3
+| ID = 1985
+| Illust = 都筑禰己
+| Owner = Miki Sayaka (scene0 ver.)
+
+| min_HP = 522
+| min_ATK = 442
+| min_DEF = 0
+| max_HP = 1305
+| max_ATK = 1105
+| max_DEF = 0
+
+| image = Defense Up
+| effect_name = Full Gauge Heal Shield 
+| effect_name_JP = フルゲージ・ヒールシールド
+| effect1 = Defense Up While At Max Health [IV / 40%] & Defense Up [III / 22.5%] & Regenerate HP [II / 3%]
+| effect2 = Defense Up While At Max Health [V / 50%] & Defense Up [IV / 30%] & Regenerate HP [III / 4%]
+| Cooldown = 
+| Cooldown2 = 
+}}

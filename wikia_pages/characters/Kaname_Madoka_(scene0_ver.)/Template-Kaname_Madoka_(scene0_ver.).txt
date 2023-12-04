@@ -101,7 +101,7 @@
 | Passive 12 icon = Light Attribute Attack Up
 | Passive 12 name = LightGlitter Aura [V]
 | Passive 12 name JP = ライトグリッター・オーラ[Ⅴ]
-| Passive 12 effect = Light Attribute Attack Up [V / 15%] (Self / 5 Turns on Battle Start) & MP Gain Up [II / 7.5%] (Allies / 5 Turns on Battle Start)
+| Passive 12 effect = Light Attribute Attack Up [V / 15%] & MP Gain Up [II / 7.5%] (Allies / 5 Turns on Battle Start)
 
 | Active 1 icon = Regenerate HP
 | Active 1 name = Nursing Care Circle [III]

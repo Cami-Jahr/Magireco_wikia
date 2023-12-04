@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 宿題？テスト？そんな心配をしていてはオタクなんてできません！<br />温めたコタツに入り、お供はエナドリ、ケーキにお菓子<br />準備ができたらビデオプレイヤーを再生！<br />今宵も名画の魅力に迫るとしましょう
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,167 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Miki Sayaka (scene0 ver.)
+| name_jp = 美樹 さやか (scene0 ver.)
+| element = Aqua
+| base_rarity = 4
+| max_rarity = 5
+| id = 2402
+| type = Defense
+| growth_type = DEFHP
+| school_jp = 見滝原中学校
+| voice_actor_jp = 喜多村英梨
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2023-12-04
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 0
+| charge_disks = 2
+
+| 4star_hp_lv1 = 8439
+| 4star_attack_lv1 = 1866
+| 4star_defense_lv1 = 2719
+| 4star_hp_max = 30599
+| 4star_attack_max = 6669
+| 4star_defense_max = 9929
+| 4star_illustrator_jp = ササギコウシ
+
+| 5star_hp_lv1 = 9374
+| 5star_attack_lv1 = 2074
+| 5star_defense_lv1 = 3019
+| 5star_hp_max = 37777
+| 5star_attack_max = 8233
+| 5star_defense_max = 12257
+| 5star_illustrator_jp = ササギコウシ
+
+| se_hp_bonus = 8392
+| se_attack_bonus = 2255
+| se_defense_bonus = 3757
+
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 10
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Blast Damage Cut
+| Passive 3 name = Blast MagiaWall [V]
+| Passive 3 name JP = ブラスト・マギアウォール[Ⅴ]
+| Passive 3 effect = Blast Damage Cut [V / 25%] & Magia Damage Cut [V / 25%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Regenerate HP
+| Passive 6 name = Regeneration FShield [III]
+| Passive 6 name JP = リジェネレイト・Fシールド[Ⅲ]
+| Passive 6 effect = Regenerate HP [III / 4%] & Flame Attribute Damage Cut [III / 15%]
+
+| Passive 7 icon = Defense Up
+| Passive 7 name = Full Gauge Guard [VII]
+| Passive 7 name JP = フルゲージ・ガード[Ⅶ]
+| Passive 7 effect = Defense Up While At Max Health [VII / 70%]
+
+| Passive 8 icon = Guardian
+| Passive 8 name = Covering Adept [IX]
+| Passive 8 name JP = カバーリング・アデプト[Ⅸ]
+| Passive 8 effect = Chance to Guardian [IX / 50%]
+
+| Passive 9 icon = MP Up When Damaged
+| Passive 9 name = Conversion Adept [VI]
+| Passive 9 name JP = コンバージョン・アデプト[Ⅵ]
+| Passive 9 effect = MP Up When Damaged [VI / 6 MP] & MP Gain Up [IV / 12.5%]
+
+| Passive 10 icon = Survive
+| Passive 10 name = SurviveAura [IX]
+| Passive 10 name JP = サヴァイヴオーラ[Ⅸ]
+| Passive 10 effect = Survive [IX / 40% HP] (Self / ∞ Turns on Battle Start)
+
+| Passive 11 icon = MP Up When Damaged
+| Passive 11 name = Endor Adept [V]
+| Passive 11 name JP = エンドア・アデプト[Ⅴ]
+| Passive 11 effect = MP Up When Damaged [V / 5 MP]
+
+| Passive 12 icon = Damage Cut
+| Passive 12 name = HShield Aura [III]
+| Passive 12 name JP = Hシールド・オーラ[Ⅲ]
+| Passive 12 effect = Damage Cut [III / 25%] & Defense Up [III / 30%] (Allies / 5 Turns on Battle Start)
+
+| Active 1 icon = Regenerate HP
+| Active 1 name = HealingVeil [V]
+| Active 1 name JP = ヒーリングベール[Ⅴ]
+| Active 1 effect = Regenerate HP [V / 6%] (Self / 3 Turns) & HP Restore [V / 40%] (Self)
+| Active 1 cooldown = 5
+
+| Connect name JP = 報われてもいいはずだよ！
+| Connect name EN = 
+| Connect icon = Regenerate HP
+| Connect effect 1 = Regenerate HP
+| Connect 1 / 1 = 3 Turns / VIII / 9%
+| Connect 1 / 2 = 3 Turns / X / 11%
+| Connect effect 2 = Barrier
+| Connect 2 / 1 = VIII / 8000 damage
+| Connect 2 / 2 = X / 10000 damage
+
+| Magia name JP = アニマート・フォルティッシモ
+| Magia name EN = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 1088%
+| Magia 1 / 2 = VII / 1152%
+| Magia effect 2 = Barrier
+| Magia scaling 2 = -
+| Magia 2 / 1 = Self / 3 Turns / 10000 damage
+| Magia 2 / 2 = Self / 3 Turns / 10000 damage
+| Magia effect 3 = Defense Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Self / 3 Turns / 45%
+| Magia 3 / 2 = Self / 3 Turns / 60%
+| Magia effect 4 = Survive
+| Magia scaling 4 = -
+| Magia 4 / 1 = Self / 3 Turns / 30% HP
+| Magia 4 / 2 = Self / 3 Turns / 35% HP
+| Magia effect 5 = Guardian
+| Magia scaling 5 = -
+| Magia 5 / 1 = Self / 1 Turn / 100%
+| Magia 5 / 2 = Self / 1 Turn / 100%
+| Magia effect 6 = Status Ailment Resistance Up
+| Magia scaling 6 = 2.5%
+| Magia 6 / 1 = Self / 1 Turn / 30%
+| Magia 6 / 2 = Self / 1 Turn / 40%
+
+| Magia2 name JP = フトゥリズモ・コンチェルタンテ
+| Magia2 name EN = 
+| Magia2 icon = Damage One Enemy
+| Magia2 effect 1 = Attribute Strengthened Damage One Enemy
+| Magia2 1 = IX / 2270.4%
+| Magia2 effect 2 = Barrier
+| Magia2 2 = Allies / 5 Turns / 10000 damage
+| Magia2 effect 3 = Defense Up
+| Magia2 3 = Allies / 5 Turns / 70%
+| Magia2 effect 4 = Survive
+| Magia2 4 = Self / 3 Turns / 40% HP
+| Magia2 effect 5 = Guardian
+| Magia2 5 = Self / 3 Turns / 100%
+| Magia2 effect 6 = Status Ailment Resistance Up
+| Magia2 6 = Self / 3 Turns / 100%
+| Magia2 effect 7 = Regenerate HP
+| Magia2 7 = Self / 3 Turns / 10%
+}}

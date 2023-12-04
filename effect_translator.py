@@ -490,7 +490,11 @@ jp_to_en = {
     "カタストロフ": "Catastrophe",
     "ヴィクトリーロード": "Victory Road",
     "デストロイ": "Destroy",
-    "アウトバースト": "Outburst"
+    "アウトバースト": "Outburst",
+    "アーマメント": "Armament",
+    "ウォール": "Wall",
+    "コンバージョン": "Conversion",
+    "ベール": "Veil"
 }
 
 # Subset of good effects that might be chance to happen

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「この人の演奏は、本当に凄いんだ。さやかも聴いてみる？」<br />「い、いいのかな…」<br />この緊張を伝えるわけにはいかない…！<br />大丈夫、曲に集中すれば落ち着いてくるはず…！
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

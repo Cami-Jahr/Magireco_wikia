@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = もし口に合わなかったら？　不格好だって思われたら？<br />それでも喜んでほしいから、今は思い切って渡すだけ<br />らしくないって思われてもいい<br />これが偽りのない、あたしの本当の「気持ち」だから
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

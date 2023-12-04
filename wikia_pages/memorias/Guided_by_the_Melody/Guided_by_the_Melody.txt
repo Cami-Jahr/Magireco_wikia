@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 聴衆を惹きつける音色は<br />静謐な空間いっぱいに広がって、切なく甘やかな余韻を残す<br />「みんなにも聴いてほしい」と思ってしまうくらい<br />少女はその音色に、ただ心を奪われていた
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

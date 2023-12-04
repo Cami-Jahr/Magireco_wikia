@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Guided by the Melody
+| ImageSrc = 
+| Event = 
+
+| Jname = 旋律に導かれて
+| Rarity = 3
+| ID = 1987
+| Illust = -
+| Owner = 
+
+| min_HP = 621
+| min_ATK = 0
+| min_DEF = 741
+| max_HP = 1552
+| max_ATK = 0
+| max_DEF = 1852
+
+| image = Guardian
+| effect_name = Hard Covering
+| effect_name_JP = ハード・カバーリング
+| effect1 = Guardian & Defense Up [II / 15%] (Self / 1 Turn)
+| effect2 = Guardian & Defense Up [III / 22.5%] (Self / 1 Turn)
+| Cooldown = 9
+| Cooldown2 = 8
+}}

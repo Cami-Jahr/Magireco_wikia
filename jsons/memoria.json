@@ -65315,7 +65315,7 @@
   "1835": {
     "pieceId": 1835,
     "rank": "RANK_3",
-    "__update__": "2022-12-12T08:42:41.183Z",
+    "__update__": "2023-12-02T15:04:34.790Z",
     "pieceType": "ABILITY",
     "pieceName": "幼馴染なふたり",
     "attributeId": "ALL",
@@ -65348,7 +65348,8 @@
         "growPoint": 0,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 183501,
     "pieceSkill2": {
@@ -65376,7 +65377,8 @@
         "growPoint": 0,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "あの頃は子どもだったね、なんて話す今のふたりを＠いつか、もっと大人になったワタシたちも懐かしむのかな＠もしも一緒に、おばあちゃんになれる日が訪れたなら＠そのときもまた、昔話ができたらいいな",
     "illustrator": "―",
@@ -77919,5 +77921,352 @@
     "description": "どこにいても透明な存在にさせられた、私というものを失わされた＠だから、反撃がいる…学校も家もそんなものすべて台なしにして＠私は、私たちはここにいるのだと力の限り証明してやるんだ＠この行き止まりから飛び出し、輝く破滅へ向かって",
     "illustrator": "―",
     "openDate": "2023/11/24 15:10:00"
+  },
+  "1985": {
+    "pieceId": 1985,
+    "rank": "RANK_3",
+    "__update__": "2023-12-04T08:52:15.157Z",
+    "pieceName": "ビタースイート・ハート",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "charaIds": "2402",
+    "charaList": [
+      {
+        "charaId": 2402,
+        "name": "美樹 さやか scene0 ver."
+      }
+    ],
+    "attack": 442,
+    "defense": 0,
+    "hp": 522,
+    "skillId": 198500,
+    "pieceSkill": {
+      "id": 198500,
+      "groupId": 1086,
+      "name": "フルゲージ・ヒールシールド[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "HP最大時防御力UP[Ⅳ] & 防御力UP[Ⅲ] & HP自動回復[Ⅱ]",
+      "artId1": 390203204,
+      "art1": {
+        "artId": 390203204,
+        "verbCode": "BUFF_HPMAX",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId2": 390201203,
+      "art2": {
+        "artId": 390201203,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690207702,
+      "art3": {
+        "artId": 690207702,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 30,
+        "growPoint": 10,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 198501,
+    "pieceSkill2": {
+      "id": 198501,
+      "groupId": 1086,
+      "name": "フルゲージ・ヒールシールド[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "HP最大時防御力UP[Ⅴ] & 防御力UP[Ⅳ] & HP自動回復[Ⅲ]",
+      "artId1": 390203205,
+      "art1": {
+        "artId": 390203205,
+        "verbCode": "BUFF_HPMAX",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 500,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId2": 390201204,
+      "art2": {
+        "artId": 390201204,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690207703,
+      "art3": {
+        "artId": 690207703,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 40,
+        "growPoint": 10,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "もし口に合わなかったら？　不格好だって思われたら？＠それでも喜んでほしいから、今は思い切って渡すだけ＠らしくないって思われてもいい＠これが偽りのない、あたしの本当の「気持ち」だから",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/12/04 15:10:00"
+  },
+  "1986": {
+    "pieceId": 1986,
+    "rank": "RANK_4",
+    "__update__": "2023-12-04T07:11:42.949Z",
+    "pieceType": "ABILITY",
+    "pieceName": "分け合う調べ",
+    "attributeId": "ALL",
+    "attack": 781,
+    "defense": 0,
+    "hp": 981,
+    "skillId": 198600,
+    "pieceSkill": {
+      "id": 198600,
+      "groupId": 1170,
+      "name": "ガーディアン・シールド[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "確率でかばう[Ⅲ] & 防御力UP[Ⅳ] & ダメージカット状態[Ⅲ]",
+      "artId1": 690213203,
+      "art1": {
+        "artId": 690213203,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROTECT",
+        "targetId": "ONE",
+        "growPoint": 0,
+        "probability": 200
+      },
+      "artId2": 390201204,
+      "art2": {
+        "artId": 390201204,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690206203,
+      "art3": {
+        "artId": 690206203,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 198601,
+    "pieceSkill2": {
+      "id": 198601,
+      "groupId": 1170,
+      "name": "ガーディアン・シールド[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "確率でかばう[Ⅳ] & 防御力UP[Ⅴ] & ダメージカット状態[Ⅳ]",
+      "artId1": 690213204,
+      "art1": {
+        "artId": 690213204,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROTECT",
+        "targetId": "ONE",
+        "growPoint": 0,
+        "probability": 250
+      },
+      "artId2": 390201205,
+      "art2": {
+        "artId": 390201205,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 375,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690206204,
+      "art3": {
+        "artId": 690206204,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「この人の演奏は、本当に凄いんだ。さやかも聴いてみる？」＠「い、いいのかな…」＠この緊張を伝えるわけにはいかない…！＠大丈夫、曲に集中すれば落ち着いてくるはず…！",
+    "illustrator": "―",
+    "openDate": "2023/12/04 15:10:00"
+  },
+  "1987": {
+    "pieceId": 1987,
+    "rank": "RANK_3",
+    "__update__": "2023-12-04T07:26:02.205Z",
+    "pieceName": "旋律に導かれて",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 741,
+    "hp": 621,
+    "skillId": 198700,
+    "pieceSkill": {
+      "id": 198700,
+      "groupId": 1170,
+      "name": "ハード・カバーリング",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "味方を必ずかばう & 防御力UP[Ⅱ](自/1T)",
+      "messageId": 70,
+      "artId1": 610213300,
+      "art1": {
+        "artId": 610213300,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROTECT",
+        "targetId": "ONE",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 310201202,
+      "art2": {
+        "artId": 310201202,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 198701,
+    "pieceSkill2": {
+      "id": 198701,
+      "groupId": 1170,
+      "name": "ハード・カバーリング",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "味方を必ずかばう & 防御力UP[Ⅲ](自/1T)",
+      "messageId": 70,
+      "artId1": 610213300,
+      "art1": {
+        "artId": 610213300,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROTECT",
+        "targetId": "ONE",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 310201203,
+      "art2": {
+        "artId": 310201203,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "聴衆を惹きつける音色は＠静謐な空間いっぱいに広がって、切なく甘やかな余韻を残す＠「みんなにも聴いてほしい」と思ってしまうくらい＠少女はその音色に、ただ心を奪われていた",
+    "illustrator": "―",
+    "openDate": "2023/12/04 15:10:00"
+  },
+  "1988": {
+    "pieceId": 1988,
+    "rank": "RANK_4",
+    "__update__": "2023-12-04T07:10:45.448Z",
+    "pieceType": "ABILITY",
+    "pieceName": "映画オタクの生態",
+    "attributeId": "ALL",
+    "attack": 899,
+    "defense": 0,
+    "hp": 739,
+    "skillId": 198800,
+    "pieceSkill": {
+      "id": 198800,
+      "groupId": 1213,
+      "name": "アージェント・アーマメント[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "対魔女ダメージアップ[Ⅴ] & ダメージカット状態[Ⅴ]",
+      "artId1": 690216805,
+      "art1": {
+        "artId": 690216805,
+        "verbCode": "LIMITED_ENEMY_TYPE",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 15,
+        "probability": 1000,
+        "genericValue": "WITCH"
+      },
+      "artId2": 690206205,
+      "art2": {
+        "artId": 690206205,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 198801,
+    "pieceSkill2": {
+      "id": 198801,
+      "groupId": 1213,
+      "name": "アージェント・アーマメント[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "対魔女ダメージアップ[Ⅴ] & ダメージカット状態[Ⅴ]",
+      "artId1": 690216805,
+      "art1": {
+        "artId": 690216805,
+        "verbCode": "LIMITED_ENEMY_TYPE",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 15,
+        "probability": 1000,
+        "genericValue": "WITCH"
+      },
+      "artId2": 690206205,
+      "art2": {
+        "artId": 690206205,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "宿題？テスト？そんな心配をしていてはオタクなんてできません！＠温めたコタツに入り、お供はエナドリ、ケーキにお菓子＠準備ができたらビデオプレイヤーを再生！＠今宵も名画の魅力に迫るとしましょう",
+    "illustrator": "―",
+    "openDate": "2023/12/04 15:10:00"
   }
 }
