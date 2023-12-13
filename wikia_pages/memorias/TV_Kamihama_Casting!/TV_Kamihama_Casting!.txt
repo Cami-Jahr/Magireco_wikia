@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 電波に乗せるのはどんなこと？<br />裏話？最新情報？それとも何かを実践するコーナー…？<br />台本を確認して覚悟を決めたら、スタジオに入ってスイッチON！<br />あとは本番。みんなに楽しんでもらうために頑張ります！
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

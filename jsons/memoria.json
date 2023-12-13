@@ -78268,5 +78268,87 @@
     "description": "宿題？テスト？そんな心配をしていてはオタクなんてできません！＠温めたコタツに入り、お供はエナドリ、ケーキにお菓子＠準備ができたらビデオプレイヤーを再生！＠今宵も名画の魅力に迫るとしましょう",
     "illustrator": "―",
     "openDate": "2023/12/04 15:10:00"
+  },
+  "1989": {
+    "pieceId": 1989,
+    "rank": "RANK_4",
+    "__update__": "2023-12-11T09:59:59.822Z",
+    "pieceType": "SKILL",
+    "pieceName": "TV神浜キャスティング！",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 739,
+    "hp": 899,
+    "skillId": 198900,
+    "pieceSkill": {
+      "id": 198900,
+      "groupId": 1119,
+      "name": "エンハンス・アーマメント[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "ダメージアップ状態[Ⅴ] & ダメージカット状態[Ⅴ](自/3T)",
+      "messageId": 70,
+      "artId1": 630206105,
+      "art1": {
+        "artId": 630206105,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 630206205,
+      "art2": {
+        "artId": 630206205,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 198901,
+    "pieceSkill2": {
+      "id": 198901,
+      "groupId": 1119,
+      "name": "エンハンス・アーマメント[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "ダメージアップ状態[Ⅴ] & ダメージカット状態[Ⅴ](自/3T)",
+      "messageId": 70,
+      "artId1": 630206105,
+      "art1": {
+        "artId": 630206105,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 630206205,
+      "art2": {
+        "artId": 630206205,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "電波に乗せるのはどんなこと？＠裏話？最新情報？それとも何かを実践するコーナー…？＠台本を確認して覚悟を決めたら、スタジオに入ってスイッチON！＠あとは本番。みんなに楽しんでもらうために頑張ります！",
+    "illustrator": "PAPA",
+    "openDate": "2023/12/11 15:10:00"
   }
 }
