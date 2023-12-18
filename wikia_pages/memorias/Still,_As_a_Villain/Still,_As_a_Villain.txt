@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 本当は、善を信じていた…助けを求める人がいるなら見捨てたりしない<br />そんなヒーローになりたかった…今さら叶わないとわかっていたが<br />それでも諦めきれずにいた夢…それを自ら捨てて、彼女は悪になる<br />たったひとりの大切な人を守るために
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

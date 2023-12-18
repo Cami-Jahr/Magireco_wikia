@@ -15,8 +15,8 @@
 | event_limit = 
 
 | accele_disks = 2
-| blast_vert_disks = 0
-| blast_hori_disks = 0
+| blast_slas_disks = 1
+| blast_back_disks = 1
 | charge_disks = 1
 
 | 4star_hp_lv1 = 5561

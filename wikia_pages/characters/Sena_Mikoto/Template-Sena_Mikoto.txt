@@ -106,7 +106,7 @@
 | Active 1 icon = Barrier
 | Active 1 name = Mirror Shield
 | Active 1 name JP = ミラーシールド
-| Active 1 effect = Barrier [10000 damage] & Reflect [0.1%] (Self / 3 Turns) & Guardian (Self / 1 Turn)
+| Active 1 effect = Barrier [10000 damage] & Reflect Debuffs [1 Debuff] (Self / 3 Turns) & Guardian (Self / 1 Turn)
 | Active 1 cooldown = 8
 
 | Connect name JP = 共同実験をはじめてみよっか？
@@ -137,10 +137,10 @@
 | Magia scaling 3 = -
 | Magia 3 / 1 = Allies / 3 Turns / 5000 damage
 | Magia 3 / 2 = Allies / 3 Turns / 5000 damage
-| Magia effect 4 = Reflect
+| Magia effect 4 = Reflect Debuffs
 | Magia scaling 4 = -
-| Magia 4 / 1 = Self / 3 Turns / 0.1%
-| Magia 4 / 2 = Self / 3 Turns / 0.1%
+| Magia 4 / 1 = Self / 3 Turns / 1 Debuff
+| Magia 4 / 2 = Self / 3 Turns / 1 Debuff
 | Magia effect 5 = MP Up When Damaged
 | Magia scaling 5 = -
 | Magia 5 / 1 = Self / 1 Turn / 13 MP
@@ -154,8 +154,8 @@
 | Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
 | Magia2 effect 1 = Damage All Enemies
 | Magia2 1 = I / 308%
-| Magia2 effect 2 = Reflect
-| Magia2 2 = Allies / 3 Turns / 0.1%
+| Magia2 effect 2 = Reflect Debuffs
+| Magia2 2 = Allies / 3 Turns / 1 Debuff
 | Magia2 effect 3 = Strengthened Counter
 | Magia2 3 = Allies / 3 Turns / 100%
 | Magia2 effect 4 = Barrier

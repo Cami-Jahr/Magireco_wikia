@@ -44,6 +44,13 @@ textM2 = """
 | charge_disks = {}
 """
 
+textM2_D = """
+| accele_disks = {}
+| blast_slas_disks = {}
+| blast_back_disks = {}
+| charge_disks = {}
+"""
+
 textM3 = """
 | 1star_hp_lv1 = {}
 | 1star_attack_lv1 = {}
@@ -237,9 +244,12 @@ def format_info(_id: int):
     card = work_on["defaultCard"]
     low_rank = card["cardId"] % 10
     disk_layout = [card[f"commandType{i}"] for i in range(1, 6)]
-    t3 = textM2.format(
-        disk_layout.count('MPUP'), disk_layout.count('RANGE_V'), disk_layout.count('RANGE_H'),
-        disk_layout.count('CHARGE'))
+    if not disk_layout.count('RANGE_S') and not disk_layout.count('RANGE_B'):
+        t3 = textM2.format(disk_layout.count('MPUP'), disk_layout.count('RANGE_V'), disk_layout.count('RANGE_H'),
+                           disk_layout.count('CHARGE'))
+    else:
+        t3 = textM2_D.format(disk_layout.count('MPUP'), disk_layout.count('RANGE_S'), disk_layout.count('RANGE_B'),
+                             disk_layout.count('CHARGE'))
     rank = low_rank
 
     cards = ["defaultCard", *[f"evolutionCard{i}" for i in range(1, 5)]]

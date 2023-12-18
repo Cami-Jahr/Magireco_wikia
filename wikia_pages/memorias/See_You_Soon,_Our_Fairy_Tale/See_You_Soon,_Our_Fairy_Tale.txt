@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 火の魔王と氷の女王は、きっと今日も民と仲良く暮らしている<br />時に衝突しながらも力を合わせ、エンディングの向こう側を生きている<br />…そんな空想をして、タイムカプセルをそっと閉じた<br />私は私の、まだ終わらない物語を紡いでいくために
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

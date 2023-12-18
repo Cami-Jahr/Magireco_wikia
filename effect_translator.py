@@ -84,7 +84,7 @@ good = {
     "IMITATE_ATTRIBUTE": ("Variable", True, False),
     "NO_COST_CHARGE": ("Charge Conservation", True, False),
     "BARRIER": ("Barrier", True, False),
-    "REFLECT_DEBUFF": ("Reflect", True, False),
+    "REFLECT_DEBUFF": ("Reflect Debuffs", True, False),
 }
 
 bad = {
@@ -357,7 +357,7 @@ jp_to_en = {
     "ディスアーマメント": "Disarmament",
     "オブリビオン": "Oblivion",
     "ジアンサー": "The Answer",
-"バタリングラム": "Battering Ram",
+    "バタリングラム": "Battering Ram",
     "アンチ": "Anti",
     "・": " ",
     "[": " [",
@@ -494,7 +494,10 @@ jp_to_en = {
     "アーマメント": "Armament",
     "ウォール": "Wall",
     "コンバージョン": "Conversion",
-    "ベール": "Veil"
+    "ベール": "Veil",
+    "エンハンス": "Enhance",
+    "リフレクション": "Reflection",
+    "ファランクス": "Phalanx"
 }
 
 # Subset of good effects that might be chance to happen
@@ -702,6 +705,8 @@ def translate(shortDescription: str, arts: list[dict], include_roman: bool, incl
                     effect = f"{nr} Debuff{'s' if nr > 1 else ''}"
                 elif effect_code in ("CONDITION_BAD",):
                     effect = f"{nr} Status Ailment{'s' if nr > 1 else ''}"
+            elif effect_code == "REFLECT_DEBUFF":
+                effect = f"{int(val*10)} Debuff{'s' if val > 0.1 else ''}"
 
             if verb_code == "ATTACK" and "effectCode" in art:
                 if art["effectCode"] in ("ALIGNMENT",):

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 誰もいない場所で、誰にも見つからないように咲いている２輪の花<br />春を待たずに花をつけたのは、<br />すべてが雪と一緒に溶けなくなるのを嫌った証…<br />思い出はここで、静かに揺れている
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

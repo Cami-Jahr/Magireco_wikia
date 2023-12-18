@@ -72,6 +72,7 @@
 1137;Nayuta & Mikage (Christmas ver.)
 1139;Sawa Sudachi (Valentine's ver.)
 1143;Kuroe (Mizugi ver.)
+1144;Uwasa Mikoto
 1201;Iroha-chan
 1202;Nanami Yachiyo (Tanabata ver.)
 1203;Tsuruno & Felicia (Delivery ver.)

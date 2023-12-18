@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Escape to the End
+| ImageSrc = 
+| Event = 
+
+| Jname = 終わりへの逃避行
+| Rarity = 4
+| ID = 1991
+| Illust = -
+| Owner = 
+
+| min_HP = 821
+| min_ATK = 941
+| min_DEF = 0
+| max_HP = 2052
+| max_ATK = 2352
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Penetrate Rising 
+| effect_name_JP = ペネトレイトライジング
+| effect1 = Attack Up [IV / 20%] & Chance to Defense Pierce [IV / 25%]
+| effect2 = Attack Up [V / 25%] & Chance to Defense Pierce [V / 30%]
+| Cooldown = 
+| Cooldown2 = 
+}}

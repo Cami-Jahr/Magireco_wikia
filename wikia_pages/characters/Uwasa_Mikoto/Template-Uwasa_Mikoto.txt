@@ -1,0 +1,170 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Uwasa Mikoto
+| name_jp = ウワサのみこと
+| element = Void
+| base_rarity = 4
+| max_rarity = 5
+| id = 1144
+| type = Balance
+| growth_type = BALANCE
+| school_jp = ―
+| voice_actor_jp = 本渡楓
+| designer_jp = ぷにゃん
+| memoria = 
+| release_date = 2023-12-18
+| event_limit = 
+
+| accele_disks = 3
+| blast_vert_disks = 0
+| blast_hori_disks = 0
+| charge_disks = 2
+
+| 4star_hp_lv1 = 8405
+| 4star_attack_lv1 = 2330
+| 4star_defense_lv1 = 2330
+| 4star_hp_max = 30258
+| 4star_attack_max = 8388
+| 4star_defense_max = 8388
+| 4star_illustrator_jp = ぷにゃん
+
+| 5star_hp_lv1 = 9338
+| 5star_attack_lv1 = 2588
+| 5star_defense_lv1 = 2588
+| 5star_hp_max = 37352
+| 5star_attack_max = 10352
+| 5star_defense_max = 10352
+| 5star_illustrator_jp = ぷにゃん
+
+| se_hp_bonus = 
+| se_attack_bonus = 
+| se_defense_bonus = 
+
+| se accele bonus = 
+| se blast bonus = 
+| se charge bonus = 
+
+| Passive 1 icon = Negate Status Ailments
+| Passive 1 name = Resist Shield
+| Passive 1 name JP = レジストシールド
+| Passive 1 effect = Negate Status Ailments [2 Status Ailments] (∞ Turns on Battle Start)
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [IV]
+| Passive 2 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 2 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
+
+| Passive 3 icon = MP Up When Damaged
+| Passive 3 name = Conversion Adept [IV]
+| Passive 3 name JP = コンバージョン・アデプト[Ⅳ]
+| Passive 3 effect = MP Up When Damaged [IV / 4 MP] & MP Gain Up [IV / 12.5%]
+
+| Passive 4 icon = Damage Increase
+| Passive 4 name = Weapon Adept [II]
+| Passive 4 name JP = ウェポン・アデプト[Ⅱ]
+| Passive 4 effect = Damage Increase [II / 10%]
+
+| Passive 5 icon = MP Gauge Increased On Battle Start
+| Passive 5 name = Fast Mana Up
+| Passive 5 name JP = ファスト・マナアップ
+| Passive 5 effect = MP Gauge Increased On Battle Start [40% full]
+
+| Passive 6 icon = Doppel Damage Up
+| Passive 6 name = Doppel Adept [I]
+| Passive 6 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 6 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 7 icon = Anti-Magia Seal
+| Passive 7 name = Anti Seal Magia
+| Passive 7 name JP = アンチ・シールマギア
+| Passive 7 effect = Anti-Magia Seal
+
+| Passive 8 icon = Reflect Debuffs
+| Passive 8 name = ReflectionAura
+| Passive 8 name JP = リフレクションオーラ
+| Passive 8 effect = Reflect Debuffs [2 Debuffs] (Self / 3 Turns on Battle Start)
+
+| Passive 9 icon = MP Gain Up When Over 100 MP
+| Passive 9 name = MP Boost [II]
+| Passive 9 name JP = MPブースト[Ⅱ]
+| Passive 9 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 10 icon = MP Gain Up When Over 100 MP
+| Passive 10 name = MP Boost [II]
+| Passive 10 name JP = MPブースト[Ⅱ]
+| Passive 10 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 11 icon = Doppel Damage Up
+| Passive 11 name = Doppel Adept [I]
+| Passive 11 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 11 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 12 icon = Variable
+| Passive 12 name = Variable Aura
+| Passive 12 name JP = ヴァリアブルオーラ
+| Passive 12 effect = Variable (Self / 3 Turns on Battle Start)
+
+| Active 1 icon = Barrier
+| Active 1 name = Phalanx Circle
+| Active 1 name JP = ファランクス・サークル
+| Active 1 effect = Barrier [5000 damage] & Strengthened Counter (Allies / 3 Turns)
+| Active 1 cooldown = 10
+
+| Connect name JP = ふたりならどこへでも…
+| Connect name EN = 
+| Connect icon = Damage Up
+| Connect effect 1 = Damage Up
+| Connect 1 / 1 = VIII / 37.5%
+| Connect 1 / 2 = X / 42.5%
+| Connect effect 2 = MP Restore
+| Connect 2 / 1 = V / 22.5 MP
+| Connect 2 / 2 = VII / 27.5 MP
+
+| Magia name JP = 鏡片煌界
+| Magia name EN = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 340%
+| Magia 1 / 2 = VII / 360%
+| Magia effect 2 = Defense Down
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = All Enemies / 3 Turns / 15%
+| Magia 2 / 2 = All Enemies / 3 Turns / 20%
+| Magia effect 3 = Barrier
+| Magia scaling 3 = -
+| Magia 3 / 1 = Allies / 3 Turns / 8000 damage
+| Magia 3 / 2 = Allies / 3 Turns / 8000 damage
+| Magia effect 4 = Damage Increase
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = Self / 3 Turns / 30%
+| Magia 4 / 2 = Self / 3 Turns / 40%
+| Magia effect 5 = Reflect Debuffs
+| Magia scaling 5 = -
+| Magia 5 / 1 = Self / 3 Turns / 1 Debuff
+| Magia 5 / 2 = Self / 3 Turns / 1 Debuff
+| Magia effect 6 = MP Restore
+| Magia scaling 6 = 1 MP
+| Magia 6 / 1 = Self / 30 MP
+| Magia 6 / 2 = Self / 35 MP
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 隠遁のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、鏡
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Magia2 effect 1 = Attribute Strengthened Damage All Enemies
+| Magia2 1 = IX / 869%
+| Magia2 effect 2 = Defense Down
+| Magia2 2 = All Enemies / 3 Turns / 45%
+| Magia2 effect 3 = Barrier
+| Magia2 3 = Allies / 5 Turns / 10000 damage
+| Magia2 effect 4 = Damage Increase
+| Magia2 4 = Self / 5 Turns / 60%
+| Magia2 effect 5 = Reflect Debuffs
+| Magia2 5 = Self / 3 Turns / 2 Debuffs
+| Magia2 effect 6 = Variable
+| Magia2 6 = Self / 3 Turns
+| Magia2 effect 7 = MP Restore
+| Magia2 7 = Self / 49 MP
+}}

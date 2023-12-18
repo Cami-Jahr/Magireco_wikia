@@ -78350,5 +78350,464 @@
     "description": "電波に乗せるのはどんなこと？＠裏話？最新情報？それとも何かを実践するコーナー…？＠台本を確認して覚悟を決めたら、スタジオに入ってスイッチON！＠あとは本番。みんなに楽しんでもらうために頑張ります！",
     "illustrator": "PAPA",
     "openDate": "2023/12/11 15:10:00"
+  },
+  "1990": {
+    "pieceId": 1990,
+    "rank": "RANK_3",
+    "__update__": "2023-12-18T07:56:15.979Z",
+    "pieceType": "ABILITY",
+    "pieceName": "雪に咲くふたりの証",
+    "attributeId": "ALL",
+    "charaIds": "1144",
+    "charaList": [
+      {
+        "charaId": 1144,
+        "name": "ウワサのみこと"
+      }
+    ],
+    "attack": 522,
+    "defense": 0,
+    "hp": 442,
+    "skillId": 199000,
+    "pieceSkill": {
+      "id": 199000,
+      "groupId": 1130,
+      "name": "マナ・エキスパート[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "自分のMPが10%溜まった状態でバトル開始 & Accele MPUP[Ⅳ]",
+      "artId1": 790212200,
+      "art1": {
+        "artId": 790212200,
+        "verbCode": "INITIAL",
+        "effectCode": "MP",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 390201604,
+      "art2": {
+        "artId": 390201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 199001,
+    "pieceSkill2": {
+      "id": 199001,
+      "groupId": 1130,
+      "name": "マナ・エキスパート[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "自分のMPが15%溜まった状態でバトル開始 & Accele MPUP[Ⅴ]",
+      "artId1": 790213600,
+      "art1": {
+        "artId": 790213600,
+        "verbCode": "INITIAL",
+        "effectCode": "MP",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId2": 390201605,
+      "art2": {
+        "artId": 390201605,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "誰もいない場所で、誰にも見つからないように咲いている２輪の花＠春を待たずに花をつけたのは、＠すべてが雪と一緒に溶けなくなるのを嫌った証…＠思い出はここで、静かに揺れている",
+    "illustrator": "都筑禰己",
+    "openDate": "2023/12/18 15:10:00"
+  },
+  "1991": {
+    "pieceId": 1991,
+    "rank": "RANK_4",
+    "__update__": "2023-12-18T07:47:00.034Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "終わりへの逃避行",
+    "attributeId": "ALL",
+    "attack": 941,
+    "defense": 0,
+    "hp": 821,
+    "skillId": 199100,
+    "pieceSkill": {
+      "id": 199100,
+      "groupId": 1085,
+      "name": "ペネトレイトライジング[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅳ] & 確率で防御無視[Ⅳ]",
+      "artId1": 390201104,
+      "art1": {
+        "artId": 390201104,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690206604,
+      "art2": {
+        "artId": 690206604,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DEFENSE_IGNORED",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 250
+      },
+      "eventId": 1205,
+      "eventArtId1": 1205003,
+      "eventArt1": {
+        "artId": 1205003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1205_KEY"
+      },
+      "eventDescription": "＆「間違いのプレゼント」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 199101,
+    "pieceSkill2": {
+      "id": 199101,
+      "groupId": 1085,
+      "name": "ペネトレイトライジング[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅴ] & 確率で防御無視[Ⅴ]",
+      "artId1": 390201105,
+      "art1": {
+        "artId": 390201105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690206605,
+      "art2": {
+        "artId": 690206605,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DEFENSE_IGNORED",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 300
+      },
+      "eventId": 1205,
+      "eventArtId1": 1205004,
+      "eventArt1": {
+        "artId": 1205004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1205_KEY"
+      },
+      "eventDescription": "＆「間違いのプレゼント」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "落ちていく太陽が好きだった、ふたりでいるのが好きだった＠逃げても明日に救いはなく、ただ終わりが口を開けて待っている＠それなのに感情はきらめき、すべてが輝いて見えた…＠ふたりは幸福だった、この一瞬のために生まれてきたと思えるほど",
+    "illustrator": "―",
+    "openDate": "2023/12/18 15:10:00"
+  },
+  "1992": {
+    "pieceId": 1992,
+    "rank": "RANK_3",
+    "__update__": "2023-12-18T07:44:28.667Z"
+  },
+  "1993": {
+    "pieceId": 1993,
+    "rank": "RANK_4",
+    "__update__": "2023-12-18T07:44:28.667Z"
+  },
+  "1994": {
+    "pieceId": 1994,
+    "rank": "RANK_3",
+    "__update__": "2023-12-18T07:47:00.029Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "それでも、ヴィランとして",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 645,
+    "hp": 585,
+    "skillId": 199400,
+    "pieceSkill": {
+      "id": 199400,
+      "groupId": 1094,
+      "name": "アサルトブレイク[Ⅱ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "攻撃力DOWN[Ⅱ] & 与えるダメージDOWN[Ⅱ](敵単/3T)",
+      "messageId": 72,
+      "artId1": 430002002,
+      "art1": {
+        "artId": 430002002,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "TARGET",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 430002202,
+      "art2": {
+        "artId": 430002202,
+        "verbCode": "DEBUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "TARGET",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "eventId": 1205,
+      "eventArtId1": 1205001,
+      "eventArt1": {
+        "artId": 1205001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1205_KEY"
+      },
+      "eventDescription": "＆「間違いのプレゼント」追加獲得数＋1",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 199401,
+    "pieceSkill2": {
+      "id": 199401,
+      "groupId": 1094,
+      "name": "アサルトブレイク[Ⅱ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "攻撃力DOWN[Ⅱ] & 与えるダメージDOWN[Ⅱ](敵単/3T)",
+      "messageId": 72,
+      "artId1": 430002002,
+      "art1": {
+        "artId": 430002002,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "TARGET",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 430002202,
+      "art2": {
+        "artId": 430002202,
+        "verbCode": "DEBUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "TARGET",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "eventId": 1205,
+      "eventArtId1": 1205002,
+      "eventArt1": {
+        "artId": 1205002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1205_KEY"
+      },
+      "eventDescription": "＆「間違いのプレゼント」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "本当は、善を信じていた…助けを求める人がいるなら見捨てたりしない＠そんなヒーローになりたかった…今さら叶わないとわかっていたが＠それでも諦めきれずにいた夢…それを自ら捨てて、彼女は悪になる＠たったひとりの大切な人を守るために",
+    "illustrator": "―",
+    "openDate": "2023/12/18 15:10:00"
+  },
+  "1995": {
+    "pieceId": 1995,
+    "rank": "RANK_4",
+    "__update__": "2023-12-18T07:47:00.032Z",
+    "pieceType": "ABILITY",
+    "pieceName": "完全なハッピーエンド",
+    "attributeId": "ALL",
+    "attack": 861,
+    "defense": 0,
+    "hp": 901,
+    "skillId": 199500,
+    "pieceSkill": {
+      "id": 199500,
+      "groupId": 1085,
+      "name": "ブルーム・バーンエッジ[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅳ] & 防御力UP[Ⅲ] & 攻撃時に確率でやけど(2T)を付与[Ⅳ]",
+      "artId1": 390201104,
+      "art1": {
+        "artId": 390201104,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201203,
+      "art2": {
+        "artId": 390201203,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690210204,
+      "art3": {
+        "artId": 690210204,
+        "verbCode": "ENCHANT",
+        "effectCode": "BURN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 2,
+        "growPoint": 0,
+        "probability": 250
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 199501,
+    "pieceSkill2": {
+      "id": 199501,
+      "groupId": 1085,
+      "name": "ブルーム・バーンエッジ[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅴ] & 防御力UP[Ⅳ] & 攻撃時に確率でやけど(2T)を付与[Ⅴ]",
+      "artId1": 390201105,
+      "art1": {
+        "artId": 390201105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201204,
+      "art2": {
+        "artId": 390201204,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690210205,
+      "art3": {
+        "artId": 690210205,
+        "verbCode": "ENCHANT",
+        "effectCode": "BURN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 2,
+        "growPoint": 0,
+        "probability": 300
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "幼き日に祈ったのは、現実的だけど後ろ向きなエンディング＠少しだけ大人になって、酸いも甘いも知った19歳の私が願うのは＠昔より子どもらしい、理想的で幸せなラスト＠降り積もる雪に微笑む、誰も苦しまない完全なハッピーエンド",
+    "illustrator": "―",
+    "openDate": "2023/12/18 15:10:00"
+  },
+  "1996": {
+    "pieceId": 1996,
+    "rank": "RANK_4",
+    "__update__": "2023-12-18T07:47:00.033Z",
+    "pieceType": "SKILL",
+    "pieceName": "またね、私たちのおとぎ話",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 821,
+    "hp": 981,
+    "skillId": 199600,
+    "pieceSkill": {
+      "id": 199600,
+      "groupId": 1119,
+      "name": "エンハンス・Aアタックライズ[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "ダメージアップ状態[Ⅳ] & 水属性攻撃力UP[Ⅵ](自/3T)",
+      "messageId": 70,
+      "artId1": 630206104,
+      "art1": {
+        "artId": 630206104,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 330221406,
+      "art2": {
+        "artId": 330221406,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_WATER",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 199601,
+    "pieceSkill2": {
+      "id": 199601,
+      "groupId": 1119,
+      "name": "エンハンス・Aアタックライズ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "ダメージアップ状態[Ⅴ] & 水属性攻撃力UP[Ⅶ](自/3T)",
+      "messageId": 70,
+      "artId1": 630206105,
+      "art1": {
+        "artId": 630206105,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 330221407,
+      "art2": {
+        "artId": 330221407,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_WATER",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "火の魔王と氷の女王は、きっと今日も民と仲良く暮らしている＠時に衝突しながらも力を合わせ、エンディングの向こう側を生きている＠…そんな空想をして、タイムカプセルをそっと閉じた＠私は私の、まだ終わらない物語を紡いでいくために",
+    "illustrator": "―",
+    "openDate": "2023/12/18 15:10:00"
   }
 }

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 幼き日に祈ったのは、現実的だけど後ろ向きなエンディング<br />少しだけ大人になって、酸いも甘いも知った19歳の私が願うのは<br />昔より子どもらしい、理想的で幸せなラスト<br />降り積もる雪に微笑む、誰も苦しまない完全なハッピーエンド
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
