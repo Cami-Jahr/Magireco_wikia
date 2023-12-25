@@ -497,7 +497,8 @@ jp_to_en = {
     "ベール": "Veil",
     "エンハンス": "Enhance",
     "リフレクション": "Reflection",
-    "ファランクス": "Phalanx"
+    "ファランクス": "Phalanx",
+    "イグノア": "Ignore"
 }
 
 # Subset of good effects that might be chance to happen

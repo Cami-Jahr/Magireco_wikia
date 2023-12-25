@@ -7,7 +7,7 @@
 | Rarity = 3
 | ID = 1598
 | Illust = 都筑禰己
-| Owner = Rumor Sana
+| Owner = Uwasa Sana
 
 | min_HP = 494
 | min_ATK = 454

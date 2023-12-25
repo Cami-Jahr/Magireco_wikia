@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = この人をなんて呼んでいたのか、この人が誰なのか、もう覚えていない<br />きっとこの人もあたしのことを覚えていない…でも、ふたりでここに<br />いるってことは、きっとあたしたちが掛け替えのない存在だった証拠…<br />ねえもう寂しくないよ、大丈夫…あたしがいつまでもそばにいるから
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

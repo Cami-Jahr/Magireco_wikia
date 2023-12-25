@@ -1,4 +1,4 @@
-﻿{{Rumor_Sana}}
+﻿{{Uwasa_Sana}}
 
 {{Description
 | en = 

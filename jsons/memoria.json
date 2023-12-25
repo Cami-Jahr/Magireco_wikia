@@ -8412,7 +8412,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 114001,
     "pieceSkill2": {
@@ -8431,12 +8432,13 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "（決して絶望で終わらせたりしない。＠あの子に、あの子たちに、託されたものがたくさんあるから。＠そのためにわたしは、魔法少女になったんだから…！）＠「チャオ、みなさん。かずみです。よろしくお願いします！」",
     "illustrator": "天杉貴志",
     "openDate": "2017/11/20 15:10:00",
-    "__update__": "2019-09-17T07:16:03.594Z"
+    "__update__": "2023-12-18T11:24:16.321Z"
   },
   "1141": {
     "pieceId": 1141,
@@ -18158,7 +18160,8 @@
         "enableTurn": 3,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 127201,
     "pieceSkill2": {
@@ -18189,12 +18192,13 @@
         "enableTurn": 3,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "２人の間に繋がる糸は、複雑に絡み合っている＠お互いを引き寄せ、優しく穏やかな時を共有することもあれば＠お互いを引き寄せ、心を引き裂く残酷な時を共有することもある＠彼女たちに罪はなく、そこにはただ、運命だけがある",
     "illustrator": "シャフト",
     "openDate": "2018/10/29 15:10:00",
-    "__update__": "2019-10-28T03:10:52.499Z"
+    "__update__": "2023-12-18T10:45:14.897Z"
   },
   "1273": {
     "pieceId": 1273,
@@ -78528,12 +78532,130 @@
   "1992": {
     "pieceId": 1992,
     "rank": "RANK_3",
-    "__update__": "2023-12-18T07:44:28.667Z"
+    "__update__": "2023-12-18T10:32:38.288Z",
+    "pieceName": "希望は、となりで見たかった",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 651,
+    "hp": 711,
+    "skillId": 199200,
+    "pieceSkill": {
+      "id": 199200,
+      "groupId": 1169,
+      "name": "ディスクシャッフル",
+      "type": "SKILL",
+      "intervalTurn": 15,
+      "shortDescription": "再度Discを引く",
+      "messageId": 70,
+      "artId1": 700212100,
+      "art1": {
+        "artId": 700212100,
+        "verbCode": "DRAW",
+        "effectCode": "AGAIN",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 199201,
+    "pieceSkill2": {
+      "id": 199201,
+      "groupId": 1169,
+      "name": "ディスクシャッフル",
+      "type": "SKILL",
+      "intervalTurn": 13,
+      "shortDescription": "再度Discを引く",
+      "messageId": 70,
+      "artId1": 700212100,
+      "art1": {
+        "artId": 700212100,
+        "verbCode": "DRAW",
+        "effectCode": "AGAIN",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「ずっとずっと、一緒に見たかった…この希望に満ちた灯りを…」＠世界には希望があるというなら、誰かのために輝くものだというなら＠もうこの手を離さないで、私も一緒に連れていって＠私が好きなのはね…あなたが灯してくれる希望なんだよ？",
+    "illustrator": "―",
+    "openDate": "2023/12/18 15:10:00"
   },
   "1993": {
     "pieceId": 1993,
     "rank": "RANK_4",
-    "__update__": "2023-12-18T07:44:28.667Z"
+    "__update__": "2023-12-25T12:35:52.426Z",
+    "pieceName": "色とりどりの思い出をふたりに",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 779,
+    "defense": 0,
+    "hp": 859,
+    "skillId": 199300,
+    "pieceSkill": {
+      "id": 199300,
+      "groupId": 1085,
+      "name": "イグノア・ジャマ―[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅱ] & 必ずスキル不可無効",
+      "artId1": 390201102,
+      "art1": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690209200,
+      "art2": {
+        "artId": 690209200,
+        "verbCode": "IGNORE",
+        "effectCode": "BAN_SKILL",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 199301,
+    "pieceSkill2": {
+      "id": 199301,
+      "groupId": 1085,
+      "name": "イグノア・ジャマ―[Ⅱ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅱ] & 必ずスキル不可無効",
+      "artId1": 390201102,
+      "art1": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690209200,
+      "art2": {
+        "artId": 690209200,
+        "verbCode": "IGNORE",
+        "effectCode": "BAN_SKILL",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "この人をなんて呼んでいたのか、この人が誰なのか、もう覚えていない＠きっとこの人もあたしのことを覚えていない…でも、ふたりでここに＠いるってことは、きっとあたしたちが掛け替えのない存在だった証拠…＠ねえもう寂しくないよ、大丈夫…あたしがいつまでもそばにいるから",
+    "illustrator": "―",
+    "openDate": "2023/12/18 15:10:00"
   },
   "1994": {
     "pieceId": 1994,

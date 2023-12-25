@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Colorful Memories for Two
+| ImageSrc = 
+| Event = 
+
+| Jname = 色とりどりの思い出をふたりに
+| Rarity = 4
+| ID = 1993
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2148
+| max_ATK = 1948
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Ignore Jammer 
+| effect_name_JP = イグノア・ジャマ―
+| effect1 = 
+| effect2 = Attack Up [II / 10%] & Anti-Skill Seal
+| Cooldown = 
+| Cooldown2 = 
+}}

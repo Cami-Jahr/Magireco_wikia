@@ -1,4 +1,4 @@
-﻿{{Rumor_Tsuruno}}
+﻿{{Uwasa_Tsuruno}}
 
 {{Description
 | en = 

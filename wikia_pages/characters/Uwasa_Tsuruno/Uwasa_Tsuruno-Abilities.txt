@@ -1,4 +1,4 @@
-﻿{{Rumor_Tsuruno|Abilities}}
+﻿{{Uwasa_Tsuruno|Abilities}}
 
 {{Description
 | en = 

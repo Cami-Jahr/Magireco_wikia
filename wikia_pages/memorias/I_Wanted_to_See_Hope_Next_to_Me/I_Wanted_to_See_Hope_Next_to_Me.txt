@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「ずっとずっと、一緒に見たかった…この希望に満ちた灯りを…」<br />世界には希望があるというなら、誰かのために輝くものだというなら<br />もうこの手を離さないで、私も一緒に連れていって<br />私が好きなのはね…あなたが灯してくれる希望なんだよ？
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

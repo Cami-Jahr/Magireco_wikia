@@ -7,7 +7,7 @@
 | Rarity = 3
 | ID = 1217
 | Illust = 都筑禰己
-| Owner = Rumor Tsuruno
+| Owner = Uwasa Tsuruno
 
 | min_HP = 501
 | min_ATK = 421

@@ -53,8 +53,8 @@
 1053;Amaryllis
 1101;Tamaki Iroha (Mizugi ver.)
 1102;Yachiyo & Mifuyu (Origin ver.)
-1103;Rumor Tsuruno
-1104;Rumor Sana
+1103;Uwasa Tsuruno
+1104;Uwasa Sana
 1105;Felicia-chan
 1106;Azusa Mifuyu (Fairy Tale ver.)
 1107;Touka & Nemu (Holy Night ver.)
@@ -82,7 +82,7 @@
 1217;Yakumo Mitama (Eternal Darkness ver.)
 1301;Iroha & Yachiyo (Final Battle ver.)
 1302;Nanami Yachiyo (Anime ver.)
-1303;Rumor Tsuruno (Anime ver.)
+1303;Uwasa Tsuruno (Anime ver.)
 1309;Minami Rena (Anime ver.)
 1401;Iroha & Ui (Miko ver.)
 1402;Nanami Yachiyo (Fairy Tale ver.)
