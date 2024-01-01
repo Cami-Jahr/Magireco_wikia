@@ -1,0 +1,156 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Uwasa of the Ten-Thousand-Year Sakura
+| name_jp = 万年桜のウワサ
+| element = Light
+| base_rarity = 4
+| max_rarity = 5
+| id = 3043
+| type = Balance
+| growth_type = BALANCE
+| school_jp = 南凪自由学園
+| voice_actor_jp = 鈴木みのり
+| designer_jp = 藤ちょこ
+| memoria = 
+| release_date = 2019-03-25
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 4star_hp_lv1 = 6028
+| 4star_attack_lv1 = 1984
+| 4star_defense_lv1 = 1942
+| 4star_hp_max = 21700
+| 4star_attack_max = 7142
+| 4star_defense_max = 6991
+| 4star_illustrator_jp = 藤ちょこ
+
+| 5star_hp_lv1 = 6843
+| 5star_attack_lv1 = 2253
+| 5star_defense_lv1 = 2203
+| 5star_hp_max = 27372
+| 5star_attack_max = 9012
+| 5star_defense_max = 8812
+| 5star_illustrator_jp = 藤ちょこ
+
+| se_hp_bonus = 7258
+| se_attack_bonus = 2002
+| se_defense_bonus = 3918
+
+| se accele bonus = 6
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = MP Gain Up When Over 100 MP
+| Passive 2 name = MP Boost [II]
+| Passive 2 name JP = MPブースト[Ⅱ]
+| Passive 2 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 3 icon = Doppel Damage Up
+| Passive 3 name = Doppel Adept [I]
+| Passive 3 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 3 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 4 icon = MP Gain Up
+| Passive 4 name = Morale Adept [II]
+| Passive 4 name JP = モラール・アデプト[Ⅱ]
+| Passive 4 effect = MP Gain Up [II / 7.5%]
+
+| Passive 5 icon = Doppel Damage Up
+| Passive 5 name = Doppel Adept [I]
+| Passive 5 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 5 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 6 icon = Magia Damage Up
+| Passive 6 name = Magia Adept [III]
+| Passive 6 name JP = マギア・アデプト[Ⅲ]
+| Passive 6 effect = Magia Damage Up [III / 10%]
+
+| Passive 7 icon = Accele MP Gain Up
+| Passive 7 name = Accele Adept [II]
+| Passive 7 name JP = アクセル・アデプト[Ⅱ]
+| Passive 7 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 8 icon = Accele MP Gain Up
+| Passive 8 name = Accele Adept [II]
+| Passive 8 name JP = アクセル・アデプト[Ⅱ]
+| Passive 8 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 9 icon = Charged Attack Damage Up
+| Passive 9 name = Charge Adept [II]
+| Passive 9 name JP = チャージ・アデプト[Ⅱ]
+| Passive 9 effect = Charged Attack Damage Up [II / 10%]
+
+| Passive 10 icon = Blast Damage Up
+| Passive 10 name = Blast Adept [II]
+| Passive 10 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 10 effect = Blast Damage Up [II / 16.5%]
+
+| Passive 11 icon = Defense Pierce
+| Passive 11 name = Penetrate Adept [II]
+| Passive 11 name JP = ペネトレイト・アデプト[Ⅱ]
+| Passive 11 effect = Chance to Defense Pierce [II / 15%]
+
+| Passive 12 icon = Damage Cut
+| Passive 12 name = Shield Adept [II]
+| Passive 12 name JP = シールド・アデプト[Ⅱ]
+| Passive 12 effect = Damage Cut [II / 10%]
+
+| Active 1 icon = Attack Up
+| Active 1 name = Penetrate Attack [V]
+| Active 1 name JP = ペネトレイトアタック[Ⅴ]
+| Active 1 effect = Attack Up [V / 25%] & Chance to Defense Pierce [VII / 40%] (Self / 1 Turn)
+| Active 1 cooldown = 9
+
+| Connect name JP = ｜あの子たちのためなら｜
+| Connect name EN = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VII / 35%
+| Connect 1 / 2 = IX / 40%
+| Connect effect 2 = Chance to Critical Hit
+| Connect 2 / 1 = VII / 60%
+| Connect 2 / 2 = IX / 70%
+| Connect effect 3 = Chance to Evade
+| Connect 3 / 1 = -
+| Connect 3 / 2 = IX / 65%
+
+| Magia name JP = ｜刻み込む桜の物語｜
+| Magia name EN = 
+| Magia icon = Damage One Enemy
+| Magia effect 1 = Attribute Strengthened Damage One Enemy
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 864%
+| Magia 1 / 2 = VII / 928%
+| Magia effect 2 = Chance to Skill Seal
+| Magia scaling 2 = -
+| Magia 2 / 1 = Target / 2 Turns / 100%
+| Magia 2 / 2 = Target / 2 Turns / 100%
+| Magia effect 3 = Accele MP Gain Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Allies / 3 Turns / 15%
+| Magia 3 / 2 = Allies / 3 Turns / 20%
+| Magia effect 4 = Chance to Anti-Evade
+| Magia scaling 4 = -
+| Magia 4 / 1 = Self / 3 Turns / 70%
+| Magia 4 / 2 = Allies / 3 Turns / 100%
+
+| Magia2 name JP = ｜桜の物語は全てを呑み込む｜
+| Magia2 name EN = 
+| Magia2 icon = Damage One Enemy
+| Magia2 effect 1 = Attribute Strengthened Damage One Enemy
+| Magia2 1 = IX / 2270.4%
+| Magia2 effect 2 = Chance to Skill Seal
+| Magia2 2 = Target / 2 Turns / 100%
+| Magia2 effect 3 = Accele MP Gain Up
+| Magia2 3 = Allies / 3 Turns / 35%
+| Magia2 effect 4 = Anti-Evade
+| Magia2 4 = Allies / 3 Turns / 100%
+}}

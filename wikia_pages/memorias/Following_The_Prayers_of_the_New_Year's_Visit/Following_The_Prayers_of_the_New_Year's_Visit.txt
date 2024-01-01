@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = しがらみがない平和なお正月は、実現し得ない理想像<br />馳せた想いは光になると、こぼれて夢を生みだした<br />同じ想いを秘めた彼女たちの行き先はどこなのか<br />たどり着きたい結末も、たどり着くゴールもきっと同じ
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

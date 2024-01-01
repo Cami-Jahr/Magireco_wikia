@@ -62,6 +62,7 @@
 1109;Rena-chan (Idol ver.)
 1110;Togame Momoko (Sister ver.)
 1112;Karin & Alina (Halloween ver.)
+1113;Tatsuki Asuka (New Year Dragon God ver.)
 1116;Izumi Kanagi (Vampire ver.)
 1117;Yakumo Mitama (Haregi ver.)
 1118;Amane Sisters (Mizugi ver.)
@@ -163,7 +164,7 @@
 3040;Kira Temari
 3041;Yuzuki Hotori
 3042;Hibiki Meguru
-3043;Rumor of the Ten-Thousand-Year Sakura
+3043;Uwasa of the Ten-Thousand-Year Sakura
 3044;Chizu Ranka
 3045;Yuzuki Rion
 3046;Midori Ryou
@@ -181,7 +182,7 @@
 3058;Natsu Ryouko
 3059;Irina Kushu
 3501;Rika & Ren (Christmas ver.)
-3502;Rumor of the Ten-Thousand-Year Sakura (Mizugi ver.)
+3502;Uwasa of the Ten-Thousand-Year Sakura (Mizugi ver.)
 3503;Konoha & Hazuki
 3504;Masara & Kokoro (Bride ver.)
 3900;Kuro

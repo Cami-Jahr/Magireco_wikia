@@ -1,6 +1,0 @@
-﻿<tabber>
-Memoria=
-{{MemoriaGallery}}
-|-|Videos=
-{{Videos}}
-</tabber>

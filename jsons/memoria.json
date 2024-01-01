@@ -66527,7 +66527,7 @@
   "1849": {
     "pieceId": 1849,
     "rank": "RANK_4",
-    "__update__": "2022-12-31T15:13:38.253Z",
+    "__update__": "2023-12-31T15:22:16.944Z",
     "pieceType": "SKILL",
     "pieceName": "今年最後の御馳走",
     "attributeId": "ALL",
@@ -66563,7 +66563,8 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 184901,
     "pieceSkill2": {
@@ -66594,7 +66595,8 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "「わぁ、これが年越しそば…！」＠「ふふ、冷めないうちに食べてみてください」＠「わたしとすなおちゃんで作った自信作だよ！」＠寒い年の瀬に、身も心も温まる最高の一品を、あなたに",
     "illustrator": "―",
@@ -78931,5 +78933,548 @@
     "description": "火の魔王と氷の女王は、きっと今日も民と仲良く暮らしている＠時に衝突しながらも力を合わせ、エンディングの向こう側を生きている＠…そんな空想をして、タイムカプセルをそっと閉じた＠私は私の、まだ終わらない物語を紡いでいくために",
     "illustrator": "―",
     "openDate": "2023/12/18 15:10:00"
+  },
+  "1997": {
+    "pieceId": 1997,
+    "rank": "RANK_3",
+    "__update__": "2023-12-31T15:37:02.477Z",
+    "pieceType": "ABILITY",
+    "pieceName": "正しさにとらわれて",
+    "attributeId": "ALL",
+    "charaIds": "1113",
+    "charaList": [
+      {
+        "charaId": 1113,
+        "name": "竜城 明日香 新春龍神ver."
+      }
+    ],
+    "attack": 524,
+    "defense": 0,
+    "hp": 444,
+    "skillId": 199700,
+    "pieceSkill": {
+      "id": 199700,
+      "groupId": 1241,
+      "name": "クライシス・ストライク[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "瀕死時攻撃力UP[Ⅴ] & 瀕死時防御力UP[Ⅱ] & Blast ダメージUP[Ⅴ]",
+      "artId1": 390202905,
+      "art1": {
+        "artId": 390202905,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId2": 390203002,
+      "art2": {
+        "artId": 390203002,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId3": 390201805,
+      "art3": {
+        "artId": 390201805,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 199701,
+    "pieceSkill2": {
+      "id": 199701,
+      "groupId": 1241,
+      "name": "クライシス・ストライク[Ⅶ]",
+      "type": "ABILITY",
+      "shortDescription": "瀕死時攻撃力UP[Ⅶ] & 瀕死時防御力UP[Ⅳ] & Blast ダメージUP[Ⅵ]",
+      "artId1": 390202907,
+      "art1": {
+        "artId": 390202907,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId2": 390203004,
+      "art2": {
+        "artId": 390203004,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 500,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId3": 390201806,
+      "art3": {
+        "artId": 390201806,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "正しくありたかった、正しくあろうと思っていた＠今までもそうしてずっと真っすぐ生きてきたから、疑わなかった＠信じていた正しさが真のものなのか、正しさとはなんなのか＠初めて自分と向き合って、何も見えていなかったことに気がついた",
+    "illustrator": "都筑禰己",
+    "openDate": "2024/01/01 00:00:00"
+  },
+  "1998": {
+    "pieceId": 1998,
+    "rank": "RANK_4",
+    "__update__": "2023-12-31T15:22:16.941Z",
+    "pieceName": "小槌の輝くとき",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "attributeId": "ALL",
+    "attack": 942,
+    "defense": 0,
+    "hp": 822,
+    "skillId": 199800,
+    "pieceSkill": {
+      "id": 199800,
+      "groupId": 1241,
+      "name": "ナローシールド[Ⅵ]",
+      "type": "ABILITY",
+      "shortDescription": "瀕死時攻撃力UP[Ⅵ] & 瀕死時防御力UP[Ⅲ] & ダメージカット状態[Ⅲ]",
+      "artId1": 390202906,
+      "art1": {
+        "artId": 390202906,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId2": 390203003,
+      "art2": {
+        "artId": 390203003,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId3": 690206203,
+      "art3": {
+        "artId": 690206203,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1206,
+      "eventArtId1": 1206003,
+      "eventArt1": {
+        "artId": 1206003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1206_EXCHANGE_1"
+      },
+      "eventDescription": "＆「竜城家伝統鏡餅」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 199801,
+    "pieceSkill2": {
+      "id": 199801,
+      "groupId": 1241,
+      "name": "ナローシールド[Ⅶ]",
+      "type": "ABILITY",
+      "shortDescription": "瀕死時攻撃力UP[Ⅶ] & 瀕死時防御力UP[Ⅳ] & ダメージカット状態[Ⅳ]",
+      "artId1": 390202907,
+      "art1": {
+        "artId": 390202907,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId2": 390203004,
+      "art2": {
+        "artId": 390203004,
+        "verbCode": "BUFF_DYING",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 500,
+        "growPoint": 20,
+        "probability": 1000
+      },
+      "artId3": 690206204,
+      "art3": {
+        "artId": 690206204,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1206,
+      "eventArtId1": 1206004,
+      "eventArt1": {
+        "artId": 1206004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1206_EXCHANGE_1"
+      },
+      "eventDescription": "＆「竜城家伝統鏡餅」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "何が正しいのか、どうするべきか、正解はずっとわからないまま＠けれど自分の芯を、大事なものを見つめれば道標は現れる＠それが唯一の答えじゃなくとも、信じられるものがそこにあるのなら＠きっと小槌は、あなたの想いに応えてくれる",
+    "illustrator": "―",
+    "openDate": "2024/01/01 00:00:00"
+  },
+  "1999": {
+    "pieceId": 1999,
+    "rank": "RANK_4",
+    "__update__": "2023-12-31T15:22:16.943Z",
+    "pieceName": "運試しだって全力で",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 942,
+    "hp": 862,
+    "skillId": 199900,
+    "pieceSkill": {
+      "id": 199900,
+      "groupId": 1092,
+      "name": "ブランディッシュ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "Blast ダメージUP[Ⅴ] & 与えるダメージUP[Ⅴ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201805,
+      "art1": {
+        "artId": 310201805,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310201305,
+      "art2": {
+        "artId": 310201305,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1206,
+      "eventArtId1": 1206003,
+      "eventArt1": {
+        "artId": 1206003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1206_EXCHANGE_1"
+      },
+      "eventDescription": "＆「竜城家伝統鏡餅」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 199901,
+    "pieceSkill2": {
+      "id": 199901,
+      "groupId": 1092,
+      "name": "ブランディッシュ[Ⅵ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "Blast ダメージUP[Ⅵ] & 与えるダメージUP[Ⅵ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201806,
+      "art1": {
+        "artId": 310201806,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310201306,
+      "art2": {
+        "artId": 310201306,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1206,
+      "eventArtId1": 1206004,
+      "eventArt1": {
+        "artId": 1206004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1206_EXCHANGE_1"
+      },
+      "eventDescription": "＆「竜城家伝統鏡餅」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「ささらさん、見てください！破魔大吉です！」＠「おお、すごいね！…でも“焦らずに”の言葉が連発されてるような…」＠「破魔大吉なのに中身が辛辣…しかし落ち着けばいい話ですので！」＠「それができれば苦労しないけどね…」",
+    "illustrator": "―",
+    "openDate": "2024/01/01 00:00:00"
+  },
+  "2000": {
+    "pieceId": 2000,
+    "rank": "RANK_4",
+    "__update__": "2023-12-31T15:00:15.961Z"
+  },
+  "2001": {
+    "pieceId": 2001,
+    "rank": "RANK_4",
+    "__update__": "2023-12-31T15:43:15.641Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "目を閉じ、見つめる先に",
+    "attributeId": "ALL",
+    "attack": 860,
+    "defense": 0,
+    "hp": 780,
+    "skillId": 200100,
+    "pieceSkill": {
+      "id": 200100,
+      "groupId": 1085,
+      "name": "リバティ[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅳ] & 必ず拘束無効",
+      "artId1": 390201104,
+      "art1": {
+        "artId": 390201104,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690208500,
+      "art2": {
+        "artId": 690208500,
+        "verbCode": "IGNORE",
+        "effectCode": "RESTRAINT",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "eventId": 1206,
+      "eventArtId1": 1206001,
+      "eventArt1": {
+        "artId": 1206001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1206_EXCHANGE_1"
+      },
+      "eventDescription": "＆「竜城家伝統鏡餅」追加獲得数＋1",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 200101,
+    "pieceSkill2": {
+      "id": 200101,
+      "groupId": 1085,
+      "name": "リバティ[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅳ] & 必ず拘束無効",
+      "artId1": 390201104,
+      "art1": {
+        "artId": 390201104,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690208500,
+      "art2": {
+        "artId": 690208500,
+        "verbCode": "IGNORE",
+        "effectCode": "RESTRAINT",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "eventId": 1206,
+      "eventArtId1": 1206002,
+      "eventArt1": {
+        "artId": 1206002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1206_EXCHANGE_1"
+      },
+      "eventDescription": "＆「竜城家伝統鏡餅」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "目を閉じ、深く呼吸をすると、騒がしい感情も凪いでいく＠けれど、落ち着きを得てもまぶたの裏には＠ただあなたの背が遠のいていく景色しか映らない＠やがて私は目を開き、走り出しそうな心を抱いて立ち上がるだろう",
+    "illustrator": "―",
+    "openDate": "2024/01/01 00:00:00"
+  },
+  "2002": {
+    "pieceId": 2002,
+    "rank": "RANK_4",
+    "__update__": "2023-12-31T15:22:16.944Z",
+    "pieceName": "初詣の祈りを辿って",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 982,
+    "hp": 822,
+    "skillId": 200200,
+    "pieceSkill": {
+      "id": 200200,
+      "groupId": 1085,
+      "name": "アタックアップ[XⅡ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "攻撃力UP[XⅡ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201112,
+      "art1": {
+        "artId": 310201112,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 600,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 200201,
+    "pieceSkill2": {
+      "id": 200201,
+      "groupId": 1085,
+      "name": "アタックアップ[XⅢ]",
+      "type": "SKILL",
+      "intervalTurn": 4,
+      "shortDescription": "攻撃力UP[XⅢ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201113,
+      "art1": {
+        "artId": 310201113,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 650,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "しがらみがない平和なお正月は、実現し得ない理想像＠馳せた想いは光になると、こぼれて夢を生みだした＠同じ想いを秘めた彼女たちの行き先はどこなのか＠たどり着きたい結末も、たどり着くゴールもきっと同じ",
+    "illustrator": "―",
+    "openDate": "2024/01/01 00:00:00"
+  },
+  "2003": {
+    "pieceId": 2003,
+    "pieceType": "ABILITY",
+    "pieceName": "迎春から始まる昇り龍",
+    "attributeId": "ALL",
+    "rank": "RANK_4",
+    "attack": 820,
+    "defense": 0,
+    "hp": 820,
+    "skillId": 200300,
+    "pieceSkill": {
+      "id": 200300,
+      "groupId": 1173,
+      "name": "エピソードウェポンアデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "獲得エピソードポイントUP[Ⅴ] & ダメージアップ状態[Ⅲ]",
+      "artId1": 700216305,
+      "art1": {
+        "artId": 700216305,
+        "verbCode": "OTHER",
+        "effectCode": "EPISODE_UP",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "growPoint": 0
+      },
+      "artId2": 690206103,
+      "art2": {
+        "artId": 690206103,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 200301,
+    "pieceSkill2": {
+      "id": 200301,
+      "groupId": 1173,
+      "name": "エピソードウェポンアデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "獲得エピソードポイントUP[Ⅴ] & ダメージアップ状態[Ⅲ]",
+      "artId1": 700216305,
+      "art1": {
+        "artId": 700216305,
+        "verbCode": "OTHER",
+        "effectCode": "EPISODE_UP",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "growPoint": 0
+      },
+      "artId2": 690206103,
+      "art2": {
+        "artId": 690206103,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「龍、鳥、虎、亀…！これはあやかるしかないよ、いろはちゃん！」＠「東西南北（とうざいなんぼく）を守ってくれるので安泰ですね！」＠「守ってどうするの！これは攻めの姿勢でいくべき布陣だよ！＠東南西北（とんなんしゃーぺー）四喜和で役満な１年になるからね」",
+    "illustrator": "PAPA",
+    "openDate": "2024/01/01 00:00:00",
+    "__update__": "2023-12-28T10:44:16.168Z"
   }
 }

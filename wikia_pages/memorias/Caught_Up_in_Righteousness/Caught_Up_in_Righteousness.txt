@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 正しくありたかった、正しくあろうと思っていた<br />今までもそうしてずっと真っすぐ生きてきたから、疑わなかった<br />信じていた正しさが真のものなのか、正しさとはなんなのか<br />初めて自分と向き合って、何も見えていなかったことに気がついた
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

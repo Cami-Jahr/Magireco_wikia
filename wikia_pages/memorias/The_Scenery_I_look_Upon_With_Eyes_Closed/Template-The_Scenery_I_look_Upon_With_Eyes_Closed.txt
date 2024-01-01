@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Scenery I look Upon With Eyes Closed
+| ImageSrc = 
+| Event = 
+
+| Jname = 目を閉じ、見つめる先に
+| Rarity = 4
+| ID = 2001
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 1950
+| max_ATK = 2150
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Liberty 
+| effect_name_JP = リバティ
+| effect1 = 
+| effect2 = Attack Up [IV / 20%] & Anti-Bind
+| Cooldown = 
+| Cooldown2 = 
+}}

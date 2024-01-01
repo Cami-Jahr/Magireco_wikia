@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 目を閉じ、深く呼吸をすると、騒がしい感情も凪いでいく<br />けれど、落ち着きを得てもまぶたの裏には<br />ただあなたの背が遠のいていく景色しか映らない<br />やがて私は目を開き、走り出しそうな心を抱いて立ち上がるだろう
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

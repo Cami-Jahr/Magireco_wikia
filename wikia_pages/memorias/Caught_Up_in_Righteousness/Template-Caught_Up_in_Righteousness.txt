@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Caught Up in Righteousness
+| ImageSrc = 
+| Event = 
+
+| Jname = 正しさにとらわれて
+| Rarity = 3
+| ID = 1997
+| Illust = 都筑禰己
+| Owner = Tatsuki Asuka (New Year Dragon God ver.)
+
+| min_HP = 444
+| min_ATK = 524
+| min_DEF = 0
+| max_HP = 1110
+| max_ATK = 1310
+| max_DEF = 0
+
+| image = Attack Up When At Critical Health
+| effect_name = Crisis Strike 
+| effect_name_JP = クライシス・ストライク
+| effect1 = Attack Up When At Critical Health [V / 30%] & Defense Up When At Critical Health [II / 30%] & Blast Damage Up [V / 35%]
+| effect2 = Attack Up When At Critical Health [VII / 40%] & Defense Up When At Critical Health [IV / 50%] & Blast Damage Up [VI / 40%]
+| Cooldown = 
+| Cooldown2 = 
+}}

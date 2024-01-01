@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Try Your Luck With All Your Might
+| ImageSrc = 
+| Event = 
+
+| Jname = 運試しだって全力で
+| Rarity = 4
+| ID = 1999
+| Illust = -
+| Owner = 
+
+| min_HP = 862
+| min_ATK = 0
+| min_DEF = 942
+| max_HP = 2155
+| max_ATK = 0
+| max_DEF = 2355
+
+| image = Blast Damage Up
+| effect_name = Brandish 
+| effect_name_JP = ブランディッシュ
+| effect1 = Blast Damage Up [V / 35%] & Damage Up [V / 25%] (Self / 1 Turn)
+| effect2 = Blast Damage Up [VI / 40%] & Damage Up [VI / 30%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

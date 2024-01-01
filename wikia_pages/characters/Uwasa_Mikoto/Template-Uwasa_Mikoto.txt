@@ -35,68 +35,68 @@
 | 5star_defense_max = 10352
 | 5star_illustrator_jp = ぷにゃん
 
-| se_hp_bonus = 
-| se_attack_bonus = 
-| se_defense_bonus = 
+| se_hp_bonus = 8604
+| se_attack_bonus = 2484
+| se_defense_bonus = 3510
 
-| se accele bonus = 
-| se blast bonus = 
-| se charge bonus = 
+| se accele bonus = 6
+| se blast bonus = 3
+| se charge bonus = 10
 
-| Passive 1 icon = Negate Status Ailments
-| Passive 1 name = Resist Shield
-| Passive 1 name JP = レジストシールド
-| Passive 1 effect = Negate Status Ailments [2 Status Ailments] (∞ Turns on Battle Start)
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
 | Passive 2 icon = Doppel Damage Up
-| Passive 2 name = Doppel Adept [IV]
-| Passive 2 name JP = ドッペル・アデプト[Ⅳ]
-| Passive 2 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = MP Up When Damaged
-| Passive 3 name = Conversion Adept [IV]
-| Passive 3 name JP = コンバージョン・アデプト[Ⅳ]
-| Passive 3 effect = MP Up When Damaged [IV / 4 MP] & MP Gain Up [IV / 12.5%]
+| Passive 3 icon = Damage Increase
+| Passive 3 name = Weapon Adept [II]
+| Passive 3 name JP = ウェポン・アデプト[Ⅱ]
+| Passive 3 effect = Damage Increase [II / 10%]
 
-| Passive 4 icon = Damage Increase
-| Passive 4 name = Weapon Adept [II]
-| Passive 4 name JP = ウェポン・アデプト[Ⅱ]
-| Passive 4 effect = Damage Increase [II / 10%]
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = MP Gauge Increased On Battle Start
-| Passive 5 name = Fast Mana Up
-| Passive 5 name JP = ファスト・マナアップ
-| Passive 5 effect = MP Gauge Increased On Battle Start [40% full]
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Doppel Damage Up
-| Passive 6 name = Doppel Adept [I]
-| Passive 6 name JP = ドッペル・アデプト[Ⅰ]
-| Passive 6 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+| Passive 6 icon = Negate Status Ailments
+| Passive 6 name = Resist Shield
+| Passive 6 name JP = レジストシールド
+| Passive 6 effect = Negate Status Ailments [2 Status Ailments] (∞ Turns on Battle Start)
 
 | Passive 7 icon = Anti-Magia Seal
 | Passive 7 name = Anti Seal Magia
 | Passive 7 name JP = アンチ・シールマギア
 | Passive 7 effect = Anti-Magia Seal
 
-| Passive 8 icon = Reflect Debuffs
-| Passive 8 name = ReflectionAura
-| Passive 8 name JP = リフレクションオーラ
-| Passive 8 effect = Reflect Debuffs [2 Debuffs] (Self / 3 Turns on Battle Start)
+| Passive 8 icon = Doppel Damage Up
+| Passive 8 name = Doppel Adept [IV]
+| Passive 8 name JP = ドッペル・アデプト[Ⅳ]
+| Passive 8 effect = Doppel Damage Up [IV / 20%] & Magia Damage Up [II / 7.5%]
 
-| Passive 9 icon = MP Gain Up When Over 100 MP
-| Passive 9 name = MP Boost [II]
-| Passive 9 name JP = MPブースト[Ⅱ]
-| Passive 9 effect = MP Gain Up When Over 100 MP [II / 20%]
+| Passive 9 icon = MP Up When Damaged
+| Passive 9 name = Conversion Adept [IV]
+| Passive 9 name JP = コンバージョン・アデプト[Ⅳ]
+| Passive 9 effect = MP Up When Damaged [IV / 4 MP] & MP Gain Up [IV / 12.5%]
 
-| Passive 10 icon = MP Gain Up When Over 100 MP
-| Passive 10 name = MP Boost [II]
-| Passive 10 name JP = MPブースト[Ⅱ]
-| Passive 10 effect = MP Gain Up When Over 100 MP [II / 20%]
+| Passive 10 icon = MP Gauge Increased On Battle Start
+| Passive 10 name = Fast Mana Up
+| Passive 10 name JP = ファスト・マナアップ
+| Passive 10 effect = MP Gauge Increased On Battle Start [40% full]
 
-| Passive 11 icon = Doppel Damage Up
-| Passive 11 name = Doppel Adept [I]
-| Passive 11 name JP = ドッペル・アデプト[Ⅰ]
-| Passive 11 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+| Passive 11 icon = Reflect Debuffs
+| Passive 11 name = ReflectionAura
+| Passive 11 name JP = リフレクションオーラ
+| Passive 11 effect = Reflect Debuffs [2 Debuffs] (Self / 3 Turns on Battle Start)
 
 | Passive 12 icon = Variable
 | Passive 12 name = Variable Aura

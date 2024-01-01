@@ -498,7 +498,8 @@ jp_to_en = {
     "エンハンス": "Enhance",
     "リフレクション": "Reflection",
     "ファランクス": "Phalanx",
-    "イグノア": "Ignore"
+    "イグノア": "Ignore",
+    "アドレナリンラッシュ": "Adrenaline Rush"
 }
 
 # Subset of good effects that might be chance to happen

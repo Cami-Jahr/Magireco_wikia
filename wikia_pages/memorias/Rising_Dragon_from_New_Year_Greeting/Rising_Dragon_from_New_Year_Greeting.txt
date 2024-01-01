@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「龍、鳥、虎、亀…！これはあやかるしかないよ、いろはちゃん！」<br />「東西南北（とうざいなんぼく）を守ってくれるので安泰ですね！」<br />「守ってどうするの！これは攻めの姿勢でいくべき布陣だよ！<br />東南西北（とんなんしゃーぺー）四喜和で役満な１年になるからね」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Following The Prayers of the New Year's Visit
+| ImageSrc = 
+| Event = 
+
+| Jname = 初詣の祈りを辿って
+| Rarity = 4
+| ID = 2002
+| Illust = -
+| Owner = 
+
+| min_HP = 822
+| min_ATK = 0
+| min_DEF = 982
+| max_HP = 2055
+| max_ATK = 0
+| max_DEF = 2455
+
+| image = Attack Up
+| effect_name = Attack Up 
+| effect_name_JP = アタックアップ
+| effect1 = Attack Up [XII / 60%] (Self / 1 Turn)
+| effect2 = Attack Up [XIII / 65%] (Self / 1 Turn)
+| Cooldown = 5
+| Cooldown2 = 4
+}}
