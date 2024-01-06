@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 正しさを信じ、まっすぐに進むこと<br />ときに誤りであったとしても私にはきっとそれしかない<br />これが己の正しさだとするのなら、進み続けていこう<br />心のままに、自分が信じる正義のままに
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

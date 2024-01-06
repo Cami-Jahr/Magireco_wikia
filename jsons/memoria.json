@@ -79252,7 +79252,56 @@
   "2000": {
     "pieceId": 2000,
     "rank": "RANK_4",
-    "__update__": "2023-12-31T15:00:15.961Z"
+    "__update__": "2024-01-05T10:44:33.400Z",
+    "pieceName": "正しさの答え",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 820,
+    "hp": 820,
+    "skillId": 200000,
+    "pieceSkill": {
+      "id": 200000,
+      "groupId": 1082,
+      "name": "カウンタラクト",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "デバフ解除(自)",
+      "messageId": 70,
+      "artId1": 200200800,
+      "art1": {
+        "artId": 200200800,
+        "verbCode": "REVOKE",
+        "effectCode": "DEBUFF",
+        "targetId": "SELF",
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 200001,
+    "pieceSkill2": {
+      "id": 200001,
+      "groupId": 1082,
+      "name": "カウンタラクト",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "デバフ解除(自)",
+      "messageId": 70,
+      "artId1": 200200800,
+      "art1": {
+        "artId": 200200800,
+        "verbCode": "REVOKE",
+        "effectCode": "DEBUFF",
+        "targetId": "SELF",
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "正しさを信じ、まっすぐに進むこと＠ときに誤りであったとしても私にはきっとそれしかない＠これが己の正しさだとするのなら、進み続けていこう＠心のままに、自分が信じる正義のままに",
+    "illustrator": "―",
+    "openDate": "2024/01/01 00:00:00"
   },
   "2001": {
     "pieceId": 2001,

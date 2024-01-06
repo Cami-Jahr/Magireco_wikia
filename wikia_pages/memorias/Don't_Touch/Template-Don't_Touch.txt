@@ -7,7 +7,7 @@
 | Rarity = 3
 | ID = 1325
 | Illust = ninmaru
-| Owner = Rumor of the Ten-Thousand-Year Sakura
+| Owner = Uwasa of the Ten-Thousand-Year Sakura
 
 | min_HP = 464
 | min_ATK = 0
