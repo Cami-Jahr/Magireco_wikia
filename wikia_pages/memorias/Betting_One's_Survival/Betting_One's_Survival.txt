@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = リボンを避ける隙は与えなかったはずなのに<br />彼女には私の急所を狙う余裕まである…<br />なんて恐ろしい子…だけど、相手に不足はない…！<br />「さあ…かかって来なさい！」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Predecessors Won't Miss
+| ImageSrc = 
+| Event = 
+
+| Jname = 先達は見逃さない
+| Rarity = 3
+| ID = 2004
+| Illust = 都筑禰己
+| Owner = Tomoe Mami (scene0 ver.)
+
+| min_HP = 484
+| min_ATK = 0
+| min_DEF = 484
+| max_HP = 1210
+| max_ATK = 0
+| max_DEF = 1210
+
+| image = Accele Draw
+| effect_name = Accele Draw
+| effect_name_JP = アクセルドロー
+| effect1 = Accele Draw
+| effect2 = Accele Draw
+| Cooldown = 5
+| Cooldown2 = 4
+}}

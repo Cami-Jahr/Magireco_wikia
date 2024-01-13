@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = ある少女のために意思を貫く魔法少女<br />町の平和のために全てをなげうつ魔法少女<br />かつては師弟のように過ごしたふたりも<br />跳躍した時間では、もう、交わることはない
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

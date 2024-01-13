@@ -988,5 +988,9 @@
 2001;The Scenery I look Upon With Eyes Closed
 2002;Following The Prayers of the New Year's Visit
 2003;Rising Dragon from New Year Greeting
+2004;Predecessors Won't Miss
+2005;Betting One's Survival
+2006;A Parallel World
+2007;Endless Loop
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

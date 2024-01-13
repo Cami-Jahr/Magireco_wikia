@@ -117,6 +117,7 @@
 2500;Holy Mami
 2501;Tomoe Mami (Mizugi ver.)
 2502;Holy Mami (Anime ver.)
+2503;Tomoe Mami (scene0 ver.)
 2600;Sakura Kyouko (Mizugi ver.)
 2601;Sakura Kyouko (scene0 ver.)
 2602;Sakura Kyouko (Doppel ver.)

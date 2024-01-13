@@ -25265,7 +25265,7 @@
   "1362": {
     "pieceId": 1362,
     "rank": "RANK_3",
-    "__update__": "2019-09-17T08:35:43.765Z",
+    "__update__": "2024-01-13T13:10:04.185Z",
     "pieceType": "ABILITY",
     "pieceName": "暗闇を照らす光",
     "attributeId": "ALL",
@@ -25299,7 +25299,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 136201,
     "pieceSkill2": {
@@ -25328,7 +25329,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "「わたしの力を時空管理局で役立てたいと思ったのは＠なのはの魔法でわたし自身が救われたから＠誰かを暗闇から導く光になりたい、そう思ったから＠…広域次元犯罪の現行犯で、あなたを逮捕します」",
     "illustrator": "―",
@@ -43096,7 +43098,7 @@
   "1576": {
     "pieceId": 1576,
     "rank": "RANK_3",
-    "__update__": "2020-12-16T11:47:26.127Z",
+    "__update__": "2024-01-13T05:15:38.126Z",
     "pieceName": "指を結んだあの日",
     "pieceType": "SKILL",
     "attributeId": "ALL",
@@ -43133,7 +43135,8 @@
         "growPoint": 0,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 157601,
     "pieceSkill2": {
@@ -43165,7 +43168,8 @@
         "growPoint": 0,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "第一印象は最悪で、今でもちっとも仲良くない＠なのにこうして一緒にいるのは、ふたりを結ぶ存在があったから＠星空色の電飾に照らされながら、いつかの誓いを思い出す＠あの子の笑顔を守りたくて、指を結んだ日のことを",
     "illustrator": "―",
@@ -79525,5 +79529,302 @@
     "illustrator": "PAPA",
     "openDate": "2024/01/01 00:00:00",
     "__update__": "2023-12-28T10:44:16.168Z"
+  },
+  "2004": {
+    "pieceId": 2004,
+    "rank": "RANK_3",
+    "__update__": "2024-01-13T02:06:57.486Z",
+    "pieceName": "先達は見逃さない",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "charaIds": "2503",
+    "charaList": [
+      {
+        "charaId": 2503,
+        "name": "巴 マミ scene0 ver."
+      }
+    ],
+    "attack": 0,
+    "defense": 484,
+    "hp": 484,
+    "skillId": 200400,
+    "pieceSkill": {
+      "id": 200400,
+      "groupId": 1166,
+      "name": "アクセルドロー",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "Acceleドロー",
+      "messageId": 70,
+      "artId1": 700211800,
+      "art1": {
+        "artId": 700211800,
+        "verbCode": "DRAW",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 200401,
+    "pieceSkill2": {
+      "id": 200401,
+      "groupId": 1166,
+      "name": "アクセルドロー",
+      "type": "SKILL",
+      "intervalTurn": 4,
+      "shortDescription": "Acceleドロー",
+      "messageId": 70,
+      "artId1": 700211800,
+      "art1": {
+        "artId": 700211800,
+        "verbCode": "DRAW",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "一瞬の隙が仇になる暗闇の攻防戦＠放たれたリボンは空気を裂きながら＠無数の銃弾をかいくぐると盾を捉える＠勝負はもうついていた",
+    "illustrator": "都筑禰己",
+    "openDate": "2024/01/12 15:10:00"
+  },
+  "2005": {
+    "pieceId": 2005,
+    "rank": "RANK_4",
+    "__update__": "2024-01-13T01:40:55.728Z",
+    "pieceType": "SKILL",
+    "pieceName": "生き残りを賭けて",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 902,
+    "hp": 902,
+    "skillId": 200500,
+    "pieceSkill": {
+      "id": 200500,
+      "groupId": 1119,
+      "name": "エンハンス・Tアタックライズ[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "ダメージアップ状態[Ⅳ] & 木属性攻撃力UP[Ⅵ](自/3T)",
+      "messageId": 70,
+      "artId1": 630206104,
+      "art1": {
+        "artId": 630206104,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 330221806,
+      "art2": {
+        "artId": 330221806,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_TIMBER",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 200501,
+    "pieceSkill2": {
+      "id": 200501,
+      "groupId": 1119,
+      "name": "エンハンス・Tアタックライズ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "ダメージアップ状態[Ⅴ] & 木属性攻撃力UP[Ⅶ](自/3T)",
+      "messageId": 70,
+      "artId1": 630206105,
+      "art1": {
+        "artId": 630206105,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 330221807,
+      "art2": {
+        "artId": 330221807,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_TIMBER",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "リボンを避ける隙は与えなかったはずなのに＠彼女には私の急所を狙う余裕まである…＠なんて恐ろしい子…だけど、相手に不足はない…！＠「さあ…かかって来なさい！」",
+    "illustrator": "―",
+    "openDate": "2024/01/12 15:10:00"
+  },
+  "2006": {
+    "pieceId": 2006,
+    "rank": "RANK_3",
+    "__update__": "2024-01-13T01:40:55.735Z",
+    "pieceType": "SKILL",
+    "pieceName": "平行な世界",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 622,
+    "hp": 742,
+    "skillId": 200600,
+    "pieceSkill": {
+      "id": 200600,
+      "groupId": 1124,
+      "name": "イミュニティステップ[Ⅶ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "確率で回避[Ⅶ](自/1T) & 状態異常耐性UP[Ⅱ](自/3T)",
+      "messageId": 70,
+      "artId1": 610206807,
+      "art1": {
+        "artId": 610206807,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 400
+      },
+      "artId2": 330201502,
+      "art2": {
+        "artId": 330201502,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 200601,
+    "pieceSkill2": {
+      "id": 200601,
+      "groupId": 1124,
+      "name": "イミュニティステップ[Ⅷ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "確率で回避[Ⅷ](自/1T) & 状態異常耐性UP[Ⅲ](自/3T)",
+      "messageId": 70,
+      "artId1": 610206808,
+      "art1": {
+        "artId": 610206808,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AVOID",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 450
+      },
+      "artId2": 330201503,
+      "art2": {
+        "artId": 330201503,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "ある少女のために意思を貫く魔法少女＠町の平和のために全てをなげうつ魔法少女＠かつては師弟のように過ごしたふたりも＠跳躍した時間では、もう、交わることはない",
+    "illustrator": "―",
+    "openDate": "2024/01/12 15:10:00"
+  },
+  "2007": {
+    "pieceId": 2007,
+    "rank": "RANK_4",
+    "__update__": "2024-01-13T01:40:55.765Z",
+    "pieceType": "ABILITY",
+    "pieceName": "エンドレス・ループ",
+    "attributeId": "ALL",
+    "attack": 780,
+    "defense": 0,
+    "hp": 860,
+    "skillId": 200700,
+    "pieceSkill": {
+      "id": 200700,
+      "groupId": 1213,
+      "name": "アージェント・レジスト[Ⅵ]",
+      "type": "ABILITY",
+      "shortDescription": "対魔女ダメージアップ[Ⅵ] & 状態異常耐性UP[Ⅲ]",
+      "artId1": 690216806,
+      "art1": {
+        "artId": 690216806,
+        "verbCode": "LIMITED_ENEMY_TYPE",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 15,
+        "probability": 1000,
+        "genericValue": "WITCH"
+      },
+      "artId2": 390201503,
+      "art2": {
+        "artId": 390201503,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 200701,
+    "pieceSkill2": {
+      "id": 200701,
+      "groupId": 1213,
+      "name": "アージェント・レジスト[Ⅵ]",
+      "type": "ABILITY",
+      "shortDescription": "対魔女ダメージアップ[Ⅵ] & 状態異常耐性UP[Ⅲ]",
+      "artId1": 690216806,
+      "art1": {
+        "artId": 690216806,
+        "verbCode": "LIMITED_ENEMY_TYPE",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 15,
+        "probability": 1000,
+        "genericValue": "WITCH"
+      },
+      "artId2": 390201503,
+      "art2": {
+        "artId": 390201503,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "彼女は戦う＠この世界を救えないと知りながら…＠勝利できない未来と知りながら…＠残酷なまでに、その運命は繰り返される",
+    "illustrator": "―",
+    "openDate": "2024/01/12 15:10:00"
   }
 }

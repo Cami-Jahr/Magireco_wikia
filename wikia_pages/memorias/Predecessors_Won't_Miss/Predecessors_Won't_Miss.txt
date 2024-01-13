@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 一瞬の隙が仇になる暗闇の攻防戦<br />放たれたリボンは空気を裂きながら<br />無数の銃弾をかいくぐると盾を捉える<br />勝負はもうついていた
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

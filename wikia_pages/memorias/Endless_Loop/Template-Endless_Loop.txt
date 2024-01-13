@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Endless Loop
+| ImageSrc = 
+| Event = 
+
+| Jname = エンドレス・ループ
+| Rarity = 4
+| ID = 2007
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2150
+| max_ATK = 1950
+| max_DEF = 0
+
+| image = Damage Up Versus Witches
+| effect_name = Argent Resist 
+| effect_name_JP = アージェント・レジスト
+| effect1 = 
+| effect2 = Damage Up Versus Witches [VI / 30%] & Status Ailment Resistance Up [III / 30%]
+| Cooldown = 
+| Cooldown2 = 
+}}

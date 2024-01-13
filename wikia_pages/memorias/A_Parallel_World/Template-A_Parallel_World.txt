@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Parallel World
+| ImageSrc = 
+| Event = 
+
+| Jname = 平行な世界
+| Rarity = 3
+| ID = 2006
+| Illust = -
+| Owner = 
+
+| min_HP = 742
+| min_ATK = 0
+| min_DEF = 622
+| max_HP = 1855
+| max_ATK = 0
+| max_DEF = 1555
+
+| image = Evade
+| effect_name = Immunity Step 
+| effect_name_JP = イミュニティステップ
+| effect1 = Chance to Evade [VII / 40%] (Self / 1 Turn) & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
+| effect2 = Chance to Evade [VIII / 45%] (Self / 1 Turn) & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns)
+| Cooldown = 8
+| Cooldown2 = 7
+}}
