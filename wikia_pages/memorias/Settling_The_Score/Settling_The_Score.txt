@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 煮えたぎり溢れかえった真っ黒な情念が私を突き動かし、<br />闇から伺い手を伸ばして、怨恨を晴らすべき相手を絡め取る<br />そして私はなにもかもすべてを奪い去る<br />命はもちろん、零れ落ちて繋がろうとする夢も、希望も、すべてを
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

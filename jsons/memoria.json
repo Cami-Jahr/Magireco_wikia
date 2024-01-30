@@ -39341,7 +39341,7 @@
   "1530": {
     "pieceId": 1530,
     "rank": "RANK_3",
-    "__update__": "2020-08-10T01:41:08.191Z",
+    "__update__": "2024-01-26T14:55:42.407Z",
     "pieceName": "一生忘れられない怖い話",
     "pieceType": "ABILITY",
     "attributeId": "ALL",
@@ -39375,7 +39375,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 153001,
     "pieceSkill2": {
@@ -39404,7 +39405,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "「｜迎えに来た…海の底から…あなたを…＠水底は、冷たくて…暗いけれど…なかまが、いる＠ひとりじゃな、いから…寂しくない、よ…？＠…どう？怖かった？ちゃんとできてた？｜」",
     "illustrator": "星和貴",
@@ -42563,7 +42565,7 @@
   "1570": {
     "pieceId": 1570,
     "rank": "RANK_3",
-    "__update__": "2021-01-27T10:24:45.345Z",
+    "__update__": "2024-01-26T10:48:06.000Z",
     "pieceName": "架空の雪原にて",
     "pieceType": "ABILITY",
     "attributeId": "ALL",
@@ -42596,7 +42598,8 @@
         "growPoint": 0,
         "probability": 700
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 157001,
     "pieceSkill2": {
@@ -42624,7 +42627,8 @@
         "growPoint": 0,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "「世界の果てって、どんな感じなんだろう？やっぱり大きな崖？」＠「大きな滝で、海の水がドバーッと落ちてるのかもしんねーぞ！」＠「それだとさ、あっという間に水がなくならない…？」＠「…ハッ、そうじゃん！早くしないと世界終わっちゃうじゃん！」",
     "illustrator": "―",
@@ -79826,5 +79830,169 @@
     "description": "彼女は戦う＠この世界を救えないと知りながら…＠勝利できない未来と知りながら…＠残酷なまでに、その運命は繰り返される",
     "illustrator": "―",
     "openDate": "2024/01/12 15:10:00"
+  },
+  "2008": {
+    "pieceId": 2008,
+    "rank": "RANK_4",
+    "__update__": "2024-01-29T10:14:46.754Z",
+    "pieceType": "ABILITY",
+    "pieceName": "目覚めの温もり",
+    "attributeId": "ALL",
+    "attack": 942,
+    "defense": 0,
+    "hp": 822,
+    "skillId": 200800,
+    "pieceSkill": {
+      "id": 200800,
+      "groupId": 1093,
+      "name": "グリッター・ボーカル[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "MP獲得量UP[Ⅲ] & 攻撃力UP[Ⅰ] & 必ずスキル不可無効",
+      "artId1": 390201903,
+      "art1": {
+        "artId": 390201903,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201101,
+      "art2": {
+        "artId": 390201101,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690209200,
+      "art3": {
+        "artId": 690209200,
+        "verbCode": "IGNORE",
+        "effectCode": "BAN_SKILL",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 200801,
+    "pieceSkill2": {
+      "id": 200801,
+      "groupId": 1093,
+      "name": "グリッター・ボーカル[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "MP獲得量UP[Ⅳ] & 攻撃力UP[Ⅱ] & 必ずスキル不可無効",
+      "artId1": 390201904,
+      "art1": {
+        "artId": 390201904,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201102,
+      "art2": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690209200,
+      "art3": {
+        "artId": 690209200,
+        "verbCode": "IGNORE",
+        "effectCode": "BAN_SKILL",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "雪で冷えない心が、ゆっくりと凍えて麻痺していく＠欲しいものは、お金でも食べ物でもない、支えてくれる温もり＠だから、柔らかい羽で抱きしめられると、優しさを感じて血が通う＠痺れた心に温もりが戻ってくると、涙が溢れて止まらなくなった",
+    "illustrator": "―",
+    "openDate": "2024/01/29 15:10:00"
+  },
+  "2009": {
+    "pieceId": 2009,
+    "rank": "RANK_4",
+    "__update__": "2024-01-29T10:14:46.807Z",
+    "pieceType": "ABILITY",
+    "pieceName": "引縄批根",
+    "attributeId": "ALL",
+    "attack": 922,
+    "defense": 0,
+    "hp": 762,
+    "skillId": 200900,
+    "pieceSkill": {
+      "id": 200900,
+      "groupId": 1085,
+      "name": "ペネトレイトライジング[Ⅵ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅵ] & 確率で防御無視[Ⅲ]",
+      "artId1": 390201106,
+      "art1": {
+        "artId": 390201106,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690206603,
+      "art2": {
+        "artId": 690206603,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DEFENSE_IGNORED",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 200
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 200901,
+    "pieceSkill2": {
+      "id": 200901,
+      "groupId": 1085,
+      "name": "ペネトレイトライジング[Ⅵ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅵ] & 確率で防御無視[Ⅲ]",
+      "artId1": 390201106,
+      "art1": {
+        "artId": 390201106,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690206603,
+      "art2": {
+        "artId": 690206603,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DEFENSE_IGNORED",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 200
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "煮えたぎり溢れかえった真っ黒な情念が私を突き動かし、＠闇から伺い手を伸ばして、怨恨を晴らすべき相手を絡め取る＠そして私はなにもかもすべてを奪い去る＠命はもちろん、零れ落ちて繋がろうとする夢も、希望も、すべてを",
+    "illustrator": "蒼樹うめ",
+    "openDate": "2024/01/29 15:10:00"
   }
 }

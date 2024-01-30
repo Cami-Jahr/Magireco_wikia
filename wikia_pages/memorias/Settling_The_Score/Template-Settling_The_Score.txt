@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Settling The Score
+| ImageSrc = 
+| Event = 
+
+| Jname = 引縄批根
+| Rarity = 4
+| ID = 2009
+| Illust = 蒼樹うめ
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 1905
+| max_ATK = 2305
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Penetrate Rising 
+| effect_name_JP = ペネトレイトライジング
+| effect1 = 
+| effect2 = Attack Up [VI / 30%] & Chance to Defense Pierce [III / 20%]
+| Cooldown = 
+| Cooldown2 = 
+}}

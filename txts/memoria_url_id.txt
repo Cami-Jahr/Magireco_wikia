@@ -992,5 +992,7 @@
 2005;Betting One's Survival
 2006;A Parallel World
 2007;Endless Loop
+2008;Warmth of Awakening
+2009;Settling The Score
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

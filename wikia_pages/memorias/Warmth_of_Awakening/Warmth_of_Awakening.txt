@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 雪で冷えない心が、ゆっくりと凍えて麻痺していく<br />欲しいものは、お金でも食べ物でもない、支えてくれる温もり<br />だから、柔らかい羽で抱きしめられると、優しさを感じて血が通う<br />痺れた心に温もりが戻ってくると、涙が溢れて止まらなくなった
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

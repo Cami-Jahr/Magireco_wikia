@@ -358,6 +358,7 @@ jp_to_en = {
     "オブリビオン": "Oblivion",
     "ジアンサー": "The Answer",
     "バタリングラム": "Battering Ram",
+    "アドレナリンラッシュ": "Adrenaline Rush",
     "アンチ": "Anti",
     "・": " ",
     "[": " [",
@@ -499,7 +500,7 @@ jp_to_en = {
     "リフレクション": "Reflection",
     "ファランクス": "Phalanx",
     "イグノア": "Ignore",
-    "アドレナリンラッシュ": "Adrenaline Rush"
+    "ボーカル": "Vocals"
 }
 
 # Subset of good effects that might be chance to happen
