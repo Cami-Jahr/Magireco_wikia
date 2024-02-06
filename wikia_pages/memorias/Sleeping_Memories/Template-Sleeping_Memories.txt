@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Sleeping Memories
+| ImageSrc = 
+| Event = 
+
+| Jname = 眠っていた思い出
+| Rarity = 3
+| ID = 2010
+| Illust = 都筑禰己
+| Owner = Reira & Seika
+
+| min_HP = 442
+| min_ATK = 522
+| min_DEF = 0
+| max_HP = 1105
+| max_ATK = 1305
+| max_DEF = 0
+
+| image = Charge Draw
+| effect_name = Charge Draw
+| effect_name_JP = チャージドロー
+| effect1 = Charge Draw
+| effect2 = Charge Draw
+| Cooldown = 5
+| Cooldown2 = 4
+}}

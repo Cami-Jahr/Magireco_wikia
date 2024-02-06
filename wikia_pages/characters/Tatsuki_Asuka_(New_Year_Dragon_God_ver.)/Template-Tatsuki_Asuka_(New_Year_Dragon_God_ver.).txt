@@ -35,28 +35,28 @@
 | 5star_defense_max = 10780
 | 5star_illustrator_jp = ダリク
 
-| se_hp_bonus = 
-| se_attack_bonus = 
-| se_defense_bonus = 
+| se_hp_bonus = 7570
+| se_attack_bonus = 2375
+| se_defense_bonus = 2775
 
-| se accele bonus = 
-| se blast bonus = 
-| se charge bonus = 
+| se accele bonus = 4
+| se blast bonus = 6
+| se charge bonus = 8
 
-| Passive 1 icon = MP Gain Up
-| Passive 1 name = Morale Adept [II]
-| Passive 1 name JP = モラール・アデプト[Ⅱ]
-| Passive 1 effect = MP Gain Up [II / 7.5%]
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 2 icon = MP Gauge Increased On Battle Start
-| Passive 2 name = Fast Mana Up
-| Passive 2 name JP = ファスト・マナアップ
-| Passive 2 effect = MP Gauge Increased On Battle Start [15% full]
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = Blast Damage Up
-| Passive 3 name = Blast Adept [II]
-| Passive 3 name JP = ブラスト・アデプト[Ⅱ]
-| Passive 3 effect = Blast Damage Up [II / 16.5%]
+| Passive 3 icon = MP Gain Up
+| Passive 3 name = Morale Adept [II]
+| Passive 3 name JP = モラール・アデプト[Ⅱ]
+| Passive 3 effect = MP Gain Up [II / 7.5%]
 
 | Passive 4 icon = Doppel Damage Up
 | Passive 4 name = Doppel Adept [I]
@@ -68,10 +68,10 @@
 | Passive 5 name JP = MPブースト[Ⅱ]
 | Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Status Ailment Resistance Up
-| Passive 6 name = EndureAura [XV]
-| Passive 6 name JP = インデュアオーラ[XV]
-| Passive 6 effect = Status Ailment Resistance Up [XV / 90%] & Blast Damage Up [V / 30%] (Self / 5 Turns on Battle Start)
+| Passive 6 icon = Blast Damage Up
+| Passive 6 name = Blast Adept [II]
+| Passive 6 name JP = ブラスト・アデプト[Ⅱ]
+| Passive 6 effect = Blast Damage Up [II / 16.5%]
 
 | Passive 7 icon = Blast Damage Up
 | Passive 7 name = Blast Adept [II]
@@ -83,25 +83,25 @@
 | Passive 8 name JP = ブラストサルテーション[Ⅴ]
 | Passive 8 effect = Blast MP Gain Up [V / 5 MP]
 
-| Passive 9 icon = MP Gain Up When Over 100 MP
-| Passive 9 name = MP Boost [II]
-| Passive 9 name JP = MPブースト[Ⅱ]
-| Passive 9 effect = MP Gain Up When Over 100 MP [II / 20%]
+| Passive 9 icon = Attack Up When At Critical Health
+| Passive 9 name = Crisis Bloom [V]
+| Passive 9 name JP = クライシスブルーム[Ⅴ]
+| Passive 9 effect = Attack Up When At Critical Health [V / 30%] & Defense Up When At Critical Health [III / 40%]
 
-| Passive 10 icon = Doppel Damage Up
-| Passive 10 name = Doppel Adept [I]
-| Passive 10 name JP = ドッペル・アデプト[Ⅰ]
-| Passive 10 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+| Passive 10 icon = Attack Up When At Critical Health
+| Passive 10 name = Crisis Bloom Aura [VII]
+| Passive 10 name JP = クライシスブルーム・オーラ[Ⅶ]
+| Passive 10 effect = Attack Up When At Critical Health [VII / 40%] & Defense Up When At Critical Health [III / 40%] (Self / 5 Turns on Battle Start)
 
-| Passive 11 icon = Attack Up When At Critical Health
-| Passive 11 name = Crisis Bloom [V]
-| Passive 11 name JP = クライシスブルーム[Ⅴ]
-| Passive 11 effect = Attack Up When At Critical Health [V / 30%] & Defense Up When At Critical Health [III / 40%]
+| Passive 11 icon = MP Gauge Increased On Battle Start
+| Passive 11 name = Fast Mana Up
+| Passive 11 name JP = ファスト・マナアップ
+| Passive 11 effect = MP Gauge Increased On Battle Start [15% full]
 
-| Passive 12 icon = Attack Up When At Critical Health
-| Passive 12 name = Crisis Bloom Aura [VII]
-| Passive 12 name JP = クライシスブルーム・オーラ[Ⅶ]
-| Passive 12 effect = Attack Up When At Critical Health [VII / 40%] & Defense Up When At Critical Health [III / 40%] (Self / 5 Turns on Battle Start)
+| Passive 12 icon = Status Ailment Resistance Up
+| Passive 12 name = EndureAura [XV]
+| Passive 12 name JP = インデュアオーラ[XV]
+| Passive 12 effect = Status Ailment Resistance Up [XV / 90%] & Blast Damage Up [V / 30%] (Self / 5 Turns on Battle Start)
 
 | Active 1 icon = Magia Damage Up
 | Active 1 name = Adrenaline Rush

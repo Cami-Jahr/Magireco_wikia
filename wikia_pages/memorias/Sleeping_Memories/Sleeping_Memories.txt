@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 箱の中に押し込められていたのは、はるか遠い日々の記録<br />しかし、もう何も振り返りたくはないと部屋の一隅に追いやった<br />それでも結局捨てられないのは、幸せだった過去への未練<br />二度と帰ってこないとわかっていても、手放したら自分が消えそうで
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

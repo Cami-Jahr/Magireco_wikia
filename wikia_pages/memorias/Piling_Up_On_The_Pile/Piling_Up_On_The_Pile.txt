@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 心の奥底に、気づかないまま積もらせてしまった澱<br />それはやがて許容の限界を迎えると、ふとした拍子で溢れ出してしまう<br />互いを気遣っていたからこそ言えなかったこと<br />氾濫した想いがぶつかり合ったその先に、新たな感情が芽生え始める
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

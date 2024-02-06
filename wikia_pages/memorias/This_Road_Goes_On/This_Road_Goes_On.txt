@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = はるか昔より連綿と続いてきた人の営みの上にある「現在」<br />そしてまた、変わらずに営みが続けば見えてくるのが「未来」<br />良いことも悪いこともすべてを飲み込んで、この世界は形作られていく　<br />誰もが“バトン”を持って生まれ、知らぬ間にそれを誰かに渡していく
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

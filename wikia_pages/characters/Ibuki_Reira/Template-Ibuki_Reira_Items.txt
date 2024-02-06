@@ -87,5 +87,25 @@
 |Quantity25 = 6
 |BuffCharge2 = 8
 
+|Item32 = Rainbow Orb
+|Quantity32 = 3
+|BuffATK3 = 7
+|Item33 = Flame Orb ++
+|Quantity33 = 10
+|BuffDEF3 = 7
+|Item31 = Flame Orb +
+|Quantity31 = 15
+|BuffHP3 = 7
+|Item36 = Pendulum Screw
+|Quantity36 = 15
+|BuffAccele3 = 5
+|Item34 = Rooftop Balloons
+|Quantity34 = 10
+|BuffBlast3 = 5
+|Item35 = Code of Artificial Intelligence
+|Quantity35 = 8
+|BuffCharge3 = 9
+
 |QuantityCC1 = 300000
+|QuantityCC2 = 1000000
 }}

@@ -106,6 +106,26 @@
 |Quantity35 = 12
 |BuffCharge3 = 4
 
+|Item42 = Aqua Orb +
+|Quantity42 = 15
+|BuffATK4 = 6
+|Item43 = Aqua Orb ++
+|Quantity43 = 10
+|BuffDEF4 = 6
+|Item41 = Rainbow Orb
+|Quantity41 = 3
+|BuffHP4 = 9
+|Item46 = Curator's Hood
+|Quantity46 = 8
+|BuffAccele4 = 7
+|Item44 = Sheep Horn
+|Quantity44 = 10
+|BuffBlast4 = 7
+|Item45 = Staff Keyswitch
+|Quantity45 = 15
+|BuffCharge4 = 5
+
 |QuantityCC1 = 100000
 |QuantityCC2 = 300000
+|QuantityCC3 = 1000000
 }}

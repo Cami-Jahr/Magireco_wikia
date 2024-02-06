@@ -79994,5 +79994,359 @@
     "description": "煮えたぎり溢れかえった真っ黒な情念が私を突き動かし、＠闇から伺い手を伸ばして、怨恨を晴らすべき相手を絡め取る＠そして私はなにもかもすべてを奪い去る＠命はもちろん、零れ落ちて繋がろうとする夢も、希望も、すべてを",
     "illustrator": "蒼樹うめ",
     "openDate": "2024/01/29 15:10:00"
+  },
+  "2010": {
+    "pieceId": 2010,
+    "rank": "RANK_3",
+    "__update__": "2024-02-05T07:36:02.296Z",
+    "pieceType": "SKILL",
+    "pieceName": "眠っていた思い出",
+    "attributeId": "ALL",
+    "charaIds": "3505",
+    "charaList": [
+      {
+        "charaId": 3505,
+        "name": "れいら・せいか"
+      }
+    ],
+    "attack": 522,
+    "defense": 0,
+    "hp": 442,
+    "skillId": 201000,
+    "pieceSkill": {
+      "id": 201000,
+      "groupId": 1167,
+      "name": "チャージドロー",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "Chargeドロー",
+      "messageId": 70,
+      "artId1": 700211900,
+      "art1": {
+        "artId": 700211900,
+        "verbCode": "DRAW",
+        "effectCode": "CHARGE",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 201001,
+    "pieceSkill2": {
+      "id": 201001,
+      "groupId": 1167,
+      "name": "チャージドロー",
+      "type": "SKILL",
+      "intervalTurn": 4,
+      "shortDescription": "Chargeドロー",
+      "messageId": 70,
+      "artId1": 700211900,
+      "art1": {
+        "artId": 700211900,
+        "verbCode": "DRAW",
+        "effectCode": "CHARGE",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "箱の中に押し込められていたのは、はるか遠い日々の記録＠しかし、もう何も振り返りたくはないと部屋の一隅に追いやった＠それでも結局捨てられないのは、幸せだった過去への未練＠二度と帰ってこないとわかっていても、手放したら自分が消えそうで",
+    "illustrator": "都筑禰己",
+    "openDate": "2024/02/05 15:10:00"
+  },
+  "2011": {
+    "pieceId": 2011,
+    "rank": "RANK_4",
+    "__update__": "2024-02-05T07:29:39.284Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "心繋がり走り出す",
+    "attributeId": "ALL",
+    "attack": 941,
+    "defense": 0,
+    "hp": 821,
+    "skillId": 201100,
+    "pieceSkill": {
+      "id": 201100,
+      "groupId": 1092,
+      "name": "Fウェポンブラスト・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅲ] & ダメージアップ状態[Ⅲ] & 火属性攻撃力UP[Ⅳ]",
+      "artId1": 390201803,
+      "art1": {
+        "artId": 390201803,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690206103,
+      "art2": {
+        "artId": 690206103,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390221104,
+      "art3": {
+        "artId": 390221104,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25
+      },
+      "eventId": 1208,
+      "eventArtId1": 1208003,
+      "eventArt1": {
+        "artId": 1208003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1208_EXCHANGE_1"
+      },
+      "eventDescription": "＆「おはじき」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 201101,
+    "pieceSkill2": {
+      "id": 201101,
+      "groupId": 1092,
+      "name": "Fウェポンブラスト・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "Blast ダメージUP[Ⅳ] & ダメージアップ状態[Ⅳ] & 火属性攻撃力UP[Ⅴ]",
+      "artId1": 390201804,
+      "art1": {
+        "artId": 390201804,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690206104,
+      "art2": {
+        "artId": 690206104,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390221105,
+      "art3": {
+        "artId": 390221105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25
+      },
+      "eventId": 1208,
+      "eventArtId1": 1208004,
+      "eventArt1": {
+        "artId": 1208004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1208_EXCHANGE_1"
+      },
+      "eventDescription": "＆「おはじき」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「せいか、みと！私が先に行くからついてきて！」＠「あんまり意気込み過ぎると足元をすくわれるわよ、れいら」＠「そうだよ！焦らず、慌てず、落ち着いて！３人で一緒に、だよ！」＠「おっとっと…一旦冷静になってから…さあ、私についてきて！」 ",
+    "illustrator": "―",
+    "openDate": "2024/02/05 15:10:00"
+  },
+  "2012": {
+    "pieceId": 2012,
+    "rank": "RANK_3",
+    "__update__": "2024-02-05T13:03:03.252Z",
+    "pieceName": "積もり積もって",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 651,
+    "hp": 711,
+    "skillId": 201200,
+    "pieceSkill": {
+      "id": 201200,
+      "groupId": 1233,
+      "name": "フレイムライズ[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "火属性攻撃力UP[Ⅲ] & 攻撃力UP[Ⅱ](自/3T)",
+      "messageId": 70,
+      "artId1": 330221103,
+      "art1": {
+        "artId": 330221103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201102,
+      "art2": {
+        "artId": 330201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 201201,
+    "pieceSkill2": {
+      "id": 201201,
+      "groupId": 1233,
+      "name": "フレイムライズ[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 9,
+      "shortDescription": "火属性攻撃力UP[Ⅳ] & 攻撃力UP[Ⅲ](自/3T)",
+      "messageId": 70,
+      "artId1": 330221104,
+      "art1": {
+        "artId": 330221104,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201103,
+      "art2": {
+        "artId": 330201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "心の奥底に、気づかないまま積もらせてしまった澱＠それはやがて許容の限界を迎えると、ふとした拍子で溢れ出してしまう＠互いを気遣っていたからこそ言えなかったこと＠氾濫した想いがぶつかり合ったその先に、新たな感情が芽生え始める",
+    "illustrator": "―",
+    "openDate": "2024/02/05 15:10:00"
+  },
+  "2013": {
+    "pieceId": 2013,
+    "rank": "RANK_4",
+    "__update__": "2024-02-05T07:29:31.499Z"
+  },
+  "2014": {
+    "pieceId": 2014,
+    "rank": "RANK_3",
+    "__update__": "2024-02-05T07:29:39.267Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "この道はこの先も",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 645,
+    "hp": 585,
+    "skillId": 201400,
+    "pieceSkill": {
+      "id": 201400,
+      "groupId": 1091,
+      "name": "フルスウィング・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "Charge後ダメージUP[Ⅲ] & Blast ダメージUP[Ⅱ]",
+      "artId1": 390201703,
+      "art1": {
+        "artId": 390201703,
+        "verbCode": "BUFF",
+        "effectCode": "CHARGE",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201802,
+      "art2": {
+        "artId": 390201802,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1208,
+      "eventArtId1": 1208001,
+      "eventArt1": {
+        "artId": 1208001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1208_EXCHANGE_1"
+      },
+      "eventDescription": "＆「おはじき」追加獲得数＋1",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 201401,
+    "pieceSkill2": {
+      "id": 201401,
+      "groupId": 1091,
+      "name": "フルスウィング・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "Charge後ダメージUP[Ⅲ] & Blast ダメージUP[Ⅱ]",
+      "artId1": 390201703,
+      "art1": {
+        "artId": 390201703,
+        "verbCode": "BUFF",
+        "effectCode": "CHARGE",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201802,
+      "art2": {
+        "artId": 390201802,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1208,
+      "eventArtId1": 1208002,
+      "eventArt1": {
+        "artId": 1208002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1208_EXCHANGE_1"
+      },
+      "eventDescription": "＆「おはじき」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "はるか昔より連綿と続いてきた人の営みの上にある「現在」＠そしてまた、変わらずに営みが続けば見えてくるのが「未来」＠良いことも悪いこともすべてを飲み込んで、この世界は形作られていく　＠誰もが“バトン”を持って生まれ、知らぬ間にそれを誰かに渡していく",
+    "illustrator": "―",
+    "openDate": "2024/02/05 15:10:00"
   }
 }

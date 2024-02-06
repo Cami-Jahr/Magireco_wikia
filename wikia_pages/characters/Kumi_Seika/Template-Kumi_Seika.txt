@@ -3,7 +3,7 @@
 | name_jp = 桑水 せいか
 | element = Aqua
 | base_rarity = 2
-| max_rarity = 4
+| max_rarity = 5
 | id = 3014
 | type = Support
 | growth_type = ATKHP
@@ -43,13 +43,13 @@
 | 4star_defense_max = 5546
 | 4star_illustrator_jp = ハノカゲ
 
-| 5star_hp_lv1 = 
-| 5star_attack_lv1 = 
-| 5star_defense_lv1 = 
-| 5star_hp_max = 
-| 5star_attack_max = 
-| 5star_defense_max = 
-| 5star_illustrator_jp = 
+| 5star_hp_lv1 = 5457
+| 5star_attack_lv1 = 1787
+| 5star_defense_lv1 = 1762
+| 5star_hp_max = 22155
+| 5star_attack_max = 7201
+| 5star_defense_max = 6995
+| 5star_illustrator_jp = ハノカゲ
 
 | se_hp_bonus = 6064
 | se_attack_bonus = 1252
@@ -132,14 +132,17 @@
 | Connect 1 / 1 = IV / 27.5%
 | Connect 1 / 2 = VI / 32.5%
 | Connect 1 / 3 = VIII / 37.5%
+| Connect 1 / 4 = IX / 40%
 | Connect effect 2 = Charged Attack Damage Up
 | Connect 2 / 1 = III / 15%
 | Connect 2 / 2 = V / 20%
 | Connect 2 / 3 = VII / 25%
+| Connect 2 / 4 = VIII / 27.5%
 | Connect effect 3 = Chance to Fog on Attack
 | Connect 3 / 1 = III / 60%
 | Connect 3 / 2 = 100%
 | Connect 3 / 3 = 100%
+| Connect 3 / 4 = 100%
 
 | Magia name JP = サモン・ウェーブ
 | Magia name EN = 
@@ -149,21 +152,42 @@
 | Magia 1 / 1 = I / 300%
 | Magia 1 / 2 = III / 320%
 | Magia 1 / 3 = V / 340%
+| Magia 1 / 4 = VI / 350%
 | Magia effect 2 = Chance to Fog
 | Magia scaling 2 = -
 | Magia 2 / 1 = All Enemies / 3 Turns / 47.5%
 | Magia 2 / 2 = All Enemies / 3 Turns / 100%
 | Magia 2 / 3 = All Enemies / 3 Turns / 100%
+| Magia 2 / 4 = All Enemies / 3 Turns / 100%
 | Magia effect 3 = Blast Damage Down
 | Magia scaling 3 = 2.5%
 | Magia 3 / 1 = -
 | Magia 3 / 2 = -
 | Magia 3 / 3 = All Enemies / 3 Turns / 25%
+| Magia 3 / 4 = All Enemies / 3 Turns / 30%
+| Magia effect 4 = Magia Damage Down
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = -
+| Magia 4 / 2 = -
+| Magia 4 / 3 = -
+| Magia 4 / 4 = All Enemies / 3 Turns / 20%
 
 | Doppel Name = 
 | Doppel Title = 
-| Doppel Japanese Title = 
+| Doppel Japanese Title = 逆転のドッペル
 | Doppel Shape = 
-| Doppel Japanese Shape = 
-| Doppel Japanese Designer = 
+| Doppel Japanese Shape = その姿は、検察官
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Magia2 effect 1 = Damage All Enemies
+| Magia2 1 = VIII / 880%
+| Magia2 effect 2 = Chance to Fog
+| Magia2 2 = All Enemies / 3 Turns / 100%
+| Magia2 effect 3 = Blast Damage Down
+| Magia2 3 = All Enemies / 3 Turns / 40%
+| Magia2 effect 4 = Magia Damage Down
+| Magia2 4 = All Enemies / 3 Turns / 30%
+| Magia2 effect 5 = Blast Damage Down Further
+| Magia2 5 = All Enemies / 3 Turns / 20%
+| Magia2 effect 6 = Magia Damage Down Further
+| Magia2 6 = All Enemies / 3 Turns / 25%
 }}
