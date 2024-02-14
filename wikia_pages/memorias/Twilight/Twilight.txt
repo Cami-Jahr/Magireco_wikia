@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 日が暮れて、強い西日が神浜大東団地を照らし出す<br />朝から昼へ、昼から夕方へ、夕方から夜へ…この世は常に変わり続ける<br />それでも、変わらないでいてほしいと願い続ける人々もいる<br />結局はその願いが叶わないとしても、できるだけ長く、今のままで…
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -67210,7 +67210,7 @@
   "1857": {
     "pieceId": 1857,
     "rank": "RANK_3",
-    "__update__": "2023-01-27T08:17:53.284Z",
+    "__update__": "2024-02-07T10:56:19.843Z",
     "pieceName": "泰党の得意技",
     "pieceType": "ABILITY",
     "attributeId": "ALL",
@@ -67243,7 +67243,8 @@
         "growPoint": 0,
         "probability": 40
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 185701,
     "pieceSkill2": {
@@ -67271,7 +67272,8 @@
         "growPoint": 0,
         "probability": 50
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "「さぁて、今回の獲物も見つけたしサクッと奪って金にするか」＠サルのように軽快でありながら、物音ひとつ立てない身のこなし＠すべては、義賊として古来より受け継がれてきた泰党の神髄＠今日も富める者の涙を絞り、貧しい者を潤わせる",
     "illustrator": "―",
@@ -80252,7 +80254,80 @@
   "2013": {
     "pieceId": 2013,
     "rank": "RANK_4",
-    "__update__": "2024-02-05T07:29:31.499Z"
+    "__update__": "2024-02-13T08:52:59.618Z",
+    "pieceName": "黄昏時",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 859,
+    "hp": 779,
+    "skillId": 201300,
+    "pieceSkill": {
+      "id": 201300,
+      "groupId": 1091,
+      "name": "フルスウィングライズ[Ⅶ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "Charge後ダメージUP[Ⅶ] & Blast ダメージUP[Ⅳ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201707,
+      "art1": {
+        "artId": 310201707,
+        "verbCode": "BUFF",
+        "effectCode": "CHARGE",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310201804,
+      "art2": {
+        "artId": 310201804,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 201301,
+    "pieceSkill2": {
+      "id": 201301,
+      "groupId": 1091,
+      "name": "フルスウィングライズ[Ⅶ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "Charge後ダメージUP[Ⅶ] & Blast ダメージUP[Ⅳ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201707,
+      "art1": {
+        "artId": 310201707,
+        "verbCode": "BUFF",
+        "effectCode": "CHARGE",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 310201804,
+      "art2": {
+        "artId": 310201804,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "日が暮れて、強い西日が神浜大東団地を照らし出す＠朝から昼へ、昼から夕方へ、夕方から夜へ…この世は常に変わり続ける＠それでも、変わらないでいてほしいと願い続ける人々もいる＠結局はその願いが叶わないとしても、できるだけ長く、今のままで…",
+    "illustrator": "―",
+    "openDate": "2024/02/05 15:10:00"
   },
   "2014": {
     "pieceId": 2014,
