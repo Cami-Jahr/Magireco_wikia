@@ -91,5 +91,25 @@
 |Quantity25 = 12
 |BuffCharge2 = 4
 
+|Item32 = Rainbow Orb
+|Quantity32 = 3
+|BuffATK3 = 8
+|Item33 = Flame Orb +
+|Quantity33 = 15
+|BuffDEF3 = 6
+|Item31 = Aqua Orb ++
+|Quantity31 = 10
+|BuffHP3 = 7
+|Item36 = Sheep Horn
+|Quantity36 = 8
+|BuffAccele3 = 7
+|Item34 = Machibito Horse's Wheel
+|Quantity34 = 10
+|BuffBlast3 = 7
+|Item35 = Ema's Mizuhiki
+|Quantity35 = 15
+|BuffCharge3 = 5
+
 |QuantityCC1 = 300000
+|QuantityCC2 = 1000000
 }}

@@ -3,7 +3,7 @@
 | name_jp = 愛生 まばゆ
 | element = Void
 | base_rarity = 3
-| max_rarity = 4
+| max_rarity = 5
 | id = 2009
 | type = Magia
 | growth_type = ATKHP
@@ -35,13 +35,13 @@
 | 4star_defense_max = 5482
 | 4star_illustrator_jp = ササギコウシ
 
-| 5star_hp_lv1 = 
-| 5star_attack_lv1 = 
-| 5star_defense_lv1 = 
-| 5star_hp_max = 
-| 5star_attack_max = 
-| 5star_defense_max = 
-| 5star_illustrator_jp = 
+| 5star_hp_lv1 = 5649
+| 5star_attack_lv1 = 2188
+| 5star_defense_lv1 = 1747
+| 5star_hp_max = 22934
+| 5star_attack_max = 8817
+| 5star_defense_max = 6935
+| 5star_illustrator_jp = ぷにゃん
 
 | se_hp_bonus = 7039
 | se_attack_bonus = 2580
@@ -123,9 +123,15 @@
 | Connect effect 1 = Attack Up
 | Connect 1 / 1 = V / 30%
 | Connect 1 / 2 = VII / 35%
+| Connect 1 / 3 = IX / 40%
 | Connect effect 2 = Remove Debuffs
 | Connect 2 / 1 = 100%
 | Connect 2 / 2 = 100%
+| Connect 2 / 3 = 100%
+| Connect effect 3 = Accele MP Gain Up
+| Connect 3 / 1 = -
+| Connect 3 / 2 = -
+| Connect 3 / 3 = V / 30%
 
 | Magia name JP = 解はデジャ・ブ
 | Magia name EN = 
@@ -134,23 +140,34 @@
 | Magia scaling 1 = 10%
 | Magia 1 / 1 = IV / 1056%
 | Magia 1 / 2 = V / 1088%
+| Magia 1 / 3 = VII / 1152%
 | Magia effect 2 = Remove Granted Effects
 | Magia scaling 2 = -
 | Magia 2 / 1 = Target
 | Magia 2 / 2 = Target
+| Magia 2 / 3 = Target
 | Magia effect 3 = MP Damage
 | Magia scaling 3 = -
 | Magia 3 / 1 = Target / 30 MP
 | Magia 3 / 2 = Target / 40 MP
+| Magia 3 / 3 = Target / 50 MP
 | Magia effect 4 = Attack Up
 | Magia scaling 4 = 2.5%
 | Magia 4 / 1 = Allies / 3 Turns / 15%
 | Magia 4 / 2 = Allies / 3 Turns / 17.5%
+| Magia 4 / 3 = Allies / 3 Turns / 25%
 
-| Doppel Name = 
-| Doppel Title = 
-| Doppel Japanese Title = 
-| Doppel Shape = 
-| Doppel Japanese Shape = 
-| Doppel Japanese Designer = 
+| Magia2 name JP = ブリリアントファイナルカット
+| Magia2 name EN = 
+| Magia2 icon = Damage One Enemy
+| Magia2 effect 1 = Damage One Enemy
+| Magia2 1 = IX / 2763.2%
+| Magia2 effect 2 = Remove Granted Effects
+| Magia2 2 = Target
+| Magia2 effect 3 = MP Damage
+| Magia2 3 = Target / 70 MP
+| Magia2 effect 4 = Attack Up
+| Magia2 4 = Allies / 5 Turns / 35%
+| Magia2 effect 5 = Remove Debuffs
+| Magia2 5 = Allies
 }}

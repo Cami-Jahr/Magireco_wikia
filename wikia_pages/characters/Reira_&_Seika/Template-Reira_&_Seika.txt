@@ -35,73 +35,73 @@
 | 5star_defense_max = 8888
 | 5star_illustrator_jp = ハノカゲ
 
-| se_hp_bonus = 
-| se_attack_bonus = 
-| se_defense_bonus = 
+| se_hp_bonus = 8008
+| se_attack_bonus = 2375
+| se_defense_bonus = 2750
 
-| se accele bonus = 
-| se blast bonus = 
-| se charge bonus = 
+| se accele bonus = 3
+| se blast bonus = 6
+| se charge bonus = 8
 
-| Passive 1 icon = Doppel Damage Up
-| Passive 1 name = Doppel Adept [I]
-| Passive 1 name JP = ドッペル・アデプト[Ⅰ]
-| Passive 1 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 2 icon = Anti-Magia Seal
-| Passive 2 name = Anti Seal Magia
-| Passive 2 name JP = アンチ・シールマギア
-| Passive 2 effect = Anti-Magia Seal
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 3 icon = Status Ailment Resistance Up
-| Passive 3 name = Resist Adept [V]
-| Passive 3 name JP = レジスト・アデプト[Ⅴ]
-| Passive 3 effect = Status Ailment Resistance Up [V / 40%]
+| Passive 3 icon = Skill Quicken
+| Passive 3 name = Skill Quicken [III]
+| Passive 3 name JP = スキルクイック[Ⅲ]
+| Passive 3 effect = Chance to Skill Quicken [III / 15%]
 
-| Passive 4 icon = Skill Quicken
-| Passive 4 name = Skill Quicken [III]
-| Passive 4 name JP = スキルクイック[Ⅲ]
-| Passive 4 effect = Chance to Skill Quicken [III / 15%]
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
 
-| Passive 5 icon = Regenerate MP
-| Passive 5 name = Nursing Care [VII]
-| Passive 5 name JP = ナーシングケア[Ⅶ]
-| Passive 5 effect = Regenerate MP [VII / 12 MP] & Regenerate HP [III / 4%]
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
 
-| Passive 6 icon = Anti-Skill Seal
-| Passive 6 name = Anti Jammer
-| Passive 6 name JP = アンチ・ジャマ―
-| Passive 6 effect = Anti-Skill Seal
+| Passive 6 icon = Status Ailment Resistance Up
+| Passive 6 name = Resist Adept [V]
+| Passive 6 name JP = レジスト・アデプト[Ⅴ]
+| Passive 6 effect = Status Ailment Resistance Up [V / 40%]
 
-| Passive 7 icon = Accele MP Gain Up
-| Passive 7 name = Noble Spirit [IV]
-| Passive 7 name JP = ノーブル・スピリット[Ⅳ]
-| Passive 7 effect = Accele MP Gain Up [IV / 17.5%] & MP Gain Up [III / 10%] & Defense Up [III / 22.5%]
+| Passive 7 icon = Anti-Skill Seal
+| Passive 7 name = Anti Jammer
+| Passive 7 name JP = アンチ・ジャマ―
+| Passive 7 effect = Anti-Skill Seal
 
-| Passive 8 icon = Doppel Damage Up
-| Passive 8 name = Doppel Adept [I]
-| Passive 8 name JP = ドッペル・アデプト[Ⅰ]
-| Passive 8 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+| Passive 8 icon = Anti-Magia Seal
+| Passive 8 name = Anti Seal Magia
+| Passive 8 name JP = アンチ・シールマギア
+| Passive 8 effect = Anti-Magia Seal
 
-| Passive 9 icon = Charge Combo Charge Count Up
-| Passive 9 name = Charge Combo Plus [IV]
-| Passive 9 name JP = チャージコンボプラス[Ⅳ]
-| Passive 9 effect = Charge Combo Charge Count Up [+4]
+| Passive 9 icon = Regenerate MP
+| Passive 9 name = Nursing Care [VII]
+| Passive 9 name JP = ナーシングケア[Ⅶ]
+| Passive 9 effect = Regenerate MP [VII / 12 MP] & Regenerate HP [III / 4%]
 
-| Passive 10 icon = MP Gauge Increased On Battle Start
-| Passive 10 name = Fast Mana Up
-| Passive 10 name JP = ファスト・マナアップ
-| Passive 10 effect = MP Gauge Increased On Battle Start [40% full]
+| Passive 10 icon = Accele MP Gain Up
+| Passive 10 name = Noble Spirit [IV]
+| Passive 10 name JP = ノーブル・スピリット[Ⅳ]
+| Passive 10 effect = Accele MP Gain Up [IV / 17.5%] & MP Gain Up [III / 10%] & Defense Up [III / 22.5%]
 
-| Passive 11 icon = MP Gain Up When Over 100 MP
-| Passive 11 name = MP Boost [II]
-| Passive 11 name JP = MPブースト[Ⅱ]
-| Passive 11 effect = MP Gain Up When Over 100 MP [II / 20%]
+| Passive 11 icon = Charge Combo Charge Count Up
+| Passive 11 name = Charge Combo Plus [IV]
+| Passive 11 name JP = チャージコンボプラス[Ⅳ]
+| Passive 11 effect = Charge Combo Charge Count Up [+4]
 
-| Passive 12 icon = MP Gain Up When Over 100 MP
-| Passive 12 name = MP Boost [II]
-| Passive 12 name JP = MPブースト[Ⅱ]
-| Passive 12 effect = MP Gain Up When Over 100 MP [II / 20%]
+| Passive 12 icon = MP Gauge Increased On Battle Start
+| Passive 12 name = Fast Mana Up
+| Passive 12 name JP = ファスト・マナアップ
+| Passive 12 effect = MP Gauge Increased On Battle Start [40% full]
 
 | Active 1 icon = Charge Conservation
 | Active 1 name = Unbreakable Charge Circle

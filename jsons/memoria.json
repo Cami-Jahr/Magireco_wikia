@@ -20513,7 +20513,7 @@
   "1304": {
     "pieceId": 1304,
     "rank": "RANK_3",
-    "__update__": "2019-09-23T07:17:41.204Z",
+    "__update__": "2024-02-25T14:50:41.920Z",
     "pieceName": "ワンダフル・タイム",
     "illustrator": "―",
     "description": "「ふゅっ!?くすぐったいよぅ…！」＠「お姉さんが遊んでくれたから、マメジ、すごく喜んでますっ」＠「それなら良かった～！私もね、マメジ君と一緒に遊べて嬉しいよ」＠「ワフッ」",
@@ -20538,7 +20538,8 @@
       "shortDescription": "MP自動回復[Ⅰ](自/3T)",
       "id": 130401,
       "intervalTurn": 6,
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "pieceSkill": {
       "art1": {
@@ -20560,7 +20561,8 @@
       "shortDescription": "MP自動回復[Ⅰ](自/3T)",
       "id": 130400,
       "intervalTurn": 8,
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 130401,
     "attack": 0,
@@ -80423,5 +80425,83 @@
     "description": "はるか昔より連綿と続いてきた人の営みの上にある「現在」＠そしてまた、変わらずに営みが続けば見えてくるのが「未来」＠良いことも悪いこともすべてを飲み込んで、この世界は形作られていく　＠誰もが“バトン”を持って生まれ、知らぬ間にそれを誰かに渡していく",
     "illustrator": "―",
     "openDate": "2024/02/05 15:10:00"
+  },
+  "2015": {
+    "pieceId": 2015,
+    "rank": "RANK_4",
+    "__update__": "2024-02-26T07:05:12.539Z",
+    "pieceType": "SKILL",
+    "pieceName": "いつかどこかの私たち",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 1640,
+    "hp": 0,
+    "skillId": 201500,
+    "pieceSkill": {
+      "id": 201500,
+      "groupId": 1094,
+      "name": "アサルトブレイク[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "攻撃力DOWN[Ⅲ] & 与えるダメージDOWN[Ⅲ](敵単/3T)",
+      "messageId": 72,
+      "artId1": 430002003,
+      "art1": {
+        "artId": 430002003,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "TARGET",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 430002203,
+      "art2": {
+        "artId": 430002203,
+        "verbCode": "DEBUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "TARGET",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 201501,
+    "pieceSkill2": {
+      "id": 201501,
+      "groupId": 1094,
+      "name": "アサルトブレイク[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "攻撃力DOWN[Ⅲ] & 与えるダメージDOWN[Ⅲ](敵単/3T)",
+      "messageId": 72,
+      "artId1": 430002003,
+      "art1": {
+        "artId": 430002003,
+        "verbCode": "DEBUFF",
+        "effectCode": "ATTACK",
+        "targetId": "TARGET",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 430002203,
+      "art2": {
+        "artId": 430002203,
+        "verbCode": "DEBUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "TARGET",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "記憶にはなくても、夢に見た覚えがなくても＠あたたかなシーンはまばゆい光に包まれて＠懐かしく刻まれている＠また巡り会えたなら、その時もきっと、笑い合いたい",
+    "illustrator": "―",
+    "openDate": "2024/02/26 15:10:00"
   }
 }

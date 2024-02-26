@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 記憶にはなくても、夢に見た覚えがなくても<br />あたたかなシーンはまばゆい光に包まれて<br />懐かしく刻まれている<br />また巡り会えたなら、その時もきっと、笑い合いたい
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
