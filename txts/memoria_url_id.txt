@@ -1000,5 +1000,12 @@
 2013;Twilight
 2014;This Road Goes On
 2015;Us Somewhere Sometime
+2016;The Electro-Cardiogram Witch
+2017;The Mock Strawberry Witch
+2018;The Smog Witch
+2019;The Wind God Witch
+2020;The Gorget Witch
+2021;The Megaphone Witch
+2022;Dream of Interlude
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

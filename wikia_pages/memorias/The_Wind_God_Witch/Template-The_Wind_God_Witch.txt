@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Wind God Witch
+| ImageSrc = 
+| Event = 
+
+| Jname = 風天の魔女
+| Rarity = 4
+| ID = 2019
+| Illust = 原案・監修：劇団イヌカレー（泥犬）
+| Owner = Hozumi Shizuku
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2100
+| max_ATK = 2400
+| max_DEF = 0
+
+| image = Damage Increase
+| effect_name = Weapon Strike Adept 
+| effect_name_JP = ウェポンストライクアデプト
+| effect1 = 
+| effect2 = Damage Increase [VIII / 40%] & Chance to Critical Hit [IX / 50%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| Cooldown = 
+| Cooldown2 = 
+}}

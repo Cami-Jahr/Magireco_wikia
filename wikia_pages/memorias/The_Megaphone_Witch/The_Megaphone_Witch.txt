@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 規定に縛られた少女は　成り代わりたい本音を　大声で掻き消す<br />己の醜さ　無力感に絶望し　変わり果てるは　盲目の監督者<br />全力を美徳とするがゆえに　歪む認知は　己と他者を破滅させる<br />築き上げた今の喜びを　己が認めることこそ　一抹の希望
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

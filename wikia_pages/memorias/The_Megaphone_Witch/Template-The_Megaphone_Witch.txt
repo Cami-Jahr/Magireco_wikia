@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Megaphone Witch
+| ImageSrc = 
+| Event = 
+
+| Jname = メガホンの魔女
+| Rarity = 4
+| ID = 2021
+| Illust = 原案・監修：劇団イヌカレー（泥犬）
+| Owner = Utsuho Natsuki
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2300
+| max_ATK = 0
+| max_DEF = 2300
+
+| image = Defense Up
+| effect_name = Cheer Adept 
+| effect_name_JP = エール・アデプト
+| effect1 = 
+| effect2 = Defense Up [VII / 52.5%] & Regenerate MP [V / 9 MP] & MP Gain Up [IV / 12.5%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| Cooldown = 
+| Cooldown2 = 
+}}

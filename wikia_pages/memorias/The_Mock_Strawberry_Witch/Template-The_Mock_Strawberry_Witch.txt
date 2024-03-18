@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Mock Strawberry Witch
+| ImageSrc = 
+| Event = 
+
+| Jname = ヘビイチゴの魔女
+| Rarity = 4
+| ID = 2017
+| Illust = 原案・監修：劇団イヌカレー（泥犬）
+| Owner = Kisaki Emiri
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2500
+| max_ATK = 2000
+| max_DEF = 0
+
+| image = Chance to Charm on Attack
+| effect_name = Eyes On Me
+| effect_name_JP = アイズオンミー
+| effect1 = 
+| effect2 = Chance to Charm on Attack [III / 20%] (2 Turns) & Accele MP Gain Up [VI / 22.5%] & MP Gain Up [V / 15%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| Cooldown = 
+| Cooldown2 = 
+}}

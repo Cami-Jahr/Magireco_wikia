@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = そして、フィルムは切り落とされた<br />ここから再生されるのは、繰り返される魔法少女たちの物語<br />共に見届けよう。かつての記憶と、いつか訪れる希望を…<br />（scene0 キービジュアル）
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = ただ憧れた少女は　見捨てられ　何者にもなれない今に悲観する<br />移ろいを否定した先に　迎え入れたのは　己ではない何か<br />己が何かも忘れた未熟な果実は　人を惑わせ　虜にする<br />想望を捨て　意志を思い起こすことが　自戒の一歩
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

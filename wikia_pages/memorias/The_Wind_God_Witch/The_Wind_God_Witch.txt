@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 抗えぬ別れを経験した少女は　居場所を求めて　世界をさすらう<br />温もりに手が届いても　己には過ぎたものと諦める　空虚な心<br />終着地を求める獣となるも　どこへも辿り着けない<br />己の内に　存在する在処を知ることが　一所に留まれる懸橋
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

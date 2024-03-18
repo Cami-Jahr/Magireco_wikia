@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Dream of Interlude
+| ImageSrc = 
+| Event = 
+
+| Jname = 幕間の夢
+| Rarity = 4
+| ID = 2022
+| Illust = 谷口淳一郎
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2050
+| max_ATK = 0
+| max_DEF = 2050
+
+| image = Attack Up
+| effect_name = Attack Up Circle 
+| effect_name_JP = アタックアップ・サークル
+| effect1 = 
+| effect2 = Attack Up [IV / 20%] (Allies / 1 Turn)
+| Cooldown = 
+| Cooldown2 = 10
+}}

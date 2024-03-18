@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 清きゆえに迷いを持つ少女は　人の悪意を体感し　倫理の果てに向かう<br />誰の声も聞こえず　己が思考に囚われ　行き着く先は　曲解の極地<br />独善に満たされた心に　人格を破壊する呪いを　芽生えさせる<br />親愛なる者の　壊れた姿を思い描くことが　立ち返る一条の光
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

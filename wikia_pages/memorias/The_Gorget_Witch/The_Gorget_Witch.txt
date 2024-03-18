@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 騎士でありたい少女は　無意識に　己が賞賛を求めている<br />打算は悪と拒んでも　道に惑うだけ　途方もない救助に　消耗する魂<br />誰もに距離を置かれても　慢心する隊長だけは　気づかない<br />原点回帰は　過去と未来を繋ぐ　奉仕の真価を見出す一手
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

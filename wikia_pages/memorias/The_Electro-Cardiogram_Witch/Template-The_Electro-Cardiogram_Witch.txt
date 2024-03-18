@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Electro-Cardiogram Witch
+| ImageSrc = 
+| Event = 
+
+| Jname = 心電図の魔女
+| Rarity = 4
+| ID = 2016
+| Illust = 原案・監修：劇団イヌカレー（泥犬）
+| Owner = Isuzu Ren
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2500
+| max_ATK = 2000
+| max_DEF = 0
+
+| image = Magia Damage Up
+| effect_name = Adrenaline Rush
+| effect_name_JP = アドレナリンラッシュ
+| effect1 = 
+| effect2 = Magia Damage Up [IX / 25%] (Self / 1 Turn) & MP Restore [XX / 100 MP] (Self) & Receive Damage [80.1%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| Cooldown = 
+| Cooldown2 = 7
+}}

@@ -359,6 +359,9 @@ jp_to_en = {
     "ジアンサー": "The Answer",
     "バタリングラム": "Battering Ram",
     "アドレナリンラッシュ": "Adrenaline Rush",
+    "グレートシールド": "Great Shield",
+    "アイズオンミー": "Eyes On Me",
+    "デッドリーポイズン": "Deadly Poison",
     "アンチ": "Anti",
     "・": " ",
     "[": " [",
@@ -500,7 +503,8 @@ jp_to_en = {
     "リフレクション": "Reflection",
     "ファランクス": "Phalanx",
     "イグノア": "Ignore",
-    "ボーカル": "Vocals"
+    "ボーカル": "Vocals",
+    "エール": "Cheer"
 }
 
 # Subset of good effects that might be chance to happen

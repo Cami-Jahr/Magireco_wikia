@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 探究心に貪欲な少女は　理想との乖離に傷つき　一線を越える<br />小さな体に育んだ　膨大な希望を断った　背伸び薬<br />生み落とされた猛毒は　生ける者全てを死滅させる<br />己を受け入れ　伸びしろを知ることが　追考の一助
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
