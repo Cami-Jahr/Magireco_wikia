@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Doppel Explosion!
+| ImageSrc = 
+| Event = 
+
+| Jname = ドッペル炸裂！
+| Rarity = 4
+| ID = 2023
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 902
+| min_ATK = 0
+| min_DEF = 902
+| max_HP = 2255
+| max_ATK = 0
+| max_DEF = 2255
+
+| image = Doppel Damage Up
+| effect_name = Doppel Explosion!
+| effect_name_JP = ドッペル炸裂！
+| effect1 = Doppel Damage Up [VIII / 40%] & Magia Damage Up [VII / 20%] (Self / 1 Turn)
+| effect2 = Doppel Damage Up [IX / 45%] & Magia Damage Up [VIII / 22.5%] (Self / 1 Turn)
+| Cooldown = 7
+| Cooldown2 = 6
+}}

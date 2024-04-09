@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「いろはと戦うことになるなんて…でも、やるからには負けないわ」<br />「私も手加減しません！赤組代表として全力を出します！」<br />「ふっふーん！治安の悪さだけなら白組も負けないよ！」<br />「アウトローの青組が言うのもなんだけど…それは誇るとこなのぉ？」
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

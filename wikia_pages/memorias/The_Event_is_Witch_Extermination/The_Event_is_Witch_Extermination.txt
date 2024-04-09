@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「あの、芋ジャージ着てる魔女はわたしが一番に狩る！」<br />「主人公の名にかけてまどか先輩には負けられません！ここは私が！」<br />「あっ…魔女がロープを伝って逃げていく…！」<br />「ならロープをチョキン！で一番は私…って、思ってたよりデカ！？」
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

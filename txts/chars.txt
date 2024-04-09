@@ -106,6 +106,7 @@
 2104;Madoka & Iroha
 2105;Kaname Madoka (scene0 ver.)
 2106;Kaname Madoka (Mizugi ver.)
+2107;Madoka-senpai & Iroha-chan
 2201;Akuma Homura-chan
 2202;Devil Homura
 2203;Akemi Homura (Haregi ver.)

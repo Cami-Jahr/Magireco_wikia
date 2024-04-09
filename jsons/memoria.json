@@ -69243,7 +69243,7 @@
   "1882": {
     "pieceId": 1882,
     "rank": "RANK_4",
-    "__update__": "2023-06-09T07:14:58.213Z",
+    "__update__": "2024-04-01T07:11:38.045Z",
     "pieceType": "SKILL",
     "pieceKind": "EVENT",
     "pieceName": "直列コネクト",
@@ -69281,14 +69281,14 @@
         "enableTurn": 1,
         "growPoint": 0
       },
-      "eventId": 1189,
-      "eventArtId1": 1189003,
+      "eventId": 1211,
+      "eventArtId1": 1211003,
       "eventArt1": {
-        "artId": 1189003,
+        "artId": 1211003,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 5000,
-        "genericValue": "EVENT_DAILYTOWER_1189_KEY"
+        "genericValue": "EVENT_DAILYTOWER_1211_KEY"
       },
       "eventDescription": "＆「from外宇宙」追加獲得数＋5",
       "skillEffectRange": "ALL",
@@ -69324,14 +69324,14 @@
         "enableTurn": 1,
         "growPoint": 0
       },
-      "eventId": 1189,
-      "eventArtId1": 1189004,
+      "eventId": 1211,
+      "eventArtId1": 1211004,
       "eventArt1": {
-        "artId": 1189004,
+        "artId": 1211004,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 15000,
-        "genericValue": "EVENT_DAILYTOWER_1189_KEY"
+        "genericValue": "EVENT_DAILYTOWER_1211_KEY"
       },
       "eventDescription": "＆「from外宇宙」追加獲得数＋15",
       "skillEffectRange": "ALL",
@@ -69418,7 +69418,7 @@
   "1884": {
     "pieceId": 1884,
     "rank": "RANK_3",
-    "__update__": "2023-06-09T07:08:34.501Z",
+    "__update__": "2024-04-01T07:11:38.039Z",
     "pieceType": "SKILL",
     "pieceKind": "EVENT",
     "pieceName": "私の可能性",
@@ -69455,14 +69455,14 @@
         "growPoint": 0,
         "probability": 1000
       },
-      "eventId": 1189,
-      "eventArtId1": 1189001,
+      "eventId": 1211,
+      "eventArtId1": 1211001,
       "eventArt1": {
-        "artId": 1189001,
+        "artId": 1211001,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 1000,
-        "genericValue": "EVENT_DAILYTOWER_1189_KEY"
+        "genericValue": "EVENT_DAILYTOWER_1211_KEY"
       },
       "eventDescription": "＆「from外宇宙」追加獲得数＋1",
       "skillEffectRange": "ALL",
@@ -69497,14 +69497,14 @@
         "growPoint": 0,
         "probability": 1000
       },
-      "eventId": 1189,
-      "eventArtId1": 1189002,
+      "eventId": 1211,
+      "eventArtId1": 1211002,
       "eventArt1": {
-        "artId": 1189002,
+        "artId": 1211002,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 5000,
-        "genericValue": "EVENT_DAILYTOWER_1189_KEY"
+        "genericValue": "EVENT_DAILYTOWER_1211_KEY"
       },
       "eventDescription": "＆「from外宇宙」追加獲得数＋5",
       "skillEffectRange": "ALL",
@@ -81751,5 +81751,286 @@
     "description": "そして、フィルムは切り落とされた＠ここから再生されるのは、繰り返される魔法少女たちの物語＠共に見届けよう。かつての記憶と、いつか訪れる希望を…＠（scene0 キービジュアル）",
     "illustrator": "谷口淳一郎",
     "openDate": "2024/03/18 15:10:00"
+  },
+  "2023": {
+    "pieceId": 2023,
+    "rank": "RANK_4",
+    "__update__": "2024-04-08T07:26:02.119Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "ドッペル炸裂！",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 902,
+    "hp": 902,
+    "skillId": 202300,
+    "pieceSkill": {
+      "id": 202300,
+      "groupId": 1220,
+      "name": "ドッペル炸裂！",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "ドッペルダメージUP[Ⅷ] & マギアダメージUP[Ⅶ](自/1T)",
+      "messageId": 70,
+      "artId1": 310218308,
+      "art1": {
+        "artId": 310218308,
+        "verbCode": "BUFF",
+        "effectCode": "DOPPEL",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "enableTurn": 1,
+        "growPoint": 0
+      },
+      "artId2": 310201407,
+      "art2": {
+        "artId": 310201407,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1212,
+      "eventArtId1": 1212003,
+      "eventArt1": {
+        "artId": 1212003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1212_EXCHANGE_1"
+      },
+      "eventDescription": "＆「金メダル」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 202301,
+    "pieceSkill2": {
+      "id": 202301,
+      "groupId": 1220,
+      "name": "ドッペル炸裂！",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "ドッペルダメージUP[Ⅸ] & マギアダメージUP[Ⅷ](自/1T)",
+      "messageId": 70,
+      "artId1": 310218309,
+      "art1": {
+        "artId": 310218309,
+        "verbCode": "BUFF",
+        "effectCode": "DOPPEL",
+        "targetId": "SELF",
+        "effectValue": 450,
+        "enableTurn": 1,
+        "growPoint": 0
+      },
+      "artId2": 310201408,
+      "art2": {
+        "artId": 310201408,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "eventId": 1212,
+      "eventArtId1": 1212004,
+      "eventArt1": {
+        "artId": 1212004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1212_EXCHANGE_1"
+      },
+      "eventDescription": "＆「金メダル」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「50連ガチャ爆死！？こうなったら…いろはちゃん！」＠「はい！私はエブリデイ爆死なので、いつでも準備OKです！」＠「「せーのっ…ドッペル・ツープラトン！！」」 ＠絶望が最高潮に高まると、ふたりは最凶の魔法少女へと変貌する",
+    "illustrator": "PAPA",
+    "openDate": "2024/04/08 15:10:00"
+  },
+  "2024": {
+    "pieceId": 2024,
+    "rank": "RANK_3",
+    "__update__": "2024-04-08T12:15:40.885Z",
+    "pieceName": "種目は魔女退治",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 712,
+    "defense": 0,
+    "hp": 622,
+    "skillId": 202400,
+    "pieceSkill": {
+      "id": 202400,
+      "groupId": 1213,
+      "name": "種目は魔女退治",
+      "type": "ABILITY",
+      "shortDescription": "対魔女ダメージアップ[Ⅳ] & ダメージアップ状態[Ⅰ]",
+      "artId1": 690216804,
+      "art1": {
+        "artId": 690216804,
+        "verbCode": "LIMITED_ENEMY_TYPE",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 15,
+        "probability": 1000,
+        "genericValue": "WITCH"
+      },
+      "artId2": 690206101,
+      "art2": {
+        "artId": 690206101,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 202401,
+    "pieceSkill2": {
+      "id": 202401,
+      "groupId": 1213,
+      "name": "種目は魔女退治",
+      "type": "ABILITY",
+      "shortDescription": "対魔女ダメージアップ[Ⅴ] & ダメージアップ状態[Ⅱ]",
+      "artId1": 690216805,
+      "art1": {
+        "artId": 690216805,
+        "verbCode": "LIMITED_ENEMY_TYPE",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 15,
+        "probability": 1000,
+        "genericValue": "WITCH"
+      },
+      "artId2": 690206102,
+      "art2": {
+        "artId": 690206102,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「あの、芋ジャージ着てる魔女はわたしが一番に狩る！」＠「主人公の名にかけてまどか先輩には負けられません！ここは私が！」＠「あっ…魔女がロープを伝って逃げていく…！」＠「ならロープをチョキン！で一番は私…って、思ってたよりデカ！？」",
+    "illustrator": "PAPA",
+    "openDate": "2024/04/08 15:10:00"
+  },
+  "2025": {
+    "pieceId": 2025,
+    "rank": "RANK_4",
+    "__update__": "2024-04-08T07:06:34.521Z"
+  },
+  "2026": {
+    "pieceId": 2026,
+    "rank": "RANK_3",
+    "__update__": "2024-04-08T07:26:02.105Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "集結の好敵手",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 590,
+    "hp": 650,
+    "skillId": 202600,
+    "pieceSkill": {
+      "id": 202600,
+      "groupId": 1128,
+      "name": "集結の好敵手",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "確率で挑発[88] & 確率でカウンター[88](自/1T)",
+      "messageId": 70,
+      "artId1": 8164,
+      "art1": {
+        "artId": 8164,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROVOKE",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 880
+      },
+      "artId2": 8165,
+      "art2": {
+        "artId": 8165,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "COUNTER",
+        "targetId": "SELF",
+        "effectValue": 800,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 880
+      },
+      "eventId": 1212,
+      "eventArtId1": 1212001,
+      "eventArt1": {
+        "artId": 1212001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1212_EXCHANGE_1"
+      },
+      "eventDescription": "＆「金メダル」追加獲得数＋1",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 202601,
+    "pieceSkill2": {
+      "id": 202601,
+      "groupId": 1128,
+      "name": "集結の好敵手",
+      "type": "SKILL",
+      "intervalTurn": 8,
+      "shortDescription": "確率で挑発[88] & 確率でカウンター[88](自/1T)",
+      "messageId": 70,
+      "artId1": 8164,
+      "art1": {
+        "artId": 8164,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROVOKE",
+        "targetId": "SELF",
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 880
+      },
+      "artId2": 8165,
+      "art2": {
+        "artId": 8165,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "COUNTER",
+        "targetId": "SELF",
+        "effectValue": 800,
+        "enableTurn": 1,
+        "growPoint": 0,
+        "probability": 880
+      },
+      "eventId": 1212,
+      "eventArtId1": 1212002,
+      "eventArt1": {
+        "artId": 1212002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1212_EXCHANGE_1"
+      },
+      "eventDescription": "＆「金メダル」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「いろはと戦うことになるなんて…でも、やるからには負けないわ」＠「私も手加減しません！赤組代表として全力を出します！」＠「ふっふーん！治安の悪さだけなら白組も負けないよ！」＠「アウトローの青組が言うのもなんだけど…それは誇るとこなのぉ？」",
+    "illustrator": "PAPA",
+    "openDate": "2024/04/08 15:10:00"
   }
 }

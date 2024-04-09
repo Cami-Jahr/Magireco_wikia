@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Event is Witch Extermination
+| ImageSrc = 
+| Event = 
+
+| Jname = 種目は魔女退治
+| Rarity = 3
+| ID = 2024
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 622
+| min_ATK = 712
+| min_DEF = 0
+| max_HP = 1555
+| max_ATK = 1780
+| max_DEF = 0
+
+| image = Damage Up Versus Witches
+| effect_name = The Event is Witch Extermination
+| effect_name_JP = 種目は魔女退治
+| effect1 = Damage Up Versus Witches [IV / 20%] & Damage Increase [I / 5%]
+| effect2 = Damage Up Versus Witches [V / 25%] & Damage Increase [II / 10%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -1007,5 +1007,8 @@
 2020;The Gorget Witch
 2021;The Megaphone Witch
 2022;Dream of Interlude
+2023;Doppel Explosion!
+2024;The Event is Witch Extermination
+2026;Gathering Rivals
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection
