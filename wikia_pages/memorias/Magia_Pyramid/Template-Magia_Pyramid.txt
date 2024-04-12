@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Magia Pyramid
+| ImageSrc = 
+| Event = 
+
+| Jname = マギアピラミッド
+| Rarity = 4
+| ID = 2025
+| Illust = PAPA
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 1950
+| max_ATK = 2150
+| max_DEF = 0
+
+| image = Episode Up
+| effect_name = Magia Pyramid
+| effect_name_JP = マギアピラミッド
+| effect1 = 
+| effect2 = Episode Experience Gain Increased [V / 35%] & Magia Damage Up [VI / 17.5%]
+| Cooldown = 
+| Cooldown2 = 
+}}

@@ -94,7 +94,8 @@ def template_format(_id: int, Ename: str, stats=""):
         hp2 = attack2 = defence2 = ""
     if only_max_level:
         hp = attack = defence = en_full_description1 = cooldown1 = ""
-
+    if icon == "Episode Experience Gain Increased":
+        icon = "Episode Up"
     return template_header + \
         template_body.format(
             Ename, rank, piece_name_jp, illustrator, owner, hp, hp2, attack, attack2, defence, defence2, icon, skill_name_en, skill_name_jp, en_full_description1,

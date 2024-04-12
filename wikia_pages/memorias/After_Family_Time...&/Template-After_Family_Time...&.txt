@@ -16,7 +16,7 @@
 | max_ATK = 1948
 | max_DEF = 0
 
-| image = Episode Experience Gain Increased
+| image = Episode Up
 | effect_name = Episode Bloom Adept 
 | effect_name_JP = エピソードブルーム・アデプト
 | effect1 = 

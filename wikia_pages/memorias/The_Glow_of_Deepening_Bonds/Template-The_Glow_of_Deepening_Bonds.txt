@@ -16,7 +16,7 @@
 | max_ATK = 2245
 | max_DEF = 0
 
-| image = Episode Experience Gain Increased
+| image = Episode Up
 | effect_name = Heart Warm Adept 
 | effect_name_JP = ハートウォーム・アデプト
 | effect1 = 

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「この形、なんだか吾の大好物タケノコに似てるのだ！」<br />「それならチーズのほうが似てるのです！マミもきっと同じです！」<br />「うーん、私はショートケーキに見えるわね」<br />年頃の女子が集まれば競技は二の次。食べ物の話題に花が咲く
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

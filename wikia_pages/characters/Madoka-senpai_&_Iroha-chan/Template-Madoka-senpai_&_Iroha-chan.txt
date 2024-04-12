@@ -84,7 +84,7 @@
 | Passive 8 effect = MP Gain Up [III / 10%]
 
 | Passive 9 icon = Anti-Bind
-| Passive 9 name = ダブルプレッシャー
+| Passive 9 name = Double Pressure
 | Passive 9 name JP = ダブルプレッシャー
 | Passive 9 effect = Anti-Bind & Anti-Stun
 
@@ -104,7 +104,7 @@
 | Passive 12 effect = Light Attribute Attack Up [III / 10%] & Regenerate MP [III / 5 MP] (Allies / ∞ Turns on Battle Start)
 
 | Active 1 icon = Chance to Stun
-| Active 1 name = 私の考えたMagiaレコード
+| Active 1 name = My Thought of Magia Record
 | Active 1 name JP = 私の考えたマギアレコード
 | Active 1 effect = Chance to Stun [100%] (All Enemies / 1 Turn) & Regenerate MP [X / 12 MP] (Allies / 1 Turn)
 | Active 1 cooldown = 8

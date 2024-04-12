@@ -16,7 +16,7 @@
 | max_ATK = 2215
 | max_DEF = 0
 
-| image = Episode Experience Gain Increased
+| image = Episode Up
 | effect_name = The Memory of a Lifetime Called Today
 | effect_name_JP = 今日という一生の思い出
 | effect1 = Episode Experience Gain Increased [II / 20%] & Attack Up [I / 5%]

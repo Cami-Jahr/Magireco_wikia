@@ -366,6 +366,8 @@ jp_to_en = {
     "種目は魔女退治": "The Event is Witch Extermination",
     "ダブルプレッシャー": "Double Pressure",
     "集結の好敵手": "Gathering Rivals",
+    "私の考えたマギアレコード": "My Thought of Magia Record",
+    "マギアピラミッド": "Magia Pyramid",
     "アンチ": "Anti",
     "・": " ",
     "[": " [",

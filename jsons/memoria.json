@@ -81930,7 +81930,74 @@
   "2025": {
     "pieceId": 2025,
     "rank": "RANK_4",
-    "__update__": "2024-04-08T07:06:34.521Z"
+    "__update__": "2024-04-12T15:20:34.698Z",
+    "pieceName": "マギアピラミッド",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 860,
+    "defense": 0,
+    "hp": 780,
+    "skillId": 202500,
+    "pieceSkill": {
+      "id": 202500,
+      "groupId": 1173,
+      "name": "マギアピラミッド",
+      "type": "ABILITY",
+      "shortDescription": "獲得エピソードポイントUP[Ⅴ] & マギアダメージUP[Ⅵ]",
+      "artId1": 700216305,
+      "art1": {
+        "artId": 700216305,
+        "verbCode": "OTHER",
+        "effectCode": "EPISODE_UP",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "growPoint": 0
+      },
+      "artId2": 390201406,
+      "art2": {
+        "artId": 390201406,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 202501,
+    "pieceSkill2": {
+      "id": 202501,
+      "groupId": 1173,
+      "name": "マギアピラミッド",
+      "type": "ABILITY",
+      "shortDescription": "獲得エピソードポイントUP[Ⅴ] & マギアダメージUP[Ⅵ]",
+      "artId1": 700216305,
+      "art1": {
+        "artId": 700216305,
+        "verbCode": "OTHER",
+        "effectCode": "EPISODE_UP",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "growPoint": 0
+      },
+      "artId2": 390201406,
+      "art2": {
+        "artId": 390201406,
+        "verbCode": "BUFF",
+        "effectCode": "MAGIA",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「この形、なんだか吾の大好物タケノコに似てるのだ！」＠「それならチーズのほうが似てるのです！マミもきっと同じです！」＠「うーん、私はショートケーキに見えるわね」＠年頃の女子が集まれば競技は二の次。食べ物の話題に花が咲く",
+    "illustrator": "PAPA",
+    "openDate": "2024/04/08 15:10:00"
   },
   "2026": {
     "pieceId": 2026,

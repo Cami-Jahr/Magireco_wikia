@@ -1009,6 +1009,7 @@
 2022;Dream of Interlude
 2023;Doppel Explosion!
 2024;The Event is Witch Extermination
+2025;Magia Pyramid
 2026;Gathering Rivals
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection
