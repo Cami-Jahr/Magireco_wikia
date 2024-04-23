@@ -17977,16 +17977,16 @@
         "enableTurn": 2,
         "growPoint": 25
       },
-      "eventId": 1040,
-      "eventArtId1": 1040003,
+      "eventId": 1213,
+      "eventArtId1": 1213003,
       "eventArt1": {
-        "artId": 1040003,
+        "artId": 1213003,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
-        "effectValue": 3000,
-        "genericValue": "EVENT_DAILYTOWER_1040_KEY"
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1213_KEY"
       },
-      "eventDescription": "＆回数券＋3",
+      "eventDescription": "＆「回数券」追加獲得数＋5",
       "skillEffectRange": "ALL",
       "skillDisplayType": "MEMORIA"
     },
@@ -18029,16 +18029,16 @@
         "enableTurn": 2,
         "growPoint": 25
       },
-      "eventId": 1040,
-      "eventArtId1": 1040004,
+      "eventId": 1213,
+      "eventArtId1": 1213004,
       "eventArt1": {
-        "artId": 1040004,
+        "artId": 1213004,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
-        "effectValue": 7000,
-        "genericValue": "EVENT_DAILYTOWER_1040_KEY"
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1213_KEY"
       },
-      "eventDescription": "＆回数券＋7",
+      "eventDescription": "＆「回数券」追加獲得数＋15",
       "skillEffectRange": "ALL",
       "skillDisplayType": "MEMORIA"
     },
@@ -18046,7 +18046,7 @@
     "illustrator": "谷口淳一郎",
     "openDate": "2018/10/29 15:10:00",
     "pieceKind": "EVENT",
-    "__update__": "2023-06-09T07:26:42.158Z"
+    "__update__": "2024-04-22T07:26:41.316Z"
   },
   "1271": {
     "pieceId": 1271,
@@ -18236,16 +18236,16 @@
         "growPoint": 20,
         "probability": 1000
       },
-      "eventId": 1040,
-      "eventArtId1": 1040001,
+      "eventId": 1213,
+      "eventArtId1": 1213001,
       "eventArt1": {
-        "artId": 1040001,
+        "artId": 1213001,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 1000,
-        "genericValue": "EVENT_DAILYTOWER_1040_KEY"
+        "genericValue": "EVENT_DAILYTOWER_1213_KEY"
       },
-      "eventDescription": "＆回数券＋1",
+      "eventDescription": "＆「回数券」追加獲得数＋1",
       "skillEffectRange": "ALL",
       "skillDisplayType": "MEMORIA"
     },
@@ -18276,16 +18276,16 @@
         "growPoint": 20,
         "probability": 1000
       },
-      "eventId": 1040,
-      "eventArtId1": 1040002,
+      "eventId": 1213,
+      "eventArtId1": 1213002,
       "eventArt1": {
-        "artId": 1040002,
+        "artId": 1213002,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
-        "effectValue": 3000,
-        "genericValue": "EVENT_DAILYTOWER_1040_KEY"
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1213_KEY"
       },
-      "eventDescription": "＆回数券＋3",
+      "eventDescription": "＆「回数券」追加獲得数＋5",
       "skillEffectRange": "ALL",
       "skillDisplayType": "MEMORIA"
     },
@@ -18293,7 +18293,7 @@
     "illustrator": "いもあん",
     "openDate": "2018/10/29 15:10:00",
     "pieceKind": "EVENT",
-    "__update__": "2023-06-09T07:08:34.428Z"
+    "__update__": "2024-04-22T07:26:41.315Z"
   },
   "1274": {
     "pieceId": 1274,
@@ -82099,5 +82099,243 @@
     "description": "「いろはと戦うことになるなんて…でも、やるからには負けないわ」＠「私も手加減しません！赤組代表として全力を出します！」＠「ふっふーん！治安の悪さだけなら白組も負けないよ！」＠「アウトローの青組が言うのもなんだけど…それは誇るとこなのぉ？」",
     "illustrator": "PAPA",
     "openDate": "2024/04/08 15:10:00"
+  },
+  "2027": {
+    "pieceId": 2027,
+    "rank": "RANK_3",
+    "__update__": "2024-04-22T07:34:20.206Z",
+    "pieceType": "SKILL",
+    "pieceName": "なくさなきゃ",
+    "attributeId": "ALL",
+    "charaIds": "3901",
+    "charaList": [
+      {
+        "charaId": 3901,
+        "name": "ユゥ"
+      }
+    ],
+    "attack": 400,
+    "defense": 0,
+    "hp": 568,
+    "skillId": 202700,
+    "pieceSkill": {
+      "id": 202700,
+      "groupId": 1161,
+      "name": "モノポライズドロー",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "自分のDiscドロー",
+      "messageId": 70,
+      "artId1": 700211700,
+      "art1": {
+        "artId": 700211700,
+        "verbCode": "DRAW",
+        "effectCode": "CHARACTER",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 202701,
+    "pieceSkill2": {
+      "id": 202701,
+      "groupId": 1161,
+      "name": "モノポライズドロー",
+      "type": "SKILL",
+      "intervalTurn": 4,
+      "shortDescription": "自分のDiscドロー",
+      "messageId": 70,
+      "artId1": 700211700,
+      "art1": {
+        "artId": 700211700,
+        "verbCode": "DRAW",
+        "effectCode": "CHARACTER",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "ワタシの大事な大事な“お仕事”は＠ひとりずつ、ひとりずつ、暗闇へ引き込んで＠きれいさっぱりなくしたら、リストの名前を消していく＠これは良いこと…シィにとっても、ワタシにとっても",
+    "illustrator": "都筑禰己",
+    "openDate": "2024/04/22 15:10:00"
+  },
+  "2028": {
+    "pieceId": 2028,
+    "rank": "RANK_4",
+    "__update__": "2024-04-22T07:26:41.316Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "夢と現の狭間で",
+    "attributeId": "ALL",
+    "attack": 942,
+    "defense": 0,
+    "hp": 822,
+    "skillId": 202800,
+    "pieceSkill": {
+      "id": 202800,
+      "groupId": 1119,
+      "name": "アディクトスレイヤー・アデプト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "ダメージアップ状態[Ⅴ] & 敵状態異常時ダメージUP[Ⅳ]",
+      "artId1": 690206105,
+      "art1": {
+        "artId": 690206105,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690214604,
+      "art2": {
+        "artId": 690214604,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP_BAD",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1213,
+      "eventArtId1": 1213003,
+      "eventArt1": {
+        "artId": 1213003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1213_KEY"
+      },
+      "eventDescription": "＆「回数券」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 202801,
+    "pieceSkill2": {
+      "id": 202801,
+      "groupId": 1119,
+      "name": "アディクトスレイヤー・アデプト[Ⅵ]",
+      "type": "ABILITY",
+      "shortDescription": "ダメージアップ状態[Ⅵ] & 敵状態異常時ダメージUP[Ⅴ]",
+      "artId1": 690206106,
+      "art1": {
+        "artId": 690206106,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 690214605,
+      "art2": {
+        "artId": 690214605,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP_BAD",
+        "targetId": "SELF",
+        "effectValue": 350,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1213,
+      "eventArtId1": 1213004,
+      "eventArt1": {
+        "artId": 1213004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1213_KEY"
+      },
+      "eventDescription": "＆「回数券」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "夢と現の間には、誰もが見える境界線などない＠今が夢なのか、現実なのか、どちらであると言い切れる確証はない＠だったら、夢見るように現を渡り、現のような夢を見る＠やがて夢と現は溶け合って、何もかもが曖昧になる",
+    "illustrator": "―",
+    "openDate": "2024/04/22 15:10:00"
+  },
+  "2029": {
+    "pieceId": 2029,
+    "rank": "RANK_3",
+    "__update__": "2024-04-22T11:37:56.092Z",
+    "pieceName": "軽やかなる狂気",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 682,
+    "hp": 682,
+    "skillId": 202900,
+    "pieceSkill": {
+      "id": 202900,
+      "groupId": 1085,
+      "name": "アディクトスイーパー[Ⅱ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "攻撃力UP[Ⅱ] & 敵状態異常時ダメージUP[Ⅲ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201102,
+      "art1": {
+        "artId": 310201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 610214603,
+      "art2": {
+        "artId": 610214603,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP_BAD",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 1,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 202901,
+    "pieceSkill2": {
+      "id": 202901,
+      "groupId": 1085,
+      "name": "アディクトスイーパー[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "攻撃力UP[Ⅲ] & 敵状態異常時ダメージUP[Ⅳ](自/1T)",
+      "messageId": 70,
+      "artId1": 310201103,
+      "art1": {
+        "artId": 310201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId2": 610214604,
+      "art2": {
+        "artId": 610214604,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP_BAD",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 1,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "微笑をたたえながら少女は話しかけてきた＠語り口は明るく軽く、しかしその内容は暗く重く＠やがて彼女の笑顔が乾ききっていることに気づく＠そして、彼女からはもう、決して逃れることはできない",
+    "illustrator": "―",
+    "openDate": "2024/04/22 15:10:00"
   }
 }

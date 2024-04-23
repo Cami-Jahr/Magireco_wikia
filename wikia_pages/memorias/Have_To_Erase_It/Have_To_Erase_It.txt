@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = ワタシの大事な大事な“お仕事”は<br />ひとりずつ、ひとりずつ、暗闇へ引き込んで<br />きれいさっぱりなくしたら、リストの名前を消していく<br />これは良いこと…シィにとっても、ワタシにとっても
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

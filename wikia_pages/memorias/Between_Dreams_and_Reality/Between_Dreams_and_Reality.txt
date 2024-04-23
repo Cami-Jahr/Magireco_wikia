@@ -1,0 +1,11 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 夢と現の間には、誰もが見える境界線などない<br />今が夢なのか、現実なのか、どちらであると言い切れる確証はない<br />だったら、夢見るように現を渡り、現のような夢を見る<br />やがて夢と現は溶け合って、何もかもが曖昧になる
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 5 Bonus (Item Name)
+** Max Limit Break: Gain 15 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

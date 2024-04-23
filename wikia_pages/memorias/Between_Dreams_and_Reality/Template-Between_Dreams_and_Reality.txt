@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Between Dreams and Reality
+| ImageSrc = 
+| Event = 
+
+| Jname = 夢と現の狭間で
+| Rarity = 4
+| ID = 2028
+| Illust = -
+| Owner = 
+
+| min_HP = 822
+| min_ATK = 942
+| min_DEF = 0
+| max_HP = 2055
+| max_ATK = 2355
+| max_DEF = 0
+
+| image = Damage Increase
+| effect_name = Addict Slayer Adept 
+| effect_name_JP = アディクトスレイヤー・アデプト
+| effect1 = Damage Increase [V / 25%] & Damage Up Versus Enemies Affected With Status Ailments [IV / 30%]
+| effect2 = Damage Increase [VI / 30%] & Damage Up Versus Enemies Affected With Status Ailments [V / 35%]
+| Cooldown = 
+| Cooldown2 = 
+}}

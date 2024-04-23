@@ -368,6 +368,7 @@ jp_to_en = {
     "集結の好敵手": "Gathering Rivals",
     "私の考えたマギアレコード": "My Thought of Magia Record",
     "マギアピラミッド": "Magia Pyramid",
+    "アディクトスイーパー": "Addict Sweeper",
     "アンチ": "Anti",
     "・": " ",
     "[": " [",
@@ -398,7 +399,7 @@ jp_to_en = {
     "スマイト": "Smite",
     "ディープ": "Deep",
     "リフレッシュ": "Refresh",
-    "スタブ": "Stub",
+    "スタブ": "Stab",
     "ブルーム": "Bloom",
     "ジャマ―": "Jammer",
     "フォース": "Force",
@@ -510,7 +511,11 @@ jp_to_en = {
     "ファランクス": "Phalanx",
     "イグノア": "Ignore",
     "ボーカル": "Vocals",
-    "エール": "Cheer"
+    "エール": "Cheer",
+    "マッドネス": "Madness",
+    "エリミネイター": "Eliminator",
+    "ワイズ": "Wise",
+    "バトル": "Battle"
 }
 
 # Subset of good effects that might be chance to happen

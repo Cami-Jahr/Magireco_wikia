@@ -17,7 +17,7 @@
 | max_DEF = 0
 
 | image = Counter
-| effect_name = バトルワイズ 
+| effect_name = Madness Wise 
 | effect_name_JP = バトルワイズ
 | effect1 = Strengthened Counter [VI / 35%] & Chance to Provoke [VI / 35%]
 | effect2 = Strengthened Counter [VII / 40%] & Chance to Provoke [VII / 40%]

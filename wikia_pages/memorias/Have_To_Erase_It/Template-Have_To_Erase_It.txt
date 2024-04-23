@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Have To Erase It
+| ImageSrc = 
+| Event = 
+
+| Jname = なくさなきゃ
+| Rarity = 3
+| ID = 2027
+| Illust = 都筑禰己
+| Owner = Yuu
+
+| min_HP = 568
+| min_ATK = 400
+| min_DEF = 0
+| max_HP = 1420
+| max_ATK = 1000
+| max_DEF = 0
+
+| image = Monopolize Draw
+| effect_name = Monopolize Draw
+| effect_name_JP = モノポライズドロー
+| effect1 = Monopolize Draw
+| effect2 = Monopolize Draw
+| Cooldown = 5
+| Cooldown2 = 4
+}}

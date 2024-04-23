@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Light Madness
+| ImageSrc = 
+| Event = 
+
+| Jname = 軽やかなる狂気
+| Rarity = 3
+| ID = 2029
+| Illust = -
+| Owner = 
+
+| min_HP = 682
+| min_ATK = 0
+| min_DEF = 682
+| max_HP = 1705
+| max_ATK = 0
+| max_DEF = 1705
+
+| image = Attack Up
+| effect_name = Addict Sweeper 
+| effect_name_JP = アディクトスイーパー
+| effect1 = Attack Up [II / 10%] & Damage Up Versus Enemies Affected With Status Ailments [III / 25%] (Self / 1 Turn)
+| effect2 = Attack Up [III / 15%] & Damage Up Versus Enemies Affected With Status Ailments [IV / 30%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

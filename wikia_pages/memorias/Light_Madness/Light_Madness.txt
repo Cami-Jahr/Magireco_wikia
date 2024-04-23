@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 微笑をたたえながら少女は話しかけてきた<br />語り口は明るく軽く、しかしその内容は暗く重く<br />やがて彼女の笑顔が乾ききっていることに気づく<br />そして、彼女からはもう、決して逃れることはできない
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
