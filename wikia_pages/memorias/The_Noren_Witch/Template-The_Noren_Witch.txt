@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Noren Witch
+| ImageSrc = 
+| Event = 
+
+| Jname = 暖簾の魔女
+| Rarity = 4
+| ID = 2033
+| Illust = 原案・監修：劇団イヌカレー（泥犬）
+| Owner = Tokiwa Nanaka
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2300
+| max_ATK = 2200
+| max_DEF = 0
+
+| image = Blast MP Gain Up
+| effect_name = A Morale Blast Adept 
+| effect_name_JP = Aモラールブラスト・アデプト
+| effect1 = 
+| effect2 = Blast MP Gain Up [V / 5 MP] & Aqua Attribute Attack Up [XI / 30%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| Cooldown = 
+| Cooldown2 = 
+}}

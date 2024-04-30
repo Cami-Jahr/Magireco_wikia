@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Towel Witch
+| ImageSrc = 
+| Event = 
+
+| Jname = タオルの魔女
+| Rarity = 4
+| ID = 2035
+| Illust = 原案・監修：劇団イヌカレー（泥犬）
+| Owner = Chun Meiyui
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2200
+| max_ATK = 2300
+| max_DEF = 0
+
+| image = Evade
+| effect_name = ChargeStep Adept 
+| effect_name_JP = チャージステップ・アデプト
+| effect1 = 
+| effect2 = Chance to Evade [VII / 40%] & Charge Disc Damage Up [VI / 30%] & Charge Combo Charge Count Up [+3] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| Cooldown = 
+| Cooldown2 = 
+}}

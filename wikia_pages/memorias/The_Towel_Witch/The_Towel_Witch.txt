@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 強くあらんとする少女は　孤高に拳を構え　家族に尽くす<br />偽装しても　望む平穏は　過去に壊される　因果応報<br />本能のままに　絶叫する赤子は　生気が削がれるまで　止められない<br />仲間との新たな絆を　喜び　認めることが　立ち直る英明の一歩
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

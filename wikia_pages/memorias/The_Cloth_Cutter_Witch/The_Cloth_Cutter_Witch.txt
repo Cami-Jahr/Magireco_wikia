@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 古書に夢想する少女は　愛しき日常を　取り戻すため　命を懸ける<br />勇む心が生むのは　理想から遠い現実と　運命に弄ばれた　己の断罪<br />栞は切断され　訓戒は消失　失敗を繰り返しては　全てを切り刻む<br />現実と向き合い　振り絞る勇気で　選び取る未来こそ　一節の英雄譚
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

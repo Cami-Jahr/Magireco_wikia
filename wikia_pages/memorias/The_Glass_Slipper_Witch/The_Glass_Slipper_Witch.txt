@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 感受性の強い少女は　自身を劣等感で埋もれさせ　嫌悪の情に囚われる<br />己を切り刻み　否定する　不器用な精神が願うは　完全なる変貌<br />鏡に映る者を刻み　理想を組立てようとするも　真偽の判断もできない<br />素直な心で　他者を信愛することが　己を掬いあげる一案
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

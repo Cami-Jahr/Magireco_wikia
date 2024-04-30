@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Glass Slipper Witch
+| ImageSrc = 
+| Event = 
+
+| Jname = ガラス靴の魔女
+| Rarity = 4
+| ID = 2030
+| Illust = 原案・監修：劇団イヌカレー（泥犬）
+| Owner = Minami Rena
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2100
+| max_ATK = 2400
+| max_DEF = 0
+
+| image = Accele MP Gain Up
+| effect_name = Feign Form
+| effect_name_JP = フェインフォーム
+| effect1 = 
+| effect2 = Accele MP Gain Up [VI / 22.5%] & Regenerate MP [VI / 10.5 MP] & Doppel Damage Up [VI / 30%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| Cooldown = 
+| Cooldown2 = 
+}}

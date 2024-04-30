@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 憂慮に堪えない少女は　心許す住処の喪失を　何より恐怖する<br />抑圧を拒めぬ　内向的な弱き心　迷い込むは　さらなる狭き世界<br />隔絶された肥沃な土壌は　頑なに関わりを拒み　全てを苔の餌食とする<br />変化の兆しこそ　己を育む養分と知ることが　唯一無二の得難き成長
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

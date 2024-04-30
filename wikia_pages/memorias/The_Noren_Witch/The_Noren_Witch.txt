@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 冷静な瞳に野心を点す少女は　復讐を道標に　困難な道を歩む<br />響く言葉は　諸刃の剣　信念は表裏を曖昧にし　沈みゆく精神の混沌<br />潔癖な虚しい幻は　真実とうそぶき　呪詛で獲物を誘い込む<br />過去を振り払い　立ち塞がる仇を全て破れば　一陣の追風が吹く
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

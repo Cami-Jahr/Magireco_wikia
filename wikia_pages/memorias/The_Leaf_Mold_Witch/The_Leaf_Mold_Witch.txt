@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 憧れに魅了された少女は　揺らぐ原点に　言葉を失くし　立ちすくむ<br />押しつけた善意は　誰にも選ばれず　捨てられ朽ちる　花蕾<br />愚直なる大地は　緑を広める養分　数多の物質を己の糧とする<br />喜ばれる　自分本位の道筋を　見出す時こそ　輝ける一輪の真価
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

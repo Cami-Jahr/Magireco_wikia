@@ -1014,5 +1014,12 @@
 2027;Have To Erase It
 2028;Between Dreams and Reality
 2029;Light Madness
+2030;The Glass Slipper Witch
+2031;The Nail Witch
+2032;The Building Site Witch
+2033;The Noren Witch
+2034;The Cloth Cutter Witch
+2035;The Towel Witch
+2036;The Leaf Mold Witch
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

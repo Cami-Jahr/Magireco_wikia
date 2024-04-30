@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 世話焼きで親身な少女は　乙女な己を隠し　人との平穏を尊ぶ<br />道理を重んじ　下した決断は　間の悪さから　望む未来を打ち砕く悪手<br />自戒が生む色彩は虚飾　不安を刺激すると　血の色に染められる<br />性質を肯定し　窮地を脱する発想を磨くことが　心機一転の心得
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
