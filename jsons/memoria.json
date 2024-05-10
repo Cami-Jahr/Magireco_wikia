@@ -83662,5 +83662,637 @@
     "description": "憧れに魅了された少女は　揺らぐ原点に　言葉を失くし　立ちすくむ＠押しつけた善意は　誰にも選ばれず　捨てられ朽ちる　花蕾＠愚直なる大地は　緑を広める養分　数多の物質を己の糧とする＠喜ばれる　自分本位の道筋を　見出す時こそ　輝ける一輪の真価",
     "illustrator": "原案・監修：劇団イヌカレー（泥犬）",
     "openDate": "2024/04/30 15:10:00"
+  },
+  "2037": {
+    "pieceId": 2037,
+    "rank": "RANK_3",
+    "__update__": "2024-05-10T07:36:42.169Z",
+    "pieceName": "一粒の宝石",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "charaIds": "1801",
+    "charaList": [
+      {
+        "charaId": 1801,
+        "name": "いろは・黒江"
+      }
+    ],
+    "attack": 0,
+    "defense": 484,
+    "hp": 484,
+    "skillId": 203700,
+    "pieceSkill": {
+      "id": 203700,
+      "groupId": 1079,
+      "name": "マナチャージ[XX]",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "MP回復[XX](自)",
+      "messageId": 70,
+      "artId1": 8185,
+      "art1": {
+        "artId": 8185,
+        "verbCode": "HEAL",
+        "effectCode": "MP",
+        "targetId": "SELF",
+        "effectValue": 1000,
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 203701,
+    "pieceSkill2": {
+      "id": 203701,
+      "groupId": 1079,
+      "name": "マナチャージ[XX]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "MP回復[XX](自)",
+      "messageId": 70,
+      "artId1": 8185,
+      "art1": {
+        "artId": 8185,
+        "verbCode": "HEAL",
+        "effectCode": "MP",
+        "targetId": "SELF",
+        "effectValue": 1000,
+        "growPoint": 0
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "初めてもらった飴玉は、甘くて爽やかな香りがした＠口いっぱいに広がる優しい味がずっと続けばいいのに＠…なんて、らしくないことを考えるくらいには＠あの時の私は浮かれていたのかも",
+    "illustrator": "都筑禰己",
+    "openDate": "2024/05/10 15:10:00"
+  },
+  "2038": {
+    "pieceId": 2038,
+    "rank": "RANK_4",
+    "__update__": "2024-05-10T07:13:32.666Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "別世界の光",
+    "attributeId": "ALL",
+    "attack": 942,
+    "defense": 0,
+    "hp": 822,
+    "skillId": 203800,
+    "pieceSkill": {
+      "id": 203800,
+      "groupId": 1119,
+      "name": "エンハンス・アップリフト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "ダメージアップ状態[Ⅲ] & 攻撃力UP[Ⅱ] & 状態異常耐性UP[Ⅱ]",
+      "artId1": 690206103,
+      "art1": {
+        "artId": 690206103,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201102,
+      "art2": {
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201502,
+      "art3": {
+        "artId": 390201502,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1215,
+      "eventArtId1": 1215003,
+      "eventArt1": {
+        "artId": 1215003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1215_EXCHANGE_1"
+      },
+      "eventDescription": "＆「小さな羽根」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 203801,
+    "pieceSkill2": {
+      "id": 203801,
+      "groupId": 1119,
+      "name": "エンハンス・アップリフト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "ダメージアップ状態[Ⅳ] & 攻撃力UP[Ⅲ] & 状態異常耐性UP[Ⅲ]",
+      "artId1": 690206104,
+      "art1": {
+        "artId": 690206104,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201103,
+      "art2": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201503,
+      "art3": {
+        "artId": 390201503,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "eventId": 1215,
+      "eventArtId1": 1215004,
+      "eventArt1": {
+        "artId": 1215004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1215_EXCHANGE_1"
+      },
+      "eventDescription": "＆「小さな羽根」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "遠くなる背中を追いかけたいのに、足が一歩も動かない＠空っぽなお前には無理だと、影は背後から迫ってくる＠嫌だ、嫌だ、光が欲しい。あなたのそばに、近づきたい＠この手を伸ばせば、掴んでくれる…？",
+    "illustrator": "―",
+    "openDate": "2024/05/10 15:10:00"
+  },
+  "2039": {
+    "pieceId": 2039,
+    "rank": "RANK_3",
+    "__update__": "2024-05-10T07:18:45.484Z",
+    "pieceName": "ささやかで、あたたかな",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 622,
+    "hp": 742,
+    "skillId": 203900,
+    "pieceSkill": {
+      "id": 203900,
+      "groupId": 1120,
+      "name": "レジスト・シールド[Ⅱ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "ダメージカット状態[Ⅱ] & 状態異常耐性UP[Ⅱ](自/3T)",
+      "messageId": 70,
+      "artId1": 630206202,
+      "art1": {
+        "artId": 630206202,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 330201502,
+      "art2": {
+        "artId": 330201502,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 203901,
+    "pieceSkill2": {
+      "id": 203901,
+      "groupId": 1120,
+      "name": "レジスト・シールド[Ⅲ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "ダメージカット状態[Ⅲ] & 状態異常耐性UP[Ⅲ](自/3T)",
+      "messageId": 70,
+      "artId1": 630206203,
+      "art1": {
+        "artId": 630206203,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_DOWN",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 330201503,
+      "art2": {
+        "artId": 330201503,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「何それ…ふふ…！環さん、変なの…！」＠「ぷっ…あははっ、本当だね…！」＠初めて会った時からは想像もできないくらい、今が満ち足りている＠もしもこれが幸せな夢なら、ずっとずっと覚めないで",
+    "illustrator": "ホセ",
+    "openDate": "2024/05/10 15:10:00"
+  },
+  "2040": {
+    "pieceId": 2040,
+    "rank": "RANK_4",
+    "__update__": "2024-05-10T07:06:40.912Z"
+  },
+  "2041": {
+    "pieceId": 2041,
+    "rank": "RANK_3",
+    "__update__": "2024-05-10T07:13:32.665Z",
+    "pieceType": "SKILL",
+    "pieceKind": "EVENT",
+    "pieceName": "悪夢の化身",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 620,
+    "hp": 620,
+    "skillId": 204100,
+    "pieceSkill": {
+      "id": 204100,
+      "groupId": 1082,
+      "name": "カウンタラクト",
+      "type": "SKILL",
+      "intervalTurn": 12,
+      "shortDescription": "デバフ解除(自)",
+      "messageId": 70,
+      "artId1": 200200800,
+      "art1": {
+        "artId": 200200800,
+        "verbCode": "REVOKE",
+        "effectCode": "DEBUFF",
+        "targetId": "SELF",
+        "growPoint": 0
+      },
+      "eventId": 1215,
+      "eventArtId1": 1215001,
+      "eventArt1": {
+        "artId": 1215001,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 1000,
+        "genericValue": "EVENT_DAILYTOWER_1215_EXCHANGE_1"
+      },
+      "eventDescription": "＆「小さな羽根」追加獲得数＋1",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 204101,
+    "pieceSkill2": {
+      "id": 204101,
+      "groupId": 1082,
+      "name": "カウンタラクト",
+      "type": "SKILL",
+      "intervalTurn": 12,
+      "shortDescription": "デバフ解除(自)",
+      "messageId": 70,
+      "artId1": 200200800,
+      "art1": {
+        "artId": 200200800,
+        "verbCode": "REVOKE",
+        "effectCode": "DEBUFF",
+        "targetId": "SELF",
+        "growPoint": 0
+      },
+      "eventId": 1215,
+      "eventArtId1": 1215002,
+      "eventArt1": {
+        "artId": 1215002,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1215_EXCHANGE_1"
+      },
+      "eventDescription": "＆「小さな羽根」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "「や、やめてください！この人に近づかないで!!」＠深夜のホームに響き渡るのは、少女たちの声＠同じ宿命を背負い、同じ言葉を交わしていても＠真には通じ合わない、異様な関係",
+    "illustrator": "―",
+    "openDate": "2024/05/10 15:10:00"
+  },
+  "2042": {
+    "pieceId": 2042,
+    "rank": "RANK_3",
+    "__update__": "2024-05-10T09:24:19.065Z",
+    "pieceType": "ABILITY",
+    "pieceName": "夢の痕",
+    "attributeId": "ALL",
+    "charaIds": "3902",
+    "charaList": [
+      {
+        "charaId": 3902,
+        "name": "シィ"
+      }
+    ],
+    "attack": 524,
+    "defense": 0,
+    "hp": 444,
+    "skillId": 204200,
+    "pieceSkill": {
+      "id": 204200,
+      "groupId": 1090,
+      "name": "クリア・スピリット[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "Accele MPUP[Ⅲ] & MP獲得量UP[Ⅲ] & 与えるダメージUP[Ⅲ]",
+      "artId1": 390201603,
+      "art1": {
+        "artId": 390201603,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201903,
+      "art2": {
+        "artId": 390201903,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201303,
+      "art3": {
+        "artId": 390201303,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 204201,
+    "pieceSkill2": {
+      "id": 204201,
+      "groupId": 1090,
+      "name": "クリア・スピリット[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "Accele MPUP[Ⅳ] & MP獲得量UP[Ⅳ] & 与えるダメージUP[Ⅳ]",
+      "artId1": 390201604,
+      "art1": {
+        "artId": 390201604,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 175,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201904,
+      "art2": {
+        "artId": 390201904,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201304,
+      "art3": {
+        "artId": 390201304,
+        "verbCode": "BUFF",
+        "effectCode": "DAMAGE",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "夢日記をつけていくと、次第に境界線が見えなくなってくる＠今、わたしが書いているのは夢のことなのか？現実のことなのか？＠だけど、それでいい…いや、そうであってほしい＠曖昧な世界じゃなきゃ、わたしは正視することなんてできない",
+    "illustrator": "都筑禰己",
+    "openDate": "2024/05/10 15:10:00"
+  },
+  "2043": {
+    "pieceId": 2043,
+    "rank": "RANK_4",
+    "__update__": "2024-05-10T07:13:32.667Z",
+    "pieceType": "ABILITY",
+    "pieceKind": "EVENT",
+    "pieceName": "ひそやかな洗礼",
+    "attributeId": "ALL",
+    "attack": 902,
+    "defense": 0,
+    "hp": 862,
+    "skillId": 204300,
+    "pieceSkill": {
+      "id": 204300,
+      "groupId": 1086,
+      "name": "コンフィダント・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "防御力UP[Ⅲ] & MP獲得量UP[Ⅲ] & 弱点属性で攻撃されたときMPUP[Ⅰ]",
+      "artId1": 390201203,
+      "art1": {
+        "artId": 390201203,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 225,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201903,
+      "art2": {
+        "artId": 390201903,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690207901,
+      "art3": {
+        "artId": 690207901,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "MP_PLUS_WEAKED",
+        "targetId": "SELF",
+        "effectValue": 20,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "eventId": 1215,
+      "eventArtId1": 1215003,
+      "eventArt1": {
+        "artId": 1215003,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1215_EXCHANGE_1"
+      },
+      "eventDescription": "＆「小さな羽根」追加獲得数＋5",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 204301,
+    "pieceSkill2": {
+      "id": 204301,
+      "groupId": 1086,
+      "name": "コンフィダント・アデプト[Ⅳ]",
+      "type": "ABILITY",
+      "shortDescription": "防御力UP[Ⅳ] & MP獲得量UP[Ⅳ] & 弱点属性で攻撃されたときMPUP[Ⅱ]",
+      "artId1": 390201204,
+      "art1": {
+        "artId": 390201204,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201904,
+      "art2": {
+        "artId": 390201904,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690207902,
+      "art3": {
+        "artId": 690207902,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "MP_PLUS_WEAKED",
+        "targetId": "SELF",
+        "effectValue": 30,
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "eventId": 1215,
+      "eventArtId1": 1215004,
+      "eventArt1": {
+        "artId": 1215004,
+        "verbCode": "OTHER",
+        "effectCode": "DROPADD",
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1215_EXCHANGE_1"
+      },
+      "eventDescription": "＆「小さな羽根」追加獲得数＋15",
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "先行きの見えない今を憂い＠そっと託す、心からの願い＠選んだ未来に＠祝福がもたらされると信じて…",
+    "illustrator": "―",
+    "openDate": "2024/05/10 15:10:00"
+  },
+  "2044": {
+    "pieceId": 2044,
+    "rank": "RANK_3",
+    "__update__": "2024-05-10T12:21:45.536Z",
+    "pieceName": "この世の隅でふたり",
+    "pieceType": "SKILL",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 682,
+    "hp": 682,
+    "skillId": 204400,
+    "pieceSkill": {
+      "id": 204400,
+      "groupId": 1090,
+      "name": "インテリジェンス・ライズ[Ⅱ] ",
+      "type": "SKILL",
+      "intervalTurn": 14,
+      "shortDescription": "Accele MPUP[Ⅱ] & MP獲得量UP[Ⅱ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201602,
+      "art1": {
+        "artId": 330201602,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201902,
+      "art2": {
+        "artId": 330201902,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 75,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 204401,
+    "pieceSkill2": {
+      "id": 204401,
+      "groupId": 1090,
+      "name": "インテリジェンス・ライズ[Ⅲ] ",
+      "type": "SKILL",
+      "intervalTurn": 12,
+      "shortDescription": "Accele MPUP[Ⅲ] & MP獲得量UP[Ⅲ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201603,
+      "art1": {
+        "artId": 330201603,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201903,
+      "art2": {
+        "artId": 330201903,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 100,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "ふたりは奇妙な縁で結ばれて以来、知らずと“歯車”となっていた＠命を貪り食らう残酷な仕組みの中に取り込まれて＠ひとりは運命にあらがえず、ひとりは運命にあらがわず＠ただただ、回り続けていた",
+    "illustrator": "―",
+    "openDate": "2024/05/10 15:10:00"
   }
 }

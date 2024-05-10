@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Modest and Warm
+| ImageSrc = 
+| Event = 
+
+| Jname = ささやかで、あたたかな
+| Rarity = 3
+| ID = 2039
+| Illust = ホセ
+| Owner = 
+
+| min_HP = 742
+| min_ATK = 0
+| min_DEF = 622
+| max_HP = 1855
+| max_ATK = 0
+| max_DEF = 1555
+
+| image = Damage Cut
+| effect_name = Resist Shield 
+| effect_name_JP = レジスト・シールド
+| effect1 = Damage Cut [II / 10%] & Status Ailment Resistance Up [II / 25%] (Self / 3 Turns)
+| effect2 = Damage Cut [III / 15%] & Status Ailment Resistance Up [III / 30%] (Self / 3 Turns)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

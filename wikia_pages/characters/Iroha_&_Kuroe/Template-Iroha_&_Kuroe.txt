@@ -1,0 +1,184 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Iroha & Kuroe
+| name_jp = いろは・黒江
+| element = Light
+| base_rarity = 4
+| max_rarity = 5
+| id = 1801
+| type = Unknown
+| growth_type = BALANCE
+| school_jp = ―
+| voice_actor_jp = 麻倉もも、花澤香菜
+| designer_jp = 蒼樹うめ
+| memoria = 
+| release_date = 2024-05-10
+| event_limit = 
+
+| accele_disks = 2
+| blast_vert_disks = 1
+| blast_hori_disks = 1
+| charge_disks = 1
+
+| 4star_hp_lv1 = 8113
+| 4star_attack_lv1 = 2346
+| 4star_defense_lv1 = 2311
+| 4star_hp_max = 29206
+| 4star_attack_max = 8445
+| 4star_defense_max = 8319
+| 4star_illustrator_jp = ぷにゃん
+
+| 5star_hp_lv1 = 9014
+| 5star_attack_lv1 = 2606
+| 5star_defense_lv1 = 2567
+| 5star_hp_max = 36056
+| 5star_attack_max = 10424
+| 5star_defense_max = 10268
+| 5star_illustrator_jp = ぷにゃん
+
+| se_hp_bonus = 8460
+| se_attack_bonus = 2560
+| se_defense_bonus = 3560
+
+| se accele bonus = 6
+| se blast bonus = 6
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Magia Damage Up
+| Passive 3 name = Magia Adept [II]
+| Passive 3 name JP = マギア・アデプト[Ⅱ]
+| Passive 3 effect = Magia Damage Up [II / 7.5%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = MP Gain Up
+| Passive 6 name = Morale Adept [III]
+| Passive 6 name JP = モラール・アデプト[Ⅲ]
+| Passive 6 effect = MP Gain Up [III / 10%]
+
+| Passive 7 icon = Negate Status Ailments
+| Passive 7 name = Resist Shield
+| Passive 7 name JP = レジストシールド
+| Passive 7 effect = Negate Status Ailments [2 Status Ailments] (∞ Turns on Battle Start)
+
+| Passive 8 icon = Anti-Magia Seal
+| Passive 8 name = Anti Seal Magia
+| Passive 8 name JP = アンチ・シールマギア
+| Passive 8 effect = Anti-Magia Seal
+
+| Passive 9 icon = MP Up When Attacked By Weak Element
+| Passive 9 name = DarkRevenge [X]
+| Passive 9 name JP = ダークリベンジ[Ⅹ]
+| Passive 9 effect = MP Up When Attacked By Weak Element [X / 11 MP] & Dark Attribute Damage Cut [V / 25%]
+
+| Passive 10 icon = Regenerate MP
+| Passive 10 name = Nursing Care [VII]
+| Passive 10 name JP = ナーシングケア[Ⅶ]
+| Passive 10 effect = Regenerate MP [VII / 12 MP] & Regenerate HP [III / 4%]
+
+| Passive 11 icon = Damage Cut
+| Passive 11 name = Immunity Shield Aura [II]
+| Passive 11 name JP = イミュニティシールド・オーラ[Ⅱ]
+| Passive 11 effect = Damage Cut [II / 22.5%] & Status Ailment Resistance Up [II / 25%] (Allies / ∞ Turns on Battle Start)
+
+| Passive 12 icon = Regenerate MP
+| Passive 12 name = Mana Spring Aura [XX]
+| Passive 12 name JP = マナスプリングオーラ[XX]
+| Passive 12 effect = Regenerate MP [XX / 100 MP] (Self / 1 Turn on Battle Start)
+
+| Active 1 icon = Remove Status Ailments
+| Active 1 name = LucentCircle
+| Active 1 name JP = ルーセントサークル
+| Active 1 effect = Remove Status Ailments & Remove Debuffs & HP Restore [100%] (Allies)
+| Active 1 cooldown = 7
+
+| EX name = 明日への約束
+| EX effect 1 = Regenerate HP
+| EX 1 min = II / 3% (Allies)
+| EX 1 max = III / 4% (Allies)
+| EX effect 2 = Defense Up
+| EX 2 min = I / 30% (Allies)
+| EX 2 max = II / 37.5% (Allies)
+
+| Connect name JP = 誰も見捨てないよ
+| Connect name EN = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VIII / 37.5%
+| Connect 1 / 2 = X / 42.5%
+| Connect effect 2 = HP Restore
+| Connect 2 / 1 = VIII / 47.5%
+| Connect 2 / 2 = X / 52.5%
+| Connect effect 3 = MP Restore
+| Connect 3 / 1 = VIII / 30 MP
+| Connect 3 / 2 = X / 35 MP
+
+| Magia name JP = ストラーダ・フェーデ
+| Magia name EN = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Attribute Strengthened Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = V / 315%
+| Magia 1 / 2 = VII / 335%
+| Magia effect 2 = Light Attribute Attack Up
+| Magia scaling 2 = 2.5%
+| Magia 2 / 1 = Allies / 3 Turns / 25%
+| Magia 2 / 2 = Allies / 3 Turns / 30%
+| Magia effect 3 = Defense Up
+| Magia scaling 3 = 2.5%
+| Magia 3 / 1 = Allies / 3 Turns / 37.5%
+| Magia 3 / 2 = Allies / 3 Turns / 45%
+| Magia effect 4 = Status Ailment Resistance Up
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = Allies / 3 Turns / 20%
+| Magia 4 / 2 = Allies / 3 Turns / 30%
+| Magia effect 5 = Negate Status Ailments
+| Magia scaling 5 = -
+| Magia 5 / 1 = Allies / 3 Turns / 1 Status Ailment
+| Magia 5 / 2 = Allies / 3 Turns / 1 Status Ailment
+| Magia effect 6 = HP Restore
+| Magia scaling 6 = 2%
+| Magia 6 / 1 = Allies / 27.5%
+| Magia 6 / 2 = Allies / 30%
+| Magia effect 7 = MP Restore
+| Magia scaling 7 = 1 MP
+| Magia 7 / 1 = Allies / 20 MP
+| Magia 7 / 2 = Allies / 25 MP
+
+| Magia2 name JP = デスティーノ・ウチェロ
+| Magia2 name EN = 
+| Magia2 icon = Damage All Enemies
+| Magia2 effect 1 = Attribute Strengthened Damage All Enemies
+| Magia2 1 = IX / 869%
+| Magia2 effect 2 = Light Attribute Attack Up
+| Magia2 2 = Allies / 5 Turns / 45%
+| Magia2 effect 3 = Defense Up
+| Magia2 3 = Allies / 5 Turns / 62.5%
+| Magia2 effect 4 = Status Ailment Resistance Up
+| Magia2 4 = Allies / 5 Turns / 50%
+| Magia2 effect 5 = Negate Status Ailments
+| Magia2 5 = Allies / 5 Turns / 2 Status Ailments
+| Magia2 effect 6 = HP Restore
+| Magia2 6 = Allies / 58%
+| Magia2 effect 7 = MP Restore
+| Magia2 7 = Allies / 39 MP
+| Magia2 effect 8 = MP Restore
+| Magia2 8 = Self / 14 MP
+}}

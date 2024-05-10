@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「何それ…ふふ…！環さん、変なの…！」<br />「ぷっ…あははっ、本当だね…！」<br />初めて会った時からは想像もできないくらい、今が満ち足りている<br />もしもこれが幸せな夢なら、ずっとずっと覚めないで
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

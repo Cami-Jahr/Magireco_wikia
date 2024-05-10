@@ -370,6 +370,7 @@ jp_to_en = {
     "マギアピラミッド": "Magia Pyramid",
     "アディクトスイーパー": "Addict Sweeper",
     "フェインフォーム": "Feign Form",
+    "ペイン＆エグゾルテイション": "Pain & Exultation",
     "アンチ": "Anti",
     "・": " ",
     "[": " [",
@@ -519,7 +520,8 @@ jp_to_en = {
     "バトル": "Battle",
     "ディフィーザンス": "Defeasance",
     "リミット": "Limit",
-    "コンヴィクション": "Conviction"
+    "コンヴィクション": "Conviction",
+    "ルーセント": "Lucent"
 }
 
 # Subset of good effects that might be chance to happen

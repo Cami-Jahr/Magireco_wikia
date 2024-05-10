@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 夢日記をつけていくと、次第に境界線が見えなくなってくる<br />今、わたしが書いているのは夢のことなのか？現実のことなのか？<br />だけど、それでいい…いや、そうであってほしい<br />曖昧な世界じゃなきゃ、わたしは正視することなんてできない
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = ふたりは奇妙な縁で結ばれて以来、知らずと“歯車”となっていた<br />命を貪り食らう残酷な仕組みの中に取り込まれて<br />ひとりは運命にあらがえず、ひとりは運命にあらがわず<br />ただただ、回り続けていた
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

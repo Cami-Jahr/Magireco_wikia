@@ -1,0 +1,11 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 遠くなる背中を追いかけたいのに、足が一歩も動かない<br />空っぽなお前には無理だと、影は背後から迫ってくる<br />嫌だ、嫌だ、光が欲しい。あなたのそばに、近づきたい<br />この手を伸ばせば、掴んでくれる…？
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Normal: Gain 5 Bonus (Item Name)
+** Max Limit Break: Gain 15 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

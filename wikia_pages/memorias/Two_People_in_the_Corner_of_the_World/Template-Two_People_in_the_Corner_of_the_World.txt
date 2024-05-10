@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Two People in the Corner of the World
+| ImageSrc = 
+| Event = 
+
+| Jname = この世の隅でふたり
+| Rarity = 3
+| ID = 2044
+| Illust = -
+| Owner = 
+
+| min_HP = 682
+| min_ATK = 0
+| min_DEF = 682
+| max_HP = 1705
+| max_ATK = 0
+| max_DEF = 1705
+
+| image = Accele MP Gain Up
+| effect_name = Intelligence Rise 
+| effect_name_JP = インテリジェンス・ライズ
+| effect1 = Accele MP Gain Up [II / 12.5%] & MP Gain Up [II / 7.5%] (Self / 3 Turns)
+| effect2 = Accele MP Gain Up [III / 15%] & MP Gain Up [III / 10%] (Self / 3 Turns)
+| Cooldown = 14
+| Cooldown2 = 12
+}}

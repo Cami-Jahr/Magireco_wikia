@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Light of Another World
+| ImageSrc = 
+| Event = 
+
+| Jname = 別世界の光
+| Rarity = 4
+| ID = 2038
+| Illust = -
+| Owner = 
+
+| min_HP = 822
+| min_ATK = 942
+| min_DEF = 0
+| max_HP = 2055
+| max_ATK = 2355
+| max_DEF = 0
+
+| image = Damage Increase
+| effect_name = Enhance Uplift 
+| effect_name_JP = エンハンス・アップリフト
+| effect1 = Damage Increase [III / 15%] & Attack Up [II / 10%] & Status Ailment Resistance Up [II / 25%]
+| effect2 = Damage Increase [IV / 20%] & Attack Up [III / 15%] & Status Ailment Resistance Up [III / 30%]
+| Cooldown = 
+| Cooldown2 = 
+}}

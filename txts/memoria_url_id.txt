@@ -1021,5 +1021,12 @@
 2034;The Cloth Cutter Witch
 2035;The Towel Witch
 2036;The Leaf Mold Witch
+2037;A Precious Stone
+2038;Light of Another World
+2039;Modest and Warm
+2041;Nightmare Incarnate
+2042;Traces of Dreams
+2043;A Secret Baptism
+2044;Two People in the Corner of the World
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

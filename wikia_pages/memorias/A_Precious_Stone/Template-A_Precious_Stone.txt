@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = A Precious Stone
+| ImageSrc = 
+| Event = 
+
+| Jname = 一粒の宝石
+| Rarity = 3
+| ID = 2037
+| Illust = 都筑禰己
+| Owner = Iroha & Kuroe
+
+| min_HP = 484
+| min_ATK = 0
+| min_DEF = 484
+| max_HP = 1210
+| max_ATK = 0
+| max_DEF = 1210
+
+| image = MP Restore
+| effect_name = Mana Charge 
+| effect_name_JP = マナチャージ
+| effect1 = MP Restore [XX / 100 MP] (Self)
+| effect2 = MP Restore [XX / 100 MP] (Self)
+| Cooldown = 10
+| Cooldown2 = 7
+}}

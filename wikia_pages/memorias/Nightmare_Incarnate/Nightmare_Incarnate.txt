@@ -1,0 +1,10 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 「や、やめてください！この人に近づかないで!!」<br />深夜のホームに響き渡るのは、少女たちの声<br />同じ宿命を背負い、同じ言葉を交わしていても<br />真には通じ合わない、異様な関係
+| en = 
+}}
+{{MemoriaTrivia|}}
+* Each Memoria equipped grants a bonus (Item Name) amount each battle for the [[Event Name]] event.
+** Max Limit Break: Gain 5 Bonus (Item Name)
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

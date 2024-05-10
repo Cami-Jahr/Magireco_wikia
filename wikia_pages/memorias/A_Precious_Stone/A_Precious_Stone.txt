@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 初めてもらった飴玉は、甘くて爽やかな香りがした<br />口いっぱいに広がる優しい味がずっと続けばいいのに<br />…なんて、らしくないことを考えるくらいには<br />あの時の私は浮かれていたのかも
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

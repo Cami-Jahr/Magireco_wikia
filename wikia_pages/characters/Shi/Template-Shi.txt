@@ -1,0 +1,166 @@
+﻿{{Character/{{{1|Infobox}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|{{{10|}}}|{{{11|}}}|{{{12|}}}|{{{13|}}}|{{{14|}}}|{{{15|}}}|{{{16|}}}|{{{17|}}}|{{{18|}}}|{{{19|}}}|{{{20|}}}|{{{21|}}}|{{{22|}}}|{{{23|}}}|{{{24|}}}|{{{25|}}}|{{{26|}}}|{{{27|}}}|{{{28|}}}|{{{29|}}}|{{{30|}}}|{{{31|}}}|{{{32|}}}|{{{33|}}}|{{{34|}}}|{{{35|}}}|{{{36|}}}|{{{37|}}}|{{{38|}}}|{{{39|}}}|{{{40|}}}|{{{41|}}}|{{{42|}}}|{{{43|}}}|{{{44|}}}|{{{45|}}}|{{{46|}}}|{{{47|}}}|{{{48|}}}|{{{49|}}}|{{{50|}}}|{{{51|}}}|{{{52|}}}|{{{53|}}}|{{{54|}}}|{{{55|}}}|{{{56|}}}|{{{57|}}}|{{{58|}}}|{{{59|}}}|{{{60|}}}|{{{61|}}}|{{{62|}}}|{{{63|}}}|{{{64|}}}|{{{65|}}}|{{{66|}}}|{{{67|}}}|{{{68|}}}|{{{69|}}}|{{{70|}}}|{{{71|}}}|{{{72|}}}|{{{73|}}}|{{{74|}}}|{{{75|}}}|{{{76|}}}|{{{77|}}}|{{{78|}}}|{{{79|}}}|{{{80|}}}|{{{81|}}}|{{{82|}}}|{{{83|}}}|{{{84|}}}|{{{85|}}}|{{{86|}}}|{{{87|}}}|{{{88|}}}|{{{89|}}}|{{{90|}}}|{{{91|}}}|{{{92|}}}|{{{93|}}}|{{{94|}}}|{{{95|}}}|{{{96|}}}|{{{97|}}}|{{{98|}}}|{{{99|}}}|{{{100|}}}
+| name = Shi
+| name_jp = シィ
+| element = Dark
+| base_rarity = 4
+| max_rarity = 5
+| id = 3902
+| type = Magia
+| growth_type = ATTACK
+| school_jp = ―
+| voice_actor_jp = 小山茉美
+| designer_jp = 劇団イヌカレー（泥犬）
+| memoria = 
+| release_date = 2024-05-10
+| event_limit = 
+
+| accele_disks = 5
+| blast_vert_disks = 0
+| blast_hori_disks = 0
+| charge_disks = 0
+
+| 4star_hp_lv1 = 2946
+| 4star_attack_lv1 = 2475
+| 4star_defense_lv1 = 1788
+| 4star_hp_max = 10452
+| 4star_attack_max = 9103
+| 4star_defense_max = 6297
+| 4star_illustrator_jp = 劇団イヌカレー（泥犬）
+
+| 5star_hp_lv1 = 3274
+| 5star_attack_lv1 = 2748
+| 5star_defense_lv1 = 1986
+| 5star_hp_max = 12899
+| 5star_attack_max = 11239
+| 5star_defense_max = 7765
+| 5star_illustrator_jp = ぷにゃん
+
+| se_hp_bonus = 7003
+| se_attack_bonus = 2144
+| se_defense_bonus = 1997
+
+| se accele bonus = 6
+| se blast bonus = 8
+| se charge bonus = 5
+
+| Passive 1 icon = MP Gain Up When Over 100 MP
+| Passive 1 name = MP Boost [II]
+| Passive 1 name JP = MPブースト[Ⅱ]
+| Passive 1 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 2 icon = Doppel Damage Up
+| Passive 2 name = Doppel Adept [I]
+| Passive 2 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 2 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 3 icon = Accele MP Gain Up
+| Passive 3 name = Accele Adept [II]
+| Passive 3 name JP = アクセル・アデプト[Ⅱ]
+| Passive 3 effect = Accele MP Gain Up [II / 12.5%]
+
+| Passive 4 icon = Doppel Damage Up
+| Passive 4 name = Doppel Adept [I]
+| Passive 4 name JP = ドッペル・アデプト[Ⅰ]
+| Passive 4 effect = Doppel Damage Up [I / 5%] & Magia Damage Up [I / 5%]
+
+| Passive 5 icon = MP Gain Up When Over 100 MP
+| Passive 5 name = MP Boost [II]
+| Passive 5 name JP = MPブースト[Ⅱ]
+| Passive 5 effect = MP Gain Up When Over 100 MP [II / 20%]
+
+| Passive 6 icon = Anti-Skill Seal
+| Passive 6 name = Anti Jammer
+| Passive 6 name JP = アンチ・ジャマ―
+| Passive 6 effect = Anti-Skill Seal
+
+| Passive 7 icon = Anti-Magia Seal
+| Passive 7 name = Anti Seal Magia
+| Passive 7 name JP = アンチ・シールマギア
+| Passive 7 effect = Anti-Magia Seal
+
+| Passive 8 icon = Barrier
+| Passive 8 name = Barrier Aura
+| Passive 8 name JP = バリアオーラ
+| Passive 8 effect = Barrier [10000 damage] (Self / ∞ Turns on Battle Start)
+
+| Passive 9 icon = Doppel Damage Up
+| Passive 9 name = Doppel Adept [VI]
+| Passive 9 name JP = ドッペル・アデプト[Ⅵ]
+| Passive 9 effect = Doppel Damage Up [VI / 30%] & Magia Damage Up [II / 7.5%]
+
+| Passive 10 icon = MP Gain Up
+| Passive 10 name = Morale Shield Adept [IV]
+| Passive 10 name JP = モラールシールド・アデプト[Ⅳ]
+| Passive 10 effect = MP Gain Up [IV / 12.5%] & Damage Cut [III / 15%]
+
+| Passive 11 icon = Attack Up When At Critical Health
+| Passive 11 name = DCrisis Attack [VII]
+| Passive 11 name JP = Dクライシスアタック[Ⅶ]
+| Passive 11 effect = Attack Up When At Critical Health [VII / 40%] & Dark Attribute Attack Up [II / 7.5%]
+
+| Passive 12 icon = MP Gain Up
+| Passive 12 name = Glitter Adept [IV]
+| Passive 12 name JP = グリッター・アデプト[Ⅳ]
+| Passive 12 effect = MP Gain Up [IV / 12.5%] & Attack Up [II / 10%]
+
+| Active 1 icon = Regenerate MP
+| Active 1 name = Pain & Exultation [XX]
+| Active 1 name JP = ペイン＆エグゾルテイション[XX]
+| Active 1 effect = Regenerate MP [XX / 100 MP] & Status Ailment Resistance Down [XX / 50%] (Self / 3 Turns) & Survive [I / 10% HP] (Self / 1 Turn) & Receive Damage [80.1%]
+| Active 1 cooldown = 5
+
+| Connect name JP = 繋がりたくないけど…
+| Connect name EN = 
+| Connect icon = Attack Up
+| Connect effect 1 = Attack Up
+| Connect 1 / 1 = VIII / 37.5%
+| Connect 1 / 2 = X / 42.5%
+| Connect effect 2 = Dark Attribute Attack Up
+| Connect 2 / 1 = VIII / 22.5%
+| Connect 2 / 2 = X / 27.5%
+
+| Magia name JP = 千尋の傷
+| Magia name EN = 
+| Magia icon = Damage All Enemies
+| Magia effect 1 = Attribute Strengthened Damage All Enemies
+| Magia scaling 1 = 10%
+| Magia 1 / 1 = VII / 335%
+| Magia 1 / 2 = IX / 355%
+| Magia effect 2 = Dark Attribute Resistance Down
+| Magia scaling 2 = -
+| Magia 2 / 1 = All Enemies / 1 Turn / 5%
+| Magia 2 / 2 = All Enemies / 1 Turn / 5%
+| Magia effect 3 = Remove Buffs
+| Magia scaling 3 = -
+| Magia 3 / 1 = All Enemies
+| Magia 3 / 2 = All Enemies
+| Magia effect 4 = Dark Attribute Attack Up
+| Magia scaling 4 = 2.5%
+| Magia 4 / 1 = Self / 2 Turns / 40%
+| Magia 4 / 2 = Self / 2 Turns / 40%
+| Magia effect 5 = Damage Increase
+| Magia scaling 5 = 2.5%
+| Magia 5 / 1 = Self / 2 Turns / 40%
+| Magia 5 / 2 = Self / 2 Turns / 40%
+
+| Doppel Name = 
+| Doppel Title = 
+| Doppel Japanese Title = 傷痕のドッペル
+| Doppel Shape = 
+| Doppel Japanese Shape = その姿は、鉤爪
+| Doppel Japanese Designer = 原案・監修：劇団イヌカレー（泥犬）
+| Magia2 effect 1 = Attribute Strengthened Damage All Enemies
+| Magia2 1 = XI / 913%
+| Magia2 effect 2 = Dark Attribute Resistance Down
+| Magia2 2 = All Enemies / 2 Turns / 8%
+| Magia2 effect 3 = Remove Buffs
+| Magia2 3 = All Enemies
+| Magia2 effect 4 = Dark Attribute Attack Up
+| Magia2 4 = Self / 2 Turns / 100%
+| Magia2 effect 5 = Damage Increase
+| Magia2 5 = Self / 2 Turns / 100%
+| Magia2 effect 6 = Doppel Damage Up
+| Magia2 6 = Self / 2 Turns / 90%
+| Magia2 effect 7 = Survive
+| Magia2 7 = Self / 1 Turn / 10% HP
+}}

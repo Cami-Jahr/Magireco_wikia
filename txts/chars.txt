@@ -91,6 +91,7 @@
 1502;Nanami Yachiyo (Historia ver.)
 1601;Infinite Iroha
 1701;Infinity Iroha-chan
+1801;Iroha & Kuroe
 2001;Kaname Madoka
 2002;Akemi Homura
 2003;Akemi Homura (Megane ver.)
@@ -190,6 +191,7 @@
 3505;Reira & Seika
 3900;Kuro
 3901;Yuu
+3902;Shi
 4001;Mikuni Oriko
 4002;Kure Kirika
 4003;Chitose Yuma
