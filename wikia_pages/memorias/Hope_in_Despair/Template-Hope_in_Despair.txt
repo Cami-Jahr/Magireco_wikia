@@ -12,8 +12,8 @@
 | min_HP = 447
 | min_ATK = 367
 | min_DEF = 0
-| max_HP = 1118
-| max_ATK = 918
+| max_HP = 1117
+| max_ATK = 917
 | max_DEF = 0
 
 | image = Counter

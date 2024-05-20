@@ -12,9 +12,9 @@
 | min_HP = 443
 | min_ATK = 0
 | min_DEF = 363
-| max_HP = 1108
+| max_HP = 1107
 | max_ATK = 0
-| max_DEF = 908
+| max_DEF = 907
 
 | image = Accele MP Gain Up
 | effect_name = Accele Up 

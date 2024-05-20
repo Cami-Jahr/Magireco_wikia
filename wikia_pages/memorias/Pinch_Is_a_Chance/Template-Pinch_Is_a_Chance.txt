@@ -14,7 +14,7 @@
 | min_DEF = 723
 | max_HP = 2212
 | max_ATK = 0
-| max_DEF = 1808
+| max_DEF = 1807
 
 | image = Critical Hit
 | effect_name = Jackpot Strike 

@@ -12,7 +12,7 @@
 | min_HP = 511
 | min_ATK = 0
 | min_DEF = 430
-| max_HP = 1278
+| max_HP = 1277
 | max_ATK = 0
 | max_DEF = 1075
 

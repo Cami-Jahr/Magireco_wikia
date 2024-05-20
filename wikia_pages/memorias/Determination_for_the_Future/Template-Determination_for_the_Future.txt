@@ -13,7 +13,7 @@
 | min_ATK = 595
 | min_DEF = 0
 | max_HP = 1505
-| max_ATK = 1488
+| max_ATK = 1487
 | max_DEF = 0
 
 | image = Anti-Charm

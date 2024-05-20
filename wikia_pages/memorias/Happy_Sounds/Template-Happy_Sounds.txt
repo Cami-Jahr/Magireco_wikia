@@ -12,8 +12,8 @@
 | min_HP = 487
 | min_ATK = 447
 | min_DEF = 0
-| max_HP = 1218
-| max_ATK = 1118
+| max_HP = 1217
+| max_ATK = 1117
 | max_DEF = 0
 
 | image = CC Gain Up

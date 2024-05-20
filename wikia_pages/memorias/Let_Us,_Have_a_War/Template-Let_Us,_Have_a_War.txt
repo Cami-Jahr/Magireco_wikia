@@ -12,9 +12,9 @@
 | min_HP = 763
 | min_ATK = 0
 | min_DEF = 843
-| max_HP = 1908
+| max_HP = 1907
 | max_ATK = 0
-| max_DEF = 2108
+| max_DEF = 2107
 
 | image = Blast Damage Up
 | effect_name = Brandish 

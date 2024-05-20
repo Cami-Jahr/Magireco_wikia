@@ -12,9 +12,9 @@
 | min_HP = 
 | min_ATK = 
 | min_DEF = 
-| max_HP = 1458
+| max_HP = 1457
 | max_ATK = 0
-| max_DEF = 1608
+| max_DEF = 1607
 
 | image = Attack Up
 | effect_name = Attack Rise 

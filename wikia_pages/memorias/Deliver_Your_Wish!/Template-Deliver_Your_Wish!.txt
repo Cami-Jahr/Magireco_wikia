@@ -12,9 +12,9 @@
 | min_HP = 883
 | min_ATK = 0
 | min_DEF = 723
-| max_HP = 2208
+| max_HP = 2207
 | max_ATK = 0
-| max_DEF = 1808
+| max_DEF = 1807
 
 | image = Damage Increase
 | effect_name = Addict Slayer 

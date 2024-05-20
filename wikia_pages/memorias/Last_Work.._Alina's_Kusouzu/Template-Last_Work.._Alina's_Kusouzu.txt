@@ -14,7 +14,7 @@
 | min_DEF = 503
 | max_HP = 1052
 | max_ATK = 0
-| max_DEF = 1258
+| max_DEF = 1257
 
 | image = Monopolize Draw
 | effect_name = Monopolize Draw

@@ -12,9 +12,9 @@
 | min_HP = 427
 | min_ATK = 0
 | min_DEF = 507
-| max_HP = 1068
+| max_HP = 1067
 | max_ATK = 0
-| max_DEF = 1268
+| max_DEF = 1267
 
 | image = Critical Hit
 | effect_name = Critical Strike

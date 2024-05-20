@@ -12,8 +12,8 @@
 | min_HP = 663
 | min_ATK = 543
 | min_DEF = 0
-| max_HP = 1658
-| max_ATK = 1358
+| max_HP = 1657
+| max_ATK = 1357
 | max_DEF = 0
 
 | image = Chance to Charm on Attack

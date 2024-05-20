@@ -14,7 +14,7 @@
 | min_DEF = 543
 | max_HP = 1652
 | max_ATK = 0
-| max_DEF = 1358
+| max_DEF = 1357
 
 | image = Attack Down
 | effect_name = Allure 

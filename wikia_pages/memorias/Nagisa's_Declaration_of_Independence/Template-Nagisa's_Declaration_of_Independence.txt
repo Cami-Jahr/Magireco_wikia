@@ -14,7 +14,7 @@
 | min_DEF = 755
 | max_HP = 2100
 | max_ATK = 0
-| max_DEF = 1888
+| max_DEF = 1887
 
 | image = Accele MP Gain Up
 | effect_name = Astral Up 

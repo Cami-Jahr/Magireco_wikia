@@ -12,8 +12,8 @@
 | min_HP = 763
 | min_ATK = 843
 | min_DEF = 0
-| max_HP = 1908
-| max_ATK = 2108
+| max_HP = 1907
+| max_ATK = 2107
 | max_DEF = 0
 
 | image = Accele MP Gain Up

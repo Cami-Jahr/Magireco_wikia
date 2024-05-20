@@ -12,8 +12,8 @@
 | min_HP = 443
 | min_ATK = 363
 | min_DEF = 0
-| max_HP = 1108
-| max_ATK = 908
+| max_HP = 1107
+| max_ATK = 907
 | max_DEF = 0
 
 | image = Status Ailment Resistance Up

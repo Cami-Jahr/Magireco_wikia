@@ -13,7 +13,7 @@
 | min_ATK = 631
 | min_DEF = 0
 | max_HP = 1425
-| max_ATK = 1578
+| max_ATK = 1577
 | max_DEF = 0
 
 | image = Anti-Skill Seal

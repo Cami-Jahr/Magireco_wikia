@@ -14,7 +14,7 @@
 | min_DEF = 719
 | max_HP = 2200
 | max_ATK = 0
-| max_DEF = 1798
+| max_DEF = 1797
 
 | image = Damage Cut
 | effect_name = Enhance Shield 

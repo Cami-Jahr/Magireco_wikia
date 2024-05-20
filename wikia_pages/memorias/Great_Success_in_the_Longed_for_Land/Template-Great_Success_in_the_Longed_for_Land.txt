@@ -12,8 +12,8 @@
 | min_HP = 843
 | min_ATK = 883
 | min_DEF = 0
-| max_HP = 2108
-| max_ATK = 2208
+| max_HP = 2107
+| max_ATK = 2207
 | max_DEF = 0
 
 | image = Chance to Bind on Attack

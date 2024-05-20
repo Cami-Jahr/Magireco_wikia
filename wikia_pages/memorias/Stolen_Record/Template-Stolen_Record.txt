@@ -12,9 +12,9 @@
 | min_HP = 
 | min_ATK = 
 | min_DEF = 
-| max_HP = 2048
+| max_HP = 2047
 | max_ATK = 0
-| max_DEF = 2048
+| max_DEF = 2047
 
 | image = Attack Up
 | effect_name = Bloom Rise 

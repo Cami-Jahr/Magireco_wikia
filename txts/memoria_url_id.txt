@@ -818,7 +818,7 @@
 1831;Everyone as One
 1832;Whilst in the Dark
 1833;Even if I Cannot Use Magic
-1834;Never Ending Fairy Tale
+1834;Fairy Tale, Please Don't End
 1835;Two Childhood Friends
 1836;The Heroine I Longed to Be
 1837;Between Adult and Child
@@ -876,9 +876,9 @@
 1889;The World my Big Sister Can See
 1890;Thoughts Sunken to the Darkness
 1891;Shadow of Læraðr
-1892;The Sisters' Night is getting late
+1892;The Sisters' Night is Getting Late
 1893;Desert Walker
-1894;The Gallopping Heavenly Horse
+1894;The Galloping Heavenly Horse
 1895;Ashes Return to Earth, then to Flowers
 1896;A Peaceful Moment when One can be Normal
 1897;Wanted to be Special
@@ -993,7 +993,7 @@
 2006;A Parallel World
 2007;Endless Loop
 2008;Warmth of Awakening
-2009;Settling The Score
+2009;Settling the Score
 2010;Sleeping Memories
 2011;Connect Our Hearts and Start Running
 2012;Piling Up On The Pile
@@ -1024,8 +1024,9 @@
 2037;A Precious Stone
 2038;Light of Another World
 2039;Modest and Warm
+2040;The Small Wish in the Stars
 2041;Nightmare Incarnate
-2042;Traces of Dreams
+2042;Dream Scars
 2043;A Secret Baptism
 2044;Two People in the Corner of the World
 9001;My Victory Pose Is Kawaii Too

@@ -12,8 +12,8 @@
 | min_HP = 427
 | min_ATK = 507
 | min_DEF = 0
-| max_HP = 1068
-| max_ATK = 1268
+| max_HP = 1067
+| max_ATK = 1267
 | max_DEF = 0
 
 | image = Guardian

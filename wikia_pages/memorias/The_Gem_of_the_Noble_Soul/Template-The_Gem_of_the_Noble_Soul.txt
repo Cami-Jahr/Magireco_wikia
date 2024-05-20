@@ -12,9 +12,9 @@
 | min_HP = 423
 | min_ATK = 0
 | min_DEF = 511
-| max_HP = 1058
+| max_HP = 1057
 | max_ATK = 0
-| max_DEF = 1278
+| max_DEF = 1277
 
 | image = Attack Up
 | effect_name = Oath 

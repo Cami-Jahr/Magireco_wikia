@@ -12,9 +12,9 @@
 | min_HP = 467
 | min_ATK = 0
 | min_DEF = 467
-| max_HP = 1168
+| max_HP = 1167
 | max_ATK = 0
-| max_DEF = 1168
+| max_DEF = 1167
 
 | image = Endure
 | effect_name = Fortitude Soul

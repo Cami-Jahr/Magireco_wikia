@@ -14,7 +14,7 @@
 | min_DEF = 639
 | max_HP = 1445
 | max_ATK = 0
-| max_DEF = 1598
+| max_DEF = 1597
 
 | image = Accele MP Gain Up
 | effect_name = フThrottlerize 

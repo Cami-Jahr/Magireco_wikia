@@ -12,9 +12,9 @@
 | min_HP = 615
 | min_ATK = 0
 | min_DEF = 615
-| max_HP = 1538
+| max_HP = 1537
 | max_ATK = 0
-| max_DEF = 1538
+| max_DEF = 1537
 
 | image = Charged Attack Damage Up
 | effect_name = Full Swing Rise 

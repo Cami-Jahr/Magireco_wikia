@@ -14,7 +14,7 @@
 | min_DEF = 799
 | max_HP = 2000
 | max_ATK = 0
-| max_DEF = 1998
+| max_DEF = 1997
 
 | image = Blast Damage Up
 | effect_name = Eliminate Up 

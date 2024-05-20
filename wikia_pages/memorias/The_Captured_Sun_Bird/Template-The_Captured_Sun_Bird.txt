@@ -12,8 +12,8 @@
 | min_HP = 939
 | min_ATK = 819
 | min_DEF = 0
-| max_HP = 2348
-| max_ATK = 2048
+| max_HP = 2347
+| max_ATK = 2047
 | max_DEF = 0
 
 | image = Damage Increase

@@ -12,9 +12,9 @@
 | min_HP = 479
 | min_ATK = 0
 | min_DEF = 479
-| max_HP = 1198
+| max_HP = 1197
 | max_ATK = 0
-| max_DEF = 1198
+| max_DEF = 1197
 
 | image = Magia Damage Up
 | effect_name = Astral Rise 

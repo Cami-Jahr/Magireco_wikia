@@ -12,8 +12,8 @@
 | min_HP = 979
 | min_ATK = 779
 | min_DEF = 0
-| max_HP = 2448
-| max_ATK = 1948
+| max_HP = 2447
+| max_ATK = 1947
 | max_DEF = 0
 
 | image = Defense Up

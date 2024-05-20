@@ -14,7 +14,7 @@
 | min_DEF = 571
 | max_HP = 1575
 | max_ATK = 0
-| max_DEF = 1428
+| max_DEF = 1427
 
 | image = Chance to Dazzle
 | effect_name = Mesmerize Mirage 

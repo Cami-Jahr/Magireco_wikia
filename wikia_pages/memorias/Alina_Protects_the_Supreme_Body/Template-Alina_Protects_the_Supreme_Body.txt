@@ -12,8 +12,8 @@
 | min_HP = 759
 | min_ATK = 839
 | min_DEF = 0
-| max_HP = 1898
-| max_ATK = 2098
+| max_HP = 1897
+| max_ATK = 2097
 | max_DEF = 0
 
 | image = Chance to Poison on Attack

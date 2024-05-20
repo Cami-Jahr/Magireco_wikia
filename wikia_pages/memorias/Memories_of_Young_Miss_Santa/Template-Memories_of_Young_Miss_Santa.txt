@@ -13,7 +13,7 @@
 | min_ATK = 551
 | min_DEF = 0
 | max_HP = 1655
-| max_ATK = 1378
+| max_ATK = 1377
 | max_DEF = 0
 
 | image = Charged Attack Damage Up

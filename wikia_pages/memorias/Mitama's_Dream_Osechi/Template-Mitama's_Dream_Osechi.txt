@@ -14,7 +14,7 @@
 | min_DEF = 431
 | max_HP = 1272
 | max_ATK = 0
-| max_DEF = 1078
+| max_DEF = 1077
 
 | image = Accele Draw
 | effect_name = Accele Draw

@@ -12,8 +12,8 @@
 | min_HP = 383
 | min_ATK = 423
 | min_DEF = 0
-| max_HP = 958
-| max_ATK = 1058
+| max_HP = 957
+| max_ATK = 1057
 | max_DEF = 0
 
 | image = Anti-Curse

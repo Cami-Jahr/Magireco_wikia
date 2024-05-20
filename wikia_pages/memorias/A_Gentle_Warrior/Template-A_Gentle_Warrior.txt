@@ -12,9 +12,9 @@
 | min_HP = 463
 | min_ATK = 0
 | min_DEF = 463
-| max_HP = 1158
+| max_HP = 1157
 | max_ATK = 0
-| max_DEF = 1158
+| max_DEF = 1157
 
 | image = Charge Draw
 | effect_name = Charge Draw

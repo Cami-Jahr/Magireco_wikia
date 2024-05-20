@@ -12,8 +12,8 @@
 | min_HP = 843
 | min_ATK = 763
 | min_DEF = 0
-| max_HP = 2108
-| max_ATK = 1908
+| max_HP = 2107
+| max_ATK = 1907
 | max_DEF = 0
 
 | image = Anti-Poison

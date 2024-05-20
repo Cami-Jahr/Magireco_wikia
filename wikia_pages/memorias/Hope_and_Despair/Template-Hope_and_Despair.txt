@@ -12,8 +12,8 @@
 | min_HP = 723
 | min_ATK = 663
 | min_DEF = 0
-| max_HP = 1808
-| max_ATK = 1658
+| max_HP = 1807
+| max_ATK = 1657
 | max_DEF = 0
 
 | image = MP Gain Up

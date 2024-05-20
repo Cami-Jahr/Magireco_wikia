@@ -12,9 +12,9 @@
 | min_HP = 571
 | min_ATK = 0
 | min_DEF = 631
-| max_HP = 1428
+| max_HP = 1427
 | max_ATK = 0
-| max_DEF = 1578
+| max_DEF = 1577
 
 | image = Damage Down
 | effect_name = Roll Call 

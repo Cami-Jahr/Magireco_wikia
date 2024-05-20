@@ -3,8 +3,6 @@
 # https://doc.wikimedia.org/pywikibot/master/api_ref/pywikibot.config.html
 from typing import Optional, Union
 
-from pywikibot.backports import Dict, List, Tuple
-
 # The family of sites to be working on.
 # Pywikibot will import families/xxx_family.py so if you want to change
 # this variable, you have to ensure that such a file exists. You may use
@@ -55,7 +53,7 @@ editor_filename_extension = 'wiki'
 #     log = []
 # Per default, no logging is enabled.
 # This setting can be overridden by the -log or -nolog command-line arguments.
-log: List[str] = []
+log = []
 # filename defaults to modulename-bot.log
 logfilename: Optional[str] = None
 # maximal size of a logfile in kilobytes. If the size reached that limit the
@@ -75,7 +73,7 @@ verbose_output = 0
 log_pywiki_repo_version = False
 # if True, include a lot of debugging info in logfile
 # (overrides log setting above)
-debug_log: List[str] = []
+debug_log = []
 
 # ############# EXTERNAL SCRIPT PATH SETTINGS ##############
 # Set your own script path to lookup for your script files.
@@ -95,7 +93,7 @@ debug_log: List[str] = []
 #
 # sample:
 # user_script_paths = ['scripts.myscripts']
-user_script_paths: List[str] = []
+user_script_paths = []
 
 # ############# EXTERNAL FAMILIES SETTINGS ##############
 # Set your own family path to lookup for your family files.
@@ -110,7 +108,7 @@ user_script_paths: List[str] = []
 # samples:
 # family_files['mywiki'] = 'https://de.wikipedia.org'
 # user_families_paths = ['data/families']
-user_families_paths: List[str] = []
+user_families_paths = []
 
 # ############# IMAGE RELATED SETTINGS ##############
 # If you set this to True, images will be uploaded to Wikimedia
@@ -206,7 +204,7 @@ cosmetic_changes_mylang_only = True
 # (if cosmetic_changes_mylang_only is set)
 # Please set your dictionary by adding such lines to your user config file:
 # cosmetic_changes_enable['wikipedia'] = ('de', 'en', 'fr')
-cosmetic_changes_enable: Dict[str, Tuple[str, ...]] = {}
+cosmetic_changes_enable= {}
 
 # The dictionary cosmetic_changes_disable should contain a tuple of languages
 # for each site where you wish to disable cosmetic changes. You may use it with
@@ -214,7 +212,7 @@ cosmetic_changes_enable: Dict[str, Tuple[str, ...]] = {}
 # language. This also overrides the settings in the cosmetic_changes_enable
 # dictionary. Please set your dict by adding such lines to your user config:
 # cosmetic_changes_disable['wikipedia'] = ('de', 'en', 'fr')
-cosmetic_changes_disable: Dict[str, Tuple[str, ...]] = {}
+cosmetic_changes_disable = {}
 
 # cosmetic_changes_deny_script is a list of scripts for which cosmetic changes
 # are disabled. You may add additional scripts by appending script names in
@@ -233,7 +231,7 @@ cosmetic_changes_deny_script = ['category_redirect', 'cosmetic_changes',
 # on the wiki server. Allows simulation runs of bots to be carried out without
 # changing any page on the server side. Use this setting to add more actions
 # into user config file for wikis with extra write actions.
-actions_to_block: List[str] = []
+actions_to_block = []
 
 # Set simulate to True or use -simulate option to block all actions given
 # above.
@@ -335,5 +333,5 @@ weblink_dead_days = 7
 #
 # to replace all occurrences of 'Hoofdpagina' with 'Veurblaad' when writing to
 # liwiki. Note that this does not take the origin wiki into account.
-replicate_replace: Dict[str, Dict[str, str]] = {}
+replicate_replace = {}
 

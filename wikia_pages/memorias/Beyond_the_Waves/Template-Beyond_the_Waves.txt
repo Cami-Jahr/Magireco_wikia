@@ -12,8 +12,8 @@
 | min_HP = 847
 | min_ATK = 887
 | min_DEF = 0
-| max_HP = 2118
-| max_ATK = 2218
+| max_HP = 2117
+| max_ATK = 2217
 | max_DEF = 0
 
 | image = Damage Cut

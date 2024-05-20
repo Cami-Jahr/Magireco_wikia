@@ -12,9 +12,9 @@
 | min_HP = 895
 | min_ATK = 0
 | min_DEF = 735
-| max_HP = 2238
+| max_HP = 2237
 | max_ATK = 0
-| max_DEF = 1838
+| max_DEF = 1837
 
 | image = Attack Up
 | effect_name = Regenerate Bloom 

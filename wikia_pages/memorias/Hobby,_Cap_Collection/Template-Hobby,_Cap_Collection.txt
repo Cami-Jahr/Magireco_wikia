@@ -12,8 +12,8 @@
 | min_HP = 507
 | min_ATK = 427
 | min_DEF = 0
-| max_HP = 1268
-| max_ATK = 1068
+| max_HP = 1267
+| max_ATK = 1067
 | max_DEF = 0
 
 | image = Anti-Fog

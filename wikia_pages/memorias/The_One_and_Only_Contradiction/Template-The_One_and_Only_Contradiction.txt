@@ -12,9 +12,9 @@
 | min_HP = 843
 | min_ATK = 0
 | min_DEF = 763
-| max_HP = 2108
+| max_HP = 2107
 | max_ATK = 0
-| max_DEF = 1908
+| max_DEF = 1907
 
 | image = Damage Cut
 | effect_name = Shield Force 

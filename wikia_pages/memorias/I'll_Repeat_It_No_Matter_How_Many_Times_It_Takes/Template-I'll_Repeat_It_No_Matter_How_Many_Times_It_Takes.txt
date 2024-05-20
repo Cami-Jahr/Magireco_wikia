@@ -13,7 +13,7 @@
 | min_ATK = 719
 | min_DEF = 0
 | max_HP = 2202
-| max_ATK = 1798
+| max_ATK = 1797
 | max_DEF = 0
 
 | image = Blast Damage Up

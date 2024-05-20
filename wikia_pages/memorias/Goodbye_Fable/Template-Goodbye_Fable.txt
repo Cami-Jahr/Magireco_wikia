@@ -12,8 +12,8 @@
 | min_HP = 
 | min_ATK = 
 | min_DEF = 
-| max_HP = 1848
-| max_ATK = 2248
+| max_HP = 1847
+| max_ATK = 2247
 | max_DEF = 0
 
 | image = Magia Damage Up

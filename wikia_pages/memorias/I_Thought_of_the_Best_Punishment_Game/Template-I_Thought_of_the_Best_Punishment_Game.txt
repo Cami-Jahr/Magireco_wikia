@@ -13,7 +13,7 @@
 | min_ATK = 711
 | min_DEF = 0
 | max_HP = 1552
-| max_ATK = 1778
+| max_ATK = 1777
 | max_DEF = 0
 
 | image = Flame Attribute Attack Up

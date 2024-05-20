@@ -12,8 +12,8 @@
 | min_HP = 643
 | min_ATK = 583
 | min_DEF = 0
-| max_HP = 1608
-| max_ATK = 1458
+| max_HP = 1607
+| max_ATK = 1457
 | max_DEF = 0
 
 | image = Attack Up

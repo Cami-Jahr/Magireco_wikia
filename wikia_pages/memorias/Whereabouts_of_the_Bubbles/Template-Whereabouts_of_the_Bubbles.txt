@@ -12,9 +12,9 @@
 | min_HP = 967
 | min_ATK = 0
 | min_DEF = 807
-| max_HP = 2418
+| max_HP = 2417
 | max_ATK = 0
-| max_DEF = 2018
+| max_DEF = 2017
 
 | image = Damage Increase
 | effect_name = Mermaid's Blessing 

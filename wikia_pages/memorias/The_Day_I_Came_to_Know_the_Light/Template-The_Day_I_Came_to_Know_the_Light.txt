@@ -12,9 +12,9 @@
 | min_HP = 447
 | min_ATK = 0
 | min_DEF = 487
-| max_HP = 1118
+| max_HP = 1117
 | max_ATK = 0
-| max_DEF = 1218
+| max_DEF = 1217
 
 | image = Chase
 | effect_name = Chase Attack

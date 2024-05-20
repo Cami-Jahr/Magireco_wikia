@@ -12,9 +12,9 @@
 | min_HP = 487
 | min_ATK = 0
 | min_DEF = 447
-| max_HP = 1218
+| max_HP = 1217
 | max_ATK = 0
-| max_DEF = 1118
+| max_DEF = 1117
 
 | image = Anti-Evade
 | effect_name = Battle Sense

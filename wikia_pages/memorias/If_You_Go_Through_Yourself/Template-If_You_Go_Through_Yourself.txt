@@ -14,7 +14,7 @@
 | min_DEF = 431
 | max_HP = 1275
 | max_ATK = 0
-| max_DEF = 1078
+| max_DEF = 1077
 
 | image = Damage Cut
 | effect_name = Chargerise Shield 

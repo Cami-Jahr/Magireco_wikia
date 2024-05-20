@@ -12,9 +12,9 @@
 | min_HP = 579
 | min_ATK = 0
 | min_DEF = 699
-| max_HP = 1448
+| max_HP = 1447
 | max_ATK = 0
-| max_DEF = 1748
+| max_DEF = 1747
 
 | image = Regenerate HP
 | effect_name = Regenerate Shield 

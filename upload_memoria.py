@@ -83,9 +83,9 @@ def template_format(_id: int, Ename: str, stats=""):
         only_max_level = False
 
     if hp.__class__ == int:
-        hp2 = int(round(hp * 2.5, 0))
-        attack2 = int(round(attack * 2.5, 0))
-        defence2 = int(round(defence * 2.5, 0))
+        hp2 = int(hp * 2.5)
+        attack2 = int(attack * 2.5)
+        defence2 = int(defence * 2.5)
         if hp == 0 and defence == 0 and attack == 0:
             hp = ""
             defence = ""

@@ -12,9 +12,9 @@
 | min_HP = 495
 | min_ATK = 0
 | min_DEF = 455
-| max_HP = 1238
+| max_HP = 1237
 | max_ATK = 0
-| max_DEF = 1138
+| max_DEF = 1137
 
 | image = Redraw Discs
 | effect_name = Disc Shuffle

@@ -12,9 +12,9 @@
 | min_HP = 447
 | min_ATK = 0
 | min_DEF = 367
-| max_HP = 1118
+| max_HP = 1117
 | max_ATK = 0
-| max_DEF = 918
+| max_DEF = 917
 
 | image = Damage Up
 | effect_name = Slash Rise 

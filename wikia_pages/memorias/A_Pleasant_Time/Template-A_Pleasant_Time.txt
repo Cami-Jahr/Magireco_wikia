@@ -14,7 +14,7 @@
 | min_DEF = 423
 | max_HP = 1260
 | max_ATK = 0
-| max_DEF = 1058
+| max_DEF = 1057
 
 | image = HP Restore
 | effect_name = Nursing Care 

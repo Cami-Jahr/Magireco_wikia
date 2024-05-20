@@ -12,8 +12,8 @@
 | min_HP = 571
 | min_ATK = 631
 | min_DEF = 0
-| max_HP = 1428
-| max_ATK = 1578
+| max_HP = 1427
+| max_ATK = 1577
 | max_DEF = 0
 
 | image = Regenerate HP

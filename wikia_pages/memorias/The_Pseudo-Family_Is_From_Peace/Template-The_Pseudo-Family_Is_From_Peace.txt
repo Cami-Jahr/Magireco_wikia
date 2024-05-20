@@ -12,8 +12,8 @@
 | min_HP = 687
 | min_ATK = 567
 | min_DEF = 0
-| max_HP = 1718
-| max_ATK = 1418
+| max_HP = 1717
+| max_ATK = 1417
 | max_DEF = 0
 
 | image = Anti-Dazzle
