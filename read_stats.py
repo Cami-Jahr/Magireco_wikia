@@ -439,7 +439,10 @@ def make_magia_doppel_and_connect(dic: dict, cards: list[str]):
         for j in range(1, len(connects) + 1):
             try:
                 word = connects[-j][all_connect_effects[i]]
-                target = word[1].replace("Self / ", "").replace("Self", "").replace("1 Turn", "").strip()
+                if all_connect_effects[i][-1] != "S":
+                    target = word[1].replace("Self / ", "").replace("Self", "").replace("1 Turn", "").strip()
+                else:
+                    target = word[1]
                 if not target:
                     st = word[0]
                 elif word[0].replace("%", "").replace("0", "").strip() == "":

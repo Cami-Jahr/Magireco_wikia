@@ -131,7 +131,7 @@
 | Connect effect 3 = Chance to Chase
 | Connect 3 / 1 = -
 | Connect 3 / 2 = -
-| Connect 3 / 3 = IX / 50%
+| Connect 3 / 3 = Self / 1 Turn / IX / 50%
 
 | Magia name JP = 絶対ロックオン
 | Magia name EN = 
