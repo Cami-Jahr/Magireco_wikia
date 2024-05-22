@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Dream Scars
+| ImageSrc = 
+| Event = 
+
+| Jname = 夢の痕
+| Rarity = 3
+| ID = 2042
+| Illust = 都筑禰己
+| Owner = Shi
+
+| min_HP = 444
+| min_ATK = 524
+| min_DEF = 0
+| max_HP = 1110
+| max_ATK = 1310
+| max_DEF = 0
+
+| image = Accele MP Gain Up
+| effect_name = Clear Spirit 
+| effect_name_JP = クリア・スピリット
+| effect1 = Accele MP Gain Up [III / 15%] & MP Gain Up [III / 10%] & Damage Up [III / 15%]
+| effect2 = Accele MP Gain Up [IV / 17.5%] & MP Gain Up [IV / 12.5%] & Damage Up [IV / 20%]
+| Cooldown = 
+| Cooldown2 = 
+}}

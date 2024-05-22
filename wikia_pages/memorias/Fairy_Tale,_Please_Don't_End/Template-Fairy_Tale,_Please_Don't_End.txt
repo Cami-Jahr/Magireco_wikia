@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = Fairy Tale, Please Don't End
+| ImageSrc = 
+| Event = 
+
+| Jname = 終わらないで、おとぎ話
+| Rarity = 4
+| ID = 1834
+| Illust = -
+| Owner = 
+
+| min_HP = 820
+| min_ATK = 0
+| min_DEF = 980
+| max_HP = 2050
+| max_ATK = 0
+| max_DEF = 2450
+
+| image = Chance to Burn
+| effect_name = Burn Magia 
+| effect_name_JP = バーン・マギア
+| effect1 = Chance to Burn [100%] (Target / 1 Turn) & Magia Damage Up [VI / 17.5%] (Self / 1 Turn)
+| effect2 = Chance to Burn [100%] (Target / 1 Turn) & Magia Damage Up [VII / 20%] (Self / 1 Turn)
+| Cooldown = 6
+| Cooldown2 = 5
+}}

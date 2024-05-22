@@ -15347,24 +15347,16 @@
         "targetId": "SELF",
         "growPoint": 0
       },
-      "eventId": 1058,
-      "eventArtId1": 1058003,
+      "eventId": 1216,
+      "eventArtId1": 1216003,
       "eventArt1": {
-        "artId": 1058003,
+        "artId": 1216003,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
-        "effectValue": 3000,
-        "genericValue": "EVENT_BRANCH_1058_PART_1"
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1216_KEY"
       },
-      "eventDescription": "＆貝殻(赤)入手時＋3＆貝殻(青)入手時+3",
-      "eventArtId2": 1058007,
-      "eventArt2": {
-        "genericValue": "EVENT_BRANCH_1058_PART_2",
-        "effectValue": 3000,
-        "effectCode": "DROPADD",
-        "verbCode": "OTHER",
-        "artId": 1058007
-      },
+      "eventDescription": "＆「記憶の頁」追加獲得数＋5",
       "skillEffectRange": "ALL",
       "skillDisplayType": "MEMORIA"
     },
@@ -15385,24 +15377,16 @@
         "targetId": "SELF",
         "growPoint": 0
       },
-      "eventId": 1058,
-      "eventArtId1": 1058004,
+      "eventId": 1216,
+      "eventArtId1": 1216004,
       "eventArt1": {
-        "artId": 1058004,
+        "artId": 1216004,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
-        "effectValue": 7000,
-        "genericValue": "EVENT_BRANCH_1058_PART_1"
+        "effectValue": 15000,
+        "genericValue": "EVENT_DAILYTOWER_1216_KEY"
       },
-      "eventDescription": "＆貝殻(赤)入手時＋7＆貝殻(青)入手時+7",
-      "eventArtId2": 1058008,
-      "eventArt2": {
-        "genericValue": "EVENT_BRANCH_1058_PART_2",
-        "effectValue": 7000,
-        "effectCode": "DROPADD",
-        "verbCode": "OTHER",
-        "artId": 1058008
-      },
+      "eventDescription": "＆「記憶の頁」追加獲得数＋15",
       "skillEffectRange": "ALL",
       "skillDisplayType": "MEMORIA"
     },
@@ -15410,7 +15394,7 @@
     "illustrator": "―",
     "openDate": "2018/07/20 15:10:00",
     "pieceKind": "EVENT",
-    "__update__": "2023-06-09T07:08:34.423Z"
+    "__update__": "2024-05-22T07:22:45.443Z"
   },
   "1235": {
     "pieceId": 1235,
@@ -15597,16 +15581,16 @@
         "effectValue": 250,
         "growPoint": 0
       },
-      "eventId": 1030,
-      "eventArtId1": 1030003,
+      "eventId": 1216,
+      "eventArtId1": 1216001,
       "eventArt1": {
-        "artId": 1030003,
+        "artId": 1216001,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 1000,
-        "genericValue": "EVENT_DAILYTOWER_1030_KEY"
+        "genericValue": "EVENT_DAILYTOWER_1216_KEY"
       },
-      "eventDescription": "＆「記憶の頁」入手時＋1",
+      "eventDescription": "＆「記憶の頁」追加獲得数＋1",
       "skillEffectRange": "ALL",
       "skillDisplayType": "MEMORIA"
     },
@@ -15636,16 +15620,16 @@
         "effectValue": 250,
         "growPoint": 0
       },
-      "eventId": 1030,
-      "eventArtId1": 1030004,
+      "eventId": 1216,
+      "eventArtId1": 1216002,
       "eventArt1": {
-        "artId": 1030004,
+        "artId": 1216002,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
-        "effectValue": 3000,
-        "genericValue": "EVENT_DAILYTOWER_1030_KEY"
+        "effectValue": 5000,
+        "genericValue": "EVENT_DAILYTOWER_1216_KEY"
       },
-      "eventDescription": "＆「記憶の頁」入手時＋3",
+      "eventDescription": "＆「記憶の頁」追加獲得数＋5",
       "skillEffectRange": "ALL",
       "skillDisplayType": "MEMORIA"
     },
@@ -15653,7 +15637,7 @@
     "illustrator": "―",
     "openDate": "2018/07/20 15:10:00",
     "pieceKind": "EVENT",
-    "__update__": "2023-06-09T07:08:34.424Z"
+    "__update__": "2024-05-22T07:22:45.442Z"
   },
   "1238": {
     "pieceId": 1238,
@@ -51286,7 +51270,7 @@
   "1670": {
     "pieceId": 1670,
     "rank": "RANK_3",
-    "__update__": "2021-09-14T00:52:35.985Z",
+    "__update__": "2024-05-15T11:16:35.977Z",
     "pieceName": "今日だけ夜更かし",
     "pieceType": "ABILITY",
     "attributeId": "ALL",
@@ -51320,7 +51304,8 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "skillId2": 167001,
     "pieceSkill2": {
@@ -51358,7 +51343,8 @@
         "growPoint": 0,
         "probability": 100
       },
-      "skillEffectRange": "ALL"
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
     },
     "description": "「布団の上でお菓子食べるなんてお行儀悪くない？」＠「固いこと言うなよ、今日くらいいいだろ？なぁ、マミ」＠「ふふっ、そうね…パジャマパーティーだし特別に」＠「マミさんまで…じゃあ、それならあたしももらうかな」",
     "illustrator": "シャフト",
@@ -83924,7 +83910,96 @@
   "2040": {
     "pieceId": 2040,
     "rank": "RANK_4",
-    "__update__": "2024-05-10T07:06:40.912Z"
+    "__update__": "2024-05-15T12:20:31.547Z",
+    "pieceName": "星屑の小さな願い",
+    "pieceType": "ABILITY",
+    "attributeId": "ALL",
+    "attack": 900,
+    "defense": 0,
+    "hp": 740,
+    "skillId": 204000,
+    "pieceSkill": {
+      "id": 204000,
+      "groupId": 1085,
+      "name": "グロー・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅲ] & 防御力UP[Ⅱ] & 状態異常耐性UP[Ⅱ]",
+      "artId1": 390201103,
+      "art1": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201202,
+      "art2": {
+        "artId": 390201202,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201502,
+      "art3": {
+        "artId": 390201502,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 204001,
+    "pieceSkill2": {
+      "id": 204001,
+      "groupId": 1085,
+      "name": "グロー・アデプト[Ⅲ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃力UP[Ⅲ] & 防御力UP[Ⅱ] & 状態異常耐性UP[Ⅱ]",
+      "artId1": 390201103,
+      "art1": {
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201202,
+      "art2": {
+        "artId": 390201202,
+        "verbCode": "BUFF",
+        "effectCode": "DEFENSE",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 390201502,
+      "art3": {
+        "artId": 390201502,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "手も、声も、もう届かないと思っていた＠憧れ、理想、希望…どんな言葉でも言い表せない彼方の星＠無理だとわかっていても、願わずにはいられない＠このまま消えないで。どうか私を導いて",
+    "illustrator": "―",
+    "openDate": "2024/05/10 15:10:00"
   },
   "2041": {
     "pieceId": 2041,
@@ -84294,5 +84369,61 @@
     "description": "ふたりは奇妙な縁で結ばれて以来、知らずと“歯車”となっていた＠命を貪り食らう残酷な仕組みの中に取り込まれて＠ひとりは運命にあらがえず、ひとりは運命にあらがわず＠ただただ、回り続けていた",
     "illustrator": "―",
     "openDate": "2024/05/10 15:10:00"
+  },
+  "2045": {
+    "pieceId": 2045,
+    "rank": "RANK_4",
+    "__update__": "2024-05-22T07:22:45.443Z",
+    "pieceType": "SKILL",
+    "pieceName": "真夏の夕陽に照らされ",
+    "attributeId": "ALL",
+    "attack": 0,
+    "defense": 900,
+    "hp": 740,
+    "skillId": 204500,
+    "pieceSkill": {
+      "id": 204500,
+      "groupId": 1169,
+      "name": "ディスクシャッフル",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "再度Discを引く",
+      "messageId": 70,
+      "artId1": 700212100,
+      "art1": {
+        "artId": 700212100,
+        "verbCode": "DRAW",
+        "effectCode": "AGAIN",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 204501,
+    "pieceSkill2": {
+      "id": 204501,
+      "groupId": 1169,
+      "name": "ディスクシャッフル",
+      "type": "SKILL",
+      "intervalTurn": 10,
+      "shortDescription": "再度Discを引く",
+      "messageId": 70,
+      "artId1": 700212100,
+      "art1": {
+        "artId": 700212100,
+        "verbCode": "DRAW",
+        "effectCode": "AGAIN",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "海を紅く染め上げた岬の夕焼けと、彩るように漂う夜香花の匂い＠ここはまるで夢の中……それとも、本当に夢の中？＠ただ、この胸のざわめきだけは変わらないだろう＠醒めていても、醒めていなくても",
+    "illustrator": "―",
+    "openDate": "2024/05/22 15:10:00"
   }
 }

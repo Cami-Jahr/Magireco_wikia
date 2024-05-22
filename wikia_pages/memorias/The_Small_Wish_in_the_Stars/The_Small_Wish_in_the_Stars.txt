@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 手も、声も、もう届かないと思っていた<br />憧れ、理想、希望…どんな言葉でも言い表せない彼方の星<br />無理だとわかっていても、願わずにはいられない<br />このまま消えないで。どうか私を導いて
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

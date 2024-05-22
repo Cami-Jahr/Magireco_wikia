@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Small Wish in the Stars
+| ImageSrc = 
+| Event = 
+
+| Jname = 星屑の小さな願い
+| Rarity = 4
+| ID = 2040
+| Illust = -
+| Owner = 
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 1850
+| max_ATK = 2250
+| max_DEF = 0
+
+| image = Attack Up
+| effect_name = Glow Adept 
+| effect_name_JP = グロー・アデプト
+| effect1 = 
+| effect2 = Attack Up [III / 15%] & Defense Up [II / 15%] & Status Ailment Resistance Up [II / 25%]
+| Cooldown = 
+| Cooldown2 = 
+}}

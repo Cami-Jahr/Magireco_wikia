@@ -1029,5 +1029,6 @@
 2042;Dream Scars
 2043;A Secret Baptism
 2044;Two People in the Corner of the World
+2045;Illuminated by the Midsummer Sunset
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 海を紅く染め上げた岬の夕焼けと、彩るように漂う夜香花の匂い<br />ここはまるで夢の中……それとも、本当に夢の中？<br />ただ、この胸のざわめきだけは変わらないだろう<br />醒めていても、醒めていなくても
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->
