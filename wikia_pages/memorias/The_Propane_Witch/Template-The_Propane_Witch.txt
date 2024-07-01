@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Propane Witch
+| ImageSrc = 
+| Event = 
+
+| Jname = プロパンの魔女
+| Rarity = 4
+| ID = 2050
+| Illust = 原案・監修：劇団イヌカレー（泥犬）
+| Owner = Kurumi Manaka
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2300
+| max_ATK = 0
+| max_DEF = 2300
+
+| image = Flame Attribute Attack Up
+| effect_name = Amuse Bouche 
+| effect_name_JP = アミューズ・ブーシュ
+| effect1 = 
+| effect2 = Flame Attribute Attack Up [V / 15%] (Allies / 3 Turns) & HP Restore [V / 20%] (Allies) & MP Restore [V / 30 MP] (Self) & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| Cooldown = 
+| Cooldown2 = 7
+}}

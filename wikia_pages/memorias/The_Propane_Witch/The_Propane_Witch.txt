@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 料理好きの少女は　実家を憂い　繁盛のため　一世一代の機会を願う<br />評判に反し　閑古鳥が店で鳴く　目的と意義を失った　料理人は空虚<br />自慢の腕で　馳走するも　強火すぎる想いに　誰もが融解される<br />在りし日の憧憬を　越えた時こそ　真に価値が出る　極上の一皿
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

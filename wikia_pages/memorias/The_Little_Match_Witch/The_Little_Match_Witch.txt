@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 天才ゆえに孤独な少女は　現状を憂い　遠き宇宙に想いを馳せる<br />会心の一手は無慈悲　悲惨な記憶の始まり　光を失った無間地獄<br />愛する者へ　餌を集めるも無意味　揺れる願いの灯火は　儚く消える<br />持ちうる知を　周囲に分け与える　苦心こそが　友好を築く一択
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 己の美を求める少女は　生死の境に酔い痴れて　主題なき劇物を産む<br />周囲を狂わせ　理解されない塵芥　それでも願うは　籠居する工房<br />傲慢さで身を包み　人の目を遮るも　逸脱した芸術は　悪夢と化す<br />心震える美を　落とし込み　発信すれば　一流の名画と　誰もが頷く
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Deathwatch Beetle Witch
+| ImageSrc = 
+| Event = 
+
+| Jname = 死番虫の魔女
+| Rarity = 4
+| ID = 2049
+| Illust = 原案・監修：劇団イヌカレー（泥犬）
+| Owner = Hiiragi Nemu
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2300
+| max_ATK = 0
+| max_DEF = 2300
+
+| image = Accele MP Gain Up
+| effect_name = Mana Creation 
+| effect_name_JP = マナ・クリエイション
+| effect1 = 
+| effect2 = Accele MP Gain Up [V / 20%] & MP Gain Up [V / 15%] & Anti-Magia Seal & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| Cooldown = 
+| Cooldown2 = 
+}}

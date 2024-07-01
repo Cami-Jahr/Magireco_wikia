@@ -14395,18 +14395,19 @@
         "probability": 1000
       },
       "skillEffectRange": "ALL",
-      "regularEventId": 2016,
-      "regularEventArtId1": 691211203,
+      "regularEventId": 2038,
+      "regularEventArtId1": 390201704,
       "regularEventArt1": {
-        "artId": 691211203,
-        "verbCode": "ENCHANT",
-        "effectCode": "BAN_SKILL",
+        "artId": 390201704,
+        "verbCode": "BUFF",
+        "effectCode": "CHARGE",
         "targetId": "SELF",
         "enableTurn": 1,
-        "growPoint": 0,
-        "probability": 200
+        "growPoint": 25,
+        "probability": 1000,
+        "effectValue": 125
       },
-      "regularEventDescription": "【殲滅戦時追加で攻撃時に確率でスキル不可(1T)を付与[Ⅲ]】",
+      "regularEventDescription": "【殲滅戦時追加でCharge後ダメージUP[Ⅳ]】",
       "skillDisplayType": "MEMORIA"
     },
     "skillId2": 122101,
@@ -14436,24 +14437,25 @@
         "probability": 1000
       },
       "skillEffectRange": "ALL",
-      "regularEventId": 2016,
-      "regularEventArtId1": 691211206,
+      "regularEventId": 2038,
+      "regularEventArtId1": 390201707,
       "regularEventArt1": {
-        "artId": 691211206,
-        "verbCode": "ENCHANT",
-        "effectCode": "BAN_SKILL",
+        "artId": 390201707,
+        "verbCode": "BUFF",
+        "effectCode": "CHARGE",
         "targetId": "SELF",
         "enableTurn": 1,
-        "growPoint": 0,
-        "probability": 350
+        "growPoint": 25,
+        "probability": 1000,
+        "effectValue": 200
       },
-      "regularEventDescription": "【殲滅戦時追加で攻撃時に確率でスキル不可(1T)を付与[Ⅵ]】",
+      "regularEventDescription": "【殲滅戦時追加でCharge後ダメージUP[Ⅶ]】",
       "skillDisplayType": "MEMORIA"
     },
     "description": "「諦めていた普通の女の子として生きる夢＠だけど一瞬でも見てしまった、普通の女性として生きたい未来＠それだけで崩れてしまった、積み重ねた覚悟は、容易く崩れてしまった＠脆いワタシが重ねた罪は、どうやって購うべきでしょうか…」",
     "illustrator": "谷口淳一郎",
     "openDate": "2018/06/08 15:10:00",
-    "__update__": "2023-06-09T07:06:19.529Z"
+    "__update__": "2024-06-24T10:35:11.176Z"
   },
   "1222": {
     "pieceId": 1222,
@@ -22496,7 +22498,7 @@
   "1330": {
     "pieceId": 1330,
     "rank": "RANK_4",
-    "__update__": "2023-06-09T07:06:19.489Z",
+    "__update__": "2024-06-24T10:14:30.209Z",
     "pieceName": "お節介なタイミング",
     "illustrator": "谷口淳一郎",
     "description": "「少し遅くて言うのを逃したり、間に合わなくて守れなかったり＠タイミングの悪さが招いた失敗は、思い出せばいくらでもある＠それでも性分に反するから、お節介だけはやめないよ＠見て見ない振りはできないし、どうにか力になりたいからさ」",
@@ -22527,18 +22529,18 @@
       "shortDescription": "確率でダメージカット無視[Ⅶ] & Charge後ダメージUP[Ⅴ]",
       "id": 133001,
       "skillEffectRange": "ALL",
-      "regularEventId": 2020,
-      "regularEventArtId1": 690207705,
+      "regularEventId": 2038,
+      "regularEventArtId1": 390201103,
       "regularEventArt1": {
-        "artId": 690207705,
-        "verbCode": "CONDITION_GOOD",
-        "effectCode": "AUTO_HEAL",
+        "artId": 390201103,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
         "targetId": "SELF",
-        "effectValue": 60,
-        "growPoint": 10,
+        "effectValue": 150,
+        "growPoint": 25,
         "probability": 1000
       },
-      "regularEventDescription": "【殲滅戦時追加でHP自動回復[Ⅴ]】",
+      "regularEventDescription": "【殲滅戦時追加で攻撃力UP[Ⅲ]】",
       "skillDisplayType": "MEMORIA"
     },
     "pieceSkill": {
@@ -22567,18 +22569,18 @@
       "shortDescription": "確率でダメージカット無視[Ⅴ] & Charge後ダメージUP[Ⅳ]",
       "id": 133000,
       "skillEffectRange": "ALL",
-      "regularEventId": 2020,
-      "regularEventArtId1": 690207702,
+      "regularEventId": 2038,
+      "regularEventArtId1": 390201102,
       "regularEventArt1": {
-        "artId": 690207702,
-        "verbCode": "CONDITION_GOOD",
-        "effectCode": "AUTO_HEAL",
+        "artId": 390201102,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK",
         "targetId": "SELF",
-        "effectValue": 30,
-        "growPoint": 10,
+        "effectValue": 100,
+        "growPoint": 25,
         "probability": 1000
       },
-      "regularEventDescription": "【殲滅戦時追加でHP自動回復[Ⅱ]】",
+      "regularEventDescription": "【殲滅戦時追加で攻撃力UP[Ⅱ]】",
       "skillDisplayType": "MEMORIA"
     },
     "skillId2": 133001,
@@ -22592,7 +22594,7 @@
   "1331": {
     "pieceId": 1331,
     "rank": "RANK_4",
-    "__update__": "2023-06-09T07:06:19.471Z",
+    "__update__": "2024-06-24T10:14:30.233Z",
     "pieceType": "SKILL",
     "pieceName": "大嫌いな人が好きな人",
     "attributeId": "ALL",
@@ -22630,19 +22632,19 @@
         "probability": 250
       },
       "skillEffectRange": "ALL",
-      "regularEventId": 2020,
-      "regularEventArtId1": 530005400,
+      "regularEventId": 2038,
+      "regularEventArtId1": 310201809,
       "regularEventArt1": {
-        "artId": 530005400,
-        "verbCode": "CONDITION_BAD",
-        "effectCode": "DARKNESS",
-        "targetId": "TARGET",
-        "effectValue": 350,
-        "enableTurn": 3,
-        "growPoint": 0,
+        "artId": 310201809,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 550,
+        "enableTurn": 1,
+        "growPoint": 25,
         "probability": 1000
       },
-      "regularEventDescription": "【殲滅戦時追加で必ず暗闇(敵単/3T)】",
+      "regularEventDescription": "【殲滅戦時追加でBlast ダメージUP[Ⅸ](自/1T)】",
       "skillDisplayType": "MEMORIA"
     },
     "skillId2": 133101,
@@ -22676,19 +22678,19 @@
         "probability": 300
       },
       "skillEffectRange": "ALL",
-      "regularEventId": 2020,
-      "regularEventArtId1": 530005600,
+      "regularEventId": 2038,
+      "regularEventArtId1": 310201810,
       "regularEventArt1": {
-        "artId": 530005600,
-        "verbCode": "CONDITION_BAD",
-        "effectCode": "BLINDNESS",
-        "targetId": "TARGET",
-        "effectValue": 500,
-        "enableTurn": 3,
-        "growPoint": 0,
+        "artId": 310201810,
+        "verbCode": "BUFF",
+        "effectCode": "BLAST",
+        "targetId": "SELF",
+        "effectValue": 600,
+        "enableTurn": 1,
+        "growPoint": 25,
         "probability": 1000
       },
-      "regularEventDescription": "【殲滅戦時追加で必ず幻惑(敵単/3T)】",
+      "regularEventDescription": "【殲滅戦時追加でBlast ダメージUP[Ⅹ](自/1T)】",
       "skillDisplayType": "MEMORIA"
     },
     "description": "「ちょっとしたことで怒ったり、ワガママ言ったり、泣いたり＠素直じゃなくて、周りを疑ってる自分が、すっごく嫌い＠だけど、それでも好きだって言ってくれる人も側にいるから＠その人たちを悲しませたくないし、悲しませる人は許さない」",
@@ -22698,7 +22700,7 @@
   "1332": {
     "pieceId": 1332,
     "rank": "RANK_4",
-    "__update__": "2023-06-09T07:08:34.436Z",
+    "__update__": "2024-06-24T10:14:30.181Z",
     "pieceName": "自然から力をもらって",
     "illustrator": "谷口淳一郎",
     "description": "「小さなころから敷地内にある色とりどりの自然に囲まれて＠きれいな花も、かわいい動物も、美味しい野菜に果物も守ってきた＠今も前も変わらずに、自然は掛け替えのない大切な友だち＠だからみんなを守るためにくれたと思う。ガーデニングをする力を」",
@@ -22732,19 +22734,20 @@
       "id": 133201,
       "intervalTurn": 7,
       "skillEffectRange": "ALL",
-      "regularEventId": 2020,
-      "regularEventArtId1": 630320800,
+      "regularEventId": 2038,
+      "regularEventArtId1": 610206305,
       "regularEventArt1": {
-        "artId": 630320800,
-        "verbCode": "IGNORE",
-        "effectCode": "CONDITION_BAD",
-        "targetId": "ALL",
-        "enableTurn": 3,
+        "artId": 610206305,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "CRITICAL",
+        "targetId": "SELF",
+        "enableTurn": 1,
         "growPoint": 0,
-        "probability": 1000,
-        "genericValue": "NONE"
+        "probability": 300,
+        "genericValue": "NONE",
+        "effectValue": 2000
       },
-      "regularEventDescription": "【殲滅戦時追加で状態異常を1回無効(味全/3T)】",
+      "regularEventDescription": "【殲滅戦時追加で確率でクリティカル[Ⅴ](自/1T)】",
       "skillDisplayType": "MEMORIA"
     },
     "pieceSkill": {
@@ -22776,19 +22779,20 @@
       "id": 133200,
       "intervalTurn": 8,
       "skillEffectRange": "ALL",
-      "regularEventId": 2020,
-      "regularEventArtId1": 630220800,
+      "regularEventId": 2038,
+      "regularEventArtId1": 610206304,
       "regularEventArt1": {
-        "artId": 630220800,
-        "verbCode": "IGNORE",
-        "effectCode": "CONDITION_BAD",
+        "artId": 610206304,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "CRITICAL",
         "targetId": "SELF",
-        "enableTurn": 3,
+        "enableTurn": 1,
         "growPoint": 0,
-        "probability": 1000,
-        "genericValue": "NONE"
+        "probability": 250,
+        "genericValue": "NONE",
+        "effectValue": 2000
       },
-      "regularEventDescription": "【殲滅戦時追加で状態異常を1回無効(自/3T)】",
+      "regularEventDescription": "【殲滅戦時追加で確率でクリティカル[Ⅳ](自/1T)】",
       "skillDisplayType": "MEMORIA"
     },
     "skillId2": 133201,
@@ -23312,7 +23316,7 @@
   "1339": {
     "pieceId": 1339,
     "rank": "RANK_4",
-    "__update__": "2023-06-09T07:06:19.503Z",
+    "__update__": "2024-06-24T10:14:30.215Z",
     "pieceName": "願いで満ちた世界だから",
     "illustrator": "谷口淳一郎",
     "description": "「自由になる喜びは知っているけど、これは大地に立っただけ＠次は、みんなと一緒に羽を広げて、大空に向かって羽ばたきたい＠まだ誰も知らない次への架け橋になって＠憎まず、嫉まず、恨まず、健やかな気持ちで笑顔であれるように」",
@@ -23354,18 +23358,18 @@
       "shortDescription": "Accele MPUP[Ⅳ] & 状態異常耐性UP[Ⅲ]",
       "id": 133901,
       "skillEffectRange": "ALL",
-      "regularEventId": 2016,
-      "regularEventArtId1": 390201502,
+      "regularEventId": 2038,
+      "regularEventArtId1": 690216507,
       "regularEventArt1": {
-        "artId": 390201502,
-        "verbCode": "BUFF",
-        "effectCode": "RESIST",
+        "artId": 690216507,
+        "verbCode": "IGNORE",
+        "effectCode": "DAMAGE_DOWN",
         "targetId": "SELF",
         "effectValue": 250,
-        "growPoint": 25,
-        "probability": 1000
+        "growPoint": 0,
+        "probability": 600
       },
-      "regularEventDescription": "【殲滅戦時追加で状態異常耐性UP[Ⅱ]】",
+      "regularEventDescription": "【殲滅戦時追加で確率でダメージカット無視[Ⅶ]】",
       "skillDisplayType": "MEMORIA"
     },
     "pieceSkill": {
@@ -23405,18 +23409,18 @@
       "shortDescription": "Accele MPUP[Ⅲ] & 状態異常耐性UP[Ⅱ]",
       "id": 133900,
       "skillEffectRange": "ALL",
-      "regularEventId": 2016,
-      "regularEventArtId1": 390201501,
+      "regularEventId": 2038,
+      "regularEventArtId1": 690216505,
       "regularEventArt1": {
-        "artId": 390201501,
-        "verbCode": "BUFF",
-        "effectCode": "RESIST",
+        "artId": 690216505,
+        "verbCode": "IGNORE",
+        "effectCode": "DAMAGE_DOWN",
         "targetId": "SELF",
         "effectValue": 200,
-        "growPoint": 25,
-        "probability": 1000
+        "growPoint": 0,
+        "probability": 500
       },
-      "regularEventDescription": "【殲滅戦時追加で状態異常耐性UP[Ⅰ]】",
+      "regularEventDescription": "【殲滅戦時追加で確率でダメージカット無視[Ⅴ]】",
       "skillDisplayType": "MEMORIA"
     },
     "pieceKind": "EVENT",
@@ -73262,7 +73266,7 @@
   "1928": {
     "pieceId": 1928,
     "rank": "RANK_4",
-    "__update__": "2023-08-04T07:12:31.317Z",
+    "__update__": "2024-06-12T12:41:58.736Z",
     "pieceType": "ABILITY",
     "pieceKind": "EVENT",
     "pieceName": "見られてはならない姿",
@@ -73309,14 +73313,14 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "eventId": 1197,
-      "eventArtId1": 1197003,
+      "eventId": 1218,
+      "eventArtId1": 1218003,
       "eventArt1": {
-        "artId": 1197003,
+        "artId": 1218003,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 5000,
-        "genericValue": "EVENT_DAILYTOWER_1197_EXCHANGE_1"
+        "genericValue": "EVENT_DAILYTOWER_1218_EXCHANGE_1"
       },
       "eventDescription": "＆「古の切なる願い」追加獲得数＋5",
       "skillEffectRange": "ALL",
@@ -73361,14 +73365,14 @@
         "growPoint": 25,
         "probability": 1000
       },
-      "eventId": 1197,
-      "eventArtId1": 1197004,
+      "eventId": 1218,
+      "eventArtId1": 1218004,
       "eventArt1": {
-        "artId": 1197004,
+        "artId": 1218004,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 15000,
-        "genericValue": "EVENT_DAILYTOWER_1197_EXCHANGE_1"
+        "genericValue": "EVENT_DAILYTOWER_1218_EXCHANGE_1"
       },
       "eventDescription": "＆「古の切なる願い」追加獲得数＋15",
       "skillEffectRange": "ALL",
@@ -73531,7 +73535,7 @@
   "1931": {
     "pieceId": 1931,
     "rank": "RANK_3",
-    "__update__": "2023-08-04T07:12:31.315Z",
+    "__update__": "2024-06-12T10:20:19.214Z",
     "pieceType": "SKILL",
     "pieceKind": "EVENT",
     "pieceName": "私と重なる新たな私",
@@ -73569,14 +73573,14 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "eventId": 1197,
-      "eventArtId1": 1197001,
+      "eventId": 1218,
+      "eventArtId1": 1218001,
       "eventArt1": {
-        "artId": 1197001,
+        "artId": 1218001,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 1000,
-        "genericValue": "EVENT_DAILYTOWER_1197_EXCHANGE_1"
+        "genericValue": "EVENT_DAILYTOWER_1218_EXCHANGE_1"
       },
       "eventDescription": "＆「古の切なる願い」追加獲得数＋1",
       "skillEffectRange": "ALL",
@@ -73612,14 +73616,14 @@
         "enableTurn": 1,
         "growPoint": 25
       },
-      "eventId": 1197,
-      "eventArtId1": 1197002,
+      "eventId": 1218,
+      "eventArtId1": 1218002,
       "eventArt1": {
-        "artId": 1197002,
+        "artId": 1218002,
         "verbCode": "OTHER",
         "effectCode": "DROPADD",
         "effectValue": 5000,
-        "genericValue": "EVENT_DAILYTOWER_1197_EXCHANGE_1"
+        "genericValue": "EVENT_DAILYTOWER_1218_EXCHANGE_1"
       },
       "eventDescription": "＆「古の切なる願い」追加獲得数＋5",
       "skillEffectRange": "ALL",
@@ -84425,5 +84429,1213 @@
     "description": "海を紅く染め上げた岬の夕焼けと、彩るように漂う夜香花の匂い＠ここはまるで夢の中……それとも、本当に夢の中？＠ただ、この胸のざわめきだけは変わらないだろう＠醒めていても、醒めていなくても",
     "illustrator": "―",
     "openDate": "2024/05/22 15:10:00"
+  },
+  "2046": {
+    "pieceId": 2046,
+    "rank": "RANK_4",
+    "__update__": "2024-07-01T12:37:46.693Z",
+    "pieceType": "SKILL",
+    "pieceName": "鳥捕りの魔女",
+    "attributeId": "ALL",
+    "charaIds": "1006",
+    "charaList": [
+      {
+        "charaId": 1006,
+        "name": "梓 みふゆ"
+      }
+    ],
+    "attack": 0,
+    "defense": 840,
+    "hp": 1000,
+    "skillId": 204600,
+    "pieceSkill": {
+      "id": 204600,
+      "groupId": 1090,
+      "name": "マナ・ブースト[Ⅸ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "Accele MPUP[Ⅸ] & MP獲得量UP[Ⅳ] & MP自動回復[Ⅸ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201609,
+      "art1": {
+        "artId": 330201609,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201904,
+      "art2": {
+        "artId": 330201904,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId3": 630214809,
+      "art3": {
+        "artId": 630214809,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 10,
+        "probability": 1000,
+        "genericValue": "MP"
+      },
+      "artId4": 1219001,
+      "art4": {
+        "artId": 1219001,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId5": 1219002,
+      "art5": {
+        "artId": 1219002,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId6": 1219003,
+      "art6": {
+        "artId": 1219003,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId7": 1219004,
+      "art7": {
+        "artId": 1219004,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId8": 1219005,
+      "art8": {
+        "artId": 1219005,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "artId9": 1219006,
+      "art9": {
+        "artId": 1219006,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 204601,
+    "pieceSkill2": {
+      "id": 204601,
+      "groupId": 1090,
+      "name": "マナ・ブースト[Ⅸ]",
+      "type": "SKILL",
+      "intervalTurn": 5,
+      "shortDescription": "Accele MPUP[Ⅸ] & MP獲得量UP[Ⅳ] & MP自動回復[Ⅸ](自/3T)",
+      "messageId": 70,
+      "artId1": 330201609,
+      "art1": {
+        "artId": 330201609,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 330201904,
+      "art2": {
+        "artId": 330201904,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 125,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId3": 630214809,
+      "art3": {
+        "artId": 630214809,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 10,
+        "probability": 1000,
+        "genericValue": "MP"
+      },
+      "artId4": 1219001,
+      "art4": {
+        "artId": 1219001,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId5": 1219002,
+      "art5": {
+        "artId": 1219002,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId6": 1219003,
+      "art6": {
+        "artId": 1219003,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId7": 1219004,
+      "art7": {
+        "artId": 1219004,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId8": 1219005,
+      "art8": {
+        "artId": 1219005,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "artId9": 1219006,
+      "art9": {
+        "artId": 1219006,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "束縛された少女は　自由に憧れるも　活路はなく　途方に暮れる＠望み得た力は幻　現実と乖離した夢が　行き着くのは　成れの果て＠手品のように　雁を生み出しては　甘き毒に　依存させる＠理想を胸に　成長を望む心が　日常に立ち戻る　可能性の一端",
+    "illustrator": "原案・監修：劇団イヌカレー（泥犬）",
+    "openDate": "2024/07/01 15:10:00"
+  },
+  "2047": {
+    "pieceId": 2047,
+    "rank": "RANK_4",
+    "__update__": "2024-07-01T12:38:37.465Z",
+    "pieceType": "SKILL",
+    "pieceName": "マッチ売りの魔女",
+    "attributeId": "ALL",
+    "charaIds": "1007",
+    "charaList": [
+      {
+        "charaId": 1007,
+        "name": "里見 灯花"
+      }
+    ],
+    "attack": 0,
+    "defense": 1000,
+    "hp": 840,
+    "skillId": 204700,
+    "pieceSkill": {
+      "id": 204700,
+      "groupId": 1176,
+      "name": "ネオ・マナアブソーブ[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "MPダメージ[Ⅳ](敵全) & MP獲得量UP[Ⅹ](自/1T) & MP回復[XV](自)",
+      "messageId": 72,
+      "artId1": 200316404,
+      "art1": {
+        "artId": 200316404,
+        "verbCode": "HEAL",
+        "effectCode": "MP_DAMAGE",
+        "targetId": "ALL",
+        "effectValue": 300,
+        "growPoint": 0
+      },
+      "artId2": 310201910,
+      "art2": {
+        "artId": 310201910,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 275,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId3": 200200515,
+      "art3": {
+        "artId": 200200515,
+        "verbCode": "HEAL",
+        "effectCode": "MP",
+        "targetId": "SELF",
+        "effectValue": 550,
+        "growPoint": 10
+      },
+      "artId4": 1219001,
+      "art4": {
+        "artId": 1219001,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId5": 1219002,
+      "art5": {
+        "artId": 1219002,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId6": 1219003,
+      "art6": {
+        "artId": 1219003,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId7": 1219004,
+      "art7": {
+        "artId": 1219004,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId8": 1219005,
+      "art8": {
+        "artId": 1219005,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "artId9": 1219006,
+      "art9": {
+        "artId": 1219006,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 204701,
+    "pieceSkill2": {
+      "id": 204701,
+      "groupId": 1176,
+      "name": "ネオ・マナアブソーブ[Ⅳ]",
+      "type": "SKILL",
+      "intervalTurn": 6,
+      "shortDescription": "MPダメージ[Ⅳ](敵全) & MP獲得量UP[Ⅹ](自/1T) & MP回復[XV](自)",
+      "messageId": 72,
+      "artId1": 200316404,
+      "art1": {
+        "artId": 200316404,
+        "verbCode": "HEAL",
+        "effectCode": "MP_DAMAGE",
+        "targetId": "ALL",
+        "effectValue": 300,
+        "growPoint": 0
+      },
+      "artId2": 310201910,
+      "art2": {
+        "artId": 310201910,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 275,
+        "enableTurn": 1,
+        "growPoint": 25
+      },
+      "artId3": 200200515,
+      "art3": {
+        "artId": 200200515,
+        "verbCode": "HEAL",
+        "effectCode": "MP",
+        "targetId": "SELF",
+        "effectValue": 550,
+        "growPoint": 10
+      },
+      "artId4": 1219001,
+      "art4": {
+        "artId": 1219001,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId5": 1219002,
+      "art5": {
+        "artId": 1219002,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId6": 1219003,
+      "art6": {
+        "artId": 1219003,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId7": 1219004,
+      "art7": {
+        "artId": 1219004,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId8": 1219005,
+      "art8": {
+        "artId": 1219005,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "artId9": 1219006,
+      "art9": {
+        "artId": 1219006,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "天才ゆえに孤独な少女は　現状を憂い　遠き宇宙に想いを馳せる＠会心の一手は無慈悲　悲惨な記憶の始まり　光を失った無間地獄＠愛する者へ　餌を集めるも無意味　揺れる願いの灯火は　儚く消える＠持ちうる知を　周囲に分け与える　苦心こそが　友好を築く一択",
+    "illustrator": "原案・監修：劇団イヌカレー（泥犬）",
+    "openDate": "2024/07/01 15:10:00"
+  },
+  "2048": {
+    "pieceId": 2048,
+    "rank": "RANK_4",
+    "__update__": "2024-07-01T12:39:20.818Z",
+    "pieceType": "ABILITY",
+    "pieceName": "チューブの魔女",
+    "attributeId": "ALL",
+    "charaIds": "1008",
+    "charaList": [
+      {
+        "charaId": 1008,
+        "name": "アリナ・グレイ"
+      }
+    ],
+    "attack": 1200,
+    "defense": 0,
+    "hp": 600,
+    "skillId": 204800,
+    "pieceSkill": {
+      "id": 204800,
+      "groupId": 1145,
+      "name": "ヴェノム・スレイヤー[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃時に確率で強化毒(3T)を付与[Ⅴ] & ダメージアップ状態[Ⅴ] & 敵状態異常時ダメージUP[Ⅶ]",
+      "artId1": 8225,
+      "art1": {
+        "artId": 8225,
+        "verbCode": "ENCHANT",
+        "effectCode": "POISON",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 0,
+        "probability": 300
+      },
+      "artId2": 690206105,
+      "art2": {
+        "artId": 690206105,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690214607,
+      "art3": {
+        "artId": 690214607,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP_BAD",
+        "targetId": "SELF",
+        "effectValue": 450,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId4": 1219001,
+      "art4": {
+        "artId": 1219001,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId5": 1219002,
+      "art5": {
+        "artId": 1219002,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId6": 1219003,
+      "art6": {
+        "artId": 1219003,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId7": 1219004,
+      "art7": {
+        "artId": 1219004,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId8": 1219005,
+      "art8": {
+        "artId": 1219005,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "artId9": 1219006,
+      "art9": {
+        "artId": 1219006,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 204801,
+    "pieceSkill2": {
+      "id": 204801,
+      "groupId": 1145,
+      "name": "ヴェノム・スレイヤー[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "攻撃時に確率で強化毒(3T)を付与[Ⅴ] & ダメージアップ状態[Ⅴ] & 敵状態異常時ダメージUP[Ⅶ]",
+      "artId1": 8225,
+      "art1": {
+        "artId": 8225,
+        "verbCode": "ENCHANT",
+        "effectCode": "POISON",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "enableTurn": 3,
+        "growPoint": 0,
+        "probability": 300
+      },
+      "artId2": 690206105,
+      "art2": {
+        "artId": 690206105,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP",
+        "targetId": "SELF",
+        "effectValue": 250,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690214607,
+      "art3": {
+        "artId": 690214607,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "DAMAGE_UP_BAD",
+        "targetId": "SELF",
+        "effectValue": 450,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId4": 1219001,
+      "art4": {
+        "artId": 1219001,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId5": 1219002,
+      "art5": {
+        "artId": 1219002,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId6": 1219003,
+      "art6": {
+        "artId": 1219003,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId7": 1219004,
+      "art7": {
+        "artId": 1219004,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId8": 1219005,
+      "art8": {
+        "artId": 1219005,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "artId9": 1219006,
+      "art9": {
+        "artId": 1219006,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "己の美を求める少女は　生死の境に酔い痴れて　主題なき劇物を産む＠周囲を狂わせ　理解されない塵芥　それでも願うは　籠居する工房＠傲慢さで身を包み　人の目を遮るも　逸脱した芸術は　悪夢と化す＠心震える美を　落とし込み　発信すれば　一流の名画と　誰もが頷く",
+    "illustrator": "原案・監修：劇団イヌカレー（泥犬）",
+    "openDate": "2024/07/01 15:10:00"
+  },
+  "2049": {
+    "pieceId": 2049,
+    "rank": "RANK_4",
+    "__update__": "2024-07-01T12:39:47.992Z",
+    "pieceType": "ABILITY",
+    "pieceName": "死番虫の魔女",
+    "attributeId": "ALL",
+    "charaIds": "1014",
+    "charaList": [
+      {
+        "charaId": 1014,
+        "name": "柊 ねむ"
+      }
+    ],
+    "attack": 0,
+    "defense": 920,
+    "hp": 920,
+    "skillId": 204900,
+    "pieceSkill": {
+      "id": 204900,
+      "groupId": 1090,
+      "name": "マナ・クリエイション[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "Accele MPUP[Ⅴ] & MP獲得量UP[Ⅴ] & マギア不可無効",
+      "artId1": 390201605,
+      "art1": {
+        "artId": 390201605,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201905,
+      "art2": {
+        "artId": 390201905,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690209300,
+      "art3": {
+        "artId": 690209300,
+        "verbCode": "IGNORE",
+        "effectCode": "BAN_MAGIA",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId4": 1219001,
+      "art4": {
+        "artId": 1219001,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId5": 1219002,
+      "art5": {
+        "artId": 1219002,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId6": 1219003,
+      "art6": {
+        "artId": 1219003,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId7": 1219004,
+      "art7": {
+        "artId": 1219004,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId8": 1219005,
+      "art8": {
+        "artId": 1219005,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "artId9": 1219006,
+      "art9": {
+        "artId": 1219006,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 204901,
+    "pieceSkill2": {
+      "id": 204901,
+      "groupId": 1090,
+      "name": "マナ・クリエイション[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "Accele MPUP[Ⅴ] & MP獲得量UP[Ⅴ] & マギア不可無効",
+      "artId1": 390201605,
+      "art1": {
+        "artId": 390201605,
+        "verbCode": "BUFF",
+        "effectCode": "ACCEL",
+        "targetId": "SELF",
+        "effectValue": 200,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId2": 390201905,
+      "art2": {
+        "artId": 390201905,
+        "verbCode": "BUFF",
+        "effectCode": "MP_GAIN",
+        "targetId": "SELF",
+        "effectValue": 150,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690209300,
+      "art3": {
+        "artId": 690209300,
+        "verbCode": "IGNORE",
+        "effectCode": "BAN_MAGIA",
+        "targetId": "SELF",
+        "growPoint": 0,
+        "probability": 1000
+      },
+      "artId4": 1219001,
+      "art4": {
+        "artId": 1219001,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId5": 1219002,
+      "art5": {
+        "artId": 1219002,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId6": 1219003,
+      "art6": {
+        "artId": 1219003,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId7": 1219004,
+      "art7": {
+        "artId": 1219004,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId8": 1219005,
+      "art8": {
+        "artId": 1219005,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "artId9": 1219006,
+      "art9": {
+        "artId": 1219006,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "淡々と物語を紡ぐ少女は　幼き本音を偽り　創造の海を　ひとり泳ぐ＠未来を想うも　未熟な願い　愛する者を切り離した　残酷な結末＠望む幻を見せ　命の火を消す虫は　あらゆる魂を　己の物語に取り込む＠多くは願わない　同士を守ることのみが　一生涯の信条",
+    "illustrator": "原案・監修：劇団イヌカレー（泥犬）",
+    "openDate": "2024/07/01 15:10:00"
+  },
+  "2050": {
+    "pieceId": 2050,
+    "rank": "RANK_4",
+    "__update__": "2024-07-01T12:41:22.752Z",
+    "pieceType": "SKILL",
+    "pieceName": "プロパンの魔女",
+    "attributeId": "ALL",
+    "charaIds": "3009",
+    "charaList": [
+      {
+        "charaId": 3009,
+        "name": "胡桃 まなか"
+      }
+    ],
+    "attack": 0,
+    "defense": 920,
+    "hp": 920,
+    "skillId": 205000,
+    "pieceSkill": {
+      "id": 205000,
+      "groupId": 1233,
+      "name": "アミューズ・ブーシュ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "火属性攻撃力UP[Ⅴ](味全/3T) & HP回復[Ⅴ](味全) & MP回復[Ⅴ](自)",
+      "messageId": 71,
+      "artId1": 330321105,
+      "art1": {
+        "artId": 330321105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "ALL",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 200300405,
+      "art2": {
+        "artId": 200300405,
+        "verbCode": "HEAL",
+        "effectCode": "HP",
+        "targetId": "ALL",
+        "effectValue": 200,
+        "growPoint": 20
+      },
+      "artId3": 200200505,
+      "art3": {
+        "artId": 200200505,
+        "verbCode": "HEAL",
+        "effectCode": "MP",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 10
+      },
+      "artId4": 1219001,
+      "art4": {
+        "artId": 1219001,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId5": 1219002,
+      "art5": {
+        "artId": 1219002,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId6": 1219003,
+      "art6": {
+        "artId": 1219003,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId7": 1219004,
+      "art7": {
+        "artId": 1219004,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId8": 1219005,
+      "art8": {
+        "artId": 1219005,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "artId9": 1219006,
+      "art9": {
+        "artId": 1219006,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 205001,
+    "pieceSkill2": {
+      "id": 205001,
+      "groupId": 1233,
+      "name": "アミューズ・ブーシュ[Ⅴ]",
+      "type": "SKILL",
+      "intervalTurn": 7,
+      "shortDescription": "火属性攻撃力UP[Ⅴ](味全/3T) & HP回復[Ⅴ](味全) & MP回復[Ⅴ](自)",
+      "messageId": 71,
+      "artId1": 330321105,
+      "art1": {
+        "artId": 330321105,
+        "verbCode": "BUFF",
+        "effectCode": "ATTACK_FIRE",
+        "targetId": "ALL",
+        "effectValue": 150,
+        "enableTurn": 3,
+        "growPoint": 25
+      },
+      "artId2": 200300405,
+      "art2": {
+        "artId": 200300405,
+        "verbCode": "HEAL",
+        "effectCode": "HP",
+        "targetId": "ALL",
+        "effectValue": 200,
+        "growPoint": 20
+      },
+      "artId3": 200200505,
+      "art3": {
+        "artId": 200200505,
+        "verbCode": "HEAL",
+        "effectCode": "MP",
+        "targetId": "SELF",
+        "effectValue": 300,
+        "growPoint": 10
+      },
+      "artId4": 1219001,
+      "art4": {
+        "artId": 1219001,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId5": 1219002,
+      "art5": {
+        "artId": 1219002,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId6": 1219003,
+      "art6": {
+        "artId": 1219003,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId7": 1219004,
+      "art7": {
+        "artId": 1219004,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId8": 1219005,
+      "art8": {
+        "artId": 1219005,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "artId9": 1219006,
+      "art9": {
+        "artId": 1219006,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "料理好きの少女は　実家を憂い　繁盛のため　一世一代の機会を願う＠評判に反し　閑古鳥が店で鳴く　目的と意義を失った　料理人は空虚＠自慢の腕で　馳走するも　強火すぎる想いに　誰もが融解される＠在りし日の憧憬を　越えた時こそ　真に価値が出る　極上の一皿",
+    "illustrator": "原案・監修：劇団イヌカレー（泥犬）",
+    "openDate": "2024/07/01 15:10:00"
+  },
+  "2051": {
+    "pieceId": 2051,
+    "rank": "RANK_4",
+    "__update__": "2024-07-01T12:41:47.663Z",
+    "pieceType": "ABILITY",
+    "pieceName": "バキュームクリーナーの魔女",
+    "attributeId": "ALL",
+    "charaIds": "3024",
+    "charaList": [
+      {
+        "charaId": 3024,
+        "name": "若菜 つむぎ"
+      }
+    ],
+    "attack": 0,
+    "defense": 1200,
+    "hp": 640,
+    "skillId": 205100,
+    "pieceSkill": {
+      "id": 205100,
+      "groupId": 1170,
+      "name": "グラトン・ナイト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "確率でかばう[Ⅴ] & 状態異常耐性UP[Ⅴ] & HP自動回復[Ⅴ] & 被ダメージ時MPUP[Ⅴ]",
+      "artId1": 690213205,
+      "art1": {
+        "artId": 690213205,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROTECT",
+        "targetId": "ONE",
+        "growPoint": 0,
+        "probability": 300
+      },
+      "artId2": 390201505,
+      "art2": {
+        "artId": 390201505,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690207705,
+      "art3": {
+        "artId": 690207705,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 60,
+        "growPoint": 10,
+        "probability": 1000
+      },
+      "artId4": 690220505,
+      "art4": {
+        "artId": 690220505,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "MP_PLUS_DAMAGED",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "growPoint": 100,
+        "probability": 1000
+      },
+      "artId5": 1219001,
+      "art5": {
+        "artId": 1219001,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId6": 1219002,
+      "art6": {
+        "artId": 1219002,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId7": 1219003,
+      "art7": {
+        "artId": 1219003,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId8": 1219004,
+      "art8": {
+        "artId": 1219004,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId9": 1219005,
+      "art9": {
+        "artId": 1219005,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "artId10": 1219006,
+      "art10": {
+        "artId": 1219006,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "skillId2": 205101,
+    "pieceSkill2": {
+      "id": 205101,
+      "groupId": 1170,
+      "name": "グラトン・ナイト[Ⅴ]",
+      "type": "ABILITY",
+      "shortDescription": "確率でかばう[Ⅴ] & 状態異常耐性UP[Ⅴ] & HP自動回復[Ⅴ] & 被ダメージ時MPUP[Ⅴ]",
+      "artId1": 690213205,
+      "art1": {
+        "artId": 690213205,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "PROTECT",
+        "targetId": "ONE",
+        "growPoint": 0,
+        "probability": 300
+      },
+      "artId2": 390201505,
+      "art2": {
+        "artId": 390201505,
+        "verbCode": "BUFF",
+        "effectCode": "RESIST",
+        "targetId": "SELF",
+        "effectValue": 400,
+        "growPoint": 25,
+        "probability": 1000
+      },
+      "artId3": 690207705,
+      "art3": {
+        "artId": 690207705,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "AUTO_HEAL",
+        "targetId": "SELF",
+        "effectValue": 60,
+        "growPoint": 10,
+        "probability": 1000
+      },
+      "artId4": 690220505,
+      "art4": {
+        "artId": 690220505,
+        "verbCode": "CONDITION_GOOD",
+        "effectCode": "MP_PLUS_DAMAGED",
+        "targetId": "SELF",
+        "effectValue": 50,
+        "growPoint": 100,
+        "probability": 1000
+      },
+      "artId5": 1219001,
+      "art5": {
+        "artId": 1219001,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId6": 1219002,
+      "art6": {
+        "artId": 1219002,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219301
+      },
+      "artId7": 1219003,
+      "art7": {
+        "artId": 1219003,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId8": 1219004,
+      "art8": {
+        "artId": 1219004,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219302
+      },
+      "artId9": 1219005,
+      "art9": {
+        "artId": 1219005,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_ATK",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "artId10": 1219006,
+      "art10": {
+        "artId": 1219006,
+        "verbCode": "OTHER",
+        "effectCode": "QUESTBATTLE_DEF",
+        "effectValue": 30000,
+        "parameter": 5219303
+      },
+      "skillEffectRange": "ALL",
+      "skillDisplayType": "MEMORIA"
+    },
+    "description": "食欲旺盛な少女は　恵まれた環境で　食事の喜びに　甘んじる＠凡庸を恥じて願うも　悟る役割は評論　ただ食すしかない己＠執心しても　風味は一瞬　満たされぬ胃袋は　料理を求め彷徨う＠味わいも　試行錯誤も　記録し続けることが　千載一遇の好機",
+    "illustrator": "原案・監修：劇団イヌカレー（泥犬）",
+    "openDate": "2024/07/01 15:10:00"
   }
 }

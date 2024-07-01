@@ -1030,5 +1030,11 @@
 2043;A Secret Baptism
 2044;Two People in the Corner of the World
 2045;Illuminated by the Midsummer Sunset
+2046;The Bird Catching Witch
+2047;The Little Match Witch
+2048;The Tube Witch
+2049;The Deathwatch Beetle Witch
+2050;The Propane Witch
+2051;The Vacuum Cleaner Witch
 9001;My Victory Pose Is Kawaii Too
 9002;Kawaii Collection

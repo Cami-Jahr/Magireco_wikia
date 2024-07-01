@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 淡々と物語を紡ぐ少女は　幼き本音を偽り　創造の海を　ひとり泳ぐ<br />未来を想うも　未熟な願い　愛する者を切り離した　残酷な結末<br />望む幻を見せ　命の火を消す虫は　あらゆる魂を　己の物語に取り込む<br />多くは願わない　同士を守ることのみが　一生涯の信条
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 束縛された少女は　自由に憧れるも　活路はなく　途方に暮れる<br />望み得た力は幻　現実と乖離した夢が　行き着くのは　成れの果て<br />手品のように　雁を生み出しては　甘き毒に　依存させる<br />理想を胸に　成長を望む心が　日常に立ち戻る　可能性の一端
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

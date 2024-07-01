@@ -521,7 +521,14 @@ jp_to_en = {
     "ディフィーザンス": "Defeasance",
     "リミット": "Limit",
     "コンヴィクション": "Conviction",
-    "ルーセント": "Lucent"
+    "ルーセント": "Lucent",
+    "クリエイション": "Creation",
+    "ネオ ": "Neo",
+    "スレイヤー": "Slayer",
+    "アミューズ": "Amuse",
+    "ブーシュ": "Bouche",
+    "グラトン": "Glutton",
+    "ナイト": "Knight"
 }
 
 # Subset of good effects that might be chance to happen

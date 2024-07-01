@@ -1,0 +1,8 @@
+﻿{{ {{PAGENAME}} |Stats}}
+
+{{MemoriaLore
+| jp = 食欲旺盛な少女は　恵まれた環境で　食事の喜びに　甘んじる<br />凡庸を恥じて願うも　悟る役割は評論　ただ食すしかない己<br />執心しても　風味は一瞬　満たされぬ胃袋は　料理を求め彷徨う<br />味わいも　試行錯誤も　記録し続けることが　千載一遇の好機
+| en = 
+}}
+{{MemoriaTrivia|}}
+</div> <!-- MUST NOT BE REMOVED, start of div is in template called by {{ {{PAGENAME}} |Stats}} -->

@@ -1,0 +1,26 @@
+﻿{{Memoria/{{{1|Stats}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}
+| name = The Little Match Witch
+| ImageSrc = 
+| Event = 
+
+| Jname = マッチ売りの魔女
+| Rarity = 4
+| ID = 2047
+| Illust = 原案・監修：劇団イヌカレー（泥犬）
+| Owner = Satomi Touka
+
+| min_HP = 
+| min_ATK = 
+| min_DEF = 
+| max_HP = 2100
+| max_ATK = 0
+| max_DEF = 2500
+
+| image = MP Damage
+| effect_name = NeoMana Absorb 
+| effect_name_JP = ネオ・マナアブソーブ
+| effect1 = 
+| effect2 = MP Damage [IV / 30 MP] (All Enemies) & MP Gain Up [X / 27.5%] (Self / 1 Turn) & MP Restore [XV / 55 MP] (Self) & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased ATK during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%] & ((Increased DEF during some quest)) [3000%]
+| Cooldown = 
+| Cooldown2 = 6
+}}
